@@ -1,0 +1,172 @@
+[
+  {
+    "code": "21637",
+    "name": "Tam Quan",
+    "name_en": "Tam Quan",
+    "full_name": "Phường Tam Quan",
+    "full_name_en": "Tam Quan Ward",
+    "type": "phường",
+    "district_code": "543",
+    "codename": "tam_quan"
+  },
+  {
+    "code": "21640",
+    "name": "Bồng Sơn",
+    "name_en": "Bong Son",
+    "full_name": "Phường Bồng Sơn",
+    "full_name_en": "Bong Son Ward",
+    "type": "phường",
+    "district_code": "543",
+    "codename": "bong_son"
+  },
+  {
+    "code": "21643",
+    "name": "Hoài Sơn",
+    "name_en": "Hoai Son",
+    "full_name": "Xã Hoài Sơn",
+    "full_name_en": "Hoai Son Commune",
+    "type": "xã",
+    "district_code": "543",
+    "codename": "hoai_son"
+  },
+  {
+    "code": "21646",
+    "name": "Hoài Châu Bắc",
+    "name_en": "Hoai Chau Bac",
+    "full_name": "Xã Hoài Châu Bắc",
+    "full_name_en": "Hoai Chau Bac Commune",
+    "type": "xã",
+    "district_code": "543",
+    "codename": "hoai_chau_bac"
+  },
+  {
+    "code": "21649",
+    "name": "Hoài Châu",
+    "name_en": "Hoai Chau",
+    "full_name": "Xã Hoài Châu",
+    "full_name_en": "Hoai Chau Commune",
+    "type": "xã",
+    "district_code": "543",
+    "codename": "hoai_chau"
+  },
+  {
+    "code": "21652",
+    "name": "Hoài Phú",
+    "name_en": "Hoai Phu",
+    "full_name": "Xã Hoài Phú",
+    "full_name_en": "Hoai Phu Commune",
+    "type": "xã",
+    "district_code": "543",
+    "codename": "hoai_phu"
+  },
+  {
+    "code": "21655",
+    "name": "Tam Quan Bắc",
+    "name_en": "Tam Quan Bac",
+    "full_name": "Phường Tam Quan Bắc",
+    "full_name_en": "Tam Quan Bac Ward",
+    "type": "phường",
+    "district_code": "543",
+    "codename": "tam_quan_bac"
+  },
+  {
+    "code": "21658",
+    "name": "Tam Quan Nam",
+    "name_en": "Tam Quan Nam",
+    "full_name": "Phường Tam Quan Nam",
+    "full_name_en": "Tam Quan Nam Ward",
+    "type": "phường",
+    "district_code": "543",
+    "codename": "tam_quan_nam"
+  },
+  {
+    "code": "21661",
+    "name": "Hoài Hảo",
+    "name_en": "Hoai Hao",
+    "full_name": "Phường Hoài Hảo",
+    "full_name_en": "Hoai Hao Ward",
+    "type": "phường",
+    "district_code": "543",
+    "codename": "hoai_hao"
+  },
+  {
+    "code": "21664",
+    "name": "Hoài Thanh Tây",
+    "name_en": "Hoai Thanh Tay",
+    "full_name": "Phường Hoài Thanh Tây",
+    "full_name_en": "Hoai Thanh Tay Ward",
+    "type": "phường",
+    "district_code": "543",
+    "codename": "hoai_thanh_tay"
+  },
+  {
+    "code": "21667",
+    "name": "Hoài Thanh",
+    "name_en": "Hoai Thanh",
+    "full_name": "Phường Hoài Thanh",
+    "full_name_en": "Hoai Thanh Ward",
+    "type": "phường",
+    "district_code": "543",
+    "codename": "hoai_thanh"
+  },
+  {
+    "code": "21670",
+    "name": "Hoài Hương",
+    "name_en": "Hoai Huong",
+    "full_name": "Phường Hoài Hương",
+    "full_name_en": "Hoai Huong Ward",
+    "type": "phường",
+    "district_code": "543",
+    "codename": "hoai_huong"
+  },
+  {
+    "code": "21673",
+    "name": "Hoài Tân",
+    "name_en": "Hoai Tan",
+    "full_name": "Phường Hoài Tân",
+    "full_name_en": "Hoai Tan Ward",
+    "type": "phường",
+    "district_code": "543",
+    "codename": "hoai_tan"
+  },
+  {
+    "code": "21676",
+    "name": "Hoài Hải",
+    "name_en": "Hoai Hai",
+    "full_name": "Xã Hoài Hải",
+    "full_name_en": "Hoai Hai Commune",
+    "type": "xã",
+    "district_code": "543",
+    "codename": "hoai_hai"
+  },
+  {
+    "code": "21679",
+    "name": "Hoài Xuân",
+    "name_en": "Hoai Xuan",
+    "full_name": "Phường Hoài Xuân",
+    "full_name_en": "Hoai Xuan Ward",
+    "type": "phường",
+    "district_code": "543",
+    "codename": "hoai_xuan"
+  },
+  {
+    "code": "21682",
+    "name": "Hoài Mỹ",
+    "name_en": "Hoai My",
+    "full_name": "Xã Hoài Mỹ",
+    "full_name_en": "Hoai My Commune",
+    "type": "xã",
+    "district_code": "543",
+    "codename": "hoai_my"
+  },
+  {
+    "code": "21685",
+    "name": "Hoài Đức",
+    "name_en": "Hoai Duc",
+    "full_name": "Phường Hoài Đức",
+    "full_name_en": "Hoai Duc Ward",
+    "type": "phường",
+    "district_code": "543",
+    "codename": "hoai_duc"
+  }
+]

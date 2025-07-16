@@ -1,0 +1,92 @@
+[
+  {
+    "code": "568",
+    "name": "Nha Trang",
+    "name_en": "Nha Trang",
+    "full_name": "Thành phố Nha Trang",
+    "full_name_en": "Nha Trang City",
+    "type": "thành phố",
+    "province_code": "56",
+    "codename": "nha_trang"
+  },
+  {
+    "code": "569",
+    "name": "Cam Ranh",
+    "name_en": "Cam Ranh",
+    "full_name": "Thành phố Cam Ranh",
+    "full_name_en": "Cam Ranh City",
+    "type": "thành phố",
+    "province_code": "56",
+    "codename": "cam_ranh"
+  },
+  {
+    "code": "570",
+    "name": "Cam Lâm",
+    "name_en": "Cam Lam",
+    "full_name": "Huyện Cam Lâm",
+    "full_name_en": "Cam Lam District",
+    "type": "huyện",
+    "province_code": "56",
+    "codename": "cam_lam"
+  },
+  {
+    "code": "571",
+    "name": "Vạn Ninh",
+    "name_en": "Van Ninh",
+    "full_name": "Huyện Vạn Ninh",
+    "full_name_en": "Van Ninh District",
+    "type": "huyện",
+    "province_code": "56",
+    "codename": "van_ninh"
+  },
+  {
+    "code": "572",
+    "name": "Ninh Hòa",
+    "name_en": "Ninh Hoa",
+    "full_name": "Thị xã Ninh Hòa",
+    "full_name_en": "Ninh Hoa Town",
+    "type": "thị xã",
+    "province_code": "56",
+    "codename": "ninh_hoa"
+  },
+  {
+    "code": "573",
+    "name": "Khánh Vĩnh",
+    "name_en": "Khanh Vinh",
+    "full_name": "Huyện Khánh Vĩnh",
+    "full_name_en": "Khanh Vinh District",
+    "type": "huyện",
+    "province_code": "56",
+    "codename": "khanh_vinh"
+  },
+  {
+    "code": "574",
+    "name": "Diên Khánh",
+    "name_en": "Dien Khanh",
+    "full_name": "Huyện Diên Khánh",
+    "full_name_en": "Dien Khanh District",
+    "type": "huyện",
+    "province_code": "56",
+    "codename": "dien_khanh"
+  },
+  {
+    "code": "575",
+    "name": "Khánh Sơn",
+    "name_en": "Khanh Son",
+    "full_name": "Huyện Khánh Sơn",
+    "full_name_en": "Khanh Son District",
+    "type": "huyện",
+    "province_code": "56",
+    "codename": "khanh_son"
+  },
+  {
+    "code": "576",
+    "name": "Trường Sa",
+    "name_en": "Truong Sa",
+    "full_name": "Huyện Trường Sa",
+    "full_name_en": "Truong Sa District",
+    "type": "huyện",
+    "province_code": "56",
+    "codename": "truong_sa"
+  }
+]

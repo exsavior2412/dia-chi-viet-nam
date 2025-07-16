@@ -1,0 +1,172 @@
+[
+  {
+    "code": "18352",
+    "name": "Xuân An",
+    "name_en": "Xuan An",
+    "full_name": "Thị trấn Xuân An",
+    "full_name_en": "Xuan An Township",
+    "type": "thị trấn",
+    "district_code": "442",
+    "codename": "xuan_an"
+  },
+  {
+    "code": "18355",
+    "name": "Xuân Hội",
+    "name_en": "Xuan Hoi",
+    "full_name": "Xã Xuân Hội",
+    "full_name_en": "Xuan Hoi Commune",
+    "type": "xã",
+    "district_code": "442",
+    "codename": "xuan_hoi"
+  },
+  {
+    "code": "18358",
+    "name": "Đan Trường",
+    "name_en": "Dan Truong",
+    "full_name": "Xã Đan Trường",
+    "full_name_en": "Dan Truong Commune",
+    "type": "xã",
+    "district_code": "442",
+    "codename": "dan_truong"
+  },
+  {
+    "code": "18364",
+    "name": "Xuân Phổ",
+    "name_en": "Xuan Pho",
+    "full_name": "Xã Xuân Phổ",
+    "full_name_en": "Xuan Pho Commune",
+    "type": "xã",
+    "district_code": "442",
+    "codename": "xuan_pho"
+  },
+  {
+    "code": "18367",
+    "name": "Xuân Hải",
+    "name_en": "Xuan Hai",
+    "full_name": "Xã Xuân Hải",
+    "full_name_en": "Xuan Hai Commune",
+    "type": "xã",
+    "district_code": "442",
+    "codename": "xuan_hai"
+  },
+  {
+    "code": "18370",
+    "name": "Xuân Giang",
+    "name_en": "Xuan Giang",
+    "full_name": "Xã Xuân Giang",
+    "full_name_en": "Xuan Giang Commune",
+    "type": "xã",
+    "district_code": "442",
+    "codename": "xuan_giang"
+  },
+  {
+    "code": "18373",
+    "name": "Tiên Điền",
+    "name_en": "Tien Dien",
+    "full_name": "Thị trấn Tiên Điền",
+    "full_name_en": "Tien Dien Township",
+    "type": "thị trấn",
+    "district_code": "442",
+    "codename": "tien_dien"
+  },
+  {
+    "code": "18376",
+    "name": "Xuân Yên",
+    "name_en": "Xuan Yen",
+    "full_name": "Xã Xuân Yên",
+    "full_name_en": "Xuan Yen Commune",
+    "type": "xã",
+    "district_code": "442",
+    "codename": "xuan_yen"
+  },
+  {
+    "code": "18379",
+    "name": "Xuân Mỹ",
+    "name_en": "Xuan My",
+    "full_name": "Xã Xuân Mỹ",
+    "full_name_en": "Xuan My Commune",
+    "type": "xã",
+    "district_code": "442",
+    "codename": "xuan_my"
+  },
+  {
+    "code": "18382",
+    "name": "Xuân Thành",
+    "name_en": "Xuan Thanh",
+    "full_name": "Xã Xuân Thành",
+    "full_name_en": "Xuan Thanh Commune",
+    "type": "xã",
+    "district_code": "442",
+    "codename": "xuan_thanh"
+  },
+  {
+    "code": "18385",
+    "name": "Xuân Viên",
+    "name_en": "Xuan Vien",
+    "full_name": "Xã Xuân Viên",
+    "full_name_en": "Xuan Vien Commune",
+    "type": "xã",
+    "district_code": "442",
+    "codename": "xuan_vien"
+  },
+  {
+    "code": "18388",
+    "name": "Xuân Hồng",
+    "name_en": "Xuan Hong",
+    "full_name": "Xã Xuân Hồng",
+    "full_name_en": "Xuan Hong Commune",
+    "type": "xã",
+    "district_code": "442",
+    "codename": "xuan_hong"
+  },
+  {
+    "code": "18391",
+    "name": "Cỗ Đạm",
+    "name_en": "Co Dam",
+    "full_name": "Xã Cỗ Đạm",
+    "full_name_en": "Co Dam Commune",
+    "type": "xã",
+    "district_code": "442",
+    "codename": "co_dam"
+  },
+  {
+    "code": "18394",
+    "name": "Xuân Liên",
+    "name_en": "Xuan Lien",
+    "full_name": "Xã Xuân Liên",
+    "full_name_en": "Xuan Lien Commune",
+    "type": "xã",
+    "district_code": "442",
+    "codename": "xuan_lien"
+  },
+  {
+    "code": "18397",
+    "name": "Xuân Lĩnh",
+    "name_en": "Xuan Linh",
+    "full_name": "Xã Xuân Lĩnh",
+    "full_name_en": "Xuan Linh Commune",
+    "type": "xã",
+    "district_code": "442",
+    "codename": "xuan_linh"
+  },
+  {
+    "code": "18400",
+    "name": "Xuân Lam",
+    "name_en": "Xuan Lam",
+    "full_name": "Xã Xuân Lam",
+    "full_name_en": "Xuan Lam Commune",
+    "type": "xã",
+    "district_code": "442",
+    "codename": "xuan_lam"
+  },
+  {
+    "code": "18403",
+    "name": "Cương Gián",
+    "name_en": "Cuong Gian",
+    "full_name": "Xã Cương Gián",
+    "full_name_en": "Cuong Gian Commune",
+    "type": "xã",
+    "district_code": "442",
+    "codename": "cuong_gian"
+  }
+]

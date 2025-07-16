@@ -1,0 +1,142 @@
+[
+  {
+    "code": "20854",
+    "name": "Tiên Kỳ",
+    "name_en": "Tien Ky",
+    "full_name": "Thị trấn Tiên Kỳ",
+    "full_name_en": "Tien Ky Township",
+    "type": "thị trấn",
+    "district_code": "514",
+    "codename": "tien_ky"
+  },
+  {
+    "code": "20857",
+    "name": "Tiên Sơn",
+    "name_en": "Tien Son",
+    "full_name": "Xã Tiên Sơn",
+    "full_name_en": "Tien Son Commune",
+    "type": "xã",
+    "district_code": "514",
+    "codename": "tien_son"
+  },
+  {
+    "code": "20860",
+    "name": "Tiên Hà",
+    "name_en": "Tien Ha",
+    "full_name": "Xã Tiên Hà",
+    "full_name_en": "Tien Ha Commune",
+    "type": "xã",
+    "district_code": "514",
+    "codename": "tien_ha"
+  },
+  {
+    "code": "20866",
+    "name": "Tiên Châu",
+    "name_en": "Tien Chau",
+    "full_name": "Xã Tiên Châu",
+    "full_name_en": "Tien Chau Commune",
+    "type": "xã",
+    "district_code": "514",
+    "codename": "tien_chau"
+  },
+  {
+    "code": "20869",
+    "name": "Tiên Lãnh",
+    "name_en": "Tien Lanh",
+    "full_name": "Xã Tiên Lãnh",
+    "full_name_en": "Tien Lanh Commune",
+    "type": "xã",
+    "district_code": "514",
+    "codename": "tien_lanh"
+  },
+  {
+    "code": "20872",
+    "name": "Tiên Ngọc",
+    "name_en": "Tien Ngoc",
+    "full_name": "Xã Tiên Ngọc",
+    "full_name_en": "Tien Ngoc Commune",
+    "type": "xã",
+    "district_code": "514",
+    "codename": "tien_ngoc"
+  },
+  {
+    "code": "20875",
+    "name": "Tiên Hiệp",
+    "name_en": "Tien Hiep",
+    "full_name": "Xã Tiên Hiệp",
+    "full_name_en": "Tien Hiep Commune",
+    "type": "xã",
+    "district_code": "514",
+    "codename": "tien_hiep"
+  },
+  {
+    "code": "20878",
+    "name": "Tiên Cảnh",
+    "name_en": "Tien Canh",
+    "full_name": "Xã Tiên Cảnh",
+    "full_name_en": "Tien Canh Commune",
+    "type": "xã",
+    "district_code": "514",
+    "codename": "tien_canh"
+  },
+  {
+    "code": "20881",
+    "name": "Tiên Mỹ",
+    "name_en": "Tien My",
+    "full_name": "Xã Tiên Mỹ",
+    "full_name_en": "Tien My Commune",
+    "type": "xã",
+    "district_code": "514",
+    "codename": "tien_my"
+  },
+  {
+    "code": "20884",
+    "name": "Tiên Phong",
+    "name_en": "Tien Phong",
+    "full_name": "Xã Tiên Phong",
+    "full_name_en": "Tien Phong Commune",
+    "type": "xã",
+    "district_code": "514",
+    "codename": "tien_phong"
+  },
+  {
+    "code": "20887",
+    "name": "Tiên Thọ",
+    "name_en": "Tien Tho",
+    "full_name": "Xã Tiên Thọ",
+    "full_name_en": "Tien Tho Commune",
+    "type": "xã",
+    "district_code": "514",
+    "codename": "tien_tho"
+  },
+  {
+    "code": "20890",
+    "name": "Tiên An",
+    "name_en": "Tien An",
+    "full_name": "Xã Tiên An",
+    "full_name_en": "Tien An Commune",
+    "type": "xã",
+    "district_code": "514",
+    "codename": "tien_an"
+  },
+  {
+    "code": "20893",
+    "name": "Tiên Lộc",
+    "name_en": "Tien Loc",
+    "full_name": "Xã Tiên Lộc",
+    "full_name_en": "Tien Loc Commune",
+    "type": "xã",
+    "district_code": "514",
+    "codename": "tien_loc"
+  },
+  {
+    "code": "20896",
+    "name": "Tiên Lập",
+    "name_en": "Tien Lap",
+    "full_name": "Xã Tiên Lập",
+    "full_name_en": "Tien Lap Commune",
+    "type": "xã",
+    "district_code": "514",
+    "codename": "tien_lap"
+  }
+]

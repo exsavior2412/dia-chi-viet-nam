@@ -1,0 +1,142 @@
+[
+  {
+    "code": "19204",
+    "name": "Trường Sơn",
+    "name_en": "Truong Son",
+    "full_name": "Xã Trường Sơn",
+    "full_name_en": "Truong Son Commune",
+    "type": "xã",
+    "district_code": "456",
+    "codename": "truong_son"
+  },
+  {
+    "code": "19207",
+    "name": "Quán Hàu",
+    "name_en": "Quan Hau",
+    "full_name": "Thị trấn Quán Hàu",
+    "full_name_en": "Quan Hau Township",
+    "type": "thị trấn",
+    "district_code": "456",
+    "codename": "quan_hau"
+  },
+  {
+    "code": "19210",
+    "name": "Vĩnh Ninh",
+    "name_en": "Vinh Ninh",
+    "full_name": "Xã Vĩnh Ninh",
+    "full_name_en": "Vinh Ninh Commune",
+    "type": "xã",
+    "district_code": "456",
+    "codename": "vinh_ninh"
+  },
+  {
+    "code": "19213",
+    "name": "Võ Ninh",
+    "name_en": "Vo Ninh",
+    "full_name": "Xã Võ Ninh",
+    "full_name_en": "Vo Ninh Commune",
+    "type": "xã",
+    "district_code": "456",
+    "codename": "vo_ninh"
+  },
+  {
+    "code": "19216",
+    "name": "Hải Ninh",
+    "name_en": "Hai Ninh",
+    "full_name": "Xã Hải Ninh",
+    "full_name_en": "Hai Ninh Commune",
+    "type": "xã",
+    "district_code": "456",
+    "codename": "hai_ninh"
+  },
+  {
+    "code": "19219",
+    "name": "Hàm Ninh",
+    "name_en": "Ham Ninh",
+    "full_name": "Xã Hàm Ninh",
+    "full_name_en": "Ham Ninh Commune",
+    "type": "xã",
+    "district_code": "456",
+    "codename": "ham_ninh"
+  },
+  {
+    "code": "19222",
+    "name": "Duy Ninh",
+    "name_en": "Duy Ninh",
+    "full_name": "Xã Duy Ninh",
+    "full_name_en": "Duy Ninh Commune",
+    "type": "xã",
+    "district_code": "456",
+    "codename": "duy_ninh"
+  },
+  {
+    "code": "19225",
+    "name": "Gia Ninh",
+    "name_en": "Gia Ninh",
+    "full_name": "Xã Gia Ninh",
+    "full_name_en": "Gia Ninh Commune",
+    "type": "xã",
+    "district_code": "456",
+    "codename": "gia_ninh"
+  },
+  {
+    "code": "19228",
+    "name": "Trường Xuân",
+    "name_en": "Truong Xuan",
+    "full_name": "Xã Trường Xuân",
+    "full_name_en": "Truong Xuan Commune",
+    "type": "xã",
+    "district_code": "456",
+    "codename": "truong_xuan"
+  },
+  {
+    "code": "19231",
+    "name": "Hiền Ninh",
+    "name_en": "Hien Ninh",
+    "full_name": "Xã Hiền Ninh",
+    "full_name_en": "Hien Ninh Commune",
+    "type": "xã",
+    "district_code": "456",
+    "codename": "hien_ninh"
+  },
+  {
+    "code": "19234",
+    "name": "Tân Ninh",
+    "name_en": "Tan Ninh",
+    "full_name": "Xã Tân Ninh",
+    "full_name_en": "Tan Ninh Commune",
+    "type": "xã",
+    "district_code": "456",
+    "codename": "tan_ninh"
+  },
+  {
+    "code": "19237",
+    "name": "Xuân Ninh",
+    "name_en": "Xuan Ninh",
+    "full_name": "Xã Xuân Ninh",
+    "full_name_en": "Xuan Ninh Commune",
+    "type": "xã",
+    "district_code": "456",
+    "codename": "xuan_ninh"
+  },
+  {
+    "code": "19240",
+    "name": "An Ninh",
+    "name_en": "An Ninh",
+    "full_name": "Xã An Ninh",
+    "full_name_en": "An Ninh Commune",
+    "type": "xã",
+    "district_code": "456",
+    "codename": "an_ninh"
+  },
+  {
+    "code": "19243",
+    "name": "Vạn Ninh",
+    "name_en": "Van Ninh",
+    "full_name": "Xã Vạn Ninh",
+    "full_name_en": "Van Ninh Commune",
+    "type": "xã",
+    "district_code": "456",
+    "codename": "van_ninh"
+  }
+]

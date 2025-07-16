@@ -1,0 +1,162 @@
+[
+  {
+    "code": "24490",
+    "name": "Phước An",
+    "name_en": "Phuoc An",
+    "full_name": "Thị trấn Phước An",
+    "full_name_en": "Phuoc An Township",
+    "type": "thị trấn",
+    "district_code": "654",
+    "codename": "phuoc_an"
+  },
+  {
+    "code": "24493",
+    "name": "KRông Búk",
+    "name_en": "KRong Buk",
+    "full_name": "Xã KRông Búk",
+    "full_name_en": "KRong Buk Commune",
+    "type": "xã",
+    "district_code": "654",
+    "codename": "krong_buk"
+  },
+  {
+    "code": "24496",
+    "name": "Ea Kly",
+    "name_en": "Ea Kly",
+    "full_name": "Xã Ea Kly",
+    "full_name_en": "Ea Kly Commune",
+    "type": "xã",
+    "district_code": "654",
+    "codename": "ea_kly"
+  },
+  {
+    "code": "24499",
+    "name": "Ea Kênh",
+    "name_en": "Ea Kenh",
+    "full_name": "Xã Ea Kênh",
+    "full_name_en": "Ea Kenh Commune",
+    "type": "xã",
+    "district_code": "654",
+    "codename": "ea_kenh"
+  },
+  {
+    "code": "24502",
+    "name": "Ea Phê",
+    "name_en": "Ea Phe",
+    "full_name": "Xã Ea Phê",
+    "full_name_en": "Ea Phe Commune",
+    "type": "xã",
+    "district_code": "654",
+    "codename": "ea_phe"
+  },
+  {
+    "code": "24505",
+    "name": "Ea KNuec",
+    "name_en": "Ea KNuec",
+    "full_name": "Xã Ea KNuec",
+    "full_name_en": "Ea KNuec Commune",
+    "type": "xã",
+    "district_code": "654",
+    "codename": "ea_knuec"
+  },
+  {
+    "code": "24508",
+    "name": "Ea Yông",
+    "name_en": "Ea Yong",
+    "full_name": "Xã Ea Yông",
+    "full_name_en": "Ea Yong Commune",
+    "type": "xã",
+    "district_code": "654",
+    "codename": "ea_yong"
+  },
+  {
+    "code": "24511",
+    "name": "Hòa An",
+    "name_en": "Hoa An",
+    "full_name": "Xã Hòa An",
+    "full_name_en": "Hoa An Commune",
+    "type": "xã",
+    "district_code": "654",
+    "codename": "hoa_an"
+  },
+  {
+    "code": "24514",
+    "name": "Ea Kuăng",
+    "name_en": "Ea Kuang",
+    "full_name": "Xã Ea Kuăng",
+    "full_name_en": "Ea Kuang Commune",
+    "type": "xã",
+    "district_code": "654",
+    "codename": "ea_kuang"
+  },
+  {
+    "code": "24517",
+    "name": "Hòa Đông",
+    "name_en": "Hoa Dong",
+    "full_name": "Xã Hòa Đông",
+    "full_name_en": "Hoa Dong Commune",
+    "type": "xã",
+    "district_code": "654",
+    "codename": "hoa_dong"
+  },
+  {
+    "code": "24520",
+    "name": "Ea Hiu",
+    "name_en": "Ea Hiu",
+    "full_name": "Xã Ea Hiu",
+    "full_name_en": "Ea Hiu Commune",
+    "type": "xã",
+    "district_code": "654",
+    "codename": "ea_hiu"
+  },
+  {
+    "code": "24523",
+    "name": "Hòa Tiến",
+    "name_en": "Hoa Tien",
+    "full_name": "Xã Hòa Tiến",
+    "full_name_en": "Hoa Tien Commune",
+    "type": "xã",
+    "district_code": "654",
+    "codename": "hoa_tien"
+  },
+  {
+    "code": "24526",
+    "name": "Tân Tiến",
+    "name_en": "Tan Tien",
+    "full_name": "Xã Tân Tiến",
+    "full_name_en": "Tan Tien Commune",
+    "type": "xã",
+    "district_code": "654",
+    "codename": "tan_tien"
+  },
+  {
+    "code": "24529",
+    "name": "Vụ Bổn",
+    "name_en": "Vu Bon",
+    "full_name": "Xã Vụ Bổn",
+    "full_name_en": "Vu Bon Commune",
+    "type": "xã",
+    "district_code": "654",
+    "codename": "vu_bon"
+  },
+  {
+    "code": "24532",
+    "name": "Ea Uy",
+    "name_en": "Ea Uy",
+    "full_name": "Xã Ea Uy",
+    "full_name_en": "Ea Uy Commune",
+    "type": "xã",
+    "district_code": "654",
+    "codename": "ea_uy"
+  },
+  {
+    "code": "24535",
+    "name": "Ea Yiêng",
+    "name_en": "Ea Yieng",
+    "full_name": "Xã Ea Yiêng",
+    "full_name_en": "Ea Yieng Commune",
+    "type": "xã",
+    "district_code": "654",
+    "codename": "ea_yieng"
+  }
+]

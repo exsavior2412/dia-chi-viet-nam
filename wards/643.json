@@ -1,0 +1,192 @@
+[
+  {
+    "code": "24118",
+    "name": "Tân Lập",
+    "name_en": "Tan Lap",
+    "full_name": "Phường Tân Lập",
+    "full_name_en": "Tan Lap Ward",
+    "type": "phường",
+    "district_code": "643",
+    "codename": "tan_lap"
+  },
+  {
+    "code": "24121",
+    "name": "Tân Hòa",
+    "name_en": "Tan Hoa",
+    "full_name": "Phường Tân Hòa",
+    "full_name_en": "Tan Hoa Ward",
+    "type": "phường",
+    "district_code": "643",
+    "codename": "tan_hoa"
+  },
+  {
+    "code": "24124",
+    "name": "Tân An",
+    "name_en": "Tan An",
+    "full_name": "Phường Tân An",
+    "full_name_en": "Tan An Ward",
+    "type": "phường",
+    "district_code": "643",
+    "codename": "tan_an"
+  },
+  {
+    "code": "24130",
+    "name": "Thành Nhất",
+    "name_en": "Thanh Nhat",
+    "full_name": "Phường Thành Nhất",
+    "full_name_en": "Thanh Nhat Ward",
+    "type": "phường",
+    "district_code": "643",
+    "codename": "thanh_nhat"
+  },
+  {
+    "code": "24133",
+    "name": "Thành Công",
+    "name_en": "Thanh Cong",
+    "full_name": "Phường Thành Công",
+    "full_name_en": "Thanh Cong Ward",
+    "type": "phường",
+    "district_code": "643",
+    "codename": "thanh_cong"
+  },
+  {
+    "code": "24136",
+    "name": "Tân Lợi",
+    "name_en": "Tan Loi",
+    "full_name": "Phường Tân Lợi",
+    "full_name_en": "Tan Loi Ward",
+    "type": "phường",
+    "district_code": "643",
+    "codename": "tan_loi"
+  },
+  {
+    "code": "24142",
+    "name": "Tân Thành",
+    "name_en": "Tan Thanh",
+    "full_name": "Phường Tân Thành",
+    "full_name_en": "Tan Thanh Ward",
+    "type": "phường",
+    "district_code": "643",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "24145",
+    "name": "Tân Tiến",
+    "name_en": "Tan Tien",
+    "full_name": "Phường Tân Tiến",
+    "full_name_en": "Tan Tien Ward",
+    "type": "phường",
+    "district_code": "643",
+    "codename": "tan_tien"
+  },
+  {
+    "code": "24148",
+    "name": "Tự An",
+    "name_en": "Tu An",
+    "full_name": "Phường Tự An",
+    "full_name_en": "Tu An Ward",
+    "type": "phường",
+    "district_code": "643",
+    "codename": "tu_an"
+  },
+  {
+    "code": "24151",
+    "name": "Ea Tam",
+    "name_en": "Ea Tam",
+    "full_name": "Phường Ea Tam",
+    "full_name_en": "Ea Tam Ward",
+    "type": "phường",
+    "district_code": "643",
+    "codename": "ea_tam"
+  },
+  {
+    "code": "24154",
+    "name": "Khánh Xuân",
+    "name_en": "Khanh Xuan",
+    "full_name": "Phường Khánh Xuân",
+    "full_name_en": "Khanh Xuan Ward",
+    "type": "phường",
+    "district_code": "643",
+    "codename": "khanh_xuan"
+  },
+  {
+    "code": "24157",
+    "name": "Hòa Thuận",
+    "name_en": "Hoa Thuan",
+    "full_name": "Xã Hòa Thuận",
+    "full_name_en": "Hoa Thuan Commune",
+    "type": "xã",
+    "district_code": "643",
+    "codename": "hoa_thuan"
+  },
+  {
+    "code": "24160",
+    "name": "Cư ÊBur",
+    "name_en": "Cu EBur",
+    "full_name": "Xã Cư ÊBur",
+    "full_name_en": "Cu EBur Commune",
+    "type": "xã",
+    "district_code": "643",
+    "codename": "cu_ebur"
+  },
+  {
+    "code": "24163",
+    "name": "Ea Tu",
+    "name_en": "Ea Tu",
+    "full_name": "Xã Ea Tu",
+    "full_name_en": "Ea Tu Commune",
+    "type": "xã",
+    "district_code": "643",
+    "codename": "ea_tu"
+  },
+  {
+    "code": "24166",
+    "name": "Hòa Thắng",
+    "name_en": "Hoa Thang",
+    "full_name": "Xã Hòa Thắng",
+    "full_name_en": "Hoa Thang Commune",
+    "type": "xã",
+    "district_code": "643",
+    "codename": "hoa_thang"
+  },
+  {
+    "code": "24169",
+    "name": "Ea Kao",
+    "name_en": "Ea Kao",
+    "full_name": "Xã Ea Kao",
+    "full_name_en": "Ea Kao Commune",
+    "type": "xã",
+    "district_code": "643",
+    "codename": "ea_kao"
+  },
+  {
+    "code": "24172",
+    "name": "Hòa Phú",
+    "name_en": "Hoa Phu",
+    "full_name": "Xã Hòa Phú",
+    "full_name_en": "Hoa Phu Commune",
+    "type": "xã",
+    "district_code": "643",
+    "codename": "hoa_phu"
+  },
+  {
+    "code": "24175",
+    "name": "Hòa Khánh",
+    "name_en": "Hoa Khanh",
+    "full_name": "Xã Hòa Khánh",
+    "full_name_en": "Hoa Khanh Commune",
+    "type": "xã",
+    "district_code": "643",
+    "codename": "hoa_khanh"
+  },
+  {
+    "code": "24178",
+    "name": "Hòa Xuân",
+    "name_en": "Hoa Xuan",
+    "full_name": "Xã Hòa Xuân",
+    "full_name_en": "Hoa Xuan Commune",
+    "type": "xã",
+    "district_code": "643",
+    "codename": "hoa_xuan"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "code": "11680",
+    "name": "Núi Đối",
+    "name_en": "Nui Doi",
+    "full_name": "Thị trấn Núi Đối",
+    "full_name_en": "Nui Doi Township",
+    "type": "thị trấn",
+    "district_code": "314",
+    "codename": "nui_doi"
+  },
+  {
+    "code": "11695",
+    "name": "Đông Phương",
+    "name_en": "Dong Phuong",
+    "full_name": "Xã Đông Phương",
+    "full_name_en": "Dong Phuong Commune",
+    "type": "xã",
+    "district_code": "314",
+    "codename": "dong_phuong"
+  },
+  {
+    "code": "11698",
+    "name": "Thuận Thiên",
+    "name_en": "Thuan Thien",
+    "full_name": "Xã Thuận Thiên",
+    "full_name_en": "Thuan Thien Commune",
+    "type": "xã",
+    "district_code": "314",
+    "codename": "thuan_thien"
+  },
+  {
+    "code": "11701",
+    "name": "Hữu Bằng",
+    "name_en": "Huu Bang",
+    "full_name": "Xã Hữu Bằng",
+    "full_name_en": "Huu Bang Commune",
+    "type": "xã",
+    "district_code": "314",
+    "codename": "huu_bang"
+  },
+  {
+    "code": "11704",
+    "name": "Đại Đồng",
+    "name_en": "Dai Dong",
+    "full_name": "Xã Đại Đồng",
+    "full_name_en": "Dai Dong Commune",
+    "type": "xã",
+    "district_code": "314",
+    "codename": "dai_dong"
+  },
+  {
+    "code": "11710",
+    "name": "Ngũ Phúc",
+    "name_en": "Ngu Phuc",
+    "full_name": "Xã Ngũ Phúc",
+    "full_name_en": "Ngu Phuc Commune",
+    "type": "xã",
+    "district_code": "314",
+    "codename": "ngu_phuc"
+  },
+  {
+    "code": "11713",
+    "name": "Kiến Quốc",
+    "name_en": "Kien Quoc",
+    "full_name": "Xã Kiến Quốc",
+    "full_name_en": "Kien Quoc Commune",
+    "type": "xã",
+    "district_code": "314",
+    "codename": "kien_quoc"
+  },
+  {
+    "code": "11716",
+    "name": "Du Lễ",
+    "name_en": "Du Le",
+    "full_name": "Xã Du Lễ",
+    "full_name_en": "Du Le Commune",
+    "type": "xã",
+    "district_code": "314",
+    "codename": "du_le"
+  },
+  {
+    "code": "11722",
+    "name": "Thanh Sơn",
+    "name_en": "Thanh Son",
+    "full_name": "Xã Thanh Sơn",
+    "full_name_en": "Thanh Son Commune",
+    "type": "xã",
+    "district_code": "314",
+    "codename": "thanh_son"
+  },
+  {
+    "code": "11725",
+    "name": "Minh Tân",
+    "name_en": "Minh Tan",
+    "full_name": "Xã Minh Tân",
+    "full_name_en": "Minh Tan Commune",
+    "type": "xã",
+    "district_code": "314",
+    "codename": "minh_tan"
+  },
+  {
+    "code": "11728",
+    "name": "Kiến Hưng",
+    "name_en": "Kien Hung",
+    "full_name": "Xã Kiến Hưng",
+    "full_name_en": "Kien Hung Commune",
+    "type": "xã",
+    "district_code": "314",
+    "codename": "kien_hung"
+  },
+  {
+    "code": "11734",
+    "name": "Tân Phong",
+    "name_en": "Tan Phong",
+    "full_name": "Xã Tân Phong",
+    "full_name_en": "Tan Phong Commune",
+    "type": "xã",
+    "district_code": "314",
+    "codename": "tan_phong"
+  },
+  {
+    "code": "11743",
+    "name": "Tân Trào",
+    "name_en": "Tan Trao",
+    "full_name": "Xã Tân Trào",
+    "full_name_en": "Tan Trao Commune",
+    "type": "xã",
+    "district_code": "314",
+    "codename": "tan_trao"
+  },
+  {
+    "code": "11746",
+    "name": "Đoàn Xá",
+    "name_en": "Doan Xa",
+    "full_name": "Xã Đoàn Xá",
+    "full_name_en": "Doan Xa Commune",
+    "type": "xã",
+    "district_code": "314",
+    "codename": "doan_xa"
+  },
+  {
+    "code": "11749",
+    "name": "Tú Sơn",
+    "name_en": "Tu Son",
+    "full_name": "Xã Tú Sơn",
+    "full_name_en": "Tu Son Commune",
+    "type": "xã",
+    "district_code": "314",
+    "codename": "tu_son"
+  },
+  {
+    "code": "11752",
+    "name": "Đại Hợp",
+    "name_en": "Dai Hop",
+    "full_name": "Xã Đại Hợp",
+    "full_name_en": "Dai Hop Commune",
+    "type": "xã",
+    "district_code": "314",
+    "codename": "dai_hop"
+  }
+]

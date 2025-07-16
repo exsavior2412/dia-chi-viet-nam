@@ -1,0 +1,92 @@
+[
+  {
+    "code": "14362",
+    "name": "Bắc Sơn",
+    "name_en": "Bac Son",
+    "full_name": "Phường Bắc Sơn",
+    "full_name_en": "Bac Son Ward",
+    "type": "phường",
+    "district_code": "370",
+    "codename": "bac_son"
+  },
+  {
+    "code": "14365",
+    "name": "Trung Sơn",
+    "name_en": "Trung Son",
+    "full_name": "Phường Trung Sơn",
+    "full_name_en": "Trung Son Ward",
+    "type": "phường",
+    "district_code": "370",
+    "codename": "trung_son"
+  },
+  {
+    "code": "14368",
+    "name": "Nam Sơn",
+    "name_en": "Nam Son",
+    "full_name": "Phường Nam Sơn",
+    "full_name_en": "Nam Son Ward",
+    "type": "phường",
+    "district_code": "370",
+    "codename": "nam_son"
+  },
+  {
+    "code": "14369",
+    "name": "Tây Sơn",
+    "name_en": "Tay Son",
+    "full_name": "Phường Tây Sơn",
+    "full_name_en": "Tay Son Ward",
+    "type": "phường",
+    "district_code": "370",
+    "codename": "tay_son"
+  },
+  {
+    "code": "14371",
+    "name": "Yên Sơn",
+    "name_en": "Yen Son",
+    "full_name": "Xã Yên Sơn",
+    "full_name_en": "Yen Son Commune",
+    "type": "xã",
+    "district_code": "370",
+    "codename": "yen_son"
+  },
+  {
+    "code": "14374",
+    "name": "Yên Bình",
+    "name_en": "Yen Binh",
+    "full_name": "Phường Yên Bình",
+    "full_name_en": "Yen Binh Ward",
+    "type": "phường",
+    "district_code": "370",
+    "codename": "yen_binh"
+  },
+  {
+    "code": "14375",
+    "name": "Tân Bình",
+    "name_en": "Tan Binh",
+    "full_name": "Phường Tân Bình",
+    "full_name_en": "Tan Binh Ward",
+    "type": "phường",
+    "district_code": "370",
+    "codename": "tan_binh"
+  },
+  {
+    "code": "14377",
+    "name": "Quang Sơn",
+    "name_en": "Quang Son",
+    "full_name": "Xã Quang Sơn",
+    "full_name_en": "Quang Son Commune",
+    "type": "xã",
+    "district_code": "370",
+    "codename": "quang_son"
+  },
+  {
+    "code": "14380",
+    "name": "Đông Sơn",
+    "name_en": "Dong Son",
+    "full_name": "Xã Đông Sơn",
+    "full_name_en": "Dong Son Commune",
+    "type": "xã",
+    "district_code": "370",
+    "codename": "dong_son"
+  }
+]

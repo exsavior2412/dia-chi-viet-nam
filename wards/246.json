@@ -1,0 +1,192 @@
+[
+  {
+    "code": "08761",
+    "name": "Lập Thạch",
+    "name_en": "Lap Thach",
+    "full_name": "Thị trấn Lập Thạch",
+    "full_name_en": "Lap Thach Township",
+    "type": "thị trấn",
+    "district_code": "246",
+    "codename": "lap_thach"
+  },
+  {
+    "code": "08764",
+    "name": "Quang Sơn",
+    "name_en": "Quang Son",
+    "full_name": "Xã Quang Sơn",
+    "full_name_en": "Quang Son Commune",
+    "type": "xã",
+    "district_code": "246",
+    "codename": "quang_son"
+  },
+  {
+    "code": "08767",
+    "name": "Ngọc Mỹ",
+    "name_en": "Ngoc My",
+    "full_name": "Xã Ngọc Mỹ",
+    "full_name_en": "Ngoc My Commune",
+    "type": "xã",
+    "district_code": "246",
+    "codename": "ngoc_my"
+  },
+  {
+    "code": "08770",
+    "name": "Hợp Lý",
+    "name_en": "Hop Ly",
+    "full_name": "Xã Hợp Lý",
+    "full_name_en": "Hop Ly Commune",
+    "type": "xã",
+    "district_code": "246",
+    "codename": "hop_ly"
+  },
+  {
+    "code": "08785",
+    "name": "Bắc Bình",
+    "name_en": "Bac Binh",
+    "full_name": "Xã Bắc Bình",
+    "full_name_en": "Bac Binh Commune",
+    "type": "xã",
+    "district_code": "246",
+    "codename": "bac_binh"
+  },
+  {
+    "code": "08788",
+    "name": "Thái Hòa",
+    "name_en": "Thai Hoa",
+    "full_name": "Xã Thái Hòa",
+    "full_name_en": "Thai Hoa Commune",
+    "type": "xã",
+    "district_code": "246",
+    "codename": "thai_hoa"
+  },
+  {
+    "code": "08789",
+    "name": "Hoa Sơn",
+    "name_en": "Hoa Son",
+    "full_name": "Thị trấn Hoa Sơn",
+    "full_name_en": "Hoa Son Township",
+    "type": "thị trấn",
+    "district_code": "246",
+    "codename": "hoa_son"
+  },
+  {
+    "code": "08791",
+    "name": "Liễn Sơn",
+    "name_en": "Lien Son",
+    "full_name": "Xã Liễn Sơn",
+    "full_name_en": "Lien Son Commune",
+    "type": "xã",
+    "district_code": "246",
+    "codename": "lien_son"
+  },
+  {
+    "code": "08794",
+    "name": "Xuân Hòa",
+    "name_en": "Xuan Hoa",
+    "full_name": "Xã Xuân Hòa",
+    "full_name_en": "Xuan Hoa Commune",
+    "type": "xã",
+    "district_code": "246",
+    "codename": "xuan_hoa"
+  },
+  {
+    "code": "08797",
+    "name": "Vân Trục",
+    "name_en": "Van Truc",
+    "full_name": "Xã Vân Trục",
+    "full_name_en": "Van Truc Commune",
+    "type": "xã",
+    "district_code": "246",
+    "codename": "van_truc"
+  },
+  {
+    "code": "08812",
+    "name": "Liên Hòa",
+    "name_en": "Lien Hoa",
+    "full_name": "Xã Liên Hòa",
+    "full_name_en": "Lien Hoa Commune",
+    "type": "xã",
+    "district_code": "246",
+    "codename": "lien_hoa"
+  },
+  {
+    "code": "08815",
+    "name": "Tử Du",
+    "name_en": "Tu Du",
+    "full_name": "Xã Tử Du",
+    "full_name_en": "Tu Du Commune",
+    "type": "xã",
+    "district_code": "246",
+    "codename": "tu_du"
+  },
+  {
+    "code": "08833",
+    "name": "Bàn Giản",
+    "name_en": "Ban Gian",
+    "full_name": "Xã Bàn Giản",
+    "full_name_en": "Ban Gian Commune",
+    "type": "xã",
+    "district_code": "246",
+    "codename": "ban_gian"
+  },
+  {
+    "code": "08836",
+    "name": "Xuân Lôi",
+    "name_en": "Xuan Loi",
+    "full_name": "Xã Xuân Lôi",
+    "full_name_en": "Xuan Loi Commune",
+    "type": "xã",
+    "district_code": "246",
+    "codename": "xuan_loi"
+  },
+  {
+    "code": "08839",
+    "name": "Đồng Ích",
+    "name_en": "Dong Ich",
+    "full_name": "Xã Đồng Ích",
+    "full_name_en": "Dong Ich Commune",
+    "type": "xã",
+    "district_code": "246",
+    "codename": "dong_ich"
+  },
+  {
+    "code": "08842",
+    "name": "Tiên Lữ",
+    "name_en": "Tien Lu",
+    "full_name": "Xã Tiên Lữ",
+    "full_name_en": "Tien Lu Commune",
+    "type": "xã",
+    "district_code": "246",
+    "codename": "tien_lu"
+  },
+  {
+    "code": "08845",
+    "name": "Văn Quán",
+    "name_en": "Van Quan",
+    "full_name": "Xã Văn Quán",
+    "full_name_en": "Van Quan Commune",
+    "type": "xã",
+    "district_code": "246",
+    "codename": "van_quan"
+  },
+  {
+    "code": "08863",
+    "name": "Tây Sơn",
+    "name_en": "Tay Son",
+    "full_name": "Xã Tây Sơn",
+    "full_name_en": "Tay Son Commune",
+    "type": "xã",
+    "district_code": "246",
+    "codename": "tay_son"
+  },
+  {
+    "code": "08866",
+    "name": "Sơn Đông",
+    "name_en": "Son Dong",
+    "full_name": "Xã Sơn Đông",
+    "full_name_en": "Son Dong Commune",
+    "type": "xã",
+    "district_code": "246",
+    "codename": "son_dong"
+  }
+]

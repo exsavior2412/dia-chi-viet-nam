@@ -1,0 +1,302 @@
+[
+  {
+    "code": "13192",
+    "name": "Vũ Thư",
+    "name_en": "Vu Thu",
+    "full_name": "Thị trấn Vũ Thư",
+    "full_name_en": "Vu Thu Township",
+    "type": "thị trấn",
+    "district_code": "344",
+    "codename": "vu_thu"
+  },
+  {
+    "code": "13195",
+    "name": "Hồng Lý",
+    "name_en": "Hong Ly",
+    "full_name": "Xã Hồng Lý",
+    "full_name_en": "Hong Ly Commune",
+    "type": "xã",
+    "district_code": "344",
+    "codename": "hong_ly"
+  },
+  {
+    "code": "13198",
+    "name": "Đồng Thanh",
+    "name_en": "Dong Thanh",
+    "full_name": "Xã Đồng Thanh",
+    "full_name_en": "Dong Thanh Commune",
+    "type": "xã",
+    "district_code": "344",
+    "codename": "dong_thanh"
+  },
+  {
+    "code": "13201",
+    "name": "Xuân Hòa",
+    "name_en": "Xuan Hoa",
+    "full_name": "Xã Xuân Hòa",
+    "full_name_en": "Xuan Hoa Commune",
+    "type": "xã",
+    "district_code": "344",
+    "codename": "xuan_hoa"
+  },
+  {
+    "code": "13204",
+    "name": "Hiệp Hòa",
+    "name_en": "Hiep Hoa",
+    "full_name": "Xã Hiệp Hòa",
+    "full_name_en": "Hiep Hoa Commune",
+    "type": "xã",
+    "district_code": "344",
+    "codename": "hiep_hoa"
+  },
+  {
+    "code": "13207",
+    "name": "Phúc Thành",
+    "name_en": "Phuc Thanh",
+    "full_name": "Xã Phúc Thành",
+    "full_name_en": "Phuc Thanh Commune",
+    "type": "xã",
+    "district_code": "344",
+    "codename": "phuc_thanh"
+  },
+  {
+    "code": "13210",
+    "name": "Tân Phong",
+    "name_en": "Tan Phong",
+    "full_name": "Xã Tân Phong",
+    "full_name_en": "Tan Phong Commune",
+    "type": "xã",
+    "district_code": "344",
+    "codename": "tan_phong"
+  },
+  {
+    "code": "13213",
+    "name": "Song Lãng",
+    "name_en": "Song Lang",
+    "full_name": "Xã Song Lãng",
+    "full_name_en": "Song Lang Commune",
+    "type": "xã",
+    "district_code": "344",
+    "codename": "song_lang"
+  },
+  {
+    "code": "13216",
+    "name": "Tân Hòa",
+    "name_en": "Tan Hoa",
+    "full_name": "Xã Tân Hòa",
+    "full_name_en": "Tan Hoa Commune",
+    "type": "xã",
+    "district_code": "344",
+    "codename": "tan_hoa"
+  },
+  {
+    "code": "13219",
+    "name": "Việt Hùng",
+    "name_en": "Viet Hung",
+    "full_name": "Xã Việt Hùng",
+    "full_name_en": "Viet Hung Commune",
+    "type": "xã",
+    "district_code": "344",
+    "codename": "viet_hung"
+  },
+  {
+    "code": "13222",
+    "name": "Minh Lãng",
+    "name_en": "Minh Lang",
+    "full_name": "Xã Minh Lãng",
+    "full_name_en": "Minh Lang Commune",
+    "type": "xã",
+    "district_code": "344",
+    "codename": "minh_lang"
+  },
+  {
+    "code": "13228",
+    "name": "Minh Khai",
+    "name_en": "Minh Khai",
+    "full_name": "Xã Minh Khai",
+    "full_name_en": "Minh Khai Commune",
+    "type": "xã",
+    "district_code": "344",
+    "codename": "minh_khai"
+  },
+  {
+    "code": "13231",
+    "name": "Dũng Nghĩa",
+    "name_en": "Dung Nghia",
+    "full_name": "Xã Dũng Nghĩa",
+    "full_name_en": "Dung Nghia Commune",
+    "type": "xã",
+    "district_code": "344",
+    "codename": "dung_nghia"
+  },
+  {
+    "code": "13234",
+    "name": "Minh Quang",
+    "name_en": "Minh Quang",
+    "full_name": "Xã Minh Quang",
+    "full_name_en": "Minh Quang Commune",
+    "type": "xã",
+    "district_code": "344",
+    "codename": "minh_quang"
+  },
+  {
+    "code": "13237",
+    "name": "Tam Quang",
+    "name_en": "Tam Quang",
+    "full_name": "Xã Tam Quang",
+    "full_name_en": "Tam Quang Commune",
+    "type": "xã",
+    "district_code": "344",
+    "codename": "tam_quang"
+  },
+  {
+    "code": "13240",
+    "name": "Tân Lập",
+    "name_en": "Tan Lap",
+    "full_name": "Xã Tân Lập",
+    "full_name_en": "Tan Lap Commune",
+    "type": "xã",
+    "district_code": "344",
+    "codename": "tan_lap"
+  },
+  {
+    "code": "13243",
+    "name": "Bách Thuận",
+    "name_en": "Bach Thuan",
+    "full_name": "Xã Bách Thuận",
+    "full_name_en": "Bach Thuan Commune",
+    "type": "xã",
+    "district_code": "344",
+    "codename": "bach_thuan"
+  },
+  {
+    "code": "13246",
+    "name": "Tự Tân",
+    "name_en": "Tu Tan",
+    "full_name": "Xã Tự Tân",
+    "full_name_en": "Tu Tan Commune",
+    "type": "xã",
+    "district_code": "344",
+    "codename": "tu_tan"
+  },
+  {
+    "code": "13249",
+    "name": "Song An",
+    "name_en": "Song An",
+    "full_name": "Xã Song An",
+    "full_name_en": "Song An Commune",
+    "type": "xã",
+    "district_code": "344",
+    "codename": "song_an"
+  },
+  {
+    "code": "13252",
+    "name": "Trung An",
+    "name_en": "Trung An",
+    "full_name": "Xã Trung An",
+    "full_name_en": "Trung An Commune",
+    "type": "xã",
+    "district_code": "344",
+    "codename": "trung_an"
+  },
+  {
+    "code": "13255",
+    "name": "Vũ Hội",
+    "name_en": "Vu Hoi",
+    "full_name": "Xã Vũ Hội",
+    "full_name_en": "Vu Hoi Commune",
+    "type": "xã",
+    "district_code": "344",
+    "codename": "vu_hoi"
+  },
+  {
+    "code": "13258",
+    "name": "Hòa Bình",
+    "name_en": "Hoa Binh",
+    "full_name": "Xã Hòa Bình",
+    "full_name_en": "Hoa Binh Commune",
+    "type": "xã",
+    "district_code": "344",
+    "codename": "hoa_binh"
+  },
+  {
+    "code": "13261",
+    "name": "Nguyên Xá",
+    "name_en": "Nguyen Xa",
+    "full_name": "Xã Nguyên Xá",
+    "full_name_en": "Nguyen Xa Commune",
+    "type": "xã",
+    "district_code": "344",
+    "codename": "nguyen_xa"
+  },
+  {
+    "code": "13264",
+    "name": "Việt Thuận",
+    "name_en": "Viet Thuan",
+    "full_name": "Xã Việt Thuận",
+    "full_name_en": "Viet Thuan Commune",
+    "type": "xã",
+    "district_code": "344",
+    "codename": "viet_thuan"
+  },
+  {
+    "code": "13267",
+    "name": "Vũ Vinh",
+    "name_en": "Vu Vinh",
+    "full_name": "Xã Vũ Vinh",
+    "full_name_en": "Vu Vinh Commune",
+    "type": "xã",
+    "district_code": "344",
+    "codename": "vu_vinh"
+  },
+  {
+    "code": "13270",
+    "name": "Vũ Đoài",
+    "name_en": "Vu Doai",
+    "full_name": "Xã Vũ Đoài",
+    "full_name_en": "Vu Doai Commune",
+    "type": "xã",
+    "district_code": "344",
+    "codename": "vu_doai"
+  },
+  {
+    "code": "13273",
+    "name": "Vũ Tiến",
+    "name_en": "Vu Tien",
+    "full_name": "Xã Vũ Tiến",
+    "full_name_en": "Vu Tien Commune",
+    "type": "xã",
+    "district_code": "344",
+    "codename": "vu_tien"
+  },
+  {
+    "code": "13276",
+    "name": "Vũ Vân",
+    "name_en": "Vu Van",
+    "full_name": "Xã Vũ Vân",
+    "full_name_en": "Vu Van Commune",
+    "type": "xã",
+    "district_code": "344",
+    "codename": "vu_van"
+  },
+  {
+    "code": "13279",
+    "name": "Duy Nhất",
+    "name_en": "Duy Nhat",
+    "full_name": "Xã Duy Nhất",
+    "full_name_en": "Duy Nhat Commune",
+    "type": "xã",
+    "district_code": "344",
+    "codename": "duy_nhat"
+  },
+  {
+    "code": "13282",
+    "name": "Hồng Phong",
+    "name_en": "Hong Phong",
+    "full_name": "Xã Hồng Phong",
+    "full_name_en": "Hong Phong Commune",
+    "type": "xã",
+    "district_code": "344",
+    "codename": "hong_phong"
+  }
+]

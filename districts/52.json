@@ -1,0 +1,112 @@
+[
+  {
+    "code": "540",
+    "name": "Quy Nhơn",
+    "name_en": "Quy Nhon",
+    "full_name": "Thành phố Quy Nhơn",
+    "full_name_en": "Quy Nhon City",
+    "type": "thành phố",
+    "province_code": "52",
+    "codename": "quy_nhon"
+  },
+  {
+    "code": "542",
+    "name": "An Lão",
+    "name_en": "An Lao",
+    "full_name": "Huyện An Lão",
+    "full_name_en": "An Lao District",
+    "type": "huyện",
+    "province_code": "52",
+    "codename": "an_lao"
+  },
+  {
+    "code": "543",
+    "name": "Hoài Nhơn",
+    "name_en": "Hoai Nhon",
+    "full_name": "Thị xã Hoài Nhơn",
+    "full_name_en": "Hoai Nhon Town",
+    "type": "thị xã",
+    "province_code": "52",
+    "codename": "hoai_nhon"
+  },
+  {
+    "code": "544",
+    "name": "Hoài Ân",
+    "name_en": "Hoai An",
+    "full_name": "Huyện Hoài Ân",
+    "full_name_en": "Hoai An District",
+    "type": "huyện",
+    "province_code": "52",
+    "codename": "hoai_an"
+  },
+  {
+    "code": "545",
+    "name": "Phù Mỹ",
+    "name_en": "Phu My",
+    "full_name": "Huyện Phù Mỹ",
+    "full_name_en": "Phu My District",
+    "type": "huyện",
+    "province_code": "52",
+    "codename": "phu_my"
+  },
+  {
+    "code": "546",
+    "name": "Vĩnh Thạnh",
+    "name_en": "Vinh Thanh",
+    "full_name": "Huyện Vĩnh Thạnh",
+    "full_name_en": "Vinh Thanh District",
+    "type": "huyện",
+    "province_code": "52",
+    "codename": "vinh_thanh"
+  },
+  {
+    "code": "547",
+    "name": "Tây Sơn",
+    "name_en": "Tay Son",
+    "full_name": "Huyện Tây Sơn",
+    "full_name_en": "Tay Son District",
+    "type": "huyện",
+    "province_code": "52",
+    "codename": "tay_son"
+  },
+  {
+    "code": "548",
+    "name": "Phù Cát",
+    "name_en": "Phu Cat",
+    "full_name": "Huyện Phù Cát",
+    "full_name_en": "Phu Cat District",
+    "type": "huyện",
+    "province_code": "52",
+    "codename": "phu_cat"
+  },
+  {
+    "code": "549",
+    "name": "An Nhơn",
+    "name_en": "An Nhon",
+    "full_name": "Thị xã An Nhơn",
+    "full_name_en": "An Nhon Town",
+    "type": "thị xã",
+    "province_code": "52",
+    "codename": "an_nhon"
+  },
+  {
+    "code": "550",
+    "name": "Tuy Phước",
+    "name_en": "Tuy Phuoc",
+    "full_name": "Huyện Tuy Phước",
+    "full_name_en": "Tuy Phuoc District",
+    "type": "huyện",
+    "province_code": "52",
+    "codename": "tuy_phuoc"
+  },
+  {
+    "code": "551",
+    "name": "Vân Canh",
+    "name_en": "Van Canh",
+    "full_name": "Huyện Vân Canh",
+    "full_name_en": "Van Canh District",
+    "type": "huyện",
+    "province_code": "52",
+    "codename": "van_canh"
+  }
+]

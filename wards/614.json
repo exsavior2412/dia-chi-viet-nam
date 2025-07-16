@@ -1,0 +1,72 @@
+[
+  {
+    "code": "23479",
+    "name": "Đắk Rve",
+    "name_en": "Dak Rve",
+    "full_name": "Thị trấn Đắk Rve",
+    "full_name_en": "Dak Rve Township",
+    "type": "thị trấn",
+    "district_code": "614",
+    "codename": "dak_rve"
+  },
+  {
+    "code": "23482",
+    "name": "Đắk Kôi",
+    "name_en": "Dak Koi",
+    "full_name": "Xã Đắk Kôi",
+    "full_name_en": "Dak Koi Commune",
+    "type": "xã",
+    "district_code": "614",
+    "codename": "dak_koi"
+  },
+  {
+    "code": "23485",
+    "name": "Đắk Tơ Lung",
+    "name_en": "Dak To Lung",
+    "full_name": "Xã Đắk Tơ Lung",
+    "full_name_en": "Dak To Lung Commune",
+    "type": "xã",
+    "district_code": "614",
+    "codename": "dak_to_lung"
+  },
+  {
+    "code": "23488",
+    "name": "Đắk Ruồng",
+    "name_en": "Dak Ruong",
+    "full_name": "Xã Đắk Ruồng",
+    "full_name_en": "Dak Ruong Commune",
+    "type": "xã",
+    "district_code": "614",
+    "codename": "dak_ruong"
+  },
+  {
+    "code": "23491",
+    "name": "Đắk Pne",
+    "name_en": "Dak Pne",
+    "full_name": "Xã Đắk Pne",
+    "full_name_en": "Dak Pne Commune",
+    "type": "xã",
+    "district_code": "614",
+    "codename": "dak_pne"
+  },
+  {
+    "code": "23494",
+    "name": "Đắk Tờ Re",
+    "name_en": "Dak To Re",
+    "full_name": "Xã Đắk Tờ Re",
+    "full_name_en": "Dak To Re Commune",
+    "type": "xã",
+    "district_code": "614",
+    "codename": "dak_to_re"
+  },
+  {
+    "code": "23497",
+    "name": "Tân Lập",
+    "name_en": "Tan Lap",
+    "full_name": "Xã Tân Lập",
+    "full_name_en": "Tan Lap Commune",
+    "type": "xã",
+    "district_code": "614",
+    "codename": "tan_lap"
+  }
+]

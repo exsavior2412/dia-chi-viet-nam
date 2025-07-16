@@ -1,0 +1,202 @@
+[
+  {
+    "code": "10441",
+    "name": "Đại Nghĩa",
+    "name_en": "Dai Nghia",
+    "full_name": "Thị trấn Đại Nghĩa",
+    "full_name_en": "Dai Nghia Township",
+    "type": "thị trấn",
+    "district_code": "282",
+    "codename": "dai_nghia"
+  },
+  {
+    "code": "10444",
+    "name": "Đồng Tâm",
+    "name_en": "Dong Tam",
+    "full_name": "Xã Đồng Tâm",
+    "full_name_en": "Dong Tam Commune",
+    "type": "xã",
+    "district_code": "282",
+    "codename": "dong_tam"
+  },
+  {
+    "code": "10447",
+    "name": "Thượng Lâm",
+    "name_en": "Thuong Lam",
+    "full_name": "Xã Thượng Lâm",
+    "full_name_en": "Thuong Lam Commune",
+    "type": "xã",
+    "district_code": "282",
+    "codename": "thuong_lam"
+  },
+  {
+    "code": "10450",
+    "name": "Tuy Lai",
+    "name_en": "Tuy Lai",
+    "full_name": "Xã Tuy Lai",
+    "full_name_en": "Tuy Lai Commune",
+    "type": "xã",
+    "district_code": "282",
+    "codename": "tuy_lai"
+  },
+  {
+    "code": "10453",
+    "name": "Phúc Lâm",
+    "name_en": "Phuc Lam",
+    "full_name": "Xã Phúc Lâm",
+    "full_name_en": "Phuc Lam Commune",
+    "type": "xã",
+    "district_code": "282",
+    "codename": "phuc_lam"
+  },
+  {
+    "code": "10459",
+    "name": "Mỹ Xuyên",
+    "name_en": "My Xuyen",
+    "full_name": "Xã Mỹ Xuyên",
+    "full_name_en": "My Xuyen Commune",
+    "type": "xã",
+    "district_code": "282",
+    "codename": "my_xuyen"
+  },
+  {
+    "code": "10462",
+    "name": "An Mỹ",
+    "name_en": "An My",
+    "full_name": "Xã An Mỹ",
+    "full_name_en": "An My Commune",
+    "type": "xã",
+    "district_code": "282",
+    "codename": "an_my"
+  },
+  {
+    "code": "10465",
+    "name": "Hồng Sơn",
+    "name_en": "Hong Son",
+    "full_name": "Xã Hồng Sơn",
+    "full_name_en": "Hong Son Commune",
+    "type": "xã",
+    "district_code": "282",
+    "codename": "hong_son"
+  },
+  {
+    "code": "10468",
+    "name": "Lê Thanh",
+    "name_en": "Le Thanh",
+    "full_name": "Xã Lê Thanh",
+    "full_name_en": "Le Thanh Commune",
+    "type": "xã",
+    "district_code": "282",
+    "codename": "le_thanh"
+  },
+  {
+    "code": "10471",
+    "name": "Xuy Xá",
+    "name_en": "Xuy Xa",
+    "full_name": "Xã Xuy Xá",
+    "full_name_en": "Xuy Xa Commune",
+    "type": "xã",
+    "district_code": "282",
+    "codename": "xuy_xa"
+  },
+  {
+    "code": "10474",
+    "name": "Phùng Xá",
+    "name_en": "Phung Xa",
+    "full_name": "Xã Phùng Xá",
+    "full_name_en": "Phung Xa Commune",
+    "type": "xã",
+    "district_code": "282",
+    "codename": "phung_xa"
+  },
+  {
+    "code": "10477",
+    "name": "Phù Lưu Tế",
+    "name_en": "Phu Luu Te",
+    "full_name": "Xã Phù Lưu Tế",
+    "full_name_en": "Phu Luu Te Commune",
+    "type": "xã",
+    "district_code": "282",
+    "codename": "phu_luu_te"
+  },
+  {
+    "code": "10480",
+    "name": "Đại Hưng",
+    "name_en": "Dai Hung",
+    "full_name": "Xã Đại Hưng",
+    "full_name_en": "Dai Hung Commune",
+    "type": "xã",
+    "district_code": "282",
+    "codename": "dai_hung"
+  },
+  {
+    "code": "10483",
+    "name": "Vạn Tín",
+    "name_en": "Van Tin",
+    "full_name": "Xã Vạn Tín",
+    "full_name_en": "Van Tin Commune",
+    "type": "xã",
+    "district_code": "282",
+    "codename": "van_tin"
+  },
+  {
+    "code": "10489",
+    "name": "Hương Sơn",
+    "name_en": "Huong Son",
+    "full_name": "Xã Hương Sơn",
+    "full_name_en": "Huong Son Commune",
+    "type": "xã",
+    "district_code": "282",
+    "codename": "huong_son"
+  },
+  {
+    "code": "10492",
+    "name": "Hùng Tiến",
+    "name_en": "Hung Tien",
+    "full_name": "Xã Hùng Tiến",
+    "full_name_en": "Hung Tien Commune",
+    "type": "xã",
+    "district_code": "282",
+    "codename": "hung_tien"
+  },
+  {
+    "code": "10495",
+    "name": "An Tiến",
+    "name_en": "An Tien",
+    "full_name": "Xã An Tiến",
+    "full_name_en": "An Tien Commune",
+    "type": "xã",
+    "district_code": "282",
+    "codename": "an_tien"
+  },
+  {
+    "code": "10498",
+    "name": "Hợp Tiến",
+    "name_en": "Hop Tien",
+    "full_name": "Xã Hợp Tiến",
+    "full_name_en": "Hop Tien Commune",
+    "type": "xã",
+    "district_code": "282",
+    "codename": "hop_tien"
+  },
+  {
+    "code": "10501",
+    "name": "Hợp Thanh",
+    "name_en": "Hop Thanh",
+    "full_name": "Xã Hợp Thanh",
+    "full_name_en": "Hop Thanh Commune",
+    "type": "xã",
+    "district_code": "282",
+    "codename": "hop_thanh"
+  },
+  {
+    "code": "10504",
+    "name": "An Phú",
+    "name_en": "An Phu",
+    "full_name": "Xã An Phú",
+    "full_name_en": "An Phu Commune",
+    "type": "xã",
+    "district_code": "282",
+    "codename": "an_phu"
+  }
+]

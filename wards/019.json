@@ -1,0 +1,102 @@
+[
+  {
+    "code": "00592",
+    "name": "Cầu Diễn",
+    "name_en": "Cau Dien",
+    "full_name": "Phường Cầu Diễn",
+    "full_name_en": "Cau Dien Ward",
+    "type": "phường",
+    "district_code": "019",
+    "codename": "cau_dien"
+  },
+  {
+    "code": "00622",
+    "name": "Xuân Phương",
+    "name_en": "Xuan Phuong",
+    "full_name": "Phường Xuân Phương",
+    "full_name_en": "Xuan Phuong Ward",
+    "type": "phường",
+    "district_code": "019",
+    "codename": "xuan_phuong"
+  },
+  {
+    "code": "00623",
+    "name": "Phương Canh",
+    "name_en": "Phuong Canh",
+    "full_name": "Phường Phương Canh",
+    "full_name_en": "Phuong Canh Ward",
+    "type": "phường",
+    "district_code": "019",
+    "codename": "phuong_canh"
+  },
+  {
+    "code": "00625",
+    "name": "Mỹ Đình 1",
+    "name_en": "My Dinh 1",
+    "full_name": "Phường Mỹ Đình 1",
+    "full_name_en": "Ward My Dinh 1",
+    "type": "phường",
+    "district_code": "019",
+    "codename": "my_dinh_1"
+  },
+  {
+    "code": "00626",
+    "name": "Mỹ Đình 2",
+    "name_en": "My Dinh 2",
+    "full_name": "Phường Mỹ Đình 2",
+    "full_name_en": "Ward My Dinh 2",
+    "type": "phường",
+    "district_code": "019",
+    "codename": "my_dinh_2"
+  },
+  {
+    "code": "00628",
+    "name": "Tây Mỗ",
+    "name_en": "Tay Mo",
+    "full_name": "Phường Tây Mỗ",
+    "full_name_en": "Tay Mo Ward",
+    "type": "phường",
+    "district_code": "019",
+    "codename": "tay_mo"
+  },
+  {
+    "code": "00631",
+    "name": "Mễ Trì",
+    "name_en": "Me Tri",
+    "full_name": "Phường Mễ Trì",
+    "full_name_en": "Me Tri Ward",
+    "type": "phường",
+    "district_code": "019",
+    "codename": "me_tri"
+  },
+  {
+    "code": "00632",
+    "name": "Phú Đô",
+    "name_en": "Phu Do",
+    "full_name": "Phường Phú Đô",
+    "full_name_en": "Phu Do Ward",
+    "type": "phường",
+    "district_code": "019",
+    "codename": "phu_do"
+  },
+  {
+    "code": "00634",
+    "name": "Đại Mỗ",
+    "name_en": "Dai Mo",
+    "full_name": "Phường Đại Mỗ",
+    "full_name_en": "Dai Mo Ward",
+    "type": "phường",
+    "district_code": "019",
+    "codename": "dai_mo"
+  },
+  {
+    "code": "00637",
+    "name": "Trung Văn",
+    "name_en": "Trung Van",
+    "full_name": "Phường Trung Văn",
+    "full_name_en": "Trung Van Ward",
+    "type": "phường",
+    "district_code": "019",
+    "codename": "trung_van"
+  }
+]

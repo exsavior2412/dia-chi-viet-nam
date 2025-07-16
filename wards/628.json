@@ -1,0 +1,132 @@
+[
+  {
+    "code": "23764",
+    "name": "Ia Kha",
+    "name_en": "Ia Kha",
+    "full_name": "Thị trấn Ia Kha",
+    "full_name_en": "Ia Kha Township",
+    "type": "thị trấn",
+    "district_code": "628",
+    "codename": "ia_kha"
+  },
+  {
+    "code": "23767",
+    "name": "Ia Sao",
+    "name_en": "Ia Sao",
+    "full_name": "Xã Ia Sao",
+    "full_name_en": "Ia Sao Commune",
+    "type": "xã",
+    "district_code": "628",
+    "codename": "ia_sao"
+  },
+  {
+    "code": "23768",
+    "name": "Ia Yok",
+    "name_en": "Ia Yok",
+    "full_name": "Xã Ia Yok",
+    "full_name_en": "Ia Yok Commune",
+    "type": "xã",
+    "district_code": "628",
+    "codename": "ia_yok"
+  },
+  {
+    "code": "23770",
+    "name": "Ia Hrung",
+    "name_en": "Ia Hrung",
+    "full_name": "Xã Ia Hrung",
+    "full_name_en": "Ia Hrung Commune",
+    "type": "xã",
+    "district_code": "628",
+    "codename": "ia_hrung"
+  },
+  {
+    "code": "23771",
+    "name": "Ia Bă",
+    "name_en": "Ia Ba",
+    "full_name": "Xã Ia Bă",
+    "full_name_en": "Ia Ba Commune",
+    "type": "xã",
+    "district_code": "628",
+    "codename": "ia_ba"
+  },
+  {
+    "code": "23773",
+    "name": "Ia Khai",
+    "name_en": "Ia Khai",
+    "full_name": "Xã Ia Khai",
+    "full_name_en": "Ia Khai Commune",
+    "type": "xã",
+    "district_code": "628",
+    "codename": "ia_khai"
+  },
+  {
+    "code": "23776",
+    "name": "Ia KRai",
+    "name_en": "Ia KRai",
+    "full_name": "Xã Ia KRai",
+    "full_name_en": "Ia KRai Commune",
+    "type": "xã",
+    "district_code": "628",
+    "codename": "ia_krai"
+  },
+  {
+    "code": "23778",
+    "name": "Ia Grăng",
+    "name_en": "Ia Grang",
+    "full_name": "Xã Ia Grăng",
+    "full_name_en": "Ia Grang Commune",
+    "type": "xã",
+    "district_code": "628",
+    "codename": "ia_grang"
+  },
+  {
+    "code": "23779",
+    "name": "Ia Tô",
+    "name_en": "Ia To",
+    "full_name": "Xã Ia Tô",
+    "full_name_en": "Ia To Commune",
+    "type": "xã",
+    "district_code": "628",
+    "codename": "ia_to"
+  },
+  {
+    "code": "23782",
+    "name": "Ia O",
+    "name_en": "Ia O",
+    "full_name": "Xã Ia O",
+    "full_name_en": "Ia O Commune",
+    "type": "xã",
+    "district_code": "628",
+    "codename": "ia_o"
+  },
+  {
+    "code": "23785",
+    "name": "Ia Dêr",
+    "name_en": "Ia Der",
+    "full_name": "Xã Ia Dêr",
+    "full_name_en": "Ia Der Commune",
+    "type": "xã",
+    "district_code": "628",
+    "codename": "ia_der"
+  },
+  {
+    "code": "23788",
+    "name": "Ia Chia",
+    "name_en": "Ia Chia",
+    "full_name": "Xã Ia Chia",
+    "full_name_en": "Ia Chia Commune",
+    "type": "xã",
+    "district_code": "628",
+    "codename": "ia_chia"
+  },
+  {
+    "code": "23791",
+    "name": "Ia Pếch",
+    "name_en": "Ia Pech",
+    "full_name": "Xã Ia Pếch",
+    "full_name_en": "Ia Pech Commune",
+    "type": "xã",
+    "district_code": "628",
+    "codename": "ia_pech"
+  }
+]

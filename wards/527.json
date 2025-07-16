@@ -1,0 +1,112 @@
+[
+  {
+    "code": "21175",
+    "name": "Tịnh Thọ",
+    "name_en": "Tinh Tho",
+    "full_name": "Xã Tịnh Thọ",
+    "full_name_en": "Tinh Tho Commune",
+    "type": "xã",
+    "district_code": "527",
+    "codename": "tinh_tho"
+  },
+  {
+    "code": "21178",
+    "name": "Tịnh Trà",
+    "name_en": "Tinh Tra",
+    "full_name": "Xã Tịnh Trà",
+    "full_name_en": "Tinh Tra Commune",
+    "type": "xã",
+    "district_code": "527",
+    "codename": "tinh_tra"
+  },
+  {
+    "code": "21181",
+    "name": "Tịnh Phong",
+    "name_en": "Tinh Phong",
+    "full_name": "Xã Tịnh Phong",
+    "full_name_en": "Tinh Phong Commune",
+    "type": "xã",
+    "district_code": "527",
+    "codename": "tinh_phong"
+  },
+  {
+    "code": "21184",
+    "name": "Tịnh Hiệp",
+    "name_en": "Tinh Hiep",
+    "full_name": "Xã Tịnh Hiệp",
+    "full_name_en": "Tinh Hiep Commune",
+    "type": "xã",
+    "district_code": "527",
+    "codename": "tinh_hiep"
+  },
+  {
+    "code": "21193",
+    "name": "Tịnh Bình",
+    "name_en": "Tinh Binh",
+    "full_name": "Xã Tịnh Bình",
+    "full_name_en": "Tinh Binh Commune",
+    "type": "xã",
+    "district_code": "527",
+    "codename": "tinh_binh"
+  },
+  {
+    "code": "21196",
+    "name": "Tịnh Đông",
+    "name_en": "Tinh Dong",
+    "full_name": "Xã Tịnh Đông",
+    "full_name_en": "Tinh Dong Commune",
+    "type": "xã",
+    "district_code": "527",
+    "codename": "tinh_dong"
+  },
+  {
+    "code": "21205",
+    "name": "Tịnh Bắc",
+    "name_en": "Tinh Bac",
+    "full_name": "Xã Tịnh Bắc",
+    "full_name_en": "Tinh Bac Commune",
+    "type": "xã",
+    "district_code": "527",
+    "codename": "tinh_bac"
+  },
+  {
+    "code": "21217",
+    "name": "Tịnh Sơn",
+    "name_en": "Tinh Son",
+    "full_name": "Xã Tịnh Sơn",
+    "full_name_en": "Tinh Son Commune",
+    "type": "xã",
+    "district_code": "527",
+    "codename": "tinh_son"
+  },
+  {
+    "code": "21220",
+    "name": "Tịnh Hà",
+    "name_en": "Tinh Ha",
+    "full_name": "Thị trấn Tịnh Hà",
+    "full_name_en": "Tinh Ha Township",
+    "type": "thị trấn",
+    "district_code": "527",
+    "codename": "tinh_ha"
+  },
+  {
+    "code": "21226",
+    "name": "Tịnh Giang",
+    "name_en": "Tinh Giang",
+    "full_name": "Xã Tịnh Giang",
+    "full_name_en": "Tinh Giang Commune",
+    "type": "xã",
+    "district_code": "527",
+    "codename": "tinh_giang"
+  },
+  {
+    "code": "21229",
+    "name": "Tịnh Minh",
+    "name_en": "Tinh Minh",
+    "full_name": "Xã Tịnh Minh",
+    "full_name_en": "Tinh Minh Commune",
+    "type": "xã",
+    "district_code": "527",
+    "codename": "tinh_minh"
+  }
+]

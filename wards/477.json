@@ -1,0 +1,112 @@
+[
+  {
+    "code": "19867",
+    "name": "Sịa",
+    "name_en": "Sia",
+    "full_name": "Thị trấn Sịa",
+    "full_name_en": "Sia Township",
+    "type": "thị trấn",
+    "district_code": "477",
+    "codename": "sia"
+  },
+  {
+    "code": "19870",
+    "name": "Quảng Thái",
+    "name_en": "Quang Thai",
+    "full_name": "Xã Quảng Thái",
+    "full_name_en": "Quang Thai Commune",
+    "type": "xã",
+    "district_code": "477",
+    "codename": "quang_thai"
+  },
+  {
+    "code": "19873",
+    "name": "Quảng Ngạn",
+    "name_en": "Quang Ngan",
+    "full_name": "Xã Quảng Ngạn",
+    "full_name_en": "Quang Ngan Commune",
+    "type": "xã",
+    "district_code": "477",
+    "codename": "quang_ngan"
+  },
+  {
+    "code": "19876",
+    "name": "Quảng Lợi",
+    "name_en": "Quang Loi",
+    "full_name": "Xã Quảng Lợi",
+    "full_name_en": "Quang Loi Commune",
+    "type": "xã",
+    "district_code": "477",
+    "codename": "quang_loi"
+  },
+  {
+    "code": "19879",
+    "name": "Quảng Công",
+    "name_en": "Quang Cong",
+    "full_name": "Xã Quảng Công",
+    "full_name_en": "Quang Cong Commune",
+    "type": "xã",
+    "district_code": "477",
+    "codename": "quang_cong"
+  },
+  {
+    "code": "19882",
+    "name": "Quảng Phước",
+    "name_en": "Quang Phuoc",
+    "full_name": "Xã Quảng Phước",
+    "full_name_en": "Quang Phuoc Commune",
+    "type": "xã",
+    "district_code": "477",
+    "codename": "quang_phuoc"
+  },
+  {
+    "code": "19885",
+    "name": "Quảng Vinh",
+    "name_en": "Quang Vinh",
+    "full_name": "Xã Quảng Vinh",
+    "full_name_en": "Quang Vinh Commune",
+    "type": "xã",
+    "district_code": "477",
+    "codename": "quang_vinh"
+  },
+  {
+    "code": "19888",
+    "name": "Quảng An",
+    "name_en": "Quang An",
+    "full_name": "Xã Quảng An",
+    "full_name_en": "Quang An Commune",
+    "type": "xã",
+    "district_code": "477",
+    "codename": "quang_an"
+  },
+  {
+    "code": "19891",
+    "name": "Quảng Thành",
+    "name_en": "Quang Thanh",
+    "full_name": "Xã Quảng Thành",
+    "full_name_en": "Quang Thanh Commune",
+    "type": "xã",
+    "district_code": "477",
+    "codename": "quang_thanh"
+  },
+  {
+    "code": "19894",
+    "name": "Quảng Thọ",
+    "name_en": "Quang Tho",
+    "full_name": "Xã Quảng Thọ",
+    "full_name_en": "Quang Tho Commune",
+    "type": "xã",
+    "district_code": "477",
+    "codename": "quang_tho"
+  },
+  {
+    "code": "19897",
+    "name": "Quảng Phú",
+    "name_en": "Quang Phu",
+    "full_name": "Xã Quảng Phú",
+    "full_name_en": "Quang Phu Commune",
+    "type": "xã",
+    "district_code": "477",
+    "codename": "quang_phu"
+  }
+]

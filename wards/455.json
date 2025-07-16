@@ -1,0 +1,262 @@
+[
+  {
+    "code": "19111",
+    "name": "Hoàn Lão",
+    "name_en": "Hoan Lao",
+    "full_name": "Thị trấn Hoàn Lão",
+    "full_name_en": "Hoan Lao Township",
+    "type": "thị trấn",
+    "district_code": "455",
+    "codename": "hoan_lao"
+  },
+  {
+    "code": "19114",
+    "name": "NT Việt Trung",
+    "name_en": "NT Viet Trung",
+    "full_name": "Thị trấn NT Việt Trung",
+    "full_name_en": "NT Viet Trung Township",
+    "type": "thị trấn",
+    "district_code": "455",
+    "codename": "nt_viet_trung"
+  },
+  {
+    "code": "19117",
+    "name": "Xuân Trạch",
+    "name_en": "Xuan Trach",
+    "full_name": "Xã Xuân Trạch",
+    "full_name_en": "Xuan Trach Commune",
+    "type": "xã",
+    "district_code": "455",
+    "codename": "xuan_trach"
+  },
+  {
+    "code": "19123",
+    "name": "Hạ Mỹ",
+    "name_en": "Ha My",
+    "full_name": "Xã Hạ Mỹ",
+    "full_name_en": "Ha My Commune",
+    "type": "xã",
+    "district_code": "455",
+    "codename": "ha_my"
+  },
+  {
+    "code": "19126",
+    "name": "Bắc Trạch",
+    "name_en": "Bac Trach",
+    "full_name": "Xã Bắc Trạch",
+    "full_name_en": "Bac Trach Commune",
+    "type": "xã",
+    "district_code": "455",
+    "codename": "bac_trach"
+  },
+  {
+    "code": "19129",
+    "name": "Lâm Trạch",
+    "name_en": "Lam Trach",
+    "full_name": "Xã Lâm Trạch",
+    "full_name_en": "Lam Trach Commune",
+    "type": "xã",
+    "district_code": "455",
+    "codename": "lam_trach"
+  },
+  {
+    "code": "19132",
+    "name": "Thanh Trạch",
+    "name_en": "Thanh Trach",
+    "full_name": "Xã Thanh Trạch",
+    "full_name_en": "Thanh Trach Commune",
+    "type": "xã",
+    "district_code": "455",
+    "codename": "thanh_trach"
+  },
+  {
+    "code": "19135",
+    "name": "Liên Trạch",
+    "name_en": "Lien Trach",
+    "full_name": "Xã Liên Trạch",
+    "full_name_en": "Lien Trach Commune",
+    "type": "xã",
+    "district_code": "455",
+    "codename": "lien_trach"
+  },
+  {
+    "code": "19138",
+    "name": "Phúc Trạch",
+    "name_en": "Phuc Trach",
+    "full_name": "Xã Phúc Trạch",
+    "full_name_en": "Phuc Trach Commune",
+    "type": "xã",
+    "district_code": "455",
+    "codename": "phuc_trach"
+  },
+  {
+    "code": "19141",
+    "name": "Cự Nẫm",
+    "name_en": "Cu Nam",
+    "full_name": "Xã Cự Nẫm",
+    "full_name_en": "Cu Nam Commune",
+    "type": "xã",
+    "district_code": "455",
+    "codename": "cu_nam"
+  },
+  {
+    "code": "19144",
+    "name": "Hải Phú",
+    "name_en": "Hai Phu",
+    "full_name": "Xã Hải Phú",
+    "full_name_en": "Hai Phu Commune",
+    "type": "xã",
+    "district_code": "455",
+    "codename": "hai_phu"
+  },
+  {
+    "code": "19147",
+    "name": "Thượng Trạch",
+    "name_en": "Thuong Trach",
+    "full_name": "Xã Thượng Trạch",
+    "full_name_en": "Thuong Trach Commune",
+    "type": "xã",
+    "district_code": "455",
+    "codename": "thuong_trach"
+  },
+  {
+    "code": "19150",
+    "name": "Sơn Lộc",
+    "name_en": "Son Loc",
+    "full_name": "Xã Sơn Lộc",
+    "full_name_en": "Son Loc Commune",
+    "type": "xã",
+    "district_code": "455",
+    "codename": "son_loc"
+  },
+  {
+    "code": "19156",
+    "name": "Hưng Trạch",
+    "name_en": "Hung Trach",
+    "full_name": "Xã Hưng Trạch",
+    "full_name_en": "Hung Trach Commune",
+    "type": "xã",
+    "district_code": "455",
+    "codename": "hung_trach"
+  },
+  {
+    "code": "19159",
+    "name": "Đồng Trạch",
+    "name_en": "Dong Trach",
+    "full_name": "Xã Đồng Trạch",
+    "full_name_en": "Dong Trach Commune",
+    "type": "xã",
+    "district_code": "455",
+    "codename": "dong_trach"
+  },
+  {
+    "code": "19162",
+    "name": "Đức Trạch",
+    "name_en": "Duc Trach",
+    "full_name": "Xã Đức Trạch",
+    "full_name_en": "Duc Trach Commune",
+    "type": "xã",
+    "district_code": "455",
+    "codename": "duc_trach"
+  },
+  {
+    "code": "19165",
+    "name": "Phong Nha",
+    "name_en": "Phong Nha",
+    "full_name": "Thị trấn Phong Nha",
+    "full_name_en": "Phong Nha Township",
+    "type": "thị trấn",
+    "district_code": "455",
+    "codename": "phong_nha"
+  },
+  {
+    "code": "19168",
+    "name": "Vạn Trạch",
+    "name_en": "Van Trach",
+    "full_name": "Xã Vạn Trạch",
+    "full_name_en": "Van Trach Commune",
+    "type": "xã",
+    "district_code": "455",
+    "codename": "van_trach"
+  },
+  {
+    "code": "19174",
+    "name": "Phú Định",
+    "name_en": "Phu Dinh",
+    "full_name": "Xã Phú Định",
+    "full_name_en": "Phu Dinh Commune",
+    "type": "xã",
+    "district_code": "455",
+    "codename": "phu_dinh"
+  },
+  {
+    "code": "19177",
+    "name": "Trung Trạch",
+    "name_en": "Trung Trach",
+    "full_name": "Xã Trung Trạch",
+    "full_name_en": "Trung Trach Commune",
+    "type": "xã",
+    "district_code": "455",
+    "codename": "trung_trach"
+  },
+  {
+    "code": "19180",
+    "name": "Tây Trạch",
+    "name_en": "Tay Trach",
+    "full_name": "Xã Tây Trạch",
+    "full_name_en": "Tay Trach Commune",
+    "type": "xã",
+    "district_code": "455",
+    "codename": "tay_trach"
+  },
+  {
+    "code": "19183",
+    "name": "Hòa Trạch",
+    "name_en": "Hoa Trach",
+    "full_name": "Xã Hòa Trạch",
+    "full_name_en": "Hoa Trach Commune",
+    "type": "xã",
+    "district_code": "455",
+    "codename": "hoa_trach"
+  },
+  {
+    "code": "19186",
+    "name": "Đại Trạch",
+    "name_en": "Dai Trach",
+    "full_name": "Xã Đại Trạch",
+    "full_name_en": "Dai Trach Commune",
+    "type": "xã",
+    "district_code": "455",
+    "codename": "dai_trach"
+  },
+  {
+    "code": "19189",
+    "name": "Nhân Trạch",
+    "name_en": "Nhan Trach",
+    "full_name": "Xã Nhân Trạch",
+    "full_name_en": "Nhan Trach Commune",
+    "type": "xã",
+    "district_code": "455",
+    "codename": "nhan_trach"
+  },
+  {
+    "code": "19192",
+    "name": "Tân Trạch",
+    "name_en": "Tan Trach",
+    "full_name": "Xã Tân Trạch",
+    "full_name_en": "Tan Trach Commune",
+    "type": "xã",
+    "district_code": "455",
+    "codename": "tan_trach"
+  },
+  {
+    "code": "19198",
+    "name": "Lý Nam",
+    "name_en": "Ly Nam",
+    "full_name": "Xã Lý Nam",
+    "full_name_en": "Ly Nam Commune",
+    "type": "xã",
+    "district_code": "455",
+    "codename": "ly_nam"
+  }
+]

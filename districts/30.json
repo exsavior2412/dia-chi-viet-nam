@@ -1,0 +1,122 @@
+[
+  {
+    "code": "288",
+    "name": "Hải Dương",
+    "name_en": "Hai Duong",
+    "full_name": "Thành phố Hải Dương",
+    "full_name_en": "Hai Duong City",
+    "type": "thành phố",
+    "province_code": "30",
+    "codename": "hai_duong"
+  },
+  {
+    "code": "290",
+    "name": "Chí Linh",
+    "name_en": "Chi Linh",
+    "full_name": "Thành phố Chí Linh",
+    "full_name_en": "Chi Linh City",
+    "type": "thành phố",
+    "province_code": "30",
+    "codename": "chi_linh"
+  },
+  {
+    "code": "291",
+    "name": "Nam Sách",
+    "name_en": "Nam Sach",
+    "full_name": "Huyện Nam Sách",
+    "full_name_en": "Nam Sach District",
+    "type": "huyện",
+    "province_code": "30",
+    "codename": "nam_sach"
+  },
+  {
+    "code": "292",
+    "name": "Kinh Môn",
+    "name_en": "Kinh Mon",
+    "full_name": "Thị xã Kinh Môn",
+    "full_name_en": "Kinh Mon Town",
+    "type": "thị xã",
+    "province_code": "30",
+    "codename": "kinh_mon"
+  },
+  {
+    "code": "293",
+    "name": "Kim Thành",
+    "name_en": "Kim Thanh",
+    "full_name": "Huyện Kim Thành",
+    "full_name_en": "Kim Thanh District",
+    "type": "huyện",
+    "province_code": "30",
+    "codename": "kim_thanh"
+  },
+  {
+    "code": "294",
+    "name": "Thanh Hà",
+    "name_en": "Thanh Ha",
+    "full_name": "Huyện Thanh Hà",
+    "full_name_en": "Thanh Ha District",
+    "type": "huyện",
+    "province_code": "30",
+    "codename": "thanh_ha"
+  },
+  {
+    "code": "295",
+    "name": "Cẩm Giàng",
+    "name_en": "Cam Giang",
+    "full_name": "Huyện Cẩm Giàng",
+    "full_name_en": "Cam Giang District",
+    "type": "huyện",
+    "province_code": "30",
+    "codename": "cam_giang"
+  },
+  {
+    "code": "296",
+    "name": "Bình Giang",
+    "name_en": "Binh Giang",
+    "full_name": "Huyện Bình Giang",
+    "full_name_en": "Binh Giang District",
+    "type": "huyện",
+    "province_code": "30",
+    "codename": "binh_giang"
+  },
+  {
+    "code": "297",
+    "name": "Gia Lộc",
+    "name_en": "Gia Loc",
+    "full_name": "Huyện Gia Lộc",
+    "full_name_en": "Gia Loc District",
+    "type": "huyện",
+    "province_code": "30",
+    "codename": "gia_loc"
+  },
+  {
+    "code": "298",
+    "name": "Tứ Kỳ",
+    "name_en": "Tu Ky",
+    "full_name": "Huyện Tứ Kỳ",
+    "full_name_en": "Tu Ky District",
+    "type": "huyện",
+    "province_code": "30",
+    "codename": "tu_ky"
+  },
+  {
+    "code": "299",
+    "name": "Ninh Giang",
+    "name_en": "Ninh Giang",
+    "full_name": "Huyện Ninh Giang",
+    "full_name_en": "Ninh Giang District",
+    "type": "huyện",
+    "province_code": "30",
+    "codename": "ninh_giang"
+  },
+  {
+    "code": "300",
+    "name": "Thanh Miện",
+    "name_en": "Thanh Mien",
+    "full_name": "Huyện Thanh Miện",
+    "full_name_en": "Thanh Mien District",
+    "type": "huyện",
+    "province_code": "30",
+    "codename": "thanh_mien"
+  }
+]

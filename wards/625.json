@@ -1,0 +1,132 @@
+[
+  {
+    "code": "23638",
+    "name": "KBang",
+    "name_en": "KBang",
+    "full_name": "Thị trấn KBang",
+    "full_name_en": "KBang Township",
+    "type": "thị trấn",
+    "district_code": "625",
+    "codename": "kbang"
+  },
+  {
+    "code": "23641",
+    "name": "Kon Pne",
+    "name_en": "Kon Pne",
+    "full_name": "Xã Kon Pne",
+    "full_name_en": "Kon Pne Commune",
+    "type": "xã",
+    "district_code": "625",
+    "codename": "kon_pne"
+  },
+  {
+    "code": "23644",
+    "name": "Đăk Roong",
+    "name_en": "Dak Roong",
+    "full_name": "Xã Đăk Roong",
+    "full_name_en": "Dak Roong Commune",
+    "type": "xã",
+    "district_code": "625",
+    "codename": "dak_roong"
+  },
+  {
+    "code": "23647",
+    "name": "Sơn Lang",
+    "name_en": "Son Lang",
+    "full_name": "Xã Sơn Lang",
+    "full_name_en": "Son Lang Commune",
+    "type": "xã",
+    "district_code": "625",
+    "codename": "son_lang"
+  },
+  {
+    "code": "23650",
+    "name": "KRong",
+    "name_en": "KRong",
+    "full_name": "Xã KRong",
+    "full_name_en": "KRong Commune",
+    "type": "xã",
+    "district_code": "625",
+    "codename": "krong"
+  },
+  {
+    "code": "23653",
+    "name": "Sơ Pai",
+    "name_en": "So Pai",
+    "full_name": "Xã Sơ Pai",
+    "full_name_en": "So Pai Commune",
+    "type": "xã",
+    "district_code": "625",
+    "codename": "so_pai"
+  },
+  {
+    "code": "23656",
+    "name": "Lơ Ku",
+    "name_en": "Lo Ku",
+    "full_name": "Xã Lơ Ku",
+    "full_name_en": "Lo Ku Commune",
+    "type": "xã",
+    "district_code": "625",
+    "codename": "lo_ku"
+  },
+  {
+    "code": "23659",
+    "name": "Đông",
+    "name_en": "Dong",
+    "full_name": "Xã Đông",
+    "full_name_en": "Dong Commune",
+    "type": "xã",
+    "district_code": "625",
+    "codename": "dong"
+  },
+  {
+    "code": "23660",
+    "name": "Đak SMar",
+    "name_en": "Dak SMar",
+    "full_name": "Xã Đak SMar",
+    "full_name_en": "Dak SMar Commune",
+    "type": "xã",
+    "district_code": "625",
+    "codename": "dak_smar"
+  },
+  {
+    "code": "23662",
+    "name": "Nghĩa An",
+    "name_en": "Nghia An",
+    "full_name": "Xã Nghĩa An",
+    "full_name_en": "Nghia An Commune",
+    "type": "xã",
+    "district_code": "625",
+    "codename": "nghia_an"
+  },
+  {
+    "code": "23665",
+    "name": "Tơ Tung",
+    "name_en": "To Tung",
+    "full_name": "Xã Tơ Tung",
+    "full_name_en": "To Tung Commune",
+    "type": "xã",
+    "district_code": "625",
+    "codename": "to_tung"
+  },
+  {
+    "code": "23668",
+    "name": "Kông Lơng Khơng",
+    "name_en": "Kong Long Khong",
+    "full_name": "Xã Kông Lơng Khơng",
+    "full_name_en": "Kong Long Khong Commune",
+    "type": "xã",
+    "district_code": "625",
+    "codename": "kong_long_khong"
+  },
+  {
+    "code": "23674",
+    "name": "Kông Bơ La",
+    "name_en": "Kong Bo La",
+    "full_name": "Xã Kông Bơ La",
+    "full_name_en": "Kong Bo La Commune",
+    "type": "xã",
+    "district_code": "625",
+    "codename": "kong_bo_la"
+  }
+]

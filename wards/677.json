@@ -1,0 +1,92 @@
+[
+  {
+    "code": "24928",
+    "name": "D'Ran",
+    "name_en": "D'Ran",
+    "full_name": "Thị trấn D'Ran",
+    "full_name_en": "D'Ran Township",
+    "type": "thị trấn",
+    "district_code": "677",
+    "codename": "dran"
+  },
+  {
+    "code": "24931",
+    "name": "Thạnh Mỹ",
+    "name_en": "Thanh My",
+    "full_name": "Thị trấn Thạnh Mỹ",
+    "full_name_en": "Thanh My Township",
+    "type": "thị trấn",
+    "district_code": "677",
+    "codename": "thanh_my"
+  },
+  {
+    "code": "24934",
+    "name": "Lạc Xuân",
+    "name_en": "Lac Xuan",
+    "full_name": "Xã Lạc Xuân",
+    "full_name_en": "Lac Xuan Commune",
+    "type": "xã",
+    "district_code": "677",
+    "codename": "lac_xuan"
+  },
+  {
+    "code": "24937",
+    "name": "Đạ Ròn",
+    "name_en": "Da Ron",
+    "full_name": "Xã Đạ Ròn",
+    "full_name_en": "Da Ron Commune",
+    "type": "xã",
+    "district_code": "677",
+    "codename": "da_ron"
+  },
+  {
+    "code": "24940",
+    "name": "Lạc Lâm",
+    "name_en": "Lac Lam",
+    "full_name": "Xã Lạc Lâm",
+    "full_name_en": "Lac Lam Commune",
+    "type": "xã",
+    "district_code": "677",
+    "codename": "lac_lam"
+  },
+  {
+    "code": "24943",
+    "name": "Ka Đô",
+    "name_en": "Ka Do",
+    "full_name": "Xã Ka Đô",
+    "full_name_en": "Ka Do Commune",
+    "type": "xã",
+    "district_code": "677",
+    "codename": "ka_do"
+  },
+  {
+    "code": "24949",
+    "name": "Ka Đơn",
+    "name_en": "Ka Don",
+    "full_name": "Xã Ka Đơn",
+    "full_name_en": "Ka Don Commune",
+    "type": "xã",
+    "district_code": "677",
+    "codename": "ka_don"
+  },
+  {
+    "code": "24952",
+    "name": "Tu Tra",
+    "name_en": "Tu Tra",
+    "full_name": "Xã Tu Tra",
+    "full_name_en": "Tu Tra Commune",
+    "type": "xã",
+    "district_code": "677",
+    "codename": "tu_tra"
+  },
+  {
+    "code": "24955",
+    "name": "Quảng Lập",
+    "name_en": "Quang Lap",
+    "full_name": "Xã Quảng Lập",
+    "full_name_en": "Quang Lap Commune",
+    "type": "xã",
+    "district_code": "677",
+    "codename": "quang_lap"
+  }
+]

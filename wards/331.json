@@ -1,0 +1,152 @@
+[
+  {
+    "code": "12280",
+    "name": "Lương Bằng",
+    "name_en": "Luong Bang",
+    "full_name": "Thị trấn Lương Bằng",
+    "full_name_en": "Luong Bang Township",
+    "type": "thị trấn",
+    "district_code": "331",
+    "codename": "luong_bang"
+  },
+  {
+    "code": "12283",
+    "name": "Nghĩa Dân",
+    "name_en": "Nghia Dan",
+    "full_name": "Xã Nghĩa Dân",
+    "full_name_en": "Nghia Dan Commune",
+    "type": "xã",
+    "district_code": "331",
+    "codename": "nghia_dan"
+  },
+  {
+    "code": "12286",
+    "name": "Toàn Thắng",
+    "name_en": "Toan Thang",
+    "full_name": "Xã Toàn Thắng",
+    "full_name_en": "Toan Thang Commune",
+    "type": "xã",
+    "district_code": "331",
+    "codename": "toan_thang"
+  },
+  {
+    "code": "12289",
+    "name": "Vĩnh Xá",
+    "name_en": "Vinh Xa",
+    "full_name": "Xã Vĩnh Xá",
+    "full_name_en": "Vinh Xa Commune",
+    "type": "xã",
+    "district_code": "331",
+    "codename": "vinh_xa"
+  },
+  {
+    "code": "12292",
+    "name": "Phạm Ngũ Lão",
+    "name_en": "Pham Ngu Lao",
+    "full_name": "Xã Phạm Ngũ Lão",
+    "full_name_en": "Pham Ngu Lao Commune",
+    "type": "xã",
+    "district_code": "331",
+    "codename": "pham_ngu_lao"
+  },
+  {
+    "code": "12295",
+    "name": "Phú Thọ",
+    "name_en": "Phu Tho",
+    "full_name": "Xã Phú Thọ",
+    "full_name_en": "Phu Tho Commune",
+    "type": "xã",
+    "district_code": "331",
+    "codename": "phu_tho"
+  },
+  {
+    "code": "12298",
+    "name": "Đồng Thanh",
+    "name_en": "Dong Thanh",
+    "full_name": "Xã Đồng Thanh",
+    "full_name_en": "Dong Thanh Commune",
+    "type": "xã",
+    "district_code": "331",
+    "codename": "dong_thanh"
+  },
+  {
+    "code": "12301",
+    "name": "Song Mai",
+    "name_en": "Song Mai",
+    "full_name": "Xã Song Mai",
+    "full_name_en": "Song Mai Commune",
+    "type": "xã",
+    "district_code": "331",
+    "codename": "song_mai"
+  },
+  {
+    "code": "12304",
+    "name": "Chính Nghĩa",
+    "name_en": "Chinh Nghia",
+    "full_name": "Xã Chính Nghĩa",
+    "full_name_en": "Chinh Nghia Commune",
+    "type": "xã",
+    "district_code": "331",
+    "codename": "chinh_nghia"
+  },
+  {
+    "code": "12313",
+    "name": "Mai Động",
+    "name_en": "Mai Dong",
+    "full_name": "Xã Mai Động",
+    "full_name_en": "Mai Dong Commune",
+    "type": "xã",
+    "district_code": "331",
+    "codename": "mai_dong"
+  },
+  {
+    "code": "12316",
+    "name": "Đức Hợp",
+    "name_en": "Duc Hop",
+    "full_name": "Xã Đức Hợp",
+    "full_name_en": "Duc Hop Commune",
+    "type": "xã",
+    "district_code": "331",
+    "codename": "duc_hop"
+  },
+  {
+    "code": "12319",
+    "name": "Hùng An",
+    "name_en": "Hung An",
+    "full_name": "Xã Hùng An",
+    "full_name_en": "Hung An Commune",
+    "type": "xã",
+    "district_code": "331",
+    "codename": "hung_an"
+  },
+  {
+    "code": "12322",
+    "name": "Ngọc Thanh",
+    "name_en": "Ngoc Thanh",
+    "full_name": "Xã Ngọc Thanh",
+    "full_name_en": "Ngoc Thanh Commune",
+    "type": "xã",
+    "district_code": "331",
+    "codename": "ngoc_thanh"
+  },
+  {
+    "code": "12325",
+    "name": "Diên Hồng",
+    "name_en": "Dien Hong",
+    "full_name": "Xã Diên Hồng",
+    "full_name_en": "Dien Hong Commune",
+    "type": "xã",
+    "district_code": "331",
+    "codename": "dien_hong"
+  },
+  {
+    "code": "12328",
+    "name": "Hiệp Cường",
+    "name_en": "Hiep Cuong",
+    "full_name": "Xã Hiệp Cường",
+    "full_name_en": "Hiep Cuong Commune",
+    "type": "xã",
+    "district_code": "331",
+    "codename": "hiep_cuong"
+  }
+]

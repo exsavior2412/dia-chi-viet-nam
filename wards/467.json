@@ -1,0 +1,132 @@
+[
+  {
+    "code": "19555",
+    "name": "Krông Klang",
+    "name_en": "Krong Klang",
+    "full_name": "Thị trấn Krông Klang",
+    "full_name_en": "Krong Klang Township",
+    "type": "thị trấn",
+    "district_code": "467",
+    "codename": "krong_klang"
+  },
+  {
+    "code": "19558",
+    "name": "Mò Ó",
+    "name_en": "Mo O",
+    "full_name": "Xã Mò Ó",
+    "full_name_en": "Mo O Commune",
+    "type": "xã",
+    "district_code": "467",
+    "codename": "mo_o"
+  },
+  {
+    "code": "19561",
+    "name": "Hướng Hiệp",
+    "name_en": "Huong Hiep",
+    "full_name": "Xã Hướng Hiệp",
+    "full_name_en": "Huong Hiep Commune",
+    "type": "xã",
+    "district_code": "467",
+    "codename": "huong_hiep"
+  },
+  {
+    "code": "19564",
+    "name": "Đa Krông",
+    "name_en": "Da Krong",
+    "full_name": "Xã Đa Krông",
+    "full_name_en": "Da Krong Commune",
+    "type": "xã",
+    "district_code": "467",
+    "codename": "da_krong"
+  },
+  {
+    "code": "19567",
+    "name": "Triệu Nguyên",
+    "name_en": "Trieu Nguyen",
+    "full_name": "Xã Triệu Nguyên",
+    "full_name_en": "Trieu Nguyen Commune",
+    "type": "xã",
+    "district_code": "467",
+    "codename": "trieu_nguyen"
+  },
+  {
+    "code": "19570",
+    "name": "Ba Lòng",
+    "name_en": "Ba Long",
+    "full_name": "Xã Ba Lòng",
+    "full_name_en": "Ba Long Commune",
+    "type": "xã",
+    "district_code": "467",
+    "codename": "ba_long"
+  },
+  {
+    "code": "19576",
+    "name": "Ba Nang",
+    "name_en": "Ba Nang",
+    "full_name": "Xã Ba Nang",
+    "full_name_en": "Ba Nang Commune",
+    "type": "xã",
+    "district_code": "467",
+    "codename": "ba_nang"
+  },
+  {
+    "code": "19579",
+    "name": "Tà Long",
+    "name_en": "Ta Long",
+    "full_name": "Xã Tà Long",
+    "full_name_en": "Ta Long Commune",
+    "type": "xã",
+    "district_code": "467",
+    "codename": "ta_long"
+  },
+  {
+    "code": "19582",
+    "name": "Húc Nghì",
+    "name_en": "Huc Nghi",
+    "full_name": "Xã Húc Nghì",
+    "full_name_en": "Huc Nghi Commune",
+    "type": "xã",
+    "district_code": "467",
+    "codename": "huc_nghi"
+  },
+  {
+    "code": "19585",
+    "name": "A Vao",
+    "name_en": "A Vao",
+    "full_name": "Xã A Vao",
+    "full_name_en": "A Vao Commune",
+    "type": "xã",
+    "district_code": "467",
+    "codename": "a_vao"
+  },
+  {
+    "code": "19588",
+    "name": "Tà Rụt",
+    "name_en": "Ta Rut",
+    "full_name": "Xã Tà Rụt",
+    "full_name_en": "Ta Rut Commune",
+    "type": "xã",
+    "district_code": "467",
+    "codename": "ta_rut"
+  },
+  {
+    "code": "19591",
+    "name": "A Bung",
+    "name_en": "A Bung",
+    "full_name": "Xã A Bung",
+    "full_name_en": "A Bung Commune",
+    "type": "xã",
+    "district_code": "467",
+    "codename": "a_bung"
+  },
+  {
+    "code": "19594",
+    "name": "A Ngo",
+    "name_en": "A Ngo",
+    "full_name": "Xã A Ngo",
+    "full_name_en": "A Ngo Commune",
+    "type": "xã",
+    "district_code": "467",
+    "codename": "a_ngo"
+  }
+]

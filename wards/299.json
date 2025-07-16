@@ -1,0 +1,162 @@
+[
+  {
+    "code": "11161",
+    "name": "Ứng Hoè",
+    "name_en": "Ung Hoe",
+    "full_name": "Xã Ứng Hoè",
+    "full_name_en": "Ung Hoe Commune",
+    "type": "xã",
+    "district_code": "299",
+    "codename": "ung_hoe"
+  },
+  {
+    "code": "11164",
+    "name": "Nghĩa An",
+    "name_en": "Nghia An",
+    "full_name": "Xã Nghĩa An",
+    "full_name_en": "Nghia An Commune",
+    "type": "xã",
+    "district_code": "299",
+    "codename": "nghia_an"
+  },
+  {
+    "code": "11167",
+    "name": "Đức Phúc",
+    "name_en": "Duc Phuc",
+    "full_name": "Xã Đức Phúc",
+    "full_name_en": "Duc Phuc Commune",
+    "type": "xã",
+    "district_code": "299",
+    "codename": "duc_phuc"
+  },
+  {
+    "code": "11173",
+    "name": "An Đức",
+    "name_en": "An Duc",
+    "full_name": "Xã An Đức",
+    "full_name_en": "An Duc Commune",
+    "type": "xã",
+    "district_code": "299",
+    "codename": "an_duc"
+  },
+  {
+    "code": "11179",
+    "name": "Tân Hương",
+    "name_en": "Tan Huong",
+    "full_name": "Xã Tân Hương",
+    "full_name_en": "Tan Huong Commune",
+    "type": "xã",
+    "district_code": "299",
+    "codename": "tan_huong"
+  },
+  {
+    "code": "11185",
+    "name": "Vĩnh Hòa",
+    "name_en": "Vinh Hoa",
+    "full_name": "Xã Vĩnh Hòa",
+    "full_name_en": "Vinh Hoa Commune",
+    "type": "xã",
+    "district_code": "299",
+    "codename": "vinh_hoa"
+  },
+  {
+    "code": "11188",
+    "name": "Bình Xuyên",
+    "name_en": "Binh Xuyen",
+    "full_name": "Xã Bình Xuyên",
+    "full_name_en": "Binh Xuyen Commune",
+    "type": "xã",
+    "district_code": "299",
+    "codename": "binh_xuyen"
+  },
+  {
+    "code": "11197",
+    "name": "Tân Phong",
+    "name_en": "Tan Phong",
+    "full_name": "Xã Tân Phong",
+    "full_name_en": "Tan Phong Commune",
+    "type": "xã",
+    "district_code": "299",
+    "codename": "tan_phong"
+  },
+  {
+    "code": "11203",
+    "name": "Ninh Giang",
+    "name_en": "Ninh Giang",
+    "full_name": "Thị trấn Ninh Giang",
+    "full_name_en": "Ninh Giang Township",
+    "type": "thị trấn",
+    "district_code": "299",
+    "codename": "ninh_giang"
+  },
+  {
+    "code": "11206",
+    "name": "Tân Quang",
+    "name_en": "Tan Quang",
+    "full_name": "Xã Tân Quang",
+    "full_name_en": "Tan Quang Commune",
+    "type": "xã",
+    "district_code": "299",
+    "codename": "tan_quang"
+  },
+  {
+    "code": "11215",
+    "name": "Hồng Dụ",
+    "name_en": "Hong Du",
+    "full_name": "Xã Hồng Dụ",
+    "full_name_en": "Hong Du Commune",
+    "type": "xã",
+    "district_code": "299",
+    "codename": "hong_du"
+  },
+  {
+    "code": "11218",
+    "name": "Văn Hội",
+    "name_en": "Van Hoi",
+    "full_name": "Xã Văn Hội",
+    "full_name_en": "Van Hoi Commune",
+    "type": "xã",
+    "district_code": "299",
+    "codename": "van_hoi"
+  },
+  {
+    "code": "11224",
+    "name": "Hồng Phong",
+    "name_en": "Hong Phong",
+    "full_name": "Xã Hồng Phong",
+    "full_name_en": "Hong Phong Commune",
+    "type": "xã",
+    "district_code": "299",
+    "codename": "hong_phong"
+  },
+  {
+    "code": "11227",
+    "name": "Hiệp Lực",
+    "name_en": "Hiep Luc",
+    "full_name": "Xã Hiệp Lực",
+    "full_name_en": "Hiep Luc Commune",
+    "type": "xã",
+    "district_code": "299",
+    "codename": "hiep_luc"
+  },
+  {
+    "code": "11230",
+    "name": "Kiến Phúc",
+    "name_en": "Kien Phuc",
+    "full_name": "Xã Kiến Phúc",
+    "full_name_en": "Kien Phuc Commune",
+    "type": "xã",
+    "district_code": "299",
+    "codename": "kien_phuc"
+  },
+  {
+    "code": "11233",
+    "name": "Hưng Long",
+    "name_en": "Hung Long",
+    "full_name": "Xã Hưng Long",
+    "full_name_en": "Hung Long Commune",
+    "type": "xã",
+    "district_code": "299",
+    "codename": "hung_long"
+  }
+]

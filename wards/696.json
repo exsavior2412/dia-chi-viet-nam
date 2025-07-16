@@ -1,0 +1,162 @@
+[
+  {
+    "code": "25396",
+    "name": "Đức Phong",
+    "name_en": "Duc Phong",
+    "full_name": "Thị trấn Đức Phong",
+    "full_name_en": "Duc Phong Township",
+    "type": "thị trấn",
+    "district_code": "696",
+    "codename": "duc_phong"
+  },
+  {
+    "code": "25398",
+    "name": "Đường 10",
+    "name_en": "Duong 10",
+    "full_name": "Xã Đường 10",
+    "full_name_en": "Commune Duong 10",
+    "type": "xã",
+    "district_code": "696",
+    "codename": "duong_10"
+  },
+  {
+    "code": "25399",
+    "name": "Đak Nhau",
+    "name_en": "Dak Nhau",
+    "full_name": "Xã Đak Nhau",
+    "full_name_en": "Dak Nhau Commune",
+    "type": "xã",
+    "district_code": "696",
+    "codename": "dak_nhau"
+  },
+  {
+    "code": "25400",
+    "name": "Phú Sơn",
+    "name_en": "Phu Son",
+    "full_name": "Xã Phú Sơn",
+    "full_name_en": "Phu Son Commune",
+    "type": "xã",
+    "district_code": "696",
+    "codename": "phu_son"
+  },
+  {
+    "code": "25402",
+    "name": "Thọ Sơn",
+    "name_en": "Tho Son",
+    "full_name": "Xã Thọ Sơn",
+    "full_name_en": "Tho Son Commune",
+    "type": "xã",
+    "district_code": "696",
+    "codename": "tho_son"
+  },
+  {
+    "code": "25404",
+    "name": "Bình Minh",
+    "name_en": "Binh Minh",
+    "full_name": "Xã Bình Minh",
+    "full_name_en": "Binh Minh Commune",
+    "type": "xã",
+    "district_code": "696",
+    "codename": "binh_minh"
+  },
+  {
+    "code": "25405",
+    "name": "Bom Bo",
+    "name_en": "Bom Bo",
+    "full_name": "Xã Bom Bo",
+    "full_name_en": "Bom Bo Commune",
+    "type": "xã",
+    "district_code": "696",
+    "codename": "bom_bo"
+  },
+  {
+    "code": "25408",
+    "name": "Minh Hưng",
+    "name_en": "Minh Hung",
+    "full_name": "Xã Minh Hưng",
+    "full_name_en": "Minh Hung Commune",
+    "type": "xã",
+    "district_code": "696",
+    "codename": "minh_hung"
+  },
+  {
+    "code": "25411",
+    "name": "Đoàn Kết",
+    "name_en": "Doan Ket",
+    "full_name": "Xã Đoàn Kết",
+    "full_name_en": "Doan Ket Commune",
+    "type": "xã",
+    "district_code": "696",
+    "codename": "doan_ket"
+  },
+  {
+    "code": "25414",
+    "name": "Đồng Nai",
+    "name_en": "Dong Nai",
+    "full_name": "Xã Đồng Nai",
+    "full_name_en": "Dong Nai Commune",
+    "type": "xã",
+    "district_code": "696",
+    "codename": "dong_nai"
+  },
+  {
+    "code": "25417",
+    "name": "Đức Liễu",
+    "name_en": "Duc Lieu",
+    "full_name": "Xã Đức Liễu",
+    "full_name_en": "Duc Lieu Commune",
+    "type": "xã",
+    "district_code": "696",
+    "codename": "duc_lieu"
+  },
+  {
+    "code": "25420",
+    "name": "Thống Nhất",
+    "name_en": "Thong Nhat",
+    "full_name": "Xã Thống Nhất",
+    "full_name_en": "Thong Nhat Commune",
+    "type": "xã",
+    "district_code": "696",
+    "codename": "thong_nhat"
+  },
+  {
+    "code": "25423",
+    "name": "Nghĩa Trung",
+    "name_en": "Nghia Trung",
+    "full_name": "Xã Nghĩa Trung",
+    "full_name_en": "Nghia Trung Commune",
+    "type": "xã",
+    "district_code": "696",
+    "codename": "nghia_trung"
+  },
+  {
+    "code": "25424",
+    "name": "Nghĩa Bình",
+    "name_en": "Nghia Binh",
+    "full_name": "Xã Nghĩa Bình",
+    "full_name_en": "Nghia Binh Commune",
+    "type": "xã",
+    "district_code": "696",
+    "codename": "nghia_binh"
+  },
+  {
+    "code": "25426",
+    "name": "Đăng Hà",
+    "name_en": "Dang Ha",
+    "full_name": "Xã Đăng Hà",
+    "full_name_en": "Dang Ha Commune",
+    "type": "xã",
+    "district_code": "696",
+    "codename": "dang_ha"
+  },
+  {
+    "code": "25429",
+    "name": "Phước Sơn",
+    "name_en": "Phuoc Son",
+    "full_name": "Xã Phước Sơn",
+    "full_name_en": "Phuoc Son Commune",
+    "type": "xã",
+    "district_code": "696",
+    "codename": "phuoc_son"
+  }
+]

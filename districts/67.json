@@ -1,0 +1,82 @@
+[
+  {
+    "code": "660",
+    "name": "Gia Nghĩa",
+    "name_en": "Gia Nghia",
+    "full_name": "Thành phố Gia Nghĩa",
+    "full_name_en": "Gia Nghia City",
+    "type": "thành phố",
+    "province_code": "67",
+    "codename": "gia_nghia"
+  },
+  {
+    "code": "661",
+    "name": "Đăk Glong",
+    "name_en": "Dak Glong",
+    "full_name": "Huyện Đăk Glong",
+    "full_name_en": "Dak Glong District",
+    "type": "huyện",
+    "province_code": "67",
+    "codename": "dak_glong"
+  },
+  {
+    "code": "662",
+    "name": "Cư Jút",
+    "name_en": "Cu Jut",
+    "full_name": "Huyện Cư Jút",
+    "full_name_en": "Cu Jut District",
+    "type": "huyện",
+    "province_code": "67",
+    "codename": "cu_jut"
+  },
+  {
+    "code": "663",
+    "name": "Đắk Mil",
+    "name_en": "Dak Mil",
+    "full_name": "Huyện Đắk Mil",
+    "full_name_en": "Dak Mil District",
+    "type": "huyện",
+    "province_code": "67",
+    "codename": "dak_mil"
+  },
+  {
+    "code": "664",
+    "name": "Krông Nô",
+    "name_en": "Krong No",
+    "full_name": "Huyện Krông Nô",
+    "full_name_en": "Krong No District",
+    "type": "huyện",
+    "province_code": "67",
+    "codename": "krong_no"
+  },
+  {
+    "code": "665",
+    "name": "Đắk Song",
+    "name_en": "Dak Song",
+    "full_name": "Huyện Đắk Song",
+    "full_name_en": "Dak Song District",
+    "type": "huyện",
+    "province_code": "67",
+    "codename": "dak_song"
+  },
+  {
+    "code": "666",
+    "name": "Đắk R'Lấp",
+    "name_en": "Dak R'Lap",
+    "full_name": "Huyện Đắk R'Lấp",
+    "full_name_en": "Dak R'Lap District",
+    "type": "huyện",
+    "province_code": "67",
+    "codename": "dak_rlap"
+  },
+  {
+    "code": "667",
+    "name": "Tuy Đức",
+    "name_en": "Tuy Duc",
+    "full_name": "Huyện Tuy Đức",
+    "full_name_en": "Tuy Duc District",
+    "type": "huyện",
+    "province_code": "67",
+    "codename": "tuy_duc"
+  }
+]

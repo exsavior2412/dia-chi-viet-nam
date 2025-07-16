@@ -1,0 +1,122 @@
+[
+  {
+    "code": "06613",
+    "name": "Đình Lập",
+    "name_en": "Dinh Lap",
+    "full_name": "Thị trấn Đình Lập",
+    "full_name_en": "Dinh Lap Township",
+    "type": "thị trấn",
+    "district_code": "189",
+    "codename": "dinh_lap"
+  },
+  {
+    "code": "06616",
+    "name": "NT Thái Bình",
+    "name_en": "NT Thai Binh",
+    "full_name": "Thị trấn NT Thái Bình",
+    "full_name_en": "NT Thai Binh Township",
+    "type": "thị trấn",
+    "district_code": "189",
+    "codename": "nt_thai_binh"
+  },
+  {
+    "code": "06619",
+    "name": "Bắc Xa",
+    "name_en": "Bac Xa",
+    "full_name": "Xã Bắc Xa",
+    "full_name_en": "Bac Xa Commune",
+    "type": "xã",
+    "district_code": "189",
+    "codename": "bac_xa"
+  },
+  {
+    "code": "06622",
+    "name": "Bính Xá",
+    "name_en": "Binh Xa",
+    "full_name": "Xã Bính Xá",
+    "full_name_en": "Binh Xa Commune",
+    "type": "xã",
+    "district_code": "189",
+    "codename": "binh_xa"
+  },
+  {
+    "code": "06625",
+    "name": "Kiên Mộc",
+    "name_en": "Kien Moc",
+    "full_name": "Xã Kiên Mộc",
+    "full_name_en": "Kien Moc Commune",
+    "type": "xã",
+    "district_code": "189",
+    "codename": "kien_moc"
+  },
+  {
+    "code": "06628",
+    "name": "Đình Lập",
+    "name_en": "Dinh Lap",
+    "full_name": "Xã Đình Lập",
+    "full_name_en": "Dinh Lap Commune",
+    "type": "xã",
+    "district_code": "189",
+    "codename": "dinh_lap"
+  },
+  {
+    "code": "06631",
+    "name": "Thái Bình",
+    "name_en": "Thai Binh",
+    "full_name": "Xã Thái Bình",
+    "full_name_en": "Thai Binh Commune",
+    "type": "xã",
+    "district_code": "189",
+    "codename": "thai_binh"
+  },
+  {
+    "code": "06634",
+    "name": "Cường Lợi",
+    "name_en": "Cuong Loi",
+    "full_name": "Xã Cường Lợi",
+    "full_name_en": "Cuong Loi Commune",
+    "type": "xã",
+    "district_code": "189",
+    "codename": "cuong_loi"
+  },
+  {
+    "code": "06637",
+    "name": "Châu Sơn",
+    "name_en": "Chau Son",
+    "full_name": "Xã Châu Sơn",
+    "full_name_en": "Chau Son Commune",
+    "type": "xã",
+    "district_code": "189",
+    "codename": "chau_son"
+  },
+  {
+    "code": "06640",
+    "name": "Lâm Ca",
+    "name_en": "Lam Ca",
+    "full_name": "Xã Lâm Ca",
+    "full_name_en": "Lam Ca Commune",
+    "type": "xã",
+    "district_code": "189",
+    "codename": "lam_ca"
+  },
+  {
+    "code": "06643",
+    "name": "Đồng Thắng",
+    "name_en": "Dong Thang",
+    "full_name": "Xã Đồng Thắng",
+    "full_name_en": "Dong Thang Commune",
+    "type": "xã",
+    "district_code": "189",
+    "codename": "dong_thang"
+  },
+  {
+    "code": "06646",
+    "name": "Bắc Lãng",
+    "name_en": "Bac Lang",
+    "full_name": "Xã Bắc Lãng",
+    "full_name_en": "Bac Lang Commune",
+    "type": "xã",
+    "district_code": "189",
+    "codename": "bac_lang"
+  }
+]

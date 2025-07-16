@@ -1,0 +1,142 @@
+[
+  {
+    "code": "01969",
+    "name": "Phủ Thông",
+    "name_en": "Phu Thong",
+    "full_name": "Thị trấn Phủ Thông",
+    "full_name_en": "Phu Thong Township",
+    "type": "thị trấn",
+    "district_code": "063",
+    "codename": "phu_thong"
+  },
+  {
+    "code": "01975",
+    "name": "Vi Hương",
+    "name_en": "Vi Huong",
+    "full_name": "Xã Vi Hương",
+    "full_name_en": "Vi Huong Commune",
+    "type": "xã",
+    "district_code": "063",
+    "codename": "vi_huong"
+  },
+  {
+    "code": "01978",
+    "name": "Sĩ Bình",
+    "name_en": "Si Binh",
+    "full_name": "Xã Sĩ Bình",
+    "full_name_en": "Si Binh Commune",
+    "type": "xã",
+    "district_code": "063",
+    "codename": "si_binh"
+  },
+  {
+    "code": "01981",
+    "name": "Vũ Muộn",
+    "name_en": "Vu Muon",
+    "full_name": "Xã Vũ Muộn",
+    "full_name_en": "Vu Muon Commune",
+    "type": "xã",
+    "district_code": "063",
+    "codename": "vu_muon"
+  },
+  {
+    "code": "01984",
+    "name": "Đôn Phong",
+    "name_en": "Don Phong",
+    "full_name": "Xã Đôn Phong",
+    "full_name_en": "Don Phong Commune",
+    "type": "xã",
+    "district_code": "063",
+    "codename": "don_phong"
+  },
+  {
+    "code": "01990",
+    "name": "Lục Bình",
+    "name_en": "Luc Binh",
+    "full_name": "Xã Lục Bình",
+    "full_name_en": "Luc Binh Commune",
+    "type": "xã",
+    "district_code": "063",
+    "codename": "luc_binh"
+  },
+  {
+    "code": "01993",
+    "name": "Tân Tú",
+    "name_en": "Tan Tu",
+    "full_name": "Xã Tân Tú",
+    "full_name_en": "Tan Tu Commune",
+    "type": "xã",
+    "district_code": "063",
+    "codename": "tan_tu"
+  },
+  {
+    "code": "01999",
+    "name": "Nguyên Phúc",
+    "name_en": "Nguyen Phuc",
+    "full_name": "Xã Nguyên Phúc",
+    "full_name_en": "Nguyen Phuc Commune",
+    "type": "xã",
+    "district_code": "063",
+    "codename": "nguyen_phuc"
+  },
+  {
+    "code": "02002",
+    "name": "Cao Sơn",
+    "name_en": "Cao Son",
+    "full_name": "Xã Cao Sơn",
+    "full_name_en": "Cao Son Commune",
+    "type": "xã",
+    "district_code": "063",
+    "codename": "cao_son"
+  },
+  {
+    "code": "02005",
+    "name": "Quân Hà",
+    "name_en": "Quan Ha",
+    "full_name": "Xã Quân Hà",
+    "full_name_en": "Quan Ha Commune",
+    "type": "xã",
+    "district_code": "063",
+    "codename": "quan_ha"
+  },
+  {
+    "code": "02008",
+    "name": "Cẩm Giàng",
+    "name_en": "Cam Giang",
+    "full_name": "Xã Cẩm Giàng",
+    "full_name_en": "Cam Giang Commune",
+    "type": "xã",
+    "district_code": "063",
+    "codename": "cam_giang"
+  },
+  {
+    "code": "02011",
+    "name": "Mỹ Thanh",
+    "name_en": "My Thanh",
+    "full_name": "Xã Mỹ Thanh",
+    "full_name_en": "My Thanh Commune",
+    "type": "xã",
+    "district_code": "063",
+    "codename": "my_thanh"
+  },
+  {
+    "code": "02014",
+    "name": "Dương Phong",
+    "name_en": "Duong Phong",
+    "full_name": "Xã Dương Phong",
+    "full_name_en": "Duong Phong Commune",
+    "type": "xã",
+    "district_code": "063",
+    "codename": "duong_phong"
+  },
+  {
+    "code": "02017",
+    "name": "Quang Thuận",
+    "name_en": "Quang Thuan",
+    "full_name": "Xã Quang Thuận",
+    "full_name_en": "Quang Thuan Commune",
+    "type": "xã",
+    "district_code": "063",
+    "codename": "quang_thuan"
+  }
+]

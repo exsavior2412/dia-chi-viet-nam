@@ -1,0 +1,82 @@
+[
+  {
+    "code": "490",
+    "name": "Liên Chiểu",
+    "name_en": "Lien Chieu",
+    "full_name": "Quận Liên Chiểu",
+    "full_name_en": "Lien Chieu District",
+    "type": "quận",
+    "province_code": "48",
+    "codename": "lien_chieu"
+  },
+  {
+    "code": "491",
+    "name": "Thanh Khê",
+    "name_en": "Thanh Khe",
+    "full_name": "Quận Thanh Khê",
+    "full_name_en": "Thanh Khe District",
+    "type": "quận",
+    "province_code": "48",
+    "codename": "thanh_khe"
+  },
+  {
+    "code": "492",
+    "name": "Hải Châu",
+    "name_en": "Hai Chau",
+    "full_name": "Quận Hải Châu",
+    "full_name_en": "Hai Chau District",
+    "type": "quận",
+    "province_code": "48",
+    "codename": "hai_chau"
+  },
+  {
+    "code": "493",
+    "name": "Sơn Trà",
+    "name_en": "Son Tra",
+    "full_name": "Quận Sơn Trà",
+    "full_name_en": "Son Tra District",
+    "type": "quận",
+    "province_code": "48",
+    "codename": "son_tra"
+  },
+  {
+    "code": "494",
+    "name": "Ngũ Hành Sơn",
+    "name_en": "Ngu Hanh Son",
+    "full_name": "Quận Ngũ Hành Sơn",
+    "full_name_en": "Ngu Hanh Son District",
+    "type": "quận",
+    "province_code": "48",
+    "codename": "ngu_hanh_son"
+  },
+  {
+    "code": "495",
+    "name": "Cẩm Lệ",
+    "name_en": "Cam Le",
+    "full_name": "Quận Cẩm Lệ",
+    "full_name_en": "Cam Le District",
+    "type": "quận",
+    "province_code": "48",
+    "codename": "cam_le"
+  },
+  {
+    "code": "497",
+    "name": "Hòa Vang",
+    "name_en": "Hoa Vang",
+    "full_name": "Huyện Hòa Vang",
+    "full_name_en": "Hoa Vang District",
+    "type": "huyện",
+    "province_code": "48",
+    "codename": "hoa_vang"
+  },
+  {
+    "code": "498",
+    "name": "Hoàng Sa",
+    "name_en": "Hoang Sa",
+    "full_name": "Huyện Hoàng Sa",
+    "full_name_en": "Hoang Sa District",
+    "type": "huyện",
+    "province_code": "48",
+    "codename": "hoang_sa"
+  }
+]

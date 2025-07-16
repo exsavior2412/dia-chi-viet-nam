@@ -1,0 +1,172 @@
+[
+  {
+    "code": "07243",
+    "name": "Đồng Tiến",
+    "name_en": "Dong Tien",
+    "full_name": "Xã Đồng Tiến",
+    "full_name_en": "Dong Tien Commune",
+    "type": "xã",
+    "district_code": "215",
+    "codename": "dong_tien"
+  },
+  {
+    "code": "07246",
+    "name": "Canh Nậu",
+    "name_en": "Canh Nau",
+    "full_name": "Xã Canh Nậu",
+    "full_name_en": "Canh Nau Commune",
+    "type": "xã",
+    "district_code": "215",
+    "codename": "canh_nau"
+  },
+  {
+    "code": "07249",
+    "name": "Xuân Lương",
+    "name_en": "Xuan Luong",
+    "full_name": "Xã Xuân Lương",
+    "full_name_en": "Xuan Luong Commune",
+    "type": "xã",
+    "district_code": "215",
+    "codename": "xuan_luong"
+  },
+  {
+    "code": "07252",
+    "name": "Tam Tiến",
+    "name_en": "Tam Tien",
+    "full_name": "Xã Tam Tiến",
+    "full_name_en": "Tam Tien Commune",
+    "type": "xã",
+    "district_code": "215",
+    "codename": "tam_tien"
+  },
+  {
+    "code": "07255",
+    "name": "Đồng Vương",
+    "name_en": "Dong Vuong",
+    "full_name": "Xã Đồng Vương",
+    "full_name_en": "Dong Vuong Commune",
+    "type": "xã",
+    "district_code": "215",
+    "codename": "dong_vuong"
+  },
+  {
+    "code": "07258",
+    "name": "Đồng Hưu",
+    "name_en": "Dong Huu",
+    "full_name": "Xã Đồng Hưu",
+    "full_name_en": "Dong Huu Commune",
+    "type": "xã",
+    "district_code": "215",
+    "codename": "dong_huu"
+  },
+  {
+    "code": "07260",
+    "name": "Đồng Tâm",
+    "name_en": "Dong Tam",
+    "full_name": "Xã Đồng Tâm",
+    "full_name_en": "Dong Tam Commune",
+    "type": "xã",
+    "district_code": "215",
+    "codename": "dong_tam"
+  },
+  {
+    "code": "07261",
+    "name": "Tân Hiệp",
+    "name_en": "Tan Hiep",
+    "full_name": "Xã Tân Hiệp",
+    "full_name_en": "Tan Hiep Commune",
+    "type": "xã",
+    "district_code": "215",
+    "codename": "tan_hiep"
+  },
+  {
+    "code": "07264",
+    "name": "Tiến Thắng",
+    "name_en": "Tien Thang",
+    "full_name": "Xã Tiến Thắng",
+    "full_name_en": "Tien Thang Commune",
+    "type": "xã",
+    "district_code": "215",
+    "codename": "tien_thang"
+  },
+  {
+    "code": "07270",
+    "name": "Đồng Lạc",
+    "name_en": "Dong Lac",
+    "full_name": "Xã Đồng Lạc",
+    "full_name_en": "Dong Lac Commune",
+    "type": "xã",
+    "district_code": "215",
+    "codename": "dong_lac"
+  },
+  {
+    "code": "07273",
+    "name": "Đông Sơn",
+    "name_en": "Dong Son",
+    "full_name": "Xã Đông Sơn",
+    "full_name_en": "Dong Son Commune",
+    "type": "xã",
+    "district_code": "215",
+    "codename": "dong_son"
+  },
+  {
+    "code": "07279",
+    "name": "Hương Vĩ",
+    "name_en": "Huong Vi",
+    "full_name": "Xã Hương Vĩ",
+    "full_name_en": "Huong Vi Commune",
+    "type": "xã",
+    "district_code": "215",
+    "codename": "huong_vi"
+  },
+  {
+    "code": "07282",
+    "name": "Đồng Kỳ",
+    "name_en": "Dong Ky",
+    "full_name": "Xã Đồng Kỳ",
+    "full_name_en": "Dong Ky Commune",
+    "type": "xã",
+    "district_code": "215",
+    "codename": "dong_ky"
+  },
+  {
+    "code": "07285",
+    "name": "An Thượng",
+    "name_en": "An Thuong",
+    "full_name": "Xã An Thượng",
+    "full_name_en": "An Thuong Commune",
+    "type": "xã",
+    "district_code": "215",
+    "codename": "an_thuong"
+  },
+  {
+    "code": "07288",
+    "name": "Phồn Xương",
+    "name_en": "Phon Xuong",
+    "full_name": "Thị trấn Phồn Xương",
+    "full_name_en": "Phon Xuong Township",
+    "type": "thị trấn",
+    "district_code": "215",
+    "codename": "phon_xuong"
+  },
+  {
+    "code": "07291",
+    "name": "Tân Sỏi",
+    "name_en": "Tan Soi",
+    "full_name": "Xã Tân Sỏi",
+    "full_name_en": "Tan Soi Commune",
+    "type": "xã",
+    "district_code": "215",
+    "codename": "tan_soi"
+  },
+  {
+    "code": "07294",
+    "name": "Bố Hạ",
+    "name_en": "Bo Ha",
+    "full_name": "Thị trấn Bố Hạ",
+    "full_name_en": "Bo Ha Township",
+    "type": "thị trấn",
+    "district_code": "215",
+    "codename": "bo_ha"
+  }
+]

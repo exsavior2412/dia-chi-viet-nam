@@ -1,0 +1,142 @@
+[
+  {
+    "code": "29578",
+    "name": "Đồng Phú",
+    "name_en": "Dong Phu",
+    "full_name": "Xã Đồng Phú",
+    "full_name_en": "Dong Phu Commune",
+    "type": "xã",
+    "district_code": "857",
+    "codename": "dong_phu"
+  },
+  {
+    "code": "29581",
+    "name": "Bình Hòa Phước",
+    "name_en": "Binh Hoa Phuoc",
+    "full_name": "Xã Bình Hòa Phước",
+    "full_name_en": "Binh Hoa Phuoc Commune",
+    "type": "xã",
+    "district_code": "857",
+    "codename": "binh_hoa_phuoc"
+  },
+  {
+    "code": "29584",
+    "name": "Hòa Ninh",
+    "name_en": "Hoa Ninh",
+    "full_name": "Xã Hòa Ninh",
+    "full_name_en": "Hoa Ninh Commune",
+    "type": "xã",
+    "district_code": "857",
+    "codename": "hoa_ninh"
+  },
+  {
+    "code": "29587",
+    "name": "An Bình",
+    "name_en": "An Binh",
+    "full_name": "Xã An Bình",
+    "full_name_en": "An Binh Commune",
+    "type": "xã",
+    "district_code": "857",
+    "codename": "an_binh"
+  },
+  {
+    "code": "29590",
+    "name": "Thanh Đức",
+    "name_en": "Thanh Duc",
+    "full_name": "Xã Thanh Đức",
+    "full_name_en": "Thanh Duc Commune",
+    "type": "xã",
+    "district_code": "857",
+    "codename": "thanh_duc"
+  },
+  {
+    "code": "29593",
+    "name": "Tân Hạnh",
+    "name_en": "Tan Hanh",
+    "full_name": "Xã Tân Hạnh",
+    "full_name_en": "Tan Hanh Commune",
+    "type": "xã",
+    "district_code": "857",
+    "codename": "tan_hanh"
+  },
+  {
+    "code": "29596",
+    "name": "Phước Hậu",
+    "name_en": "Phuoc Hau",
+    "full_name": "Xã Phước Hậu",
+    "full_name_en": "Phuoc Hau Commune",
+    "type": "xã",
+    "district_code": "857",
+    "codename": "phuoc_hau"
+  },
+  {
+    "code": "29599",
+    "name": "Long Phước",
+    "name_en": "Long Phuoc",
+    "full_name": "Xã Long Phước",
+    "full_name_en": "Long Phuoc Commune",
+    "type": "xã",
+    "district_code": "857",
+    "codename": "long_phuoc"
+  },
+  {
+    "code": "29602",
+    "name": "Long Hồ",
+    "name_en": "Long Ho",
+    "full_name": "Thị trấn Long Hồ",
+    "full_name_en": "Long Ho Township",
+    "type": "thị trấn",
+    "district_code": "857",
+    "codename": "long_ho"
+  },
+  {
+    "code": "29605",
+    "name": "Lộc Hòa",
+    "name_en": "Loc Hoa",
+    "full_name": "Xã Lộc Hòa",
+    "full_name_en": "Loc Hoa Commune",
+    "type": "xã",
+    "district_code": "857",
+    "codename": "loc_hoa"
+  },
+  {
+    "code": "29608",
+    "name": "Long An",
+    "name_en": "Long An",
+    "full_name": "Xã Long An",
+    "full_name_en": "Long An Commune",
+    "type": "xã",
+    "district_code": "857",
+    "codename": "long_an"
+  },
+  {
+    "code": "29611",
+    "name": "Phú Quới",
+    "name_en": "Phu Quoi",
+    "full_name": "Xã Phú Quới",
+    "full_name_en": "Phu Quoi Commune",
+    "type": "xã",
+    "district_code": "857",
+    "codename": "phu_quoi"
+  },
+  {
+    "code": "29614",
+    "name": "Thạnh Quới",
+    "name_en": "Thanh Quoi",
+    "full_name": "Xã Thạnh Quới",
+    "full_name_en": "Thanh Quoi Commune",
+    "type": "xã",
+    "district_code": "857",
+    "codename": "thanh_quoi"
+  },
+  {
+    "code": "29617",
+    "name": "Hòa Phú",
+    "name_en": "Hoa Phu",
+    "full_name": "Xã Hòa Phú",
+    "full_name_en": "Hoa Phu Commune",
+    "type": "xã",
+    "district_code": "857",
+    "codename": "hoa_phu"
+  }
+]

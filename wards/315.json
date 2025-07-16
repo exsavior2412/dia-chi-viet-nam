@@ -1,0 +1,192 @@
+[
+  {
+    "code": "11755",
+    "name": "Tiên Lãng",
+    "name_en": "Tien Lang",
+    "full_name": "Thị trấn Tiên Lãng",
+    "full_name_en": "Tien Lang Township",
+    "type": "thị trấn",
+    "district_code": "315",
+    "codename": "tien_lang"
+  },
+  {
+    "code": "11758",
+    "name": "Đại Thắng",
+    "name_en": "Dai Thang",
+    "full_name": "Xã Đại Thắng",
+    "full_name_en": "Dai Thang Commune",
+    "type": "xã",
+    "district_code": "315",
+    "codename": "dai_thang"
+  },
+  {
+    "code": "11761",
+    "name": "Tiên Cường",
+    "name_en": "Tien Cuong",
+    "full_name": "Xã Tiên Cường",
+    "full_name_en": "Tien Cuong Commune",
+    "type": "xã",
+    "district_code": "315",
+    "codename": "tien_cuong"
+  },
+  {
+    "code": "11764",
+    "name": "Tự Cường",
+    "name_en": "Tu Cuong",
+    "full_name": "Xã Tự Cường",
+    "full_name_en": "Tu Cuong Commune",
+    "type": "xã",
+    "district_code": "315",
+    "codename": "tu_cuong"
+  },
+  {
+    "code": "11770",
+    "name": "Quyết Tiến",
+    "name_en": "Quyet Tien",
+    "full_name": "Xã Quyết Tiến",
+    "full_name_en": "Quyet Tien Commune",
+    "type": "xã",
+    "district_code": "315",
+    "codename": "quyet_tien"
+  },
+  {
+    "code": "11773",
+    "name": "Khởi Nghĩa",
+    "name_en": "Khoi Nghia",
+    "full_name": "Xã Khởi Nghĩa",
+    "full_name_en": "Khoi Nghia Commune",
+    "type": "xã",
+    "district_code": "315",
+    "codename": "khoi_nghia"
+  },
+  {
+    "code": "11776",
+    "name": "Tiên Thanh",
+    "name_en": "Tien Thanh",
+    "full_name": "Xã Tiên Thanh",
+    "full_name_en": "Tien Thanh Commune",
+    "type": "xã",
+    "district_code": "315",
+    "codename": "tien_thanh"
+  },
+  {
+    "code": "11779",
+    "name": "Cấp Tiến",
+    "name_en": "Cap Tien",
+    "full_name": "Xã Cấp Tiến",
+    "full_name_en": "Cap Tien Commune",
+    "type": "xã",
+    "district_code": "315",
+    "codename": "cap_tien"
+  },
+  {
+    "code": "11782",
+    "name": "Kiến Thiết",
+    "name_en": "Kien Thiet",
+    "full_name": "Xã Kiến Thiết",
+    "full_name_en": "Kien Thiet Commune",
+    "type": "xã",
+    "district_code": "315",
+    "codename": "kien_thiet"
+  },
+  {
+    "code": "11785",
+    "name": "Đoàn Lập",
+    "name_en": "Doan Lap",
+    "full_name": "Xã Đoàn Lập",
+    "full_name_en": "Doan Lap Commune",
+    "type": "xã",
+    "district_code": "315",
+    "codename": "doan_lap"
+  },
+  {
+    "code": "11791",
+    "name": "Tân Minh",
+    "name_en": "Tan Minh",
+    "full_name": "Xã Tân Minh",
+    "full_name_en": "Tan Minh Commune",
+    "type": "xã",
+    "district_code": "315",
+    "codename": "tan_minh"
+  },
+  {
+    "code": "11797",
+    "name": "Tiên Thắng",
+    "name_en": "Tien Thang",
+    "full_name": "Xã Tiên Thắng",
+    "full_name_en": "Tien Thang Commune",
+    "type": "xã",
+    "district_code": "315",
+    "codename": "tien_thang"
+  },
+  {
+    "code": "11800",
+    "name": "Tiên Minh",
+    "name_en": "Tien Minh",
+    "full_name": "Xã Tiên Minh",
+    "full_name_en": "Tien Minh Commune",
+    "type": "xã",
+    "district_code": "315",
+    "codename": "tien_minh"
+  },
+  {
+    "code": "11803",
+    "name": "Bắc Hưng",
+    "name_en": "Bac Hung",
+    "full_name": "Xã Bắc Hưng",
+    "full_name_en": "Bac Hung Commune",
+    "type": "xã",
+    "district_code": "315",
+    "codename": "bac_hung"
+  },
+  {
+    "code": "11806",
+    "name": "Nam Hưng",
+    "name_en": "Nam Hung",
+    "full_name": "Xã Nam Hưng",
+    "full_name_en": "Nam Hung Commune",
+    "type": "xã",
+    "district_code": "315",
+    "codename": "nam_hung"
+  },
+  {
+    "code": "11809",
+    "name": "Hùng Thắng",
+    "name_en": "Hung Thang",
+    "full_name": "Xã Hùng Thắng",
+    "full_name_en": "Hung Thang Commune",
+    "type": "xã",
+    "district_code": "315",
+    "codename": "hung_thang"
+  },
+  {
+    "code": "11812",
+    "name": "Tây Hưng",
+    "name_en": "Tay Hung",
+    "full_name": "Xã Tây Hưng",
+    "full_name_en": "Tay Hung Commune",
+    "type": "xã",
+    "district_code": "315",
+    "codename": "tay_hung"
+  },
+  {
+    "code": "11815",
+    "name": "Đông Hưng",
+    "name_en": "Dong Hung",
+    "full_name": "Xã Đông Hưng",
+    "full_name_en": "Dong Hung Commune",
+    "type": "xã",
+    "district_code": "315",
+    "codename": "dong_hung"
+  },
+  {
+    "code": "11821",
+    "name": "Vinh Quang",
+    "name_en": "Vinh Quang",
+    "full_name": "Xã Vinh Quang",
+    "full_name_en": "Vinh Quang Commune",
+    "type": "xã",
+    "district_code": "315",
+    "codename": "vinh_quang"
+  }
+]

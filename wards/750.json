@@ -1,0 +1,162 @@
+[
+  {
+    "code": "26574",
+    "name": "Bàu Chinh",
+    "name_en": "Bau Chinh",
+    "full_name": "Xã Bàu Chinh",
+    "full_name_en": "Bau Chinh Commune",
+    "type": "xã",
+    "district_code": "750",
+    "codename": "bau_chinh"
+  },
+  {
+    "code": "26575",
+    "name": "Ngãi Giao",
+    "name_en": "Ngai Giao",
+    "full_name": "Thị trấn Ngãi Giao",
+    "full_name_en": "Ngai Giao Township",
+    "type": "thị trấn",
+    "district_code": "750",
+    "codename": "ngai_giao"
+  },
+  {
+    "code": "26578",
+    "name": "Bình Ba",
+    "name_en": "Binh Ba",
+    "full_name": "Xã Bình Ba",
+    "full_name_en": "Binh Ba Commune",
+    "type": "xã",
+    "district_code": "750",
+    "codename": "binh_ba"
+  },
+  {
+    "code": "26581",
+    "name": "Suối Nghệ",
+    "name_en": "Suoi Nghe",
+    "full_name": "Xã Suối Nghệ",
+    "full_name_en": "Suoi Nghe Commune",
+    "type": "xã",
+    "district_code": "750",
+    "codename": "suoi_nghe"
+  },
+  {
+    "code": "26584",
+    "name": "Xuân Sơn",
+    "name_en": "Xuan Son",
+    "full_name": "Xã Xuân Sơn",
+    "full_name_en": "Xuan Son Commune",
+    "type": "xã",
+    "district_code": "750",
+    "codename": "xuan_son"
+  },
+  {
+    "code": "26587",
+    "name": "Sơn Bình",
+    "name_en": "Son Binh",
+    "full_name": "Xã Sơn Bình",
+    "full_name_en": "Son Binh Commune",
+    "type": "xã",
+    "district_code": "750",
+    "codename": "son_binh"
+  },
+  {
+    "code": "26590",
+    "name": "Bình Giã",
+    "name_en": "Binh Gia",
+    "full_name": "Xã Bình Giã",
+    "full_name_en": "Binh Gia Commune",
+    "type": "xã",
+    "district_code": "750",
+    "codename": "binh_gia"
+  },
+  {
+    "code": "26593",
+    "name": "Bình Trung",
+    "name_en": "Binh Trung",
+    "full_name": "Xã Bình Trung",
+    "full_name_en": "Binh Trung Commune",
+    "type": "xã",
+    "district_code": "750",
+    "codename": "binh_trung"
+  },
+  {
+    "code": "26596",
+    "name": "Xà Bang",
+    "name_en": "Xa Bang",
+    "full_name": "Xã Xà Bang",
+    "full_name_en": "Xa Bang Commune",
+    "type": "xã",
+    "district_code": "750",
+    "codename": "xa_bang"
+  },
+  {
+    "code": "26599",
+    "name": "Cù Bị",
+    "name_en": "Cu Bi",
+    "full_name": "Xã Cù Bị",
+    "full_name_en": "Cu Bi Commune",
+    "type": "xã",
+    "district_code": "750",
+    "codename": "cu_bi"
+  },
+  {
+    "code": "26602",
+    "name": "Láng Lớn",
+    "name_en": "Lang Lon",
+    "full_name": "Xã Láng Lớn",
+    "full_name_en": "Lang Lon Commune",
+    "type": "xã",
+    "district_code": "750",
+    "codename": "lang_lon"
+  },
+  {
+    "code": "26605",
+    "name": "Quảng Thành",
+    "name_en": "Quang Thanh",
+    "full_name": "Xã Quảng Thành",
+    "full_name_en": "Quang Thanh Commune",
+    "type": "xã",
+    "district_code": "750",
+    "codename": "quang_thanh"
+  },
+  {
+    "code": "26608",
+    "name": "Kim Long",
+    "name_en": "Kim Long",
+    "full_name": "Thị trấn Kim Long",
+    "full_name_en": "Kim Long Township",
+    "type": "thị trấn",
+    "district_code": "750",
+    "codename": "kim_long"
+  },
+  {
+    "code": "26611",
+    "name": "Suối Rao",
+    "name_en": "Suoi Rao",
+    "full_name": "Xã Suối Rao",
+    "full_name_en": "Suoi Rao Commune",
+    "type": "xã",
+    "district_code": "750",
+    "codename": "suoi_rao"
+  },
+  {
+    "code": "26614",
+    "name": "Đá Bạc",
+    "name_en": "Da Bac",
+    "full_name": "Xã Đá Bạc",
+    "full_name_en": "Da Bac Commune",
+    "type": "xã",
+    "district_code": "750",
+    "codename": "da_bac"
+  },
+  {
+    "code": "26617",
+    "name": "Nghĩa Thành",
+    "name_en": "Nghia Thanh",
+    "full_name": "Xã Nghĩa Thành",
+    "full_name_en": "Nghia Thanh Commune",
+    "type": "xã",
+    "district_code": "750",
+    "codename": "nghia_thanh"
+  }
+]

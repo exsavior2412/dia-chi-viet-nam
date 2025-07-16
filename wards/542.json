@@ -1,0 +1,102 @@
+[
+  {
+    "code": "21609",
+    "name": "An Lão",
+    "name_en": "An Lao",
+    "full_name": "Thị trấn An Lão",
+    "full_name_en": "An Lao Township",
+    "type": "thị trấn",
+    "district_code": "542",
+    "codename": "an_lao"
+  },
+  {
+    "code": "21610",
+    "name": "An Hưng",
+    "name_en": "An Hung",
+    "full_name": "Xã An Hưng",
+    "full_name_en": "An Hung Commune",
+    "type": "xã",
+    "district_code": "542",
+    "codename": "an_hung"
+  },
+  {
+    "code": "21613",
+    "name": "An Trung",
+    "name_en": "An Trung",
+    "full_name": "Xã An Trung",
+    "full_name_en": "An Trung Commune",
+    "type": "xã",
+    "district_code": "542",
+    "codename": "an_trung"
+  },
+  {
+    "code": "21616",
+    "name": "An Dũng",
+    "name_en": "An Dung",
+    "full_name": "Xã An Dũng",
+    "full_name_en": "An Dung Commune",
+    "type": "xã",
+    "district_code": "542",
+    "codename": "an_dung"
+  },
+  {
+    "code": "21619",
+    "name": "An Vinh",
+    "name_en": "An Vinh",
+    "full_name": "Xã An Vinh",
+    "full_name_en": "An Vinh Commune",
+    "type": "xã",
+    "district_code": "542",
+    "codename": "an_vinh"
+  },
+  {
+    "code": "21622",
+    "name": "An Toàn",
+    "name_en": "An Toan",
+    "full_name": "Xã An Toàn",
+    "full_name_en": "An Toan Commune",
+    "type": "xã",
+    "district_code": "542",
+    "codename": "an_toan"
+  },
+  {
+    "code": "21625",
+    "name": "An Tân",
+    "name_en": "An Tan",
+    "full_name": "Xã An Tân",
+    "full_name_en": "An Tan Commune",
+    "type": "xã",
+    "district_code": "542",
+    "codename": "an_tan"
+  },
+  {
+    "code": "21628",
+    "name": "An Hòa",
+    "name_en": "An Hoa",
+    "full_name": "Xã An Hòa",
+    "full_name_en": "An Hoa Commune",
+    "type": "xã",
+    "district_code": "542",
+    "codename": "an_hoa"
+  },
+  {
+    "code": "21631",
+    "name": "An Quang",
+    "name_en": "An Quang",
+    "full_name": "Xã An Quang",
+    "full_name_en": "An Quang Commune",
+    "type": "xã",
+    "district_code": "542",
+    "codename": "an_quang"
+  },
+  {
+    "code": "21634",
+    "name": "An Nghĩa",
+    "name_en": "An Nghia",
+    "full_name": "Xã An Nghĩa",
+    "full_name_en": "An Nghia Commune",
+    "type": "xã",
+    "district_code": "542",
+    "codename": "an_nghia"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "code": "20467",
+    "name": "P Rao",
+    "name_en": "P Rao",
+    "full_name": "Thị trấn P Rao",
+    "full_name_en": "P Rao Township",
+    "type": "thị trấn",
+    "district_code": "505",
+    "codename": "p_rao"
+  },
+  {
+    "code": "20470",
+    "name": "Tà Lu",
+    "name_en": "Ta Lu",
+    "full_name": "Xã Tà Lu",
+    "full_name_en": "Ta Lu Commune",
+    "type": "xã",
+    "district_code": "505",
+    "codename": "ta_lu"
+  },
+  {
+    "code": "20473",
+    "name": "Sông Kôn",
+    "name_en": "Song Kon",
+    "full_name": "Xã Sông Kôn",
+    "full_name_en": "Song Kon Commune",
+    "type": "xã",
+    "district_code": "505",
+    "codename": "song_kon"
+  },
+  {
+    "code": "20476",
+    "name": "Jơ Ngây",
+    "name_en": "Jo Ngay",
+    "full_name": "Xã Jơ Ngây",
+    "full_name_en": "Jo Ngay Commune",
+    "type": "xã",
+    "district_code": "505",
+    "codename": "jo_ngay"
+  },
+  {
+    "code": "20479",
+    "name": "A Ting",
+    "name_en": "A Ting",
+    "full_name": "Xã A Ting",
+    "full_name_en": "A Ting Commune",
+    "type": "xã",
+    "district_code": "505",
+    "codename": "a_ting"
+  },
+  {
+    "code": "20482",
+    "name": "Tư",
+    "name_en": "Tu",
+    "full_name": "Xã Tư",
+    "full_name_en": "Tu Commune",
+    "type": "xã",
+    "district_code": "505",
+    "codename": "tu"
+  },
+  {
+    "code": "20485",
+    "name": "Ba",
+    "name_en": "Ba",
+    "full_name": "Xã Ba",
+    "full_name_en": "Ba Commune",
+    "type": "xã",
+    "district_code": "505",
+    "codename": "ba"
+  },
+  {
+    "code": "20488",
+    "name": "A Rooi",
+    "name_en": "A Rooi",
+    "full_name": "Xã A Rooi",
+    "full_name_en": "A Rooi Commune",
+    "type": "xã",
+    "district_code": "505",
+    "codename": "a_rooi"
+  },
+  {
+    "code": "20491",
+    "name": "Za Hung",
+    "name_en": "Za Hung",
+    "full_name": "Xã Za Hung",
+    "full_name_en": "Za Hung Commune",
+    "type": "xã",
+    "district_code": "505",
+    "codename": "za_hung"
+  },
+  {
+    "code": "20494",
+    "name": "Mà Cooi",
+    "name_en": "Ma Cooi",
+    "full_name": "Xã Mà Cooi",
+    "full_name_en": "Ma Cooi Commune",
+    "type": "xã",
+    "district_code": "505",
+    "codename": "ma_cooi"
+  },
+  {
+    "code": "20497",
+    "name": "Ka Dăng",
+    "name_en": "Ka Dang",
+    "full_name": "Xã Ka Dăng",
+    "full_name_en": "Ka Dang Commune",
+    "type": "xã",
+    "district_code": "505",
+    "codename": "ka_dang"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "code": "15865",
+    "name": "Bút Sơn",
+    "name_en": "But Son",
+    "full_name": "Thị trấn Bút Sơn",
+    "full_name_en": "But Son Township",
+    "type": "thị trấn",
+    "district_code": "399",
+    "codename": "but_son"
+  },
+  {
+    "code": "15877",
+    "name": "Hoằng Xuân",
+    "name_en": "Hoang Xuan",
+    "full_name": "Xã Hoằng Xuân",
+    "full_name_en": "Hoang Xuan Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_xuan"
+  },
+  {
+    "code": "15880",
+    "name": "Hoằng Giang",
+    "name_en": "Hoang Giang",
+    "full_name": "Xã Hoằng Giang",
+    "full_name_en": "Hoang Giang Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_giang"
+  },
+  {
+    "code": "15883",
+    "name": "Hoằng Phú",
+    "name_en": "Hoang Phu",
+    "full_name": "Xã Hoằng Phú",
+    "full_name_en": "Hoang Phu Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_phu"
+  },
+  {
+    "code": "15886",
+    "name": "Hoằng Quỳ",
+    "name_en": "Hoang Quy",
+    "full_name": "Xã Hoằng Quỳ",
+    "full_name_en": "Hoang Quy Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_quy"
+  },
+  {
+    "code": "15889",
+    "name": "Hoằng Kim",
+    "name_en": "Hoang Kim",
+    "full_name": "Xã Hoằng Kim",
+    "full_name_en": "Hoang Kim Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_kim"
+  },
+  {
+    "code": "15892",
+    "name": "Hoằng Trung",
+    "name_en": "Hoang Trung",
+    "full_name": "Xã Hoằng Trung",
+    "full_name_en": "Hoang Trung Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_trung"
+  },
+  {
+    "code": "15895",
+    "name": "Hoằng Trinh",
+    "name_en": "Hoang Trinh",
+    "full_name": "Xã Hoằng Trinh",
+    "full_name_en": "Hoang Trinh Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_trinh"
+  },
+  {
+    "code": "15901",
+    "name": "Hoằng Sơn",
+    "name_en": "Hoang Son",
+    "full_name": "Xã Hoằng Sơn",
+    "full_name_en": "Hoang Son Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_son"
+  },
+  {
+    "code": "15907",
+    "name": "Hoằng Cát",
+    "name_en": "Hoang Cat",
+    "full_name": "Xã Hoằng Cát",
+    "full_name_en": "Hoang Cat Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_cat"
+  },
+  {
+    "code": "15910",
+    "name": "Hoằng Xuyên",
+    "name_en": "Hoang Xuyen",
+    "full_name": "Xã Hoằng Xuyên",
+    "full_name_en": "Hoang Xuyen Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_xuyen"
+  },
+  {
+    "code": "15916",
+    "name": "Hoằng Quý",
+    "name_en": "Hoang Quy",
+    "full_name": "Xã Hoằng Quý",
+    "full_name_en": "Hoang Quy Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_quy"
+  },
+  {
+    "code": "15919",
+    "name": "Hoằng Hợp",
+    "name_en": "Hoang Hop",
+    "full_name": "Xã Hoằng Hợp",
+    "full_name_en": "Hoang Hop Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_hop"
+  },
+  {
+    "code": "15928",
+    "name": "Hoằng Đức",
+    "name_en": "Hoang Duc",
+    "full_name": "Xã Hoằng Đức",
+    "full_name_en": "Hoang Duc Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_duc"
+  },
+  {
+    "code": "15937",
+    "name": "Hoằng Hà",
+    "name_en": "Hoang Ha",
+    "full_name": "Xã Hoằng Hà",
+    "full_name_en": "Hoang Ha Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_ha"
+  },
+  {
+    "code": "15940",
+    "name": "Hoằng Đạt",
+    "name_en": "Hoang Dat",
+    "full_name": "Xã Hoằng Đạt",
+    "full_name_en": "Hoang Dat Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_dat"
+  },
+  {
+    "code": "15946",
+    "name": "Hoằng Đạo",
+    "name_en": "Hoang Dao",
+    "full_name": "Xã Hoằng Đạo",
+    "full_name_en": "Hoang Dao Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_dao"
+  },
+  {
+    "code": "15949",
+    "name": "Hoằng Thắng",
+    "name_en": "Hoang Thang",
+    "full_name": "Xã Hoằng Thắng",
+    "full_name_en": "Hoang Thang Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_thang"
+  },
+  {
+    "code": "15952",
+    "name": "Hoằng Đồng",
+    "name_en": "Hoang Dong",
+    "full_name": "Xã Hoằng Đồng",
+    "full_name_en": "Hoang Dong Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_dong"
+  },
+  {
+    "code": "15955",
+    "name": "Hoằng Thái",
+    "name_en": "Hoang Thai",
+    "full_name": "Xã Hoằng Thái",
+    "full_name_en": "Hoang Thai Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_thai"
+  },
+  {
+    "code": "15958",
+    "name": "Hoằng Thịnh",
+    "name_en": "Hoang Thinh",
+    "full_name": "Xã Hoằng Thịnh",
+    "full_name_en": "Hoang Thinh Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_thinh"
+  },
+  {
+    "code": "15961",
+    "name": "Hoằng Thành",
+    "name_en": "Hoang Thanh",
+    "full_name": "Xã Hoằng Thành",
+    "full_name_en": "Hoang Thanh Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_thanh"
+  },
+  {
+    "code": "15964",
+    "name": "Hoằng Lộc",
+    "name_en": "Hoang Loc",
+    "full_name": "Xã Hoằng Lộc",
+    "full_name_en": "Hoang Loc Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_loc"
+  },
+  {
+    "code": "15967",
+    "name": "Hoằng Trạch",
+    "name_en": "Hoang Trach",
+    "full_name": "Xã Hoằng Trạch",
+    "full_name_en": "Hoang Trach Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_trach"
+  },
+  {
+    "code": "15973",
+    "name": "Hoằng Phong",
+    "name_en": "Hoang Phong",
+    "full_name": "Xã Hoằng Phong",
+    "full_name_en": "Hoang Phong Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_phong"
+  },
+  {
+    "code": "15976",
+    "name": "Hoằng Lưu",
+    "name_en": "Hoang Luu",
+    "full_name": "Xã Hoằng Lưu",
+    "full_name_en": "Hoang Luu Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_luu"
+  },
+  {
+    "code": "15979",
+    "name": "Hoằng Châu",
+    "name_en": "Hoang Chau",
+    "full_name": "Xã Hoằng Châu",
+    "full_name_en": "Hoang Chau Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_chau"
+  },
+  {
+    "code": "15982",
+    "name": "Hoằng Tân",
+    "name_en": "Hoang Tan",
+    "full_name": "Xã Hoằng Tân",
+    "full_name_en": "Hoang Tan Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_tan"
+  },
+  {
+    "code": "15985",
+    "name": "Hoằng Yến",
+    "name_en": "Hoang Yen",
+    "full_name": "Xã Hoằng Yến",
+    "full_name_en": "Hoang Yen Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_yen"
+  },
+  {
+    "code": "15988",
+    "name": "Hoằng Tiến",
+    "name_en": "Hoang Tien",
+    "full_name": "Xã Hoằng Tiến",
+    "full_name_en": "Hoang Tien Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_tien"
+  },
+  {
+    "code": "15991",
+    "name": "Hoằng Hải",
+    "name_en": "Hoang Hai",
+    "full_name": "Xã Hoằng Hải",
+    "full_name_en": "Hoang Hai Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_hai"
+  },
+  {
+    "code": "15994",
+    "name": "Hoằng Ngọc",
+    "name_en": "Hoang Ngoc",
+    "full_name": "Xã Hoằng Ngọc",
+    "full_name_en": "Hoang Ngoc Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_ngoc"
+  },
+  {
+    "code": "15997",
+    "name": "Hoằng Đông",
+    "name_en": "Hoang Dong",
+    "full_name": "Xã Hoằng Đông",
+    "full_name_en": "Hoang Dong Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_dong"
+  },
+  {
+    "code": "16000",
+    "name": "Hoằng Thanh",
+    "name_en": "Hoang Thanh",
+    "full_name": "Xã Hoằng Thanh",
+    "full_name_en": "Hoang Thanh Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_thanh"
+  },
+  {
+    "code": "16003",
+    "name": "Hoằng Phụ",
+    "name_en": "Hoang Phu",
+    "full_name": "Xã Hoằng Phụ",
+    "full_name_en": "Hoang Phu Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_phu"
+  },
+  {
+    "code": "16006",
+    "name": "Hoằng Trường",
+    "name_en": "Hoang Truong",
+    "full_name": "Xã Hoằng Trường",
+    "full_name_en": "Hoang Truong Commune",
+    "type": "xã",
+    "district_code": "399",
+    "codename": "hoang_truong"
+  }
+]

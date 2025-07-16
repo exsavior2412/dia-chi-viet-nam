@@ -1,0 +1,132 @@
+[
+  {
+    "code": "20899",
+    "name": "Trà My",
+    "name_en": "Tra My",
+    "full_name": "Thị trấn Trà My",
+    "full_name_en": "Tra My Township",
+    "type": "thị trấn",
+    "district_code": "515",
+    "codename": "tra_my"
+  },
+  {
+    "code": "20900",
+    "name": "Trà Sơn",
+    "name_en": "Tra Son",
+    "full_name": "Xã Trà Sơn",
+    "full_name_en": "Tra Son Commune",
+    "type": "xã",
+    "district_code": "515",
+    "codename": "tra_son"
+  },
+  {
+    "code": "20902",
+    "name": "Trà Kót",
+    "name_en": "Tra Kot",
+    "full_name": "Xã Trà Kót",
+    "full_name_en": "Tra Kot Commune",
+    "type": "xã",
+    "district_code": "515",
+    "codename": "tra_kot"
+  },
+  {
+    "code": "20905",
+    "name": "Trà Nú",
+    "name_en": "Tra Nu",
+    "full_name": "Xã Trà Nú",
+    "full_name_en": "Tra Nu Commune",
+    "type": "xã",
+    "district_code": "515",
+    "codename": "tra_nu"
+  },
+  {
+    "code": "20908",
+    "name": "Trà Đông",
+    "name_en": "Tra Dong",
+    "full_name": "Xã Trà Đông",
+    "full_name_en": "Tra Dong Commune",
+    "type": "xã",
+    "district_code": "515",
+    "codename": "tra_dong"
+  },
+  {
+    "code": "20911",
+    "name": "Trà Dương",
+    "name_en": "Tra Duong",
+    "full_name": "Xã Trà Dương",
+    "full_name_en": "Tra Duong Commune",
+    "type": "xã",
+    "district_code": "515",
+    "codename": "tra_duong"
+  },
+  {
+    "code": "20914",
+    "name": "Trà Giang",
+    "name_en": "Tra Giang",
+    "full_name": "Xã Trà Giang",
+    "full_name_en": "Tra Giang Commune",
+    "type": "xã",
+    "district_code": "515",
+    "codename": "tra_giang"
+  },
+  {
+    "code": "20917",
+    "name": "Trà Bui",
+    "name_en": "Tra Bui",
+    "full_name": "Xã Trà Bui",
+    "full_name_en": "Tra Bui Commune",
+    "type": "xã",
+    "district_code": "515",
+    "codename": "tra_bui"
+  },
+  {
+    "code": "20920",
+    "name": "Trà Đốc",
+    "name_en": "Tra Doc",
+    "full_name": "Xã Trà Đốc",
+    "full_name_en": "Tra Doc Commune",
+    "type": "xã",
+    "district_code": "515",
+    "codename": "tra_doc"
+  },
+  {
+    "code": "20923",
+    "name": "Trà Tân",
+    "name_en": "Tra Tan",
+    "full_name": "Xã Trà Tân",
+    "full_name_en": "Tra Tan Commune",
+    "type": "xã",
+    "district_code": "515",
+    "codename": "tra_tan"
+  },
+  {
+    "code": "20926",
+    "name": "Trà Giác",
+    "name_en": "Tra Giac",
+    "full_name": "Xã Trà Giác",
+    "full_name_en": "Tra Giac Commune",
+    "type": "xã",
+    "district_code": "515",
+    "codename": "tra_giac"
+  },
+  {
+    "code": "20929",
+    "name": "Trà Giáp",
+    "name_en": "Tra Giap",
+    "full_name": "Xã Trà Giáp",
+    "full_name_en": "Tra Giap Commune",
+    "type": "xã",
+    "district_code": "515",
+    "codename": "tra_giap"
+  },
+  {
+    "code": "20932",
+    "name": "Trà Ka",
+    "name_en": "Tra Ka",
+    "full_name": "Xã Trà Ka",
+    "full_name_en": "Tra Ka Commune",
+    "type": "xã",
+    "district_code": "515",
+    "codename": "tra_ka"
+  }
+]

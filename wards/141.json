@@ -1,0 +1,232 @@
+[
+  {
+    "code": "04714",
+    "name": "Yên Bình",
+    "name_en": "Yen Binh",
+    "full_name": "Thị trấn Yên Bình",
+    "full_name_en": "Yen Binh Township",
+    "type": "thị trấn",
+    "district_code": "141",
+    "codename": "yen_binh"
+  },
+  {
+    "code": "04717",
+    "name": "Thác Bà",
+    "name_en": "Thac Ba",
+    "full_name": "Thị trấn Thác Bà",
+    "full_name_en": "Thac Ba Township",
+    "type": "thị trấn",
+    "district_code": "141",
+    "codename": "thac_ba"
+  },
+  {
+    "code": "04720",
+    "name": "Xuân Long",
+    "name_en": "Xuan Long",
+    "full_name": "Xã Xuân Long",
+    "full_name_en": "Xuan Long Commune",
+    "type": "xã",
+    "district_code": "141",
+    "codename": "xuan_long"
+  },
+  {
+    "code": "04726",
+    "name": "Cảm Nhân",
+    "name_en": "Cam Nhan",
+    "full_name": "Xã Cảm Nhân",
+    "full_name_en": "Cam Nhan Commune",
+    "type": "xã",
+    "district_code": "141",
+    "codename": "cam_nhan"
+  },
+  {
+    "code": "04729",
+    "name": "Ngọc Chấn",
+    "name_en": "Ngoc Chan",
+    "full_name": "Xã Ngọc Chấn",
+    "full_name_en": "Ngoc Chan Commune",
+    "type": "xã",
+    "district_code": "141",
+    "codename": "ngoc_chan"
+  },
+  {
+    "code": "04732",
+    "name": "Tân Nguyên",
+    "name_en": "Tan Nguyen",
+    "full_name": "Xã Tân Nguyên",
+    "full_name_en": "Tan Nguyen Commune",
+    "type": "xã",
+    "district_code": "141",
+    "codename": "tan_nguyen"
+  },
+  {
+    "code": "04735",
+    "name": "Phúc Ninh",
+    "name_en": "Phuc Ninh",
+    "full_name": "Xã Phúc Ninh",
+    "full_name_en": "Phuc Ninh Commune",
+    "type": "xã",
+    "district_code": "141",
+    "codename": "phuc_ninh"
+  },
+  {
+    "code": "04738",
+    "name": "Bảo Ái",
+    "name_en": "Bao Ai",
+    "full_name": "Xã Bảo Ái",
+    "full_name_en": "Bao Ai Commune",
+    "type": "xã",
+    "district_code": "141",
+    "codename": "bao_ai"
+  },
+  {
+    "code": "04741",
+    "name": "Mỹ Gia",
+    "name_en": "My Gia",
+    "full_name": "Xã Mỹ Gia",
+    "full_name_en": "My Gia Commune",
+    "type": "xã",
+    "district_code": "141",
+    "codename": "my_gia"
+  },
+  {
+    "code": "04744",
+    "name": "Xuân Lai",
+    "name_en": "Xuan Lai",
+    "full_name": "Xã Xuân Lai",
+    "full_name_en": "Xuan Lai Commune",
+    "type": "xã",
+    "district_code": "141",
+    "codename": "xuan_lai"
+  },
+  {
+    "code": "04747",
+    "name": "Mông Sơn",
+    "name_en": "Mong Son",
+    "full_name": "Xã Mông Sơn",
+    "full_name_en": "Mong Son Commune",
+    "type": "xã",
+    "district_code": "141",
+    "codename": "mong_son"
+  },
+  {
+    "code": "04750",
+    "name": "Cảm Ân",
+    "name_en": "Cam An",
+    "full_name": "Xã Cảm Ân",
+    "full_name_en": "Cam An Commune",
+    "type": "xã",
+    "district_code": "141",
+    "codename": "cam_an"
+  },
+  {
+    "code": "04753",
+    "name": "Yên Thành",
+    "name_en": "Yen Thanh",
+    "full_name": "Xã Yên Thành",
+    "full_name_en": "Yen Thanh Commune",
+    "type": "xã",
+    "district_code": "141",
+    "codename": "yen_thanh"
+  },
+  {
+    "code": "04756",
+    "name": "Tân Hương",
+    "name_en": "Tan Huong",
+    "full_name": "Xã Tân Hương",
+    "full_name_en": "Tan Huong Commune",
+    "type": "xã",
+    "district_code": "141",
+    "codename": "tan_huong"
+  },
+  {
+    "code": "04759",
+    "name": "Phúc An",
+    "name_en": "Phuc An",
+    "full_name": "Xã Phúc An",
+    "full_name_en": "Phuc An Commune",
+    "type": "xã",
+    "district_code": "141",
+    "codename": "phuc_an"
+  },
+  {
+    "code": "04762",
+    "name": "Bạch Hà",
+    "name_en": "Bach Ha",
+    "full_name": "Xã Bạch Hà",
+    "full_name_en": "Bach Ha Commune",
+    "type": "xã",
+    "district_code": "141",
+    "codename": "bach_ha"
+  },
+  {
+    "code": "04765",
+    "name": "Vũ Linh",
+    "name_en": "Vu Linh",
+    "full_name": "Xã Vũ Linh",
+    "full_name_en": "Vu Linh Commune",
+    "type": "xã",
+    "district_code": "141",
+    "codename": "vu_linh"
+  },
+  {
+    "code": "04768",
+    "name": "Đại Đồng",
+    "name_en": "Dai Dong",
+    "full_name": "Xã Đại Đồng",
+    "full_name_en": "Dai Dong Commune",
+    "type": "xã",
+    "district_code": "141",
+    "codename": "dai_dong"
+  },
+  {
+    "code": "04771",
+    "name": "Vĩnh Kiên",
+    "name_en": "Vinh Kien",
+    "full_name": "Xã Vĩnh Kiên",
+    "full_name_en": "Vinh Kien Commune",
+    "type": "xã",
+    "district_code": "141",
+    "codename": "vinh_kien"
+  },
+  {
+    "code": "04777",
+    "name": "Thịnh Hưng",
+    "name_en": "Thinh Hung",
+    "full_name": "Xã Thịnh Hưng",
+    "full_name_en": "Thinh Hung Commune",
+    "type": "xã",
+    "district_code": "141",
+    "codename": "thinh_hung"
+  },
+  {
+    "code": "04780",
+    "name": "Hán Đà",
+    "name_en": "Han Da",
+    "full_name": "Xã Hán Đà",
+    "full_name_en": "Han Da Commune",
+    "type": "xã",
+    "district_code": "141",
+    "codename": "han_da"
+  },
+  {
+    "code": "04783",
+    "name": "Phú Thịnh",
+    "name_en": "Phu Thinh",
+    "full_name": "Xã Phú Thịnh",
+    "full_name_en": "Phu Thinh Commune",
+    "type": "xã",
+    "district_code": "141",
+    "codename": "phu_thinh"
+  },
+  {
+    "code": "04786",
+    "name": "Đại Minh",
+    "name_en": "Dai Minh",
+    "full_name": "Xã Đại Minh",
+    "full_name_en": "Dai Minh Commune",
+    "type": "xã",
+    "district_code": "141",
+    "codename": "dai_minh"
+  }
+]

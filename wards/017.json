@@ -1,0 +1,242 @@
+[
+  {
+    "code": "00454",
+    "name": "Đông Anh",
+    "name_en": "Dong Anh",
+    "full_name": "Thị trấn Đông Anh",
+    "full_name_en": "Dong Anh Township",
+    "type": "thị trấn",
+    "district_code": "017",
+    "codename": "dong_anh"
+  },
+  {
+    "code": "00457",
+    "name": "Xuân Nộn",
+    "name_en": "Xuan Non",
+    "full_name": "Xã Xuân Nộn",
+    "full_name_en": "Xuan Non Commune",
+    "type": "xã",
+    "district_code": "017",
+    "codename": "xuan_non"
+  },
+  {
+    "code": "00460",
+    "name": "Thuỵ Lâm",
+    "name_en": "Thuy Lam",
+    "full_name": "Xã Thuỵ Lâm",
+    "full_name_en": "Thuy Lam Commune",
+    "type": "xã",
+    "district_code": "017",
+    "codename": "thuy_lam"
+  },
+  {
+    "code": "00463",
+    "name": "Bắc Hồng",
+    "name_en": "Bac Hong",
+    "full_name": "Xã Bắc Hồng",
+    "full_name_en": "Bac Hong Commune",
+    "type": "xã",
+    "district_code": "017",
+    "codename": "bac_hong"
+  },
+  {
+    "code": "00466",
+    "name": "Nguyên Khê",
+    "name_en": "Nguyen Khe",
+    "full_name": "Xã Nguyên Khê",
+    "full_name_en": "Nguyen Khe Commune",
+    "type": "xã",
+    "district_code": "017",
+    "codename": "nguyen_khe"
+  },
+  {
+    "code": "00469",
+    "name": "Nam Hồng",
+    "name_en": "Nam Hong",
+    "full_name": "Xã Nam Hồng",
+    "full_name_en": "Nam Hong Commune",
+    "type": "xã",
+    "district_code": "017",
+    "codename": "nam_hong"
+  },
+  {
+    "code": "00472",
+    "name": "Tiên Dương",
+    "name_en": "Tien Duong",
+    "full_name": "Xã Tiên Dương",
+    "full_name_en": "Tien Duong Commune",
+    "type": "xã",
+    "district_code": "017",
+    "codename": "tien_duong"
+  },
+  {
+    "code": "00475",
+    "name": "Vân Hà",
+    "name_en": "Van Ha",
+    "full_name": "Xã Vân Hà",
+    "full_name_en": "Van Ha Commune",
+    "type": "xã",
+    "district_code": "017",
+    "codename": "van_ha"
+  },
+  {
+    "code": "00478",
+    "name": "Uy Nỗ",
+    "name_en": "Uy No",
+    "full_name": "Xã Uy Nỗ",
+    "full_name_en": "Uy No Commune",
+    "type": "xã",
+    "district_code": "017",
+    "codename": "uy_no"
+  },
+  {
+    "code": "00481",
+    "name": "Vân Nội",
+    "name_en": "Van Noi",
+    "full_name": "Xã Vân Nội",
+    "full_name_en": "Van Noi Commune",
+    "type": "xã",
+    "district_code": "017",
+    "codename": "van_noi"
+  },
+  {
+    "code": "00484",
+    "name": "Liên Hà",
+    "name_en": "Lien Ha",
+    "full_name": "Xã Liên Hà",
+    "full_name_en": "Lien Ha Commune",
+    "type": "xã",
+    "district_code": "017",
+    "codename": "lien_ha"
+  },
+  {
+    "code": "00487",
+    "name": "Việt Hùng",
+    "name_en": "Viet Hung",
+    "full_name": "Xã Việt Hùng",
+    "full_name_en": "Viet Hung Commune",
+    "type": "xã",
+    "district_code": "017",
+    "codename": "viet_hung"
+  },
+  {
+    "code": "00490",
+    "name": "Kim Nỗ",
+    "name_en": "Kim No",
+    "full_name": "Xã Kim Nỗ",
+    "full_name_en": "Kim No Commune",
+    "type": "xã",
+    "district_code": "017",
+    "codename": "kim_no"
+  },
+  {
+    "code": "00493",
+    "name": "Kim Chung",
+    "name_en": "Kim Chung",
+    "full_name": "Xã Kim Chung",
+    "full_name_en": "Kim Chung Commune",
+    "type": "xã",
+    "district_code": "017",
+    "codename": "kim_chung"
+  },
+  {
+    "code": "00496",
+    "name": "Dục Tú",
+    "name_en": "Duc Tu",
+    "full_name": "Xã Dục Tú",
+    "full_name_en": "Duc Tu Commune",
+    "type": "xã",
+    "district_code": "017",
+    "codename": "duc_tu"
+  },
+  {
+    "code": "00499",
+    "name": "Đại Mạch",
+    "name_en": "Dai Mach",
+    "full_name": "Xã Đại Mạch",
+    "full_name_en": "Dai Mach Commune",
+    "type": "xã",
+    "district_code": "017",
+    "codename": "dai_mach"
+  },
+  {
+    "code": "00502",
+    "name": "Vĩnh Ngọc",
+    "name_en": "Vinh Ngoc",
+    "full_name": "Xã Vĩnh Ngọc",
+    "full_name_en": "Vinh Ngoc Commune",
+    "type": "xã",
+    "district_code": "017",
+    "codename": "vinh_ngoc"
+  },
+  {
+    "code": "00505",
+    "name": "Cổ Loa",
+    "name_en": "Co Loa",
+    "full_name": "Xã Cổ Loa",
+    "full_name_en": "Co Loa Commune",
+    "type": "xã",
+    "district_code": "017",
+    "codename": "co_loa"
+  },
+  {
+    "code": "00508",
+    "name": "Hải Bối",
+    "name_en": "Hai Boi",
+    "full_name": "Xã Hải Bối",
+    "full_name_en": "Hai Boi Commune",
+    "type": "xã",
+    "district_code": "017",
+    "codename": "hai_boi"
+  },
+  {
+    "code": "00511",
+    "name": "Xuân Canh",
+    "name_en": "Xuan Canh",
+    "full_name": "Xã Xuân Canh",
+    "full_name_en": "Xuan Canh Commune",
+    "type": "xã",
+    "district_code": "017",
+    "codename": "xuan_canh"
+  },
+  {
+    "code": "00514",
+    "name": "Võng La",
+    "name_en": "Vong La",
+    "full_name": "Xã Võng La",
+    "full_name_en": "Vong La Commune",
+    "type": "xã",
+    "district_code": "017",
+    "codename": "vong_la"
+  },
+  {
+    "code": "00517",
+    "name": "Tàm Xá",
+    "name_en": "Tam Xa",
+    "full_name": "Xã Tàm Xá",
+    "full_name_en": "Tam Xa Commune",
+    "type": "xã",
+    "district_code": "017",
+    "codename": "tam_xa"
+  },
+  {
+    "code": "00520",
+    "name": "Mai Lâm",
+    "name_en": "Mai Lam",
+    "full_name": "Xã Mai Lâm",
+    "full_name_en": "Mai Lam Commune",
+    "type": "xã",
+    "district_code": "017",
+    "codename": "mai_lam"
+  },
+  {
+    "code": "00523",
+    "name": "Đông Hội",
+    "name_en": "Dong Hoi",
+    "full_name": "Xã Đông Hội",
+    "full_name_en": "Dong Hoi Commune",
+    "type": "xã",
+    "district_code": "017",
+    "codename": "dong_hoi"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "code": "27757",
+    "name": "Vĩnh Hưng",
+    "name_en": "Vinh Hung",
+    "full_name": "Thị trấn Vĩnh Hưng",
+    "full_name_en": "Vinh Hung Township",
+    "type": "thị trấn",
+    "district_code": "797",
+    "codename": "vinh_hung"
+  },
+  {
+    "code": "27760",
+    "name": "Hưng Điền A",
+    "name_en": "Hung Dien A",
+    "full_name": "Xã Hưng Điền A",
+    "full_name_en": "Hung Dien A Commune",
+    "type": "xã",
+    "district_code": "797",
+    "codename": "hung_dien_a"
+  },
+  {
+    "code": "27763",
+    "name": "Khánh Hưng",
+    "name_en": "Khanh Hung",
+    "full_name": "Xã Khánh Hưng",
+    "full_name_en": "Khanh Hung Commune",
+    "type": "xã",
+    "district_code": "797",
+    "codename": "khanh_hung"
+  },
+  {
+    "code": "27766",
+    "name": "Thái Trị",
+    "name_en": "Thai Tri",
+    "full_name": "Xã Thái Trị",
+    "full_name_en": "Thai Tri Commune",
+    "type": "xã",
+    "district_code": "797",
+    "codename": "thai_tri"
+  },
+  {
+    "code": "27769",
+    "name": "Vĩnh Trị",
+    "name_en": "Vinh Tri",
+    "full_name": "Xã Vĩnh Trị",
+    "full_name_en": "Vinh Tri Commune",
+    "type": "xã",
+    "district_code": "797",
+    "codename": "vinh_tri"
+  },
+  {
+    "code": "27772",
+    "name": "Thái Bình Trung",
+    "name_en": "Thai Binh Trung",
+    "full_name": "Xã Thái Bình Trung",
+    "full_name_en": "Thai Binh Trung Commune",
+    "type": "xã",
+    "district_code": "797",
+    "codename": "thai_binh_trung"
+  },
+  {
+    "code": "27775",
+    "name": "Vĩnh Bình",
+    "name_en": "Vinh Binh",
+    "full_name": "Xã Vĩnh Bình",
+    "full_name_en": "Vinh Binh Commune",
+    "type": "xã",
+    "district_code": "797",
+    "codename": "vinh_binh"
+  },
+  {
+    "code": "27778",
+    "name": "Vĩnh Thuận",
+    "name_en": "Vinh Thuan",
+    "full_name": "Xã Vĩnh Thuận",
+    "full_name_en": "Vinh Thuan Commune",
+    "type": "xã",
+    "district_code": "797",
+    "codename": "vinh_thuan"
+  },
+  {
+    "code": "27781",
+    "name": "Tuyên Bình",
+    "name_en": "Tuyen Binh",
+    "full_name": "Xã Tuyên Bình",
+    "full_name_en": "Tuyen Binh Commune",
+    "type": "xã",
+    "district_code": "797",
+    "codename": "tuyen_binh"
+  },
+  {
+    "code": "27784",
+    "name": "Tuyên Bình Tây",
+    "name_en": "Tuyen Binh Tay",
+    "full_name": "Xã Tuyên Bình Tây",
+    "full_name_en": "Tuyen Binh Tay Commune",
+    "type": "xã",
+    "district_code": "797",
+    "codename": "tuyen_binh_tay"
+  }
+]

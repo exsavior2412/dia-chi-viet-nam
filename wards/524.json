@@ -1,0 +1,222 @@
+[
+  {
+    "code": "21040",
+    "name": "Châu Ổ",
+    "name_en": "Chau O",
+    "full_name": "Thị trấn Châu Ổ",
+    "full_name_en": "Chau O Township",
+    "type": "thị trấn",
+    "district_code": "524",
+    "codename": "chau_o"
+  },
+  {
+    "code": "21043",
+    "name": "Bình Thuận",
+    "name_en": "Binh Thuan",
+    "full_name": "Xã Bình Thuận",
+    "full_name_en": "Binh Thuan Commune",
+    "type": "xã",
+    "district_code": "524",
+    "codename": "binh_thuan"
+  },
+  {
+    "code": "21046",
+    "name": "Bình Thạnh",
+    "name_en": "Binh Thanh",
+    "full_name": "Xã Bình Thạnh",
+    "full_name_en": "Binh Thanh Commune",
+    "type": "xã",
+    "district_code": "524",
+    "codename": "binh_thanh"
+  },
+  {
+    "code": "21049",
+    "name": "Bình Đông",
+    "name_en": "Binh Dong",
+    "full_name": "Xã Bình Đông",
+    "full_name_en": "Binh Dong Commune",
+    "type": "xã",
+    "district_code": "524",
+    "codename": "binh_dong"
+  },
+  {
+    "code": "21052",
+    "name": "Bình Chánh",
+    "name_en": "Binh Chanh",
+    "full_name": "Xã Bình Chánh",
+    "full_name_en": "Binh Chanh Commune",
+    "type": "xã",
+    "district_code": "524",
+    "codename": "binh_chanh"
+  },
+  {
+    "code": "21055",
+    "name": "Bình Nguyên",
+    "name_en": "Binh Nguyen",
+    "full_name": "Xã Bình Nguyên",
+    "full_name_en": "Binh Nguyen Commune",
+    "type": "xã",
+    "district_code": "524",
+    "codename": "binh_nguyen"
+  },
+  {
+    "code": "21058",
+    "name": "Bình Khương",
+    "name_en": "Binh Khuong",
+    "full_name": "Xã Bình Khương",
+    "full_name_en": "Binh Khuong Commune",
+    "type": "xã",
+    "district_code": "524",
+    "codename": "binh_khuong"
+  },
+  {
+    "code": "21061",
+    "name": "Bình Trị",
+    "name_en": "Binh Tri",
+    "full_name": "Xã Bình Trị",
+    "full_name_en": "Binh Tri Commune",
+    "type": "xã",
+    "district_code": "524",
+    "codename": "binh_tri"
+  },
+  {
+    "code": "21064",
+    "name": "Bình An",
+    "name_en": "Binh An",
+    "full_name": "Xã Bình An",
+    "full_name_en": "Binh An Commune",
+    "type": "xã",
+    "district_code": "524",
+    "codename": "binh_an"
+  },
+  {
+    "code": "21067",
+    "name": "Bình Hải",
+    "name_en": "Binh Hai",
+    "full_name": "Xã Bình Hải",
+    "full_name_en": "Binh Hai Commune",
+    "type": "xã",
+    "district_code": "524",
+    "codename": "binh_hai"
+  },
+  {
+    "code": "21070",
+    "name": "Bình Dương",
+    "name_en": "Binh Duong",
+    "full_name": "Xã Bình Dương",
+    "full_name_en": "Binh Duong Commune",
+    "type": "xã",
+    "district_code": "524",
+    "codename": "binh_duong"
+  },
+  {
+    "code": "21073",
+    "name": "Bình Phước",
+    "name_en": "Binh Phuoc",
+    "full_name": "Xã Bình Phước",
+    "full_name_en": "Binh Phuoc Commune",
+    "type": "xã",
+    "district_code": "524",
+    "codename": "binh_phuoc"
+  },
+  {
+    "code": "21079",
+    "name": "Bình Hòa",
+    "name_en": "Binh Hoa",
+    "full_name": "Xã Bình Hòa",
+    "full_name_en": "Binh Hoa Commune",
+    "type": "xã",
+    "district_code": "524",
+    "codename": "binh_hoa"
+  },
+  {
+    "code": "21082",
+    "name": "Bình Trung",
+    "name_en": "Binh Trung",
+    "full_name": "Xã Bình Trung",
+    "full_name_en": "Binh Trung Commune",
+    "type": "xã",
+    "district_code": "524",
+    "codename": "binh_trung"
+  },
+  {
+    "code": "21085",
+    "name": "Bình Minh",
+    "name_en": "Binh Minh",
+    "full_name": "Xã Bình Minh",
+    "full_name_en": "Binh Minh Commune",
+    "type": "xã",
+    "district_code": "524",
+    "codename": "binh_minh"
+  },
+  {
+    "code": "21088",
+    "name": "Bình Long",
+    "name_en": "Binh Long",
+    "full_name": "Xã Bình Long",
+    "full_name_en": "Binh Long Commune",
+    "type": "xã",
+    "district_code": "524",
+    "codename": "binh_long"
+  },
+  {
+    "code": "21091",
+    "name": "Bình Thanh",
+    "name_en": "Binh Thanh",
+    "full_name": "Xã Bình Thanh",
+    "full_name_en": "Binh Thanh Commune",
+    "type": "xã",
+    "district_code": "524",
+    "codename": "binh_thanh"
+  },
+  {
+    "code": "21100",
+    "name": "Bình Chương",
+    "name_en": "Binh Chuong",
+    "full_name": "Xã Bình Chương",
+    "full_name_en": "Binh Chuong Commune",
+    "type": "xã",
+    "district_code": "524",
+    "codename": "binh_chuong"
+  },
+  {
+    "code": "21103",
+    "name": "Bình Hiệp",
+    "name_en": "Binh Hiep",
+    "full_name": "Xã Bình Hiệp",
+    "full_name_en": "Binh Hiep Commune",
+    "type": "xã",
+    "district_code": "524",
+    "codename": "binh_hiep"
+  },
+  {
+    "code": "21106",
+    "name": "Bình Mỹ",
+    "name_en": "Binh My",
+    "full_name": "Xã Bình Mỹ",
+    "full_name_en": "Binh My Commune",
+    "type": "xã",
+    "district_code": "524",
+    "codename": "binh_my"
+  },
+  {
+    "code": "21109",
+    "name": "Bình Tân Phú",
+    "name_en": "Binh Tan Phu",
+    "full_name": "Xã Bình Tân Phú",
+    "full_name_en": "Binh Tan Phu Commune",
+    "type": "xã",
+    "district_code": "524",
+    "codename": "binh_tan_phu"
+  },
+  {
+    "code": "21112",
+    "name": "Bình Châu",
+    "name_en": "Binh Chau",
+    "full_name": "Xã Bình Châu",
+    "full_name_en": "Binh Chau Commune",
+    "type": "xã",
+    "district_code": "524",
+    "codename": "binh_chau"
+  }
+]

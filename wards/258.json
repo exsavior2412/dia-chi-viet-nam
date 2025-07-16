@@ -1,0 +1,142 @@
+[
+  {
+    "code": "09193",
+    "name": "Chờ",
+    "name_en": "Cho",
+    "full_name": "Thị trấn Chờ",
+    "full_name_en": "Cho Township",
+    "type": "thị trấn",
+    "district_code": "258",
+    "codename": "cho"
+  },
+  {
+    "code": "09196",
+    "name": "Dũng Liệt",
+    "name_en": "Dung Liet",
+    "full_name": "Xã Dũng Liệt",
+    "full_name_en": "Dung Liet Commune",
+    "type": "xã",
+    "district_code": "258",
+    "codename": "dung_liet"
+  },
+  {
+    "code": "09199",
+    "name": "Tam Đa",
+    "name_en": "Tam Da",
+    "full_name": "Xã Tam Đa",
+    "full_name_en": "Tam Da Commune",
+    "type": "xã",
+    "district_code": "258",
+    "codename": "tam_da"
+  },
+  {
+    "code": "09202",
+    "name": "Tam Giang",
+    "name_en": "Tam Giang",
+    "full_name": "Xã Tam Giang",
+    "full_name_en": "Tam Giang Commune",
+    "type": "xã",
+    "district_code": "258",
+    "codename": "tam_giang"
+  },
+  {
+    "code": "09205",
+    "name": "Yên Trung",
+    "name_en": "Yen Trung",
+    "full_name": "Xã Yên Trung",
+    "full_name_en": "Yen Trung Commune",
+    "type": "xã",
+    "district_code": "258",
+    "codename": "yen_trung"
+  },
+  {
+    "code": "09208",
+    "name": "Thụy Hòa",
+    "name_en": "Thuy Hoa",
+    "full_name": "Xã Thụy Hòa",
+    "full_name_en": "Thuy Hoa Commune",
+    "type": "xã",
+    "district_code": "258",
+    "codename": "thuy_hoa"
+  },
+  {
+    "code": "09211",
+    "name": "Hòa Tiến",
+    "name_en": "Hoa Tien",
+    "full_name": "Xã Hòa Tiến",
+    "full_name_en": "Hoa Tien Commune",
+    "type": "xã",
+    "district_code": "258",
+    "codename": "hoa_tien"
+  },
+  {
+    "code": "09217",
+    "name": "Đông Tiến",
+    "name_en": "Dong Tien",
+    "full_name": "Xã Đông Tiến",
+    "full_name_en": "Dong Tien Commune",
+    "type": "xã",
+    "district_code": "258",
+    "codename": "dong_tien"
+  },
+  {
+    "code": "09220",
+    "name": "Yên Phụ",
+    "name_en": "Yen Phu",
+    "full_name": "Xã Yên Phụ",
+    "full_name_en": "Yen Phu Commune",
+    "type": "xã",
+    "district_code": "258",
+    "codename": "yen_phu"
+  },
+  {
+    "code": "09223",
+    "name": "Trung Nghĩa",
+    "name_en": "Trung Nghia",
+    "full_name": "Xã Trung Nghĩa",
+    "full_name_en": "Trung Nghia Commune",
+    "type": "xã",
+    "district_code": "258",
+    "codename": "trung_nghia"
+  },
+  {
+    "code": "09229",
+    "name": "Đông Phong",
+    "name_en": "Dong Phong",
+    "full_name": "Xã Đông Phong",
+    "full_name_en": "Dong Phong Commune",
+    "type": "xã",
+    "district_code": "258",
+    "codename": "dong_phong"
+  },
+  {
+    "code": "09232",
+    "name": "Long Châu",
+    "name_en": "Long Chau",
+    "full_name": "Xã Long Châu",
+    "full_name_en": "Long Chau Commune",
+    "type": "xã",
+    "district_code": "258",
+    "codename": "long_chau"
+  },
+  {
+    "code": "09238",
+    "name": "Văn Môn",
+    "name_en": "Van Mon",
+    "full_name": "Xã Văn Môn",
+    "full_name_en": "Van Mon Commune",
+    "type": "xã",
+    "district_code": "258",
+    "codename": "van_mon"
+  },
+  {
+    "code": "09241",
+    "name": "Đông Thọ",
+    "name_en": "Dong Tho",
+    "full_name": "Xã Đông Thọ",
+    "full_name_en": "Dong Tho Commune",
+    "type": "xã",
+    "district_code": "258",
+    "codename": "dong_tho"
+  }
+]

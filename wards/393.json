@@ -1,0 +1,132 @@
+[
+  {
+    "code": "15349",
+    "name": "Vĩnh Lộc",
+    "name_en": "Vinh Loc",
+    "full_name": "Thị trấn Vĩnh Lộc",
+    "full_name_en": "Vinh Loc Township",
+    "type": "thị trấn",
+    "district_code": "393",
+    "codename": "vinh_loc"
+  },
+  {
+    "code": "15352",
+    "name": "Vĩnh Quang",
+    "name_en": "Vinh Quang",
+    "full_name": "Xã Vĩnh Quang",
+    "full_name_en": "Vinh Quang Commune",
+    "type": "xã",
+    "district_code": "393",
+    "codename": "vinh_quang"
+  },
+  {
+    "code": "15355",
+    "name": "Vĩnh Yên",
+    "name_en": "Vinh Yen",
+    "full_name": "Xã Vĩnh Yên",
+    "full_name_en": "Vinh Yen Commune",
+    "type": "xã",
+    "district_code": "393",
+    "codename": "vinh_yen"
+  },
+  {
+    "code": "15358",
+    "name": "Vĩnh Tiến",
+    "name_en": "Vinh Tien",
+    "full_name": "Xã Vĩnh Tiến",
+    "full_name_en": "Vinh Tien Commune",
+    "type": "xã",
+    "district_code": "393",
+    "codename": "vinh_tien"
+  },
+  {
+    "code": "15361",
+    "name": "Vĩnh Long",
+    "name_en": "Vinh Long",
+    "full_name": "Xã Vĩnh Long",
+    "full_name_en": "Vinh Long Commune",
+    "type": "xã",
+    "district_code": "393",
+    "codename": "vinh_long"
+  },
+  {
+    "code": "15364",
+    "name": "Vĩnh Phúc",
+    "name_en": "Vinh Phuc",
+    "full_name": "Xã Vĩnh Phúc",
+    "full_name_en": "Vinh Phuc Commune",
+    "type": "xã",
+    "district_code": "393",
+    "codename": "vinh_phuc"
+  },
+  {
+    "code": "15367",
+    "name": "Vĩnh Hưng",
+    "name_en": "Vinh Hung",
+    "full_name": "Xã Vĩnh Hưng",
+    "full_name_en": "Vinh Hung Commune",
+    "type": "xã",
+    "district_code": "393",
+    "codename": "vinh_hung"
+  },
+  {
+    "code": "15376",
+    "name": "Vĩnh Hòa",
+    "name_en": "Vinh Hoa",
+    "full_name": "Xã Vĩnh Hòa",
+    "full_name_en": "Vinh Hoa Commune",
+    "type": "xã",
+    "district_code": "393",
+    "codename": "vinh_hoa"
+  },
+  {
+    "code": "15379",
+    "name": "Vĩnh Hùng",
+    "name_en": "Vinh Hung",
+    "full_name": "Xã Vĩnh Hùng",
+    "full_name_en": "Vinh Hung Commune",
+    "type": "xã",
+    "district_code": "393",
+    "codename": "vinh_hung"
+  },
+  {
+    "code": "15382",
+    "name": "Minh Tân",
+    "name_en": "Minh Tan",
+    "full_name": "Xã Minh Tân",
+    "full_name_en": "Minh Tan Commune",
+    "type": "xã",
+    "district_code": "393",
+    "codename": "minh_tan"
+  },
+  {
+    "code": "15385",
+    "name": "Ninh Khang",
+    "name_en": "Ninh Khang",
+    "full_name": "Xã Ninh Khang",
+    "full_name_en": "Ninh Khang Commune",
+    "type": "xã",
+    "district_code": "393",
+    "codename": "ninh_khang"
+  },
+  {
+    "code": "15388",
+    "name": "Vĩnh Thịnh",
+    "name_en": "Vinh Thinh",
+    "full_name": "Xã Vĩnh Thịnh",
+    "full_name_en": "Vinh Thinh Commune",
+    "type": "xã",
+    "district_code": "393",
+    "codename": "vinh_thinh"
+  },
+  {
+    "code": "15391",
+    "name": "Vĩnh An",
+    "name_en": "Vinh An",
+    "full_name": "Xã Vĩnh An",
+    "full_name_en": "Vinh An Commune",
+    "type": "xã",
+    "district_code": "393",
+    "codename": "vinh_an"
+  }
+]

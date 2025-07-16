@@ -1,0 +1,102 @@
+[
+  {
+    "code": "30880",
+    "name": "Minh Lương",
+    "name_en": "Minh Luong",
+    "full_name": "Thị trấn Minh Lương",
+    "full_name_en": "Minh Luong Township",
+    "type": "thị trấn",
+    "district_code": "905",
+    "codename": "minh_luong"
+  },
+  {
+    "code": "30883",
+    "name": "Mong Thọ A",
+    "name_en": "Mong Tho A",
+    "full_name": "Xã Mong Thọ A",
+    "full_name_en": "Mong Tho A Commune",
+    "type": "xã",
+    "district_code": "905",
+    "codename": "mong_tho_a"
+  },
+  {
+    "code": "30886",
+    "name": "Mong Thọ B",
+    "name_en": "Mong Tho B",
+    "full_name": "Xã Mong Thọ B",
+    "full_name_en": "Mong Tho B Commune",
+    "type": "xã",
+    "district_code": "905",
+    "codename": "mong_tho_b"
+  },
+  {
+    "code": "30887",
+    "name": "Mong Thọ",
+    "name_en": "Mong Tho",
+    "full_name": "Xã Mong Thọ",
+    "full_name_en": "Mong Tho Commune",
+    "type": "xã",
+    "district_code": "905",
+    "codename": "mong_tho"
+  },
+  {
+    "code": "30889",
+    "name": "Giục Tượng",
+    "name_en": "Giuc Tuong",
+    "full_name": "Xã Giục Tượng",
+    "full_name_en": "Giuc Tuong Commune",
+    "type": "xã",
+    "district_code": "905",
+    "codename": "giuc_tuong"
+  },
+  {
+    "code": "30892",
+    "name": "Vĩnh Hòa Hiệp",
+    "name_en": "Vinh Hoa Hiep",
+    "full_name": "Xã Vĩnh Hòa Hiệp",
+    "full_name_en": "Vinh Hoa Hiep Commune",
+    "type": "xã",
+    "district_code": "905",
+    "codename": "vinh_hoa_hiep"
+  },
+  {
+    "code": "30893",
+    "name": "Vĩnh Hoà Phú",
+    "name_en": "Vinh Hoa Phu",
+    "full_name": "Xã Vĩnh Hoà Phú",
+    "full_name_en": "Vinh Hoa Phu Commune",
+    "type": "xã",
+    "district_code": "905",
+    "codename": "vinh_hoa_phu"
+  },
+  {
+    "code": "30895",
+    "name": "Minh Hòa",
+    "name_en": "Minh Hoa",
+    "full_name": "Xã Minh Hòa",
+    "full_name_en": "Minh Hoa Commune",
+    "type": "xã",
+    "district_code": "905",
+    "codename": "minh_hoa"
+  },
+  {
+    "code": "30898",
+    "name": "Bình An",
+    "name_en": "Binh An",
+    "full_name": "Xã Bình An",
+    "full_name_en": "Binh An Commune",
+    "type": "xã",
+    "district_code": "905",
+    "codename": "binh_an"
+  },
+  {
+    "code": "30901",
+    "name": "Thạnh Lộc",
+    "name_en": "Thanh Loc",
+    "full_name": "Xã Thạnh Lộc",
+    "full_name_en": "Thanh Loc Commune",
+    "type": "xã",
+    "district_code": "905",
+    "codename": "thanh_loc"
+  }
+]

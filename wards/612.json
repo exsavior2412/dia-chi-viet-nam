@@ -1,0 +1,92 @@
+[
+  {
+    "code": "23401",
+    "name": "Đắk Tô",
+    "name_en": "Dak To",
+    "full_name": "Thị trấn Đắk Tô",
+    "full_name_en": "Dak To Township",
+    "type": "thị trấn",
+    "district_code": "612",
+    "codename": "dak_to"
+  },
+  {
+    "code": "23427",
+    "name": "Đắk Rơ Nga",
+    "name_en": "Dak Ro Nga",
+    "full_name": "Xã Đắk Rơ Nga",
+    "full_name_en": "Dak Ro Nga Commune",
+    "type": "xã",
+    "district_code": "612",
+    "codename": "dak_ro_nga"
+  },
+  {
+    "code": "23428",
+    "name": "Ngọk Tụ",
+    "name_en": "Ngok Tu",
+    "full_name": "Xã Ngọk Tụ",
+    "full_name_en": "Ngok Tu Commune",
+    "type": "xã",
+    "district_code": "612",
+    "codename": "ngok_tu"
+  },
+  {
+    "code": "23430",
+    "name": "Đắk Trăm",
+    "name_en": "Dak Tram",
+    "full_name": "Xã Đắk Trăm",
+    "full_name_en": "Dak Tram Commune",
+    "type": "xã",
+    "district_code": "612",
+    "codename": "dak_tram"
+  },
+  {
+    "code": "23431",
+    "name": "Văn Lem",
+    "name_en": "Van Lem",
+    "full_name": "Xã Văn Lem",
+    "full_name_en": "Van Lem Commune",
+    "type": "xã",
+    "district_code": "612",
+    "codename": "van_lem"
+  },
+  {
+    "code": "23434",
+    "name": "Kon Đào",
+    "name_en": "Kon Dao",
+    "full_name": "Xã Kon Đào",
+    "full_name_en": "Kon Dao Commune",
+    "type": "xã",
+    "district_code": "612",
+    "codename": "kon_dao"
+  },
+  {
+    "code": "23437",
+    "name": "Tân Cảnh",
+    "name_en": "Tan Canh",
+    "full_name": "Xã Tân Cảnh",
+    "full_name_en": "Tan Canh Commune",
+    "type": "xã",
+    "district_code": "612",
+    "codename": "tan_canh"
+  },
+  {
+    "code": "23440",
+    "name": "Diên Bình",
+    "name_en": "Dien Binh",
+    "full_name": "Xã Diên Bình",
+    "full_name_en": "Dien Binh Commune",
+    "type": "xã",
+    "district_code": "612",
+    "codename": "dien_binh"
+  },
+  {
+    "code": "23443",
+    "name": "Pô Kô",
+    "name_en": "Po Ko",
+    "full_name": "Xã Pô Kô",
+    "full_name_en": "Po Ko Commune",
+    "type": "xã",
+    "district_code": "612",
+    "codename": "po_ko"
+  }
+]

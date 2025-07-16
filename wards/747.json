@@ -1,0 +1,172 @@
+[
+  {
+    "code": "26506",
+    "name": "1",
+    "name_en": "1",
+    "full_name": "Phường 1",
+    "full_name_en": "Ward 1",
+    "type": "phường",
+    "district_code": "747",
+    "codename": "1"
+  },
+  {
+    "code": "26508",
+    "name": "Thắng Tam",
+    "name_en": "Thang Tam",
+    "full_name": "Phường Thắng Tam",
+    "full_name_en": "Thang Tam Ward",
+    "type": "phường",
+    "district_code": "747",
+    "codename": "thang_tam"
+  },
+  {
+    "code": "26509",
+    "name": "2",
+    "name_en": "2",
+    "full_name": "Phường 2",
+    "full_name_en": "Ward 2",
+    "type": "phường",
+    "district_code": "747",
+    "codename": "2"
+  },
+  {
+    "code": "26512",
+    "name": "3",
+    "name_en": "3",
+    "full_name": "Phường 3",
+    "full_name_en": "Ward 3",
+    "type": "phường",
+    "district_code": "747",
+    "codename": "3"
+  },
+  {
+    "code": "26515",
+    "name": "4",
+    "name_en": "4",
+    "full_name": "Phường 4",
+    "full_name_en": "Ward 4",
+    "type": "phường",
+    "district_code": "747",
+    "codename": "4"
+  },
+  {
+    "code": "26518",
+    "name": "5",
+    "name_en": "5",
+    "full_name": "Phường 5",
+    "full_name_en": "Ward 5",
+    "type": "phường",
+    "district_code": "747",
+    "codename": "5"
+  },
+  {
+    "code": "26521",
+    "name": "Thắng Nhì",
+    "name_en": "Thang Nhi",
+    "full_name": "Phường Thắng Nhì",
+    "full_name_en": "Thang Nhi Ward",
+    "type": "phường",
+    "district_code": "747",
+    "codename": "thang_nhi"
+  },
+  {
+    "code": "26524",
+    "name": "7",
+    "name_en": "7",
+    "full_name": "Phường 7",
+    "full_name_en": "Ward 7",
+    "type": "phường",
+    "district_code": "747",
+    "codename": "7"
+  },
+  {
+    "code": "26526",
+    "name": "Nguyễn An Ninh",
+    "name_en": "Nguyen An Ninh",
+    "full_name": "Phường Nguyễn An Ninh",
+    "full_name_en": "Nguyen An Ninh Ward",
+    "type": "phường",
+    "district_code": "747",
+    "codename": "nguyen_an_ninh"
+  },
+  {
+    "code": "26527",
+    "name": "8",
+    "name_en": "8",
+    "full_name": "Phường 8",
+    "full_name_en": "Ward 8",
+    "type": "phường",
+    "district_code": "747",
+    "codename": "8"
+  },
+  {
+    "code": "26530",
+    "name": "9",
+    "name_en": "9",
+    "full_name": "Phường 9",
+    "full_name_en": "Ward 9",
+    "type": "phường",
+    "district_code": "747",
+    "codename": "9"
+  },
+  {
+    "code": "26533",
+    "name": "Thắng Nhất",
+    "name_en": "Thang Nhat",
+    "full_name": "Phường Thắng Nhất",
+    "full_name_en": "Thang Nhat Ward",
+    "type": "phường",
+    "district_code": "747",
+    "codename": "thang_nhat"
+  },
+  {
+    "code": "26535",
+    "name": "Rạch Dừa",
+    "name_en": "Rach Dua",
+    "full_name": "Phường Rạch Dừa",
+    "full_name_en": "Rach Dua Ward",
+    "type": "phường",
+    "district_code": "747",
+    "codename": "rach_dua"
+  },
+  {
+    "code": "26536",
+    "name": "10",
+    "name_en": "10",
+    "full_name": "Phường 10",
+    "full_name_en": "Ward 10",
+    "type": "phường",
+    "district_code": "747",
+    "codename": "10"
+  },
+  {
+    "code": "26539",
+    "name": "11",
+    "name_en": "11",
+    "full_name": "Phường 11",
+    "full_name_en": "Ward 11",
+    "type": "phường",
+    "district_code": "747",
+    "codename": "11"
+  },
+  {
+    "code": "26542",
+    "name": "12",
+    "name_en": "12",
+    "full_name": "Phường 12",
+    "full_name_en": "Ward 12",
+    "type": "phường",
+    "district_code": "747",
+    "codename": "12"
+  },
+  {
+    "code": "26545",
+    "name": "Long Sơn",
+    "name_en": "Long Son",
+    "full_name": "Xã Long Sơn",
+    "full_name_en": "Long Son Commune",
+    "type": "xã",
+    "district_code": "747",
+    "codename": "long_son"
+  }
+]

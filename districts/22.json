@@ -1,0 +1,132 @@
+[
+  {
+    "code": "193",
+    "name": "Hạ Long",
+    "name_en": "Ha Long",
+    "full_name": "Thành phố Hạ Long",
+    "full_name_en": "Ha Long City",
+    "type": "thành phố",
+    "province_code": "22",
+    "codename": "ha_long"
+  },
+  {
+    "code": "194",
+    "name": "Móng Cái",
+    "name_en": "Mong Cai",
+    "full_name": "Thành phố Móng Cái",
+    "full_name_en": "Mong Cai City",
+    "type": "thành phố",
+    "province_code": "22",
+    "codename": "mong_cai"
+  },
+  {
+    "code": "195",
+    "name": "Cẩm Phả",
+    "name_en": "Cam Pha",
+    "full_name": "Thành phố Cẩm Phả",
+    "full_name_en": "Cam Pha City",
+    "type": "thành phố",
+    "province_code": "22",
+    "codename": "cam_pha"
+  },
+  {
+    "code": "196",
+    "name": "Uông Bí",
+    "name_en": "Uong Bi",
+    "full_name": "Thành phố Uông Bí",
+    "full_name_en": "Uong Bi City",
+    "type": "thành phố",
+    "province_code": "22",
+    "codename": "uong_bi"
+  },
+  {
+    "code": "198",
+    "name": "Bình Liêu",
+    "name_en": "Binh Lieu",
+    "full_name": "Huyện Bình Liêu",
+    "full_name_en": "Binh Lieu District",
+    "type": "huyện",
+    "province_code": "22",
+    "codename": "binh_lieu"
+  },
+  {
+    "code": "199",
+    "name": "Tiên Yên",
+    "name_en": "Tien Yen",
+    "full_name": "Huyện Tiên Yên",
+    "full_name_en": "Tien Yen District",
+    "type": "huyện",
+    "province_code": "22",
+    "codename": "tien_yen"
+  },
+  {
+    "code": "200",
+    "name": "Đầm Hà",
+    "name_en": "Dam Ha",
+    "full_name": "Huyện Đầm Hà",
+    "full_name_en": "Dam Ha District",
+    "type": "huyện",
+    "province_code": "22",
+    "codename": "dam_ha"
+  },
+  {
+    "code": "201",
+    "name": "Hải Hà",
+    "name_en": "Hai Ha",
+    "full_name": "Huyện Hải Hà",
+    "full_name_en": "Hai Ha District",
+    "type": "huyện",
+    "province_code": "22",
+    "codename": "hai_ha"
+  },
+  {
+    "code": "202",
+    "name": "Ba Chẽ",
+    "name_en": "Ba Che",
+    "full_name": "Huyện Ba Chẽ",
+    "full_name_en": "Ba Che District",
+    "type": "huyện",
+    "province_code": "22",
+    "codename": "ba_che"
+  },
+  {
+    "code": "203",
+    "name": "Vân Đồn",
+    "name_en": "Van Don",
+    "full_name": "Huyện Vân Đồn",
+    "full_name_en": "Van Don District",
+    "type": "huyện",
+    "province_code": "22",
+    "codename": "van_don"
+  },
+  {
+    "code": "205",
+    "name": "Đông Triều",
+    "name_en": "Dong Trieu",
+    "full_name": "Thành phố Đông Triều",
+    "full_name_en": "Dong Trieu City",
+    "type": "thành phố",
+    "province_code": "22",
+    "codename": "dong_trieu"
+  },
+  {
+    "code": "206",
+    "name": "Quảng Yên",
+    "name_en": "Quang Yen",
+    "full_name": "Thị xã Quảng Yên",
+    "full_name_en": "Quang Yen Town",
+    "type": "thị xã",
+    "province_code": "22",
+    "codename": "quang_yen"
+  },
+  {
+    "code": "207",
+    "name": "Cô Tô",
+    "name_en": "Co To",
+    "full_name": "Huyện Cô Tô",
+    "full_name_en": "Co To District",
+    "type": "huyện",
+    "province_code": "22",
+    "codename": "co_to"
+  }
+]

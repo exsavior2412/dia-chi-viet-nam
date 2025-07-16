@@ -1,0 +1,92 @@
+[
+  {
+    "code": "31318",
+    "name": "I",
+    "name_en": "I",
+    "full_name": "Phường I",
+    "full_name_en": "I Ward",
+    "type": "phường",
+    "district_code": "930",
+    "codename": "i"
+  },
+  {
+    "code": "31321",
+    "name": "III",
+    "name_en": "III",
+    "full_name": "Phường III",
+    "full_name_en": "III Ward",
+    "type": "phường",
+    "district_code": "930",
+    "codename": "iii"
+  },
+  {
+    "code": "31324",
+    "name": "IV",
+    "name_en": "IV",
+    "full_name": "Phường IV",
+    "full_name_en": "IV Ward",
+    "type": "phường",
+    "district_code": "930",
+    "codename": "iv"
+  },
+  {
+    "code": "31327",
+    "name": "V",
+    "name_en": "V",
+    "full_name": "Phường V",
+    "full_name_en": "V Ward",
+    "type": "phường",
+    "district_code": "930",
+    "codename": "v"
+  },
+  {
+    "code": "31330",
+    "name": "VII",
+    "name_en": "VII",
+    "full_name": "Phường VII",
+    "full_name_en": "VII Ward",
+    "type": "phường",
+    "district_code": "930",
+    "codename": "vii"
+  },
+  {
+    "code": "31333",
+    "name": "Vị Tân",
+    "name_en": "Vi Tan",
+    "full_name": "Xã Vị Tân",
+    "full_name_en": "Vi Tan Commune",
+    "type": "xã",
+    "district_code": "930",
+    "codename": "vi_tan"
+  },
+  {
+    "code": "31336",
+    "name": "Hoả Lựu",
+    "name_en": "Hoa Luu",
+    "full_name": "Xã Hoả Lựu",
+    "full_name_en": "Hoa Luu Commune",
+    "type": "xã",
+    "district_code": "930",
+    "codename": "hoa_luu"
+  },
+  {
+    "code": "31338",
+    "name": "Tân Tiến",
+    "name_en": "Tan Tien",
+    "full_name": "Xã Tân Tiến",
+    "full_name_en": "Tan Tien Commune",
+    "type": "xã",
+    "district_code": "930",
+    "codename": "tan_tien"
+  },
+  {
+    "code": "31339",
+    "name": "Hoả Tiến",
+    "name_en": "Hoa Tien",
+    "full_name": "Xã Hoả Tiến",
+    "full_name_en": "Hoa Tien Commune",
+    "type": "xã",
+    "district_code": "930",
+    "codename": "hoa_tien"
+  }
+]

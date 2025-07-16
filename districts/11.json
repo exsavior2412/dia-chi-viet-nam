@@ -1,0 +1,102 @@
+[
+  {
+    "code": "094",
+    "name": "Điện Biên Phủ",
+    "name_en": "Dien Bien Phu",
+    "full_name": "Thành phố Điện Biên Phủ",
+    "full_name_en": "Dien Bien Phu City",
+    "type": "thành phố",
+    "province_code": "11",
+    "codename": "dien_bien_phu"
+  },
+  {
+    "code": "095",
+    "name": "Mường Lay",
+    "name_en": "Muong Lay",
+    "full_name": "Thị xã Mường Lay",
+    "full_name_en": "Muong Lay Town",
+    "type": "thị xã",
+    "province_code": "11",
+    "codename": "muong_lay"
+  },
+  {
+    "code": "096",
+    "name": "Mường Nhé",
+    "name_en": "Muong Nhe",
+    "full_name": "Huyện Mường Nhé",
+    "full_name_en": "Muong Nhe District",
+    "type": "huyện",
+    "province_code": "11",
+    "codename": "muong_nhe"
+  },
+  {
+    "code": "097",
+    "name": "Mường Chà",
+    "name_en": "Muong Cha",
+    "full_name": "Huyện Mường Chà",
+    "full_name_en": "Muong Cha District",
+    "type": "huyện",
+    "province_code": "11",
+    "codename": "muong_cha"
+  },
+  {
+    "code": "098",
+    "name": "Tủa Chùa",
+    "name_en": "Tua Chua",
+    "full_name": "Huyện Tủa Chùa",
+    "full_name_en": "Tua Chua District",
+    "type": "huyện",
+    "province_code": "11",
+    "codename": "tua_chua"
+  },
+  {
+    "code": "099",
+    "name": "Tuần Giáo",
+    "name_en": "Tuan Giao",
+    "full_name": "Huyện Tuần Giáo",
+    "full_name_en": "Tuan Giao District",
+    "type": "huyện",
+    "province_code": "11",
+    "codename": "tuan_giao"
+  },
+  {
+    "code": "100",
+    "name": "Điện Biên",
+    "name_en": "Dien Bien",
+    "full_name": "Huyện Điện Biên",
+    "full_name_en": "Dien Bien District",
+    "type": "huyện",
+    "province_code": "11",
+    "codename": "dien_bien"
+  },
+  {
+    "code": "101",
+    "name": "Điện Biên Đông",
+    "name_en": "Dien Bien Dong",
+    "full_name": "Huyện Điện Biên Đông",
+    "full_name_en": "Dien Bien Dong District",
+    "type": "huyện",
+    "province_code": "11",
+    "codename": "dien_bien_dong"
+  },
+  {
+    "code": "102",
+    "name": "Mường Ảng",
+    "name_en": "Muong Ang",
+    "full_name": "Huyện Mường Ảng",
+    "full_name_en": "Muong Ang District",
+    "type": "huyện",
+    "province_code": "11",
+    "codename": "muong_ang"
+  },
+  {
+    "code": "103",
+    "name": "Nậm Pồ",
+    "name_en": "Nam Po",
+    "full_name": "Huyện Nậm Pồ",
+    "full_name_en": "Nam Po District",
+    "type": "huyện",
+    "province_code": "11",
+    "codename": "nam_po"
+  }
+]

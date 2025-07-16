@@ -1,0 +1,122 @@
+[
+  {
+    "code": "30280",
+    "name": "Mỹ Bình",
+    "name_en": "My Binh",
+    "full_name": "Phường Mỹ Bình",
+    "full_name_en": "My Binh Ward",
+    "type": "phường",
+    "district_code": "883",
+    "codename": "my_binh"
+  },
+  {
+    "code": "30283",
+    "name": "Mỹ Long",
+    "name_en": "My Long",
+    "full_name": "Phường Mỹ Long",
+    "full_name_en": "My Long Ward",
+    "type": "phường",
+    "district_code": "883",
+    "codename": "my_long"
+  },
+  {
+    "code": "30286",
+    "name": "Mỹ Xuyên",
+    "name_en": "My Xuyen",
+    "full_name": "Phường Mỹ Xuyên",
+    "full_name_en": "My Xuyen Ward",
+    "type": "phường",
+    "district_code": "883",
+    "codename": "my_xuyen"
+  },
+  {
+    "code": "30289",
+    "name": "Bình Đức",
+    "name_en": "Binh Duc",
+    "full_name": "Phường Bình Đức",
+    "full_name_en": "Binh Duc Ward",
+    "type": "phường",
+    "district_code": "883",
+    "codename": "binh_duc"
+  },
+  {
+    "code": "30292",
+    "name": "Bình Khánh",
+    "name_en": "Binh Khanh",
+    "full_name": "Phường Bình Khánh",
+    "full_name_en": "Binh Khanh Ward",
+    "type": "phường",
+    "district_code": "883",
+    "codename": "binh_khanh"
+  },
+  {
+    "code": "30295",
+    "name": "Mỹ Phước",
+    "name_en": "My Phuoc",
+    "full_name": "Phường Mỹ Phước",
+    "full_name_en": "My Phuoc Ward",
+    "type": "phường",
+    "district_code": "883",
+    "codename": "my_phuoc"
+  },
+  {
+    "code": "30298",
+    "name": "Mỹ Quý",
+    "name_en": "My Quy",
+    "full_name": "Phường Mỹ Quý",
+    "full_name_en": "My Quy Ward",
+    "type": "phường",
+    "district_code": "883",
+    "codename": "my_quy"
+  },
+  {
+    "code": "30301",
+    "name": "Mỹ Thới",
+    "name_en": "My Thoi",
+    "full_name": "Phường Mỹ Thới",
+    "full_name_en": "My Thoi Ward",
+    "type": "phường",
+    "district_code": "883",
+    "codename": "my_thoi"
+  },
+  {
+    "code": "30304",
+    "name": "Mỹ Thạnh",
+    "name_en": "My Thanh",
+    "full_name": "Phường Mỹ Thạnh",
+    "full_name_en": "My Thanh Ward",
+    "type": "phường",
+    "district_code": "883",
+    "codename": "my_thanh"
+  },
+  {
+    "code": "30307",
+    "name": "Mỹ Hòa",
+    "name_en": "My Hoa",
+    "full_name": "Phường Mỹ Hòa",
+    "full_name_en": "My Hoa Ward",
+    "type": "phường",
+    "district_code": "883",
+    "codename": "my_hoa"
+  },
+  {
+    "code": "30310",
+    "name": "Mỹ Khánh",
+    "name_en": "My Khanh",
+    "full_name": "Xã Mỹ Khánh",
+    "full_name_en": "My Khanh Commune",
+    "type": "xã",
+    "district_code": "883",
+    "codename": "my_khanh"
+  },
+  {
+    "code": "30313",
+    "name": "Mỹ Hoà Hưng",
+    "name_en": "My Hoa Hung",
+    "full_name": "Xã Mỹ Hoà Hưng",
+    "full_name_en": "My Hoa Hung Commune",
+    "type": "xã",
+    "district_code": "883",
+    "codename": "my_hoa_hung"
+  }
+]

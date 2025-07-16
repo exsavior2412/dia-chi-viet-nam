@@ -1,0 +1,322 @@
+[
+  {
+    "code": "06649",
+    "name": "Hà Khánh",
+    "name_en": "Ha Khanh",
+    "full_name": "Phường Hà Khánh",
+    "full_name_en": "Ha Khanh Ward",
+    "type": "phường",
+    "district_code": "193",
+    "codename": "ha_khanh"
+  },
+  {
+    "code": "06652",
+    "name": "Hà Phong",
+    "name_en": "Ha Phong",
+    "full_name": "Phường Hà Phong",
+    "full_name_en": "Ha Phong Ward",
+    "type": "phường",
+    "district_code": "193",
+    "codename": "ha_phong"
+  },
+  {
+    "code": "06655",
+    "name": "Hà Khẩu",
+    "name_en": "Ha Khau",
+    "full_name": "Phường Hà Khẩu",
+    "full_name_en": "Ha Khau Ward",
+    "type": "phường",
+    "district_code": "193",
+    "codename": "ha_khau"
+  },
+  {
+    "code": "06658",
+    "name": "Cao Xanh",
+    "name_en": "Cao Xanh",
+    "full_name": "Phường Cao Xanh",
+    "full_name_en": "Cao Xanh Ward",
+    "type": "phường",
+    "district_code": "193",
+    "codename": "cao_xanh"
+  },
+  {
+    "code": "06661",
+    "name": "Giếng Đáy",
+    "name_en": "Gieng Day",
+    "full_name": "Phường Giếng Đáy",
+    "full_name_en": "Gieng Day Ward",
+    "type": "phường",
+    "district_code": "193",
+    "codename": "gieng_day"
+  },
+  {
+    "code": "06664",
+    "name": "Hà Tu",
+    "name_en": "Ha Tu",
+    "full_name": "Phường Hà Tu",
+    "full_name_en": "Ha Tu Ward",
+    "type": "phường",
+    "district_code": "193",
+    "codename": "ha_tu"
+  },
+  {
+    "code": "06667",
+    "name": "Hà Trung",
+    "name_en": "Ha Trung",
+    "full_name": "Phường Hà Trung",
+    "full_name_en": "Ha Trung Ward",
+    "type": "phường",
+    "district_code": "193",
+    "codename": "ha_trung"
+  },
+  {
+    "code": "06670",
+    "name": "Hà Lầm",
+    "name_en": "Ha Lam",
+    "full_name": "Phường Hà Lầm",
+    "full_name_en": "Ha Lam Ward",
+    "type": "phường",
+    "district_code": "193",
+    "codename": "ha_lam"
+  },
+  {
+    "code": "06673",
+    "name": "Bãi Cháy",
+    "name_en": "Bai Chay",
+    "full_name": "Phường Bãi Cháy",
+    "full_name_en": "Bai Chay Ward",
+    "type": "phường",
+    "district_code": "193",
+    "codename": "bai_chay"
+  },
+  {
+    "code": "06676",
+    "name": "Cao Thắng",
+    "name_en": "Cao Thang",
+    "full_name": "Phường Cao Thắng",
+    "full_name_en": "Cao Thang Ward",
+    "type": "phường",
+    "district_code": "193",
+    "codename": "cao_thang"
+  },
+  {
+    "code": "06679",
+    "name": "Hùng Thắng",
+    "name_en": "Hung Thang",
+    "full_name": "Phường Hùng Thắng",
+    "full_name_en": "Hung Thang Ward",
+    "type": "phường",
+    "district_code": "193",
+    "codename": "hung_thang"
+  },
+  {
+    "code": "06685",
+    "name": "Trần Hưng Đạo",
+    "name_en": "Tran Hung Dao",
+    "full_name": "Phường Trần Hưng Đạo",
+    "full_name_en": "Tran Hung Dao Ward",
+    "type": "phường",
+    "district_code": "193",
+    "codename": "tran_hung_dao"
+  },
+  {
+    "code": "06688",
+    "name": "Hồng Hải",
+    "name_en": "Hong Hai",
+    "full_name": "Phường Hồng Hải",
+    "full_name_en": "Hong Hai Ward",
+    "type": "phường",
+    "district_code": "193",
+    "codename": "hong_hai"
+  },
+  {
+    "code": "06691",
+    "name": "Hồng Gai",
+    "name_en": "Hong Gai",
+    "full_name": "Phường Hồng Gai",
+    "full_name_en": "Hong Gai Ward",
+    "type": "phường",
+    "district_code": "193",
+    "codename": "hong_gai"
+  },
+  {
+    "code": "06694",
+    "name": "Bạch Đằng",
+    "name_en": "Bach Dang",
+    "full_name": "Phường Bạch Đằng",
+    "full_name_en": "Bach Dang Ward",
+    "type": "phường",
+    "district_code": "193",
+    "codename": "bach_dang"
+  },
+  {
+    "code": "06697",
+    "name": "Hồng Hà",
+    "name_en": "Hong Ha",
+    "full_name": "Phường Hồng Hà",
+    "full_name_en": "Hong Ha Ward",
+    "type": "phường",
+    "district_code": "193",
+    "codename": "hong_ha"
+  },
+  {
+    "code": "06700",
+    "name": "Tuần Châu",
+    "name_en": "Tuan Chau",
+    "full_name": "Phường Tuần Châu",
+    "full_name_en": "Tuan Chau Ward",
+    "type": "phường",
+    "district_code": "193",
+    "codename": "tuan_chau"
+  },
+  {
+    "code": "06703",
+    "name": "Việt Hưng",
+    "name_en": "Viet Hung",
+    "full_name": "Phường Việt Hưng",
+    "full_name_en": "Viet Hung Ward",
+    "type": "phường",
+    "district_code": "193",
+    "codename": "viet_hung"
+  },
+  {
+    "code": "06706",
+    "name": "Đại Yên",
+    "name_en": "Dai Yen",
+    "full_name": "Phường Đại Yên",
+    "full_name_en": "Dai Yen Ward",
+    "type": "phường",
+    "district_code": "193",
+    "codename": "dai_yen"
+  },
+  {
+    "code": "07030",
+    "name": "Hoành Bồ",
+    "name_en": "Hoanh Bo",
+    "full_name": "Phường Hoành Bồ",
+    "full_name_en": "Hoanh Bo Ward",
+    "type": "phường",
+    "district_code": "193",
+    "codename": "hoanh_bo"
+  },
+  {
+    "code": "07033",
+    "name": "Kỳ Thượng",
+    "name_en": "Ky Thuong",
+    "full_name": "Xã Kỳ Thượng",
+    "full_name_en": "Ky Thuong Commune",
+    "type": "xã",
+    "district_code": "193",
+    "codename": "ky_thuong"
+  },
+  {
+    "code": "07036",
+    "name": "Đồng Sơn",
+    "name_en": "Dong Son",
+    "full_name": "Xã Đồng Sơn",
+    "full_name_en": "Dong Son Commune",
+    "type": "xã",
+    "district_code": "193",
+    "codename": "dong_son"
+  },
+  {
+    "code": "07039",
+    "name": "Tân Dân",
+    "name_en": "Tan Dan",
+    "full_name": "Xã Tân Dân",
+    "full_name_en": "Tan Dan Commune",
+    "type": "xã",
+    "district_code": "193",
+    "codename": "tan_dan"
+  },
+  {
+    "code": "07042",
+    "name": "Đồng Lâm",
+    "name_en": "Dong Lam",
+    "full_name": "Xã Đồng Lâm",
+    "full_name_en": "Dong Lam Commune",
+    "type": "xã",
+    "district_code": "193",
+    "codename": "dong_lam"
+  },
+  {
+    "code": "07045",
+    "name": "Hòa Bình",
+    "name_en": "Hoa Binh",
+    "full_name": "Xã Hòa Bình",
+    "full_name_en": "Hoa Binh Commune",
+    "type": "xã",
+    "district_code": "193",
+    "codename": "hoa_binh"
+  },
+  {
+    "code": "07048",
+    "name": "Vũ Oai",
+    "name_en": "Vu Oai",
+    "full_name": "Xã Vũ Oai",
+    "full_name_en": "Vu Oai Commune",
+    "type": "xã",
+    "district_code": "193",
+    "codename": "vu_oai"
+  },
+  {
+    "code": "07051",
+    "name": "Dân Chủ",
+    "name_en": "Dan Chu",
+    "full_name": "Xã Dân Chủ",
+    "full_name_en": "Dan Chu Commune",
+    "type": "xã",
+    "district_code": "193",
+    "codename": "dan_chu"
+  },
+  {
+    "code": "07054",
+    "name": "Quảng La",
+    "name_en": "Quang La",
+    "full_name": "Xã Quảng La",
+    "full_name_en": "Quang La Commune",
+    "type": "xã",
+    "district_code": "193",
+    "codename": "quang_la"
+  },
+  {
+    "code": "07057",
+    "name": "Bằng Cả",
+    "name_en": "Bang Ca",
+    "full_name": "Xã Bằng Cả",
+    "full_name_en": "Bang Ca Commune",
+    "type": "xã",
+    "district_code": "193",
+    "codename": "bang_ca"
+  },
+  {
+    "code": "07060",
+    "name": "Thống Nhất",
+    "name_en": "Thong Nhat",
+    "full_name": "Xã Thống Nhất",
+    "full_name_en": "Thong Nhat Commune",
+    "type": "xã",
+    "district_code": "193",
+    "codename": "thong_nhat"
+  },
+  {
+    "code": "07063",
+    "name": "Sơn Dương",
+    "name_en": "Son Duong",
+    "full_name": "Xã Sơn Dương",
+    "full_name_en": "Son Duong Commune",
+    "type": "xã",
+    "district_code": "193",
+    "codename": "son_duong"
+  },
+  {
+    "code": "07066",
+    "name": "Lê Lợi",
+    "name_en": "Le Loi",
+    "full_name": "Xã Lê Lợi",
+    "full_name_en": "Le Loi Commune",
+    "type": "xã",
+    "district_code": "193",
+    "codename": "le_loi"
+  }
+]

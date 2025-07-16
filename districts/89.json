@@ -1,0 +1,112 @@
+[
+  {
+    "code": "883",
+    "name": "Long Xuyên",
+    "name_en": "Long Xuyen",
+    "full_name": "Thành phố Long Xuyên",
+    "full_name_en": "Long Xuyen City",
+    "type": "thành phố",
+    "province_code": "89",
+    "codename": "long_xuyen"
+  },
+  {
+    "code": "884",
+    "name": "Châu Đốc",
+    "name_en": "Chau Doc",
+    "full_name": "Thành phố Châu Đốc",
+    "full_name_en": "Chau Doc City",
+    "type": "thành phố",
+    "province_code": "89",
+    "codename": "chau_doc"
+  },
+  {
+    "code": "886",
+    "name": "An Phú",
+    "name_en": "An Phu",
+    "full_name": "Huyện An Phú",
+    "full_name_en": "An Phu District",
+    "type": "huyện",
+    "province_code": "89",
+    "codename": "an_phu"
+  },
+  {
+    "code": "887",
+    "name": "Tân Châu",
+    "name_en": "Tan Chau",
+    "full_name": "Thị xã Tân Châu",
+    "full_name_en": "Tan Chau Town",
+    "type": "thị xã",
+    "province_code": "89",
+    "codename": "tan_chau"
+  },
+  {
+    "code": "888",
+    "name": "Phú Tân",
+    "name_en": "Phu Tan",
+    "full_name": "Huyện Phú Tân",
+    "full_name_en": "Phu Tan District",
+    "type": "huyện",
+    "province_code": "89",
+    "codename": "phu_tan"
+  },
+  {
+    "code": "889",
+    "name": "Châu Phú",
+    "name_en": "Chau Phu",
+    "full_name": "Huyện Châu Phú",
+    "full_name_en": "Chau Phu District",
+    "type": "huyện",
+    "province_code": "89",
+    "codename": "chau_phu"
+  },
+  {
+    "code": "890",
+    "name": "Tịnh Biên",
+    "name_en": "Tinh Bien",
+    "full_name": "Thị xã Tịnh Biên",
+    "full_name_en": "Tinh Bien Town",
+    "type": "thị xã",
+    "province_code": "89",
+    "codename": "tinh_bien"
+  },
+  {
+    "code": "891",
+    "name": "Tri Tôn",
+    "name_en": "Tri Ton",
+    "full_name": "Huyện Tri Tôn",
+    "full_name_en": "Tri Ton District",
+    "type": "huyện",
+    "province_code": "89",
+    "codename": "tri_ton"
+  },
+  {
+    "code": "892",
+    "name": "Châu Thành",
+    "name_en": "Chau Thanh",
+    "full_name": "Huyện Châu Thành",
+    "full_name_en": "Chau Thanh District",
+    "type": "huyện",
+    "province_code": "89",
+    "codename": "chau_thanh"
+  },
+  {
+    "code": "893",
+    "name": "Chợ Mới",
+    "name_en": "Cho Moi",
+    "full_name": "Huyện Chợ Mới",
+    "full_name_en": "Cho Moi District",
+    "type": "huyện",
+    "province_code": "89",
+    "codename": "cho_moi"
+  },
+  {
+    "code": "894",
+    "name": "Thoại Sơn",
+    "name_en": "Thoai Son",
+    "full_name": "Huyện Thoại Sơn",
+    "full_name_en": "Thoai Son District",
+    "type": "huyện",
+    "province_code": "89",
+    "codename": "thoai_son"
+  }
+]

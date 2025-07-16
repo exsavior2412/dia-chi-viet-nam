@@ -1,0 +1,92 @@
+[
+  {
+    "code": "31843",
+    "name": "Ngan Dừa",
+    "name_en": "Ngan Dua",
+    "full_name": "Thị trấn Ngan Dừa",
+    "full_name_en": "Ngan Dua Township",
+    "type": "thị trấn",
+    "district_code": "956",
+    "codename": "ngan_dua"
+  },
+  {
+    "code": "31846",
+    "name": "Ninh Quới",
+    "name_en": "Ninh Quoi",
+    "full_name": "Xã Ninh Quới",
+    "full_name_en": "Ninh Quoi Commune",
+    "type": "xã",
+    "district_code": "956",
+    "codename": "ninh_quoi"
+  },
+  {
+    "code": "31849",
+    "name": "Ninh Quới A",
+    "name_en": "Ninh Quoi A",
+    "full_name": "Xã Ninh Quới A",
+    "full_name_en": "Ninh Quoi A Commune",
+    "type": "xã",
+    "district_code": "956",
+    "codename": "ninh_quoi_a"
+  },
+  {
+    "code": "31852",
+    "name": "Ninh Hòa",
+    "name_en": "Ninh Hoa",
+    "full_name": "Xã Ninh Hòa",
+    "full_name_en": "Ninh Hoa Commune",
+    "type": "xã",
+    "district_code": "956",
+    "codename": "ninh_hoa"
+  },
+  {
+    "code": "31855",
+    "name": "Lộc Ninh",
+    "name_en": "Loc Ninh",
+    "full_name": "Xã Lộc Ninh",
+    "full_name_en": "Loc Ninh Commune",
+    "type": "xã",
+    "district_code": "956",
+    "codename": "loc_ninh"
+  },
+  {
+    "code": "31858",
+    "name": "Vĩnh Lộc",
+    "name_en": "Vinh Loc",
+    "full_name": "Xã Vĩnh Lộc",
+    "full_name_en": "Vinh Loc Commune",
+    "type": "xã",
+    "district_code": "956",
+    "codename": "vinh_loc"
+  },
+  {
+    "code": "31861",
+    "name": "Vĩnh Lộc A",
+    "name_en": "Vinh Loc A",
+    "full_name": "Xã Vĩnh Lộc A",
+    "full_name_en": "Vinh Loc A Commune",
+    "type": "xã",
+    "district_code": "956",
+    "codename": "vinh_loc_a"
+  },
+  {
+    "code": "31863",
+    "name": "Ninh Thạnh Lợi A",
+    "name_en": "Ninh Thanh Loi A",
+    "full_name": "Xã Ninh Thạnh Lợi A",
+    "full_name_en": "Ninh Thanh Loi A Commune",
+    "type": "xã",
+    "district_code": "956",
+    "codename": "ninh_thanh_loi_a"
+  },
+  {
+    "code": "31864",
+    "name": "Ninh Thạnh Lợi",
+    "name_en": "Ninh Thanh Loi",
+    "full_name": "Xã Ninh Thạnh Lợi",
+    "full_name_en": "Ninh Thanh Loi Commune",
+    "type": "xã",
+    "district_code": "956",
+    "codename": "ninh_thanh_loi"
+  }
+]

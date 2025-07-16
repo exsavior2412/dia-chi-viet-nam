@@ -1,0 +1,232 @@
+[
+  {
+    "code": "17827",
+    "name": "Quán Hành",
+    "name_en": "Quan Hanh",
+    "full_name": "Thị trấn Quán Hành",
+    "full_name_en": "Quan Hanh Township",
+    "type": "thị trấn",
+    "district_code": "429",
+    "codename": "quan_hanh"
+  },
+  {
+    "code": "17830",
+    "name": "Nghi Văn",
+    "name_en": "Nghi Van",
+    "full_name": "Xã Nghi Văn",
+    "full_name_en": "Nghi Van Commune",
+    "type": "xã",
+    "district_code": "429",
+    "codename": "nghi_van"
+  },
+  {
+    "code": "17833",
+    "name": "Nghi Yên",
+    "name_en": "Nghi Yen",
+    "full_name": "Xã Nghi Yên",
+    "full_name_en": "Nghi Yen Commune",
+    "type": "xã",
+    "district_code": "429",
+    "codename": "nghi_yen"
+  },
+  {
+    "code": "17836",
+    "name": "Nghi Tiến",
+    "name_en": "Nghi Tien",
+    "full_name": "Xã Nghi Tiến",
+    "full_name_en": "Nghi Tien Commune",
+    "type": "xã",
+    "district_code": "429",
+    "codename": "nghi_tien"
+  },
+  {
+    "code": "17839",
+    "name": "Nghi Hưng",
+    "name_en": "Nghi Hung",
+    "full_name": "Xã Nghi Hưng",
+    "full_name_en": "Nghi Hung Commune",
+    "type": "xã",
+    "district_code": "429",
+    "codename": "nghi_hung"
+  },
+  {
+    "code": "17842",
+    "name": "Nghi Đồng",
+    "name_en": "Nghi Dong",
+    "full_name": "Xã Nghi Đồng",
+    "full_name_en": "Nghi Dong Commune",
+    "type": "xã",
+    "district_code": "429",
+    "codename": "nghi_dong"
+  },
+  {
+    "code": "17845",
+    "name": "Nghi Thiết",
+    "name_en": "Nghi Thiet",
+    "full_name": "Xã Nghi Thiết",
+    "full_name_en": "Nghi Thiet Commune",
+    "type": "xã",
+    "district_code": "429",
+    "codename": "nghi_thiet"
+  },
+  {
+    "code": "17848",
+    "name": "Nghi Lâm",
+    "name_en": "Nghi Lam",
+    "full_name": "Xã Nghi Lâm",
+    "full_name_en": "Nghi Lam Commune",
+    "type": "xã",
+    "district_code": "429",
+    "codename": "nghi_lam"
+  },
+  {
+    "code": "17851",
+    "name": "Nghi Quang",
+    "name_en": "Nghi Quang",
+    "full_name": "Xã Nghi Quang",
+    "full_name_en": "Nghi Quang Commune",
+    "type": "xã",
+    "district_code": "429",
+    "codename": "nghi_quang"
+  },
+  {
+    "code": "17854",
+    "name": "Nghi Kiều",
+    "name_en": "Nghi Kieu",
+    "full_name": "Xã Nghi Kiều",
+    "full_name_en": "Nghi Kieu Commune",
+    "type": "xã",
+    "district_code": "429",
+    "codename": "nghi_kieu"
+  },
+  {
+    "code": "17857",
+    "name": "Nghi Mỹ",
+    "name_en": "Nghi My",
+    "full_name": "Xã Nghi Mỹ",
+    "full_name_en": "Nghi My Commune",
+    "type": "xã",
+    "district_code": "429",
+    "codename": "nghi_my"
+  },
+  {
+    "code": "17860",
+    "name": "Nghi Phương",
+    "name_en": "Nghi Phuong",
+    "full_name": "Xã Nghi Phương",
+    "full_name_en": "Nghi Phuong Commune",
+    "type": "xã",
+    "district_code": "429",
+    "codename": "nghi_phuong"
+  },
+  {
+    "code": "17863",
+    "name": "Nghi Thuận",
+    "name_en": "Nghi Thuan",
+    "full_name": "Xã Nghi Thuận",
+    "full_name_en": "Nghi Thuan Commune",
+    "type": "xã",
+    "district_code": "429",
+    "codename": "nghi_thuan"
+  },
+  {
+    "code": "17866",
+    "name": "Nghi Long",
+    "name_en": "Nghi Long",
+    "full_name": "Xã Nghi Long",
+    "full_name_en": "Nghi Long Commune",
+    "type": "xã",
+    "district_code": "429",
+    "codename": "nghi_long"
+  },
+  {
+    "code": "17869",
+    "name": "Nghi Xá",
+    "name_en": "Nghi Xa",
+    "full_name": "Xã Nghi Xá",
+    "full_name_en": "Nghi Xa Commune",
+    "type": "xã",
+    "district_code": "429",
+    "codename": "nghi_xa"
+  },
+  {
+    "code": "17878",
+    "name": "Khánh Hợp",
+    "name_en": "Khanh Hop",
+    "full_name": "Xã Khánh Hợp",
+    "full_name_en": "Khanh Hop Commune",
+    "type": "xã",
+    "district_code": "429",
+    "codename": "khanh_hop"
+  },
+  {
+    "code": "17884",
+    "name": "Nghi Công Bắc",
+    "name_en": "Nghi Cong Bac",
+    "full_name": "Xã Nghi Công Bắc",
+    "full_name_en": "Nghi Cong Bac Commune",
+    "type": "xã",
+    "district_code": "429",
+    "codename": "nghi_cong_bac"
+  },
+  {
+    "code": "17887",
+    "name": "Nghi Công Nam",
+    "name_en": "Nghi Cong Nam",
+    "full_name": "Xã Nghi Công Nam",
+    "full_name_en": "Nghi Cong Nam Commune",
+    "type": "xã",
+    "district_code": "429",
+    "codename": "nghi_cong_nam"
+  },
+  {
+    "code": "17890",
+    "name": "Nghi Thạch",
+    "name_en": "Nghi Thach",
+    "full_name": "Xã Nghi Thạch",
+    "full_name_en": "Nghi Thach Commune",
+    "type": "xã",
+    "district_code": "429",
+    "codename": "nghi_thach"
+  },
+  {
+    "code": "17893",
+    "name": "Nghi Trung",
+    "name_en": "Nghi Trung",
+    "full_name": "Xã Nghi Trung",
+    "full_name_en": "Nghi Trung Commune",
+    "type": "xã",
+    "district_code": "429",
+    "codename": "nghi_trung"
+  },
+  {
+    "code": "17896",
+    "name": "Thịnh Trường",
+    "name_en": "Thinh Truong",
+    "full_name": "Xã Thịnh Trường",
+    "full_name_en": "Thinh Truong Commune",
+    "type": "xã",
+    "district_code": "429",
+    "codename": "thinh_truong"
+  },
+  {
+    "code": "17899",
+    "name": "Diên Hoa",
+    "name_en": "Dien Hoa",
+    "full_name": "Xã Diên Hoa",
+    "full_name_en": "Dien Hoa Commune",
+    "type": "xã",
+    "district_code": "429",
+    "codename": "dien_hoa"
+  },
+  {
+    "code": "17911",
+    "name": "Nghi Vạn",
+    "name_en": "Nghi Van",
+    "full_name": "Xã Nghi Vạn",
+    "full_name_en": "Nghi Van Commune",
+    "type": "xã",
+    "district_code": "429",
+    "codename": "nghi_van"
+  }
+]

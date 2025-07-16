@@ -1,0 +1,172 @@
+[
+  {
+    "code": "622",
+    "name": "Pleiku",
+    "name_en": "Pleiku",
+    "full_name": "Thành phố Pleiku",
+    "full_name_en": "Pleiku City",
+    "type": "thành phố",
+    "province_code": "64",
+    "codename": "pleiku"
+  },
+  {
+    "code": "623",
+    "name": "An Khê",
+    "name_en": "An Khe",
+    "full_name": "Thị xã An Khê",
+    "full_name_en": "An Khe Town",
+    "type": "thị xã",
+    "province_code": "64",
+    "codename": "an_khe"
+  },
+  {
+    "code": "624",
+    "name": "Ayun Pa",
+    "name_en": "Ayun Pa",
+    "full_name": "Thị xã Ayun Pa",
+    "full_name_en": "Ayun Pa Town",
+    "type": "thị xã",
+    "province_code": "64",
+    "codename": "ayun_pa"
+  },
+  {
+    "code": "625",
+    "name": "KBang",
+    "name_en": "KBang",
+    "full_name": "Huyện KBang",
+    "full_name_en": "KBang District",
+    "type": "huyện",
+    "province_code": "64",
+    "codename": "kbang"
+  },
+  {
+    "code": "626",
+    "name": "Đăk Đoa",
+    "name_en": "Dak Doa",
+    "full_name": "Huyện Đăk Đoa",
+    "full_name_en": "Dak Doa District",
+    "type": "huyện",
+    "province_code": "64",
+    "codename": "dak_doa"
+  },
+  {
+    "code": "627",
+    "name": "Chư Păh",
+    "name_en": "Chu Pah",
+    "full_name": "Huyện Chư Păh",
+    "full_name_en": "Chu Pah District",
+    "type": "huyện",
+    "province_code": "64",
+    "codename": "chu_pah"
+  },
+  {
+    "code": "628",
+    "name": "Ia Grai",
+    "name_en": "Ia Grai",
+    "full_name": "Huyện Ia Grai",
+    "full_name_en": "Ia Grai District",
+    "type": "huyện",
+    "province_code": "64",
+    "codename": "ia_grai"
+  },
+  {
+    "code": "629",
+    "name": "Mang Yang",
+    "name_en": "Mang Yang",
+    "full_name": "Huyện Mang Yang",
+    "full_name_en": "Mang Yang District",
+    "type": "huyện",
+    "province_code": "64",
+    "codename": "mang_yang"
+  },
+  {
+    "code": "630",
+    "name": "Kông Chro",
+    "name_en": "Kong Chro",
+    "full_name": "Huyện Kông Chro",
+    "full_name_en": "Kong Chro District",
+    "type": "huyện",
+    "province_code": "64",
+    "codename": "kong_chro"
+  },
+  {
+    "code": "631",
+    "name": "Đức Cơ",
+    "name_en": "Duc Co",
+    "full_name": "Huyện Đức Cơ",
+    "full_name_en": "Duc Co District",
+    "type": "huyện",
+    "province_code": "64",
+    "codename": "duc_co"
+  },
+  {
+    "code": "632",
+    "name": "Chư Prông",
+    "name_en": "Chu Prong",
+    "full_name": "Huyện Chư Prông",
+    "full_name_en": "Chu Prong District",
+    "type": "huyện",
+    "province_code": "64",
+    "codename": "chu_prong"
+  },
+  {
+    "code": "633",
+    "name": "Chư Sê",
+    "name_en": "Chu Se",
+    "full_name": "Huyện Chư Sê",
+    "full_name_en": "Chu Se District",
+    "type": "huyện",
+    "province_code": "64",
+    "codename": "chu_se"
+  },
+  {
+    "code": "634",
+    "name": "Đăk Pơ",
+    "name_en": "Dak Po",
+    "full_name": "Huyện Đăk Pơ",
+    "full_name_en": "Dak Po District",
+    "type": "huyện",
+    "province_code": "64",
+    "codename": "dak_po"
+  },
+  {
+    "code": "635",
+    "name": "Ia Pa",
+    "name_en": "Ia Pa",
+    "full_name": "Huyện Ia Pa",
+    "full_name_en": "Ia Pa District",
+    "type": "huyện",
+    "province_code": "64",
+    "codename": "ia_pa"
+  },
+  {
+    "code": "637",
+    "name": "Krông Pa",
+    "name_en": "Krong Pa",
+    "full_name": "Huyện Krông Pa",
+    "full_name_en": "Krong Pa District",
+    "type": "huyện",
+    "province_code": "64",
+    "codename": "krong_pa"
+  },
+  {
+    "code": "638",
+    "name": "Phú Thiện",
+    "name_en": "Phu Thien",
+    "full_name": "Huyện Phú Thiện",
+    "full_name_en": "Phu Thien District",
+    "type": "huyện",
+    "province_code": "64",
+    "codename": "phu_thien"
+  },
+  {
+    "code": "639",
+    "name": "Chư Pưh",
+    "name_en": "Chu Puh",
+    "full_name": "Huyện Chư Pưh",
+    "full_name_en": "Chu Puh District",
+    "type": "huyện",
+    "province_code": "64",
+    "codename": "chu_puh"
+  }
+]

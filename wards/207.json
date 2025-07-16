@@ -1,0 +1,32 @@
+[
+  {
+    "code": "07192",
+    "name": "Cô Tô",
+    "name_en": "Co To",
+    "full_name": "Thị trấn Cô Tô",
+    "full_name_en": "Co To Township",
+    "type": "thị trấn",
+    "district_code": "207",
+    "codename": "co_to"
+  },
+  {
+    "code": "07195",
+    "name": "Đồng Tiến",
+    "name_en": "Dong Tien",
+    "full_name": "Xã Đồng Tiến",
+    "full_name_en": "Dong Tien Commune",
+    "type": "xã",
+    "district_code": "207",
+    "codename": "dong_tien"
+  },
+  {
+    "code": "07198",
+    "name": "Thanh Lân",
+    "name_en": "Thanh Lan",
+    "full_name": "Xã Thanh Lân",
+    "full_name_en": "Thanh Lan Commune",
+    "type": "xã",
+    "district_code": "207",
+    "codename": "thanh_lan"
+  }
+]

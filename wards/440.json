@@ -1,0 +1,162 @@
+[
+  {
+    "code": "18229",
+    "name": "Đức Thọ",
+    "name_en": "Duc Tho",
+    "full_name": "Thị trấn Đức Thọ",
+    "full_name_en": "Duc Tho Township",
+    "type": "thị trấn",
+    "district_code": "440",
+    "codename": "duc_tho"
+  },
+  {
+    "code": "18235",
+    "name": "Quang Vĩnh",
+    "name_en": "Quang Vinh",
+    "full_name": "Xã Quang Vĩnh",
+    "full_name_en": "Quang Vinh Commune",
+    "type": "xã",
+    "district_code": "440",
+    "codename": "quang_vinh"
+  },
+  {
+    "code": "18241",
+    "name": "Tùng Châu",
+    "name_en": "Tung Chau",
+    "full_name": "Xã Tùng Châu",
+    "full_name_en": "Tung Chau Commune",
+    "type": "xã",
+    "district_code": "440",
+    "codename": "tung_chau"
+  },
+  {
+    "code": "18244",
+    "name": "Trường Sơn",
+    "name_en": "Truong Son",
+    "full_name": "Xã Trường Sơn",
+    "full_name_en": "Truong Son Commune",
+    "type": "xã",
+    "district_code": "440",
+    "codename": "truong_son"
+  },
+  {
+    "code": "18247",
+    "name": "Liên Minh",
+    "name_en": "Lien Minh",
+    "full_name": "Xã Liên Minh",
+    "full_name_en": "Lien Minh Commune",
+    "type": "xã",
+    "district_code": "440",
+    "codename": "lien_minh"
+  },
+  {
+    "code": "18253",
+    "name": "Yên Hồ",
+    "name_en": "Yen Ho",
+    "full_name": "Xã Yên Hồ",
+    "full_name_en": "Yen Ho Commune",
+    "type": "xã",
+    "district_code": "440",
+    "codename": "yen_ho"
+  },
+  {
+    "code": "18259",
+    "name": "Tùng Ảnh",
+    "name_en": "Tung Anh",
+    "full_name": "Xã Tùng Ảnh",
+    "full_name_en": "Tung Anh Commune",
+    "type": "xã",
+    "district_code": "440",
+    "codename": "tung_anh"
+  },
+  {
+    "code": "18262",
+    "name": "Bùi La Nhân",
+    "name_en": "Bui La Nhan",
+    "full_name": "Xã Bùi La Nhân",
+    "full_name_en": "Bui La Nhan Commune",
+    "type": "xã",
+    "district_code": "440",
+    "codename": "bui_la_nhan"
+  },
+  {
+    "code": "18274",
+    "name": "Thanh Bình Thịnh",
+    "name_en": "Thanh Binh Thinh",
+    "full_name": "Xã Thanh Bình Thịnh",
+    "full_name_en": "Thanh Binh Thinh Commune",
+    "type": "xã",
+    "district_code": "440",
+    "codename": "thanh_binh_thinh"
+  },
+  {
+    "code": "18277",
+    "name": "Lâm Trung Thủy",
+    "name_en": "Lam Trung Thuy",
+    "full_name": "Xã Lâm Trung Thủy",
+    "full_name_en": "Lam Trung Thuy Commune",
+    "type": "xã",
+    "district_code": "440",
+    "codename": "lam_trung_thuy"
+  },
+  {
+    "code": "18280",
+    "name": "Hòa Lạc",
+    "name_en": "Hoa Lac",
+    "full_name": "Xã Hòa Lạc",
+    "full_name_en": "Hoa Lac Commune",
+    "type": "xã",
+    "district_code": "440",
+    "codename": "hoa_lac"
+  },
+  {
+    "code": "18283",
+    "name": "Tân Dân",
+    "name_en": "Tan Dan",
+    "full_name": "Xã Tân Dân",
+    "full_name_en": "Tan Dan Commune",
+    "type": "xã",
+    "district_code": "440",
+    "codename": "tan_dan"
+  },
+  {
+    "code": "18298",
+    "name": "An Dũng",
+    "name_en": "An Dung",
+    "full_name": "Xã An Dũng",
+    "full_name_en": "An Dung Commune",
+    "type": "xã",
+    "district_code": "440",
+    "codename": "an_dung"
+  },
+  {
+    "code": "18304",
+    "name": "Đức Đồng",
+    "name_en": "Duc Dong",
+    "full_name": "Xã Đức Đồng",
+    "full_name_en": "Duc Dong Commune",
+    "type": "xã",
+    "district_code": "440",
+    "codename": "duc_dong"
+  },
+  {
+    "code": "18307",
+    "name": "Đức Lạng",
+    "name_en": "Duc Lang",
+    "full_name": "Xã Đức Lạng",
+    "full_name_en": "Duc Lang Commune",
+    "type": "xã",
+    "district_code": "440",
+    "codename": "duc_lang"
+  },
+  {
+    "code": "18310",
+    "name": "Tân Hương",
+    "name_en": "Tan Huong",
+    "full_name": "Xã Tân Hương",
+    "full_name_en": "Tan Huong Commune",
+    "type": "xã",
+    "district_code": "440",
+    "codename": "tan_huong"
+  }
+]

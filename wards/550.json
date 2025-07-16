@@ -1,0 +1,132 @@
+[
+  {
+    "code": "21952",
+    "name": "Tuy Phước",
+    "name_en": "Tuy Phuoc",
+    "full_name": "Thị trấn Tuy Phước",
+    "full_name_en": "Tuy Phuoc Township",
+    "type": "thị trấn",
+    "district_code": "550",
+    "codename": "tuy_phuoc"
+  },
+  {
+    "code": "21955",
+    "name": "Diêu Trì",
+    "name_en": "Dieu Tri",
+    "full_name": "Thị trấn Diêu Trì",
+    "full_name_en": "Dieu Tri Township",
+    "type": "thị trấn",
+    "district_code": "550",
+    "codename": "dieu_tri"
+  },
+  {
+    "code": "21958",
+    "name": "Phước Thắng",
+    "name_en": "Phuoc Thang",
+    "full_name": "Xã Phước Thắng",
+    "full_name_en": "Phuoc Thang Commune",
+    "type": "xã",
+    "district_code": "550",
+    "codename": "phuoc_thang"
+  },
+  {
+    "code": "21961",
+    "name": "Phước Hưng",
+    "name_en": "Phuoc Hung",
+    "full_name": "Xã Phước Hưng",
+    "full_name_en": "Phuoc Hung Commune",
+    "type": "xã",
+    "district_code": "550",
+    "codename": "phuoc_hung"
+  },
+  {
+    "code": "21964",
+    "name": "Phước Quang",
+    "name_en": "Phuoc Quang",
+    "full_name": "Xã Phước Quang",
+    "full_name_en": "Phuoc Quang Commune",
+    "type": "xã",
+    "district_code": "550",
+    "codename": "phuoc_quang"
+  },
+  {
+    "code": "21967",
+    "name": "Phước Hòa",
+    "name_en": "Phuoc Hoa",
+    "full_name": "Xã Phước Hòa",
+    "full_name_en": "Phuoc Hoa Commune",
+    "type": "xã",
+    "district_code": "550",
+    "codename": "phuoc_hoa"
+  },
+  {
+    "code": "21970",
+    "name": "Phước Sơn",
+    "name_en": "Phuoc Son",
+    "full_name": "Xã Phước Sơn",
+    "full_name_en": "Phuoc Son Commune",
+    "type": "xã",
+    "district_code": "550",
+    "codename": "phuoc_son"
+  },
+  {
+    "code": "21973",
+    "name": "Phước Hiệp",
+    "name_en": "Phuoc Hiep",
+    "full_name": "Xã Phước Hiệp",
+    "full_name_en": "Phuoc Hiep Commune",
+    "type": "xã",
+    "district_code": "550",
+    "codename": "phuoc_hiep"
+  },
+  {
+    "code": "21976",
+    "name": "Phước Lộc",
+    "name_en": "Phuoc Loc",
+    "full_name": "Xã Phước Lộc",
+    "full_name_en": "Phuoc Loc Commune",
+    "type": "xã",
+    "district_code": "550",
+    "codename": "phuoc_loc"
+  },
+  {
+    "code": "21979",
+    "name": "Phước Nghĩa",
+    "name_en": "Phuoc Nghia",
+    "full_name": "Xã Phước Nghĩa",
+    "full_name_en": "Phuoc Nghia Commune",
+    "type": "xã",
+    "district_code": "550",
+    "codename": "phuoc_nghia"
+  },
+  {
+    "code": "21982",
+    "name": "Phước Thuận",
+    "name_en": "Phuoc Thuan",
+    "full_name": "Xã Phước Thuận",
+    "full_name_en": "Phuoc Thuan Commune",
+    "type": "xã",
+    "district_code": "550",
+    "codename": "phuoc_thuan"
+  },
+  {
+    "code": "21985",
+    "name": "Phước An",
+    "name_en": "Phuoc An",
+    "full_name": "Xã Phước An",
+    "full_name_en": "Phuoc An Commune",
+    "type": "xã",
+    "district_code": "550",
+    "codename": "phuoc_an"
+  },
+  {
+    "code": "21988",
+    "name": "Phước Thành",
+    "name_en": "Phuoc Thanh",
+    "full_name": "Xã Phước Thành",
+    "full_name_en": "Phuoc Thanh Commune",
+    "type": "xã",
+    "district_code": "550",
+    "codename": "phuoc_thanh"
+  }
+]

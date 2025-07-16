@@ -1,0 +1,152 @@
+[
+  {
+    "code": "26905",
+    "name": "13",
+    "name_en": "13",
+    "full_name": "Phường 13",
+    "full_name_en": "Ward 13",
+    "type": "phường",
+    "district_code": "765",
+    "codename": "13"
+  },
+  {
+    "code": "26908",
+    "name": "11",
+    "name_en": "11",
+    "full_name": "Phường 11",
+    "full_name_en": "Ward 11",
+    "type": "phường",
+    "district_code": "765",
+    "codename": "11"
+  },
+  {
+    "code": "26911",
+    "name": "27",
+    "name_en": "27",
+    "full_name": "Phường 27",
+    "full_name_en": "Ward 27",
+    "type": "phường",
+    "district_code": "765",
+    "codename": "27"
+  },
+  {
+    "code": "26914",
+    "name": "26",
+    "name_en": "26",
+    "full_name": "Phường 26",
+    "full_name_en": "Ward 26",
+    "type": "phường",
+    "district_code": "765",
+    "codename": "26"
+  },
+  {
+    "code": "26917",
+    "name": "12",
+    "name_en": "12",
+    "full_name": "Phường 12",
+    "full_name_en": "Ward 12",
+    "type": "phường",
+    "district_code": "765",
+    "codename": "12"
+  },
+  {
+    "code": "26920",
+    "name": "25",
+    "name_en": "25",
+    "full_name": "Phường 25",
+    "full_name_en": "Ward 25",
+    "type": "phường",
+    "district_code": "765",
+    "codename": "25"
+  },
+  {
+    "code": "26923",
+    "name": "5",
+    "name_en": "5",
+    "full_name": "Phường 5",
+    "full_name_en": "Ward 5",
+    "type": "phường",
+    "district_code": "765",
+    "codename": "5"
+  },
+  {
+    "code": "26926",
+    "name": "7",
+    "name_en": "7",
+    "full_name": "Phường 7",
+    "full_name_en": "Ward 7",
+    "type": "phường",
+    "district_code": "765",
+    "codename": "7"
+  },
+  {
+    "code": "26929",
+    "name": "14",
+    "name_en": "14",
+    "full_name": "Phường 14",
+    "full_name_en": "Ward 14",
+    "type": "phường",
+    "district_code": "765",
+    "codename": "14"
+  },
+  {
+    "code": "26941",
+    "name": "2",
+    "name_en": "2",
+    "full_name": "Phường 2",
+    "full_name_en": "Ward 2",
+    "type": "phường",
+    "district_code": "765",
+    "codename": "2"
+  },
+  {
+    "code": "26944",
+    "name": "1",
+    "name_en": "1",
+    "full_name": "Phường 1",
+    "full_name_en": "Ward 1",
+    "type": "phường",
+    "district_code": "765",
+    "codename": "1"
+  },
+  {
+    "code": "26950",
+    "name": "17",
+    "name_en": "17",
+    "full_name": "Phường 17",
+    "full_name_en": "Ward 17",
+    "type": "phường",
+    "district_code": "765",
+    "codename": "17"
+  },
+  {
+    "code": "26953",
+    "name": "19",
+    "name_en": "19",
+    "full_name": "Phường 19",
+    "full_name_en": "Ward 19",
+    "type": "phường",
+    "district_code": "765",
+    "codename": "19"
+  },
+  {
+    "code": "26956",
+    "name": "22",
+    "name_en": "22",
+    "full_name": "Phường 22",
+    "full_name_en": "Ward 22",
+    "type": "phường",
+    "district_code": "765",
+    "codename": "22"
+  },
+  {
+    "code": "26962",
+    "name": "28",
+    "name_en": "28",
+    "full_name": "Phường 28",
+    "full_name_en": "Ward 28",
+    "type": "phường",
+    "district_code": "765",
+    "codename": "28"
+  }
+]

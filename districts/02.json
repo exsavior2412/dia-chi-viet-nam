@@ -1,0 +1,112 @@
+[
+  {
+    "code": "024",
+    "name": "Hà Giang",
+    "name_en": "Ha Giang",
+    "full_name": "Thành phố Hà Giang",
+    "full_name_en": "Ha Giang City",
+    "type": "thành phố",
+    "province_code": "02",
+    "codename": "ha_giang"
+  },
+  {
+    "code": "026",
+    "name": "Đồng Văn",
+    "name_en": "Dong Van",
+    "full_name": "Huyện Đồng Văn",
+    "full_name_en": "Dong Van District",
+    "type": "huyện",
+    "province_code": "02",
+    "codename": "dong_van"
+  },
+  {
+    "code": "027",
+    "name": "Mèo Vạc",
+    "name_en": "Meo Vac",
+    "full_name": "Huyện Mèo Vạc",
+    "full_name_en": "Meo Vac District",
+    "type": "huyện",
+    "province_code": "02",
+    "codename": "meo_vac"
+  },
+  {
+    "code": "028",
+    "name": "Yên Minh",
+    "name_en": "Yen Minh",
+    "full_name": "Huyện Yên Minh",
+    "full_name_en": "Yen Minh District",
+    "type": "huyện",
+    "province_code": "02",
+    "codename": "yen_minh"
+  },
+  {
+    "code": "029",
+    "name": "Quản Bạ",
+    "name_en": "Quan Ba",
+    "full_name": "Huyện Quản Bạ",
+    "full_name_en": "Quan Ba District",
+    "type": "huyện",
+    "province_code": "02",
+    "codename": "quan_ba"
+  },
+  {
+    "code": "030",
+    "name": "Vị Xuyên",
+    "name_en": "Vi Xuyen",
+    "full_name": "Huyện Vị Xuyên",
+    "full_name_en": "Vi Xuyen District",
+    "type": "huyện",
+    "province_code": "02",
+    "codename": "vi_xuyen"
+  },
+  {
+    "code": "031",
+    "name": "Bắc Mê",
+    "name_en": "Bac Me",
+    "full_name": "Huyện Bắc Mê",
+    "full_name_en": "Bac Me District",
+    "type": "huyện",
+    "province_code": "02",
+    "codename": "bac_me"
+  },
+  {
+    "code": "032",
+    "name": "Hoàng Su Phì",
+    "name_en": "Hoang Su Phi",
+    "full_name": "Huyện Hoàng Su Phì",
+    "full_name_en": "Hoang Su Phi District",
+    "type": "huyện",
+    "province_code": "02",
+    "codename": "hoang_su_phi"
+  },
+  {
+    "code": "033",
+    "name": "Xín Mần",
+    "name_en": "Xin Man",
+    "full_name": "Huyện Xín Mần",
+    "full_name_en": "Xin Man District",
+    "type": "huyện",
+    "province_code": "02",
+    "codename": "xin_man"
+  },
+  {
+    "code": "034",
+    "name": "Bắc Quang",
+    "name_en": "Bac Quang",
+    "full_name": "Huyện Bắc Quang",
+    "full_name_en": "Bac Quang District",
+    "type": "huyện",
+    "province_code": "02",
+    "codename": "bac_quang"
+  },
+  {
+    "code": "035",
+    "name": "Quang Bình",
+    "name_en": "Quang Binh",
+    "full_name": "Huyện Quang Bình",
+    "full_name_en": "Quang Binh District",
+    "type": "huyện",
+    "province_code": "02",
+    "codename": "quang_binh"
+  }
+]

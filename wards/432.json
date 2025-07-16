@@ -1,0 +1,102 @@
+[
+  {
+    "code": "17104",
+    "name": "Quỳnh Vinh",
+    "name_en": "Quynh Vinh",
+    "full_name": "Xã Quỳnh Vinh",
+    "full_name_en": "Quynh Vinh Commune",
+    "type": "xã",
+    "district_code": "432",
+    "codename": "quynh_vinh"
+  },
+  {
+    "code": "17107",
+    "name": "Quỳnh Lộc",
+    "name_en": "Quynh Loc",
+    "full_name": "Xã Quỳnh Lộc",
+    "full_name_en": "Quynh Loc Commune",
+    "type": "xã",
+    "district_code": "432",
+    "codename": "quynh_loc"
+  },
+  {
+    "code": "17110",
+    "name": "Quỳnh Thiện",
+    "name_en": "Quynh Thien",
+    "full_name": "Phường Quỳnh Thiện",
+    "full_name_en": "Quynh Thien Ward",
+    "type": "phường",
+    "district_code": "432",
+    "codename": "quynh_thien"
+  },
+  {
+    "code": "17113",
+    "name": "Quỳnh Lập",
+    "name_en": "Quynh Lap",
+    "full_name": "Xã Quỳnh Lập",
+    "full_name_en": "Quynh Lap Commune",
+    "type": "xã",
+    "district_code": "432",
+    "codename": "quynh_lap"
+  },
+  {
+    "code": "17116",
+    "name": "Quỳnh Trang",
+    "name_en": "Quynh Trang",
+    "full_name": "Xã Quỳnh Trang",
+    "full_name_en": "Quynh Trang Commune",
+    "type": "xã",
+    "district_code": "432",
+    "codename": "quynh_trang"
+  },
+  {
+    "code": "17125",
+    "name": "Mai Hùng",
+    "name_en": "Mai Hung",
+    "full_name": "Phường Mai Hùng",
+    "full_name_en": "Mai Hung Ward",
+    "type": "phường",
+    "district_code": "432",
+    "codename": "mai_hung"
+  },
+  {
+    "code": "17128",
+    "name": "Quỳnh Dị",
+    "name_en": "Quynh Di",
+    "full_name": "Phường Quỳnh Dị",
+    "full_name_en": "Quynh Di Ward",
+    "type": "phường",
+    "district_code": "432",
+    "codename": "quynh_di"
+  },
+  {
+    "code": "17131",
+    "name": "Quỳnh Xuân",
+    "name_en": "Quynh Xuan",
+    "full_name": "Phường Quỳnh Xuân",
+    "full_name_en": "Quynh Xuan Ward",
+    "type": "phường",
+    "district_code": "432",
+    "codename": "quynh_xuan"
+  },
+  {
+    "code": "17134",
+    "name": "Quỳnh Phương",
+    "name_en": "Quynh Phuong",
+    "full_name": "Phường Quỳnh Phương",
+    "full_name_en": "Quynh Phuong Ward",
+    "type": "phường",
+    "district_code": "432",
+    "codename": "quynh_phuong"
+  },
+  {
+    "code": "17137",
+    "name": "Quỳnh Liên",
+    "name_en": "Quynh Lien",
+    "full_name": "Xã Quỳnh Liên",
+    "full_name_en": "Quynh Lien Commune",
+    "type": "xã",
+    "district_code": "432",
+    "codename": "quynh_lien"
+  }
+]

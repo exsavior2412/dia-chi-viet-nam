@@ -1,0 +1,122 @@
+[
+  {
+    "code": "09496",
+    "name": "Thứa",
+    "name_en": "Thua",
+    "full_name": "Thị trấn Thứa",
+    "full_name_en": "Thua Township",
+    "type": "thị trấn",
+    "district_code": "264",
+    "codename": "thua"
+  },
+  {
+    "code": "09499",
+    "name": "An Thịnh",
+    "name_en": "An Thinh",
+    "full_name": "Xã An Thịnh",
+    "full_name_en": "An Thinh Commune",
+    "type": "xã",
+    "district_code": "264",
+    "codename": "an_thinh"
+  },
+  {
+    "code": "09502",
+    "name": "Trung Kênh",
+    "name_en": "Trung Kenh",
+    "full_name": "Xã Trung Kênh",
+    "full_name_en": "Trung Kenh Commune",
+    "type": "xã",
+    "district_code": "264",
+    "codename": "trung_kenh"
+  },
+  {
+    "code": "09505",
+    "name": "Phú Hòa",
+    "name_en": "Phu Hoa",
+    "full_name": "Xã Phú Hòa",
+    "full_name_en": "Phu Hoa Commune",
+    "type": "xã",
+    "district_code": "264",
+    "codename": "phu_hoa"
+  },
+  {
+    "code": "09508",
+    "name": "An Tập",
+    "name_en": "An Tap",
+    "full_name": "Xã An Tập",
+    "full_name_en": "An Tap Commune",
+    "type": "xã",
+    "district_code": "264",
+    "codename": "an_tap"
+  },
+  {
+    "code": "09511",
+    "name": "Tân Lãng",
+    "name_en": "Tan Lang",
+    "full_name": "Xã Tân Lãng",
+    "full_name_en": "Tan Lang Commune",
+    "type": "xã",
+    "district_code": "264",
+    "codename": "tan_lang"
+  },
+  {
+    "code": "09514",
+    "name": "Quảng Phú",
+    "name_en": "Quang Phu",
+    "full_name": "Xã Quảng Phú",
+    "full_name_en": "Quang Phu Commune",
+    "type": "xã",
+    "district_code": "264",
+    "codename": "quang_phu"
+  },
+  {
+    "code": "09517",
+    "name": "Quang Minh",
+    "name_en": "Quang Minh",
+    "full_name": "Xã Quang Minh",
+    "full_name_en": "Quang Minh Commune",
+    "type": "xã",
+    "district_code": "264",
+    "codename": "quang_minh"
+  },
+  {
+    "code": "09523",
+    "name": "Trung Chính",
+    "name_en": "Trung Chinh",
+    "full_name": "Xã Trung Chính",
+    "full_name_en": "Trung Chinh Commune",
+    "type": "xã",
+    "district_code": "264",
+    "codename": "trung_chinh"
+  },
+  {
+    "code": "09529",
+    "name": "Bình Định",
+    "name_en": "Binh Dinh",
+    "full_name": "Xã Bình Định",
+    "full_name_en": "Binh Dinh Commune",
+    "type": "xã",
+    "district_code": "264",
+    "codename": "binh_dinh"
+  },
+  {
+    "code": "09532",
+    "name": "Phú Lương",
+    "name_en": "Phu Luong",
+    "full_name": "Xã Phú Lương",
+    "full_name_en": "Phu Luong Commune",
+    "type": "xã",
+    "district_code": "264",
+    "codename": "phu_luong"
+  },
+  {
+    "code": "09535",
+    "name": "Lâm Thao",
+    "name_en": "Lam Thao",
+    "full_name": "Xã Lâm Thao",
+    "full_name_en": "Lam Thao Commune",
+    "type": "xã",
+    "district_code": "264",
+    "codename": "lam_thao"
+  }
+]

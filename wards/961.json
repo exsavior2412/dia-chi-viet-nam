@@ -1,0 +1,82 @@
+[
+  {
+    "code": "31891",
+    "name": "Hòa Bình",
+    "name_en": "Hoa Binh",
+    "full_name": "Thị trấn Hòa Bình",
+    "full_name_en": "Hoa Binh Township",
+    "type": "thị trấn",
+    "district_code": "961",
+    "codename": "hoa_binh"
+  },
+  {
+    "code": "31915",
+    "name": "Minh Diệu",
+    "name_en": "Minh Dieu",
+    "full_name": "Xã Minh Diệu",
+    "full_name_en": "Minh Dieu Commune",
+    "type": "xã",
+    "district_code": "961",
+    "codename": "minh_dieu"
+  },
+  {
+    "code": "31918",
+    "name": "Vĩnh Bình",
+    "name_en": "Vinh Binh",
+    "full_name": "Xã Vĩnh Bình",
+    "full_name_en": "Vinh Binh Commune",
+    "type": "xã",
+    "district_code": "961",
+    "codename": "vinh_binh"
+  },
+  {
+    "code": "31924",
+    "name": "Vĩnh Mỹ B",
+    "name_en": "Vinh My B",
+    "full_name": "Xã Vĩnh Mỹ B",
+    "full_name_en": "Vinh My B Commune",
+    "type": "xã",
+    "district_code": "961",
+    "codename": "vinh_my_b"
+  },
+  {
+    "code": "31927",
+    "name": "Vĩnh Hậu",
+    "name_en": "Vinh Hau",
+    "full_name": "Xã Vĩnh Hậu",
+    "full_name_en": "Vinh Hau Commune",
+    "type": "xã",
+    "district_code": "961",
+    "codename": "vinh_hau"
+  },
+  {
+    "code": "31930",
+    "name": "Vĩnh Hậu A",
+    "name_en": "Vinh Hau A",
+    "full_name": "Xã Vĩnh Hậu A",
+    "full_name_en": "Vinh Hau A Commune",
+    "type": "xã",
+    "district_code": "961",
+    "codename": "vinh_hau_a"
+  },
+  {
+    "code": "31933",
+    "name": "Vĩnh Mỹ A",
+    "name_en": "Vinh My A",
+    "full_name": "Xã Vĩnh Mỹ A",
+    "full_name_en": "Vinh My A Commune",
+    "type": "xã",
+    "district_code": "961",
+    "codename": "vinh_my_a"
+  },
+  {
+    "code": "31936",
+    "name": "Vĩnh Thịnh",
+    "name_en": "Vinh Thinh",
+    "full_name": "Xã Vĩnh Thịnh",
+    "full_name_en": "Vinh Thinh Commune",
+    "type": "xã",
+    "district_code": "961",
+    "codename": "vinh_thinh"
+  }
+]

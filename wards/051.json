@@ -1,0 +1,152 @@
+[
+  {
+    "code": "01654",
+    "name": "Nước Hai",
+    "name_en": "Nuoc Hai",
+    "full_name": "Thị trấn Nước Hai",
+    "full_name_en": "Nuoc Hai Township",
+    "type": "thị trấn",
+    "district_code": "051",
+    "codename": "nuoc_hai"
+  },
+  {
+    "code": "01657",
+    "name": "Dân Chủ",
+    "name_en": "Dan Chu",
+    "full_name": "Xã Dân Chủ",
+    "full_name_en": "Dan Chu Commune",
+    "type": "xã",
+    "district_code": "051",
+    "codename": "dan_chu"
+  },
+  {
+    "code": "01660",
+    "name": "Nam Tuấn",
+    "name_en": "Nam Tuan",
+    "full_name": "Xã Nam Tuấn",
+    "full_name_en": "Nam Tuan Commune",
+    "type": "xã",
+    "district_code": "051",
+    "codename": "nam_tuan"
+  },
+  {
+    "code": "01666",
+    "name": "Đại Tiến",
+    "name_en": "Dai Tien",
+    "full_name": "Xã Đại Tiến",
+    "full_name_en": "Dai Tien Commune",
+    "type": "xã",
+    "district_code": "051",
+    "codename": "dai_tien"
+  },
+  {
+    "code": "01669",
+    "name": "Đức Long",
+    "name_en": "Duc Long",
+    "full_name": "Xã Đức Long",
+    "full_name_en": "Duc Long Commune",
+    "type": "xã",
+    "district_code": "051",
+    "codename": "duc_long"
+  },
+  {
+    "code": "01672",
+    "name": "Ngũ Lão",
+    "name_en": "Ngu Lao",
+    "full_name": "Xã Ngũ Lão",
+    "full_name_en": "Ngu Lao Commune",
+    "type": "xã",
+    "district_code": "051",
+    "codename": "ngu_lao"
+  },
+  {
+    "code": "01675",
+    "name": "Trương Lương",
+    "name_en": "Truong Luong",
+    "full_name": "Xã Trương Lương",
+    "full_name_en": "Truong Luong Commune",
+    "type": "xã",
+    "district_code": "051",
+    "codename": "truong_luong"
+  },
+  {
+    "code": "01687",
+    "name": "Hồng Việt",
+    "name_en": "Hong Viet",
+    "full_name": "Xã Hồng Việt",
+    "full_name_en": "Hong Viet Commune",
+    "type": "xã",
+    "district_code": "051",
+    "codename": "hong_viet"
+  },
+  {
+    "code": "01696",
+    "name": "Hoàng Tung",
+    "name_en": "Hoang Tung",
+    "full_name": "Xã Hoàng Tung",
+    "full_name_en": "Hoang Tung Commune",
+    "type": "xã",
+    "district_code": "051",
+    "codename": "hoang_tung"
+  },
+  {
+    "code": "01699",
+    "name": "Nguyễn Huệ",
+    "name_en": "Nguyen Hue",
+    "full_name": "Xã Nguyễn Huệ",
+    "full_name_en": "Nguyen Hue Commune",
+    "type": "xã",
+    "district_code": "051",
+    "codename": "nguyen_hue"
+  },
+  {
+    "code": "01702",
+    "name": "Quang Trung",
+    "name_en": "Quang Trung",
+    "full_name": "Xã Quang Trung",
+    "full_name_en": "Quang Trung Commune",
+    "type": "xã",
+    "district_code": "051",
+    "codename": "quang_trung"
+  },
+  {
+    "code": "01708",
+    "name": "Bạch Đằng",
+    "name_en": "Bach Dang",
+    "full_name": "Xã Bạch Đằng",
+    "full_name_en": "Bach Dang Commune",
+    "type": "xã",
+    "district_code": "051",
+    "codename": "bach_dang"
+  },
+  {
+    "code": "01711",
+    "name": "Bình Dương",
+    "name_en": "Binh Duong",
+    "full_name": "Xã Bình Dương",
+    "full_name_en": "Binh Duong Commune",
+    "type": "xã",
+    "district_code": "051",
+    "codename": "binh_duong"
+  },
+  {
+    "code": "01714",
+    "name": "Lê Chung",
+    "name_en": "Le Chung",
+    "full_name": "Xã Lê Chung",
+    "full_name_en": "Le Chung Commune",
+    "type": "xã",
+    "district_code": "051",
+    "codename": "le_chung"
+  },
+  {
+    "code": "01723",
+    "name": "Hồng Nam",
+    "name_en": "Hong Nam",
+    "full_name": "Xã Hồng Nam",
+    "full_name_en": "Hong Nam Commune",
+    "type": "xã",
+    "district_code": "051",
+    "codename": "hong_nam"
+  }
+]

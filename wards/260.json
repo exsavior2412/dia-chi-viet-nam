@@ -1,0 +1,142 @@
+[
+  {
+    "code": "09319",
+    "name": "Lim",
+    "name_en": "Lim",
+    "full_name": "Thị trấn Lim",
+    "full_name_en": "Lim Township",
+    "type": "thị trấn",
+    "district_code": "260",
+    "codename": "lim"
+  },
+  {
+    "code": "09322",
+    "name": "Phú Lâm",
+    "name_en": "Phu Lam",
+    "full_name": "Xã Phú Lâm",
+    "full_name_en": "Phu Lam Commune",
+    "type": "xã",
+    "district_code": "260",
+    "codename": "phu_lam"
+  },
+  {
+    "code": "09328",
+    "name": "Nội Duệ",
+    "name_en": "Noi Due",
+    "full_name": "Xã Nội Duệ",
+    "full_name_en": "Noi Due Commune",
+    "type": "xã",
+    "district_code": "260",
+    "codename": "noi_due"
+  },
+  {
+    "code": "09334",
+    "name": "Liên Bão",
+    "name_en": "Lien Bao",
+    "full_name": "Xã Liên Bão",
+    "full_name_en": "Lien Bao Commune",
+    "type": "xã",
+    "district_code": "260",
+    "codename": "lien_bao"
+  },
+  {
+    "code": "09337",
+    "name": "Hiên Vân",
+    "name_en": "Hien Van",
+    "full_name": "Xã Hiên Vân",
+    "full_name_en": "Hien Van Commune",
+    "type": "xã",
+    "district_code": "260",
+    "codename": "hien_van"
+  },
+  {
+    "code": "09340",
+    "name": "Hoàn Sơn",
+    "name_en": "Hoan Son",
+    "full_name": "Xã Hoàn Sơn",
+    "full_name_en": "Hoan Son Commune",
+    "type": "xã",
+    "district_code": "260",
+    "codename": "hoan_son"
+  },
+  {
+    "code": "09343",
+    "name": "Lạc Vệ",
+    "name_en": "Lac Ve",
+    "full_name": "Xã Lạc Vệ",
+    "full_name_en": "Lac Ve Commune",
+    "type": "xã",
+    "district_code": "260",
+    "codename": "lac_ve"
+  },
+  {
+    "code": "09346",
+    "name": "Việt Đoàn",
+    "name_en": "Viet Doan",
+    "full_name": "Xã Việt Đoàn",
+    "full_name_en": "Viet Doan Commune",
+    "type": "xã",
+    "district_code": "260",
+    "codename": "viet_doan"
+  },
+  {
+    "code": "09349",
+    "name": "Phật Tích",
+    "name_en": "Phat Tich",
+    "full_name": "Xã Phật Tích",
+    "full_name_en": "Phat Tich Commune",
+    "type": "xã",
+    "district_code": "260",
+    "codename": "phat_tich"
+  },
+  {
+    "code": "09352",
+    "name": "Tân Chi",
+    "name_en": "Tan Chi",
+    "full_name": "Xã Tân Chi",
+    "full_name_en": "Tan Chi Commune",
+    "type": "xã",
+    "district_code": "260",
+    "codename": "tan_chi"
+  },
+  {
+    "code": "09355",
+    "name": "Đại Đồng",
+    "name_en": "Dai Dong",
+    "full_name": "Xã Đại Đồng",
+    "full_name_en": "Dai Dong Commune",
+    "type": "xã",
+    "district_code": "260",
+    "codename": "dai_dong"
+  },
+  {
+    "code": "09358",
+    "name": "Tri Phương",
+    "name_en": "Tri Phuong",
+    "full_name": "Xã Tri Phương",
+    "full_name_en": "Tri Phuong Commune",
+    "type": "xã",
+    "district_code": "260",
+    "codename": "tri_phuong"
+  },
+  {
+    "code": "09361",
+    "name": "Minh Đạo",
+    "name_en": "Minh Dao",
+    "full_name": "Xã Minh Đạo",
+    "full_name_en": "Minh Dao Commune",
+    "type": "xã",
+    "district_code": "260",
+    "codename": "minh_dao"
+  },
+  {
+    "code": "09364",
+    "name": "Cảnh Hưng",
+    "name_en": "Canh Hung",
+    "full_name": "Xã Cảnh Hưng",
+    "full_name_en": "Canh Hung Commune",
+    "type": "xã",
+    "district_code": "260",
+    "codename": "canh_hung"
+  }
+]

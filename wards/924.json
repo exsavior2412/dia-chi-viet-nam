@@ -1,0 +1,112 @@
+[
+  {
+    "code": "31211",
+    "name": "Vĩnh Bình",
+    "name_en": "Vinh Binh",
+    "full_name": "Xã Vĩnh Bình",
+    "full_name_en": "Vinh Binh Commune",
+    "type": "xã",
+    "district_code": "924",
+    "codename": "vinh_binh"
+  },
+  {
+    "code": "31231",
+    "name": "Thanh An",
+    "name_en": "Thanh An",
+    "full_name": "Thị trấn Thanh An",
+    "full_name_en": "Thanh An Township",
+    "type": "thị trấn",
+    "district_code": "924",
+    "codename": "thanh_an"
+  },
+  {
+    "code": "31232",
+    "name": "Vĩnh Thạnh",
+    "name_en": "Vinh Thanh",
+    "full_name": "Thị trấn Vĩnh Thạnh",
+    "full_name_en": "Vinh Thanh Township",
+    "type": "thị trấn",
+    "district_code": "924",
+    "codename": "vinh_thanh"
+  },
+  {
+    "code": "31234",
+    "name": "Thạnh Mỹ",
+    "name_en": "Thanh My",
+    "full_name": "Xã Thạnh Mỹ",
+    "full_name_en": "Thanh My Commune",
+    "type": "xã",
+    "district_code": "924",
+    "codename": "thanh_my"
+  },
+  {
+    "code": "31237",
+    "name": "Vĩnh Trinh",
+    "name_en": "Vinh Trinh",
+    "full_name": "Xã Vĩnh Trinh",
+    "full_name_en": "Vinh Trinh Commune",
+    "type": "xã",
+    "district_code": "924",
+    "codename": "vinh_trinh"
+  },
+  {
+    "code": "31240",
+    "name": "Thạnh An",
+    "name_en": "Thanh An",
+    "full_name": "Xã Thạnh An",
+    "full_name_en": "Thanh An Commune",
+    "type": "xã",
+    "district_code": "924",
+    "codename": "thanh_an"
+  },
+  {
+    "code": "31241",
+    "name": "Thạnh Tiến",
+    "name_en": "Thanh Tien",
+    "full_name": "Xã Thạnh Tiến",
+    "full_name_en": "Thanh Tien Commune",
+    "type": "xã",
+    "district_code": "924",
+    "codename": "thanh_tien"
+  },
+  {
+    "code": "31243",
+    "name": "Thạnh Thắng",
+    "name_en": "Thanh Thang",
+    "full_name": "Xã Thạnh Thắng",
+    "full_name_en": "Thanh Thang Commune",
+    "type": "xã",
+    "district_code": "924",
+    "codename": "thanh_thang"
+  },
+  {
+    "code": "31244",
+    "name": "Thạnh Lợi",
+    "name_en": "Thanh Loi",
+    "full_name": "Xã Thạnh Lợi",
+    "full_name_en": "Thanh Loi Commune",
+    "type": "xã",
+    "district_code": "924",
+    "codename": "thanh_loi"
+  },
+  {
+    "code": "31246",
+    "name": "Thạnh Qưới",
+    "name_en": "Thanh Quoi",
+    "full_name": "Xã Thạnh Qưới",
+    "full_name_en": "Thanh Quoi Commune",
+    "type": "xã",
+    "district_code": "924",
+    "codename": "thanh_quoi"
+  },
+  {
+    "code": "31252",
+    "name": "Thạnh Lộc",
+    "name_en": "Thanh Loc",
+    "full_name": "Xã Thạnh Lộc",
+    "full_name_en": "Thanh Loc Commune",
+    "type": "xã",
+    "district_code": "924",
+    "codename": "thanh_loc"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "code": "22714",
+    "name": "Tô Hạp",
+    "name_en": "To Hap",
+    "full_name": "Thị trấn Tô Hạp",
+    "full_name_en": "To Hap Township",
+    "type": "thị trấn",
+    "district_code": "575",
+    "codename": "to_hap"
+  },
+  {
+    "code": "22717",
+    "name": "Thành Sơn",
+    "name_en": "Thanh Son",
+    "full_name": "Xã Thành Sơn",
+    "full_name_en": "Thanh Son Commune",
+    "type": "xã",
+    "district_code": "575",
+    "codename": "thanh_son"
+  },
+  {
+    "code": "22720",
+    "name": "Sơn Lâm",
+    "name_en": "Son Lam",
+    "full_name": "Xã Sơn Lâm",
+    "full_name_en": "Son Lam Commune",
+    "type": "xã",
+    "district_code": "575",
+    "codename": "son_lam"
+  },
+  {
+    "code": "22723",
+    "name": "Sơn Hiệp",
+    "name_en": "Son Hiep",
+    "full_name": "Xã Sơn Hiệp",
+    "full_name_en": "Son Hiep Commune",
+    "type": "xã",
+    "district_code": "575",
+    "codename": "son_hiep"
+  },
+  {
+    "code": "22726",
+    "name": "Sơn Bình",
+    "name_en": "Son Binh",
+    "full_name": "Xã Sơn Bình",
+    "full_name_en": "Son Binh Commune",
+    "type": "xã",
+    "district_code": "575",
+    "codename": "son_binh"
+  },
+  {
+    "code": "22729",
+    "name": "Sơn Trung",
+    "name_en": "Son Trung",
+    "full_name": "Xã Sơn Trung",
+    "full_name_en": "Son Trung Commune",
+    "type": "xã",
+    "district_code": "575",
+    "codename": "son_trung"
+  },
+  {
+    "code": "22732",
+    "name": "Ba Cụm Bắc",
+    "name_en": "Ba Cum Bac",
+    "full_name": "Xã Ba Cụm Bắc",
+    "full_name_en": "Ba Cum Bac Commune",
+    "type": "xã",
+    "district_code": "575",
+    "codename": "ba_cum_bac"
+  },
+  {
+    "code": "22735",
+    "name": "Ba Cụm Nam",
+    "name_en": "Ba Cum Nam",
+    "full_name": "Xã Ba Cụm Nam",
+    "full_name_en": "Ba Cum Nam Commune",
+    "type": "xã",
+    "district_code": "575",
+    "codename": "ba_cum_nam"
+  }
+]

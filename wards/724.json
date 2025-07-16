@@ -1,0 +1,72 @@
+[
+  {
+    "code": "25942",
+    "name": "Dĩ An",
+    "name_en": "Di An",
+    "full_name": "Phường Dĩ An",
+    "full_name_en": "Di An Ward",
+    "type": "phường",
+    "district_code": "724",
+    "codename": "di_an"
+  },
+  {
+    "code": "25945",
+    "name": "Tân Bình",
+    "name_en": "Tan Binh",
+    "full_name": "Phường Tân Bình",
+    "full_name_en": "Tan Binh Ward",
+    "type": "phường",
+    "district_code": "724",
+    "codename": "tan_binh"
+  },
+  {
+    "code": "25948",
+    "name": "Tân Đông Hiệp",
+    "name_en": "Tan Dong Hiep",
+    "full_name": "Phường Tân Đông Hiệp",
+    "full_name_en": "Tan Dong Hiep Ward",
+    "type": "phường",
+    "district_code": "724",
+    "codename": "tan_dong_hiep"
+  },
+  {
+    "code": "25951",
+    "name": "Bình An",
+    "name_en": "Binh An",
+    "full_name": "Phường Bình An",
+    "full_name_en": "Binh An Ward",
+    "type": "phường",
+    "district_code": "724",
+    "codename": "binh_an"
+  },
+  {
+    "code": "25954",
+    "name": "Bình Thắng",
+    "name_en": "Binh Thang",
+    "full_name": "Phường Bình Thắng",
+    "full_name_en": "Binh Thang Ward",
+    "type": "phường",
+    "district_code": "724",
+    "codename": "binh_thang"
+  },
+  {
+    "code": "25957",
+    "name": "Đông Hòa",
+    "name_en": "Dong Hoa",
+    "full_name": "Phường Đông Hòa",
+    "full_name_en": "Dong Hoa Ward",
+    "type": "phường",
+    "district_code": "724",
+    "codename": "dong_hoa"
+  },
+  {
+    "code": "25960",
+    "name": "An Bình",
+    "name_en": "An Binh",
+    "full_name": "Phường An Bình",
+    "full_name_en": "An Binh Ward",
+    "type": "phường",
+    "district_code": "724",
+    "codename": "an_binh"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "code": "11824",
+    "name": "Vĩnh Bảo",
+    "name_en": "Vinh Bao",
+    "full_name": "Thị trấn Vĩnh Bảo",
+    "full_name_en": "Vinh Bao Township",
+    "type": "thị trấn",
+    "district_code": "316",
+    "codename": "vinh_bao"
+  },
+  {
+    "code": "11827",
+    "name": "Dũng Tiến",
+    "name_en": "Dung Tien",
+    "full_name": "Xã Dũng Tiến",
+    "full_name_en": "Dung Tien Commune",
+    "type": "xã",
+    "district_code": "316",
+    "codename": "dung_tien"
+  },
+  {
+    "code": "11830",
+    "name": "Giang Biên",
+    "name_en": "Giang Bien",
+    "full_name": "Xã Giang Biên",
+    "full_name_en": "Giang Bien Commune",
+    "type": "xã",
+    "district_code": "316",
+    "codename": "giang_bien"
+  },
+  {
+    "code": "11833",
+    "name": "Thắng Thuỷ",
+    "name_en": "Thang Thuy",
+    "full_name": "Xã Thắng Thuỷ",
+    "full_name_en": "Thang Thuy Commune",
+    "type": "xã",
+    "district_code": "316",
+    "codename": "thang_thuy"
+  },
+  {
+    "code": "11836",
+    "name": "Trung Lập",
+    "name_en": "Trung Lap",
+    "full_name": "Xã Trung Lập",
+    "full_name_en": "Trung Lap Commune",
+    "type": "xã",
+    "district_code": "316",
+    "codename": "trung_lap"
+  },
+  {
+    "code": "11839",
+    "name": "Việt Tiến",
+    "name_en": "Viet Tien",
+    "full_name": "Xã Việt Tiến",
+    "full_name_en": "Viet Tien Commune",
+    "type": "xã",
+    "district_code": "316",
+    "codename": "viet_tien"
+  },
+  {
+    "code": "11842",
+    "name": "Vĩnh An",
+    "name_en": "Vinh An",
+    "full_name": "Xã Vĩnh An",
+    "full_name_en": "Vinh An Commune",
+    "type": "xã",
+    "district_code": "316",
+    "codename": "vinh_an"
+  },
+  {
+    "code": "11848",
+    "name": "Vĩnh Hoà",
+    "name_en": "Vinh Hoa",
+    "full_name": "Xã Vĩnh Hoà",
+    "full_name_en": "Vinh Hoa Commune",
+    "type": "xã",
+    "district_code": "316",
+    "codename": "vinh_hoa"
+  },
+  {
+    "code": "11851",
+    "name": "Hùng Tiến",
+    "name_en": "Hung Tien",
+    "full_name": "Xã Hùng Tiến",
+    "full_name_en": "Hung Tien Commune",
+    "type": "xã",
+    "district_code": "316",
+    "codename": "hung_tien"
+  },
+  {
+    "code": "11857",
+    "name": "Tân Hưng",
+    "name_en": "Tan Hung",
+    "full_name": "Xã Tân Hưng",
+    "full_name_en": "Tan Hung Commune",
+    "type": "xã",
+    "district_code": "316",
+    "codename": "tan_hung"
+  },
+  {
+    "code": "11860",
+    "name": "Tân Liên",
+    "name_en": "Tan Lien",
+    "full_name": "Xã Tân Liên",
+    "full_name_en": "Tan Lien Commune",
+    "type": "xã",
+    "district_code": "316",
+    "codename": "tan_lien"
+  },
+  {
+    "code": "11866",
+    "name": "Vĩnh Hưng",
+    "name_en": "Vinh Hung",
+    "full_name": "Xã Vĩnh Hưng",
+    "full_name_en": "Vinh Hung Commune",
+    "type": "xã",
+    "district_code": "316",
+    "codename": "vinh_hung"
+  },
+  {
+    "code": "11875",
+    "name": "Vĩnh Hải",
+    "name_en": "Vinh Hai",
+    "full_name": "Xã Vĩnh Hải",
+    "full_name_en": "Vinh Hai Commune",
+    "type": "xã",
+    "district_code": "316",
+    "codename": "vinh_hai"
+  },
+  {
+    "code": "11881",
+    "name": "Liên Am",
+    "name_en": "Lien Am",
+    "full_name": "Xã Liên Am",
+    "full_name_en": "Lien Am Commune",
+    "type": "xã",
+    "district_code": "316",
+    "codename": "lien_am"
+  },
+  {
+    "code": "11884",
+    "name": "Lý Học",
+    "name_en": "Ly Hoc",
+    "full_name": "Xã Lý Học",
+    "full_name_en": "Ly Hoc Commune",
+    "type": "xã",
+    "district_code": "316",
+    "codename": "ly_hoc"
+  },
+  {
+    "code": "11887",
+    "name": "Tam Cường",
+    "name_en": "Tam Cuong",
+    "full_name": "Xã Tam Cường",
+    "full_name_en": "Tam Cuong Commune",
+    "type": "xã",
+    "district_code": "316",
+    "codename": "tam_cuong"
+  },
+  {
+    "code": "11890",
+    "name": "Hoà Bình",
+    "name_en": "Hoa Binh",
+    "full_name": "Xã Hoà Bình",
+    "full_name_en": "Hoa Binh Commune",
+    "type": "xã",
+    "district_code": "316",
+    "codename": "hoa_binh"
+  },
+  {
+    "code": "11893",
+    "name": "Tiền Phong",
+    "name_en": "Tien Phong",
+    "full_name": "Xã Tiền Phong",
+    "full_name_en": "Tien Phong Commune",
+    "type": "xã",
+    "district_code": "316",
+    "codename": "tien_phong"
+  },
+  {
+    "code": "11902",
+    "name": "Cao Minh",
+    "name_en": "Cao Minh",
+    "full_name": "Xã Cao Minh",
+    "full_name_en": "Cao Minh Commune",
+    "type": "xã",
+    "district_code": "316",
+    "codename": "cao_minh"
+  },
+  {
+    "code": "11911",
+    "name": "Trấn Dương",
+    "name_en": "Tran Duong",
+    "full_name": "Xã Trấn Dương",
+    "full_name_en": "Tran Duong Commune",
+    "type": "xã",
+    "district_code": "316",
+    "codename": "tran_duong"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "code": "16777",
+    "name": "Tân Lạc",
+    "name_en": "Tan Lac",
+    "full_name": "Thị trấn Tân Lạc",
+    "full_name_en": "Tan Lac Township",
+    "type": "thị trấn",
+    "district_code": "416",
+    "codename": "tan_lac"
+  },
+  {
+    "code": "16780",
+    "name": "Châu Bính",
+    "name_en": "Chau Binh",
+    "full_name": "Xã Châu Bính",
+    "full_name_en": "Chau Binh Commune",
+    "type": "xã",
+    "district_code": "416",
+    "codename": "chau_binh"
+  },
+  {
+    "code": "16783",
+    "name": "Châu Thuận",
+    "name_en": "Chau Thuan",
+    "full_name": "Xã Châu Thuận",
+    "full_name_en": "Chau Thuan Commune",
+    "type": "xã",
+    "district_code": "416",
+    "codename": "chau_thuan"
+  },
+  {
+    "code": "16786",
+    "name": "Châu Hội",
+    "name_en": "Chau Hoi",
+    "full_name": "Xã Châu Hội",
+    "full_name_en": "Chau Hoi Commune",
+    "type": "xã",
+    "district_code": "416",
+    "codename": "chau_hoi"
+  },
+  {
+    "code": "16789",
+    "name": "Châu Nga",
+    "name_en": "Chau Nga",
+    "full_name": "Xã Châu Nga",
+    "full_name_en": "Chau Nga Commune",
+    "type": "xã",
+    "district_code": "416",
+    "codename": "chau_nga"
+  },
+  {
+    "code": "16792",
+    "name": "Châu Tiến",
+    "name_en": "Chau Tien",
+    "full_name": "Xã Châu Tiến",
+    "full_name_en": "Chau Tien Commune",
+    "type": "xã",
+    "district_code": "416",
+    "codename": "chau_tien"
+  },
+  {
+    "code": "16795",
+    "name": "Châu Hạnh",
+    "name_en": "Chau Hanh",
+    "full_name": "Xã Châu Hạnh",
+    "full_name_en": "Chau Hanh Commune",
+    "type": "xã",
+    "district_code": "416",
+    "codename": "chau_hanh"
+  },
+  {
+    "code": "16798",
+    "name": "Châu Thắng",
+    "name_en": "Chau Thang",
+    "full_name": "Xã Châu Thắng",
+    "full_name_en": "Chau Thang Commune",
+    "type": "xã",
+    "district_code": "416",
+    "codename": "chau_thang"
+  },
+  {
+    "code": "16801",
+    "name": "Châu Phong",
+    "name_en": "Chau Phong",
+    "full_name": "Xã Châu Phong",
+    "full_name_en": "Chau Phong Commune",
+    "type": "xã",
+    "district_code": "416",
+    "codename": "chau_phong"
+  },
+  {
+    "code": "16804",
+    "name": "Châu Bình",
+    "name_en": "Chau Binh",
+    "full_name": "Xã Châu Bình",
+    "full_name_en": "Chau Binh Commune",
+    "type": "xã",
+    "district_code": "416",
+    "codename": "chau_binh"
+  },
+  {
+    "code": "16807",
+    "name": "Châu Hoàn",
+    "name_en": "Chau Hoan",
+    "full_name": "Xã Châu Hoàn",
+    "full_name_en": "Chau Hoan Commune",
+    "type": "xã",
+    "district_code": "416",
+    "codename": "chau_hoan"
+  },
+  {
+    "code": "16810",
+    "name": "Diên Lãm",
+    "name_en": "Dien Lam",
+    "full_name": "Xã Diên Lãm",
+    "full_name_en": "Dien Lam Commune",
+    "type": "xã",
+    "district_code": "416",
+    "codename": "dien_lam"
+  }
+]

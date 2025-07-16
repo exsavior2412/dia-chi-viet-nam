@@ -1,0 +1,102 @@
+[
+  {
+    "code": "25486",
+    "name": "Tân Biên",
+    "name_en": "Tan Bien",
+    "full_name": "Thị trấn Tân Biên",
+    "full_name_en": "Tan Bien Township",
+    "type": "thị trấn",
+    "district_code": "705",
+    "codename": "tan_bien"
+  },
+  {
+    "code": "25489",
+    "name": "Tân Lập",
+    "name_en": "Tan Lap",
+    "full_name": "Xã Tân Lập",
+    "full_name_en": "Tan Lap Commune",
+    "type": "xã",
+    "district_code": "705",
+    "codename": "tan_lap"
+  },
+  {
+    "code": "25492",
+    "name": "Thạnh Bắc",
+    "name_en": "Thanh Bac",
+    "full_name": "Xã Thạnh Bắc",
+    "full_name_en": "Thanh Bac Commune",
+    "type": "xã",
+    "district_code": "705",
+    "codename": "thanh_bac"
+  },
+  {
+    "code": "25495",
+    "name": "Tân Bình",
+    "name_en": "Tan Binh",
+    "full_name": "Xã Tân Bình",
+    "full_name_en": "Tan Binh Commune",
+    "type": "xã",
+    "district_code": "705",
+    "codename": "tan_binh"
+  },
+  {
+    "code": "25498",
+    "name": "Thạnh Bình",
+    "name_en": "Thanh Binh",
+    "full_name": "Xã Thạnh Bình",
+    "full_name_en": "Thanh Binh Commune",
+    "type": "xã",
+    "district_code": "705",
+    "codename": "thanh_binh"
+  },
+  {
+    "code": "25501",
+    "name": "Thạnh Tây",
+    "name_en": "Thanh Tay",
+    "full_name": "Xã Thạnh Tây",
+    "full_name_en": "Thanh Tay Commune",
+    "type": "xã",
+    "district_code": "705",
+    "codename": "thanh_tay"
+  },
+  {
+    "code": "25504",
+    "name": "Hòa Hiệp",
+    "name_en": "Hoa Hiep",
+    "full_name": "Xã Hòa Hiệp",
+    "full_name_en": "Hoa Hiep Commune",
+    "type": "xã",
+    "district_code": "705",
+    "codename": "hoa_hiep"
+  },
+  {
+    "code": "25507",
+    "name": "Tân Phong",
+    "name_en": "Tan Phong",
+    "full_name": "Xã Tân Phong",
+    "full_name_en": "Tan Phong Commune",
+    "type": "xã",
+    "district_code": "705",
+    "codename": "tan_phong"
+  },
+  {
+    "code": "25510",
+    "name": "Mỏ Công",
+    "name_en": "Mo Cong",
+    "full_name": "Xã Mỏ Công",
+    "full_name_en": "Mo Cong Commune",
+    "type": "xã",
+    "district_code": "705",
+    "codename": "mo_cong"
+  },
+  {
+    "code": "25513",
+    "name": "Trà Vong",
+    "name_en": "Tra Vong",
+    "full_name": "Xã Trà Vong",
+    "full_name_en": "Tra Vong Commune",
+    "type": "xã",
+    "district_code": "705",
+    "codename": "tra_vong"
+  }
+]

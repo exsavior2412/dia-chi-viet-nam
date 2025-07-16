@@ -1,0 +1,142 @@
+[
+  {
+    "code": "03203",
+    "name": "Điện Biên Đông",
+    "name_en": "Dien Bien Dong",
+    "full_name": "Thị trấn Điện Biên Đông",
+    "full_name_en": "Dien Bien Dong Township",
+    "type": "thị trấn",
+    "district_code": "101",
+    "codename": "dien_bien_dong"
+  },
+  {
+    "code": "03205",
+    "name": "Na Son",
+    "name_en": "Na Son",
+    "full_name": "Xã Na Son",
+    "full_name_en": "Na Son Commune",
+    "type": "xã",
+    "district_code": "101",
+    "codename": "na_son"
+  },
+  {
+    "code": "03208",
+    "name": "Phì Nhừ",
+    "name_en": "Phi Nhu",
+    "full_name": "Xã Phì Nhừ",
+    "full_name_en": "Phi Nhu Commune",
+    "type": "xã",
+    "district_code": "101",
+    "codename": "phi_nhu"
+  },
+  {
+    "code": "03211",
+    "name": "Chiềng Sơ",
+    "name_en": "Chieng So",
+    "full_name": "Xã Chiềng Sơ",
+    "full_name_en": "Chieng So Commune",
+    "type": "xã",
+    "district_code": "101",
+    "codename": "chieng_so"
+  },
+  {
+    "code": "03214",
+    "name": "Mường Luân",
+    "name_en": "Muong Luan",
+    "full_name": "Xã Mường Luân",
+    "full_name_en": "Muong Luan Commune",
+    "type": "xã",
+    "district_code": "101",
+    "codename": "muong_luan"
+  },
+  {
+    "code": "03370",
+    "name": "Pú Nhi",
+    "name_en": "Pu Nhi",
+    "full_name": "Xã Pú Nhi",
+    "full_name_en": "Pu Nhi Commune",
+    "type": "xã",
+    "district_code": "101",
+    "codename": "pu_nhi"
+  },
+  {
+    "code": "03371",
+    "name": "Nong U",
+    "name_en": "Nong U",
+    "full_name": "Xã Nong U",
+    "full_name_en": "Nong U Commune",
+    "type": "xã",
+    "district_code": "101",
+    "codename": "nong_u"
+  },
+  {
+    "code": "03373",
+    "name": "Xa Dung",
+    "name_en": "Xa Dung",
+    "full_name": "Xã Xa Dung",
+    "full_name_en": "Xa Dung Commune",
+    "type": "xã",
+    "district_code": "101",
+    "codename": "xa_dung"
+  },
+  {
+    "code": "03376",
+    "name": "Keo Lôm",
+    "name_en": "Keo Lom",
+    "full_name": "Xã Keo Lôm",
+    "full_name_en": "Keo Lom Commune",
+    "type": "xã",
+    "district_code": "101",
+    "codename": "keo_lom"
+  },
+  {
+    "code": "03379",
+    "name": "Luân Giới",
+    "name_en": "Luan Gioi",
+    "full_name": "Xã Luân Giới",
+    "full_name_en": "Luan Gioi Commune",
+    "type": "xã",
+    "district_code": "101",
+    "codename": "luan_gioi"
+  },
+  {
+    "code": "03382",
+    "name": "Phình Giàng",
+    "name_en": "Phinh Giang",
+    "full_name": "Xã Phình Giàng",
+    "full_name_en": "Phinh Giang Commune",
+    "type": "xã",
+    "district_code": "101",
+    "codename": "phinh_giang"
+  },
+  {
+    "code": "03383",
+    "name": "Pú Hồng",
+    "name_en": "Pu Hong",
+    "full_name": "Xã Pú Hồng",
+    "full_name_en": "Pu Hong Commune",
+    "type": "xã",
+    "district_code": "101",
+    "codename": "pu_hong"
+  },
+  {
+    "code": "03384",
+    "name": "Tìa Dình",
+    "name_en": "Tia Dinh",
+    "full_name": "Xã Tìa Dình",
+    "full_name_en": "Tia Dinh Commune",
+    "type": "xã",
+    "district_code": "101",
+    "codename": "tia_dinh"
+  },
+  {
+    "code": "03385",
+    "name": "Háng Lìa",
+    "name_en": "Hang Lia",
+    "full_name": "Xã Háng Lìa",
+    "full_name_en": "Hang Lia Commune",
+    "type": "xã",
+    "district_code": "101",
+    "codename": "hang_lia"
+  }
+]

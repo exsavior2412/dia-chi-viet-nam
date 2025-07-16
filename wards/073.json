@@ -1,0 +1,242 @@
+[
+  {
+    "code": "02287",
+    "name": "Vĩnh Lộc",
+    "name_en": "Vinh Loc",
+    "full_name": "Thị trấn Vĩnh Lộc",
+    "full_name_en": "Vinh Loc Township",
+    "type": "thị trấn",
+    "district_code": "073",
+    "codename": "vinh_loc"
+  },
+  {
+    "code": "02305",
+    "name": "Trung Hà",
+    "name_en": "Trung Ha",
+    "full_name": "Xã Trung Hà",
+    "full_name_en": "Trung Ha Commune",
+    "type": "xã",
+    "district_code": "073",
+    "codename": "trung_ha"
+  },
+  {
+    "code": "02308",
+    "name": "Tân Mỹ",
+    "name_en": "Tan My",
+    "full_name": "Xã Tân Mỹ",
+    "full_name_en": "Tan My Commune",
+    "type": "xã",
+    "district_code": "073",
+    "codename": "tan_my"
+  },
+  {
+    "code": "02311",
+    "name": "Hà Lang",
+    "name_en": "Ha Lang",
+    "full_name": "Xã Hà Lang",
+    "full_name_en": "Ha Lang Commune",
+    "type": "xã",
+    "district_code": "073",
+    "codename": "ha_lang"
+  },
+  {
+    "code": "02314",
+    "name": "Hùng Mỹ",
+    "name_en": "Hung My",
+    "full_name": "Xã Hùng Mỹ",
+    "full_name_en": "Hung My Commune",
+    "type": "xã",
+    "district_code": "073",
+    "codename": "hung_my"
+  },
+  {
+    "code": "02317",
+    "name": "Yên Lập",
+    "name_en": "Yen Lap",
+    "full_name": "Xã Yên Lập",
+    "full_name_en": "Yen Lap Commune",
+    "type": "xã",
+    "district_code": "073",
+    "codename": "yen_lap"
+  },
+  {
+    "code": "02320",
+    "name": "Tân An",
+    "name_en": "Tan An",
+    "full_name": "Xã Tân An",
+    "full_name_en": "Tan An Commune",
+    "type": "xã",
+    "district_code": "073",
+    "codename": "tan_an"
+  },
+  {
+    "code": "02323",
+    "name": "Bình Phú",
+    "name_en": "Binh Phu",
+    "full_name": "Xã Bình Phú",
+    "full_name_en": "Binh Phu Commune",
+    "type": "xã",
+    "district_code": "073",
+    "codename": "binh_phu"
+  },
+  {
+    "code": "02326",
+    "name": "Xuân Quang",
+    "name_en": "Xuan Quang",
+    "full_name": "Xã Xuân Quang",
+    "full_name_en": "Xuan Quang Commune",
+    "type": "xã",
+    "district_code": "073",
+    "codename": "xuan_quang"
+  },
+  {
+    "code": "02329",
+    "name": "Ngọc Hội",
+    "name_en": "Ngoc Hoi",
+    "full_name": "Xã Ngọc Hội",
+    "full_name_en": "Ngoc Hoi Commune",
+    "type": "xã",
+    "district_code": "073",
+    "codename": "ngoc_hoi"
+  },
+  {
+    "code": "02332",
+    "name": "Phú Bình",
+    "name_en": "Phu Binh",
+    "full_name": "Xã Phú Bình",
+    "full_name_en": "Phu Binh Commune",
+    "type": "xã",
+    "district_code": "073",
+    "codename": "phu_binh"
+  },
+  {
+    "code": "02335",
+    "name": "Hòa Phú",
+    "name_en": "Hoa Phu",
+    "full_name": "Xã Hòa Phú",
+    "full_name_en": "Hoa Phu Commune",
+    "type": "xã",
+    "district_code": "073",
+    "codename": "hoa_phu"
+  },
+  {
+    "code": "02338",
+    "name": "Phúc Thịnh",
+    "name_en": "Phuc Thinh",
+    "full_name": "Xã Phúc Thịnh",
+    "full_name_en": "Phuc Thinh Commune",
+    "type": "xã",
+    "district_code": "073",
+    "codename": "phuc_thinh"
+  },
+  {
+    "code": "02341",
+    "name": "Kiên Đài",
+    "name_en": "Kien Dai",
+    "full_name": "Xã Kiên Đài",
+    "full_name_en": "Kien Dai Commune",
+    "type": "xã",
+    "district_code": "073",
+    "codename": "kien_dai"
+  },
+  {
+    "code": "02344",
+    "name": "Tân Thịnh",
+    "name_en": "Tan Thinh",
+    "full_name": "Xã Tân Thịnh",
+    "full_name_en": "Tan Thinh Commune",
+    "type": "xã",
+    "district_code": "073",
+    "codename": "tan_thinh"
+  },
+  {
+    "code": "02347",
+    "name": "Trung Hòa",
+    "name_en": "Trung Hoa",
+    "full_name": "Xã Trung Hòa",
+    "full_name_en": "Trung Hoa Commune",
+    "type": "xã",
+    "district_code": "073",
+    "codename": "trung_hoa"
+  },
+  {
+    "code": "02350",
+    "name": "Kim Bình",
+    "name_en": "Kim Binh",
+    "full_name": "Xã Kim Bình",
+    "full_name_en": "Kim Binh Commune",
+    "type": "xã",
+    "district_code": "073",
+    "codename": "kim_binh"
+  },
+  {
+    "code": "02353",
+    "name": "Hòa An",
+    "name_en": "Hoa An",
+    "full_name": "Xã Hòa An",
+    "full_name_en": "Hoa An Commune",
+    "type": "xã",
+    "district_code": "073",
+    "codename": "hoa_an"
+  },
+  {
+    "code": "02356",
+    "name": "Vinh Quang",
+    "name_en": "Vinh Quang",
+    "full_name": "Xã Vinh Quang",
+    "full_name_en": "Vinh Quang Commune",
+    "type": "xã",
+    "district_code": "073",
+    "codename": "vinh_quang"
+  },
+  {
+    "code": "02359",
+    "name": "Tri Phú",
+    "name_en": "Tri Phu",
+    "full_name": "Xã Tri Phú",
+    "full_name_en": "Tri Phu Commune",
+    "type": "xã",
+    "district_code": "073",
+    "codename": "tri_phu"
+  },
+  {
+    "code": "02362",
+    "name": "Nhân Lý",
+    "name_en": "Nhan Ly",
+    "full_name": "Xã Nhân Lý",
+    "full_name_en": "Nhan Ly Commune",
+    "type": "xã",
+    "district_code": "073",
+    "codename": "nhan_ly"
+  },
+  {
+    "code": "02365",
+    "name": "Yên Nguyên",
+    "name_en": "Yen Nguyen",
+    "full_name": "Xã Yên Nguyên",
+    "full_name_en": "Yen Nguyen Commune",
+    "type": "xã",
+    "district_code": "073",
+    "codename": "yen_nguyen"
+  },
+  {
+    "code": "02368",
+    "name": "Linh Phú",
+    "name_en": "Linh Phu",
+    "full_name": "Xã Linh Phú",
+    "full_name_en": "Linh Phu Commune",
+    "type": "xã",
+    "district_code": "073",
+    "codename": "linh_phu"
+  },
+  {
+    "code": "02371",
+    "name": "Bình Nhân",
+    "name_en": "Binh Nhan",
+    "full_name": "Xã Bình Nhân",
+    "full_name_en": "Binh Nhan Commune",
+    "type": "xã",
+    "district_code": "073",
+    "codename": "binh_nhan"
+  }
+]

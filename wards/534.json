@@ -1,0 +1,152 @@
+[
+  {
+    "code": "21439",
+    "name": "Nguyễn Nghiêm",
+    "name_en": "Nguyen Nghiem",
+    "full_name": "Phường Nguyễn Nghiêm",
+    "full_name_en": "Nguyen Nghiem Ward",
+    "type": "phường",
+    "district_code": "534",
+    "codename": "nguyen_nghiem"
+  },
+  {
+    "code": "21442",
+    "name": "Phổ An",
+    "name_en": "Pho An",
+    "full_name": "Xã Phổ An",
+    "full_name_en": "Pho An Commune",
+    "type": "xã",
+    "district_code": "534",
+    "codename": "pho_an"
+  },
+  {
+    "code": "21445",
+    "name": "Phổ Phong",
+    "name_en": "Pho Phong",
+    "full_name": "Xã Phổ Phong",
+    "full_name_en": "Pho Phong Commune",
+    "type": "xã",
+    "district_code": "534",
+    "codename": "pho_phong"
+  },
+  {
+    "code": "21448",
+    "name": "Phổ Thuận",
+    "name_en": "Pho Thuan",
+    "full_name": "Xã Phổ Thuận",
+    "full_name_en": "Pho Thuan Commune",
+    "type": "xã",
+    "district_code": "534",
+    "codename": "pho_thuan"
+  },
+  {
+    "code": "21451",
+    "name": "Phổ Văn",
+    "name_en": "Pho Van",
+    "full_name": "Phường Phổ Văn",
+    "full_name_en": "Pho Van Ward",
+    "type": "phường",
+    "district_code": "534",
+    "codename": "pho_van"
+  },
+  {
+    "code": "21454",
+    "name": "Phổ Quang",
+    "name_en": "Pho Quang",
+    "full_name": "Phường Phổ Quang",
+    "full_name_en": "Pho Quang Ward",
+    "type": "phường",
+    "district_code": "534",
+    "codename": "pho_quang"
+  },
+  {
+    "code": "21457",
+    "name": "Phổ Nhơn",
+    "name_en": "Pho Nhon",
+    "full_name": "Xã Phổ Nhơn",
+    "full_name_en": "Pho Nhon Commune",
+    "type": "xã",
+    "district_code": "534",
+    "codename": "pho_nhon"
+  },
+  {
+    "code": "21460",
+    "name": "Phổ Ninh",
+    "name_en": "Pho Ninh",
+    "full_name": "Phường Phổ Ninh",
+    "full_name_en": "Pho Ninh Ward",
+    "type": "phường",
+    "district_code": "534",
+    "codename": "pho_ninh"
+  },
+  {
+    "code": "21463",
+    "name": "Phổ Minh",
+    "name_en": "Pho Minh",
+    "full_name": "Phường Phổ Minh",
+    "full_name_en": "Pho Minh Ward",
+    "type": "phường",
+    "district_code": "534",
+    "codename": "pho_minh"
+  },
+  {
+    "code": "21466",
+    "name": "Phổ Vinh",
+    "name_en": "Pho Vinh",
+    "full_name": "Phường Phổ Vinh",
+    "full_name_en": "Pho Vinh Ward",
+    "type": "phường",
+    "district_code": "534",
+    "codename": "pho_vinh"
+  },
+  {
+    "code": "21469",
+    "name": "Phổ Hòa",
+    "name_en": "Pho Hoa",
+    "full_name": "Phường Phổ Hòa",
+    "full_name_en": "Pho Hoa Ward",
+    "type": "phường",
+    "district_code": "534",
+    "codename": "pho_hoa"
+  },
+  {
+    "code": "21472",
+    "name": "Phổ Cường",
+    "name_en": "Pho Cuong",
+    "full_name": "Xã Phổ Cường",
+    "full_name_en": "Pho Cuong Commune",
+    "type": "xã",
+    "district_code": "534",
+    "codename": "pho_cuong"
+  },
+  {
+    "code": "21475",
+    "name": "Phổ Khánh",
+    "name_en": "Pho Khanh",
+    "full_name": "Xã Phổ Khánh",
+    "full_name_en": "Pho Khanh Commune",
+    "type": "xã",
+    "district_code": "534",
+    "codename": "pho_khanh"
+  },
+  {
+    "code": "21478",
+    "name": "Phổ Thạnh",
+    "name_en": "Pho Thanh",
+    "full_name": "Phường Phổ Thạnh",
+    "full_name_en": "Pho Thanh Ward",
+    "type": "phường",
+    "district_code": "534",
+    "codename": "pho_thanh"
+  },
+  {
+    "code": "21481",
+    "name": "Phổ Châu",
+    "name_en": "Pho Chau",
+    "full_name": "Xã Phổ Châu",
+    "full_name_en": "Pho Chau Commune",
+    "type": "xã",
+    "district_code": "534",
+    "codename": "pho_chau"
+  }
+]

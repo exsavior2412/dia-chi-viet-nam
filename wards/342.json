@@ -1,0 +1,282 @@
+[
+  {
+    "code": "12970",
+    "name": "Tiền Hải",
+    "name_en": "Tien Hai",
+    "full_name": "Thị trấn Tiền Hải",
+    "full_name_en": "Tien Hai Township",
+    "type": "thị trấn",
+    "district_code": "342",
+    "codename": "tien_hai"
+  },
+  {
+    "code": "12976",
+    "name": "Đông Trà",
+    "name_en": "Dong Tra",
+    "full_name": "Xã Đông Trà",
+    "full_name_en": "Dong Tra Commune",
+    "type": "xã",
+    "district_code": "342",
+    "codename": "dong_tra"
+  },
+  {
+    "code": "12979",
+    "name": "Đông Long",
+    "name_en": "Dong Long",
+    "full_name": "Xã Đông Long",
+    "full_name_en": "Dong Long Commune",
+    "type": "xã",
+    "district_code": "342",
+    "codename": "dong_long"
+  },
+  {
+    "code": "12985",
+    "name": "Vũ Lăng",
+    "name_en": "Vu Lang",
+    "full_name": "Xã Vũ Lăng",
+    "full_name_en": "Vu Lang Commune",
+    "type": "xã",
+    "district_code": "342",
+    "codename": "vu_lang"
+  },
+  {
+    "code": "12988",
+    "name": "Đông Xuyên",
+    "name_en": "Dong Xuyen",
+    "full_name": "Xã Đông Xuyên",
+    "full_name_en": "Dong Xuyen Commune",
+    "type": "xã",
+    "district_code": "342",
+    "codename": "dong_xuyen"
+  },
+  {
+    "code": "12991",
+    "name": "Tây Lương",
+    "name_en": "Tay Luong",
+    "full_name": "Xã Tây Lương",
+    "full_name_en": "Tay Luong Commune",
+    "type": "xã",
+    "district_code": "342",
+    "codename": "tay_luong"
+  },
+  {
+    "code": "12994",
+    "name": "Tây Ninh",
+    "name_en": "Tay Ninh",
+    "full_name": "Xã Tây Ninh",
+    "full_name_en": "Tay Ninh Commune",
+    "type": "xã",
+    "district_code": "342",
+    "codename": "tay_ninh"
+  },
+  {
+    "code": "12997",
+    "name": "Đông Quang",
+    "name_en": "Dong Quang",
+    "full_name": "Xã Đông Quang",
+    "full_name_en": "Dong Quang Commune",
+    "type": "xã",
+    "district_code": "342",
+    "codename": "dong_quang"
+  },
+  {
+    "code": "13000",
+    "name": "Đông Hoàng",
+    "name_en": "Dong Hoang",
+    "full_name": "Xã Đông Hoàng",
+    "full_name_en": "Dong Hoang Commune",
+    "type": "xã",
+    "district_code": "342",
+    "codename": "dong_hoang"
+  },
+  {
+    "code": "13003",
+    "name": "Đông Minh",
+    "name_en": "Dong Minh",
+    "full_name": "Xã Đông Minh",
+    "full_name_en": "Dong Minh Commune",
+    "type": "xã",
+    "district_code": "342",
+    "codename": "dong_minh"
+  },
+  {
+    "code": "13012",
+    "name": "An Ninh",
+    "name_en": "An Ninh",
+    "full_name": "Xã An Ninh",
+    "full_name_en": "An Ninh Commune",
+    "type": "xã",
+    "district_code": "342",
+    "codename": "an_ninh"
+  },
+  {
+    "code": "13018",
+    "name": "Đông Cơ",
+    "name_en": "Dong Co",
+    "full_name": "Xã Đông Cơ",
+    "full_name_en": "Dong Co Commune",
+    "type": "xã",
+    "district_code": "342",
+    "codename": "dong_co"
+  },
+  {
+    "code": "13021",
+    "name": "Tây Giang",
+    "name_en": "Tay Giang",
+    "full_name": "Xã Tây Giang",
+    "full_name_en": "Tay Giang Commune",
+    "type": "xã",
+    "district_code": "342",
+    "codename": "tay_giang"
+  },
+  {
+    "code": "13024",
+    "name": "Đông Lâm",
+    "name_en": "Dong Lam",
+    "full_name": "Xã Đông Lâm",
+    "full_name_en": "Dong Lam Commune",
+    "type": "xã",
+    "district_code": "342",
+    "codename": "dong_lam"
+  },
+  {
+    "code": "13027",
+    "name": "Phương Công",
+    "name_en": "Phuong Cong",
+    "full_name": "Xã Phương Công",
+    "full_name_en": "Phuong Cong Commune",
+    "type": "xã",
+    "district_code": "342",
+    "codename": "phuong_cong"
+  },
+  {
+    "code": "13030",
+    "name": "Ái Quốc",
+    "name_en": "Ai Quoc",
+    "full_name": "Xã Ái Quốc",
+    "full_name_en": "Ai Quoc Commune",
+    "type": "xã",
+    "district_code": "342",
+    "codename": "ai_quoc"
+  },
+  {
+    "code": "13036",
+    "name": "Nam Cường",
+    "name_en": "Nam Cuong",
+    "full_name": "Xã Nam Cường",
+    "full_name_en": "Nam Cuong Commune",
+    "type": "xã",
+    "district_code": "342",
+    "codename": "nam_cuong"
+  },
+  {
+    "code": "13039",
+    "name": "Vân Trường",
+    "name_en": "Van Truong",
+    "full_name": "Xã Vân Trường",
+    "full_name_en": "Van Truong Commune",
+    "type": "xã",
+    "district_code": "342",
+    "codename": "van_truong"
+  },
+  {
+    "code": "13045",
+    "name": "Nam Chính",
+    "name_en": "Nam Chinh",
+    "full_name": "Xã Nam Chính",
+    "full_name_en": "Nam Chinh Commune",
+    "type": "xã",
+    "district_code": "342",
+    "codename": "nam_chinh"
+  },
+  {
+    "code": "13048",
+    "name": "Bắc Hải",
+    "name_en": "Bac Hai",
+    "full_name": "Xã Bắc Hải",
+    "full_name_en": "Bac Hai Commune",
+    "type": "xã",
+    "district_code": "342",
+    "codename": "bac_hai"
+  },
+  {
+    "code": "13051",
+    "name": "Nam Thịnh",
+    "name_en": "Nam Thinh",
+    "full_name": "Xã Nam Thịnh",
+    "full_name_en": "Nam Thinh Commune",
+    "type": "xã",
+    "district_code": "342",
+    "codename": "nam_thinh"
+  },
+  {
+    "code": "13054",
+    "name": "Nam Hà",
+    "name_en": "Nam Ha",
+    "full_name": "Xã Nam Hà",
+    "full_name_en": "Nam Ha Commune",
+    "type": "xã",
+    "district_code": "342",
+    "codename": "nam_ha"
+  },
+  {
+    "code": "13057",
+    "name": "Nam Tiến",
+    "name_en": "Nam Tien",
+    "full_name": "Xã Nam Tiến",
+    "full_name_en": "Nam Tien Commune",
+    "type": "xã",
+    "district_code": "342",
+    "codename": "nam_tien"
+  },
+  {
+    "code": "13060",
+    "name": "Nam Trung",
+    "name_en": "Nam Trung",
+    "full_name": "Xã Nam Trung",
+    "full_name_en": "Nam Trung Commune",
+    "type": "xã",
+    "district_code": "342",
+    "codename": "nam_trung"
+  },
+  {
+    "code": "13063",
+    "name": "Nam Hồng",
+    "name_en": "Nam Hong",
+    "full_name": "Xã Nam Hồng",
+    "full_name_en": "Nam Hong Commune",
+    "type": "xã",
+    "district_code": "342",
+    "codename": "nam_hong"
+  },
+  {
+    "code": "13066",
+    "name": "Nam Hưng",
+    "name_en": "Nam Hung",
+    "full_name": "Xã Nam Hưng",
+    "full_name_en": "Nam Hung Commune",
+    "type": "xã",
+    "district_code": "342",
+    "codename": "nam_hung"
+  },
+  {
+    "code": "13069",
+    "name": "Nam Hải",
+    "name_en": "Nam Hai",
+    "full_name": "Xã Nam Hải",
+    "full_name_en": "Nam Hai Commune",
+    "type": "xã",
+    "district_code": "342",
+    "codename": "nam_hai"
+  },
+  {
+    "code": "13072",
+    "name": "Nam Phú",
+    "name_en": "Nam Phu",
+    "full_name": "Xã Nam Phú",
+    "full_name_en": "Nam Phu Commune",
+    "type": "xã",
+    "district_code": "342",
+    "codename": "nam_phu"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "code": "23110",
+    "name": "Thuận Nam",
+    "name_en": "Thuan Nam",
+    "full_name": "Thị trấn Thuận Nam",
+    "full_name_en": "Thuan Nam Township",
+    "type": "thị trấn",
+    "district_code": "598",
+    "codename": "thuan_nam"
+  },
+  {
+    "code": "23113",
+    "name": "Mỹ Thạnh",
+    "name_en": "My Thanh",
+    "full_name": "Xã Mỹ Thạnh",
+    "full_name_en": "My Thanh Commune",
+    "type": "xã",
+    "district_code": "598",
+    "codename": "my_thanh"
+  },
+  {
+    "code": "23116",
+    "name": "Hàm Cần",
+    "name_en": "Ham Can",
+    "full_name": "Xã Hàm Cần",
+    "full_name_en": "Ham Can Commune",
+    "type": "xã",
+    "district_code": "598",
+    "codename": "ham_can"
+  },
+  {
+    "code": "23119",
+    "name": "Mương Mán",
+    "name_en": "Muong Man",
+    "full_name": "Xã Mương Mán",
+    "full_name_en": "Muong Man Commune",
+    "type": "xã",
+    "district_code": "598",
+    "codename": "muong_man"
+  },
+  {
+    "code": "23122",
+    "name": "Hàm Thạnh",
+    "name_en": "Ham Thanh",
+    "full_name": "Xã Hàm Thạnh",
+    "full_name_en": "Ham Thanh Commune",
+    "type": "xã",
+    "district_code": "598",
+    "codename": "ham_thanh"
+  },
+  {
+    "code": "23125",
+    "name": "Hàm Kiệm",
+    "name_en": "Ham Kiem",
+    "full_name": "Xã Hàm Kiệm",
+    "full_name_en": "Ham Kiem Commune",
+    "type": "xã",
+    "district_code": "598",
+    "codename": "ham_kiem"
+  },
+  {
+    "code": "23128",
+    "name": "Hàm Cường",
+    "name_en": "Ham Cuong",
+    "full_name": "Xã Hàm Cường",
+    "full_name_en": "Ham Cuong Commune",
+    "type": "xã",
+    "district_code": "598",
+    "codename": "ham_cuong"
+  },
+  {
+    "code": "23131",
+    "name": "Hàm Mỹ",
+    "name_en": "Ham My",
+    "full_name": "Xã Hàm Mỹ",
+    "full_name_en": "Ham My Commune",
+    "type": "xã",
+    "district_code": "598",
+    "codename": "ham_my"
+  },
+  {
+    "code": "23134",
+    "name": "Tân Lập",
+    "name_en": "Tan Lap",
+    "full_name": "Xã Tân Lập",
+    "full_name_en": "Tan Lap Commune",
+    "type": "xã",
+    "district_code": "598",
+    "codename": "tan_lap"
+  },
+  {
+    "code": "23137",
+    "name": "Hàm Minh",
+    "name_en": "Ham Minh",
+    "full_name": "Xã Hàm Minh",
+    "full_name_en": "Ham Minh Commune",
+    "type": "xã",
+    "district_code": "598",
+    "codename": "ham_minh"
+  },
+  {
+    "code": "23140",
+    "name": "Thuận Quí",
+    "name_en": "Thuan Qui",
+    "full_name": "Xã Thuận Quí",
+    "full_name_en": "Thuan Qui Commune",
+    "type": "xã",
+    "district_code": "598",
+    "codename": "thuan_qui"
+  },
+  {
+    "code": "23143",
+    "name": "Tân Thuận",
+    "name_en": "Tan Thuan",
+    "full_name": "Xã Tân Thuận",
+    "full_name_en": "Tan Thuan Commune",
+    "type": "xã",
+    "district_code": "598",
+    "codename": "tan_thuan"
+  },
+  {
+    "code": "23146",
+    "name": "Tân Thành",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thành",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "598",
+    "codename": "tan_thanh"
+  }
+]

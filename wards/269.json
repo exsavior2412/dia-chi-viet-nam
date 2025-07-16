@@ -1,0 +1,132 @@
+[
+  {
+    "code": "09574",
+    "name": "Ngô Quyền",
+    "name_en": "Ngo Quyen",
+    "full_name": "Phường Ngô Quyền",
+    "full_name_en": "Ngo Quyen Ward",
+    "type": "phường",
+    "district_code": "269",
+    "codename": "ngo_quyen"
+  },
+  {
+    "code": "09577",
+    "name": "Phú Thịnh",
+    "name_en": "Phu Thinh",
+    "full_name": "Phường Phú Thịnh",
+    "full_name_en": "Phu Thinh Ward",
+    "type": "phường",
+    "district_code": "269",
+    "codename": "phu_thinh"
+  },
+  {
+    "code": "09586",
+    "name": "Sơn Lộc",
+    "name_en": "Son Loc",
+    "full_name": "Phường Sơn Lộc",
+    "full_name_en": "Son Loc Ward",
+    "type": "phường",
+    "district_code": "269",
+    "codename": "son_loc"
+  },
+  {
+    "code": "09589",
+    "name": "Xuân Khanh",
+    "name_en": "Xuan Khanh",
+    "full_name": "Phường Xuân Khanh",
+    "full_name_en": "Xuan Khanh Ward",
+    "type": "phường",
+    "district_code": "269",
+    "codename": "xuan_khanh"
+  },
+  {
+    "code": "09592",
+    "name": "Đường Lâm",
+    "name_en": "Duong Lam",
+    "full_name": "Xã Đường Lâm",
+    "full_name_en": "Duong Lam Commune",
+    "type": "xã",
+    "district_code": "269",
+    "codename": "duong_lam"
+  },
+  {
+    "code": "09595",
+    "name": "Viên Sơn",
+    "name_en": "Vien Son",
+    "full_name": "Phường Viên Sơn",
+    "full_name_en": "Vien Son Ward",
+    "type": "phường",
+    "district_code": "269",
+    "codename": "vien_son"
+  },
+  {
+    "code": "09598",
+    "name": "Xuân Sơn",
+    "name_en": "Xuan Son",
+    "full_name": "Xã Xuân Sơn",
+    "full_name_en": "Xuan Son Commune",
+    "type": "xã",
+    "district_code": "269",
+    "codename": "xuan_son"
+  },
+  {
+    "code": "09601",
+    "name": "Trung Hưng",
+    "name_en": "Trung Hung",
+    "full_name": "Phường Trung Hưng",
+    "full_name_en": "Trung Hung Ward",
+    "type": "phường",
+    "district_code": "269",
+    "codename": "trung_hung"
+  },
+  {
+    "code": "09604",
+    "name": "Thanh Mỹ",
+    "name_en": "Thanh My",
+    "full_name": "Xã Thanh Mỹ",
+    "full_name_en": "Thanh My Commune",
+    "type": "xã",
+    "district_code": "269",
+    "codename": "thanh_my"
+  },
+  {
+    "code": "09607",
+    "name": "Trung Sơn Trầm",
+    "name_en": "Trung Son Tram",
+    "full_name": "Phường Trung Sơn Trầm",
+    "full_name_en": "Trung Son Tram Ward",
+    "type": "phường",
+    "district_code": "269",
+    "codename": "trung_son_tram"
+  },
+  {
+    "code": "09610",
+    "name": "Kim Sơn",
+    "name_en": "Kim Son",
+    "full_name": "Xã Kim Sơn",
+    "full_name_en": "Kim Son Commune",
+    "type": "xã",
+    "district_code": "269",
+    "codename": "kim_son"
+  },
+  {
+    "code": "09613",
+    "name": "Sơn Đông",
+    "name_en": "Son Dong",
+    "full_name": "Xã Sơn Đông",
+    "full_name_en": "Son Dong Commune",
+    "type": "xã",
+    "district_code": "269",
+    "codename": "son_dong"
+  },
+  {
+    "code": "09616",
+    "name": "Cổ Đông",
+    "name_en": "Co Dong",
+    "full_name": "Xã Cổ Đông",
+    "full_name_en": "Co Dong Commune",
+    "type": "xã",
+    "district_code": "269",
+    "codename": "co_dong"
+  }
+]

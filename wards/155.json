@@ -1,0 +1,162 @@
+[
+  {
+    "code": "05128",
+    "name": "Mãn Đức",
+    "name_en": "Man Duc",
+    "full_name": "Thị trấn Mãn Đức",
+    "full_name_en": "Man Duc Township",
+    "type": "thị trấn",
+    "district_code": "155",
+    "codename": "man_duc"
+  },
+  {
+    "code": "05134",
+    "name": "Suối Hoa",
+    "name_en": "Suoi Hoa",
+    "full_name": "Xã Suối Hoa",
+    "full_name_en": "Suoi Hoa Commune",
+    "type": "xã",
+    "district_code": "155",
+    "codename": "suoi_hoa"
+  },
+  {
+    "code": "05137",
+    "name": "Phú Vinh",
+    "name_en": "Phu Vinh",
+    "full_name": "Xã Phú Vinh",
+    "full_name_en": "Phu Vinh Commune",
+    "type": "xã",
+    "district_code": "155",
+    "codename": "phu_vinh"
+  },
+  {
+    "code": "05140",
+    "name": "Phú Cường",
+    "name_en": "Phu Cuong",
+    "full_name": "Xã Phú Cường",
+    "full_name_en": "Phu Cuong Commune",
+    "type": "xã",
+    "district_code": "155",
+    "codename": "phu_cuong"
+  },
+  {
+    "code": "05143",
+    "name": "Mỹ Hòa",
+    "name_en": "My Hoa",
+    "full_name": "Xã Mỹ Hòa",
+    "full_name_en": "My Hoa Commune",
+    "type": "xã",
+    "district_code": "155",
+    "codename": "my_hoa"
+  },
+  {
+    "code": "05152",
+    "name": "Quyết Chiến",
+    "name_en": "Quyet Chien",
+    "full_name": "Xã Quyết Chiến",
+    "full_name_en": "Quyet Chien Commune",
+    "type": "xã",
+    "district_code": "155",
+    "codename": "quyet_chien"
+  },
+  {
+    "code": "05158",
+    "name": "Phong Phú",
+    "name_en": "Phong Phu",
+    "full_name": "Xã Phong Phú",
+    "full_name_en": "Phong Phu Commune",
+    "type": "xã",
+    "district_code": "155",
+    "codename": "phong_phu"
+  },
+  {
+    "code": "05164",
+    "name": "Tử Nê",
+    "name_en": "Tu Ne",
+    "full_name": "Xã Tử Nê",
+    "full_name_en": "Tu Ne Commune",
+    "type": "xã",
+    "district_code": "155",
+    "codename": "tu_ne"
+  },
+  {
+    "code": "05167",
+    "name": "Thanh Hối",
+    "name_en": "Thanh Hoi",
+    "full_name": "Xã Thanh Hối",
+    "full_name_en": "Thanh Hoi Commune",
+    "type": "xã",
+    "district_code": "155",
+    "codename": "thanh_hoi"
+  },
+  {
+    "code": "05170",
+    "name": "Ngọc Mỹ",
+    "name_en": "Ngoc My",
+    "full_name": "Xã Ngọc Mỹ",
+    "full_name_en": "Ngoc My Commune",
+    "type": "xã",
+    "district_code": "155",
+    "codename": "ngoc_my"
+  },
+  {
+    "code": "05173",
+    "name": "Đông Lai",
+    "name_en": "Dong Lai",
+    "full_name": "Xã Đông Lai",
+    "full_name_en": "Dong Lai Commune",
+    "type": "xã",
+    "district_code": "155",
+    "codename": "dong_lai"
+  },
+  {
+    "code": "05176",
+    "name": "Vân Sơn",
+    "name_en": "Van Son",
+    "full_name": "Xã Vân Sơn",
+    "full_name_en": "Van Son Commune",
+    "type": "xã",
+    "district_code": "155",
+    "codename": "van_son"
+  },
+  {
+    "code": "05182",
+    "name": "Nhân Mỹ",
+    "name_en": "Nhan My",
+    "full_name": "Xã Nhân Mỹ",
+    "full_name_en": "Nhan My Commune",
+    "type": "xã",
+    "district_code": "155",
+    "codename": "nhan_my"
+  },
+  {
+    "code": "05191",
+    "name": "Lỗ Sơn",
+    "name_en": "Lo Son",
+    "full_name": "Xã Lỗ Sơn",
+    "full_name_en": "Lo Son Commune",
+    "type": "xã",
+    "district_code": "155",
+    "codename": "lo_son"
+  },
+  {
+    "code": "05194",
+    "name": "Ngổ Luông",
+    "name_en": "Ngo Luong",
+    "full_name": "Xã Ngổ Luông",
+    "full_name_en": "Ngo Luong Commune",
+    "type": "xã",
+    "district_code": "155",
+    "codename": "ngo_luong"
+  },
+  {
+    "code": "05197",
+    "name": "Gia Mô",
+    "name_en": "Gia Mo",
+    "full_name": "Xã Gia Mô",
+    "full_name_en": "Gia Mo Commune",
+    "type": "xã",
+    "district_code": "155",
+    "codename": "gia_mo"
+  }
+]

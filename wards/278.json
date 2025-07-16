@@ -1,0 +1,202 @@
+[
+  {
+    "code": "10114",
+    "name": "Kim Bài",
+    "name_en": "Kim Bai",
+    "full_name": "Thị trấn Kim Bài",
+    "full_name_en": "Kim Bai Township",
+    "type": "thị trấn",
+    "district_code": "278",
+    "codename": "kim_bai"
+  },
+  {
+    "code": "10120",
+    "name": "Cự Khê",
+    "name_en": "Cu Khe",
+    "full_name": "Xã Cự Khê",
+    "full_name_en": "Cu Khe Commune",
+    "type": "xã",
+    "district_code": "278",
+    "codename": "cu_khe"
+  },
+  {
+    "code": "10126",
+    "name": "Bích Hòa",
+    "name_en": "Bich Hoa",
+    "full_name": "Xã Bích Hòa",
+    "full_name_en": "Bich Hoa Commune",
+    "type": "xã",
+    "district_code": "278",
+    "codename": "bich_hoa"
+  },
+  {
+    "code": "10129",
+    "name": "Mỹ Hưng",
+    "name_en": "My Hung",
+    "full_name": "Xã Mỹ Hưng",
+    "full_name_en": "My Hung Commune",
+    "type": "xã",
+    "district_code": "278",
+    "codename": "my_hung"
+  },
+  {
+    "code": "10132",
+    "name": "Cao Viên",
+    "name_en": "Cao Vien",
+    "full_name": "Xã Cao Viên",
+    "full_name_en": "Cao Vien Commune",
+    "type": "xã",
+    "district_code": "278",
+    "codename": "cao_vien"
+  },
+  {
+    "code": "10135",
+    "name": "Bình Minh",
+    "name_en": "Binh Minh",
+    "full_name": "Xã Bình Minh",
+    "full_name_en": "Binh Minh Commune",
+    "type": "xã",
+    "district_code": "278",
+    "codename": "binh_minh"
+  },
+  {
+    "code": "10138",
+    "name": "Tam Hưng",
+    "name_en": "Tam Hung",
+    "full_name": "Xã Tam Hưng",
+    "full_name_en": "Tam Hung Commune",
+    "type": "xã",
+    "district_code": "278",
+    "codename": "tam_hung"
+  },
+  {
+    "code": "10141",
+    "name": "Thanh Cao",
+    "name_en": "Thanh Cao",
+    "full_name": "Xã Thanh Cao",
+    "full_name_en": "Thanh Cao Commune",
+    "type": "xã",
+    "district_code": "278",
+    "codename": "thanh_cao"
+  },
+  {
+    "code": "10144",
+    "name": "Thanh Thùy",
+    "name_en": "Thanh Thuy",
+    "full_name": "Xã Thanh Thùy",
+    "full_name_en": "Thanh Thuy Commune",
+    "type": "xã",
+    "district_code": "278",
+    "codename": "thanh_thuy"
+  },
+  {
+    "code": "10147",
+    "name": "Thanh Mai",
+    "name_en": "Thanh Mai",
+    "full_name": "Xã Thanh Mai",
+    "full_name_en": "Thanh Mai Commune",
+    "type": "xã",
+    "district_code": "278",
+    "codename": "thanh_mai"
+  },
+  {
+    "code": "10150",
+    "name": "Thanh Văn",
+    "name_en": "Thanh Van",
+    "full_name": "Xã Thanh Văn",
+    "full_name_en": "Thanh Van Commune",
+    "type": "xã",
+    "district_code": "278",
+    "codename": "thanh_van"
+  },
+  {
+    "code": "10153",
+    "name": "Đỗ Động",
+    "name_en": "Do Dong",
+    "full_name": "Xã Đỗ Động",
+    "full_name_en": "Do Dong Commune",
+    "type": "xã",
+    "district_code": "278",
+    "codename": "do_dong"
+  },
+  {
+    "code": "10156",
+    "name": "Kim An",
+    "name_en": "Kim An",
+    "full_name": "Xã Kim An",
+    "full_name_en": "Kim An Commune",
+    "type": "xã",
+    "district_code": "278",
+    "codename": "kim_an"
+  },
+  {
+    "code": "10159",
+    "name": "Kim Thư",
+    "name_en": "Kim Thu",
+    "full_name": "Xã Kim Thư",
+    "full_name_en": "Kim Thu Commune",
+    "type": "xã",
+    "district_code": "278",
+    "codename": "kim_thu"
+  },
+  {
+    "code": "10162",
+    "name": "Phương Trung",
+    "name_en": "Phuong Trung",
+    "full_name": "Xã Phương Trung",
+    "full_name_en": "Phuong Trung Commune",
+    "type": "xã",
+    "district_code": "278",
+    "codename": "phuong_trung"
+  },
+  {
+    "code": "10165",
+    "name": "Tân Ước",
+    "name_en": "Tan Uoc",
+    "full_name": "Xã Tân Ước",
+    "full_name_en": "Tan Uoc Commune",
+    "type": "xã",
+    "district_code": "278",
+    "codename": "tan_uoc"
+  },
+  {
+    "code": "10168",
+    "name": "Dân Hòa",
+    "name_en": "Dan Hoa",
+    "full_name": "Xã Dân Hòa",
+    "full_name_en": "Dan Hoa Commune",
+    "type": "xã",
+    "district_code": "278",
+    "codename": "dan_hoa"
+  },
+  {
+    "code": "10171",
+    "name": "Liên Châu",
+    "name_en": "Lien Chau",
+    "full_name": "Xã Liên Châu",
+    "full_name_en": "Lien Chau Commune",
+    "type": "xã",
+    "district_code": "278",
+    "codename": "lien_chau"
+  },
+  {
+    "code": "10174",
+    "name": "Cao Xuân Dương",
+    "name_en": "Cao Xuan Duong",
+    "full_name": "Xã Cao Xuân Dương",
+    "full_name_en": "Cao Xuan Duong Commune",
+    "type": "xã",
+    "district_code": "278",
+    "codename": "cao_xuan_duong"
+  },
+  {
+    "code": "10180",
+    "name": "Hồng Dương",
+    "name_en": "Hong Duong",
+    "full_name": "Xã Hồng Dương",
+    "full_name_en": "Hong Duong Commune",
+    "type": "xã",
+    "district_code": "278",
+    "codename": "hong_duong"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "code": "29542",
+    "name": "9",
+    "name_en": "9",
+    "full_name": "Phường 9",
+    "full_name_en": "Ward 9",
+    "type": "phường",
+    "district_code": "855",
+    "codename": "9"
+  },
+  {
+    "code": "29545",
+    "name": "5",
+    "name_en": "5",
+    "full_name": "Phường 5",
+    "full_name_en": "Ward 5",
+    "type": "phường",
+    "district_code": "855",
+    "codename": "5"
+  },
+  {
+    "code": "29551",
+    "name": "1",
+    "name_en": "1",
+    "full_name": "Phường 1",
+    "full_name_en": "Ward 1",
+    "type": "phường",
+    "district_code": "855",
+    "codename": "1"
+  },
+  {
+    "code": "29554",
+    "name": "4",
+    "name_en": "4",
+    "full_name": "Phường 4",
+    "full_name_en": "Ward 4",
+    "type": "phường",
+    "district_code": "855",
+    "codename": "4"
+  },
+  {
+    "code": "29557",
+    "name": "3",
+    "name_en": "3",
+    "full_name": "Phường 3",
+    "full_name_en": "Ward 3",
+    "type": "phường",
+    "district_code": "855",
+    "codename": "3"
+  },
+  {
+    "code": "29560",
+    "name": "8",
+    "name_en": "8",
+    "full_name": "Phường 8",
+    "full_name_en": "Ward 8",
+    "type": "phường",
+    "district_code": "855",
+    "codename": "8"
+  },
+  {
+    "code": "29563",
+    "name": "Tân Ngãi",
+    "name_en": "Tan Ngai",
+    "full_name": "Phường Tân Ngãi",
+    "full_name_en": "Tan Ngai Ward",
+    "type": "phường",
+    "district_code": "855",
+    "codename": "tan_ngai"
+  },
+  {
+    "code": "29566",
+    "name": "Tân Hòa",
+    "name_en": "Tan Hoa",
+    "full_name": "Phường Tân Hòa",
+    "full_name_en": "Tan Hoa Ward",
+    "type": "phường",
+    "district_code": "855",
+    "codename": "tan_hoa"
+  },
+  {
+    "code": "29569",
+    "name": "Tân Hội",
+    "name_en": "Tan Hoi",
+    "full_name": "Phường Tân Hội",
+    "full_name_en": "Tan Hoi Ward",
+    "type": "phường",
+    "district_code": "855",
+    "codename": "tan_hoi"
+  },
+  {
+    "code": "29572",
+    "name": "Trường An",
+    "name_en": "Truong An",
+    "full_name": "Phường Trường An",
+    "full_name_en": "Truong An Ward",
+    "type": "phường",
+    "district_code": "855",
+    "codename": "truong_an"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "code": "26620",
+    "name": "Phước Bửu",
+    "name_en": "Phuoc Buu",
+    "full_name": "Thị trấn Phước Bửu",
+    "full_name_en": "Phuoc Buu Township",
+    "type": "thị trấn",
+    "district_code": "751",
+    "codename": "phuoc_buu"
+  },
+  {
+    "code": "26623",
+    "name": "Phước Thuận",
+    "name_en": "Phuoc Thuan",
+    "full_name": "Xã Phước Thuận",
+    "full_name_en": "Phuoc Thuan Commune",
+    "type": "xã",
+    "district_code": "751",
+    "codename": "phuoc_thuan"
+  },
+  {
+    "code": "26626",
+    "name": "Phước Tân",
+    "name_en": "Phuoc Tan",
+    "full_name": "Xã Phước Tân",
+    "full_name_en": "Phuoc Tan Commune",
+    "type": "xã",
+    "district_code": "751",
+    "codename": "phuoc_tan"
+  },
+  {
+    "code": "26629",
+    "name": "Xuyên Mộc",
+    "name_en": "Xuyen Moc",
+    "full_name": "Xã Xuyên Mộc",
+    "full_name_en": "Xuyen Moc Commune",
+    "type": "xã",
+    "district_code": "751",
+    "codename": "xuyen_moc"
+  },
+  {
+    "code": "26632",
+    "name": "Bông Trang",
+    "name_en": "Bong Trang",
+    "full_name": "Xã Bông Trang",
+    "full_name_en": "Bong Trang Commune",
+    "type": "xã",
+    "district_code": "751",
+    "codename": "bong_trang"
+  },
+  {
+    "code": "26635",
+    "name": "Tân Lâm",
+    "name_en": "Tan Lam",
+    "full_name": "Xã Tân Lâm",
+    "full_name_en": "Tan Lam Commune",
+    "type": "xã",
+    "district_code": "751",
+    "codename": "tan_lam"
+  },
+  {
+    "code": "26638",
+    "name": "Bàu Lâm",
+    "name_en": "Bau Lam",
+    "full_name": "Xã Bàu Lâm",
+    "full_name_en": "Bau Lam Commune",
+    "type": "xã",
+    "district_code": "751",
+    "codename": "bau_lam"
+  },
+  {
+    "code": "26641",
+    "name": "Hòa Bình",
+    "name_en": "Hoa Binh",
+    "full_name": "Xã Hòa Bình",
+    "full_name_en": "Hoa Binh Commune",
+    "type": "xã",
+    "district_code": "751",
+    "codename": "hoa_binh"
+  },
+  {
+    "code": "26644",
+    "name": "Hòa Hưng",
+    "name_en": "Hoa Hung",
+    "full_name": "Xã Hòa Hưng",
+    "full_name_en": "Hoa Hung Commune",
+    "type": "xã",
+    "district_code": "751",
+    "codename": "hoa_hung"
+  },
+  {
+    "code": "26647",
+    "name": "Hòa Hiệp",
+    "name_en": "Hoa Hiep",
+    "full_name": "Xã Hòa Hiệp",
+    "full_name_en": "Hoa Hiep Commune",
+    "type": "xã",
+    "district_code": "751",
+    "codename": "hoa_hiep"
+  },
+  {
+    "code": "26650",
+    "name": "Hòa Hội",
+    "name_en": "Hoa Hoi",
+    "full_name": "Xã Hòa Hội",
+    "full_name_en": "Hoa Hoi Commune",
+    "type": "xã",
+    "district_code": "751",
+    "codename": "hoa_hoi"
+  },
+  {
+    "code": "26653",
+    "name": "Bưng Riềng",
+    "name_en": "Bung Rieng",
+    "full_name": "Xã Bưng Riềng",
+    "full_name_en": "Bung Rieng Commune",
+    "type": "xã",
+    "district_code": "751",
+    "codename": "bung_rieng"
+  },
+  {
+    "code": "26656",
+    "name": "Bình Châu",
+    "name_en": "Binh Chau",
+    "full_name": "Xã Bình Châu",
+    "full_name_en": "Binh Chau Commune",
+    "type": "xã",
+    "district_code": "751",
+    "codename": "binh_chau"
+  }
+]

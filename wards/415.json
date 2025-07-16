@@ -1,0 +1,132 @@
+[
+  {
+    "code": "16738",
+    "name": "Kim Sơn",
+    "name_en": "Kim Son",
+    "full_name": "Thị trấn Kim Sơn",
+    "full_name_en": "Kim Son Township",
+    "type": "thị trấn",
+    "district_code": "415",
+    "codename": "kim_son"
+  },
+  {
+    "code": "16741",
+    "name": "Thông Thụ",
+    "name_en": "Thong Thu",
+    "full_name": "Xã Thông Thụ",
+    "full_name_en": "Thong Thu Commune",
+    "type": "xã",
+    "district_code": "415",
+    "codename": "thong_thu"
+  },
+  {
+    "code": "16744",
+    "name": "Đồng Văn",
+    "name_en": "Dong Van",
+    "full_name": "Xã Đồng Văn",
+    "full_name_en": "Dong Van Commune",
+    "type": "xã",
+    "district_code": "415",
+    "codename": "dong_van"
+  },
+  {
+    "code": "16747",
+    "name": "Hạnh Dịch",
+    "name_en": "Hanh Dich",
+    "full_name": "Xã Hạnh Dịch",
+    "full_name_en": "Hanh Dich Commune",
+    "type": "xã",
+    "district_code": "415",
+    "codename": "hanh_dich"
+  },
+  {
+    "code": "16750",
+    "name": "Tiền Phong",
+    "name_en": "Tien Phong",
+    "full_name": "Xã Tiền Phong",
+    "full_name_en": "Tien Phong Commune",
+    "type": "xã",
+    "district_code": "415",
+    "codename": "tien_phong"
+  },
+  {
+    "code": "16753",
+    "name": "Nậm Giải",
+    "name_en": "Nam Giai",
+    "full_name": "Xã Nậm Giải",
+    "full_name_en": "Nam Giai Commune",
+    "type": "xã",
+    "district_code": "415",
+    "codename": "nam_giai"
+  },
+  {
+    "code": "16756",
+    "name": "Tri Lễ",
+    "name_en": "Tri Le",
+    "full_name": "Xã Tri Lễ",
+    "full_name_en": "Tri Le Commune",
+    "type": "xã",
+    "district_code": "415",
+    "codename": "tri_le"
+  },
+  {
+    "code": "16759",
+    "name": "Châu Kim",
+    "name_en": "Chau Kim",
+    "full_name": "Xã Châu Kim",
+    "full_name_en": "Chau Kim Commune",
+    "type": "xã",
+    "district_code": "415",
+    "codename": "chau_kim"
+  },
+  {
+    "code": "16763",
+    "name": "Mường Nọc",
+    "name_en": "Muong Noc",
+    "full_name": "Xã Mường Nọc",
+    "full_name_en": "Muong Noc Commune",
+    "type": "xã",
+    "district_code": "415",
+    "codename": "muong_noc"
+  },
+  {
+    "code": "16765",
+    "name": "Châu Thôn",
+    "name_en": "Chau Thon",
+    "full_name": "Xã Châu Thôn",
+    "full_name_en": "Chau Thon Commune",
+    "type": "xã",
+    "district_code": "415",
+    "codename": "chau_thon"
+  },
+  {
+    "code": "16768",
+    "name": "Nậm Nhoóng",
+    "name_en": "Nam Nhoong",
+    "full_name": "Xã Nậm Nhoóng",
+    "full_name_en": "Nam Nhoong Commune",
+    "type": "xã",
+    "district_code": "415",
+    "codename": "nam_nhoong"
+  },
+  {
+    "code": "16771",
+    "name": "Quang Phong",
+    "name_en": "Quang Phong",
+    "full_name": "Xã Quang Phong",
+    "full_name_en": "Quang Phong Commune",
+    "type": "xã",
+    "district_code": "415",
+    "codename": "quang_phong"
+  },
+  {
+    "code": "16774",
+    "name": "Căm Muộn",
+    "name_en": "Cam Muon",
+    "full_name": "Xã Căm Muộn",
+    "full_name_en": "Cam Muon Commune",
+    "type": "xã",
+    "district_code": "415",
+    "codename": "cam_muon"
+  }
+]

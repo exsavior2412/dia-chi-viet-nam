@@ -1,0 +1,82 @@
+[
+  {
+    "code": "24540",
+    "name": "Ea Ning",
+    "name_en": "Ea Ning",
+    "full_name": "Xã Ea Ning",
+    "full_name_en": "Ea Ning Commune",
+    "type": "xã",
+    "district_code": "657",
+    "codename": "ea_ning"
+  },
+  {
+    "code": "24541",
+    "name": "Cư Ê Wi",
+    "name_en": "Cu E Wi",
+    "full_name": "Xã Cư Ê Wi",
+    "full_name_en": "Cu E Wi Commune",
+    "type": "xã",
+    "district_code": "657",
+    "codename": "cu_e_wi"
+  },
+  {
+    "code": "24544",
+    "name": "Ea Ktur",
+    "name_en": "Ea Ktur",
+    "full_name": "Xã Ea Ktur",
+    "full_name_en": "Ea Ktur Commune",
+    "type": "xã",
+    "district_code": "657",
+    "codename": "ea_ktur"
+  },
+  {
+    "code": "24547",
+    "name": "Ea Tiêu",
+    "name_en": "Ea Tieu",
+    "full_name": "Xã Ea Tiêu",
+    "full_name_en": "Ea Tieu Commune",
+    "type": "xã",
+    "district_code": "657",
+    "codename": "ea_tieu"
+  },
+  {
+    "code": "24550",
+    "name": "Ea BHốk",
+    "name_en": "Ea BHok",
+    "full_name": "Xã Ea BHốk",
+    "full_name_en": "Ea BHok Commune",
+    "type": "xã",
+    "district_code": "657",
+    "codename": "ea_bhok"
+  },
+  {
+    "code": "24553",
+    "name": "Ea Hu",
+    "name_en": "Ea Hu",
+    "full_name": "Xã Ea Hu",
+    "full_name_en": "Ea Hu Commune",
+    "type": "xã",
+    "district_code": "657",
+    "codename": "ea_hu"
+  },
+  {
+    "code": "24561",
+    "name": "Dray Bhăng",
+    "name_en": "Dray Bhang",
+    "full_name": "Xã Dray Bhăng",
+    "full_name_en": "Dray Bhang Commune",
+    "type": "xã",
+    "district_code": "657",
+    "codename": "dray_bhang"
+  },
+  {
+    "code": "24562",
+    "name": "Hòa Hiệp",
+    "name_en": "Hoa Hiep",
+    "full_name": "Xã Hòa Hiệp",
+    "full_name_en": "Hoa Hiep Commune",
+    "type": "xã",
+    "district_code": "657",
+    "codename": "hoa_hiep"
+  }
+]

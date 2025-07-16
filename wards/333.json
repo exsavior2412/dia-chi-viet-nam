@@ -1,0 +1,132 @@
+[
+  {
+    "code": "12391",
+    "name": "Trần Cao",
+    "name_en": "Tran Cao",
+    "full_name": "Thị trấn Trần Cao",
+    "full_name_en": "Tran Cao Township",
+    "type": "thị trấn",
+    "district_code": "333",
+    "codename": "tran_cao"
+  },
+  {
+    "code": "12394",
+    "name": "Minh Tân",
+    "name_en": "Minh Tan",
+    "full_name": "Xã Minh Tân",
+    "full_name_en": "Minh Tan Commune",
+    "type": "xã",
+    "district_code": "333",
+    "codename": "minh_tan"
+  },
+  {
+    "code": "12397",
+    "name": "Phan Sào Nam",
+    "name_en": "Phan Sao Nam",
+    "full_name": "Xã Phan Sào Nam",
+    "full_name_en": "Phan Sao Nam Commune",
+    "type": "xã",
+    "district_code": "333",
+    "codename": "phan_sao_nam"
+  },
+  {
+    "code": "12400",
+    "name": "Quang Hưng",
+    "name_en": "Quang Hung",
+    "full_name": "Xã Quang Hưng",
+    "full_name_en": "Quang Hung Commune",
+    "type": "xã",
+    "district_code": "333",
+    "codename": "quang_hung"
+  },
+  {
+    "code": "12403",
+    "name": "Minh Hoàng",
+    "name_en": "Minh Hoang",
+    "full_name": "Xã Minh Hoàng",
+    "full_name_en": "Minh Hoang Commune",
+    "type": "xã",
+    "district_code": "333",
+    "codename": "minh_hoang"
+  },
+  {
+    "code": "12406",
+    "name": "Đoàn Đào",
+    "name_en": "Doan Dao",
+    "full_name": "Xã Đoàn Đào",
+    "full_name_en": "Doan Dao Commune",
+    "type": "xã",
+    "district_code": "333",
+    "codename": "doan_dao"
+  },
+  {
+    "code": "12409",
+    "name": "Tống Phan",
+    "name_en": "Tong Phan",
+    "full_name": "Xã Tống Phan",
+    "full_name_en": "Tong Phan Commune",
+    "type": "xã",
+    "district_code": "333",
+    "codename": "tong_phan"
+  },
+  {
+    "code": "12412",
+    "name": "Đình Cao",
+    "name_en": "Dinh Cao",
+    "full_name": "Xã Đình Cao",
+    "full_name_en": "Dinh Cao Commune",
+    "type": "xã",
+    "district_code": "333",
+    "codename": "dinh_cao"
+  },
+  {
+    "code": "12415",
+    "name": "Nhật Quang",
+    "name_en": "Nhat Quang",
+    "full_name": "Xã Nhật Quang",
+    "full_name_en": "Nhat Quang Commune",
+    "type": "xã",
+    "district_code": "333",
+    "codename": "nhat_quang"
+  },
+  {
+    "code": "12421",
+    "name": "Tam Đa",
+    "name_en": "Tam Da",
+    "full_name": "Xã Tam Đa",
+    "full_name_en": "Tam Da Commune",
+    "type": "xã",
+    "district_code": "333",
+    "codename": "tam_da"
+  },
+  {
+    "code": "12424",
+    "name": "Tiên Tiến",
+    "name_en": "Tien Tien",
+    "full_name": "Xã Tiên Tiến",
+    "full_name_en": "Tien Tien Commune",
+    "type": "xã",
+    "district_code": "333",
+    "codename": "tien_tien"
+  },
+  {
+    "code": "12427",
+    "name": "Nguyên Hòa",
+    "name_en": "Nguyen Hoa",
+    "full_name": "Xã Nguyên Hòa",
+    "full_name_en": "Nguyen Hoa Commune",
+    "type": "xã",
+    "district_code": "333",
+    "codename": "nguyen_hoa"
+  },
+  {
+    "code": "12430",
+    "name": "Tống Trân",
+    "name_en": "Tong Tran",
+    "full_name": "Xã Tống Trân",
+    "full_name_en": "Tong Tran Commune",
+    "type": "xã",
+    "district_code": "333",
+    "codename": "tong_tran"
+  }
+]

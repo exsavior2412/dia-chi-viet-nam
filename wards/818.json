@@ -1,0 +1,122 @@
+[
+  {
+    "code": "28321",
+    "name": "Mỹ Phước",
+    "name_en": "My Phuoc",
+    "full_name": "Thị trấn Mỹ Phước",
+    "full_name_en": "My Phuoc Township",
+    "type": "thị trấn",
+    "district_code": "818",
+    "codename": "my_phuoc"
+  },
+  {
+    "code": "28324",
+    "name": "Tân Hòa Đông",
+    "name_en": "Tan Hoa Dong",
+    "full_name": "Xã Tân Hòa Đông",
+    "full_name_en": "Tan Hoa Dong Commune",
+    "type": "xã",
+    "district_code": "818",
+    "codename": "tan_hoa_dong"
+  },
+  {
+    "code": "28327",
+    "name": "Thạnh Tân",
+    "name_en": "Thanh Tan",
+    "full_name": "Xã Thạnh Tân",
+    "full_name_en": "Thanh Tan Commune",
+    "type": "xã",
+    "district_code": "818",
+    "codename": "thanh_tan"
+  },
+  {
+    "code": "28330",
+    "name": "Thạnh Mỹ",
+    "name_en": "Thanh My",
+    "full_name": "Xã Thạnh Mỹ",
+    "full_name_en": "Thanh My Commune",
+    "type": "xã",
+    "district_code": "818",
+    "codename": "thanh_my"
+  },
+  {
+    "code": "28333",
+    "name": "Thạnh Hoà",
+    "name_en": "Thanh Hoa",
+    "full_name": "Xã Thạnh Hoà",
+    "full_name_en": "Thanh Hoa Commune",
+    "type": "xã",
+    "district_code": "818",
+    "codename": "thanh_hoa"
+  },
+  {
+    "code": "28336",
+    "name": "Phú Mỹ",
+    "name_en": "Phu My",
+    "full_name": "Xã Phú Mỹ",
+    "full_name_en": "Phu My Commune",
+    "type": "xã",
+    "district_code": "818",
+    "codename": "phu_my"
+  },
+  {
+    "code": "28339",
+    "name": "Tân Hòa Thành",
+    "name_en": "Tan Hoa Thanh",
+    "full_name": "Xã Tân Hòa Thành",
+    "full_name_en": "Tan Hoa Thanh Commune",
+    "type": "xã",
+    "district_code": "818",
+    "codename": "tan_hoa_thanh"
+  },
+  {
+    "code": "28342",
+    "name": "Hưng Thạnh",
+    "name_en": "Hung Thanh",
+    "full_name": "Xã Hưng Thạnh",
+    "full_name_en": "Hung Thanh Commune",
+    "type": "xã",
+    "district_code": "818",
+    "codename": "hung_thanh"
+  },
+  {
+    "code": "28345",
+    "name": "Tân Lập 1",
+    "name_en": "Tan Lap 1",
+    "full_name": "Xã Tân Lập 1",
+    "full_name_en": "Commune Tan Lap 1",
+    "type": "xã",
+    "district_code": "818",
+    "codename": "tan_lap_1"
+  },
+  {
+    "code": "28348",
+    "name": "Tân Hòa Tây",
+    "name_en": "Tan Hoa Tay",
+    "full_name": "Xã Tân Hòa Tây",
+    "full_name_en": "Tan Hoa Tay Commune",
+    "type": "xã",
+    "district_code": "818",
+    "codename": "tan_hoa_tay"
+  },
+  {
+    "code": "28354",
+    "name": "Tân Lập 2",
+    "name_en": "Tan Lap 2",
+    "full_name": "Xã Tân Lập 2",
+    "full_name_en": "Commune Tan Lap 2",
+    "type": "xã",
+    "district_code": "818",
+    "codename": "tan_lap_2"
+  },
+  {
+    "code": "28357",
+    "name": "Phước Lập",
+    "name_en": "Phuoc Lap",
+    "full_name": "Xã Phước Lập",
+    "full_name_en": "Phuoc Lap Commune",
+    "type": "xã",
+    "district_code": "818",
+    "codename": "phuoc_lap"
+  }
+]

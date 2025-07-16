@@ -1,0 +1,232 @@
+[
+  {
+    "code": "08542",
+    "name": "Thanh Sơn",
+    "name_en": "Thanh Son",
+    "full_name": "Thị trấn Thanh Sơn",
+    "full_name_en": "Thanh Son Township",
+    "type": "thị trấn",
+    "district_code": "238",
+    "codename": "thanh_son"
+  },
+  {
+    "code": "08563",
+    "name": "Sơn Hùng",
+    "name_en": "Son Hung",
+    "full_name": "Xã Sơn Hùng",
+    "full_name_en": "Son Hung Commune",
+    "type": "xã",
+    "district_code": "238",
+    "codename": "son_hung"
+  },
+  {
+    "code": "08572",
+    "name": "Địch Quả",
+    "name_en": "Dich Qua",
+    "full_name": "Xã Địch Quả",
+    "full_name_en": "Dich Qua Commune",
+    "type": "xã",
+    "district_code": "238",
+    "codename": "dich_qua"
+  },
+  {
+    "code": "08575",
+    "name": "Giáp Lai",
+    "name_en": "Giap Lai",
+    "full_name": "Xã Giáp Lai",
+    "full_name_en": "Giap Lai Commune",
+    "type": "xã",
+    "district_code": "238",
+    "codename": "giap_lai"
+  },
+  {
+    "code": "08581",
+    "name": "Thục Luyện",
+    "name_en": "Thuc Luyen",
+    "full_name": "Xã Thục Luyện",
+    "full_name_en": "Thuc Luyen Commune",
+    "type": "xã",
+    "district_code": "238",
+    "codename": "thuc_luyen"
+  },
+  {
+    "code": "08584",
+    "name": "Võ Miếu",
+    "name_en": "Vo Mieu",
+    "full_name": "Xã Võ Miếu",
+    "full_name_en": "Vo Mieu Commune",
+    "type": "xã",
+    "district_code": "238",
+    "codename": "vo_mieu"
+  },
+  {
+    "code": "08587",
+    "name": "Thạch Khoán",
+    "name_en": "Thach Khoan",
+    "full_name": "Xã Thạch Khoán",
+    "full_name_en": "Thach Khoan Commune",
+    "type": "xã",
+    "district_code": "238",
+    "codename": "thach_khoan"
+  },
+  {
+    "code": "08602",
+    "name": "Cự Thắng",
+    "name_en": "Cu Thang",
+    "full_name": "Xã Cự Thắng",
+    "full_name_en": "Cu Thang Commune",
+    "type": "xã",
+    "district_code": "238",
+    "codename": "cu_thang"
+  },
+  {
+    "code": "08605",
+    "name": "Tất Thắng",
+    "name_en": "Tat Thang",
+    "full_name": "Xã Tất Thắng",
+    "full_name_en": "Tat Thang Commune",
+    "type": "xã",
+    "district_code": "238",
+    "codename": "tat_thang"
+  },
+  {
+    "code": "08611",
+    "name": "Văn Miếu",
+    "name_en": "Van Mieu",
+    "full_name": "Xã Văn Miếu",
+    "full_name_en": "Van Mieu Commune",
+    "type": "xã",
+    "district_code": "238",
+    "codename": "van_mieu"
+  },
+  {
+    "code": "08614",
+    "name": "Cự Đồng",
+    "name_en": "Cu Dong",
+    "full_name": "Xã Cự Đồng",
+    "full_name_en": "Cu Dong Commune",
+    "type": "xã",
+    "district_code": "238",
+    "codename": "cu_dong"
+  },
+  {
+    "code": "08623",
+    "name": "Thắng Sơn",
+    "name_en": "Thang Son",
+    "full_name": "Xã Thắng Sơn",
+    "full_name_en": "Thang Son Commune",
+    "type": "xã",
+    "district_code": "238",
+    "codename": "thang_son"
+  },
+  {
+    "code": "08629",
+    "name": "Tân Minh",
+    "name_en": "Tan Minh",
+    "full_name": "Xã Tân Minh",
+    "full_name_en": "Tan Minh Commune",
+    "type": "xã",
+    "district_code": "238",
+    "codename": "tan_minh"
+  },
+  {
+    "code": "08632",
+    "name": "Hương Cần",
+    "name_en": "Huong Can",
+    "full_name": "Xã Hương Cần",
+    "full_name_en": "Huong Can Commune",
+    "type": "xã",
+    "district_code": "238",
+    "codename": "huong_can"
+  },
+  {
+    "code": "08635",
+    "name": "Khả Cửu",
+    "name_en": "Kha Cuu",
+    "full_name": "Xã Khả Cửu",
+    "full_name_en": "Kha Cuu Commune",
+    "type": "xã",
+    "district_code": "238",
+    "codename": "kha_cuu"
+  },
+  {
+    "code": "08638",
+    "name": "Đông Cửu",
+    "name_en": "Dong Cuu",
+    "full_name": "Xã Đông Cửu",
+    "full_name_en": "Dong Cuu Commune",
+    "type": "xã",
+    "district_code": "238",
+    "codename": "dong_cuu"
+  },
+  {
+    "code": "08641",
+    "name": "Tân Lập",
+    "name_en": "Tan Lap",
+    "full_name": "Xã Tân Lập",
+    "full_name_en": "Tan Lap Commune",
+    "type": "xã",
+    "district_code": "238",
+    "codename": "tan_lap"
+  },
+  {
+    "code": "08644",
+    "name": "Yên Lãng",
+    "name_en": "Yen Lang",
+    "full_name": "Xã Yên Lãng",
+    "full_name_en": "Yen Lang Commune",
+    "type": "xã",
+    "district_code": "238",
+    "codename": "yen_lang"
+  },
+  {
+    "code": "08647",
+    "name": "Yên Lương",
+    "name_en": "Yen Luong",
+    "full_name": "Xã Yên Lương",
+    "full_name_en": "Yen Luong Commune",
+    "type": "xã",
+    "district_code": "238",
+    "codename": "yen_luong"
+  },
+  {
+    "code": "08650",
+    "name": "Thượng Cửu",
+    "name_en": "Thuong Cuu",
+    "full_name": "Xã Thượng Cửu",
+    "full_name_en": "Thuong Cuu Commune",
+    "type": "xã",
+    "district_code": "238",
+    "codename": "thuong_cuu"
+  },
+  {
+    "code": "08653",
+    "name": "Lương Nha",
+    "name_en": "Luong Nha",
+    "full_name": "Xã Lương Nha",
+    "full_name_en": "Luong Nha Commune",
+    "type": "xã",
+    "district_code": "238",
+    "codename": "luong_nha"
+  },
+  {
+    "code": "08656",
+    "name": "Yên Sơn",
+    "name_en": "Yen Son",
+    "full_name": "Xã Yên Sơn",
+    "full_name_en": "Yen Son Commune",
+    "type": "xã",
+    "district_code": "238",
+    "codename": "yen_son"
+  },
+  {
+    "code": "08659",
+    "name": "Tinh Nhuệ",
+    "name_en": "Tinh Nhue",
+    "full_name": "Xã Tinh Nhuệ",
+    "full_name_en": "Tinh Nhue Commune",
+    "type": "xã",
+    "district_code": "238",
+    "codename": "tinh_nhue"
+  }
+]

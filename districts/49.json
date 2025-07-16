@@ -1,0 +1,172 @@
+[
+  {
+    "code": "502",
+    "name": "Tam Kỳ",
+    "name_en": "Tam Ky",
+    "full_name": "Thành phố Tam Kỳ",
+    "full_name_en": "Tam Ky City",
+    "type": "thành phố",
+    "province_code": "49",
+    "codename": "tam_ky"
+  },
+  {
+    "code": "503",
+    "name": "Hội An",
+    "name_en": "Hoi An",
+    "full_name": "Thành phố Hội An",
+    "full_name_en": "Hoi An City",
+    "type": "thành phố",
+    "province_code": "49",
+    "codename": "hoi_an"
+  },
+  {
+    "code": "504",
+    "name": "Tây Giang",
+    "name_en": "Tay Giang",
+    "full_name": "Huyện Tây Giang",
+    "full_name_en": "Tay Giang District",
+    "type": "huyện",
+    "province_code": "49",
+    "codename": "tay_giang"
+  },
+  {
+    "code": "505",
+    "name": "Đông Giang",
+    "name_en": "Dong Giang",
+    "full_name": "Huyện Đông Giang",
+    "full_name_en": "Dong Giang District",
+    "type": "huyện",
+    "province_code": "49",
+    "codename": "dong_giang"
+  },
+  {
+    "code": "506",
+    "name": "Đại Lộc",
+    "name_en": "Dai Loc",
+    "full_name": "Huyện Đại Lộc",
+    "full_name_en": "Dai Loc District",
+    "type": "huyện",
+    "province_code": "49",
+    "codename": "dai_loc"
+  },
+  {
+    "code": "507",
+    "name": "Điện Bàn",
+    "name_en": "Dien Ban",
+    "full_name": "Thị xã Điện Bàn",
+    "full_name_en": "Dien Ban Town",
+    "type": "thị xã",
+    "province_code": "49",
+    "codename": "dien_ban"
+  },
+  {
+    "code": "508",
+    "name": "Duy Xuyên",
+    "name_en": "Duy Xuyen",
+    "full_name": "Huyện Duy Xuyên",
+    "full_name_en": "Duy Xuyen District",
+    "type": "huyện",
+    "province_code": "49",
+    "codename": "duy_xuyen"
+  },
+  {
+    "code": "509",
+    "name": "Quế Sơn",
+    "name_en": "Que Son",
+    "full_name": "Huyện Quế Sơn",
+    "full_name_en": "Que Son District",
+    "type": "huyện",
+    "province_code": "49",
+    "codename": "que_son"
+  },
+  {
+    "code": "510",
+    "name": "Nam Giang",
+    "name_en": "Nam Giang",
+    "full_name": "Huyện Nam Giang",
+    "full_name_en": "Nam Giang District",
+    "type": "huyện",
+    "province_code": "49",
+    "codename": "nam_giang"
+  },
+  {
+    "code": "511",
+    "name": "Phước Sơn",
+    "name_en": "Phuoc Son",
+    "full_name": "Huyện Phước Sơn",
+    "full_name_en": "Phuoc Son District",
+    "type": "huyện",
+    "province_code": "49",
+    "codename": "phuoc_son"
+  },
+  {
+    "code": "512",
+    "name": "Hiệp Đức",
+    "name_en": "Hiep Duc",
+    "full_name": "Huyện Hiệp Đức",
+    "full_name_en": "Hiep Duc District",
+    "type": "huyện",
+    "province_code": "49",
+    "codename": "hiep_duc"
+  },
+  {
+    "code": "513",
+    "name": "Thăng Bình",
+    "name_en": "Thang Binh",
+    "full_name": "Huyện Thăng Bình",
+    "full_name_en": "Thang Binh District",
+    "type": "huyện",
+    "province_code": "49",
+    "codename": "thang_binh"
+  },
+  {
+    "code": "514",
+    "name": "Tiên Phước",
+    "name_en": "Tien Phuoc",
+    "full_name": "Huyện Tiên Phước",
+    "full_name_en": "Tien Phuoc District",
+    "type": "huyện",
+    "province_code": "49",
+    "codename": "tien_phuoc"
+  },
+  {
+    "code": "515",
+    "name": "Bắc Trà My",
+    "name_en": "Bac Tra My",
+    "full_name": "Huyện Bắc Trà My",
+    "full_name_en": "Bac Tra My District",
+    "type": "huyện",
+    "province_code": "49",
+    "codename": "bac_tra_my"
+  },
+  {
+    "code": "516",
+    "name": "Nam Trà My",
+    "name_en": "Nam Tra My",
+    "full_name": "Huyện Nam Trà My",
+    "full_name_en": "Nam Tra My District",
+    "type": "huyện",
+    "province_code": "49",
+    "codename": "nam_tra_my"
+  },
+  {
+    "code": "517",
+    "name": "Núi Thành",
+    "name_en": "Nui Thanh",
+    "full_name": "Huyện Núi Thành",
+    "full_name_en": "Nui Thanh District",
+    "type": "huyện",
+    "province_code": "49",
+    "codename": "nui_thanh"
+  },
+  {
+    "code": "518",
+    "name": "Phú Ninh",
+    "name_en": "Phu Ninh",
+    "full_name": "Huyện Phú Ninh",
+    "full_name_en": "Phu Ninh District",
+    "type": "huyện",
+    "province_code": "49",
+    "codename": "phu_ninh"
+  }
+]

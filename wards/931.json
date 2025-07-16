@@ -1,0 +1,62 @@
+[
+  {
+    "code": "31340",
+    "name": "Ngã Bảy",
+    "name_en": "Nga Bay",
+    "full_name": "Phường Ngã Bảy",
+    "full_name_en": "Nga Bay Ward",
+    "type": "phường",
+    "district_code": "931",
+    "codename": "nga_bay"
+  },
+  {
+    "code": "31341",
+    "name": "Lái Hiếu",
+    "name_en": "Lai Hieu",
+    "full_name": "Phường Lái Hiếu",
+    "full_name_en": "Lai Hieu Ward",
+    "type": "phường",
+    "district_code": "931",
+    "codename": "lai_hieu"
+  },
+  {
+    "code": "31343",
+    "name": "Hiệp Thành",
+    "name_en": "Hiep Thanh",
+    "full_name": "Phường Hiệp Thành",
+    "full_name_en": "Hiep Thanh Ward",
+    "type": "phường",
+    "district_code": "931",
+    "codename": "hiep_thanh"
+  },
+  {
+    "code": "31344",
+    "name": "Hiệp Lợi",
+    "name_en": "Hiep Loi",
+    "full_name": "Phường Hiệp Lợi",
+    "full_name_en": "Hiep Loi Ward",
+    "type": "phường",
+    "district_code": "931",
+    "codename": "hiep_loi"
+  },
+  {
+    "code": "31411",
+    "name": "Đại Thành",
+    "name_en": "Dai Thanh",
+    "full_name": "Xã Đại Thành",
+    "full_name_en": "Dai Thanh Commune",
+    "type": "xã",
+    "district_code": "931",
+    "codename": "dai_thanh"
+  },
+  {
+    "code": "31414",
+    "name": "Tân Thành",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thành",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "931",
+    "codename": "tan_thanh"
+  }
+]

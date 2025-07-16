@@ -1,0 +1,132 @@
+[
+  {
+    "code": "00874",
+    "name": "Tam Sơn",
+    "name_en": "Tam Son",
+    "full_name": "Thị trấn Tam Sơn",
+    "full_name_en": "Tam Son Township",
+    "type": "thị trấn",
+    "district_code": "029",
+    "codename": "tam_son"
+  },
+  {
+    "code": "00877",
+    "name": "Bát Đại Sơn",
+    "name_en": "Bat Dai Son",
+    "full_name": "Xã Bát Đại Sơn",
+    "full_name_en": "Bat Dai Son Commune",
+    "type": "xã",
+    "district_code": "029",
+    "codename": "bat_dai_son"
+  },
+  {
+    "code": "00880",
+    "name": "Nghĩa Thuận",
+    "name_en": "Nghia Thuan",
+    "full_name": "Xã Nghĩa Thuận",
+    "full_name_en": "Nghia Thuan Commune",
+    "type": "xã",
+    "district_code": "029",
+    "codename": "nghia_thuan"
+  },
+  {
+    "code": "00883",
+    "name": "Cán Tỷ",
+    "name_en": "Can Ty",
+    "full_name": "Xã Cán Tỷ",
+    "full_name_en": "Can Ty Commune",
+    "type": "xã",
+    "district_code": "029",
+    "codename": "can_ty"
+  },
+  {
+    "code": "00886",
+    "name": "Cao Mã Pờ",
+    "name_en": "Cao Ma Po",
+    "full_name": "Xã Cao Mã Pờ",
+    "full_name_en": "Cao Ma Po Commune",
+    "type": "xã",
+    "district_code": "029",
+    "codename": "cao_ma_po"
+  },
+  {
+    "code": "00889",
+    "name": "Thanh Vân",
+    "name_en": "Thanh Van",
+    "full_name": "Xã Thanh Vân",
+    "full_name_en": "Thanh Van Commune",
+    "type": "xã",
+    "district_code": "029",
+    "codename": "thanh_van"
+  },
+  {
+    "code": "00892",
+    "name": "Tùng Vài",
+    "name_en": "Tung Vai",
+    "full_name": "Xã Tùng Vài",
+    "full_name_en": "Tung Vai Commune",
+    "type": "xã",
+    "district_code": "029",
+    "codename": "tung_vai"
+  },
+  {
+    "code": "00895",
+    "name": "Đông Hà",
+    "name_en": "Dong Ha",
+    "full_name": "Xã Đông Hà",
+    "full_name_en": "Dong Ha Commune",
+    "type": "xã",
+    "district_code": "029",
+    "codename": "dong_ha"
+  },
+  {
+    "code": "00898",
+    "name": "Quản Bạ",
+    "name_en": "Quan Ba",
+    "full_name": "Xã Quản Bạ",
+    "full_name_en": "Quan Ba Commune",
+    "type": "xã",
+    "district_code": "029",
+    "codename": "quan_ba"
+  },
+  {
+    "code": "00901",
+    "name": "Lùng Tám",
+    "name_en": "Lung Tam",
+    "full_name": "Xã Lùng Tám",
+    "full_name_en": "Lung Tam Commune",
+    "type": "xã",
+    "district_code": "029",
+    "codename": "lung_tam"
+  },
+  {
+    "code": "00904",
+    "name": "Quyết Tiến",
+    "name_en": "Quyet Tien",
+    "full_name": "Xã Quyết Tiến",
+    "full_name_en": "Quyet Tien Commune",
+    "type": "xã",
+    "district_code": "029",
+    "codename": "quyet_tien"
+  },
+  {
+    "code": "00907",
+    "name": "Tả Ván",
+    "name_en": "Ta Van",
+    "full_name": "Xã Tả Ván",
+    "full_name_en": "Ta Van Commune",
+    "type": "xã",
+    "district_code": "029",
+    "codename": "ta_van"
+  },
+  {
+    "code": "00910",
+    "name": "Thái An",
+    "name_en": "Thai An",
+    "full_name": "Xã Thái An",
+    "full_name_en": "Thai An Commune",
+    "type": "xã",
+    "district_code": "029",
+    "codename": "thai_an"
+  }
+]

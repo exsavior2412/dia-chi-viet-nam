@@ -1,0 +1,82 @@
+[
+  {
+    "code": "24611",
+    "name": "Nghĩa Đức",
+    "name_en": "Nghia Duc",
+    "full_name": "Phường Nghĩa Đức",
+    "full_name_en": "Nghia Duc Ward",
+    "type": "phường",
+    "district_code": "660",
+    "codename": "nghia_duc"
+  },
+  {
+    "code": "24612",
+    "name": "Nghĩa Thành",
+    "name_en": "Nghia Thanh",
+    "full_name": "Phường Nghĩa Thành",
+    "full_name_en": "Nghia Thanh Ward",
+    "type": "phường",
+    "district_code": "660",
+    "codename": "nghia_thanh"
+  },
+  {
+    "code": "24614",
+    "name": "Nghĩa Phú",
+    "name_en": "Nghia Phu",
+    "full_name": "Phường Nghĩa Phú",
+    "full_name_en": "Nghia Phu Ward",
+    "type": "phường",
+    "district_code": "660",
+    "codename": "nghia_phu"
+  },
+  {
+    "code": "24615",
+    "name": "Nghĩa Tân",
+    "name_en": "Nghia Tan",
+    "full_name": "Phường Nghĩa Tân",
+    "full_name_en": "Nghia Tan Ward",
+    "type": "phường",
+    "district_code": "660",
+    "codename": "nghia_tan"
+  },
+  {
+    "code": "24617",
+    "name": "Nghĩa Trung",
+    "name_en": "Nghia Trung",
+    "full_name": "Phường Nghĩa Trung",
+    "full_name_en": "Nghia Trung Ward",
+    "type": "phường",
+    "district_code": "660",
+    "codename": "nghia_trung"
+  },
+  {
+    "code": "24618",
+    "name": "Đăk R'Moan",
+    "name_en": "Dak R'Moan",
+    "full_name": "Xã Đăk R'Moan",
+    "full_name_en": "Dak R'Moan Commune",
+    "type": "xã",
+    "district_code": "660",
+    "codename": "dak_rmoan"
+  },
+  {
+    "code": "24619",
+    "name": "Quảng Thành",
+    "name_en": "Quang Thanh",
+    "full_name": "Phường Quảng Thành",
+    "full_name_en": "Quang Thanh Ward",
+    "type": "phường",
+    "district_code": "660",
+    "codename": "quang_thanh"
+  },
+  {
+    "code": "24628",
+    "name": "Đắk Nia",
+    "name_en": "Dak Nia",
+    "full_name": "Xã Đắk Nia",
+    "full_name_en": "Dak Nia Commune",
+    "type": "xã",
+    "district_code": "660",
+    "codename": "dak_nia"
+  }
+]

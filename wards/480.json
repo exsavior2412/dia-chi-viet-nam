@@ -1,0 +1,92 @@
+[
+  {
+    "code": "19996",
+    "name": "Tứ Hạ",
+    "name_en": "Tu Ha",
+    "full_name": "Phường Tứ Hạ",
+    "full_name_en": "Tu Ha Ward",
+    "type": "phường",
+    "district_code": "480",
+    "codename": "tu_ha"
+  },
+  {
+    "code": "20005",
+    "name": "Hương Toàn",
+    "name_en": "Huong Toan",
+    "full_name": "Xã Hương Toàn",
+    "full_name_en": "Huong Toan Commune",
+    "type": "xã",
+    "district_code": "480",
+    "codename": "huong_toan"
+  },
+  {
+    "code": "20008",
+    "name": "Hương Vân",
+    "name_en": "Huong Van",
+    "full_name": "Phường Hương Vân",
+    "full_name_en": "Huong Van Ward",
+    "type": "phường",
+    "district_code": "480",
+    "codename": "huong_van"
+  },
+  {
+    "code": "20011",
+    "name": "Hương Văn",
+    "name_en": "Huong Van",
+    "full_name": "Phường Hương Văn",
+    "full_name_en": "Huong Van Ward",
+    "type": "phường",
+    "district_code": "480",
+    "codename": "huong_van"
+  },
+  {
+    "code": "20017",
+    "name": "Hương Xuân",
+    "name_en": "Huong Xuan",
+    "full_name": "Phường Hương Xuân",
+    "full_name_en": "Huong Xuan Ward",
+    "type": "phường",
+    "district_code": "480",
+    "codename": "huong_xuan"
+  },
+  {
+    "code": "20020",
+    "name": "Hương Chữ",
+    "name_en": "Huong Chu",
+    "full_name": "Phường Hương Chữ",
+    "full_name_en": "Huong Chu Ward",
+    "type": "phường",
+    "district_code": "480",
+    "codename": "huong_chu"
+  },
+  {
+    "code": "20026",
+    "name": "Hương Bình",
+    "name_en": "Huong Binh",
+    "full_name": "Xã Hương Bình",
+    "full_name_en": "Huong Binh Commune",
+    "type": "xã",
+    "district_code": "480",
+    "codename": "huong_binh"
+  },
+  {
+    "code": "20035",
+    "name": "Bình Tiến",
+    "name_en": "Binh Tien",
+    "full_name": "Xã Bình Tiến",
+    "full_name_en": "Binh Tien Commune",
+    "type": "xã",
+    "district_code": "480",
+    "codename": "binh_tien"
+  },
+  {
+    "code": "20041",
+    "name": "Bình Thành",
+    "name_en": "Binh Thanh",
+    "full_name": "Xã Bình Thành",
+    "full_name_en": "Binh Thanh Commune",
+    "type": "xã",
+    "district_code": "480",
+    "codename": "binh_thanh"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "code": "05908",
+    "name": "Hương Sơn",
+    "name_en": "Huong Son",
+    "full_name": "Thị trấn Hương Sơn",
+    "full_name_en": "Huong Son Township",
+    "type": "thị trấn",
+    "district_code": "173",
+    "codename": "huong_son"
+  },
+  {
+    "code": "05911",
+    "name": "Bàn Đạt",
+    "name_en": "Ban Dat",
+    "full_name": "Xã Bàn Đạt",
+    "full_name_en": "Ban Dat Commune",
+    "type": "xã",
+    "district_code": "173",
+    "codename": "ban_dat"
+  },
+  {
+    "code": "05917",
+    "name": "Tân Khánh",
+    "name_en": "Tan Khanh",
+    "full_name": "Xã Tân Khánh",
+    "full_name_en": "Tan Khanh Commune",
+    "type": "xã",
+    "district_code": "173",
+    "codename": "tan_khanh"
+  },
+  {
+    "code": "05920",
+    "name": "Tân Kim",
+    "name_en": "Tan Kim",
+    "full_name": "Xã Tân Kim",
+    "full_name_en": "Tan Kim Commune",
+    "type": "xã",
+    "district_code": "173",
+    "codename": "tan_kim"
+  },
+  {
+    "code": "05923",
+    "name": "Tân Thành",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thành",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "173",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "05926",
+    "name": "Đào Xá",
+    "name_en": "Dao Xa",
+    "full_name": "Xã Đào Xá",
+    "full_name_en": "Dao Xa Commune",
+    "type": "xã",
+    "district_code": "173",
+    "codename": "dao_xa"
+  },
+  {
+    "code": "05929",
+    "name": "Bảo Lý",
+    "name_en": "Bao Ly",
+    "full_name": "Xã Bảo Lý",
+    "full_name_en": "Bao Ly Commune",
+    "type": "xã",
+    "district_code": "173",
+    "codename": "bao_ly"
+  },
+  {
+    "code": "05932",
+    "name": "Thượng Đình",
+    "name_en": "Thuong Dinh",
+    "full_name": "Xã Thượng Đình",
+    "full_name_en": "Thuong Dinh Commune",
+    "type": "xã",
+    "district_code": "173",
+    "codename": "thuong_dinh"
+  },
+  {
+    "code": "05935",
+    "name": "Tân Hòa",
+    "name_en": "Tan Hoa",
+    "full_name": "Xã Tân Hòa",
+    "full_name_en": "Tan Hoa Commune",
+    "type": "xã",
+    "district_code": "173",
+    "codename": "tan_hoa"
+  },
+  {
+    "code": "05938",
+    "name": "Nhã Lộng",
+    "name_en": "Nha Long",
+    "full_name": "Xã Nhã Lộng",
+    "full_name_en": "Nha Long Commune",
+    "type": "xã",
+    "district_code": "173",
+    "codename": "nha_long"
+  },
+  {
+    "code": "05941",
+    "name": "Điềm Thụy",
+    "name_en": "Diem Thuy",
+    "full_name": "Xã Điềm Thụy",
+    "full_name_en": "Diem Thuy Commune",
+    "type": "xã",
+    "district_code": "173",
+    "codename": "diem_thuy"
+  },
+  {
+    "code": "05944",
+    "name": "Xuân Phương",
+    "name_en": "Xuan Phuong",
+    "full_name": "Xã Xuân Phương",
+    "full_name_en": "Xuan Phuong Commune",
+    "type": "xã",
+    "district_code": "173",
+    "codename": "xuan_phuong"
+  },
+  {
+    "code": "05947",
+    "name": "Tân Đức",
+    "name_en": "Tan Duc",
+    "full_name": "Xã Tân Đức",
+    "full_name_en": "Tan Duc Commune",
+    "type": "xã",
+    "district_code": "173",
+    "codename": "tan_duc"
+  },
+  {
+    "code": "05950",
+    "name": "Úc Kỳ",
+    "name_en": "Uc Ky",
+    "full_name": "Xã Úc Kỳ",
+    "full_name_en": "Uc Ky Commune",
+    "type": "xã",
+    "district_code": "173",
+    "codename": "uc_ky"
+  },
+  {
+    "code": "05953",
+    "name": "Lương Phú",
+    "name_en": "Luong Phu",
+    "full_name": "Xã Lương Phú",
+    "full_name_en": "Luong Phu Commune",
+    "type": "xã",
+    "district_code": "173",
+    "codename": "luong_phu"
+  },
+  {
+    "code": "05956",
+    "name": "Nga My",
+    "name_en": "Nga My",
+    "full_name": "Xã Nga My",
+    "full_name_en": "Nga My Commune",
+    "type": "xã",
+    "district_code": "173",
+    "codename": "nga_my"
+  },
+  {
+    "code": "05959",
+    "name": "Kha Sơn",
+    "name_en": "Kha Son",
+    "full_name": "Xã Kha Sơn",
+    "full_name_en": "Kha Son Commune",
+    "type": "xã",
+    "district_code": "173",
+    "codename": "kha_son"
+  },
+  {
+    "code": "05962",
+    "name": "Thanh Ninh",
+    "name_en": "Thanh Ninh",
+    "full_name": "Xã Thanh Ninh",
+    "full_name_en": "Thanh Ninh Commune",
+    "type": "xã",
+    "district_code": "173",
+    "codename": "thanh_ninh"
+  },
+  {
+    "code": "05965",
+    "name": "Dương Thành",
+    "name_en": "Duong Thanh",
+    "full_name": "Xã Dương Thành",
+    "full_name_en": "Duong Thanh Commune",
+    "type": "xã",
+    "district_code": "173",
+    "codename": "duong_thanh"
+  },
+  {
+    "code": "05968",
+    "name": "Hà Châu",
+    "name_en": "Ha Chau",
+    "full_name": "Xã Hà Châu",
+    "full_name_en": "Ha Chau Commune",
+    "type": "xã",
+    "district_code": "173",
+    "codename": "ha_chau"
+  }
+]

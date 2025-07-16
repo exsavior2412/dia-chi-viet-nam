@@ -1,0 +1,172 @@
+[
+  {
+    "code": "15127",
+    "name": "Phong Sơn",
+    "name_en": "Phong Son",
+    "full_name": "Thị trấn Phong Sơn",
+    "full_name_en": "Phong Son Township",
+    "type": "thị trấn",
+    "district_code": "390",
+    "codename": "phong_son"
+  },
+  {
+    "code": "15133",
+    "name": "Cẩm Thành",
+    "name_en": "Cam Thanh",
+    "full_name": "Xã Cẩm Thành",
+    "full_name_en": "Cam Thanh Commune",
+    "type": "xã",
+    "district_code": "390",
+    "codename": "cam_thanh"
+  },
+  {
+    "code": "15136",
+    "name": "Cẩm Quý",
+    "name_en": "Cam Quy",
+    "full_name": "Xã Cẩm Quý",
+    "full_name_en": "Cam Quy Commune",
+    "type": "xã",
+    "district_code": "390",
+    "codename": "cam_quy"
+  },
+  {
+    "code": "15139",
+    "name": "Cẩm Lương",
+    "name_en": "Cam Luong",
+    "full_name": "Xã Cẩm Lương",
+    "full_name_en": "Cam Luong Commune",
+    "type": "xã",
+    "district_code": "390",
+    "codename": "cam_luong"
+  },
+  {
+    "code": "15142",
+    "name": "Cẩm Thạch",
+    "name_en": "Cam Thach",
+    "full_name": "Xã Cẩm Thạch",
+    "full_name_en": "Cam Thach Commune",
+    "type": "xã",
+    "district_code": "390",
+    "codename": "cam_thach"
+  },
+  {
+    "code": "15145",
+    "name": "Cẩm Liên",
+    "name_en": "Cam Lien",
+    "full_name": "Xã Cẩm Liên",
+    "full_name_en": "Cam Lien Commune",
+    "type": "xã",
+    "district_code": "390",
+    "codename": "cam_lien"
+  },
+  {
+    "code": "15148",
+    "name": "Cẩm Giang",
+    "name_en": "Cam Giang",
+    "full_name": "Xã Cẩm Giang",
+    "full_name_en": "Cam Giang Commune",
+    "type": "xã",
+    "district_code": "390",
+    "codename": "cam_giang"
+  },
+  {
+    "code": "15151",
+    "name": "Cẩm Bình",
+    "name_en": "Cam Binh",
+    "full_name": "Xã Cẩm Bình",
+    "full_name_en": "Cam Binh Commune",
+    "type": "xã",
+    "district_code": "390",
+    "codename": "cam_binh"
+  },
+  {
+    "code": "15154",
+    "name": "Cẩm Tú",
+    "name_en": "Cam Tu",
+    "full_name": "Xã Cẩm Tú",
+    "full_name_en": "Cam Tu Commune",
+    "type": "xã",
+    "district_code": "390",
+    "codename": "cam_tu"
+  },
+  {
+    "code": "15160",
+    "name": "Cẩm Châu",
+    "name_en": "Cam Chau",
+    "full_name": "Xã Cẩm Châu",
+    "full_name_en": "Cam Chau Commune",
+    "type": "xã",
+    "district_code": "390",
+    "codename": "cam_chau"
+  },
+  {
+    "code": "15163",
+    "name": "Cẩm Tâm",
+    "name_en": "Cam Tam",
+    "full_name": "Xã Cẩm Tâm",
+    "full_name_en": "Cam Tam Commune",
+    "type": "xã",
+    "district_code": "390",
+    "codename": "cam_tam"
+  },
+  {
+    "code": "15169",
+    "name": "Cẩm Ngọc",
+    "name_en": "Cam Ngoc",
+    "full_name": "Xã Cẩm Ngọc",
+    "full_name_en": "Cam Ngoc Commune",
+    "type": "xã",
+    "district_code": "390",
+    "codename": "cam_ngoc"
+  },
+  {
+    "code": "15172",
+    "name": "Cẩm Long",
+    "name_en": "Cam Long",
+    "full_name": "Xã Cẩm Long",
+    "full_name_en": "Cam Long Commune",
+    "type": "xã",
+    "district_code": "390",
+    "codename": "cam_long"
+  },
+  {
+    "code": "15175",
+    "name": "Cẩm Yên",
+    "name_en": "Cam Yen",
+    "full_name": "Xã Cẩm Yên",
+    "full_name_en": "Cam Yen Commune",
+    "type": "xã",
+    "district_code": "390",
+    "codename": "cam_yen"
+  },
+  {
+    "code": "15178",
+    "name": "Cẩm Tân",
+    "name_en": "Cam Tan",
+    "full_name": "Xã Cẩm Tân",
+    "full_name_en": "Cam Tan Commune",
+    "type": "xã",
+    "district_code": "390",
+    "codename": "cam_tan"
+  },
+  {
+    "code": "15181",
+    "name": "Cẩm Phú",
+    "name_en": "Cam Phu",
+    "full_name": "Xã Cẩm Phú",
+    "full_name_en": "Cam Phu Commune",
+    "type": "xã",
+    "district_code": "390",
+    "codename": "cam_phu"
+  },
+  {
+    "code": "15184",
+    "name": "Cẩm Vân",
+    "name_en": "Cam Van",
+    "full_name": "Xã Cẩm Vân",
+    "full_name_en": "Cam Van Commune",
+    "type": "xã",
+    "district_code": "390",
+    "codename": "cam_van"
+  }
+]

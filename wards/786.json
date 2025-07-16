@@ -1,0 +1,72 @@
+[
+  {
+    "code": "27643",
+    "name": "Nhà Bè",
+    "name_en": "Nha Be",
+    "full_name": "Thị trấn Nhà Bè",
+    "full_name_en": "Nha Be Township",
+    "type": "thị trấn",
+    "district_code": "786",
+    "codename": "nha_be"
+  },
+  {
+    "code": "27646",
+    "name": "Phước Kiển",
+    "name_en": "Phuoc Kien",
+    "full_name": "Xã Phước Kiển",
+    "full_name_en": "Phuoc Kien Commune",
+    "type": "xã",
+    "district_code": "786",
+    "codename": "phuoc_kien"
+  },
+  {
+    "code": "27649",
+    "name": "Phước Lộc",
+    "name_en": "Phuoc Loc",
+    "full_name": "Xã Phước Lộc",
+    "full_name_en": "Phuoc Loc Commune",
+    "type": "xã",
+    "district_code": "786",
+    "codename": "phuoc_loc"
+  },
+  {
+    "code": "27652",
+    "name": "Nhơn Đức",
+    "name_en": "Nhon Duc",
+    "full_name": "Xã Nhơn Đức",
+    "full_name_en": "Nhon Duc Commune",
+    "type": "xã",
+    "district_code": "786",
+    "codename": "nhon_duc"
+  },
+  {
+    "code": "27655",
+    "name": "Phú Xuân",
+    "name_en": "Phu Xuan",
+    "full_name": "Xã Phú Xuân",
+    "full_name_en": "Phu Xuan Commune",
+    "type": "xã",
+    "district_code": "786",
+    "codename": "phu_xuan"
+  },
+  {
+    "code": "27658",
+    "name": "Long Thới",
+    "name_en": "Long Thoi",
+    "full_name": "Xã Long Thới",
+    "full_name_en": "Long Thoi Commune",
+    "type": "xã",
+    "district_code": "786",
+    "codename": "long_thoi"
+  },
+  {
+    "code": "27661",
+    "name": "Hiệp Phước",
+    "name_en": "Hiep Phuoc",
+    "full_name": "Xã Hiệp Phước",
+    "full_name_en": "Hiep Phuoc Commune",
+    "type": "xã",
+    "district_code": "786",
+    "codename": "hiep_phuoc"
+  }
+]

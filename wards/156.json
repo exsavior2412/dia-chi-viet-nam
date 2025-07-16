@@ -1,0 +1,162 @@
+[
+  {
+    "code": "04882",
+    "name": "Tân Thành",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thành",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "156",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "05200",
+    "name": "Mai Châu",
+    "name_en": "Mai Chau",
+    "full_name": "Thị trấn Mai Châu",
+    "full_name_en": "Mai Chau Township",
+    "type": "thị trấn",
+    "district_code": "156",
+    "codename": "mai_chau"
+  },
+  {
+    "code": "05206",
+    "name": "Sơn Thủy",
+    "name_en": "Son Thuy",
+    "full_name": "Xã Sơn Thủy",
+    "full_name_en": "Son Thuy Commune",
+    "type": "xã",
+    "district_code": "156",
+    "codename": "son_thuy"
+  },
+  {
+    "code": "05209",
+    "name": "Pà Cò",
+    "name_en": "Pa Co",
+    "full_name": "Xã Pà Cò",
+    "full_name_en": "Pa Co Commune",
+    "type": "xã",
+    "district_code": "156",
+    "codename": "pa_co"
+  },
+  {
+    "code": "05212",
+    "name": "Hang Kia",
+    "name_en": "Hang Kia",
+    "full_name": "Xã Hang Kia",
+    "full_name_en": "Hang Kia Commune",
+    "type": "xã",
+    "district_code": "156",
+    "codename": "hang_kia"
+  },
+  {
+    "code": "05221",
+    "name": "Đồng Tân",
+    "name_en": "Dong Tan",
+    "full_name": "Xã Đồng Tân",
+    "full_name_en": "Dong Tan Commune",
+    "type": "xã",
+    "district_code": "156",
+    "codename": "dong_tan"
+  },
+  {
+    "code": "05224",
+    "name": "Cun Pheo",
+    "name_en": "Cun Pheo",
+    "full_name": "Xã Cun Pheo",
+    "full_name_en": "Cun Pheo Commune",
+    "type": "xã",
+    "district_code": "156",
+    "codename": "cun_pheo"
+  },
+  {
+    "code": "05227",
+    "name": "Bao La",
+    "name_en": "Bao La",
+    "full_name": "Xã Bao La",
+    "full_name_en": "Bao La Commune",
+    "type": "xã",
+    "district_code": "156",
+    "codename": "bao_la"
+  },
+  {
+    "code": "05233",
+    "name": "Tòng Đậu",
+    "name_en": "Tong Dau",
+    "full_name": "Xã Tòng Đậu",
+    "full_name_en": "Tong Dau Commune",
+    "type": "xã",
+    "district_code": "156",
+    "codename": "tong_dau"
+  },
+  {
+    "code": "05242",
+    "name": "Nà Phòn",
+    "name_en": "Na Phon",
+    "full_name": "Xã Nà Phòn",
+    "full_name_en": "Na Phon Commune",
+    "type": "xã",
+    "district_code": "156",
+    "codename": "na_phon"
+  },
+  {
+    "code": "05245",
+    "name": "Săm Khóe",
+    "name_en": "Sam Khoe",
+    "full_name": "Xã Săm Khóe",
+    "full_name_en": "Sam Khoe Commune",
+    "type": "xã",
+    "district_code": "156",
+    "codename": "sam_khoe"
+  },
+  {
+    "code": "05248",
+    "name": "Chiềng Châu",
+    "name_en": "Chieng Chau",
+    "full_name": "Xã Chiềng Châu",
+    "full_name_en": "Chieng Chau Commune",
+    "type": "xã",
+    "district_code": "156",
+    "codename": "chieng_chau"
+  },
+  {
+    "code": "05251",
+    "name": "Mai Hạ",
+    "name_en": "Mai Ha",
+    "full_name": "Xã Mai Hạ",
+    "full_name_en": "Mai Ha Commune",
+    "type": "xã",
+    "district_code": "156",
+    "codename": "mai_ha"
+  },
+  {
+    "code": "05254",
+    "name": "Thành Sơn",
+    "name_en": "Thanh Son",
+    "full_name": "Xã Thành Sơn",
+    "full_name_en": "Thanh Son Commune",
+    "type": "xã",
+    "district_code": "156",
+    "codename": "thanh_son"
+  },
+  {
+    "code": "05257",
+    "name": "Mai Hịch",
+    "name_en": "Mai Hich",
+    "full_name": "Xã Mai Hịch",
+    "full_name_en": "Mai Hich Commune",
+    "type": "xã",
+    "district_code": "156",
+    "codename": "mai_hich"
+  },
+  {
+    "code": "05263",
+    "name": "Vạn Mai",
+    "name_en": "Van Mai",
+    "full_name": "Xã Vạn Mai",
+    "full_name_en": "Van Mai Commune",
+    "type": "xã",
+    "district_code": "156",
+    "codename": "van_mai"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "code": "25195",
+    "name": "Tân Phú",
+    "name_en": "Tan Phu",
+    "full_name": "Phường Tân Phú",
+    "full_name_en": "Tan Phu Ward",
+    "type": "phường",
+    "district_code": "689",
+    "codename": "tan_phu"
+  },
+  {
+    "code": "25198",
+    "name": "Tân Đồng",
+    "name_en": "Tan Dong",
+    "full_name": "Phường Tân Đồng",
+    "full_name_en": "Tan Dong Ward",
+    "type": "phường",
+    "district_code": "689",
+    "codename": "tan_dong"
+  },
+  {
+    "code": "25201",
+    "name": "Tân Bình",
+    "name_en": "Tan Binh",
+    "full_name": "Phường Tân Bình",
+    "full_name_en": "Tan Binh Ward",
+    "type": "phường",
+    "district_code": "689",
+    "codename": "tan_binh"
+  },
+  {
+    "code": "25204",
+    "name": "Tân Xuân",
+    "name_en": "Tan Xuan",
+    "full_name": "Phường Tân Xuân",
+    "full_name_en": "Tan Xuan Ward",
+    "type": "phường",
+    "district_code": "689",
+    "codename": "tan_xuan"
+  },
+  {
+    "code": "25205",
+    "name": "Tân Thiện",
+    "name_en": "Tan Thien",
+    "full_name": "Phường Tân Thiện",
+    "full_name_en": "Tan Thien Ward",
+    "type": "phường",
+    "district_code": "689",
+    "codename": "tan_thien"
+  },
+  {
+    "code": "25207",
+    "name": "Tân Thành",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thành",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "689",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "25210",
+    "name": "Tiến Thành",
+    "name_en": "Tien Thanh",
+    "full_name": "Phường Tiến Thành",
+    "full_name_en": "Tien Thanh Ward",
+    "type": "phường",
+    "district_code": "689",
+    "codename": "tien_thanh"
+  },
+  {
+    "code": "25213",
+    "name": "Tiến Hưng",
+    "name_en": "Tien Hung",
+    "full_name": "Xã Tiến Hưng",
+    "full_name_en": "Tien Hung Commune",
+    "type": "xã",
+    "district_code": "689",
+    "codename": "tien_hung"
+  }
+]

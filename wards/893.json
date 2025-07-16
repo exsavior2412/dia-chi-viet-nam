@@ -1,0 +1,182 @@
+[
+  {
+    "code": "30628",
+    "name": "Chợ Mới",
+    "name_en": "Cho Moi",
+    "full_name": "Thị trấn Chợ Mới",
+    "full_name_en": "Cho Moi Township",
+    "type": "thị trấn",
+    "district_code": "893",
+    "codename": "cho_moi"
+  },
+  {
+    "code": "30631",
+    "name": "Mỹ Luông",
+    "name_en": "My Luong",
+    "full_name": "Thị trấn Mỹ Luông",
+    "full_name_en": "My Luong Township",
+    "type": "thị trấn",
+    "district_code": "893",
+    "codename": "my_luong"
+  },
+  {
+    "code": "30634",
+    "name": "Kiến An",
+    "name_en": "Kien An",
+    "full_name": "Xã Kiến An",
+    "full_name_en": "Kien An Commune",
+    "type": "xã",
+    "district_code": "893",
+    "codename": "kien_an"
+  },
+  {
+    "code": "30637",
+    "name": "Mỹ Hội Đông",
+    "name_en": "My Hoi Dong",
+    "full_name": "Xã Mỹ Hội Đông",
+    "full_name_en": "My Hoi Dong Commune",
+    "type": "xã",
+    "district_code": "893",
+    "codename": "my_hoi_dong"
+  },
+  {
+    "code": "30640",
+    "name": "Long Điền A",
+    "name_en": "Long Dien A",
+    "full_name": "Xã Long Điền A",
+    "full_name_en": "Long Dien A Commune",
+    "type": "xã",
+    "district_code": "893",
+    "codename": "long_dien_a"
+  },
+  {
+    "code": "30643",
+    "name": "Tấn Mỹ",
+    "name_en": "Tan My",
+    "full_name": "Xã Tấn Mỹ",
+    "full_name_en": "Tan My Commune",
+    "type": "xã",
+    "district_code": "893",
+    "codename": "tan_my"
+  },
+  {
+    "code": "30646",
+    "name": "Long Điền B",
+    "name_en": "Long Dien B",
+    "full_name": "Xã Long Điền B",
+    "full_name_en": "Long Dien B Commune",
+    "type": "xã",
+    "district_code": "893",
+    "codename": "long_dien_b"
+  },
+  {
+    "code": "30649",
+    "name": "Kiến Thành",
+    "name_en": "Kien Thanh",
+    "full_name": "Xã Kiến Thành",
+    "full_name_en": "Kien Thanh Commune",
+    "type": "xã",
+    "district_code": "893",
+    "codename": "kien_thanh"
+  },
+  {
+    "code": "30652",
+    "name": "Mỹ Hiệp",
+    "name_en": "My Hiep",
+    "full_name": "Xã Mỹ Hiệp",
+    "full_name_en": "My Hiep Commune",
+    "type": "xã",
+    "district_code": "893",
+    "codename": "my_hiep"
+  },
+  {
+    "code": "30655",
+    "name": "Mỹ An",
+    "name_en": "My An",
+    "full_name": "Xã Mỹ An",
+    "full_name_en": "My An Commune",
+    "type": "xã",
+    "district_code": "893",
+    "codename": "my_an"
+  },
+  {
+    "code": "30658",
+    "name": "Nhơn Mỹ",
+    "name_en": "Nhon My",
+    "full_name": "Xã Nhơn Mỹ",
+    "full_name_en": "Nhon My Commune",
+    "type": "xã",
+    "district_code": "893",
+    "codename": "nhon_my"
+  },
+  {
+    "code": "30661",
+    "name": "Long Giang",
+    "name_en": "Long Giang",
+    "full_name": "Xã Long Giang",
+    "full_name_en": "Long Giang Commune",
+    "type": "xã",
+    "district_code": "893",
+    "codename": "long_giang"
+  },
+  {
+    "code": "30664",
+    "name": "Long Kiến",
+    "name_en": "Long Kien",
+    "full_name": "Xã Long Kiến",
+    "full_name_en": "Long Kien Commune",
+    "type": "xã",
+    "district_code": "893",
+    "codename": "long_kien"
+  },
+  {
+    "code": "30667",
+    "name": "Bình Phước Xuân",
+    "name_en": "Binh Phuoc Xuan",
+    "full_name": "Xã Bình Phước Xuân",
+    "full_name_en": "Binh Phuoc Xuan Commune",
+    "type": "xã",
+    "district_code": "893",
+    "codename": "binh_phuoc_xuan"
+  },
+  {
+    "code": "30670",
+    "name": "An Thạnh Trung",
+    "name_en": "An Thanh Trung",
+    "full_name": "Xã An Thạnh Trung",
+    "full_name_en": "An Thanh Trung Commune",
+    "type": "xã",
+    "district_code": "893",
+    "codename": "an_thanh_trung"
+  },
+  {
+    "code": "30673",
+    "name": "Hội An",
+    "name_en": "Hoi An",
+    "full_name": "Thị trấn Hội An",
+    "full_name_en": "Hoi An Township",
+    "type": "thị trấn",
+    "district_code": "893",
+    "codename": "hoi_an"
+  },
+  {
+    "code": "30676",
+    "name": "Hòa Bình",
+    "name_en": "Hoa Binh",
+    "full_name": "Xã Hòa Bình",
+    "full_name_en": "Hoa Binh Commune",
+    "type": "xã",
+    "district_code": "893",
+    "codename": "hoa_binh"
+  },
+  {
+    "code": "30679",
+    "name": "Hòa An",
+    "name_en": "Hoa An",
+    "full_name": "Xã Hòa An",
+    "full_name_en": "Hoa An Commune",
+    "type": "xã",
+    "district_code": "893",
+    "codename": "hoa_an"
+  }
+]

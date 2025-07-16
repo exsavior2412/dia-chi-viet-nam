@@ -1,0 +1,112 @@
+[
+  {
+    "code": "25363",
+    "name": "Tân Phú",
+    "name_en": "Tan Phu",
+    "full_name": "Thị trấn Tân Phú",
+    "full_name_en": "Tan Phu Township",
+    "type": "thị trấn",
+    "district_code": "695",
+    "codename": "tan_phu"
+  },
+  {
+    "code": "25366",
+    "name": "Thuận Lợi",
+    "name_en": "Thuan Loi",
+    "full_name": "Xã Thuận Lợi",
+    "full_name_en": "Thuan Loi Commune",
+    "type": "xã",
+    "district_code": "695",
+    "codename": "thuan_loi"
+  },
+  {
+    "code": "25369",
+    "name": "Đồng Tâm",
+    "name_en": "Dong Tam",
+    "full_name": "Xã Đồng Tâm",
+    "full_name_en": "Dong Tam Commune",
+    "type": "xã",
+    "district_code": "695",
+    "codename": "dong_tam"
+  },
+  {
+    "code": "25372",
+    "name": "Tân Phước",
+    "name_en": "Tan Phuoc",
+    "full_name": "Xã Tân Phước",
+    "full_name_en": "Tan Phuoc Commune",
+    "type": "xã",
+    "district_code": "695",
+    "codename": "tan_phuoc"
+  },
+  {
+    "code": "25375",
+    "name": "Tân Hưng",
+    "name_en": "Tan Hung",
+    "full_name": "Xã Tân Hưng",
+    "full_name_en": "Tan Hung Commune",
+    "type": "xã",
+    "district_code": "695",
+    "codename": "tan_hung"
+  },
+  {
+    "code": "25378",
+    "name": "Tân Lợi",
+    "name_en": "Tan Loi",
+    "full_name": "Xã Tân Lợi",
+    "full_name_en": "Tan Loi Commune",
+    "type": "xã",
+    "district_code": "695",
+    "codename": "tan_loi"
+  },
+  {
+    "code": "25381",
+    "name": "Tân Lập",
+    "name_en": "Tan Lap",
+    "full_name": "Xã Tân Lập",
+    "full_name_en": "Tan Lap Commune",
+    "type": "xã",
+    "district_code": "695",
+    "codename": "tan_lap"
+  },
+  {
+    "code": "25384",
+    "name": "Tân Hòa",
+    "name_en": "Tan Hoa",
+    "full_name": "Xã Tân Hòa",
+    "full_name_en": "Tan Hoa Commune",
+    "type": "xã",
+    "district_code": "695",
+    "codename": "tan_hoa"
+  },
+  {
+    "code": "25387",
+    "name": "Thuận Phú",
+    "name_en": "Thuan Phu",
+    "full_name": "Xã Thuận Phú",
+    "full_name_en": "Thuan Phu Commune",
+    "type": "xã",
+    "district_code": "695",
+    "codename": "thuan_phu"
+  },
+  {
+    "code": "25390",
+    "name": "Đồng Tiến",
+    "name_en": "Dong Tien",
+    "full_name": "Xã Đồng Tiến",
+    "full_name_en": "Dong Tien Commune",
+    "type": "xã",
+    "district_code": "695",
+    "codename": "dong_tien"
+  },
+  {
+    "code": "25393",
+    "name": "Tân Tiến",
+    "name_en": "Tan Tien",
+    "full_name": "Xã Tân Tiến",
+    "full_name_en": "Tan Tien Commune",
+    "type": "xã",
+    "district_code": "695",
+    "codename": "tan_tien"
+  }
+]

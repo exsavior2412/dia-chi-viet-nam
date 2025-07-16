@@ -1,0 +1,162 @@
+[
+  {
+    "code": "19009",
+    "name": "Ba Đồn",
+    "name_en": "Ba Don",
+    "full_name": "Phường Ba Đồn",
+    "full_name_en": "Ba Don Ward",
+    "type": "phường",
+    "district_code": "458",
+    "codename": "ba_don"
+  },
+  {
+    "code": "19060",
+    "name": "Quảng Long",
+    "name_en": "Quang Long",
+    "full_name": "Phường Quảng Long",
+    "full_name_en": "Quang Long Ward",
+    "type": "phường",
+    "district_code": "458",
+    "codename": "quang_long"
+  },
+  {
+    "code": "19066",
+    "name": "Quảng Thọ",
+    "name_en": "Quang Tho",
+    "full_name": "Phường Quảng Thọ",
+    "full_name_en": "Quang Tho Ward",
+    "type": "phường",
+    "district_code": "458",
+    "codename": "quang_tho"
+  },
+  {
+    "code": "19069",
+    "name": "Quảng Tiên",
+    "name_en": "Quang Tien",
+    "full_name": "Xã Quảng Tiên",
+    "full_name_en": "Quang Tien Commune",
+    "type": "xã",
+    "district_code": "458",
+    "codename": "quang_tien"
+  },
+  {
+    "code": "19075",
+    "name": "Quảng Trung",
+    "name_en": "Quang Trung",
+    "full_name": "Xã Quảng Trung",
+    "full_name_en": "Quang Trung Commune",
+    "type": "xã",
+    "district_code": "458",
+    "codename": "quang_trung"
+  },
+  {
+    "code": "19078",
+    "name": "Quảng Phong",
+    "name_en": "Quang Phong",
+    "full_name": "Phường Quảng Phong",
+    "full_name_en": "Quang Phong Ward",
+    "type": "phường",
+    "district_code": "458",
+    "codename": "quang_phong"
+  },
+  {
+    "code": "19081",
+    "name": "Quảng Thuận",
+    "name_en": "Quang Thuan",
+    "full_name": "Phường Quảng Thuận",
+    "full_name_en": "Quang Thuan Ward",
+    "type": "phường",
+    "district_code": "458",
+    "codename": "quang_thuan"
+  },
+  {
+    "code": "19084",
+    "name": "Quảng Tân",
+    "name_en": "Quang Tan",
+    "full_name": "Xã Quảng Tân",
+    "full_name_en": "Quang Tan Commune",
+    "type": "xã",
+    "district_code": "458",
+    "codename": "quang_tan"
+  },
+  {
+    "code": "19087",
+    "name": "Quảng Hải",
+    "name_en": "Quang Hai",
+    "full_name": "Xã Quảng Hải",
+    "full_name_en": "Quang Hai Commune",
+    "type": "xã",
+    "district_code": "458",
+    "codename": "quang_hai"
+  },
+  {
+    "code": "19090",
+    "name": "Quảng Sơn",
+    "name_en": "Quang Son",
+    "full_name": "Xã Quảng Sơn",
+    "full_name_en": "Quang Son Commune",
+    "type": "xã",
+    "district_code": "458",
+    "codename": "quang_son"
+  },
+  {
+    "code": "19093",
+    "name": "Quảng Lộc",
+    "name_en": "Quang Loc",
+    "full_name": "Xã Quảng Lộc",
+    "full_name_en": "Quang Loc Commune",
+    "type": "xã",
+    "district_code": "458",
+    "codename": "quang_loc"
+  },
+  {
+    "code": "19096",
+    "name": "Quảng Thủy",
+    "name_en": "Quang Thuy",
+    "full_name": "Xã Quảng Thủy",
+    "full_name_en": "Quang Thuy Commune",
+    "type": "xã",
+    "district_code": "458",
+    "codename": "quang_thuy"
+  },
+  {
+    "code": "19099",
+    "name": "Quảng Văn",
+    "name_en": "Quang Van",
+    "full_name": "Xã Quảng Văn",
+    "full_name_en": "Quang Van Commune",
+    "type": "xã",
+    "district_code": "458",
+    "codename": "quang_van"
+  },
+  {
+    "code": "19102",
+    "name": "Quảng Phúc",
+    "name_en": "Quang Phuc",
+    "full_name": "Phường Quảng Phúc",
+    "full_name_en": "Quang Phuc Ward",
+    "type": "phường",
+    "district_code": "458",
+    "codename": "quang_phuc"
+  },
+  {
+    "code": "19105",
+    "name": "Quảng Hòa",
+    "name_en": "Quang Hoa",
+    "full_name": "Xã Quảng Hòa",
+    "full_name_en": "Quang Hoa Commune",
+    "type": "xã",
+    "district_code": "458",
+    "codename": "quang_hoa"
+  },
+  {
+    "code": "19108",
+    "name": "Quảng Minh",
+    "name_en": "Quang Minh",
+    "full_name": "Xã Quảng Minh",
+    "full_name_en": "Quang Minh Commune",
+    "type": "xã",
+    "district_code": "458",
+    "codename": "quang_minh"
+  }
+]

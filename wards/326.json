@@ -1,0 +1,112 @@
+[
+  {
+    "code": "12019",
+    "name": "Văn Giang",
+    "name_en": "Van Giang",
+    "full_name": "Thị trấn Văn Giang",
+    "full_name_en": "Van Giang Township",
+    "type": "thị trấn",
+    "district_code": "326",
+    "codename": "van_giang"
+  },
+  {
+    "code": "12022",
+    "name": "Xuân Quan",
+    "name_en": "Xuan Quan",
+    "full_name": "Xã Xuân Quan",
+    "full_name_en": "Xuan Quan Commune",
+    "type": "xã",
+    "district_code": "326",
+    "codename": "xuan_quan"
+  },
+  {
+    "code": "12025",
+    "name": "Cửu Cao",
+    "name_en": "Cuu Cao",
+    "full_name": "Xã Cửu Cao",
+    "full_name_en": "Cuu Cao Commune",
+    "type": "xã",
+    "district_code": "326",
+    "codename": "cuu_cao"
+  },
+  {
+    "code": "12028",
+    "name": "Phụng Công",
+    "name_en": "Phung Cong",
+    "full_name": "Xã Phụng Công",
+    "full_name_en": "Phung Cong Commune",
+    "type": "xã",
+    "district_code": "326",
+    "codename": "phung_cong"
+  },
+  {
+    "code": "12031",
+    "name": "Nghĩa Trụ",
+    "name_en": "Nghia Tru",
+    "full_name": "Xã Nghĩa Trụ",
+    "full_name_en": "Nghia Tru Commune",
+    "type": "xã",
+    "district_code": "326",
+    "codename": "nghia_tru"
+  },
+  {
+    "code": "12034",
+    "name": "Long Hưng",
+    "name_en": "Long Hung",
+    "full_name": "Xã Long Hưng",
+    "full_name_en": "Long Hung Commune",
+    "type": "xã",
+    "district_code": "326",
+    "codename": "long_hung"
+  },
+  {
+    "code": "12037",
+    "name": "Vĩnh Khúc",
+    "name_en": "Vinh Khuc",
+    "full_name": "Xã Vĩnh Khúc",
+    "full_name_en": "Vinh Khuc Commune",
+    "type": "xã",
+    "district_code": "326",
+    "codename": "vinh_khuc"
+  },
+  {
+    "code": "12040",
+    "name": "Liên Nghĩa",
+    "name_en": "Lien Nghia",
+    "full_name": "Xã Liên Nghĩa",
+    "full_name_en": "Lien Nghia Commune",
+    "type": "xã",
+    "district_code": "326",
+    "codename": "lien_nghia"
+  },
+  {
+    "code": "12043",
+    "name": "Tân Tiến",
+    "name_en": "Tan Tien",
+    "full_name": "Xã Tân Tiến",
+    "full_name_en": "Tan Tien Commune",
+    "type": "xã",
+    "district_code": "326",
+    "codename": "tan_tien"
+  },
+  {
+    "code": "12046",
+    "name": "Thắng Lợi",
+    "name_en": "Thang Loi",
+    "full_name": "Xã Thắng Lợi",
+    "full_name_en": "Thang Loi Commune",
+    "type": "xã",
+    "district_code": "326",
+    "codename": "thang_loi"
+  },
+  {
+    "code": "12049",
+    "name": "Mễ Sở",
+    "name_en": "Me So",
+    "full_name": "Xã Mễ Sở",
+    "full_name_en": "Me So Commune",
+    "type": "xã",
+    "district_code": "326",
+    "codename": "me_so"
+  }
+]

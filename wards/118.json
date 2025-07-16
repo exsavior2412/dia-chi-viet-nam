@@ -1,0 +1,112 @@
+[
+  {
+    "code": "03682",
+    "name": "Mường Chiên",
+    "name_en": "Muong Chien",
+    "full_name": "Xã Mường Chiên",
+    "full_name_en": "Muong Chien Commune",
+    "type": "xã",
+    "district_code": "118",
+    "codename": "muong_chien"
+  },
+  {
+    "code": "03685",
+    "name": "Cà Nàng",
+    "name_en": "Ca Nang",
+    "full_name": "Xã Cà Nàng",
+    "full_name_en": "Ca Nang Commune",
+    "type": "xã",
+    "district_code": "118",
+    "codename": "ca_nang"
+  },
+  {
+    "code": "03688",
+    "name": "Chiềng Khay",
+    "name_en": "Chieng Khay",
+    "full_name": "Xã Chiềng Khay",
+    "full_name_en": "Chieng Khay Commune",
+    "type": "xã",
+    "district_code": "118",
+    "codename": "chieng_khay"
+  },
+  {
+    "code": "03694",
+    "name": "Mường Giôn",
+    "name_en": "Muong Gion",
+    "full_name": "Xã Mường Giôn",
+    "full_name_en": "Muong Gion Commune",
+    "type": "xã",
+    "district_code": "118",
+    "codename": "muong_gion"
+  },
+  {
+    "code": "03697",
+    "name": "Pá Ma Pha Khinh",
+    "name_en": "Pa Ma Pha Khinh",
+    "full_name": "Xã Pá Ma Pha Khinh",
+    "full_name_en": "Pa Ma Pha Khinh Commune",
+    "type": "xã",
+    "district_code": "118",
+    "codename": "pa_ma_pha_khinh"
+  },
+  {
+    "code": "03700",
+    "name": "Chiềng Ơn",
+    "name_en": "Chieng On",
+    "full_name": "Xã Chiềng Ơn",
+    "full_name_en": "Chieng On Commune",
+    "type": "xã",
+    "district_code": "118",
+    "codename": "chieng_on"
+  },
+  {
+    "code": "03703",
+    "name": "Mường Giàng",
+    "name_en": "Muong Giang",
+    "full_name": "Thị trấn Mường Giàng",
+    "full_name_en": "Muong Giang Township",
+    "type": "thị trấn",
+    "district_code": "118",
+    "codename": "muong_giang"
+  },
+  {
+    "code": "03706",
+    "name": "Chiềng Bằng",
+    "name_en": "Chieng Bang",
+    "full_name": "Xã Chiềng Bằng",
+    "full_name_en": "Chieng Bang Commune",
+    "type": "xã",
+    "district_code": "118",
+    "codename": "chieng_bang"
+  },
+  {
+    "code": "03709",
+    "name": "Mường Sại",
+    "name_en": "Muong Sai",
+    "full_name": "Xã Mường Sại",
+    "full_name_en": "Muong Sai Commune",
+    "type": "xã",
+    "district_code": "118",
+    "codename": "muong_sai"
+  },
+  {
+    "code": "03712",
+    "name": "Nậm ét",
+    "name_en": "Nam et",
+    "full_name": "Xã Nậm ét",
+    "full_name_en": "Nam et Commune",
+    "type": "xã",
+    "district_code": "118",
+    "codename": "nam_et"
+  },
+  {
+    "code": "03718",
+    "name": "Chiềng Khoang",
+    "name_en": "Chieng Khoang",
+    "full_name": "Xã Chiềng Khoang",
+    "full_name_en": "Chieng Khoang Commune",
+    "type": "xã",
+    "district_code": "118",
+    "codename": "chieng_khoang"
+  }
+]

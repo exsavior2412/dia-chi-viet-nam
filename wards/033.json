@@ -1,0 +1,182 @@
+[
+  {
+    "code": "01096",
+    "name": "Cốc Pài",
+    "name_en": "Coc Pai",
+    "full_name": "Thị trấn Cốc Pài",
+    "full_name_en": "Coc Pai Township",
+    "type": "thị trấn",
+    "district_code": "033",
+    "codename": "coc_pai"
+  },
+  {
+    "code": "01099",
+    "name": "Nàn Xỉn",
+    "name_en": "Nan Xin",
+    "full_name": "Xã Nàn Xỉn",
+    "full_name_en": "Nan Xin Commune",
+    "type": "xã",
+    "district_code": "033",
+    "codename": "nan_xin"
+  },
+  {
+    "code": "01102",
+    "name": "Bản Díu",
+    "name_en": "Ban Diu",
+    "full_name": "Xã Bản Díu",
+    "full_name_en": "Ban Diu Commune",
+    "type": "xã",
+    "district_code": "033",
+    "codename": "ban_diu"
+  },
+  {
+    "code": "01105",
+    "name": "Chí Cà",
+    "name_en": "Chi Ca",
+    "full_name": "Xã Chí Cà",
+    "full_name_en": "Chi Ca Commune",
+    "type": "xã",
+    "district_code": "033",
+    "codename": "chi_ca"
+  },
+  {
+    "code": "01108",
+    "name": "Xín Mần",
+    "name_en": "Xin Man",
+    "full_name": "Xã Xín Mần",
+    "full_name_en": "Xin Man Commune",
+    "type": "xã",
+    "district_code": "033",
+    "codename": "xin_man"
+  },
+  {
+    "code": "01114",
+    "name": "Thèn Phàng",
+    "name_en": "Then Phang",
+    "full_name": "Xã Thèn Phàng",
+    "full_name_en": "Then Phang Commune",
+    "type": "xã",
+    "district_code": "033",
+    "codename": "then_phang"
+  },
+  {
+    "code": "01117",
+    "name": "Trung Thịnh",
+    "name_en": "Trung Thinh",
+    "full_name": "Xã Trung Thịnh",
+    "full_name_en": "Trung Thinh Commune",
+    "type": "xã",
+    "district_code": "033",
+    "codename": "trung_thinh"
+  },
+  {
+    "code": "01120",
+    "name": "Pà Vầy Sủ",
+    "name_en": "Pa Vay Su",
+    "full_name": "Xã Pà Vầy Sủ",
+    "full_name_en": "Pa Vay Su Commune",
+    "type": "xã",
+    "district_code": "033",
+    "codename": "pa_vay_su"
+  },
+  {
+    "code": "01123",
+    "name": "Cốc Rế",
+    "name_en": "Coc Re",
+    "full_name": "Xã Cốc Rế",
+    "full_name_en": "Coc Re Commune",
+    "type": "xã",
+    "district_code": "033",
+    "codename": "coc_re"
+  },
+  {
+    "code": "01126",
+    "name": "Thu Tà",
+    "name_en": "Thu Ta",
+    "full_name": "Xã Thu Tà",
+    "full_name_en": "Thu Ta Commune",
+    "type": "xã",
+    "district_code": "033",
+    "codename": "thu_ta"
+  },
+  {
+    "code": "01129",
+    "name": "Nàn Ma",
+    "name_en": "Nan Ma",
+    "full_name": "Xã Nàn Ma",
+    "full_name_en": "Nan Ma Commune",
+    "type": "xã",
+    "district_code": "033",
+    "codename": "nan_ma"
+  },
+  {
+    "code": "01132",
+    "name": "Tả Nhìu",
+    "name_en": "Ta Nhiu",
+    "full_name": "Xã Tả Nhìu",
+    "full_name_en": "Ta Nhiu Commune",
+    "type": "xã",
+    "district_code": "033",
+    "codename": "ta_nhiu"
+  },
+  {
+    "code": "01135",
+    "name": "Bản Ngò",
+    "name_en": "Ban Ngo",
+    "full_name": "Xã Bản Ngò",
+    "full_name_en": "Ban Ngo Commune",
+    "type": "xã",
+    "district_code": "033",
+    "codename": "ban_ngo"
+  },
+  {
+    "code": "01138",
+    "name": "Chế Là",
+    "name_en": "Che La",
+    "full_name": "Xã Chế Là",
+    "full_name_en": "Che La Commune",
+    "type": "xã",
+    "district_code": "033",
+    "codename": "che_la"
+  },
+  {
+    "code": "01141",
+    "name": "Nấm Dẩn",
+    "name_en": "Nam Dan",
+    "full_name": "Xã Nấm Dẩn",
+    "full_name_en": "Nam Dan Commune",
+    "type": "xã",
+    "district_code": "033",
+    "codename": "nam_dan"
+  },
+  {
+    "code": "01144",
+    "name": "Quảng Nguyên",
+    "name_en": "Quang Nguyen",
+    "full_name": "Xã Quảng Nguyên",
+    "full_name_en": "Quang Nguyen Commune",
+    "type": "xã",
+    "district_code": "033",
+    "codename": "quang_nguyen"
+  },
+  {
+    "code": "01147",
+    "name": "Nà Chì",
+    "name_en": "Na Chi",
+    "full_name": "Xã Nà Chì",
+    "full_name_en": "Na Chi Commune",
+    "type": "xã",
+    "district_code": "033",
+    "codename": "na_chi"
+  },
+  {
+    "code": "01150",
+    "name": "Khuôn Lùng",
+    "name_en": "Khuon Lung",
+    "full_name": "Xã Khuôn Lùng",
+    "full_name_en": "Khuon Lung Commune",
+    "type": "xã",
+    "district_code": "033",
+    "codename": "khuon_lung"
+  }
+]

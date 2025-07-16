@@ -1,0 +1,132 @@
+[
+  {
+    "code": "27685",
+    "name": "5",
+    "name_en": "5",
+    "full_name": "Phường 5",
+    "full_name_en": "Ward 5",
+    "type": "phường",
+    "district_code": "794",
+    "codename": "5"
+  },
+  {
+    "code": "27691",
+    "name": "4",
+    "name_en": "4",
+    "full_name": "Phường 4",
+    "full_name_en": "Ward 4",
+    "type": "phường",
+    "district_code": "794",
+    "codename": "4"
+  },
+  {
+    "code": "27692",
+    "name": "Tân Khánh",
+    "name_en": "Tan Khanh",
+    "full_name": "Phường Tân Khánh",
+    "full_name_en": "Tan Khanh Ward",
+    "type": "phường",
+    "district_code": "794",
+    "codename": "tan_khanh"
+  },
+  {
+    "code": "27694",
+    "name": "1",
+    "name_en": "1",
+    "full_name": "Phường 1",
+    "full_name_en": "Ward 1",
+    "type": "phường",
+    "district_code": "794",
+    "codename": "1"
+  },
+  {
+    "code": "27697",
+    "name": "3",
+    "name_en": "3",
+    "full_name": "Phường 3",
+    "full_name_en": "Ward 3",
+    "type": "phường",
+    "district_code": "794",
+    "codename": "3"
+  },
+  {
+    "code": "27698",
+    "name": "7",
+    "name_en": "7",
+    "full_name": "Phường 7",
+    "full_name_en": "Ward 7",
+    "type": "phường",
+    "district_code": "794",
+    "codename": "7"
+  },
+  {
+    "code": "27700",
+    "name": "6",
+    "name_en": "6",
+    "full_name": "Phường 6",
+    "full_name_en": "Ward 6",
+    "type": "phường",
+    "district_code": "794",
+    "codename": "6"
+  },
+  {
+    "code": "27703",
+    "name": "Hướng Thọ Phú",
+    "name_en": "Huong Tho Phu",
+    "full_name": "Xã Hướng Thọ Phú",
+    "full_name_en": "Huong Tho Phu Commune",
+    "type": "xã",
+    "district_code": "794",
+    "codename": "huong_tho_phu"
+  },
+  {
+    "code": "27706",
+    "name": "Nhơn Thạnh Trung",
+    "name_en": "Nhon Thanh Trung",
+    "full_name": "Xã Nhơn Thạnh Trung",
+    "full_name_en": "Nhon Thanh Trung Commune",
+    "type": "xã",
+    "district_code": "794",
+    "codename": "nhon_thanh_trung"
+  },
+  {
+    "code": "27709",
+    "name": "Lợi Bình Nhơn",
+    "name_en": "Loi Binh Nhon",
+    "full_name": "Xã Lợi Bình Nhơn",
+    "full_name_en": "Loi Binh Nhon Commune",
+    "type": "xã",
+    "district_code": "794",
+    "codename": "loi_binh_nhon"
+  },
+  {
+    "code": "27712",
+    "name": "Bình Tâm",
+    "name_en": "Binh Tam",
+    "full_name": "Xã Bình Tâm",
+    "full_name_en": "Binh Tam Commune",
+    "type": "xã",
+    "district_code": "794",
+    "codename": "binh_tam"
+  },
+  {
+    "code": "27715",
+    "name": "Khánh Hậu",
+    "name_en": "Khanh Hau",
+    "full_name": "Phường Khánh Hậu",
+    "full_name_en": "Khanh Hau Ward",
+    "type": "phường",
+    "district_code": "794",
+    "codename": "khanh_hau"
+  },
+  {
+    "code": "27718",
+    "name": "An Vĩnh Ngãi",
+    "name_en": "An Vinh Ngai",
+    "full_name": "Xã An Vĩnh Ngãi",
+    "full_name_en": "An Vinh Ngai Commune",
+    "type": "xã",
+    "district_code": "794",
+    "codename": "an_vinh_ngai"
+  }
+]

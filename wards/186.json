@@ -1,0 +1,232 @@
+[
+  {
+    "code": "06385",
+    "name": "Hữu Lũng",
+    "name_en": "Huu Lung",
+    "full_name": "Thị trấn Hữu Lũng",
+    "full_name_en": "Huu Lung Township",
+    "type": "thị trấn",
+    "district_code": "186",
+    "codename": "huu_lung"
+  },
+  {
+    "code": "06388",
+    "name": "Hữu Liên",
+    "name_en": "Huu Lien",
+    "full_name": "Xã Hữu Liên",
+    "full_name_en": "Huu Lien Commune",
+    "type": "xã",
+    "district_code": "186",
+    "codename": "huu_lien"
+  },
+  {
+    "code": "06391",
+    "name": "Yên Bình",
+    "name_en": "Yen Binh",
+    "full_name": "Xã Yên Bình",
+    "full_name_en": "Yen Binh Commune",
+    "type": "xã",
+    "district_code": "186",
+    "codename": "yen_binh"
+  },
+  {
+    "code": "06394",
+    "name": "Quyết Thắng",
+    "name_en": "Quyet Thang",
+    "full_name": "Xã Quyết Thắng",
+    "full_name_en": "Quyet Thang Commune",
+    "type": "xã",
+    "district_code": "186",
+    "codename": "quyet_thang"
+  },
+  {
+    "code": "06397",
+    "name": "Hòa Bình",
+    "name_en": "Hoa Binh",
+    "full_name": "Xã Hòa Bình",
+    "full_name_en": "Hoa Binh Commune",
+    "type": "xã",
+    "district_code": "186",
+    "codename": "hoa_binh"
+  },
+  {
+    "code": "06400",
+    "name": "Yên Thịnh",
+    "name_en": "Yen Thinh",
+    "full_name": "Xã Yên Thịnh",
+    "full_name_en": "Yen Thinh Commune",
+    "type": "xã",
+    "district_code": "186",
+    "codename": "yen_thinh"
+  },
+  {
+    "code": "06403",
+    "name": "Yên Sơn",
+    "name_en": "Yen Son",
+    "full_name": "Xã Yên Sơn",
+    "full_name_en": "Yen Son Commune",
+    "type": "xã",
+    "district_code": "186",
+    "codename": "yen_son"
+  },
+  {
+    "code": "06406",
+    "name": "Thiện Tân",
+    "name_en": "Thien Tan",
+    "full_name": "Xã Thiện Tân",
+    "full_name_en": "Thien Tan Commune",
+    "type": "xã",
+    "district_code": "186",
+    "codename": "thien_tan"
+  },
+  {
+    "code": "06412",
+    "name": "Yên Vượng",
+    "name_en": "Yen Vuong",
+    "full_name": "Xã Yên Vượng",
+    "full_name_en": "Yen Vuong Commune",
+    "type": "xã",
+    "district_code": "186",
+    "codename": "yen_vuong"
+  },
+  {
+    "code": "06415",
+    "name": "Minh Tiến",
+    "name_en": "Minh Tien",
+    "full_name": "Xã Minh Tiến",
+    "full_name_en": "Minh Tien Commune",
+    "type": "xã",
+    "district_code": "186",
+    "codename": "minh_tien"
+  },
+  {
+    "code": "06418",
+    "name": "Nhật Tiến",
+    "name_en": "Nhat Tien",
+    "full_name": "Xã Nhật Tiến",
+    "full_name_en": "Nhat Tien Commune",
+    "type": "xã",
+    "district_code": "186",
+    "codename": "nhat_tien"
+  },
+  {
+    "code": "06421",
+    "name": "Thanh Sơn",
+    "name_en": "Thanh Son",
+    "full_name": "Xã Thanh Sơn",
+    "full_name_en": "Thanh Son Commune",
+    "type": "xã",
+    "district_code": "186",
+    "codename": "thanh_son"
+  },
+  {
+    "code": "06424",
+    "name": "Đồng Tân",
+    "name_en": "Dong Tan",
+    "full_name": "Xã Đồng Tân",
+    "full_name_en": "Dong Tan Commune",
+    "type": "xã",
+    "district_code": "186",
+    "codename": "dong_tan"
+  },
+  {
+    "code": "06427",
+    "name": "Cai Kinh",
+    "name_en": "Cai Kinh",
+    "full_name": "Xã Cai Kinh",
+    "full_name_en": "Cai Kinh Commune",
+    "type": "xã",
+    "district_code": "186",
+    "codename": "cai_kinh"
+  },
+  {
+    "code": "06430",
+    "name": "Hòa Lạc",
+    "name_en": "Hoa Lac",
+    "full_name": "Xã Hòa Lạc",
+    "full_name_en": "Hoa Lac Commune",
+    "type": "xã",
+    "district_code": "186",
+    "codename": "hoa_lac"
+  },
+  {
+    "code": "06433",
+    "name": "Vân Nham",
+    "name_en": "Van Nham",
+    "full_name": "Xã Vân Nham",
+    "full_name_en": "Van Nham Commune",
+    "type": "xã",
+    "district_code": "186",
+    "codename": "van_nham"
+  },
+  {
+    "code": "06436",
+    "name": "Đồng Tiến",
+    "name_en": "Dong Tien",
+    "full_name": "Xã Đồng Tiến",
+    "full_name_en": "Dong Tien Commune",
+    "type": "xã",
+    "district_code": "186",
+    "codename": "dong_tien"
+  },
+  {
+    "code": "06442",
+    "name": "Tân Thành",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thành",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "186",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "06445",
+    "name": "Hòa Sơn",
+    "name_en": "Hoa Son",
+    "full_name": "Xã Hòa Sơn",
+    "full_name_en": "Hoa Son Commune",
+    "type": "xã",
+    "district_code": "186",
+    "codename": "hoa_son"
+  },
+  {
+    "code": "06448",
+    "name": "Minh Sơn",
+    "name_en": "Minh Son",
+    "full_name": "Xã Minh Sơn",
+    "full_name_en": "Minh Son Commune",
+    "type": "xã",
+    "district_code": "186",
+    "codename": "minh_son"
+  },
+  {
+    "code": "06451",
+    "name": "Hồ Sơn",
+    "name_en": "Ho Son",
+    "full_name": "Xã Hồ Sơn",
+    "full_name_en": "Ho Son Commune",
+    "type": "xã",
+    "district_code": "186",
+    "codename": "ho_son"
+  },
+  {
+    "code": "06457",
+    "name": "Minh Hòa",
+    "name_en": "Minh Hoa",
+    "full_name": "Xã Minh Hòa",
+    "full_name_en": "Minh Hoa Commune",
+    "type": "xã",
+    "district_code": "186",
+    "codename": "minh_hoa"
+  },
+  {
+    "code": "06460",
+    "name": "Hòa Thắng",
+    "name_en": "Hoa Thang",
+    "full_name": "Xã Hòa Thắng",
+    "full_name_en": "Hoa Thang Commune",
+    "type": "xã",
+    "district_code": "186",
+    "codename": "hoa_thang"
+  }
+]

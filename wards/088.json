@@ -1,0 +1,162 @@
+[
+  {
+    "code": "03001",
+    "name": "Sa Pa",
+    "name_en": "Sa Pa",
+    "full_name": "Phường Sa Pa",
+    "full_name_en": "Sa Pa Ward",
+    "type": "phường",
+    "district_code": "088",
+    "codename": "sa_pa"
+  },
+  {
+    "code": "03002",
+    "name": "Sa Pả",
+    "name_en": "Sa Pa",
+    "full_name": "Phường Sa Pả",
+    "full_name_en": "Sa Pa Ward",
+    "type": "phường",
+    "district_code": "088",
+    "codename": "sa_pa"
+  },
+  {
+    "code": "03003",
+    "name": "Ô Quý Hồ",
+    "name_en": "O Quy Ho",
+    "full_name": "Phường Ô Quý Hồ",
+    "full_name_en": "O Quy Ho Ward",
+    "type": "phường",
+    "district_code": "088",
+    "codename": "o_quy_ho"
+  },
+  {
+    "code": "03004",
+    "name": "Ngũ Chỉ Sơn",
+    "name_en": "Ngu Chi Son",
+    "full_name": "Xã Ngũ Chỉ Sơn",
+    "full_name_en": "Ngu Chi Son Commune",
+    "type": "xã",
+    "district_code": "088",
+    "codename": "ngu_chi_son"
+  },
+  {
+    "code": "03006",
+    "name": "Phan Si Păng",
+    "name_en": "Phan Si Pang",
+    "full_name": "Phường Phan Si Păng",
+    "full_name_en": "Phan Si Pang Ward",
+    "type": "phường",
+    "district_code": "088",
+    "codename": "phan_si_pang"
+  },
+  {
+    "code": "03010",
+    "name": "Trung Chải",
+    "name_en": "Trung Chai",
+    "full_name": "Xã Trung Chải",
+    "full_name_en": "Trung Chai Commune",
+    "type": "xã",
+    "district_code": "088",
+    "codename": "trung_chai"
+  },
+  {
+    "code": "03013",
+    "name": "Tả Phìn",
+    "name_en": "Ta Phin",
+    "full_name": "Xã Tả Phìn",
+    "full_name_en": "Ta Phin Commune",
+    "type": "xã",
+    "district_code": "088",
+    "codename": "ta_phin"
+  },
+  {
+    "code": "03016",
+    "name": "Hàm Rồng",
+    "name_en": "Ham Rong",
+    "full_name": "Phường Hàm Rồng",
+    "full_name_en": "Ham Rong Ward",
+    "type": "phường",
+    "district_code": "088",
+    "codename": "ham_rong"
+  },
+  {
+    "code": "03019",
+    "name": "Hoàng Liên",
+    "name_en": "Hoang Lien",
+    "full_name": "Xã Hoàng Liên",
+    "full_name_en": "Hoang Lien Commune",
+    "type": "xã",
+    "district_code": "088",
+    "codename": "hoang_lien"
+  },
+  {
+    "code": "03022",
+    "name": "Thanh Bình",
+    "name_en": "Thanh Binh",
+    "full_name": "Xã Thanh Bình",
+    "full_name_en": "Thanh Binh Commune",
+    "type": "xã",
+    "district_code": "088",
+    "codename": "thanh_binh"
+  },
+  {
+    "code": "03028",
+    "name": "Cầu Mây",
+    "name_en": "Cau May",
+    "full_name": "Phường Cầu Mây",
+    "full_name_en": "Cau May Ward",
+    "type": "phường",
+    "district_code": "088",
+    "codename": "cau_may"
+  },
+  {
+    "code": "03037",
+    "name": "Mường Hoa",
+    "name_en": "Muong Hoa",
+    "full_name": "Xã Mường Hoa",
+    "full_name_en": "Muong Hoa Commune",
+    "type": "xã",
+    "district_code": "088",
+    "codename": "muong_hoa"
+  },
+  {
+    "code": "03040",
+    "name": "Tả Van",
+    "name_en": "Ta Van",
+    "full_name": "Xã Tả Van",
+    "full_name_en": "Ta Van Commune",
+    "type": "xã",
+    "district_code": "088",
+    "codename": "ta_van"
+  },
+  {
+    "code": "03043",
+    "name": "Mường Bo",
+    "name_en": "Muong Bo",
+    "full_name": "Xã Mường Bo",
+    "full_name_en": "Muong Bo Commune",
+    "type": "xã",
+    "district_code": "088",
+    "codename": "muong_bo"
+  },
+  {
+    "code": "03046",
+    "name": "Bản Hồ",
+    "name_en": "Ban Ho",
+    "full_name": "Xã Bản Hồ",
+    "full_name_en": "Ban Ho Commune",
+    "type": "xã",
+    "district_code": "088",
+    "codename": "ban_ho"
+  },
+  {
+    "code": "03052",
+    "name": "Liên Minh",
+    "name_en": "Lien Minh",
+    "full_name": "Xã Liên Minh",
+    "full_name_en": "Lien Minh Commune",
+    "type": "xã",
+    "district_code": "088",
+    "codename": "lien_minh"
+  }
+]

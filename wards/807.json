@@ -1,0 +1,152 @@
+[
+  {
+    "code": "28159",
+    "name": "Cần Giuộc",
+    "name_en": "Can Giuoc",
+    "full_name": "Thị trấn Cần Giuộc",
+    "full_name_en": "Can Giuoc Township",
+    "type": "thị trấn",
+    "district_code": "807",
+    "codename": "can_giuoc"
+  },
+  {
+    "code": "28162",
+    "name": "Phước Lý",
+    "name_en": "Phuoc Ly",
+    "full_name": "Xã Phước Lý",
+    "full_name_en": "Phuoc Ly Commune",
+    "type": "xã",
+    "district_code": "807",
+    "codename": "phuoc_ly"
+  },
+  {
+    "code": "28165",
+    "name": "Long Thượng",
+    "name_en": "Long Thuong",
+    "full_name": "Xã Long Thượng",
+    "full_name_en": "Long Thuong Commune",
+    "type": "xã",
+    "district_code": "807",
+    "codename": "long_thuong"
+  },
+  {
+    "code": "28168",
+    "name": "Long Hậu",
+    "name_en": "Long Hau",
+    "full_name": "Xã Long Hậu",
+    "full_name_en": "Long Hau Commune",
+    "type": "xã",
+    "district_code": "807",
+    "codename": "long_hau"
+  },
+  {
+    "code": "28174",
+    "name": "Phước Hậu",
+    "name_en": "Phuoc Hau",
+    "full_name": "Xã Phước Hậu",
+    "full_name_en": "Phuoc Hau Commune",
+    "type": "xã",
+    "district_code": "807",
+    "codename": "phuoc_hau"
+  },
+  {
+    "code": "28177",
+    "name": "Mỹ Lộc",
+    "name_en": "My Loc",
+    "full_name": "Xã Mỹ Lộc",
+    "full_name_en": "My Loc Commune",
+    "type": "xã",
+    "district_code": "807",
+    "codename": "my_loc"
+  },
+  {
+    "code": "28180",
+    "name": "Phước Lại",
+    "name_en": "Phuoc Lai",
+    "full_name": "Xã Phước Lại",
+    "full_name_en": "Phuoc Lai Commune",
+    "type": "xã",
+    "district_code": "807",
+    "codename": "phuoc_lai"
+  },
+  {
+    "code": "28183",
+    "name": "Phước Lâm",
+    "name_en": "Phuoc Lam",
+    "full_name": "Xã Phước Lâm",
+    "full_name_en": "Phuoc Lam Commune",
+    "type": "xã",
+    "district_code": "807",
+    "codename": "phuoc_lam"
+  },
+  {
+    "code": "28189",
+    "name": "Thuận Thành",
+    "name_en": "Thuan Thanh",
+    "full_name": "Xã Thuận Thành",
+    "full_name_en": "Thuan Thanh Commune",
+    "type": "xã",
+    "district_code": "807",
+    "codename": "thuan_thanh"
+  },
+  {
+    "code": "28192",
+    "name": "Phước Vĩnh Tây",
+    "name_en": "Phuoc Vinh Tay",
+    "full_name": "Xã Phước Vĩnh Tây",
+    "full_name_en": "Phuoc Vinh Tay Commune",
+    "type": "xã",
+    "district_code": "807",
+    "codename": "phuoc_vinh_tay"
+  },
+  {
+    "code": "28195",
+    "name": "Phước Vĩnh Đông",
+    "name_en": "Phuoc Vinh Dong",
+    "full_name": "Xã Phước Vĩnh Đông",
+    "full_name_en": "Phuoc Vinh Dong Commune",
+    "type": "xã",
+    "district_code": "807",
+    "codename": "phuoc_vinh_dong"
+  },
+  {
+    "code": "28198",
+    "name": "Long An",
+    "name_en": "Long An",
+    "full_name": "Xã Long An",
+    "full_name_en": "Long An Commune",
+    "type": "xã",
+    "district_code": "807",
+    "codename": "long_an"
+  },
+  {
+    "code": "28201",
+    "name": "Long Phụng",
+    "name_en": "Long Phung",
+    "full_name": "Xã Long Phụng",
+    "full_name_en": "Long Phung Commune",
+    "type": "xã",
+    "district_code": "807",
+    "codename": "long_phung"
+  },
+  {
+    "code": "28204",
+    "name": "Đông Thạnh",
+    "name_en": "Dong Thanh",
+    "full_name": "Xã Đông Thạnh",
+    "full_name_en": "Dong Thanh Commune",
+    "type": "xã",
+    "district_code": "807",
+    "codename": "dong_thanh"
+  },
+  {
+    "code": "28207",
+    "name": "Tân Tập",
+    "name_en": "Tan Tap",
+    "full_name": "Xã Tân Tập",
+    "full_name_en": "Tan Tap Commune",
+    "type": "xã",
+    "district_code": "807",
+    "codename": "tan_tap"
+  }
+]

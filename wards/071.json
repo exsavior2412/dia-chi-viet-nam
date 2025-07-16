@@ -1,0 +1,102 @@
+[
+  {
+    "code": "02233",
+    "name": "Phúc Yên",
+    "name_en": "Phuc Yen",
+    "full_name": "Xã Phúc Yên",
+    "full_name_en": "Phuc Yen Commune",
+    "type": "xã",
+    "district_code": "071",
+    "codename": "phuc_yen"
+  },
+  {
+    "code": "02242",
+    "name": "Xuân Lập",
+    "name_en": "Xuan Lap",
+    "full_name": "Xã Xuân Lập",
+    "full_name_en": "Xuan Lap Commune",
+    "type": "xã",
+    "district_code": "071",
+    "codename": "xuan_lap"
+  },
+  {
+    "code": "02251",
+    "name": "Khuôn Hà",
+    "name_en": "Khuon Ha",
+    "full_name": "Xã Khuôn Hà",
+    "full_name_en": "Khuon Ha Commune",
+    "type": "xã",
+    "district_code": "071",
+    "codename": "khuon_ha"
+  },
+  {
+    "code": "02266",
+    "name": "Lăng Can",
+    "name_en": "Lang Can",
+    "full_name": "Thị trấn Lăng Can",
+    "full_name_en": "Lang Can Township",
+    "type": "thị trấn",
+    "district_code": "071",
+    "codename": "lang_can"
+  },
+  {
+    "code": "02269",
+    "name": "Thượng Lâm",
+    "name_en": "Thuong Lam",
+    "full_name": "Xã Thượng Lâm",
+    "full_name_en": "Thuong Lam Commune",
+    "type": "xã",
+    "district_code": "071",
+    "codename": "thuong_lam"
+  },
+  {
+    "code": "02290",
+    "name": "Bình An",
+    "name_en": "Binh An",
+    "full_name": "Xã Bình An",
+    "full_name_en": "Binh An Commune",
+    "type": "xã",
+    "district_code": "071",
+    "codename": "binh_an"
+  },
+  {
+    "code": "02293",
+    "name": "Hồng Quang",
+    "name_en": "Hong Quang",
+    "full_name": "Xã Hồng Quang",
+    "full_name_en": "Hong Quang Commune",
+    "type": "xã",
+    "district_code": "071",
+    "codename": "hong_quang"
+  },
+  {
+    "code": "02296",
+    "name": "Thổ Bình",
+    "name_en": "Tho Binh",
+    "full_name": "Xã Thổ Bình",
+    "full_name_en": "Tho Binh Commune",
+    "type": "xã",
+    "district_code": "071",
+    "codename": "tho_binh"
+  },
+  {
+    "code": "02299",
+    "name": "Phúc Sơn",
+    "name_en": "Phuc Son",
+    "full_name": "Xã Phúc Sơn",
+    "full_name_en": "Phuc Son Commune",
+    "type": "xã",
+    "district_code": "071",
+    "codename": "phuc_son"
+  },
+  {
+    "code": "02302",
+    "name": "Minh Quang",
+    "name_en": "Minh Quang",
+    "full_name": "Xã Minh Quang",
+    "full_name_en": "Minh Quang Commune",
+    "type": "xã",
+    "district_code": "071",
+    "codename": "minh_quang"
+  }
+]

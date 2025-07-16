@@ -1,0 +1,212 @@
+[
+  {
+    "code": "01363",
+    "name": "Thông Nông",
+    "name_en": "Thong Nong",
+    "full_name": "Thị trấn Thông Nông",
+    "full_name_en": "Thong Nong Township",
+    "type": "thị trấn",
+    "district_code": "045",
+    "codename": "thong_nong"
+  },
+  {
+    "code": "01366",
+    "name": "Cần Yên",
+    "name_en": "Can Yen",
+    "full_name": "Xã Cần Yên",
+    "full_name_en": "Can Yen Commune",
+    "type": "xã",
+    "district_code": "045",
+    "codename": "can_yen"
+  },
+  {
+    "code": "01367",
+    "name": "Cần Nông",
+    "name_en": "Can Nong",
+    "full_name": "Xã Cần Nông",
+    "full_name_en": "Can Nong Commune",
+    "type": "xã",
+    "district_code": "045",
+    "codename": "can_nong"
+  },
+  {
+    "code": "01372",
+    "name": "Lương Thông",
+    "name_en": "Luong Thong",
+    "full_name": "Xã Lương Thông",
+    "full_name_en": "Luong Thong Commune",
+    "type": "xã",
+    "district_code": "045",
+    "codename": "luong_thong"
+  },
+  {
+    "code": "01375",
+    "name": "Đa Thông",
+    "name_en": "Da Thong",
+    "full_name": "Xã Đa Thông",
+    "full_name_en": "Da Thong Commune",
+    "type": "xã",
+    "district_code": "045",
+    "codename": "da_thong"
+  },
+  {
+    "code": "01378",
+    "name": "Ngọc Động",
+    "name_en": "Ngoc Dong",
+    "full_name": "Xã Ngọc Động",
+    "full_name_en": "Ngoc Dong Commune",
+    "type": "xã",
+    "district_code": "045",
+    "codename": "ngoc_dong"
+  },
+  {
+    "code": "01381",
+    "name": "Yên Sơn",
+    "name_en": "Yen Son",
+    "full_name": "Xã Yên Sơn",
+    "full_name_en": "Yen Son Commune",
+    "type": "xã",
+    "district_code": "045",
+    "codename": "yen_son"
+  },
+  {
+    "code": "01384",
+    "name": "Lương Can",
+    "name_en": "Luong Can",
+    "full_name": "Xã Lương Can",
+    "full_name_en": "Luong Can Commune",
+    "type": "xã",
+    "district_code": "045",
+    "codename": "luong_can"
+  },
+  {
+    "code": "01387",
+    "name": "Thanh Long",
+    "name_en": "Thanh Long",
+    "full_name": "Xã Thanh Long",
+    "full_name_en": "Thanh Long Commune",
+    "type": "xã",
+    "district_code": "045",
+    "codename": "thanh_long"
+  },
+  {
+    "code": "01392",
+    "name": "Xuân Hòa",
+    "name_en": "Xuan Hoa",
+    "full_name": "Thị trấn Xuân Hòa",
+    "full_name_en": "Xuan Hoa Township",
+    "type": "thị trấn",
+    "district_code": "045",
+    "codename": "xuan_hoa"
+  },
+  {
+    "code": "01393",
+    "name": "Lũng Nặm",
+    "name_en": "Lung Nam",
+    "full_name": "Xã Lũng Nặm",
+    "full_name_en": "Lung Nam Commune",
+    "type": "xã",
+    "district_code": "045",
+    "codename": "lung_nam"
+  },
+  {
+    "code": "01399",
+    "name": "Trường Hà",
+    "name_en": "Truong Ha",
+    "full_name": "Xã Trường Hà",
+    "full_name_en": "Truong Ha Commune",
+    "type": "xã",
+    "district_code": "045",
+    "codename": "truong_ha"
+  },
+  {
+    "code": "01402",
+    "name": "Cải Viên",
+    "name_en": "Cai Vien",
+    "full_name": "Xã Cải Viên",
+    "full_name_en": "Cai Vien Commune",
+    "type": "xã",
+    "district_code": "045",
+    "codename": "cai_vien"
+  },
+  {
+    "code": "01411",
+    "name": "Nội Thôn",
+    "name_en": "Noi Thon",
+    "full_name": "Xã Nội Thôn",
+    "full_name_en": "Noi Thon Commune",
+    "type": "xã",
+    "district_code": "045",
+    "codename": "noi_thon"
+  },
+  {
+    "code": "01414",
+    "name": "Tổng Cọt",
+    "name_en": "Tong Cot",
+    "full_name": "Xã Tổng Cọt",
+    "full_name_en": "Tong Cot Commune",
+    "type": "xã",
+    "district_code": "045",
+    "codename": "tong_cot"
+  },
+  {
+    "code": "01417",
+    "name": "Sóc Hà",
+    "name_en": "Soc Ha",
+    "full_name": "Xã Sóc Hà",
+    "full_name_en": "Soc Ha Commune",
+    "type": "xã",
+    "district_code": "045",
+    "codename": "soc_ha"
+  },
+  {
+    "code": "01420",
+    "name": "Thượng Thôn",
+    "name_en": "Thuong Thon",
+    "full_name": "Xã Thượng Thôn",
+    "full_name_en": "Thuong Thon Commune",
+    "type": "xã",
+    "district_code": "045",
+    "codename": "thuong_thon"
+  },
+  {
+    "code": "01429",
+    "name": "Hồng Sỹ",
+    "name_en": "Hong Sy",
+    "full_name": "Xã Hồng Sỹ",
+    "full_name_en": "Hong Sy Commune",
+    "type": "xã",
+    "district_code": "045",
+    "codename": "hong_sy"
+  },
+  {
+    "code": "01432",
+    "name": "Quý Quân",
+    "name_en": "Quy Quan",
+    "full_name": "Xã Quý Quân",
+    "full_name_en": "Quy Quan Commune",
+    "type": "xã",
+    "district_code": "045",
+    "codename": "quy_quan"
+  },
+  {
+    "code": "01435",
+    "name": "Mã Ba",
+    "name_en": "Ma Ba",
+    "full_name": "Xã Mã Ba",
+    "full_name_en": "Ma Ba Commune",
+    "type": "xã",
+    "district_code": "045",
+    "codename": "ma_ba"
+  },
+  {
+    "code": "01438",
+    "name": "Ngọc Đào",
+    "name_en": "Ngoc Dao",
+    "full_name": "Xã Ngọc Đào",
+    "full_name_en": "Ngoc Dao Commune",
+    "type": "xã",
+    "district_code": "045",
+    "codename": "ngoc_dao"
+  }
+]

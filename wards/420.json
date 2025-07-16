@@ -1,0 +1,212 @@
+[
+  {
+    "code": "17035",
+    "name": "Quỳ Hợp",
+    "name_en": "Quy Hop",
+    "full_name": "Thị trấn Quỳ Hợp",
+    "full_name_en": "Quy Hop Township",
+    "type": "thị trấn",
+    "district_code": "420",
+    "codename": "quy_hop"
+  },
+  {
+    "code": "17038",
+    "name": "Yên Hợp",
+    "name_en": "Yen Hop",
+    "full_name": "Xã Yên Hợp",
+    "full_name_en": "Yen Hop Commune",
+    "type": "xã",
+    "district_code": "420",
+    "codename": "yen_hop"
+  },
+  {
+    "code": "17041",
+    "name": "Châu Tiến",
+    "name_en": "Chau Tien",
+    "full_name": "Xã Châu Tiến",
+    "full_name_en": "Chau Tien Commune",
+    "type": "xã",
+    "district_code": "420",
+    "codename": "chau_tien"
+  },
+  {
+    "code": "17044",
+    "name": "Châu Hồng",
+    "name_en": "Chau Hong",
+    "full_name": "Xã Châu Hồng",
+    "full_name_en": "Chau Hong Commune",
+    "type": "xã",
+    "district_code": "420",
+    "codename": "chau_hong"
+  },
+  {
+    "code": "17047",
+    "name": "Đồng Hợp",
+    "name_en": "Dong Hop",
+    "full_name": "Xã Đồng Hợp",
+    "full_name_en": "Dong Hop Commune",
+    "type": "xã",
+    "district_code": "420",
+    "codename": "dong_hop"
+  },
+  {
+    "code": "17050",
+    "name": "Châu Thành",
+    "name_en": "Chau Thanh",
+    "full_name": "Xã Châu Thành",
+    "full_name_en": "Chau Thanh Commune",
+    "type": "xã",
+    "district_code": "420",
+    "codename": "chau_thanh"
+  },
+  {
+    "code": "17053",
+    "name": "Liên Hợp",
+    "name_en": "Lien Hop",
+    "full_name": "Xã Liên Hợp",
+    "full_name_en": "Lien Hop Commune",
+    "type": "xã",
+    "district_code": "420",
+    "codename": "lien_hop"
+  },
+  {
+    "code": "17056",
+    "name": "Châu Lộc",
+    "name_en": "Chau Loc",
+    "full_name": "Xã Châu Lộc",
+    "full_name_en": "Chau Loc Commune",
+    "type": "xã",
+    "district_code": "420",
+    "codename": "chau_loc"
+  },
+  {
+    "code": "17059",
+    "name": "Tam Hợp",
+    "name_en": "Tam Hop",
+    "full_name": "Xã Tam Hợp",
+    "full_name_en": "Tam Hop Commune",
+    "type": "xã",
+    "district_code": "420",
+    "codename": "tam_hop"
+  },
+  {
+    "code": "17062",
+    "name": "Châu Cường",
+    "name_en": "Chau Cuong",
+    "full_name": "Xã Châu Cường",
+    "full_name_en": "Chau Cuong Commune",
+    "type": "xã",
+    "district_code": "420",
+    "codename": "chau_cuong"
+  },
+  {
+    "code": "17065",
+    "name": "Châu Quang",
+    "name_en": "Chau Quang",
+    "full_name": "Xã Châu Quang",
+    "full_name_en": "Chau Quang Commune",
+    "type": "xã",
+    "district_code": "420",
+    "codename": "chau_quang"
+  },
+  {
+    "code": "17068",
+    "name": "Thọ Hợp",
+    "name_en": "Tho Hop",
+    "full_name": "Xã Thọ Hợp",
+    "full_name_en": "Tho Hop Commune",
+    "type": "xã",
+    "district_code": "420",
+    "codename": "tho_hop"
+  },
+  {
+    "code": "17071",
+    "name": "Minh Hợp",
+    "name_en": "Minh Hop",
+    "full_name": "Xã Minh Hợp",
+    "full_name_en": "Minh Hop Commune",
+    "type": "xã",
+    "district_code": "420",
+    "codename": "minh_hop"
+  },
+  {
+    "code": "17074",
+    "name": "Nghĩa Xuân",
+    "name_en": "Nghia Xuan",
+    "full_name": "Xã Nghĩa Xuân",
+    "full_name_en": "Nghia Xuan Commune",
+    "type": "xã",
+    "district_code": "420",
+    "codename": "nghia_xuan"
+  },
+  {
+    "code": "17077",
+    "name": "Châu Thái",
+    "name_en": "Chau Thai",
+    "full_name": "Xã Châu Thái",
+    "full_name_en": "Chau Thai Commune",
+    "type": "xã",
+    "district_code": "420",
+    "codename": "chau_thai"
+  },
+  {
+    "code": "17080",
+    "name": "Châu Đình",
+    "name_en": "Chau Dinh",
+    "full_name": "Xã Châu Đình",
+    "full_name_en": "Chau Dinh Commune",
+    "type": "xã",
+    "district_code": "420",
+    "codename": "chau_dinh"
+  },
+  {
+    "code": "17083",
+    "name": "Văn Lợi",
+    "name_en": "Van Loi",
+    "full_name": "Xã Văn Lợi",
+    "full_name_en": "Van Loi Commune",
+    "type": "xã",
+    "district_code": "420",
+    "codename": "van_loi"
+  },
+  {
+    "code": "17086",
+    "name": "Nam Sơn",
+    "name_en": "Nam Son",
+    "full_name": "Xã Nam Sơn",
+    "full_name_en": "Nam Son Commune",
+    "type": "xã",
+    "district_code": "420",
+    "codename": "nam_son"
+  },
+  {
+    "code": "17089",
+    "name": "Châu Lý",
+    "name_en": "Chau Ly",
+    "full_name": "Xã Châu Lý",
+    "full_name_en": "Chau Ly Commune",
+    "type": "xã",
+    "district_code": "420",
+    "codename": "chau_ly"
+  },
+  {
+    "code": "17092",
+    "name": "Hạ Sơn",
+    "name_en": "Ha Son",
+    "full_name": "Xã Hạ Sơn",
+    "full_name_en": "Ha Son Commune",
+    "type": "xã",
+    "district_code": "420",
+    "codename": "ha_son"
+  },
+  {
+    "code": "17095",
+    "name": "Bắc Sơn",
+    "name_en": "Bac Son",
+    "full_name": "Xã Bắc Sơn",
+    "full_name_en": "Bac Son Commune",
+    "type": "xã",
+    "district_code": "420",
+    "codename": "bac_son"
+  }
+]

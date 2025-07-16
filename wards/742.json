@@ -1,0 +1,122 @@
+[
+  {
+    "code": "26470",
+    "name": "Phước Thiền",
+    "name_en": "Phuoc Thien",
+    "full_name": "Xã Phước Thiền",
+    "full_name_en": "Phuoc Thien Commune",
+    "type": "xã",
+    "district_code": "742",
+    "codename": "phuoc_thien"
+  },
+  {
+    "code": "26473",
+    "name": "Long Tân",
+    "name_en": "Long Tan",
+    "full_name": "Xã Long Tân",
+    "full_name_en": "Long Tan Commune",
+    "type": "xã",
+    "district_code": "742",
+    "codename": "long_tan"
+  },
+  {
+    "code": "26476",
+    "name": "Đại Phước",
+    "name_en": "Dai Phuoc",
+    "full_name": "Xã Đại Phước",
+    "full_name_en": "Dai Phuoc Commune",
+    "type": "xã",
+    "district_code": "742",
+    "codename": "dai_phuoc"
+  },
+  {
+    "code": "26479",
+    "name": "Hiệp Phước",
+    "name_en": "Hiep Phuoc",
+    "full_name": "Thị trấn Hiệp Phước",
+    "full_name_en": "Hiep Phuoc Township",
+    "type": "thị trấn",
+    "district_code": "742",
+    "codename": "hiep_phuoc"
+  },
+  {
+    "code": "26482",
+    "name": "Phú Hữu",
+    "name_en": "Phu Huu",
+    "full_name": "Xã Phú Hữu",
+    "full_name_en": "Phu Huu Commune",
+    "type": "xã",
+    "district_code": "742",
+    "codename": "phu_huu"
+  },
+  {
+    "code": "26485",
+    "name": "Phú Hội",
+    "name_en": "Phu Hoi",
+    "full_name": "Xã Phú Hội",
+    "full_name_en": "Phu Hoi Commune",
+    "type": "xã",
+    "district_code": "742",
+    "codename": "phu_hoi"
+  },
+  {
+    "code": "26488",
+    "name": "Phú Thạnh",
+    "name_en": "Phu Thanh",
+    "full_name": "Xã Phú Thạnh",
+    "full_name_en": "Phu Thanh Commune",
+    "type": "xã",
+    "district_code": "742",
+    "codename": "phu_thanh"
+  },
+  {
+    "code": "26491",
+    "name": "Phú Đông",
+    "name_en": "Phu Dong",
+    "full_name": "Xã Phú Đông",
+    "full_name_en": "Phu Dong Commune",
+    "type": "xã",
+    "district_code": "742",
+    "codename": "phu_dong"
+  },
+  {
+    "code": "26494",
+    "name": "Long Thọ",
+    "name_en": "Long Tho",
+    "full_name": "Xã Long Thọ",
+    "full_name_en": "Long Tho Commune",
+    "type": "xã",
+    "district_code": "742",
+    "codename": "long_tho"
+  },
+  {
+    "code": "26497",
+    "name": "Vĩnh Thanh",
+    "name_en": "Vinh Thanh",
+    "full_name": "Xã Vĩnh Thanh",
+    "full_name_en": "Vinh Thanh Commune",
+    "type": "xã",
+    "district_code": "742",
+    "codename": "vinh_thanh"
+  },
+  {
+    "code": "26500",
+    "name": "Phước Khánh",
+    "name_en": "Phuoc Khanh",
+    "full_name": "Xã Phước Khánh",
+    "full_name_en": "Phuoc Khanh Commune",
+    "type": "xã",
+    "district_code": "742",
+    "codename": "phuoc_khanh"
+  },
+  {
+    "code": "26503",
+    "name": "Phước An",
+    "name_en": "Phuoc An",
+    "full_name": "Xã Phước An",
+    "full_name_en": "Phuoc An Commune",
+    "type": "xã",
+    "district_code": "742",
+    "codename": "phuoc_an"
+  }
+]

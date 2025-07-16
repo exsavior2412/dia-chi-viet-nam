@@ -1,0 +1,152 @@
+[
+  {
+    "code": "899",
+    "name": "Rạch Giá",
+    "name_en": "Rach Gia",
+    "full_name": "Thành phố Rạch Giá",
+    "full_name_en": "Rach Gia City",
+    "type": "thành phố",
+    "province_code": "91",
+    "codename": "rach_gia"
+  },
+  {
+    "code": "900",
+    "name": "Hà Tiên",
+    "name_en": "Ha Tien",
+    "full_name": "Thành phố Hà Tiên",
+    "full_name_en": "Ha Tien City",
+    "type": "thành phố",
+    "province_code": "91",
+    "codename": "ha_tien"
+  },
+  {
+    "code": "902",
+    "name": "Kiên Lương",
+    "name_en": "Kien Luong",
+    "full_name": "Huyện Kiên Lương",
+    "full_name_en": "Kien Luong District",
+    "type": "huyện",
+    "province_code": "91",
+    "codename": "kien_luong"
+  },
+  {
+    "code": "903",
+    "name": "Hòn Đất",
+    "name_en": "Hon Dat",
+    "full_name": "Huyện Hòn Đất",
+    "full_name_en": "Hon Dat District",
+    "type": "huyện",
+    "province_code": "91",
+    "codename": "hon_dat"
+  },
+  {
+    "code": "904",
+    "name": "Tân Hiệp",
+    "name_en": "Tan Hiep",
+    "full_name": "Huyện Tân Hiệp",
+    "full_name_en": "Tan Hiep District",
+    "type": "huyện",
+    "province_code": "91",
+    "codename": "tan_hiep"
+  },
+  {
+    "code": "905",
+    "name": "Châu Thành",
+    "name_en": "Chau Thanh",
+    "full_name": "Huyện Châu Thành",
+    "full_name_en": "Chau Thanh District",
+    "type": "huyện",
+    "province_code": "91",
+    "codename": "chau_thanh"
+  },
+  {
+    "code": "906",
+    "name": "Giồng Riềng",
+    "name_en": "Giong Rieng",
+    "full_name": "Huyện Giồng Riềng",
+    "full_name_en": "Giong Rieng District",
+    "type": "huyện",
+    "province_code": "91",
+    "codename": "giong_rieng"
+  },
+  {
+    "code": "907",
+    "name": "Gò Quao",
+    "name_en": "Go Quao",
+    "full_name": "Huyện Gò Quao",
+    "full_name_en": "Go Quao District",
+    "type": "huyện",
+    "province_code": "91",
+    "codename": "go_quao"
+  },
+  {
+    "code": "908",
+    "name": "An Biên",
+    "name_en": "An Bien",
+    "full_name": "Huyện An Biên",
+    "full_name_en": "An Bien District",
+    "type": "huyện",
+    "province_code": "91",
+    "codename": "an_bien"
+  },
+  {
+    "code": "909",
+    "name": "An Minh",
+    "name_en": "An Minh",
+    "full_name": "Huyện An Minh",
+    "full_name_en": "An Minh District",
+    "type": "huyện",
+    "province_code": "91",
+    "codename": "an_minh"
+  },
+  {
+    "code": "910",
+    "name": "Vĩnh Thuận",
+    "name_en": "Vinh Thuan",
+    "full_name": "Huyện Vĩnh Thuận",
+    "full_name_en": "Vinh Thuan District",
+    "type": "huyện",
+    "province_code": "91",
+    "codename": "vinh_thuan"
+  },
+  {
+    "code": "911",
+    "name": "Phú Quốc",
+    "name_en": "Phu Quoc",
+    "full_name": "Thành phố Phú Quốc",
+    "full_name_en": "Phu Quoc City",
+    "type": "thành phố",
+    "province_code": "91",
+    "codename": "phu_quoc"
+  },
+  {
+    "code": "912",
+    "name": "Kiên Hải",
+    "name_en": "Kien Hai",
+    "full_name": "Huyện Kiên Hải",
+    "full_name_en": "Kien Hai District",
+    "type": "huyện",
+    "province_code": "91",
+    "codename": "kien_hai"
+  },
+  {
+    "code": "913",
+    "name": "U Minh Thượng",
+    "name_en": "U Minh Thuong",
+    "full_name": "Huyện U Minh Thượng",
+    "full_name_en": "U Minh Thuong District",
+    "type": "huyện",
+    "province_code": "91",
+    "codename": "u_minh_thuong"
+  },
+  {
+    "code": "914",
+    "name": "Giang Thành",
+    "name_en": "Giang Thanh",
+    "full_name": "Huyện Giang Thành",
+    "full_name_en": "Giang Thanh District",
+    "type": "huyện",
+    "province_code": "91",
+    "codename": "giang_thanh"
+  }
+]

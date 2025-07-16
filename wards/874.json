@@ -1,0 +1,132 @@
+[
+  {
+    "code": "30130",
+    "name": "Thanh Bình",
+    "name_en": "Thanh Binh",
+    "full_name": "Thị trấn Thanh Bình",
+    "full_name_en": "Thanh Binh Township",
+    "type": "thị trấn",
+    "district_code": "874",
+    "codename": "thanh_binh"
+  },
+  {
+    "code": "30133",
+    "name": "Tân Quới",
+    "name_en": "Tan Quoi",
+    "full_name": "Xã Tân Quới",
+    "full_name_en": "Tan Quoi Commune",
+    "type": "xã",
+    "district_code": "874",
+    "codename": "tan_quoi"
+  },
+  {
+    "code": "30136",
+    "name": "Tân Hòa",
+    "name_en": "Tan Hoa",
+    "full_name": "Xã Tân Hòa",
+    "full_name_en": "Tan Hoa Commune",
+    "type": "xã",
+    "district_code": "874",
+    "codename": "tan_hoa"
+  },
+  {
+    "code": "30139",
+    "name": "An Phong",
+    "name_en": "An Phong",
+    "full_name": "Xã An Phong",
+    "full_name_en": "An Phong Commune",
+    "type": "xã",
+    "district_code": "874",
+    "codename": "an_phong"
+  },
+  {
+    "code": "30142",
+    "name": "Phú Lợi",
+    "name_en": "Phu Loi",
+    "full_name": "Xã Phú Lợi",
+    "full_name_en": "Phu Loi Commune",
+    "type": "xã",
+    "district_code": "874",
+    "codename": "phu_loi"
+  },
+  {
+    "code": "30145",
+    "name": "Tân Mỹ",
+    "name_en": "Tan My",
+    "full_name": "Xã Tân Mỹ",
+    "full_name_en": "Tan My Commune",
+    "type": "xã",
+    "district_code": "874",
+    "codename": "tan_my"
+  },
+  {
+    "code": "30148",
+    "name": "Bình Tấn",
+    "name_en": "Binh Tan",
+    "full_name": "Xã Bình Tấn",
+    "full_name_en": "Binh Tan Commune",
+    "type": "xã",
+    "district_code": "874",
+    "codename": "binh_tan"
+  },
+  {
+    "code": "30151",
+    "name": "Tân Huề",
+    "name_en": "Tan Hue",
+    "full_name": "Xã Tân Huề",
+    "full_name_en": "Tan Hue Commune",
+    "type": "xã",
+    "district_code": "874",
+    "codename": "tan_hue"
+  },
+  {
+    "code": "30154",
+    "name": "Tân Bình",
+    "name_en": "Tan Binh",
+    "full_name": "Xã Tân Bình",
+    "full_name_en": "Tan Binh Commune",
+    "type": "xã",
+    "district_code": "874",
+    "codename": "tan_binh"
+  },
+  {
+    "code": "30157",
+    "name": "Tân Thạnh",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thạnh",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "874",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "30160",
+    "name": "Tân Phú",
+    "name_en": "Tan Phu",
+    "full_name": "Xã Tân Phú",
+    "full_name_en": "Tan Phu Commune",
+    "type": "xã",
+    "district_code": "874",
+    "codename": "tan_phu"
+  },
+  {
+    "code": "30163",
+    "name": "Bình Thành",
+    "name_en": "Binh Thanh",
+    "full_name": "Xã Bình Thành",
+    "full_name_en": "Binh Thanh Commune",
+    "type": "xã",
+    "district_code": "874",
+    "codename": "binh_thanh"
+  },
+  {
+    "code": "30166",
+    "name": "Tân Long",
+    "name_en": "Tan Long",
+    "full_name": "Xã Tân Long",
+    "full_name_en": "Tan Long Commune",
+    "type": "xã",
+    "district_code": "874",
+    "codename": "tan_long"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "code": "24013",
+    "name": "Pờ Tó",
+    "name_en": "Po To",
+    "full_name": "Xã Pờ Tó",
+    "full_name_en": "Po To Commune",
+    "type": "xã",
+    "district_code": "635",
+    "codename": "po_to"
+  },
+  {
+    "code": "24016",
+    "name": "Chư Răng",
+    "name_en": "Chu Rang",
+    "full_name": "Xã Chư Răng",
+    "full_name_en": "Chu Rang Commune",
+    "type": "xã",
+    "district_code": "635",
+    "codename": "chu_rang"
+  },
+  {
+    "code": "24019",
+    "name": "Ia KDăm",
+    "name_en": "Ia KDam",
+    "full_name": "Xã Ia KDăm",
+    "full_name_en": "Ia KDam Commune",
+    "type": "xã",
+    "district_code": "635",
+    "codename": "ia_kdam"
+  },
+  {
+    "code": "24022",
+    "name": "Kim Tân",
+    "name_en": "Kim Tan",
+    "full_name": "Xã Kim Tân",
+    "full_name_en": "Kim Tan Commune",
+    "type": "xã",
+    "district_code": "635",
+    "codename": "kim_tan"
+  },
+  {
+    "code": "24025",
+    "name": "Chư Mố",
+    "name_en": "Chu Mo",
+    "full_name": "Xã Chư Mố",
+    "full_name_en": "Chu Mo Commune",
+    "type": "xã",
+    "district_code": "635",
+    "codename": "chu_mo"
+  },
+  {
+    "code": "24028",
+    "name": "Ia Tul",
+    "name_en": "Ia Tul",
+    "full_name": "Xã Ia Tul",
+    "full_name_en": "Ia Tul Commune",
+    "type": "xã",
+    "district_code": "635",
+    "codename": "ia_tul"
+  },
+  {
+    "code": "24031",
+    "name": "Ia Ma Rơn",
+    "name_en": "Ia Ma Ron",
+    "full_name": "Xã Ia Ma Rơn",
+    "full_name_en": "Ia Ma Ron Commune",
+    "type": "xã",
+    "district_code": "635",
+    "codename": "ia_ma_ron"
+  },
+  {
+    "code": "24034",
+    "name": "Ia Broăi",
+    "name_en": "Ia Broai",
+    "full_name": "Xã Ia Broăi",
+    "full_name_en": "Ia Broai Commune",
+    "type": "xã",
+    "district_code": "635",
+    "codename": "ia_broai"
+  },
+  {
+    "code": "24037",
+    "name": "Ia Trok",
+    "name_en": "Ia Trok",
+    "full_name": "Xã Ia Trok",
+    "full_name_en": "Ia Trok Commune",
+    "type": "xã",
+    "district_code": "635",
+    "codename": "ia_trok"
+  }
+]

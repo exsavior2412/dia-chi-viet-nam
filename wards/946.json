@@ -1,0 +1,112 @@
+[
+  {
+    "code": "31639",
+    "name": "Long Phú",
+    "name_en": "Long Phu",
+    "full_name": "Thị trấn Long Phú",
+    "full_name_en": "Long Phu Township",
+    "type": "thị trấn",
+    "district_code": "946",
+    "codename": "long_phu"
+  },
+  {
+    "code": "31642",
+    "name": "Song Phụng",
+    "name_en": "Song Phung",
+    "full_name": "Xã Song Phụng",
+    "full_name_en": "Song Phung Commune",
+    "type": "xã",
+    "district_code": "946",
+    "codename": "song_phung"
+  },
+  {
+    "code": "31645",
+    "name": "Đại Ngãi",
+    "name_en": "Dai Ngai",
+    "full_name": "Thị trấn Đại Ngãi",
+    "full_name_en": "Dai Ngai Township",
+    "type": "thị trấn",
+    "district_code": "946",
+    "codename": "dai_ngai"
+  },
+  {
+    "code": "31648",
+    "name": "Hậu Thạnh",
+    "name_en": "Hau Thanh",
+    "full_name": "Xã Hậu Thạnh",
+    "full_name_en": "Hau Thanh Commune",
+    "type": "xã",
+    "district_code": "946",
+    "codename": "hau_thanh"
+  },
+  {
+    "code": "31651",
+    "name": "Long Đức",
+    "name_en": "Long Duc",
+    "full_name": "Xã Long Đức",
+    "full_name_en": "Long Duc Commune",
+    "type": "xã",
+    "district_code": "946",
+    "codename": "long_duc"
+  },
+  {
+    "code": "31654",
+    "name": "Trường Khánh",
+    "name_en": "Truong Khanh",
+    "full_name": "Xã Trường Khánh",
+    "full_name_en": "Truong Khanh Commune",
+    "type": "xã",
+    "district_code": "946",
+    "codename": "truong_khanh"
+  },
+  {
+    "code": "31657",
+    "name": "Phú Hữu",
+    "name_en": "Phu Huu",
+    "full_name": "Xã Phú Hữu",
+    "full_name_en": "Phu Huu Commune",
+    "type": "xã",
+    "district_code": "946",
+    "codename": "phu_huu"
+  },
+  {
+    "code": "31660",
+    "name": "Tân Hưng",
+    "name_en": "Tan Hung",
+    "full_name": "Xã Tân Hưng",
+    "full_name_en": "Tan Hung Commune",
+    "type": "xã",
+    "district_code": "946",
+    "codename": "tan_hung"
+  },
+  {
+    "code": "31663",
+    "name": "Châu Khánh",
+    "name_en": "Chau Khanh",
+    "full_name": "Xã Châu Khánh",
+    "full_name_en": "Chau Khanh Commune",
+    "type": "xã",
+    "district_code": "946",
+    "codename": "chau_khanh"
+  },
+  {
+    "code": "31666",
+    "name": "Tân Thạnh",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thạnh",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "946",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "31669",
+    "name": "Long Phú",
+    "name_en": "Long Phu",
+    "full_name": "Xã Long Phú",
+    "full_name_en": "Long Phu Commune",
+    "type": "xã",
+    "district_code": "946",
+    "codename": "long_phu"
+  }
+]

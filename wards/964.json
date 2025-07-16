@@ -1,0 +1,162 @@
+[
+  {
+    "code": "31999",
+    "name": "9",
+    "name_en": "9",
+    "full_name": "Phường 9",
+    "full_name_en": "Ward 9",
+    "type": "phường",
+    "district_code": "964",
+    "codename": "9"
+  },
+  {
+    "code": "32002",
+    "name": "2",
+    "name_en": "2",
+    "full_name": "Phường 2",
+    "full_name_en": "Ward 2",
+    "type": "phường",
+    "district_code": "964",
+    "codename": "2"
+  },
+  {
+    "code": "32005",
+    "name": "1",
+    "name_en": "1",
+    "full_name": "Phường 1",
+    "full_name_en": "Ward 1",
+    "type": "phường",
+    "district_code": "964",
+    "codename": "1"
+  },
+  {
+    "code": "32008",
+    "name": "5",
+    "name_en": "5",
+    "full_name": "Phường 5",
+    "full_name_en": "Ward 5",
+    "type": "phường",
+    "district_code": "964",
+    "codename": "5"
+  },
+  {
+    "code": "32014",
+    "name": "8",
+    "name_en": "8",
+    "full_name": "Phường 8",
+    "full_name_en": "Ward 8",
+    "type": "phường",
+    "district_code": "964",
+    "codename": "8"
+  },
+  {
+    "code": "32017",
+    "name": "6",
+    "name_en": "6",
+    "full_name": "Phường 6",
+    "full_name_en": "Ward 6",
+    "type": "phường",
+    "district_code": "964",
+    "codename": "6"
+  },
+  {
+    "code": "32020",
+    "name": "7",
+    "name_en": "7",
+    "full_name": "Phường 7",
+    "full_name_en": "Ward 7",
+    "type": "phường",
+    "district_code": "964",
+    "codename": "7"
+  },
+  {
+    "code": "32022",
+    "name": "Tân Xuyên",
+    "name_en": "Tan Xuyen",
+    "full_name": "Phường Tân Xuyên",
+    "full_name_en": "Tan Xuyen Ward",
+    "type": "phường",
+    "district_code": "964",
+    "codename": "tan_xuyen"
+  },
+  {
+    "code": "32023",
+    "name": "An Xuyên",
+    "name_en": "An Xuyen",
+    "full_name": "Xã An Xuyên",
+    "full_name_en": "An Xuyen Commune",
+    "type": "xã",
+    "district_code": "964",
+    "codename": "an_xuyen"
+  },
+  {
+    "code": "32025",
+    "name": "Tân Thành",
+    "name_en": "Tan Thanh",
+    "full_name": "Phường Tân Thành",
+    "full_name_en": "Tan Thanh Ward",
+    "type": "phường",
+    "district_code": "964",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "32026",
+    "name": "Tân Thành",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thành",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "964",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "32029",
+    "name": "Tắc Vân",
+    "name_en": "Tac Van",
+    "full_name": "Xã Tắc Vân",
+    "full_name_en": "Tac Van Commune",
+    "type": "xã",
+    "district_code": "964",
+    "codename": "tac_van"
+  },
+  {
+    "code": "32032",
+    "name": "Lý Văn Lâm",
+    "name_en": "Ly Van Lam",
+    "full_name": "Xã Lý Văn Lâm",
+    "full_name_en": "Ly Van Lam Commune",
+    "type": "xã",
+    "district_code": "964",
+    "codename": "ly_van_lam"
+  },
+  {
+    "code": "32035",
+    "name": "Định Bình",
+    "name_en": "Dinh Binh",
+    "full_name": "Xã Định Bình",
+    "full_name_en": "Dinh Binh Commune",
+    "type": "xã",
+    "district_code": "964",
+    "codename": "dinh_binh"
+  },
+  {
+    "code": "32038",
+    "name": "Hòa Thành",
+    "name_en": "Hoa Thanh",
+    "full_name": "Xã Hòa Thành",
+    "full_name_en": "Hoa Thanh Commune",
+    "type": "xã",
+    "district_code": "964",
+    "codename": "hoa_thanh"
+  },
+  {
+    "code": "32041",
+    "name": "Hòa Tân",
+    "name_en": "Hoa Tan",
+    "full_name": "Xã Hòa Tân",
+    "full_name_en": "Hoa Tan Commune",
+    "type": "xã",
+    "district_code": "964",
+    "codename": "hoa_tan"
+  }
+]

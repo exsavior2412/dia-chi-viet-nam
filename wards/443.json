@@ -1,0 +1,172 @@
+[
+  {
+    "code": "18406",
+    "name": "Nghèn",
+    "name_en": "Nghen",
+    "full_name": "Thị trấn Nghèn",
+    "full_name_en": "Nghen Township",
+    "type": "thị trấn",
+    "district_code": "443",
+    "codename": "nghen"
+  },
+  {
+    "code": "18415",
+    "name": "Thiên Lộc",
+    "name_en": "Thien Loc",
+    "full_name": "Xã Thiên Lộc",
+    "full_name_en": "Thien Loc Commune",
+    "type": "xã",
+    "district_code": "443",
+    "codename": "thien_loc"
+  },
+  {
+    "code": "18418",
+    "name": "Thuần Thiện",
+    "name_en": "Thuan Thien",
+    "full_name": "Xã Thuần Thiện",
+    "full_name_en": "Thuan Thien Commune",
+    "type": "xã",
+    "district_code": "443",
+    "codename": "thuan_thien"
+  },
+  {
+    "code": "18427",
+    "name": "Vượng Lộc",
+    "name_en": "Vuong Loc",
+    "full_name": "Xã Vượng Lộc",
+    "full_name_en": "Vuong Loc Commune",
+    "type": "xã",
+    "district_code": "443",
+    "codename": "vuong_loc"
+  },
+  {
+    "code": "18433",
+    "name": "Thanh Lộc",
+    "name_en": "Thanh Loc",
+    "full_name": "Xã Thanh Lộc",
+    "full_name_en": "Thanh Loc Commune",
+    "type": "xã",
+    "district_code": "443",
+    "codename": "thanh_loc"
+  },
+  {
+    "code": "18436",
+    "name": "Kim Song Trường",
+    "name_en": "Kim Song Truong",
+    "full_name": "Xã Kim Song Trường",
+    "full_name_en": "Kim Song Truong Commune",
+    "type": "xã",
+    "district_code": "443",
+    "codename": "kim_song_truong"
+  },
+  {
+    "code": "18439",
+    "name": "Thường Nga",
+    "name_en": "Thuong Nga",
+    "full_name": "Xã Thường Nga",
+    "full_name_en": "Thuong Nga Commune",
+    "type": "xã",
+    "district_code": "443",
+    "codename": "thuong_nga"
+  },
+  {
+    "code": "18445",
+    "name": "Tùng Lộc",
+    "name_en": "Tung Loc",
+    "full_name": "Xã Tùng Lộc",
+    "full_name_en": "Tung Loc Commune",
+    "type": "xã",
+    "district_code": "443",
+    "codename": "tung_loc"
+  },
+  {
+    "code": "18454",
+    "name": "Phú Lộc",
+    "name_en": "Phu Loc",
+    "full_name": "Xã Phú Lộc",
+    "full_name_en": "Phu Loc Commune",
+    "type": "xã",
+    "district_code": "443",
+    "codename": "phu_loc"
+  },
+  {
+    "code": "18463",
+    "name": "Gia Hanh",
+    "name_en": "Gia Hanh",
+    "full_name": "Xã Gia Hanh",
+    "full_name_en": "Gia Hanh Commune",
+    "type": "xã",
+    "district_code": "443",
+    "codename": "gia_hanh"
+  },
+  {
+    "code": "18466",
+    "name": "Khánh Vĩnh Yên",
+    "name_en": "Khanh Vinh Yen",
+    "full_name": "Xã Khánh Vĩnh Yên",
+    "full_name_en": "Khanh Vinh Yen Commune",
+    "type": "xã",
+    "district_code": "443",
+    "codename": "khanh_vinh_yen"
+  },
+  {
+    "code": "18475",
+    "name": "Xuân Lộc",
+    "name_en": "Xuan Loc",
+    "full_name": "Xã Xuân Lộc",
+    "full_name_en": "Xuan Loc Commune",
+    "type": "xã",
+    "district_code": "443",
+    "codename": "xuan_loc"
+  },
+  {
+    "code": "18478",
+    "name": "Thượng Lộc",
+    "name_en": "Thuong Loc",
+    "full_name": "Xã Thượng Lộc",
+    "full_name_en": "Thuong Loc Commune",
+    "type": "xã",
+    "district_code": "443",
+    "codename": "thuong_loc"
+  },
+  {
+    "code": "18481",
+    "name": "Quang Lộc",
+    "name_en": "Quang Loc",
+    "full_name": "Xã Quang Lộc",
+    "full_name_en": "Quang Loc Commune",
+    "type": "xã",
+    "district_code": "443",
+    "codename": "quang_loc"
+  },
+  {
+    "code": "18484",
+    "name": "Đồng Lộc",
+    "name_en": "Dong Loc",
+    "full_name": "Thị trấn Đồng Lộc",
+    "full_name_en": "Dong Loc Township",
+    "type": "thị trấn",
+    "district_code": "443",
+    "codename": "dong_loc"
+  },
+  {
+    "code": "18487",
+    "name": "Mỹ Lộc",
+    "name_en": "My Loc",
+    "full_name": "Xã Mỹ Lộc",
+    "full_name_en": "My Loc Commune",
+    "type": "xã",
+    "district_code": "443",
+    "codename": "my_loc"
+  },
+  {
+    "code": "18490",
+    "name": "Sơn Lộc",
+    "name_en": "Son Loc",
+    "full_name": "Xã Sơn Lộc",
+    "full_name_en": "Son Loc Commune",
+    "type": "xã",
+    "district_code": "443",
+    "codename": "son_loc"
+  }
+]

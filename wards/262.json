@@ -1,0 +1,182 @@
+[
+  {
+    "code": "09400",
+    "name": "Hồ",
+    "name_en": "Ho",
+    "full_name": "Phường Hồ",
+    "full_name_en": "Ho Ward",
+    "type": "phường",
+    "district_code": "262",
+    "codename": "ho"
+  },
+  {
+    "code": "09403",
+    "name": "Hoài Thượng",
+    "name_en": "Hoai Thuong",
+    "full_name": "Xã Hoài Thượng",
+    "full_name_en": "Hoai Thuong Commune",
+    "type": "xã",
+    "district_code": "262",
+    "codename": "hoai_thuong"
+  },
+  {
+    "code": "09406",
+    "name": "Đại Đồng Thành",
+    "name_en": "Dai Dong Thanh",
+    "full_name": "Xã Đại Đồng Thành",
+    "full_name_en": "Dai Dong Thanh Commune",
+    "type": "xã",
+    "district_code": "262",
+    "codename": "dai_dong_thanh"
+  },
+  {
+    "code": "09409",
+    "name": "Mão Điền",
+    "name_en": "Mao Dien",
+    "full_name": "Xã Mão Điền",
+    "full_name_en": "Mao Dien Commune",
+    "type": "xã",
+    "district_code": "262",
+    "codename": "mao_dien"
+  },
+  {
+    "code": "09412",
+    "name": "Song Hồ",
+    "name_en": "Song Ho",
+    "full_name": "Phường Song Hồ",
+    "full_name_en": "Song Ho Ward",
+    "type": "phường",
+    "district_code": "262",
+    "codename": "song_ho"
+  },
+  {
+    "code": "09415",
+    "name": "Đình Tổ",
+    "name_en": "Dinh To",
+    "full_name": "Xã Đình Tổ",
+    "full_name_en": "Dinh To Commune",
+    "type": "xã",
+    "district_code": "262",
+    "codename": "dinh_to"
+  },
+  {
+    "code": "09418",
+    "name": "An Bình",
+    "name_en": "An Binh",
+    "full_name": "Phường An Bình",
+    "full_name_en": "An Binh Ward",
+    "type": "phường",
+    "district_code": "262",
+    "codename": "an_binh"
+  },
+  {
+    "code": "09421",
+    "name": "Trí Quả",
+    "name_en": "Tri Qua",
+    "full_name": "Phường Trí Quả",
+    "full_name_en": "Tri Qua Ward",
+    "type": "phường",
+    "district_code": "262",
+    "codename": "tri_qua"
+  },
+  {
+    "code": "09424",
+    "name": "Gia Đông",
+    "name_en": "Gia Dong",
+    "full_name": "Phường Gia Đông",
+    "full_name_en": "Gia Dong Ward",
+    "type": "phường",
+    "district_code": "262",
+    "codename": "gia_dong"
+  },
+  {
+    "code": "09427",
+    "name": "Thanh Khương",
+    "name_en": "Thanh Khuong",
+    "full_name": "Phường Thanh Khương",
+    "full_name_en": "Thanh Khuong Ward",
+    "type": "phường",
+    "district_code": "262",
+    "codename": "thanh_khuong"
+  },
+  {
+    "code": "09430",
+    "name": "Trạm Lộ",
+    "name_en": "Tram Lo",
+    "full_name": "Phường Trạm Lộ",
+    "full_name_en": "Tram Lo Ward",
+    "type": "phường",
+    "district_code": "262",
+    "codename": "tram_lo"
+  },
+  {
+    "code": "09433",
+    "name": "Xuân Lâm",
+    "name_en": "Xuan Lam",
+    "full_name": "Phường Xuân Lâm",
+    "full_name_en": "Xuan Lam Ward",
+    "type": "phường",
+    "district_code": "262",
+    "codename": "xuan_lam"
+  },
+  {
+    "code": "09436",
+    "name": "Hà Mãn",
+    "name_en": "Ha Man",
+    "full_name": "Phường Hà Mãn",
+    "full_name_en": "Ha Man Ward",
+    "type": "phường",
+    "district_code": "262",
+    "codename": "ha_man"
+  },
+  {
+    "code": "09439",
+    "name": "Ngũ Thái",
+    "name_en": "Ngu Thai",
+    "full_name": "Xã Ngũ Thái",
+    "full_name_en": "Ngu Thai Commune",
+    "type": "xã",
+    "district_code": "262",
+    "codename": "ngu_thai"
+  },
+  {
+    "code": "09442",
+    "name": "Nguyệt Đức",
+    "name_en": "Nguyet Duc",
+    "full_name": "Xã Nguyệt Đức",
+    "full_name_en": "Nguyet Duc Commune",
+    "type": "xã",
+    "district_code": "262",
+    "codename": "nguyet_duc"
+  },
+  {
+    "code": "09445",
+    "name": "Ninh Xá",
+    "name_en": "Ninh Xa",
+    "full_name": "Phường Ninh Xá",
+    "full_name_en": "Ninh Xa Ward",
+    "type": "phường",
+    "district_code": "262",
+    "codename": "ninh_xa"
+  },
+  {
+    "code": "09448",
+    "name": "Nghĩa Đạo",
+    "name_en": "Nghia Dao",
+    "full_name": "Xã Nghĩa Đạo",
+    "full_name_en": "Nghia Dao Commune",
+    "type": "xã",
+    "district_code": "262",
+    "codename": "nghia_dao"
+  },
+  {
+    "code": "09451",
+    "name": "Song Liễu",
+    "name_en": "Song Lieu",
+    "full_name": "Xã Song Liễu",
+    "full_name_en": "Song Lieu Commune",
+    "type": "xã",
+    "district_code": "262",
+    "codename": "song_lieu"
+  }
+]

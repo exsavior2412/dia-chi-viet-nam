@@ -1,0 +1,102 @@
+[
+  {
+    "code": "593",
+    "name": "Phan Thiết",
+    "name_en": "Phan Thiet",
+    "full_name": "Thành phố Phan Thiết",
+    "full_name_en": "Phan Thiet City",
+    "type": "thành phố",
+    "province_code": "60",
+    "codename": "phan_thiet"
+  },
+  {
+    "code": "594",
+    "name": "La Gi",
+    "name_en": "La Gi",
+    "full_name": "Thị xã La Gi",
+    "full_name_en": "La Gi Town",
+    "type": "thị xã",
+    "province_code": "60",
+    "codename": "la_gi"
+  },
+  {
+    "code": "595",
+    "name": "Tuy Phong",
+    "name_en": "Tuy Phong",
+    "full_name": "Huyện Tuy Phong",
+    "full_name_en": "Tuy Phong District",
+    "type": "huyện",
+    "province_code": "60",
+    "codename": "tuy_phong"
+  },
+  {
+    "code": "596",
+    "name": "Bắc Bình",
+    "name_en": "Bac Binh",
+    "full_name": "Huyện Bắc Bình",
+    "full_name_en": "Bac Binh District",
+    "type": "huyện",
+    "province_code": "60",
+    "codename": "bac_binh"
+  },
+  {
+    "code": "597",
+    "name": "Hàm Thuận Bắc",
+    "name_en": "Ham Thuan Bac",
+    "full_name": "Huyện Hàm Thuận Bắc",
+    "full_name_en": "Ham Thuan Bac District",
+    "type": "huyện",
+    "province_code": "60",
+    "codename": "ham_thuan_bac"
+  },
+  {
+    "code": "598",
+    "name": "Hàm Thuận Nam",
+    "name_en": "Ham Thuan Nam",
+    "full_name": "Huyện Hàm Thuận Nam",
+    "full_name_en": "Ham Thuan Nam District",
+    "type": "huyện",
+    "province_code": "60",
+    "codename": "ham_thuan_nam"
+  },
+  {
+    "code": "599",
+    "name": "Tánh Linh",
+    "name_en": "Tanh Linh",
+    "full_name": "Huyện Tánh Linh",
+    "full_name_en": "Tanh Linh District",
+    "type": "huyện",
+    "province_code": "60",
+    "codename": "tanh_linh"
+  },
+  {
+    "code": "600",
+    "name": "Đức Linh",
+    "name_en": "Duc Linh",
+    "full_name": "Huyện Đức Linh",
+    "full_name_en": "Duc Linh District",
+    "type": "huyện",
+    "province_code": "60",
+    "codename": "duc_linh"
+  },
+  {
+    "code": "601",
+    "name": "Hàm Tân",
+    "name_en": "Ham Tan",
+    "full_name": "Huyện Hàm Tân",
+    "full_name_en": "Ham Tan District",
+    "type": "huyện",
+    "province_code": "60",
+    "codename": "ham_tan"
+  },
+  {
+    "code": "602",
+    "name": "Phú Quí",
+    "name_en": "Phu Qui",
+    "full_name": "Huyện Phú Quí",
+    "full_name_en": "Phu Qui District",
+    "type": "huyện",
+    "province_code": "60",
+    "codename": "phu_qui"
+  }
+]

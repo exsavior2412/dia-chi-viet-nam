@@ -1,0 +1,142 @@
+[
+  {
+    "code": "13285",
+    "name": "Quang Trung",
+    "name_en": "Quang Trung",
+    "full_name": "Phường Quang Trung",
+    "full_name_en": "Quang Trung Ward",
+    "type": "phường",
+    "district_code": "347",
+    "codename": "quang_trung"
+  },
+  {
+    "code": "13291",
+    "name": "Lê Hồng Phong",
+    "name_en": "Le Hong Phong",
+    "full_name": "Phường Lê Hồng Phong",
+    "full_name_en": "Le Hong Phong Ward",
+    "type": "phường",
+    "district_code": "347",
+    "codename": "le_hong_phong"
+  },
+  {
+    "code": "13294",
+    "name": "Châu Cầu",
+    "name_en": "Chau Cau",
+    "full_name": "Phường Châu Cầu",
+    "full_name_en": "Chau Cau Ward",
+    "type": "phường",
+    "district_code": "347",
+    "codename": "chau_cau"
+  },
+  {
+    "code": "13303",
+    "name": "Lam Hạ",
+    "name_en": "Lam Ha",
+    "full_name": "Phường Lam Hạ",
+    "full_name_en": "Lam Ha Ward",
+    "type": "phường",
+    "district_code": "347",
+    "codename": "lam_ha"
+  },
+  {
+    "code": "13306",
+    "name": "Phù Vân",
+    "name_en": "Phu Van",
+    "full_name": "Xã Phù Vân",
+    "full_name_en": "Phu Van Commune",
+    "type": "xã",
+    "district_code": "347",
+    "codename": "phu_van"
+  },
+  {
+    "code": "13309",
+    "name": "Liêm Chính",
+    "name_en": "Liem Chinh",
+    "full_name": "Phường Liêm Chính",
+    "full_name_en": "Liem Chinh Ward",
+    "type": "phường",
+    "district_code": "347",
+    "codename": "liem_chinh"
+  },
+  {
+    "code": "13315",
+    "name": "Thanh Châu",
+    "name_en": "Thanh Chau",
+    "full_name": "Phường Thanh Châu",
+    "full_name_en": "Thanh Chau Ward",
+    "type": "phường",
+    "district_code": "347",
+    "codename": "thanh_chau"
+  },
+  {
+    "code": "13318",
+    "name": "Châu Sơn",
+    "name_en": "Chau Son",
+    "full_name": "Phường Châu Sơn",
+    "full_name_en": "Chau Son Ward",
+    "type": "phường",
+    "district_code": "347",
+    "codename": "chau_son"
+  },
+  {
+    "code": "13366",
+    "name": "Tân Hiệp",
+    "name_en": "Tan Hiep",
+    "full_name": "Phường Tân Hiệp",
+    "full_name_en": "Tan Hiep Ward",
+    "type": "phường",
+    "district_code": "347",
+    "codename": "tan_hiep"
+  },
+  {
+    "code": "13426",
+    "name": "Kim Bình",
+    "name_en": "Kim Binh",
+    "full_name": "Xã Kim Bình",
+    "full_name_en": "Kim Binh Commune",
+    "type": "xã",
+    "district_code": "347",
+    "codename": "kim_binh"
+  },
+  {
+    "code": "13444",
+    "name": "Tân Liêm",
+    "name_en": "Tan Liem",
+    "full_name": "Phường Tân Liêm",
+    "full_name_en": "Tan Liem Ward",
+    "type": "phường",
+    "district_code": "347",
+    "codename": "tan_liem"
+  },
+  {
+    "code": "13459",
+    "name": "Thanh Tuyền",
+    "name_en": "Thanh Tuyen",
+    "full_name": "Phường Thanh Tuyền",
+    "full_name_en": "Thanh Tuyen Ward",
+    "type": "phường",
+    "district_code": "347",
+    "codename": "thanh_tuyen"
+  },
+  {
+    "code": "13507",
+    "name": "Đinh Xá",
+    "name_en": "Dinh Xa",
+    "full_name": "Xã Đinh Xá",
+    "full_name_en": "Dinh Xa Commune",
+    "type": "xã",
+    "district_code": "347",
+    "codename": "dinh_xa"
+  },
+  {
+    "code": "13513",
+    "name": "Trịnh Xá",
+    "name_en": "Trinh Xa",
+    "full_name": "Xã Trịnh Xá",
+    "full_name_en": "Trinh Xa Commune",
+    "type": "xã",
+    "district_code": "347",
+    "codename": "trinh_xa"
+  }
+]

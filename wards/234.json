@@ -1,0 +1,172 @@
+[
+  {
+    "code": "08290",
+    "name": "Yên Lập",
+    "name_en": "Yen Lap",
+    "full_name": "Thị trấn Yên Lập",
+    "full_name_en": "Yen Lap Township",
+    "type": "thị trấn",
+    "district_code": "234",
+    "codename": "yen_lap"
+  },
+  {
+    "code": "08293",
+    "name": "Mỹ Lung",
+    "name_en": "My Lung",
+    "full_name": "Xã Mỹ Lung",
+    "full_name_en": "My Lung Commune",
+    "type": "xã",
+    "district_code": "234",
+    "codename": "my_lung"
+  },
+  {
+    "code": "08296",
+    "name": "Mỹ Lương",
+    "name_en": "My Luong",
+    "full_name": "Xã Mỹ Lương",
+    "full_name_en": "My Luong Commune",
+    "type": "xã",
+    "district_code": "234",
+    "codename": "my_luong"
+  },
+  {
+    "code": "08299",
+    "name": "Lương Sơn",
+    "name_en": "Luong Son",
+    "full_name": "Xã Lương Sơn",
+    "full_name_en": "Luong Son Commune",
+    "type": "xã",
+    "district_code": "234",
+    "codename": "luong_son"
+  },
+  {
+    "code": "08302",
+    "name": "Xuân An",
+    "name_en": "Xuan An",
+    "full_name": "Xã Xuân An",
+    "full_name_en": "Xuan An Commune",
+    "type": "xã",
+    "district_code": "234",
+    "codename": "xuan_an"
+  },
+  {
+    "code": "08305",
+    "name": "Xuân Viên",
+    "name_en": "Xuan Vien",
+    "full_name": "Xã Xuân Viên",
+    "full_name_en": "Xuan Vien Commune",
+    "type": "xã",
+    "district_code": "234",
+    "codename": "xuan_vien"
+  },
+  {
+    "code": "08308",
+    "name": "Xuân Thủy",
+    "name_en": "Xuan Thuy",
+    "full_name": "Xã Xuân Thủy",
+    "full_name_en": "Xuan Thuy Commune",
+    "type": "xã",
+    "district_code": "234",
+    "codename": "xuan_thuy"
+  },
+  {
+    "code": "08311",
+    "name": "Trung Sơn",
+    "name_en": "Trung Son",
+    "full_name": "Xã Trung Sơn",
+    "full_name_en": "Trung Son Commune",
+    "type": "xã",
+    "district_code": "234",
+    "codename": "trung_son"
+  },
+  {
+    "code": "08314",
+    "name": "Hưng Long",
+    "name_en": "Hung Long",
+    "full_name": "Xã Hưng Long",
+    "full_name_en": "Hung Long Commune",
+    "type": "xã",
+    "district_code": "234",
+    "codename": "hung_long"
+  },
+  {
+    "code": "08317",
+    "name": "Nga Hoàng",
+    "name_en": "Nga Hoang",
+    "full_name": "Xã Nga Hoàng",
+    "full_name_en": "Nga Hoang Commune",
+    "type": "xã",
+    "district_code": "234",
+    "codename": "nga_hoang"
+  },
+  {
+    "code": "08320",
+    "name": "Đồng Lạc",
+    "name_en": "Dong Lac",
+    "full_name": "Xã Đồng Lạc",
+    "full_name_en": "Dong Lac Commune",
+    "type": "xã",
+    "district_code": "234",
+    "codename": "dong_lac"
+  },
+  {
+    "code": "08323",
+    "name": "Thượng Long",
+    "name_en": "Thuong Long",
+    "full_name": "Xã Thượng Long",
+    "full_name_en": "Thuong Long Commune",
+    "type": "xã",
+    "district_code": "234",
+    "codename": "thuong_long"
+  },
+  {
+    "code": "08326",
+    "name": "Đồng Thịnh",
+    "name_en": "Dong Thinh",
+    "full_name": "Xã Đồng Thịnh",
+    "full_name_en": "Dong Thinh Commune",
+    "type": "xã",
+    "district_code": "234",
+    "codename": "dong_thinh"
+  },
+  {
+    "code": "08329",
+    "name": "Phúc Khánh",
+    "name_en": "Phuc Khanh",
+    "full_name": "Xã Phúc Khánh",
+    "full_name_en": "Phuc Khanh Commune",
+    "type": "xã",
+    "district_code": "234",
+    "codename": "phuc_khanh"
+  },
+  {
+    "code": "08332",
+    "name": "Minh Hòa",
+    "name_en": "Minh Hoa",
+    "full_name": "Xã Minh Hòa",
+    "full_name_en": "Minh Hoa Commune",
+    "type": "xã",
+    "district_code": "234",
+    "codename": "minh_hoa"
+  },
+  {
+    "code": "08335",
+    "name": "Ngọc Lập",
+    "name_en": "Ngoc Lap",
+    "full_name": "Xã Ngọc Lập",
+    "full_name_en": "Ngoc Lap Commune",
+    "type": "xã",
+    "district_code": "234",
+    "codename": "ngoc_lap"
+  },
+  {
+    "code": "08338",
+    "name": "Ngọc Đồng",
+    "name_en": "Ngoc Dong",
+    "full_name": "Xã Ngọc Đồng",
+    "full_name_en": "Ngoc Dong Commune",
+    "type": "xã",
+    "district_code": "234",
+    "codename": "ngoc_dong"
+  }
+]

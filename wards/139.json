@@ -1,0 +1,122 @@
+[
+  {
+    "code": "04585",
+    "name": "Trạm Tấu",
+    "name_en": "Tram Tau",
+    "full_name": "Thị trấn Trạm Tấu",
+    "full_name_en": "Tram Tau Township",
+    "type": "thị trấn",
+    "district_code": "139",
+    "codename": "tram_tau"
+  },
+  {
+    "code": "04588",
+    "name": "Túc Đán",
+    "name_en": "Tuc Dan",
+    "full_name": "Xã Túc Đán",
+    "full_name_en": "Tuc Dan Commune",
+    "type": "xã",
+    "district_code": "139",
+    "codename": "tuc_dan"
+  },
+  {
+    "code": "04591",
+    "name": "Pá Lau",
+    "name_en": "Pa Lau",
+    "full_name": "Xã Pá Lau",
+    "full_name_en": "Pa Lau Commune",
+    "type": "xã",
+    "district_code": "139",
+    "codename": "pa_lau"
+  },
+  {
+    "code": "04594",
+    "name": "Xà Hồ",
+    "name_en": "Xa Ho",
+    "full_name": "Xã Xà Hồ",
+    "full_name_en": "Xa Ho Commune",
+    "type": "xã",
+    "district_code": "139",
+    "codename": "xa_ho"
+  },
+  {
+    "code": "04597",
+    "name": "Phình Hồ",
+    "name_en": "Phinh Ho",
+    "full_name": "Xã Phình Hồ",
+    "full_name_en": "Phinh Ho Commune",
+    "type": "xã",
+    "district_code": "139",
+    "codename": "phinh_ho"
+  },
+  {
+    "code": "04600",
+    "name": "Trạm Tấu",
+    "name_en": "Tram Tau",
+    "full_name": "Xã Trạm Tấu",
+    "full_name_en": "Tram Tau Commune",
+    "type": "xã",
+    "district_code": "139",
+    "codename": "tram_tau"
+  },
+  {
+    "code": "04603",
+    "name": "Tà Si Láng",
+    "name_en": "Ta Si Lang",
+    "full_name": "Xã Tà Si Láng",
+    "full_name_en": "Ta Si Lang Commune",
+    "type": "xã",
+    "district_code": "139",
+    "codename": "ta_si_lang"
+  },
+  {
+    "code": "04606",
+    "name": "Pá Hu",
+    "name_en": "Pa Hu",
+    "full_name": "Xã Pá Hu",
+    "full_name_en": "Pa Hu Commune",
+    "type": "xã",
+    "district_code": "139",
+    "codename": "pa_hu"
+  },
+  {
+    "code": "04609",
+    "name": "Làng Nhì",
+    "name_en": "Lang Nhi",
+    "full_name": "Xã Làng Nhì",
+    "full_name_en": "Lang Nhi Commune",
+    "type": "xã",
+    "district_code": "139",
+    "codename": "lang_nhi"
+  },
+  {
+    "code": "04612",
+    "name": "Bản Công",
+    "name_en": "Ban Cong",
+    "full_name": "Xã Bản Công",
+    "full_name_en": "Ban Cong Commune",
+    "type": "xã",
+    "district_code": "139",
+    "codename": "ban_cong"
+  },
+  {
+    "code": "04615",
+    "name": "Bản Mù",
+    "name_en": "Ban Mu",
+    "full_name": "Xã Bản Mù",
+    "full_name_en": "Ban Mu Commune",
+    "type": "xã",
+    "district_code": "139",
+    "codename": "ban_mu"
+  },
+  {
+    "code": "04618",
+    "name": "Hát Lìu",
+    "name_en": "Hat Liu",
+    "full_name": "Xã Hát Lìu",
+    "full_name_en": "Hat Liu Commune",
+    "type": "xã",
+    "district_code": "139",
+    "codename": "hat_liu"
+  }
+]

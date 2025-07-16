@@ -1,0 +1,122 @@
+[
+  {
+    "code": "20695",
+    "name": "Thạnh Mỹ",
+    "name_en": "Thanh My",
+    "full_name": "Thị trấn Thạnh Mỹ",
+    "full_name_en": "Thanh My Township",
+    "type": "thị trấn",
+    "district_code": "510",
+    "codename": "thanh_my"
+  },
+  {
+    "code": "20698",
+    "name": "Laêê",
+    "name_en": "Laee",
+    "full_name": "Xã Laêê",
+    "full_name_en": "Laee Commune",
+    "type": "xã",
+    "district_code": "510",
+    "codename": "laee"
+  },
+  {
+    "code": "20699",
+    "name": "Chơ Chun",
+    "name_en": "Cho Chun",
+    "full_name": "Xã Chơ Chun",
+    "full_name_en": "Cho Chun Commune",
+    "type": "xã",
+    "district_code": "510",
+    "codename": "cho_chun"
+  },
+  {
+    "code": "20701",
+    "name": "Zuôich",
+    "name_en": "Zuoich",
+    "full_name": "Xã Zuôich",
+    "full_name_en": "Zuoich Commune",
+    "type": "xã",
+    "district_code": "510",
+    "codename": "zuoich"
+  },
+  {
+    "code": "20702",
+    "name": "Tà Pơơ",
+    "name_en": "Ta Poo",
+    "full_name": "Xã Tà Pơơ",
+    "full_name_en": "Ta Poo Commune",
+    "type": "xã",
+    "district_code": "510",
+    "codename": "ta_poo"
+  },
+  {
+    "code": "20704",
+    "name": "La Dêê",
+    "name_en": "La Dee",
+    "full_name": "Xã La Dêê",
+    "full_name_en": "La Dee Commune",
+    "type": "xã",
+    "district_code": "510",
+    "codename": "la_dee"
+  },
+  {
+    "code": "20705",
+    "name": "Đắc Tôi",
+    "name_en": "Dac Toi",
+    "full_name": "Xã Đắc Tôi",
+    "full_name_en": "Dac Toi Commune",
+    "type": "xã",
+    "district_code": "510",
+    "codename": "dac_toi"
+  },
+  {
+    "code": "20707",
+    "name": "Chà Vàl",
+    "name_en": "Cha Val",
+    "full_name": "Xã Chà Vàl",
+    "full_name_en": "Cha Val Commune",
+    "type": "xã",
+    "district_code": "510",
+    "codename": "cha_val"
+  },
+  {
+    "code": "20710",
+    "name": "Tà Bhinh",
+    "name_en": "Ta Bhinh",
+    "full_name": "Xã Tà Bhinh",
+    "full_name_en": "Ta Bhinh Commune",
+    "type": "xã",
+    "district_code": "510",
+    "codename": "ta_bhinh"
+  },
+  {
+    "code": "20713",
+    "name": "Cà Dy",
+    "name_en": "Ca Dy",
+    "full_name": "Xã Cà Dy",
+    "full_name_en": "Ca Dy Commune",
+    "type": "xã",
+    "district_code": "510",
+    "codename": "ca_dy"
+  },
+  {
+    "code": "20716",
+    "name": "Đắc Pre",
+    "name_en": "Dac Pre",
+    "full_name": "Xã Đắc Pre",
+    "full_name_en": "Dac Pre Commune",
+    "type": "xã",
+    "district_code": "510",
+    "codename": "dac_pre"
+  },
+  {
+    "code": "20719",
+    "name": "Đắc Pring",
+    "name_en": "Dac Pring",
+    "full_name": "Xã Đắc Pring",
+    "full_name_en": "Dac Pring Commune",
+    "type": "xã",
+    "district_code": "510",
+    "codename": "dac_pring"
+  }
+]

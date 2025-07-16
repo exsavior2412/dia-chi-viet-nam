@@ -1,0 +1,172 @@
+[
+  {
+    "code": "04831",
+    "name": "Đà Bắc",
+    "name_en": "Da Bac",
+    "full_name": "Thị trấn Đà Bắc",
+    "full_name_en": "Da Bac Township",
+    "type": "thị trấn",
+    "district_code": "150",
+    "codename": "da_bac"
+  },
+  {
+    "code": "04834",
+    "name": "Nánh Nghê",
+    "name_en": "Nanh Nghe",
+    "full_name": "Xã Nánh Nghê",
+    "full_name_en": "Nanh Nghe Commune",
+    "type": "xã",
+    "district_code": "150",
+    "codename": "nanh_nghe"
+  },
+  {
+    "code": "04840",
+    "name": "Giáp Đắt",
+    "name_en": "Giap Dat",
+    "full_name": "Xã Giáp Đắt",
+    "full_name_en": "Giap Dat Commune",
+    "type": "xã",
+    "district_code": "150",
+    "codename": "giap_dat"
+  },
+  {
+    "code": "04846",
+    "name": "Mường Chiềng",
+    "name_en": "Muong Chieng",
+    "full_name": "Xã Mường Chiềng",
+    "full_name_en": "Muong Chieng Commune",
+    "type": "xã",
+    "district_code": "150",
+    "codename": "muong_chieng"
+  },
+  {
+    "code": "04849",
+    "name": "Tân Pheo",
+    "name_en": "Tan Pheo",
+    "full_name": "Xã Tân Pheo",
+    "full_name_en": "Tan Pheo Commune",
+    "type": "xã",
+    "district_code": "150",
+    "codename": "tan_pheo"
+  },
+  {
+    "code": "04852",
+    "name": "Đồng Chum",
+    "name_en": "Dong Chum",
+    "full_name": "Xã Đồng Chum",
+    "full_name_en": "Dong Chum Commune",
+    "type": "xã",
+    "district_code": "150",
+    "codename": "dong_chum"
+  },
+  {
+    "code": "04855",
+    "name": "Tân Minh",
+    "name_en": "Tan Minh",
+    "full_name": "Xã Tân Minh",
+    "full_name_en": "Tan Minh Commune",
+    "type": "xã",
+    "district_code": "150",
+    "codename": "tan_minh"
+  },
+  {
+    "code": "04858",
+    "name": "Đoàn Kết",
+    "name_en": "Doan Ket",
+    "full_name": "Xã Đoàn Kết",
+    "full_name_en": "Doan Ket Commune",
+    "type": "xã",
+    "district_code": "150",
+    "codename": "doan_ket"
+  },
+  {
+    "code": "04861",
+    "name": "Đồng Ruộng",
+    "name_en": "Dong Ruong",
+    "full_name": "Xã Đồng Ruộng",
+    "full_name_en": "Dong Ruong Commune",
+    "type": "xã",
+    "district_code": "150",
+    "codename": "dong_ruong"
+  },
+  {
+    "code": "04867",
+    "name": "Tú Lý",
+    "name_en": "Tu Ly",
+    "full_name": "Xã Tú Lý",
+    "full_name_en": "Tu Ly Commune",
+    "type": "xã",
+    "district_code": "150",
+    "codename": "tu_ly"
+  },
+  {
+    "code": "04870",
+    "name": "Trung Thành",
+    "name_en": "Trung Thanh",
+    "full_name": "Xã Trung Thành",
+    "full_name_en": "Trung Thanh Commune",
+    "type": "xã",
+    "district_code": "150",
+    "codename": "trung_thanh"
+  },
+  {
+    "code": "04873",
+    "name": "Yên Hòa",
+    "name_en": "Yen Hoa",
+    "full_name": "Xã Yên Hòa",
+    "full_name_en": "Yen Hoa Commune",
+    "type": "xã",
+    "district_code": "150",
+    "codename": "yen_hoa"
+  },
+  {
+    "code": "04876",
+    "name": "Cao Sơn",
+    "name_en": "Cao Son",
+    "full_name": "Xã Cao Sơn",
+    "full_name_en": "Cao Son Commune",
+    "type": "xã",
+    "district_code": "150",
+    "codename": "cao_son"
+  },
+  {
+    "code": "04879",
+    "name": "Toàn Sơn",
+    "name_en": "Toan Son",
+    "full_name": "Xã Toàn Sơn",
+    "full_name_en": "Toan Son Commune",
+    "type": "xã",
+    "district_code": "150",
+    "codename": "toan_son"
+  },
+  {
+    "code": "04885",
+    "name": "Hiền Lương",
+    "name_en": "Hien Luong",
+    "full_name": "Xã Hiền Lương",
+    "full_name_en": "Hien Luong Commune",
+    "type": "xã",
+    "district_code": "150",
+    "codename": "hien_luong"
+  },
+  {
+    "code": "04888",
+    "name": "Tiền Phong",
+    "name_en": "Tien Phong",
+    "full_name": "Xã Tiền Phong",
+    "full_name_en": "Tien Phong Commune",
+    "type": "xã",
+    "district_code": "150",
+    "codename": "tien_phong"
+  },
+  {
+    "code": "04891",
+    "name": "Vầy Nưa",
+    "name_en": "Vay Nua",
+    "full_name": "Xã Vầy Nưa",
+    "full_name_en": "Vay Nua Commune",
+    "type": "xã",
+    "district_code": "150",
+    "codename": "vay_nua"
+  }
+]

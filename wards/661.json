@@ -1,0 +1,72 @@
+[
+  {
+    "code": "24616",
+    "name": "Quảng Sơn",
+    "name_en": "Quang Son",
+    "full_name": "Xã Quảng Sơn",
+    "full_name_en": "Quang Son Commune",
+    "type": "xã",
+    "district_code": "661",
+    "codename": "quang_son"
+  },
+  {
+    "code": "24620",
+    "name": "Quảng Hoà",
+    "name_en": "Quang Hoa",
+    "full_name": "Xã Quảng Hoà",
+    "full_name_en": "Quang Hoa Commune",
+    "type": "xã",
+    "district_code": "661",
+    "codename": "quang_hoa"
+  },
+  {
+    "code": "24622",
+    "name": "Đắk Ha",
+    "name_en": "Dak Ha",
+    "full_name": "Xã Đắk Ha",
+    "full_name_en": "Dak Ha Commune",
+    "type": "xã",
+    "district_code": "661",
+    "codename": "dak_ha"
+  },
+  {
+    "code": "24625",
+    "name": "Đắk R'Măng",
+    "name_en": "Dak R'Mang",
+    "full_name": "Xã Đắk R'Măng",
+    "full_name_en": "Dak R'Mang Commune",
+    "type": "xã",
+    "district_code": "661",
+    "codename": "dak_rmang"
+  },
+  {
+    "code": "24631",
+    "name": "Quảng Khê",
+    "name_en": "Quang Khe",
+    "full_name": "Xã Quảng Khê",
+    "full_name_en": "Quang Khe Commune",
+    "type": "xã",
+    "district_code": "661",
+    "codename": "quang_khe"
+  },
+  {
+    "code": "24634",
+    "name": "Đắk Plao",
+    "name_en": "Dak Plao",
+    "full_name": "Xã Đắk Plao",
+    "full_name_en": "Dak Plao Commune",
+    "type": "xã",
+    "district_code": "661",
+    "codename": "dak_plao"
+  },
+  {
+    "code": "24637",
+    "name": "Đắk Som",
+    "name_en": "Dak Som",
+    "full_name": "Xã Đắk Som",
+    "full_name_en": "Dak Som Commune",
+    "type": "xã",
+    "district_code": "661",
+    "codename": "dak_som"
+  }
+]

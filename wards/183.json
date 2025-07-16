@@ -1,0 +1,222 @@
+[
+  {
+    "code": "06184",
+    "name": "Đồng Đăng",
+    "name_en": "Dong Dang",
+    "full_name": "Thị trấn Đồng Đăng",
+    "full_name_en": "Dong Dang Township",
+    "type": "thị trấn",
+    "district_code": "183",
+    "codename": "dong_dang"
+  },
+  {
+    "code": "06187",
+    "name": "Cao Lộc",
+    "name_en": "Cao Loc",
+    "full_name": "Thị trấn Cao Lộc",
+    "full_name_en": "Cao Loc Township",
+    "type": "thị trấn",
+    "district_code": "183",
+    "codename": "cao_loc"
+  },
+  {
+    "code": "06190",
+    "name": "Bảo Lâm",
+    "name_en": "Bao Lam",
+    "full_name": "Xã Bảo Lâm",
+    "full_name_en": "Bao Lam Commune",
+    "type": "xã",
+    "district_code": "183",
+    "codename": "bao_lam"
+  },
+  {
+    "code": "06193",
+    "name": "Thanh Lòa",
+    "name_en": "Thanh Loa",
+    "full_name": "Xã Thanh Lòa",
+    "full_name_en": "Thanh Loa Commune",
+    "type": "xã",
+    "district_code": "183",
+    "codename": "thanh_loa"
+  },
+  {
+    "code": "06196",
+    "name": "Cao Lâu",
+    "name_en": "Cao Lau",
+    "full_name": "Xã Cao Lâu",
+    "full_name_en": "Cao Lau Commune",
+    "type": "xã",
+    "district_code": "183",
+    "codename": "cao_lau"
+  },
+  {
+    "code": "06199",
+    "name": "Thạch Đạn",
+    "name_en": "Thach Dan",
+    "full_name": "Xã Thạch Đạn",
+    "full_name_en": "Thach Dan Commune",
+    "type": "xã",
+    "district_code": "183",
+    "codename": "thach_dan"
+  },
+  {
+    "code": "06202",
+    "name": "Xuất Lễ",
+    "name_en": "Xuat Le",
+    "full_name": "Xã Xuất Lễ",
+    "full_name_en": "Xuat Le Commune",
+    "type": "xã",
+    "district_code": "183",
+    "codename": "xuat_le"
+  },
+  {
+    "code": "06205",
+    "name": "Hồng Phong",
+    "name_en": "Hong Phong",
+    "full_name": "Xã Hồng Phong",
+    "full_name_en": "Hong Phong Commune",
+    "type": "xã",
+    "district_code": "183",
+    "codename": "hong_phong"
+  },
+  {
+    "code": "06208",
+    "name": "Thụy Hùng",
+    "name_en": "Thuy Hung",
+    "full_name": "Xã Thụy Hùng",
+    "full_name_en": "Thuy Hung Commune",
+    "type": "xã",
+    "district_code": "183",
+    "codename": "thuy_hung"
+  },
+  {
+    "code": "06211",
+    "name": "Lộc Yên",
+    "name_en": "Loc Yen",
+    "full_name": "Xã Lộc Yên",
+    "full_name_en": "Loc Yen Commune",
+    "type": "xã",
+    "district_code": "183",
+    "codename": "loc_yen"
+  },
+  {
+    "code": "06214",
+    "name": "Phú Xá",
+    "name_en": "Phu Xa",
+    "full_name": "Xã Phú Xá",
+    "full_name_en": "Phu Xa Commune",
+    "type": "xã",
+    "district_code": "183",
+    "codename": "phu_xa"
+  },
+  {
+    "code": "06217",
+    "name": "Bình Trung",
+    "name_en": "Binh Trung",
+    "full_name": "Xã Bình Trung",
+    "full_name_en": "Binh Trung Commune",
+    "type": "xã",
+    "district_code": "183",
+    "codename": "binh_trung"
+  },
+  {
+    "code": "06220",
+    "name": "Hải Yến",
+    "name_en": "Hai Yen",
+    "full_name": "Xã Hải Yến",
+    "full_name_en": "Hai Yen Commune",
+    "type": "xã",
+    "district_code": "183",
+    "codename": "hai_yen"
+  },
+  {
+    "code": "06223",
+    "name": "Hòa Cư",
+    "name_en": "Hoa Cu",
+    "full_name": "Xã Hòa Cư",
+    "full_name_en": "Hoa Cu Commune",
+    "type": "xã",
+    "district_code": "183",
+    "codename": "hoa_cu"
+  },
+  {
+    "code": "06226",
+    "name": "Hợp Thành",
+    "name_en": "Hop Thanh",
+    "full_name": "Xã Hợp Thành",
+    "full_name_en": "Hop Thanh Commune",
+    "type": "xã",
+    "district_code": "183",
+    "codename": "hop_thanh"
+  },
+  {
+    "code": "06232",
+    "name": "Công Sơn",
+    "name_en": "Cong Son",
+    "full_name": "Xã Công Sơn",
+    "full_name_en": "Cong Son Commune",
+    "type": "xã",
+    "district_code": "183",
+    "codename": "cong_son"
+  },
+  {
+    "code": "06235",
+    "name": "Gia Cát",
+    "name_en": "Gia Cat",
+    "full_name": "Xã Gia Cát",
+    "full_name_en": "Gia Cat Commune",
+    "type": "xã",
+    "district_code": "183",
+    "codename": "gia_cat"
+  },
+  {
+    "code": "06238",
+    "name": "Mẫu Sơn",
+    "name_en": "Mau Son",
+    "full_name": "Xã Mẫu Sơn",
+    "full_name_en": "Mau Son Commune",
+    "type": "xã",
+    "district_code": "183",
+    "codename": "mau_son"
+  },
+  {
+    "code": "06241",
+    "name": "Xuân Long",
+    "name_en": "Xuan Long",
+    "full_name": "Xã Xuân Long",
+    "full_name_en": "Xuan Long Commune",
+    "type": "xã",
+    "district_code": "183",
+    "codename": "xuan_long"
+  },
+  {
+    "code": "06244",
+    "name": "Tân Liên",
+    "name_en": "Tan Lien",
+    "full_name": "Xã Tân Liên",
+    "full_name_en": "Tan Lien Commune",
+    "type": "xã",
+    "district_code": "183",
+    "codename": "tan_lien"
+  },
+  {
+    "code": "06247",
+    "name": "Yên Trạch",
+    "name_en": "Yen Trach",
+    "full_name": "Xã Yên Trạch",
+    "full_name_en": "Yen Trach Commune",
+    "type": "xã",
+    "district_code": "183",
+    "codename": "yen_trach"
+  },
+  {
+    "code": "06250",
+    "name": "Tân Thành",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thành",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "183",
+    "codename": "tan_thanh"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "code": "14320",
+    "name": "Đông Thành",
+    "name_en": "Dong Thanh",
+    "full_name": "Phường Đông Thành",
+    "full_name_en": "Dong Thanh Ward",
+    "type": "phường",
+    "district_code": "374",
+    "codename": "dong_thanh"
+  },
+  {
+    "code": "14323",
+    "name": "Tân Thành",
+    "name_en": "Tan Thanh",
+    "full_name": "Phường Tân Thành",
+    "full_name_en": "Tan Thanh Ward",
+    "type": "phường",
+    "district_code": "374",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "14329",
+    "name": "Vân Giang",
+    "name_en": "Van Giang",
+    "full_name": "Phường Vân Giang",
+    "full_name_en": "Van Giang Ward",
+    "type": "phường",
+    "district_code": "374",
+    "codename": "van_giang"
+  },
+  {
+    "code": "14332",
+    "name": "Bích Đào",
+    "name_en": "Bich Dao",
+    "full_name": "Phường Bích Đào",
+    "full_name_en": "Bich Dao Ward",
+    "type": "phường",
+    "district_code": "374",
+    "codename": "bich_dao"
+  },
+  {
+    "code": "14338",
+    "name": "Nam Bình",
+    "name_en": "Nam Binh",
+    "full_name": "Phường Nam Bình",
+    "full_name_en": "Nam Binh Ward",
+    "type": "phường",
+    "district_code": "374",
+    "codename": "nam_binh"
+  },
+  {
+    "code": "14341",
+    "name": "Nam Thành",
+    "name_en": "Nam Thanh",
+    "full_name": "Phường Nam Thành",
+    "full_name_en": "Nam Thanh Ward",
+    "type": "phường",
+    "district_code": "374",
+    "codename": "nam_thanh"
+  },
+  {
+    "code": "14344",
+    "name": "Ninh Khánh",
+    "name_en": "Ninh Khanh",
+    "full_name": "Phường Ninh Khánh",
+    "full_name_en": "Ninh Khanh Ward",
+    "type": "phường",
+    "district_code": "374",
+    "codename": "ninh_khanh"
+  },
+  {
+    "code": "14347",
+    "name": "Ninh Nhất",
+    "name_en": "Ninh Nhat",
+    "full_name": "Xã Ninh Nhất",
+    "full_name_en": "Ninh Nhat Commune",
+    "type": "xã",
+    "district_code": "374",
+    "codename": "ninh_nhat"
+  },
+  {
+    "code": "14350",
+    "name": "Ninh Tiến",
+    "name_en": "Ninh Tien",
+    "full_name": "Xã Ninh Tiến",
+    "full_name_en": "Ninh Tien Commune",
+    "type": "xã",
+    "district_code": "374",
+    "codename": "ninh_tien"
+  },
+  {
+    "code": "14353",
+    "name": "Ninh Phúc",
+    "name_en": "Ninh Phuc",
+    "full_name": "Phường Ninh Phúc",
+    "full_name_en": "Ninh Phuc Ward",
+    "type": "phường",
+    "district_code": "374",
+    "codename": "ninh_phuc"
+  },
+  {
+    "code": "14356",
+    "name": "Ninh Sơn",
+    "name_en": "Ninh Son",
+    "full_name": "Phường Ninh Sơn",
+    "full_name_en": "Ninh Son Ward",
+    "type": "phường",
+    "district_code": "374",
+    "codename": "ninh_son"
+  },
+  {
+    "code": "14359",
+    "name": "Ninh Phong",
+    "name_en": "Ninh Phong",
+    "full_name": "Phường Ninh Phong",
+    "full_name_en": "Ninh Phong Ward",
+    "type": "phường",
+    "district_code": "374",
+    "codename": "ninh_phong"
+  },
+  {
+    "code": "14527",
+    "name": "Ninh Mỹ",
+    "name_en": "Ninh My",
+    "full_name": "Phường Ninh Mỹ",
+    "full_name_en": "Ninh My Ward",
+    "type": "phường",
+    "district_code": "374",
+    "codename": "ninh_my"
+  },
+  {
+    "code": "14530",
+    "name": "Ninh Giang",
+    "name_en": "Ninh Giang",
+    "full_name": "Phường Ninh Giang",
+    "full_name_en": "Ninh Giang Ward",
+    "type": "phường",
+    "district_code": "374",
+    "codename": "ninh_giang"
+  },
+  {
+    "code": "14533",
+    "name": "Trường Yên",
+    "name_en": "Truong Yen",
+    "full_name": "Xã Trường Yên",
+    "full_name_en": "Truong Yen Commune",
+    "type": "xã",
+    "district_code": "374",
+    "codename": "truong_yen"
+  },
+  {
+    "code": "14536",
+    "name": "Ninh Khang",
+    "name_en": "Ninh Khang",
+    "full_name": "Xã Ninh Khang",
+    "full_name_en": "Ninh Khang Commune",
+    "type": "xã",
+    "district_code": "374",
+    "codename": "ninh_khang"
+  },
+  {
+    "code": "14542",
+    "name": "Ninh Hòa",
+    "name_en": "Ninh Hoa",
+    "full_name": "Xã Ninh Hòa",
+    "full_name_en": "Ninh Hoa Commune",
+    "type": "xã",
+    "district_code": "374",
+    "codename": "ninh_hoa"
+  },
+  {
+    "code": "14551",
+    "name": "Ninh Hải",
+    "name_en": "Ninh Hai",
+    "full_name": "Xã Ninh Hải",
+    "full_name_en": "Ninh Hai Commune",
+    "type": "xã",
+    "district_code": "374",
+    "codename": "ninh_hai"
+  },
+  {
+    "code": "14554",
+    "name": "Ninh Vân",
+    "name_en": "Ninh Van",
+    "full_name": "Xã Ninh Vân",
+    "full_name_en": "Ninh Van Commune",
+    "type": "xã",
+    "district_code": "374",
+    "codename": "ninh_van"
+  },
+  {
+    "code": "14557",
+    "name": "Ninh An",
+    "name_en": "Ninh An",
+    "full_name": "Xã Ninh An",
+    "full_name_en": "Ninh An Commune",
+    "type": "xã",
+    "district_code": "374",
+    "codename": "ninh_an"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "code": "15607",
+    "name": "Bát Mọt",
+    "name_en": "Bat Mot",
+    "full_name": "Xã Bát Mọt",
+    "full_name_en": "Bat Mot Commune",
+    "type": "xã",
+    "district_code": "396",
+    "codename": "bat_mot"
+  },
+  {
+    "code": "15610",
+    "name": "Yên Nhân",
+    "name_en": "Yen Nhan",
+    "full_name": "Xã Yên Nhân",
+    "full_name_en": "Yen Nhan Commune",
+    "type": "xã",
+    "district_code": "396",
+    "codename": "yen_nhan"
+  },
+  {
+    "code": "15619",
+    "name": "Xuân Lẹ",
+    "name_en": "Xuan Le",
+    "full_name": "Xã Xuân Lẹ",
+    "full_name_en": "Xuan Le Commune",
+    "type": "xã",
+    "district_code": "396",
+    "codename": "xuan_le"
+  },
+  {
+    "code": "15622",
+    "name": "Vạn Xuân",
+    "name_en": "Van Xuan",
+    "full_name": "Xã Vạn Xuân",
+    "full_name_en": "Van Xuan Commune",
+    "type": "xã",
+    "district_code": "396",
+    "codename": "van_xuan"
+  },
+  {
+    "code": "15628",
+    "name": "Lương Sơn",
+    "name_en": "Luong Son",
+    "full_name": "Xã Lương Sơn",
+    "full_name_en": "Luong Son Commune",
+    "type": "xã",
+    "district_code": "396",
+    "codename": "luong_son"
+  },
+  {
+    "code": "15631",
+    "name": "Xuân Cao",
+    "name_en": "Xuan Cao",
+    "full_name": "Xã Xuân Cao",
+    "full_name_en": "Xuan Cao Commune",
+    "type": "xã",
+    "district_code": "396",
+    "codename": "xuan_cao"
+  },
+  {
+    "code": "15634",
+    "name": "Luận Thành",
+    "name_en": "Luan Thanh",
+    "full_name": "Xã Luận Thành",
+    "full_name_en": "Luan Thanh Commune",
+    "type": "xã",
+    "district_code": "396",
+    "codename": "luan_thanh"
+  },
+  {
+    "code": "15637",
+    "name": "Luận Khê",
+    "name_en": "Luan Khe",
+    "full_name": "Xã Luận Khê",
+    "full_name_en": "Luan Khe Commune",
+    "type": "xã",
+    "district_code": "396",
+    "codename": "luan_khe"
+  },
+  {
+    "code": "15640",
+    "name": "Xuân Thắng",
+    "name_en": "Xuan Thang",
+    "full_name": "Xã Xuân Thắng",
+    "full_name_en": "Xuan Thang Commune",
+    "type": "xã",
+    "district_code": "396",
+    "codename": "xuan_thang"
+  },
+  {
+    "code": "15643",
+    "name": "Xuân Lộc",
+    "name_en": "Xuan Loc",
+    "full_name": "Xã Xuân Lộc",
+    "full_name_en": "Xuan Loc Commune",
+    "type": "xã",
+    "district_code": "396",
+    "codename": "xuan_loc"
+  },
+  {
+    "code": "15646",
+    "name": "Thường Xuân",
+    "name_en": "Thuong Xuan",
+    "full_name": "Thị trấn Thường Xuân",
+    "full_name_en": "Thuong Xuan Township",
+    "type": "thị trấn",
+    "district_code": "396",
+    "codename": "thuong_xuan"
+  },
+  {
+    "code": "15649",
+    "name": "Xuân Dương",
+    "name_en": "Xuan Duong",
+    "full_name": "Xã Xuân Dương",
+    "full_name_en": "Xuan Duong Commune",
+    "type": "xã",
+    "district_code": "396",
+    "codename": "xuan_duong"
+  },
+  {
+    "code": "15652",
+    "name": "Thọ Thanh",
+    "name_en": "Tho Thanh",
+    "full_name": "Xã Thọ Thanh",
+    "full_name_en": "Tho Thanh Commune",
+    "type": "xã",
+    "district_code": "396",
+    "codename": "tho_thanh"
+  },
+  {
+    "code": "15655",
+    "name": "Ngọc Phụng",
+    "name_en": "Ngoc Phung",
+    "full_name": "Xã Ngọc Phụng",
+    "full_name_en": "Ngoc Phung Commune",
+    "type": "xã",
+    "district_code": "396",
+    "codename": "ngoc_phung"
+  },
+  {
+    "code": "15658",
+    "name": "Xuân Chinh",
+    "name_en": "Xuan Chinh",
+    "full_name": "Xã Xuân Chinh",
+    "full_name_en": "Xuan Chinh Commune",
+    "type": "xã",
+    "district_code": "396",
+    "codename": "xuan_chinh"
+  },
+  {
+    "code": "15661",
+    "name": "Tân Thành",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thành",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "396",
+    "codename": "tan_thanh"
+  }
+]

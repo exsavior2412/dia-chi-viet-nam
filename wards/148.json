@@ -1,0 +1,192 @@
+[
+  {
+    "code": "04789",
+    "name": "Thái Bình",
+    "name_en": "Thai Binh",
+    "full_name": "Phường Thái Bình",
+    "full_name_en": "Thai Binh Ward",
+    "type": "phường",
+    "district_code": "148",
+    "codename": "thai_binh"
+  },
+  {
+    "code": "04792",
+    "name": "Tân Hòa",
+    "name_en": "Tan Hoa",
+    "full_name": "Phường Tân Hòa",
+    "full_name_en": "Tan Hoa Ward",
+    "type": "phường",
+    "district_code": "148",
+    "codename": "tan_hoa"
+  },
+  {
+    "code": "04795",
+    "name": "Thịnh Lang",
+    "name_en": "Thinh Lang",
+    "full_name": "Phường Thịnh Lang",
+    "full_name_en": "Thinh Lang Ward",
+    "type": "phường",
+    "district_code": "148",
+    "codename": "thinh_lang"
+  },
+  {
+    "code": "04798",
+    "name": "Hữu Nghị",
+    "name_en": "Huu Nghi",
+    "full_name": "Phường Hữu Nghị",
+    "full_name_en": "Huu Nghi Ward",
+    "type": "phường",
+    "district_code": "148",
+    "codename": "huu_nghi"
+  },
+  {
+    "code": "04801",
+    "name": "Tân Thịnh",
+    "name_en": "Tan Thinh",
+    "full_name": "Phường Tân Thịnh",
+    "full_name_en": "Tan Thinh Ward",
+    "type": "phường",
+    "district_code": "148",
+    "codename": "tan_thinh"
+  },
+  {
+    "code": "04804",
+    "name": "Đồng Tiến",
+    "name_en": "Dong Tien",
+    "full_name": "Phường Đồng Tiến",
+    "full_name_en": "Dong Tien Ward",
+    "type": "phường",
+    "district_code": "148",
+    "codename": "dong_tien"
+  },
+  {
+    "code": "04807",
+    "name": "Phương Lâm",
+    "name_en": "Phuong Lam",
+    "full_name": "Phường Phương Lâm",
+    "full_name_en": "Phuong Lam Ward",
+    "type": "phường",
+    "district_code": "148",
+    "codename": "phuong_lam"
+  },
+  {
+    "code": "04813",
+    "name": "Yên Mông",
+    "name_en": "Yen Mong",
+    "full_name": "Xã Yên Mông",
+    "full_name_en": "Yen Mong Commune",
+    "type": "xã",
+    "district_code": "148",
+    "codename": "yen_mong"
+  },
+  {
+    "code": "04816",
+    "name": "Quỳnh Lâm",
+    "name_en": "Quynh Lam",
+    "full_name": "Phường Quỳnh Lâm",
+    "full_name_en": "Quynh Lam Ward",
+    "type": "phường",
+    "district_code": "148",
+    "codename": "quynh_lam"
+  },
+  {
+    "code": "04819",
+    "name": "Dân Chủ",
+    "name_en": "Dan Chu",
+    "full_name": "Phường Dân Chủ",
+    "full_name_en": "Dan Chu Ward",
+    "type": "phường",
+    "district_code": "148",
+    "codename": "dan_chu"
+  },
+  {
+    "code": "04825",
+    "name": "Hòa Bình",
+    "name_en": "Hoa Binh",
+    "full_name": "Xã Hòa Bình",
+    "full_name_en": "Hoa Binh Commune",
+    "type": "xã",
+    "district_code": "148",
+    "codename": "hoa_binh"
+  },
+  {
+    "code": "04828",
+    "name": "Thống Nhất",
+    "name_en": "Thong Nhat",
+    "full_name": "Phường Thống Nhất",
+    "full_name_en": "Thong Nhat Ward",
+    "type": "phường",
+    "district_code": "148",
+    "codename": "thong_nhat"
+  },
+  {
+    "code": "04894",
+    "name": "Kỳ Sơn",
+    "name_en": "Ky Son",
+    "full_name": "Phường Kỳ Sơn",
+    "full_name_en": "Ky Son Ward",
+    "type": "phường",
+    "district_code": "148",
+    "codename": "ky_son"
+  },
+  {
+    "code": "04897",
+    "name": "Thịnh Minh",
+    "name_en": "Thinh Minh",
+    "full_name": "Xã Thịnh Minh",
+    "full_name_en": "Thinh Minh Commune",
+    "type": "xã",
+    "district_code": "148",
+    "codename": "thinh_minh"
+  },
+  {
+    "code": "04903",
+    "name": "Hợp Thành",
+    "name_en": "Hop Thanh",
+    "full_name": "Xã Hợp Thành",
+    "full_name_en": "Hop Thanh Commune",
+    "type": "xã",
+    "district_code": "148",
+    "codename": "hop_thanh"
+  },
+  {
+    "code": "04906",
+    "name": "Quang Tiến",
+    "name_en": "Quang Tien",
+    "full_name": "Xã Quang Tiến",
+    "full_name_en": "Quang Tien Commune",
+    "type": "xã",
+    "district_code": "148",
+    "codename": "quang_tien"
+  },
+  {
+    "code": "04912",
+    "name": "Mông Hóa",
+    "name_en": "Mong Hoa",
+    "full_name": "Xã Mông Hóa",
+    "full_name_en": "Mong Hoa Commune",
+    "type": "xã",
+    "district_code": "148",
+    "codename": "mong_hoa"
+  },
+  {
+    "code": "04918",
+    "name": "Trung Minh",
+    "name_en": "Trung Minh",
+    "full_name": "Phường Trung Minh",
+    "full_name_en": "Trung Minh Ward",
+    "type": "phường",
+    "district_code": "148",
+    "codename": "trung_minh"
+  },
+  {
+    "code": "04921",
+    "name": "Độc Lập",
+    "name_en": "Doc Lap",
+    "full_name": "Xã Độc Lập",
+    "full_name_en": "Doc Lap Commune",
+    "type": "xã",
+    "district_code": "148",
+    "codename": "doc_lap"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "code": "29956",
+    "name": "Thường Phước 1",
+    "name_en": "Thuong Phuoc 1",
+    "full_name": "Xã Thường Phước 1",
+    "full_name_en": "Commune Thuong Phuoc 1",
+    "type": "xã",
+    "district_code": "870",
+    "codename": "thuong_phuoc_1"
+  },
+  {
+    "code": "29962",
+    "name": "Thường Thới Hậu A",
+    "name_en": "Thuong Thoi Hau A",
+    "full_name": "Xã Thường Thới Hậu A",
+    "full_name_en": "Thuong Thoi Hau A Commune",
+    "type": "xã",
+    "district_code": "870",
+    "codename": "thuong_thoi_hau_a"
+  },
+  {
+    "code": "29971",
+    "name": "Thường Thới Tiền",
+    "name_en": "Thuong Thoi Tien",
+    "full_name": "Thị trấn Thường Thới Tiền",
+    "full_name_en": "Thuong Thoi Tien Township",
+    "type": "thị trấn",
+    "district_code": "870",
+    "codename": "thuong_thoi_tien"
+  },
+  {
+    "code": "29974",
+    "name": "Thường Phước 2",
+    "name_en": "Thuong Phuoc 2",
+    "full_name": "Xã Thường Phước 2",
+    "full_name_en": "Commune Thuong Phuoc 2",
+    "type": "xã",
+    "district_code": "870",
+    "codename": "thuong_phuoc_2"
+  },
+  {
+    "code": "29977",
+    "name": "Thường Lạc",
+    "name_en": "Thuong Lac",
+    "full_name": "Xã Thường Lạc",
+    "full_name_en": "Thuong Lac Commune",
+    "type": "xã",
+    "district_code": "870",
+    "codename": "thuong_lac"
+  },
+  {
+    "code": "29980",
+    "name": "Long Khánh A",
+    "name_en": "Long Khanh A",
+    "full_name": "Xã Long Khánh A",
+    "full_name_en": "Long Khanh A Commune",
+    "type": "xã",
+    "district_code": "870",
+    "codename": "long_khanh_a"
+  },
+  {
+    "code": "29983",
+    "name": "Long Khánh B",
+    "name_en": "Long Khanh B",
+    "full_name": "Xã Long Khánh B",
+    "full_name_en": "Long Khanh B Commune",
+    "type": "xã",
+    "district_code": "870",
+    "codename": "long_khanh_b"
+  },
+  {
+    "code": "29992",
+    "name": "Long Thuận",
+    "name_en": "Long Thuan",
+    "full_name": "Xã Long Thuận",
+    "full_name_en": "Long Thuan Commune",
+    "type": "xã",
+    "district_code": "870",
+    "codename": "long_thuan"
+  },
+  {
+    "code": "29995",
+    "name": "Phú Thuận B",
+    "name_en": "Phu Thuan B",
+    "full_name": "Xã Phú Thuận B",
+    "full_name_en": "Phu Thuan B Commune",
+    "type": "xã",
+    "district_code": "870",
+    "codename": "phu_thuan_b"
+  },
+  {
+    "code": "29998",
+    "name": "Phú Thuận A",
+    "name_en": "Phu Thuan A",
+    "full_name": "Xã Phú Thuận A",
+    "full_name_en": "Phu Thuan A Commune",
+    "type": "xã",
+    "district_code": "870",
+    "codename": "phu_thuan_a"
+  }
+]

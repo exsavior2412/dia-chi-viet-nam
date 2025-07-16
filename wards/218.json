@@ -1,0 +1,242 @@
+[
+  {
+    "code": "07444",
+    "name": "Đồi Ngô",
+    "name_en": "Doi Ngo",
+    "full_name": "Thị trấn Đồi Ngô",
+    "full_name_en": "Doi Ngo Township",
+    "type": "thị trấn",
+    "district_code": "218",
+    "codename": "doi_ngo"
+  },
+  {
+    "code": "07450",
+    "name": "Đông Hưng",
+    "name_en": "Dong Hung",
+    "full_name": "Xã Đông Hưng",
+    "full_name_en": "Dong Hung Commune",
+    "type": "xã",
+    "district_code": "218",
+    "codename": "dong_hung"
+  },
+  {
+    "code": "07453",
+    "name": "Đông Phú",
+    "name_en": "Dong Phu",
+    "full_name": "Xã Đông Phú",
+    "full_name_en": "Dong Phu Commune",
+    "type": "xã",
+    "district_code": "218",
+    "codename": "dong_phu"
+  },
+  {
+    "code": "07456",
+    "name": "Tam Dị",
+    "name_en": "Tam Di",
+    "full_name": "Xã Tam Dị",
+    "full_name_en": "Tam Di Commune",
+    "type": "xã",
+    "district_code": "218",
+    "codename": "tam_di"
+  },
+  {
+    "code": "07459",
+    "name": "Bảo Sơn",
+    "name_en": "Bao Son",
+    "full_name": "Xã Bảo Sơn",
+    "full_name_en": "Bao Son Commune",
+    "type": "xã",
+    "district_code": "218",
+    "codename": "bao_son"
+  },
+  {
+    "code": "07462",
+    "name": "Bảo Đài",
+    "name_en": "Bao Dai",
+    "full_name": "Xã Bảo Đài",
+    "full_name_en": "Bao Dai Commune",
+    "type": "xã",
+    "district_code": "218",
+    "codename": "bao_dai"
+  },
+  {
+    "code": "07465",
+    "name": "Thanh Lâm",
+    "name_en": "Thanh Lam",
+    "full_name": "Xã Thanh Lâm",
+    "full_name_en": "Thanh Lam Commune",
+    "type": "xã",
+    "district_code": "218",
+    "codename": "thanh_lam"
+  },
+  {
+    "code": "07468",
+    "name": "Tiên Nha",
+    "name_en": "Tien Nha",
+    "full_name": "Xã Tiên Nha",
+    "full_name_en": "Tien Nha Commune",
+    "type": "xã",
+    "district_code": "218",
+    "codename": "tien_nha"
+  },
+  {
+    "code": "07471",
+    "name": "Trường Giang",
+    "name_en": "Truong Giang",
+    "full_name": "Xã Trường Giang",
+    "full_name_en": "Truong Giang Commune",
+    "type": "xã",
+    "district_code": "218",
+    "codename": "truong_giang"
+  },
+  {
+    "code": "07477",
+    "name": "Phương Sơn",
+    "name_en": "Phuong Son",
+    "full_name": "Thị trấn Phương Sơn",
+    "full_name_en": "Phuong Son Township",
+    "type": "thị trấn",
+    "district_code": "218",
+    "codename": "phuong_son"
+  },
+  {
+    "code": "07480",
+    "name": "Chu Điện",
+    "name_en": "Chu Dien",
+    "full_name": "Xã Chu Điện",
+    "full_name_en": "Chu Dien Commune",
+    "type": "xã",
+    "district_code": "218",
+    "codename": "chu_dien"
+  },
+  {
+    "code": "07483",
+    "name": "Cương Sơn",
+    "name_en": "Cuong Son",
+    "full_name": "Xã Cương Sơn",
+    "full_name_en": "Cuong Son Commune",
+    "type": "xã",
+    "district_code": "218",
+    "codename": "cuong_son"
+  },
+  {
+    "code": "07486",
+    "name": "Nghĩa Phương",
+    "name_en": "Nghia Phuong",
+    "full_name": "Xã Nghĩa Phương",
+    "full_name_en": "Nghia Phuong Commune",
+    "type": "xã",
+    "district_code": "218",
+    "codename": "nghia_phuong"
+  },
+  {
+    "code": "07489",
+    "name": "Vô Tranh",
+    "name_en": "Vo Tranh",
+    "full_name": "Xã Vô Tranh",
+    "full_name_en": "Vo Tranh Commune",
+    "type": "xã",
+    "district_code": "218",
+    "codename": "vo_tranh"
+  },
+  {
+    "code": "07492",
+    "name": "Bình Sơn",
+    "name_en": "Binh Son",
+    "full_name": "Xã Bình Sơn",
+    "full_name_en": "Binh Son Commune",
+    "type": "xã",
+    "district_code": "218",
+    "codename": "binh_son"
+  },
+  {
+    "code": "07495",
+    "name": "Lan Mẫu",
+    "name_en": "Lan Mau",
+    "full_name": "Xã Lan Mẫu",
+    "full_name_en": "Lan Mau Commune",
+    "type": "xã",
+    "district_code": "218",
+    "codename": "lan_mau"
+  },
+  {
+    "code": "07498",
+    "name": "Yên Sơn",
+    "name_en": "Yen Son",
+    "full_name": "Xã Yên Sơn",
+    "full_name_en": "Yen Son Commune",
+    "type": "xã",
+    "district_code": "218",
+    "codename": "yen_son"
+  },
+  {
+    "code": "07501",
+    "name": "Khám Lạng",
+    "name_en": "Kham Lang",
+    "full_name": "Xã Khám Lạng",
+    "full_name_en": "Kham Lang Commune",
+    "type": "xã",
+    "district_code": "218",
+    "codename": "kham_lang"
+  },
+  {
+    "code": "07504",
+    "name": "Huyền Sơn",
+    "name_en": "Huyen Son",
+    "full_name": "Xã Huyền Sơn",
+    "full_name_en": "Huyen Son Commune",
+    "type": "xã",
+    "district_code": "218",
+    "codename": "huyen_son"
+  },
+  {
+    "code": "07507",
+    "name": "Trường Sơn",
+    "name_en": "Truong Son",
+    "full_name": "Xã Trường Sơn",
+    "full_name_en": "Truong Son Commune",
+    "type": "xã",
+    "district_code": "218",
+    "codename": "truong_son"
+  },
+  {
+    "code": "07510",
+    "name": "Lục Sơn",
+    "name_en": "Luc Son",
+    "full_name": "Xã Lục Sơn",
+    "full_name_en": "Luc Son Commune",
+    "type": "xã",
+    "district_code": "218",
+    "codename": "luc_son"
+  },
+  {
+    "code": "07513",
+    "name": "Bắc Lũng",
+    "name_en": "Bac Lung",
+    "full_name": "Xã Bắc Lũng",
+    "full_name_en": "Bac Lung Commune",
+    "type": "xã",
+    "district_code": "218",
+    "codename": "bac_lung"
+  },
+  {
+    "code": "07519",
+    "name": "Cẩm Lý",
+    "name_en": "Cam Ly",
+    "full_name": "Xã Cẩm Lý",
+    "full_name_en": "Cam Ly Commune",
+    "type": "xã",
+    "district_code": "218",
+    "codename": "cam_ly"
+  },
+  {
+    "code": "07522",
+    "name": "Đan Hội",
+    "name_en": "Dan Hoi",
+    "full_name": "Xã Đan Hội",
+    "full_name_en": "Dan Hoi Commune",
+    "type": "xã",
+    "district_code": "218",
+    "codename": "dan_hoi"
+  }
+]

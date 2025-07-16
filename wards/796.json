@@ -1,0 +1,122 @@
+[
+  {
+    "code": "27721",
+    "name": "Tân Hưng",
+    "name_en": "Tan Hung",
+    "full_name": "Thị trấn Tân Hưng",
+    "full_name_en": "Tan Hung Township",
+    "type": "thị trấn",
+    "district_code": "796",
+    "codename": "tan_hung"
+  },
+  {
+    "code": "27724",
+    "name": "Hưng Hà",
+    "name_en": "Hung Ha",
+    "full_name": "Xã Hưng Hà",
+    "full_name_en": "Hung Ha Commune",
+    "type": "xã",
+    "district_code": "796",
+    "codename": "hung_ha"
+  },
+  {
+    "code": "27727",
+    "name": "Hưng Điền B",
+    "name_en": "Hung Dien B",
+    "full_name": "Xã Hưng Điền B",
+    "full_name_en": "Hung Dien B Commune",
+    "type": "xã",
+    "district_code": "796",
+    "codename": "hung_dien_b"
+  },
+  {
+    "code": "27730",
+    "name": "Hưng Điền",
+    "name_en": "Hung Dien",
+    "full_name": "Xã Hưng Điền",
+    "full_name_en": "Hung Dien Commune",
+    "type": "xã",
+    "district_code": "796",
+    "codename": "hung_dien"
+  },
+  {
+    "code": "27733",
+    "name": "Thạnh Hưng",
+    "name_en": "Thanh Hung",
+    "full_name": "Xã Thạnh Hưng",
+    "full_name_en": "Thanh Hung Commune",
+    "type": "xã",
+    "district_code": "796",
+    "codename": "thanh_hung"
+  },
+  {
+    "code": "27736",
+    "name": "Hưng Thạnh",
+    "name_en": "Hung Thanh",
+    "full_name": "Xã Hưng Thạnh",
+    "full_name_en": "Hung Thanh Commune",
+    "type": "xã",
+    "district_code": "796",
+    "codename": "hung_thanh"
+  },
+  {
+    "code": "27739",
+    "name": "Vĩnh Thạnh",
+    "name_en": "Vinh Thanh",
+    "full_name": "Xã Vĩnh Thạnh",
+    "full_name_en": "Vinh Thanh Commune",
+    "type": "xã",
+    "district_code": "796",
+    "codename": "vinh_thanh"
+  },
+  {
+    "code": "27742",
+    "name": "Vĩnh Châu B",
+    "name_en": "Vinh Chau B",
+    "full_name": "Xã Vĩnh Châu B",
+    "full_name_en": "Vinh Chau B Commune",
+    "type": "xã",
+    "district_code": "796",
+    "codename": "vinh_chau_b"
+  },
+  {
+    "code": "27745",
+    "name": "Vĩnh Lợi",
+    "name_en": "Vinh Loi",
+    "full_name": "Xã Vĩnh Lợi",
+    "full_name_en": "Vinh Loi Commune",
+    "type": "xã",
+    "district_code": "796",
+    "codename": "vinh_loi"
+  },
+  {
+    "code": "27748",
+    "name": "Vĩnh Đại",
+    "name_en": "Vinh Dai",
+    "full_name": "Xã Vĩnh Đại",
+    "full_name_en": "Vinh Dai Commune",
+    "type": "xã",
+    "district_code": "796",
+    "codename": "vinh_dai"
+  },
+  {
+    "code": "27751",
+    "name": "Vĩnh Châu A",
+    "name_en": "Vinh Chau A",
+    "full_name": "Xã Vĩnh Châu A",
+    "full_name_en": "Vinh Chau A Commune",
+    "type": "xã",
+    "district_code": "796",
+    "codename": "vinh_chau_a"
+  },
+  {
+    "code": "27754",
+    "name": "Vĩnh Bửu",
+    "name_en": "Vinh Buu",
+    "full_name": "Xã Vĩnh Bửu",
+    "full_name_en": "Vinh Buu Commune",
+    "type": "xã",
+    "district_code": "796",
+    "codename": "vinh_buu"
+  }
+]

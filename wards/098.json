@@ -1,0 +1,122 @@
+[
+  {
+    "code": "03217",
+    "name": "Tủa Chùa",
+    "name_en": "Tua Chua",
+    "full_name": "Thị trấn Tủa Chùa",
+    "full_name_en": "Tua Chua Township",
+    "type": "thị trấn",
+    "district_code": "098",
+    "codename": "tua_chua"
+  },
+  {
+    "code": "03220",
+    "name": "Huổi Só",
+    "name_en": "Huoi So",
+    "full_name": "Xã Huổi Só",
+    "full_name_en": "Huoi So Commune",
+    "type": "xã",
+    "district_code": "098",
+    "codename": "huoi_so"
+  },
+  {
+    "code": "03223",
+    "name": "Xín Chải",
+    "name_en": "Xin Chai",
+    "full_name": "Xã Xín Chải",
+    "full_name_en": "Xin Chai Commune",
+    "type": "xã",
+    "district_code": "098",
+    "codename": "xin_chai"
+  },
+  {
+    "code": "03226",
+    "name": "Tả Sìn Thàng",
+    "name_en": "Ta Sin Thang",
+    "full_name": "Xã Tả Sìn Thàng",
+    "full_name_en": "Ta Sin Thang Commune",
+    "type": "xã",
+    "district_code": "098",
+    "codename": "ta_sin_thang"
+  },
+  {
+    "code": "03229",
+    "name": "Lao Xả Phình",
+    "name_en": "Lao Xa Phinh",
+    "full_name": "Xã Lao Xả Phình",
+    "full_name_en": "Lao Xa Phinh Commune",
+    "type": "xã",
+    "district_code": "098",
+    "codename": "lao_xa_phinh"
+  },
+  {
+    "code": "03232",
+    "name": "Tả Phìn",
+    "name_en": "Ta Phin",
+    "full_name": "Xã Tả Phìn",
+    "full_name_en": "Ta Phin Commune",
+    "type": "xã",
+    "district_code": "098",
+    "codename": "ta_phin"
+  },
+  {
+    "code": "03235",
+    "name": "Tủa Thàng",
+    "name_en": "Tua Thang",
+    "full_name": "Xã Tủa Thàng",
+    "full_name_en": "Tua Thang Commune",
+    "type": "xã",
+    "district_code": "098",
+    "codename": "tua_thang"
+  },
+  {
+    "code": "03238",
+    "name": "Trung Thu",
+    "name_en": "Trung Thu",
+    "full_name": "Xã Trung Thu",
+    "full_name_en": "Trung Thu Commune",
+    "type": "xã",
+    "district_code": "098",
+    "codename": "trung_thu"
+  },
+  {
+    "code": "03241",
+    "name": "Sính Phình",
+    "name_en": "Sinh Phinh",
+    "full_name": "Xã Sính Phình",
+    "full_name_en": "Sinh Phinh Commune",
+    "type": "xã",
+    "district_code": "098",
+    "codename": "sinh_phinh"
+  },
+  {
+    "code": "03244",
+    "name": "Sáng Nhè",
+    "name_en": "Sang Nhe",
+    "full_name": "Xã Sáng Nhè",
+    "full_name_en": "Sang Nhe Commune",
+    "type": "xã",
+    "district_code": "098",
+    "codename": "sang_nhe"
+  },
+  {
+    "code": "03247",
+    "name": "Mường Đun",
+    "name_en": "Muong Dun",
+    "full_name": "Xã Mường Đun",
+    "full_name_en": "Muong Dun Commune",
+    "type": "xã",
+    "district_code": "098",
+    "codename": "muong_dun"
+  },
+  {
+    "code": "03250",
+    "name": "Mường Báng",
+    "name_en": "Muong Bang",
+    "full_name": "Xã Mường Báng",
+    "full_name_en": "Muong Bang Commune",
+    "type": "xã",
+    "district_code": "098",
+    "codename": "muong_bang"
+  }
+]

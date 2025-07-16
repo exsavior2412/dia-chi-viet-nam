@@ -1,0 +1,122 @@
+[
+  {
+    "code": "30001",
+    "name": "Tràm Chim",
+    "name_en": "Tram Chim",
+    "full_name": "Thị trấn Tràm Chim",
+    "full_name_en": "Tram Chim Township",
+    "type": "thị trấn",
+    "district_code": "871",
+    "codename": "tram_chim"
+  },
+  {
+    "code": "30004",
+    "name": "Hoà Bình",
+    "name_en": "Hoa Binh",
+    "full_name": "Xã Hoà Bình",
+    "full_name_en": "Hoa Binh Commune",
+    "type": "xã",
+    "district_code": "871",
+    "codename": "hoa_binh"
+  },
+  {
+    "code": "30007",
+    "name": "Tân Công Sính",
+    "name_en": "Tan Cong Sinh",
+    "full_name": "Xã Tân Công Sính",
+    "full_name_en": "Tan Cong Sinh Commune",
+    "type": "xã",
+    "district_code": "871",
+    "codename": "tan_cong_sinh"
+  },
+  {
+    "code": "30010",
+    "name": "Phú Hiệp",
+    "name_en": "Phu Hiep",
+    "full_name": "Xã Phú Hiệp",
+    "full_name_en": "Phu Hiep Commune",
+    "type": "xã",
+    "district_code": "871",
+    "codename": "phu_hiep"
+  },
+  {
+    "code": "30013",
+    "name": "Phú Đức",
+    "name_en": "Phu Duc",
+    "full_name": "Xã Phú Đức",
+    "full_name_en": "Phu Duc Commune",
+    "type": "xã",
+    "district_code": "871",
+    "codename": "phu_duc"
+  },
+  {
+    "code": "30016",
+    "name": "Phú Thành B",
+    "name_en": "Phu Thanh B",
+    "full_name": "Xã Phú Thành B",
+    "full_name_en": "Phu Thanh B Commune",
+    "type": "xã",
+    "district_code": "871",
+    "codename": "phu_thanh_b"
+  },
+  {
+    "code": "30019",
+    "name": "An Hòa",
+    "name_en": "An Hoa",
+    "full_name": "Xã An Hòa",
+    "full_name_en": "An Hoa Commune",
+    "type": "xã",
+    "district_code": "871",
+    "codename": "an_hoa"
+  },
+  {
+    "code": "30022",
+    "name": "An Long",
+    "name_en": "An Long",
+    "full_name": "Xã An Long",
+    "full_name_en": "An Long Commune",
+    "type": "xã",
+    "district_code": "871",
+    "codename": "an_long"
+  },
+  {
+    "code": "30025",
+    "name": "Phú Cường",
+    "name_en": "Phu Cuong",
+    "full_name": "Xã Phú Cường",
+    "full_name_en": "Phu Cuong Commune",
+    "type": "xã",
+    "district_code": "871",
+    "codename": "phu_cuong"
+  },
+  {
+    "code": "30028",
+    "name": "Phú Ninh",
+    "name_en": "Phu Ninh",
+    "full_name": "Xã Phú Ninh",
+    "full_name_en": "Phu Ninh Commune",
+    "type": "xã",
+    "district_code": "871",
+    "codename": "phu_ninh"
+  },
+  {
+    "code": "30031",
+    "name": "Phú Thọ",
+    "name_en": "Phu Tho",
+    "full_name": "Xã Phú Thọ",
+    "full_name_en": "Phu Tho Commune",
+    "type": "xã",
+    "district_code": "871",
+    "codename": "phu_tho"
+  },
+  {
+    "code": "30034",
+    "name": "Phú Thành A",
+    "name_en": "Phu Thanh A",
+    "full_name": "Xã Phú Thành A",
+    "full_name_en": "Phu Thanh A Commune",
+    "type": "xã",
+    "district_code": "871",
+    "codename": "phu_thanh_a"
+  }
+]

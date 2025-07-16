@@ -1,0 +1,62 @@
+[
+  {
+    "code": "28690",
+    "name": "Tân Thới",
+    "name_en": "Tan Thoi",
+    "full_name": "Xã Tân Thới",
+    "full_name_en": "Tan Thoi Commune",
+    "type": "xã",
+    "district_code": "825",
+    "codename": "tan_thoi"
+  },
+  {
+    "code": "28693",
+    "name": "Tân Phú",
+    "name_en": "Tan Phu",
+    "full_name": "Xã Tân Phú",
+    "full_name_en": "Tan Phu Commune",
+    "type": "xã",
+    "district_code": "825",
+    "codename": "tan_phu"
+  },
+  {
+    "code": "28696",
+    "name": "Phú Thạnh",
+    "name_en": "Phu Thanh",
+    "full_name": "Xã Phú Thạnh",
+    "full_name_en": "Phu Thanh Commune",
+    "type": "xã",
+    "district_code": "825",
+    "codename": "phu_thanh"
+  },
+  {
+    "code": "28699",
+    "name": "Tân Thạnh",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thạnh",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "825",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "28750",
+    "name": "Phú Đông",
+    "name_en": "Phu Dong",
+    "full_name": "Xã Phú Đông",
+    "full_name_en": "Phu Dong Commune",
+    "type": "xã",
+    "district_code": "825",
+    "codename": "phu_dong"
+  },
+  {
+    "code": "28753",
+    "name": "Phú Tân",
+    "name_en": "Phu Tan",
+    "full_name": "Xã Phú Tân",
+    "full_name_en": "Phu Tan Commune",
+    "type": "xã",
+    "district_code": "825",
+    "codename": "phu_tan"
+  }
+]

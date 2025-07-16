@@ -1,0 +1,182 @@
+[
+  {
+    "code": "00037",
+    "name": "Phúc Tân",
+    "name_en": "Phuc Tan",
+    "full_name": "Phường Phúc Tân",
+    "full_name_en": "Phuc Tan Ward",
+    "type": "phường",
+    "district_code": "002",
+    "codename": "phuc_tan"
+  },
+  {
+    "code": "00040",
+    "name": "Đồng Xuân",
+    "name_en": "Dong Xuan",
+    "full_name": "Phường Đồng Xuân",
+    "full_name_en": "Dong Xuan Ward",
+    "type": "phường",
+    "district_code": "002",
+    "codename": "dong_xuan"
+  },
+  {
+    "code": "00043",
+    "name": "Hàng Mã",
+    "name_en": "Hang Ma",
+    "full_name": "Phường Hàng Mã",
+    "full_name_en": "Hang Ma Ward",
+    "type": "phường",
+    "district_code": "002",
+    "codename": "hang_ma"
+  },
+  {
+    "code": "00046",
+    "name": "Hàng Buồm",
+    "name_en": "Hang Buom",
+    "full_name": "Phường Hàng Buồm",
+    "full_name_en": "Hang Buom Ward",
+    "type": "phường",
+    "district_code": "002",
+    "codename": "hang_buom"
+  },
+  {
+    "code": "00049",
+    "name": "Hàng Đào",
+    "name_en": "Hang Dao",
+    "full_name": "Phường Hàng Đào",
+    "full_name_en": "Hang Dao Ward",
+    "type": "phường",
+    "district_code": "002",
+    "codename": "hang_dao"
+  },
+  {
+    "code": "00052",
+    "name": "Hàng Bồ",
+    "name_en": "Hang Bo",
+    "full_name": "Phường Hàng Bồ",
+    "full_name_en": "Hang Bo Ward",
+    "type": "phường",
+    "district_code": "002",
+    "codename": "hang_bo"
+  },
+  {
+    "code": "00055",
+    "name": "Cửa Đông",
+    "name_en": "Cua Dong",
+    "full_name": "Phường Cửa Đông",
+    "full_name_en": "Cua Dong Ward",
+    "type": "phường",
+    "district_code": "002",
+    "codename": "cua_dong"
+  },
+  {
+    "code": "00058",
+    "name": "Lý Thái Tổ",
+    "name_en": "Ly Thai To",
+    "full_name": "Phường Lý Thái Tổ",
+    "full_name_en": "Ly Thai To Ward",
+    "type": "phường",
+    "district_code": "002",
+    "codename": "ly_thai_to"
+  },
+  {
+    "code": "00061",
+    "name": "Hàng Bạc",
+    "name_en": "Hang Bac",
+    "full_name": "Phường Hàng Bạc",
+    "full_name_en": "Hang Bac Ward",
+    "type": "phường",
+    "district_code": "002",
+    "codename": "hang_bac"
+  },
+  {
+    "code": "00064",
+    "name": "Hàng Gai",
+    "name_en": "Hang Gai",
+    "full_name": "Phường Hàng Gai",
+    "full_name_en": "Hang Gai Ward",
+    "type": "phường",
+    "district_code": "002",
+    "codename": "hang_gai"
+  },
+  {
+    "code": "00067",
+    "name": "Chương Dương",
+    "name_en": "Chuong Duong",
+    "full_name": "Phường Chương Dương",
+    "full_name_en": "Chuong Duong Ward",
+    "type": "phường",
+    "district_code": "002",
+    "codename": "chuong_duong"
+  },
+  {
+    "code": "00070",
+    "name": "Hàng Trống",
+    "name_en": "Hang Trong",
+    "full_name": "Phường Hàng Trống",
+    "full_name_en": "Hang Trong Ward",
+    "type": "phường",
+    "district_code": "002",
+    "codename": "hang_trong"
+  },
+  {
+    "code": "00073",
+    "name": "Cửa Nam",
+    "name_en": "Cua Nam",
+    "full_name": "Phường Cửa Nam",
+    "full_name_en": "Cua Nam Ward",
+    "type": "phường",
+    "district_code": "002",
+    "codename": "cua_nam"
+  },
+  {
+    "code": "00076",
+    "name": "Hàng Bông",
+    "name_en": "Hang Bong",
+    "full_name": "Phường Hàng Bông",
+    "full_name_en": "Hang Bong Ward",
+    "type": "phường",
+    "district_code": "002",
+    "codename": "hang_bong"
+  },
+  {
+    "code": "00079",
+    "name": "Tràng Tiền",
+    "name_en": "Trang Tien",
+    "full_name": "Phường Tràng Tiền",
+    "full_name_en": "Trang Tien Ward",
+    "type": "phường",
+    "district_code": "002",
+    "codename": "trang_tien"
+  },
+  {
+    "code": "00082",
+    "name": "Trần Hưng Đạo",
+    "name_en": "Tran Hung Dao",
+    "full_name": "Phường Trần Hưng Đạo",
+    "full_name_en": "Tran Hung Dao Ward",
+    "type": "phường",
+    "district_code": "002",
+    "codename": "tran_hung_dao"
+  },
+  {
+    "code": "00085",
+    "name": "Phan Chu Trinh",
+    "name_en": "Phan Chu Trinh",
+    "full_name": "Phường Phan Chu Trinh",
+    "full_name_en": "Phan Chu Trinh Ward",
+    "type": "phường",
+    "district_code": "002",
+    "codename": "phan_chu_trinh"
+  },
+  {
+    "code": "00088",
+    "name": "Hàng Bài",
+    "name_en": "Hang Bai",
+    "full_name": "Phường Hàng Bài",
+    "full_name_en": "Hang Bai Ward",
+    "type": "phường",
+    "district_code": "002",
+    "codename": "hang_bai"
+  }
+]

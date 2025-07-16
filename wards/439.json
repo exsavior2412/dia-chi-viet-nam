@@ -1,0 +1,222 @@
+[
+  {
+    "code": "18133",
+    "name": "Phố Châu",
+    "name_en": "Pho Chau",
+    "full_name": "Thị trấn Phố Châu",
+    "full_name_en": "Pho Chau Township",
+    "type": "thị trấn",
+    "district_code": "439",
+    "codename": "pho_chau"
+  },
+  {
+    "code": "18136",
+    "name": "Tây Sơn",
+    "name_en": "Tay Son",
+    "full_name": "Thị trấn Tây Sơn",
+    "full_name_en": "Tay Son Township",
+    "type": "thị trấn",
+    "district_code": "439",
+    "codename": "tay_son"
+  },
+  {
+    "code": "18139",
+    "name": "Sơn Hồng",
+    "name_en": "Son Hong",
+    "full_name": "Xã Sơn Hồng",
+    "full_name_en": "Son Hong Commune",
+    "type": "xã",
+    "district_code": "439",
+    "codename": "son_hong"
+  },
+  {
+    "code": "18142",
+    "name": "Sơn Tiến",
+    "name_en": "Son Tien",
+    "full_name": "Xã Sơn Tiến",
+    "full_name_en": "Son Tien Commune",
+    "type": "xã",
+    "district_code": "439",
+    "codename": "son_tien"
+  },
+  {
+    "code": "18145",
+    "name": "Sơn Lâm",
+    "name_en": "Son Lam",
+    "full_name": "Xã Sơn Lâm",
+    "full_name_en": "Son Lam Commune",
+    "type": "xã",
+    "district_code": "439",
+    "codename": "son_lam"
+  },
+  {
+    "code": "18148",
+    "name": "Sơn Lễ",
+    "name_en": "Son Le",
+    "full_name": "Xã Sơn Lễ",
+    "full_name_en": "Son Le Commune",
+    "type": "xã",
+    "district_code": "439",
+    "codename": "son_le"
+  },
+  {
+    "code": "18157",
+    "name": "Sơn Giang",
+    "name_en": "Son Giang",
+    "full_name": "Xã Sơn Giang",
+    "full_name_en": "Son Giang Commune",
+    "type": "xã",
+    "district_code": "439",
+    "codename": "son_giang"
+  },
+  {
+    "code": "18160",
+    "name": "Sơn Lĩnh",
+    "name_en": "Son Linh",
+    "full_name": "Xã Sơn Lĩnh",
+    "full_name_en": "Son Linh Commune",
+    "type": "xã",
+    "district_code": "439",
+    "codename": "son_linh"
+  },
+  {
+    "code": "18163",
+    "name": "An Hòa Thịnh",
+    "name_en": "An Hoa Thinh",
+    "full_name": "Xã An Hòa Thịnh",
+    "full_name_en": "An Hoa Thinh Commune",
+    "type": "xã",
+    "district_code": "439",
+    "codename": "an_hoa_thinh"
+  },
+  {
+    "code": "18172",
+    "name": "Sơn Tây",
+    "name_en": "Son Tay",
+    "full_name": "Xã Sơn Tây",
+    "full_name_en": "Son Tay Commune",
+    "type": "xã",
+    "district_code": "439",
+    "codename": "son_tay"
+  },
+  {
+    "code": "18175",
+    "name": "Sơn Ninh",
+    "name_en": "Son Ninh",
+    "full_name": "Xã Sơn Ninh",
+    "full_name_en": "Son Ninh Commune",
+    "type": "xã",
+    "district_code": "439",
+    "codename": "son_ninh"
+  },
+  {
+    "code": "18178",
+    "name": "Châu Bình",
+    "name_en": "Chau Binh",
+    "full_name": "Xã Châu Bình",
+    "full_name_en": "Chau Binh Commune",
+    "type": "xã",
+    "district_code": "439",
+    "codename": "chau_binh"
+  },
+  {
+    "code": "18181",
+    "name": "Tân Mỹ Hà",
+    "name_en": "Tan My Ha",
+    "full_name": "Xã Tân Mỹ Hà",
+    "full_name_en": "Tan My Ha Commune",
+    "type": "xã",
+    "district_code": "439",
+    "codename": "tan_my_ha"
+  },
+  {
+    "code": "18184",
+    "name": "Quang Diệm",
+    "name_en": "Quang Diem",
+    "full_name": "Xã Quang Diệm",
+    "full_name_en": "Quang Diem Commune",
+    "type": "xã",
+    "district_code": "439",
+    "codename": "quang_diem"
+  },
+  {
+    "code": "18187",
+    "name": "Sơn Trung",
+    "name_en": "Son Trung",
+    "full_name": "Xã Sơn Trung",
+    "full_name_en": "Son Trung Commune",
+    "type": "xã",
+    "district_code": "439",
+    "codename": "son_trung"
+  },
+  {
+    "code": "18190",
+    "name": "Sơn Bằng",
+    "name_en": "Son Bang",
+    "full_name": "Xã Sơn Bằng",
+    "full_name_en": "Son Bang Commune",
+    "type": "xã",
+    "district_code": "439",
+    "codename": "son_bang"
+  },
+  {
+    "code": "18196",
+    "name": "Sơn Kim 1",
+    "name_en": "Son Kim 1",
+    "full_name": "Xã Sơn Kim 1",
+    "full_name_en": "Commune Son Kim 1",
+    "type": "xã",
+    "district_code": "439",
+    "codename": "son_kim_1"
+  },
+  {
+    "code": "18199",
+    "name": "Sơn Kim 2",
+    "name_en": "Son Kim 2",
+    "full_name": "Xã Sơn Kim 2",
+    "full_name_en": "Commune Son Kim 2",
+    "type": "xã",
+    "district_code": "439",
+    "codename": "son_kim_2"
+  },
+  {
+    "code": "18202",
+    "name": "Mỹ Long",
+    "name_en": "My Long",
+    "full_name": "Xã Mỹ Long",
+    "full_name_en": "My Long Commune",
+    "type": "xã",
+    "district_code": "439",
+    "codename": "my_long"
+  },
+  {
+    "code": "18211",
+    "name": "Kim Hoa",
+    "name_en": "Kim Hoa",
+    "full_name": "Xã Kim Hoa",
+    "full_name_en": "Kim Hoa Commune",
+    "type": "xã",
+    "district_code": "439",
+    "codename": "kim_hoa"
+  },
+  {
+    "code": "18217",
+    "name": "Sơn Phú",
+    "name_en": "Son Phu",
+    "full_name": "Xã Sơn Phú",
+    "full_name_en": "Son Phu Commune",
+    "type": "xã",
+    "district_code": "439",
+    "codename": "son_phu"
+  },
+  {
+    "code": "18223",
+    "name": "Hàm Trường",
+    "name_en": "Ham Truong",
+    "full_name": "Xã Hàm Trường",
+    "full_name_en": "Ham Truong Commune",
+    "type": "xã",
+    "district_code": "439",
+    "codename": "ham_truong"
+  }
+]

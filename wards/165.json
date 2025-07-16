@@ -1,0 +1,102 @@
+[
+  {
+    "code": "05506",
+    "name": "Lương Sơn",
+    "name_en": "Luong Son",
+    "full_name": "Phường Lương Sơn",
+    "full_name_en": "Luong Son Ward",
+    "type": "phường",
+    "district_code": "165",
+    "codename": "luong_son"
+  },
+  {
+    "code": "05509",
+    "name": "Châu Sơn",
+    "name_en": "Chau Son",
+    "full_name": "Phường Châu Sơn",
+    "full_name_en": "Chau Son Ward",
+    "type": "phường",
+    "district_code": "165",
+    "codename": "chau_son"
+  },
+  {
+    "code": "05512",
+    "name": "Mỏ Chè",
+    "name_en": "Mo Che",
+    "full_name": "Phường Mỏ Chè",
+    "full_name_en": "Mo Che Ward",
+    "type": "phường",
+    "district_code": "165",
+    "codename": "mo_che"
+  },
+  {
+    "code": "05515",
+    "name": "Cải Đan",
+    "name_en": "Cai Dan",
+    "full_name": "Phường Cải Đan",
+    "full_name_en": "Cai Dan Ward",
+    "type": "phường",
+    "district_code": "165",
+    "codename": "cai_dan"
+  },
+  {
+    "code": "05518",
+    "name": "Thắng Lợi",
+    "name_en": "Thang Loi",
+    "full_name": "Phường Thắng Lợi",
+    "full_name_en": "Thang Loi Ward",
+    "type": "phường",
+    "district_code": "165",
+    "codename": "thang_loi"
+  },
+  {
+    "code": "05521",
+    "name": "Phố Cò",
+    "name_en": "Pho Co",
+    "full_name": "Phường Phố Cò",
+    "full_name_en": "Pho Co Ward",
+    "type": "phường",
+    "district_code": "165",
+    "codename": "pho_co"
+  },
+  {
+    "code": "05527",
+    "name": "Tân Quang",
+    "name_en": "Tan Quang",
+    "full_name": "Xã Tân Quang",
+    "full_name_en": "Tan Quang Commune",
+    "type": "xã",
+    "district_code": "165",
+    "codename": "tan_quang"
+  },
+  {
+    "code": "05528",
+    "name": "Bách Quang",
+    "name_en": "Bach Quang",
+    "full_name": "Phường Bách Quang",
+    "full_name_en": "Bach Quang Ward",
+    "type": "phường",
+    "district_code": "165",
+    "codename": "bach_quang"
+  },
+  {
+    "code": "05530",
+    "name": "Bình Sơn",
+    "name_en": "Binh Son",
+    "full_name": "Xã Bình Sơn",
+    "full_name_en": "Binh Son Commune",
+    "type": "xã",
+    "district_code": "165",
+    "codename": "binh_son"
+  },
+  {
+    "code": "05533",
+    "name": "Bá Xuyên",
+    "name_en": "Ba Xuyen",
+    "full_name": "Xã Bá Xuyên",
+    "full_name_en": "Ba Xuyen Commune",
+    "type": "xã",
+    "district_code": "165",
+    "codename": "ba_xuyen"
+  }
+]

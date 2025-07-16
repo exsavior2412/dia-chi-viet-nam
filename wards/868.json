@@ -1,0 +1,72 @@
+[
+  {
+    "code": "29954",
+    "name": "An Lộc",
+    "name_en": "An Loc",
+    "full_name": "Phường An Lộc",
+    "full_name_en": "An Loc Ward",
+    "type": "phường",
+    "district_code": "868",
+    "codename": "an_loc"
+  },
+  {
+    "code": "29955",
+    "name": "An Thạnh",
+    "name_en": "An Thanh",
+    "full_name": "Phường An Thạnh",
+    "full_name_en": "An Thanh Ward",
+    "type": "phường",
+    "district_code": "868",
+    "codename": "an_thanh"
+  },
+  {
+    "code": "29959",
+    "name": "Bình Thạnh",
+    "name_en": "Binh Thanh",
+    "full_name": "Xã Bình Thạnh",
+    "full_name_en": "Binh Thanh Commune",
+    "type": "xã",
+    "district_code": "868",
+    "codename": "binh_thanh"
+  },
+  {
+    "code": "29965",
+    "name": "Tân Hội",
+    "name_en": "Tan Hoi",
+    "full_name": "Xã Tân Hội",
+    "full_name_en": "Tan Hoi Commune",
+    "type": "xã",
+    "district_code": "868",
+    "codename": "tan_hoi"
+  },
+  {
+    "code": "29978",
+    "name": "An Lạc",
+    "name_en": "An Lac",
+    "full_name": "Phường An Lạc",
+    "full_name_en": "An Lac Ward",
+    "type": "phường",
+    "district_code": "868",
+    "codename": "an_lac"
+  },
+  {
+    "code": "29986",
+    "name": "An Bình B",
+    "name_en": "An Binh B",
+    "full_name": "Phường An Bình B",
+    "full_name_en": "An Binh B Ward",
+    "type": "phường",
+    "district_code": "868",
+    "codename": "an_binh_b"
+  },
+  {
+    "code": "29989",
+    "name": "An Bình A",
+    "name_en": "An Binh A",
+    "full_name": "Phường An Bình A",
+    "full_name_en": "An Binh A Ward",
+    "type": "phường",
+    "district_code": "868",
+    "codename": "an_binh_a"
+  }
+]

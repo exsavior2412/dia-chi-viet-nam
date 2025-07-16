@@ -1,0 +1,92 @@
+[
+  {
+    "code": "22834",
+    "name": "Khánh Hải",
+    "name_en": "Khanh Hai",
+    "full_name": "Thị trấn Khánh Hải",
+    "full_name_en": "Khanh Hai Township",
+    "type": "thị trấn",
+    "district_code": "586",
+    "codename": "khanh_hai"
+  },
+  {
+    "code": "22846",
+    "name": "Vĩnh Hải",
+    "name_en": "Vinh Hai",
+    "full_name": "Xã Vĩnh Hải",
+    "full_name_en": "Vinh Hai Commune",
+    "type": "xã",
+    "district_code": "586",
+    "codename": "vinh_hai"
+  },
+  {
+    "code": "22852",
+    "name": "Phương Hải",
+    "name_en": "Phuong Hai",
+    "full_name": "Xã Phương Hải",
+    "full_name_en": "Phuong Hai Commune",
+    "type": "xã",
+    "district_code": "586",
+    "codename": "phuong_hai"
+  },
+  {
+    "code": "22855",
+    "name": "Tân Hải",
+    "name_en": "Tan Hai",
+    "full_name": "Xã Tân Hải",
+    "full_name_en": "Tan Hai Commune",
+    "type": "xã",
+    "district_code": "586",
+    "codename": "tan_hai"
+  },
+  {
+    "code": "22858",
+    "name": "Xuân Hải",
+    "name_en": "Xuan Hai",
+    "full_name": "Xã Xuân Hải",
+    "full_name_en": "Xuan Hai Commune",
+    "type": "xã",
+    "district_code": "586",
+    "codename": "xuan_hai"
+  },
+  {
+    "code": "22861",
+    "name": "Hộ Hải",
+    "name_en": "Ho Hai",
+    "full_name": "Xã Hộ Hải",
+    "full_name_en": "Ho Hai Commune",
+    "type": "xã",
+    "district_code": "586",
+    "codename": "ho_hai"
+  },
+  {
+    "code": "22864",
+    "name": "Tri Hải",
+    "name_en": "Tri Hai",
+    "full_name": "Xã Tri Hải",
+    "full_name_en": "Tri Hai Commune",
+    "type": "xã",
+    "district_code": "586",
+    "codename": "tri_hai"
+  },
+  {
+    "code": "22867",
+    "name": "Nhơn Hải",
+    "name_en": "Nhon Hai",
+    "full_name": "Xã Nhơn Hải",
+    "full_name_en": "Nhon Hai Commune",
+    "type": "xã",
+    "district_code": "586",
+    "codename": "nhon_hai"
+  },
+  {
+    "code": "22868",
+    "name": "Thanh Hải",
+    "name_en": "Thanh Hai",
+    "full_name": "Xã Thanh Hải",
+    "full_name_en": "Thanh Hai Commune",
+    "type": "xã",
+    "district_code": "586",
+    "codename": "thanh_hai"
+  }
+]

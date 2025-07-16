@@ -1,0 +1,32 @@
+[
+  {
+    "code": "03148",
+    "name": "Sông Đà",
+    "name_en": "Song Da",
+    "full_name": "Phường Sông Đà",
+    "full_name_en": "Song Da Ward",
+    "type": "phường",
+    "district_code": "095",
+    "codename": "song_da"
+  },
+  {
+    "code": "03151",
+    "name": "Na Lay",
+    "name_en": "Na Lay",
+    "full_name": "Phường Na Lay",
+    "full_name_en": "Na Lay Ward",
+    "type": "phường",
+    "district_code": "095",
+    "codename": "na_lay"
+  },
+  {
+    "code": "03184",
+    "name": "Lay Nưa",
+    "name_en": "Lay Nua",
+    "full_name": "Xã Lay Nưa",
+    "full_name_en": "Lay Nua Commune",
+    "type": "xã",
+    "district_code": "095",
+    "codename": "lay_nua"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "code": "02536",
+    "name": "Sơn Dương",
+    "name_en": "Son Duong",
+    "full_name": "Thị trấn Sơn Dương",
+    "full_name_en": "Son Duong Township",
+    "type": "thị trấn",
+    "district_code": "076",
+    "codename": "son_duong"
+  },
+  {
+    "code": "02539",
+    "name": "Trung Yên",
+    "name_en": "Trung Yen",
+    "full_name": "Xã Trung Yên",
+    "full_name_en": "Trung Yen Commune",
+    "type": "xã",
+    "district_code": "076",
+    "codename": "trung_yen"
+  },
+  {
+    "code": "02542",
+    "name": "Minh Thanh",
+    "name_en": "Minh Thanh",
+    "full_name": "Xã Minh Thanh",
+    "full_name_en": "Minh Thanh Commune",
+    "type": "xã",
+    "district_code": "076",
+    "codename": "minh_thanh"
+  },
+  {
+    "code": "02545",
+    "name": "Tân Trào",
+    "name_en": "Tan Trao",
+    "full_name": "Xã Tân Trào",
+    "full_name_en": "Tan Trao Commune",
+    "type": "xã",
+    "district_code": "076",
+    "codename": "tan_trao"
+  },
+  {
+    "code": "02548",
+    "name": "Vĩnh Lợi",
+    "name_en": "Vinh Loi",
+    "full_name": "Xã Vĩnh Lợi",
+    "full_name_en": "Vinh Loi Commune",
+    "type": "xã",
+    "district_code": "076",
+    "codename": "vinh_loi"
+  },
+  {
+    "code": "02551",
+    "name": "Thượng Ấm",
+    "name_en": "Thuong Am",
+    "full_name": "Xã Thượng Ấm",
+    "full_name_en": "Thuong Am Commune",
+    "type": "xã",
+    "district_code": "076",
+    "codename": "thuong_am"
+  },
+  {
+    "code": "02554",
+    "name": "Bình Yên",
+    "name_en": "Binh Yen",
+    "full_name": "Xã Bình Yên",
+    "full_name_en": "Binh Yen Commune",
+    "type": "xã",
+    "district_code": "076",
+    "codename": "binh_yen"
+  },
+  {
+    "code": "02557",
+    "name": "Lương Thiện",
+    "name_en": "Luong Thien",
+    "full_name": "Xã Lương Thiện",
+    "full_name_en": "Luong Thien Commune",
+    "type": "xã",
+    "district_code": "076",
+    "codename": "luong_thien"
+  },
+  {
+    "code": "02560",
+    "name": "Tú Thịnh",
+    "name_en": "Tu Thinh",
+    "full_name": "Xã Tú Thịnh",
+    "full_name_en": "Tu Thinh Commune",
+    "type": "xã",
+    "district_code": "076",
+    "codename": "tu_thinh"
+  },
+  {
+    "code": "02563",
+    "name": "Cấp Tiến",
+    "name_en": "Cap Tien",
+    "full_name": "Xã Cấp Tiến",
+    "full_name_en": "Cap Tien Commune",
+    "type": "xã",
+    "district_code": "076",
+    "codename": "cap_tien"
+  },
+  {
+    "code": "02566",
+    "name": "Hợp Thành",
+    "name_en": "Hop Thanh",
+    "full_name": "Xã Hợp Thành",
+    "full_name_en": "Hop Thanh Commune",
+    "type": "xã",
+    "district_code": "076",
+    "codename": "hop_thanh"
+  },
+  {
+    "code": "02569",
+    "name": "Phúc Ứng",
+    "name_en": "Phuc Ung",
+    "full_name": "Xã Phúc Ứng",
+    "full_name_en": "Phuc Ung Commune",
+    "type": "xã",
+    "district_code": "076",
+    "codename": "phuc_ung"
+  },
+  {
+    "code": "02572",
+    "name": "Đông Thọ",
+    "name_en": "Dong Tho",
+    "full_name": "Xã Đông Thọ",
+    "full_name_en": "Dong Tho Commune",
+    "type": "xã",
+    "district_code": "076",
+    "codename": "dong_tho"
+  },
+  {
+    "code": "02575",
+    "name": "Kháng Nhật",
+    "name_en": "Khang Nhat",
+    "full_name": "Xã Kháng Nhật",
+    "full_name_en": "Khang Nhat Commune",
+    "type": "xã",
+    "district_code": "076",
+    "codename": "khang_nhat"
+  },
+  {
+    "code": "02578",
+    "name": "Hợp Hòa",
+    "name_en": "Hop Hoa",
+    "full_name": "Xã Hợp Hòa",
+    "full_name_en": "Hop Hoa Commune",
+    "type": "xã",
+    "district_code": "076",
+    "codename": "hop_hoa"
+  },
+  {
+    "code": "02584",
+    "name": "Quyết Thắng",
+    "name_en": "Quyet Thang",
+    "full_name": "Xã Quyết Thắng",
+    "full_name_en": "Quyet Thang Commune",
+    "type": "xã",
+    "district_code": "076",
+    "codename": "quyet_thang"
+  },
+  {
+    "code": "02587",
+    "name": "Đồng Quý",
+    "name_en": "Dong Quy",
+    "full_name": "Xã Đồng Quý",
+    "full_name_en": "Dong Quy Commune",
+    "type": "xã",
+    "district_code": "076",
+    "codename": "dong_quy"
+  },
+  {
+    "code": "02590",
+    "name": "Tân Thanh",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thanh",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "076",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "02596",
+    "name": "Văn Phú",
+    "name_en": "Van Phu",
+    "full_name": "Xã Văn Phú",
+    "full_name_en": "Van Phu Commune",
+    "type": "xã",
+    "district_code": "076",
+    "codename": "van_phu"
+  },
+  {
+    "code": "02599",
+    "name": "Chi Thiết",
+    "name_en": "Chi Thiet",
+    "full_name": "Xã Chi Thiết",
+    "full_name_en": "Chi Thiet Commune",
+    "type": "xã",
+    "district_code": "076",
+    "codename": "chi_thiet"
+  },
+  {
+    "code": "02602",
+    "name": "Đông Lợi",
+    "name_en": "Dong Loi",
+    "full_name": "Xã Đông Lợi",
+    "full_name_en": "Dong Loi Commune",
+    "type": "xã",
+    "district_code": "076",
+    "codename": "dong_loi"
+  },
+  {
+    "code": "02605",
+    "name": "Thiện Kế",
+    "name_en": "Thien Ke",
+    "full_name": "Xã Thiện Kế",
+    "full_name_en": "Thien Ke Commune",
+    "type": "xã",
+    "district_code": "076",
+    "codename": "thien_ke"
+  },
+  {
+    "code": "02608",
+    "name": "Hồng Sơn",
+    "name_en": "Hong Son",
+    "full_name": "Xã Hồng Sơn",
+    "full_name_en": "Hong Son Commune",
+    "type": "xã",
+    "district_code": "076",
+    "codename": "hong_son"
+  },
+  {
+    "code": "02611",
+    "name": "Phú Lương",
+    "name_en": "Phu Luong",
+    "full_name": "Xã Phú Lương",
+    "full_name_en": "Phu Luong Commune",
+    "type": "xã",
+    "district_code": "076",
+    "codename": "phu_luong"
+  },
+  {
+    "code": "02614",
+    "name": "Ninh Lai",
+    "name_en": "Ninh Lai",
+    "full_name": "Xã Ninh Lai",
+    "full_name_en": "Ninh Lai Commune",
+    "type": "xã",
+    "district_code": "076",
+    "codename": "ninh_lai"
+  },
+  {
+    "code": "02617",
+    "name": "Đại Phú",
+    "name_en": "Dai Phu",
+    "full_name": "Xã Đại Phú",
+    "full_name_en": "Dai Phu Commune",
+    "type": "xã",
+    "district_code": "076",
+    "codename": "dai_phu"
+  },
+  {
+    "code": "02620",
+    "name": "Sơn Nam",
+    "name_en": "Son Nam",
+    "full_name": "Xã Sơn Nam",
+    "full_name_en": "Son Nam Commune",
+    "type": "xã",
+    "district_code": "076",
+    "codename": "son_nam"
+  },
+  {
+    "code": "02623",
+    "name": "Hào Phú",
+    "name_en": "Hao Phu",
+    "full_name": "Xã Hào Phú",
+    "full_name_en": "Hao Phu Commune",
+    "type": "xã",
+    "district_code": "076",
+    "codename": "hao_phu"
+  },
+  {
+    "code": "02626",
+    "name": "Tam Đa",
+    "name_en": "Tam Da",
+    "full_name": "Xã Tam Đa",
+    "full_name_en": "Tam Da Commune",
+    "type": "xã",
+    "district_code": "076",
+    "codename": "tam_da"
+  },
+  {
+    "code": "02632",
+    "name": "Trường Sinh",
+    "name_en": "Truong Sinh",
+    "full_name": "Xã Trường Sinh",
+    "full_name_en": "Truong Sinh Commune",
+    "type": "xã",
+    "district_code": "076",
+    "codename": "truong_sinh"
+  }
+]

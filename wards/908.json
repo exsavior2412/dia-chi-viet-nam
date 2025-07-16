@@ -1,0 +1,92 @@
+[
+  {
+    "code": "30985",
+    "name": "Thứ Ba",
+    "name_en": "Thu Ba",
+    "full_name": "Thị trấn Thứ Ba",
+    "full_name_en": "Thu Ba Township",
+    "type": "thị trấn",
+    "district_code": "908",
+    "codename": "thu_ba"
+  },
+  {
+    "code": "30988",
+    "name": "Tây Yên",
+    "name_en": "Tay Yen",
+    "full_name": "Xã Tây Yên",
+    "full_name_en": "Tay Yen Commune",
+    "type": "xã",
+    "district_code": "908",
+    "codename": "tay_yen"
+  },
+  {
+    "code": "30991",
+    "name": "Tây Yên A",
+    "name_en": "Tay Yen A",
+    "full_name": "Xã Tây Yên A",
+    "full_name_en": "Tay Yen A Commune",
+    "type": "xã",
+    "district_code": "908",
+    "codename": "tay_yen_a"
+  },
+  {
+    "code": "30994",
+    "name": "Nam Yên",
+    "name_en": "Nam Yen",
+    "full_name": "Xã Nam Yên",
+    "full_name_en": "Nam Yen Commune",
+    "type": "xã",
+    "district_code": "908",
+    "codename": "nam_yen"
+  },
+  {
+    "code": "30997",
+    "name": "Hưng Yên",
+    "name_en": "Hung Yen",
+    "full_name": "Xã Hưng Yên",
+    "full_name_en": "Hung Yen Commune",
+    "type": "xã",
+    "district_code": "908",
+    "codename": "hung_yen"
+  },
+  {
+    "code": "31000",
+    "name": "Nam Thái",
+    "name_en": "Nam Thai",
+    "full_name": "Xã Nam Thái",
+    "full_name_en": "Nam Thai Commune",
+    "type": "xã",
+    "district_code": "908",
+    "codename": "nam_thai"
+  },
+  {
+    "code": "31003",
+    "name": "Nam Thái A",
+    "name_en": "Nam Thai A",
+    "full_name": "Xã Nam Thái A",
+    "full_name_en": "Nam Thai A Commune",
+    "type": "xã",
+    "district_code": "908",
+    "codename": "nam_thai_a"
+  },
+  {
+    "code": "31006",
+    "name": "Đông Thái",
+    "name_en": "Dong Thai",
+    "full_name": "Xã Đông Thái",
+    "full_name_en": "Dong Thai Commune",
+    "type": "xã",
+    "district_code": "908",
+    "codename": "dong_thai"
+  },
+  {
+    "code": "31009",
+    "name": "Đông Yên",
+    "name_en": "Dong Yen",
+    "full_name": "Xã Đông Yên",
+    "full_name_en": "Dong Yen Commune",
+    "type": "xã",
+    "district_code": "908",
+    "codename": "dong_yen"
+  }
+]

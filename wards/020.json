@@ -1,0 +1,162 @@
+[
+  {
+    "code": "00640",
+    "name": "Văn Điển",
+    "name_en": "Van Dien",
+    "full_name": "Thị trấn Văn Điển",
+    "full_name_en": "Van Dien Township",
+    "type": "thị trấn",
+    "district_code": "020",
+    "codename": "van_dien"
+  },
+  {
+    "code": "00643",
+    "name": "Tân Triều",
+    "name_en": "Tan Trieu",
+    "full_name": "Xã Tân Triều",
+    "full_name_en": "Tan Trieu Commune",
+    "type": "xã",
+    "district_code": "020",
+    "codename": "tan_trieu"
+  },
+  {
+    "code": "00646",
+    "name": "Thanh Liệt",
+    "name_en": "Thanh Liet",
+    "full_name": "Xã Thanh Liệt",
+    "full_name_en": "Thanh Liet Commune",
+    "type": "xã",
+    "district_code": "020",
+    "codename": "thanh_liet"
+  },
+  {
+    "code": "00649",
+    "name": "Tả Thanh Oai",
+    "name_en": "Ta Thanh Oai",
+    "full_name": "Xã Tả Thanh Oai",
+    "full_name_en": "Ta Thanh Oai Commune",
+    "type": "xã",
+    "district_code": "020",
+    "codename": "ta_thanh_oai"
+  },
+  {
+    "code": "00652",
+    "name": "Hữu Hoà",
+    "name_en": "Huu Hoa",
+    "full_name": "Xã Hữu Hoà",
+    "full_name_en": "Huu Hoa Commune",
+    "type": "xã",
+    "district_code": "020",
+    "codename": "huu_hoa"
+  },
+  {
+    "code": "00655",
+    "name": "Tam Hiệp",
+    "name_en": "Tam Hiep",
+    "full_name": "Xã Tam Hiệp",
+    "full_name_en": "Tam Hiep Commune",
+    "type": "xã",
+    "district_code": "020",
+    "codename": "tam_hiep"
+  },
+  {
+    "code": "00658",
+    "name": "Tứ Hiệp",
+    "name_en": "Tu Hiep",
+    "full_name": "Xã Tứ Hiệp",
+    "full_name_en": "Tu Hiep Commune",
+    "type": "xã",
+    "district_code": "020",
+    "codename": "tu_hiep"
+  },
+  {
+    "code": "00661",
+    "name": "Yên Mỹ",
+    "name_en": "Yen My",
+    "full_name": "Xã Yên Mỹ",
+    "full_name_en": "Yen My Commune",
+    "type": "xã",
+    "district_code": "020",
+    "codename": "yen_my"
+  },
+  {
+    "code": "00664",
+    "name": "Vĩnh Quỳnh",
+    "name_en": "Vinh Quynh",
+    "full_name": "Xã Vĩnh Quỳnh",
+    "full_name_en": "Vinh Quynh Commune",
+    "type": "xã",
+    "district_code": "020",
+    "codename": "vinh_quynh"
+  },
+  {
+    "code": "00667",
+    "name": "Ngũ Hiệp",
+    "name_en": "Ngu Hiep",
+    "full_name": "Xã Ngũ Hiệp",
+    "full_name_en": "Ngu Hiep Commune",
+    "type": "xã",
+    "district_code": "020",
+    "codename": "ngu_hiep"
+  },
+  {
+    "code": "00670",
+    "name": "Duyên Hà",
+    "name_en": "Duyen Ha",
+    "full_name": "Xã Duyên Hà",
+    "full_name_en": "Duyen Ha Commune",
+    "type": "xã",
+    "district_code": "020",
+    "codename": "duyen_ha"
+  },
+  {
+    "code": "00673",
+    "name": "Ngọc Hồi",
+    "name_en": "Ngoc Hoi",
+    "full_name": "Xã Ngọc Hồi",
+    "full_name_en": "Ngoc Hoi Commune",
+    "type": "xã",
+    "district_code": "020",
+    "codename": "ngoc_hoi"
+  },
+  {
+    "code": "00676",
+    "name": "Vạn Phúc",
+    "name_en": "Van Phuc",
+    "full_name": "Xã Vạn Phúc",
+    "full_name_en": "Van Phuc Commune",
+    "type": "xã",
+    "district_code": "020",
+    "codename": "van_phuc"
+  },
+  {
+    "code": "00679",
+    "name": "Đại áng",
+    "name_en": "Dai ang",
+    "full_name": "Xã Đại áng",
+    "full_name_en": "Dai ang Commune",
+    "type": "xã",
+    "district_code": "020",
+    "codename": "dai_ang"
+  },
+  {
+    "code": "00682",
+    "name": "Liên Ninh",
+    "name_en": "Lien Ninh",
+    "full_name": "Xã Liên Ninh",
+    "full_name_en": "Lien Ninh Commune",
+    "type": "xã",
+    "district_code": "020",
+    "codename": "lien_ninh"
+  },
+  {
+    "code": "00685",
+    "name": "Đông Mỹ",
+    "name_en": "Dong My",
+    "full_name": "Xã Đông Mỹ",
+    "full_name_en": "Dong My Commune",
+    "type": "xã",
+    "district_code": "020",
+    "codename": "dong_my"
+  }
+]

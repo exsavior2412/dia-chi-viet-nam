@@ -1,0 +1,322 @@
+[
+  {
+    "code": "17506",
+    "name": "Hoa Thành",
+    "name_en": "Hoa Thanh",
+    "full_name": "Thị trấn Hoa Thành",
+    "full_name_en": "Hoa Thanh Township",
+    "type": "thị trấn",
+    "district_code": "426",
+    "codename": "hoa_thanh"
+  },
+  {
+    "code": "17509",
+    "name": "Mã Thành",
+    "name_en": "Ma Thanh",
+    "full_name": "Xã Mã Thành",
+    "full_name_en": "Ma Thanh Commune",
+    "type": "xã",
+    "district_code": "426",
+    "codename": "ma_thanh"
+  },
+  {
+    "code": "17510",
+    "name": "Tiến Thành",
+    "name_en": "Tien Thanh",
+    "full_name": "Xã Tiến Thành",
+    "full_name_en": "Tien Thanh Commune",
+    "type": "xã",
+    "district_code": "426",
+    "codename": "tien_thanh"
+  },
+  {
+    "code": "17512",
+    "name": "Lăng Thành",
+    "name_en": "Lang Thanh",
+    "full_name": "Xã Lăng Thành",
+    "full_name_en": "Lang Thanh Commune",
+    "type": "xã",
+    "district_code": "426",
+    "codename": "lang_thanh"
+  },
+  {
+    "code": "17515",
+    "name": "Tân Thành",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thành",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "426",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "17518",
+    "name": "Đức Thành",
+    "name_en": "Duc Thanh",
+    "full_name": "Xã Đức Thành",
+    "full_name_en": "Duc Thanh Commune",
+    "type": "xã",
+    "district_code": "426",
+    "codename": "duc_thanh"
+  },
+  {
+    "code": "17521",
+    "name": "Kim Thành",
+    "name_en": "Kim Thanh",
+    "full_name": "Xã Kim Thành",
+    "full_name_en": "Kim Thanh Commune",
+    "type": "xã",
+    "district_code": "426",
+    "codename": "kim_thanh"
+  },
+  {
+    "code": "17524",
+    "name": "Hậu Thành",
+    "name_en": "Hau Thanh",
+    "full_name": "Xã Hậu Thành",
+    "full_name_en": "Hau Thanh Commune",
+    "type": "xã",
+    "district_code": "426",
+    "codename": "hau_thanh"
+  },
+  {
+    "code": "17527",
+    "name": "Đô Thành",
+    "name_en": "Do Thanh",
+    "full_name": "Xã Đô Thành",
+    "full_name_en": "Do Thanh Commune",
+    "type": "xã",
+    "district_code": "426",
+    "codename": "do_thanh"
+  },
+  {
+    "code": "17530",
+    "name": "Thọ Thành",
+    "name_en": "Tho Thanh",
+    "full_name": "Xã Thọ Thành",
+    "full_name_en": "Tho Thanh Commune",
+    "type": "xã",
+    "district_code": "426",
+    "codename": "tho_thanh"
+  },
+  {
+    "code": "17533",
+    "name": "Quang Thành",
+    "name_en": "Quang Thanh",
+    "full_name": "Xã Quang Thành",
+    "full_name_en": "Quang Thanh Commune",
+    "type": "xã",
+    "district_code": "426",
+    "codename": "quang_thanh"
+  },
+  {
+    "code": "17536",
+    "name": "Tây Thành",
+    "name_en": "Tay Thanh",
+    "full_name": "Xã Tây Thành",
+    "full_name_en": "Tay Thanh Commune",
+    "type": "xã",
+    "district_code": "426",
+    "codename": "tay_thanh"
+  },
+  {
+    "code": "17539",
+    "name": "Phúc Thành",
+    "name_en": "Phuc Thanh",
+    "full_name": "Xã Phúc Thành",
+    "full_name_en": "Phuc Thanh Commune",
+    "type": "xã",
+    "district_code": "426",
+    "codename": "phuc_thanh"
+  },
+  {
+    "code": "17542",
+    "name": "Phú Thành",
+    "name_en": "Phu Thanh",
+    "full_name": "Xã Phú Thành",
+    "full_name_en": "Phu Thanh Commune",
+    "type": "xã",
+    "district_code": "426",
+    "codename": "phu_thanh"
+  },
+  {
+    "code": "17545",
+    "name": "Đồng Thành",
+    "name_en": "Dong Thanh",
+    "full_name": "Xã Đồng Thành",
+    "full_name_en": "Dong Thanh Commune",
+    "type": "xã",
+    "district_code": "426",
+    "codename": "dong_thanh"
+  },
+  {
+    "code": "17554",
+    "name": "Tăng Thành",
+    "name_en": "Tang Thanh",
+    "full_name": "Xã Tăng Thành",
+    "full_name_en": "Tang Thanh Commune",
+    "type": "xã",
+    "district_code": "426",
+    "codename": "tang_thanh"
+  },
+  {
+    "code": "17557",
+    "name": "Văn Thành",
+    "name_en": "Van Thanh",
+    "full_name": "Xã Văn Thành",
+    "full_name_en": "Van Thanh Commune",
+    "type": "xã",
+    "district_code": "426",
+    "codename": "van_thanh"
+  },
+  {
+    "code": "17560",
+    "name": "Thịnh Thành",
+    "name_en": "Thinh Thanh",
+    "full_name": "Xã Thịnh Thành",
+    "full_name_en": "Thinh Thanh Commune",
+    "type": "xã",
+    "district_code": "426",
+    "codename": "thinh_thanh"
+  },
+  {
+    "code": "17566",
+    "name": "Xuân Thành",
+    "name_en": "Xuan Thanh",
+    "full_name": "Xã Xuân Thành",
+    "full_name_en": "Xuan Thanh Commune",
+    "type": "xã",
+    "district_code": "426",
+    "codename": "xuan_thanh"
+  },
+  {
+    "code": "17569",
+    "name": "Bắc Thành",
+    "name_en": "Bac Thanh",
+    "full_name": "Xã Bắc Thành",
+    "full_name_en": "Bac Thanh Commune",
+    "type": "xã",
+    "district_code": "426",
+    "codename": "bac_thanh"
+  },
+  {
+    "code": "17572",
+    "name": "Đông Thành",
+    "name_en": "Dong Thanh",
+    "full_name": "Xã Đông Thành",
+    "full_name_en": "Dong Thanh Commune",
+    "type": "xã",
+    "district_code": "426",
+    "codename": "dong_thanh"
+  },
+  {
+    "code": "17575",
+    "name": "Trung Thành",
+    "name_en": "Trung Thanh",
+    "full_name": "Xã Trung Thành",
+    "full_name_en": "Trung Thanh Commune",
+    "type": "xã",
+    "district_code": "426",
+    "codename": "trung_thanh"
+  },
+  {
+    "code": "17578",
+    "name": "Long Thành",
+    "name_en": "Long Thanh",
+    "full_name": "Xã Long Thành",
+    "full_name_en": "Long Thanh Commune",
+    "type": "xã",
+    "district_code": "426",
+    "codename": "long_thanh"
+  },
+  {
+    "code": "17581",
+    "name": "Minh Thành",
+    "name_en": "Minh Thanh",
+    "full_name": "Xã Minh Thành",
+    "full_name_en": "Minh Thanh Commune",
+    "type": "xã",
+    "district_code": "426",
+    "codename": "minh_thanh"
+  },
+  {
+    "code": "17584",
+    "name": "Nam Thành",
+    "name_en": "Nam Thanh",
+    "full_name": "Xã Nam Thành",
+    "full_name_en": "Nam Thanh Commune",
+    "type": "xã",
+    "district_code": "426",
+    "codename": "nam_thanh"
+  },
+  {
+    "code": "17587",
+    "name": "Vĩnh Thành",
+    "name_en": "Vinh Thanh",
+    "full_name": "Xã Vĩnh Thành",
+    "full_name_en": "Vinh Thanh Commune",
+    "type": "xã",
+    "district_code": "426",
+    "codename": "vinh_thanh"
+  },
+  {
+    "code": "17596",
+    "name": "Viên Thành",
+    "name_en": "Vien Thanh",
+    "full_name": "Xã Viên Thành",
+    "full_name_en": "Vien Thanh Commune",
+    "type": "xã",
+    "district_code": "426",
+    "codename": "vien_thanh"
+  },
+  {
+    "code": "17602",
+    "name": "Liên Thành",
+    "name_en": "Lien Thanh",
+    "full_name": "Xã Liên Thành",
+    "full_name_en": "Lien Thanh Commune",
+    "type": "xã",
+    "district_code": "426",
+    "codename": "lien_thanh"
+  },
+  {
+    "code": "17605",
+    "name": "Bảo Thành",
+    "name_en": "Bao Thanh",
+    "full_name": "Xã Bảo Thành",
+    "full_name_en": "Bao Thanh Commune",
+    "type": "xã",
+    "district_code": "426",
+    "codename": "bao_thanh"
+  },
+  {
+    "code": "17608",
+    "name": "Mỹ Thành",
+    "name_en": "My Thanh",
+    "full_name": "Xã Mỹ Thành",
+    "full_name_en": "My Thanh Commune",
+    "type": "xã",
+    "district_code": "426",
+    "codename": "my_thanh"
+  },
+  {
+    "code": "17611",
+    "name": "Vân Tụ",
+    "name_en": "Van Tu",
+    "full_name": "Xã Vân Tụ",
+    "full_name_en": "Van Tu Commune",
+    "type": "xã",
+    "district_code": "426",
+    "codename": "van_tu"
+  },
+  {
+    "code": "17614",
+    "name": "Sơn Thành",
+    "name_en": "Son Thanh",
+    "full_name": "Xã Sơn Thành",
+    "full_name_en": "Son Thanh Commune",
+    "type": "xã",
+    "district_code": "426",
+    "codename": "son_thanh"
+  }
+]

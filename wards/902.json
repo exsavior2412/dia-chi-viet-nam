@@ -1,0 +1,82 @@
+[
+  {
+    "code": "30787",
+    "name": "Kiên Lương",
+    "name_en": "Kien Luong",
+    "full_name": "Thị trấn Kiên Lương",
+    "full_name_en": "Kien Luong Township",
+    "type": "thị trấn",
+    "district_code": "902",
+    "codename": "kien_luong"
+  },
+  {
+    "code": "30790",
+    "name": "Kiên Bình",
+    "name_en": "Kien Binh",
+    "full_name": "Xã Kiên Bình",
+    "full_name_en": "Kien Binh Commune",
+    "type": "xã",
+    "district_code": "902",
+    "codename": "kien_binh"
+  },
+  {
+    "code": "30802",
+    "name": "Hòa Điền",
+    "name_en": "Hoa Dien",
+    "full_name": "Xã Hòa Điền",
+    "full_name_en": "Hoa Dien Commune",
+    "type": "xã",
+    "district_code": "902",
+    "codename": "hoa_dien"
+  },
+  {
+    "code": "30805",
+    "name": "Dương Hòa",
+    "name_en": "Duong Hoa",
+    "full_name": "Xã Dương Hòa",
+    "full_name_en": "Duong Hoa Commune",
+    "type": "xã",
+    "district_code": "902",
+    "codename": "duong_hoa"
+  },
+  {
+    "code": "30808",
+    "name": "Bình An",
+    "name_en": "Binh An",
+    "full_name": "Xã Bình An",
+    "full_name_en": "Binh An Commune",
+    "type": "xã",
+    "district_code": "902",
+    "codename": "binh_an"
+  },
+  {
+    "code": "30809",
+    "name": "Bình Trị",
+    "name_en": "Binh Tri",
+    "full_name": "Xã Bình Trị",
+    "full_name_en": "Binh Tri Commune",
+    "type": "xã",
+    "district_code": "902",
+    "codename": "binh_tri"
+  },
+  {
+    "code": "30811",
+    "name": "Sơn Hải",
+    "name_en": "Son Hai",
+    "full_name": "Xã Sơn Hải",
+    "full_name_en": "Son Hai Commune",
+    "type": "xã",
+    "district_code": "902",
+    "codename": "son_hai"
+  },
+  {
+    "code": "30814",
+    "name": "Hòn Nghệ",
+    "name_en": "Hon Nghe",
+    "full_name": "Xã Hòn Nghệ",
+    "full_name_en": "Hon Nghe Commune",
+    "type": "xã",
+    "district_code": "902",
+    "codename": "hon_nghe"
+  }
+]

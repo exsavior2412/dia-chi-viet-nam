@@ -1,0 +1,152 @@
+[
+  {
+    "code": "13321",
+    "name": "Đồng Văn",
+    "name_en": "Dong Van",
+    "full_name": "Phường Đồng Văn",
+    "full_name_en": "Dong Van Ward",
+    "type": "phường",
+    "district_code": "349",
+    "codename": "dong_van"
+  },
+  {
+    "code": "13324",
+    "name": "Hòa Mạc",
+    "name_en": "Hoa Mac",
+    "full_name": "Phường Hòa Mạc",
+    "full_name_en": "Hoa Mac Ward",
+    "type": "phường",
+    "district_code": "349",
+    "codename": "hoa_mac"
+  },
+  {
+    "code": "13327",
+    "name": "Mộc Hoàn",
+    "name_en": "Moc Hoan",
+    "full_name": "Xã Mộc Hoàn",
+    "full_name_en": "Moc Hoan Commune",
+    "type": "xã",
+    "district_code": "349",
+    "codename": "moc_hoan"
+  },
+  {
+    "code": "13330",
+    "name": "Châu Giang",
+    "name_en": "Chau Giang",
+    "full_name": "Phường Châu Giang",
+    "full_name_en": "Chau Giang Ward",
+    "type": "phường",
+    "district_code": "349",
+    "codename": "chau_giang"
+  },
+  {
+    "code": "13333",
+    "name": "Bạch Thượng",
+    "name_en": "Bach Thuong",
+    "full_name": "Phường Bạch Thượng",
+    "full_name_en": "Bach Thuong Ward",
+    "type": "phường",
+    "district_code": "349",
+    "codename": "bach_thuong"
+  },
+  {
+    "code": "13336",
+    "name": "Duy Minh",
+    "name_en": "Duy Minh",
+    "full_name": "Phường Duy Minh",
+    "full_name_en": "Duy Minh Ward",
+    "type": "phường",
+    "district_code": "349",
+    "codename": "duy_minh"
+  },
+  {
+    "code": "13342",
+    "name": "Duy Hải",
+    "name_en": "Duy Hai",
+    "full_name": "Phường Duy Hải",
+    "full_name_en": "Duy Hai Ward",
+    "type": "phường",
+    "district_code": "349",
+    "codename": "duy_hai"
+  },
+  {
+    "code": "13345",
+    "name": "Chuyên Ngoại",
+    "name_en": "Chuyen Ngoai",
+    "full_name": "Xã Chuyên Ngoại",
+    "full_name_en": "Chuyen Ngoai Commune",
+    "type": "xã",
+    "district_code": "349",
+    "codename": "chuyen_ngoai"
+  },
+  {
+    "code": "13348",
+    "name": "Yên Bắc",
+    "name_en": "Yen Bac",
+    "full_name": "Phường Yên Bắc",
+    "full_name_en": "Yen Bac Ward",
+    "type": "phường",
+    "district_code": "349",
+    "codename": "yen_bac"
+  },
+  {
+    "code": "13351",
+    "name": "Trác Văn",
+    "name_en": "Trac Van",
+    "full_name": "Xã Trác Văn",
+    "full_name_en": "Trac Van Commune",
+    "type": "xã",
+    "district_code": "349",
+    "codename": "trac_van"
+  },
+  {
+    "code": "13354",
+    "name": "Tiên Nội",
+    "name_en": "Tien Noi",
+    "full_name": "Phường Tiên Nội",
+    "full_name_en": "Tien Noi Ward",
+    "type": "phường",
+    "district_code": "349",
+    "codename": "tien_noi"
+  },
+  {
+    "code": "13357",
+    "name": "Hoàng Đông",
+    "name_en": "Hoang Dong",
+    "full_name": "Phường Hoàng Đông",
+    "full_name_en": "Hoang Dong Ward",
+    "type": "phường",
+    "district_code": "349",
+    "codename": "hoang_dong"
+  },
+  {
+    "code": "13360",
+    "name": "Yên Nam",
+    "name_en": "Yen Nam",
+    "full_name": "Xã Yên Nam",
+    "full_name_en": "Yen Nam Commune",
+    "type": "xã",
+    "district_code": "349",
+    "codename": "yen_nam"
+  },
+  {
+    "code": "13363",
+    "name": "Tiên Ngoại",
+    "name_en": "Tien Ngoai",
+    "full_name": "Xã Tiên Ngoại",
+    "full_name_en": "Tien Ngoai Commune",
+    "type": "xã",
+    "district_code": "349",
+    "codename": "tien_ngoai"
+  },
+  {
+    "code": "13369",
+    "name": "Tiên Sơn",
+    "name_en": "Tien Son",
+    "full_name": "Xã Tiên Sơn",
+    "full_name_en": "Tien Son Commune",
+    "type": "xã",
+    "district_code": "349",
+    "codename": "tien_son"
+  }
+]

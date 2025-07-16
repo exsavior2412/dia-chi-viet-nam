@@ -1,0 +1,112 @@
+[
+  {
+    "code": "24733",
+    "name": "Kiến Đức",
+    "name_en": "Kien Duc",
+    "full_name": "Thị trấn Kiến Đức",
+    "full_name_en": "Kien Duc Township",
+    "type": "thị trấn",
+    "district_code": "666",
+    "codename": "kien_duc"
+  },
+  {
+    "code": "24745",
+    "name": "Quảng Tín",
+    "name_en": "Quang Tin",
+    "full_name": "Xã Quảng Tín",
+    "full_name_en": "Quang Tin Commune",
+    "type": "xã",
+    "district_code": "666",
+    "codename": "quang_tin"
+  },
+  {
+    "code": "24750",
+    "name": "Đắk Wer",
+    "name_en": "Dak Wer",
+    "full_name": "Xã Đắk Wer",
+    "full_name_en": "Dak Wer Commune",
+    "type": "xã",
+    "district_code": "666",
+    "codename": "dak_wer"
+  },
+  {
+    "code": "24751",
+    "name": "Nhân Cơ",
+    "name_en": "Nhan Co",
+    "full_name": "Xã Nhân Cơ",
+    "full_name_en": "Nhan Co Commune",
+    "type": "xã",
+    "district_code": "666",
+    "codename": "nhan_co"
+  },
+  {
+    "code": "24754",
+    "name": "Kiến Thành",
+    "name_en": "Kien Thanh",
+    "full_name": "Xã Kiến Thành",
+    "full_name_en": "Kien Thanh Commune",
+    "type": "xã",
+    "district_code": "666",
+    "codename": "kien_thanh"
+  },
+  {
+    "code": "24756",
+    "name": "Nghĩa Thắng",
+    "name_en": "Nghia Thang",
+    "full_name": "Xã Nghĩa Thắng",
+    "full_name_en": "Nghia Thang Commune",
+    "type": "xã",
+    "district_code": "666",
+    "codename": "nghia_thang"
+  },
+  {
+    "code": "24757",
+    "name": "Đạo Nghĩa",
+    "name_en": "Dao Nghia",
+    "full_name": "Xã Đạo Nghĩa",
+    "full_name_en": "Dao Nghia Commune",
+    "type": "xã",
+    "district_code": "666",
+    "codename": "dao_nghia"
+  },
+  {
+    "code": "24760",
+    "name": "Đắk Sin",
+    "name_en": "Dak Sin",
+    "full_name": "Xã Đắk Sin",
+    "full_name_en": "Dak Sin Commune",
+    "type": "xã",
+    "district_code": "666",
+    "codename": "dak_sin"
+  },
+  {
+    "code": "24761",
+    "name": "Hưng Bình",
+    "name_en": "Hung Binh",
+    "full_name": "Xã Hưng Bình",
+    "full_name_en": "Hung Binh Commune",
+    "type": "xã",
+    "district_code": "666",
+    "codename": "hung_binh"
+  },
+  {
+    "code": "24763",
+    "name": "Đắk Ru",
+    "name_en": "Dak Ru",
+    "full_name": "Xã Đắk Ru",
+    "full_name_en": "Dak Ru Commune",
+    "type": "xã",
+    "district_code": "666",
+    "codename": "dak_ru"
+  },
+  {
+    "code": "24766",
+    "name": "Nhân Đạo",
+    "name_en": "Nhan Dao",
+    "full_name": "Xã Nhân Đạo",
+    "full_name_en": "Nhan Dao Commune",
+    "type": "xã",
+    "district_code": "666",
+    "codename": "nhan_dao"
+  }
+]

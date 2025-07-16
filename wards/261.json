@@ -1,0 +1,122 @@
+[
+  {
+    "code": "09367",
+    "name": "Đông Ngàn",
+    "name_en": "Dong Ngan",
+    "full_name": "Phường Đông Ngàn",
+    "full_name_en": "Dong Ngan Ward",
+    "type": "phường",
+    "district_code": "261",
+    "codename": "dong_ngan"
+  },
+  {
+    "code": "09370",
+    "name": "Tam Sơn",
+    "name_en": "Tam Son",
+    "full_name": "Phường Tam Sơn",
+    "full_name_en": "Tam Son Ward",
+    "type": "phường",
+    "district_code": "261",
+    "codename": "tam_son"
+  },
+  {
+    "code": "09373",
+    "name": "Hương Mạc",
+    "name_en": "Huong Mac",
+    "full_name": "Phường Hương Mạc",
+    "full_name_en": "Huong Mac Ward",
+    "type": "phường",
+    "district_code": "261",
+    "codename": "huong_mac"
+  },
+  {
+    "code": "09376",
+    "name": "Tương Giang",
+    "name_en": "Tuong Giang",
+    "full_name": "Phường Tương Giang",
+    "full_name_en": "Tuong Giang Ward",
+    "type": "phường",
+    "district_code": "261",
+    "codename": "tuong_giang"
+  },
+  {
+    "code": "09379",
+    "name": "Phù Khê",
+    "name_en": "Phu Khe",
+    "full_name": "Phường Phù Khê",
+    "full_name_en": "Phu Khe Ward",
+    "type": "phường",
+    "district_code": "261",
+    "codename": "phu_khe"
+  },
+  {
+    "code": "09382",
+    "name": "Đồng Kỵ",
+    "name_en": "Dong Ky",
+    "full_name": "Phường Đồng Kỵ",
+    "full_name_en": "Dong Ky Ward",
+    "type": "phường",
+    "district_code": "261",
+    "codename": "dong_ky"
+  },
+  {
+    "code": "09383",
+    "name": "Trang Hạ",
+    "name_en": "Trang Ha",
+    "full_name": "Phường Trang Hạ",
+    "full_name_en": "Trang Ha Ward",
+    "type": "phường",
+    "district_code": "261",
+    "codename": "trang_ha"
+  },
+  {
+    "code": "09385",
+    "name": "Đồng Nguyên",
+    "name_en": "Dong Nguyen",
+    "full_name": "Phường Đồng Nguyên",
+    "full_name_en": "Dong Nguyen Ward",
+    "type": "phường",
+    "district_code": "261",
+    "codename": "dong_nguyen"
+  },
+  {
+    "code": "09388",
+    "name": "Châu Khê",
+    "name_en": "Chau Khe",
+    "full_name": "Phường Châu Khê",
+    "full_name_en": "Chau Khe Ward",
+    "type": "phường",
+    "district_code": "261",
+    "codename": "chau_khe"
+  },
+  {
+    "code": "09391",
+    "name": "Tân Hồng",
+    "name_en": "Tan Hong",
+    "full_name": "Phường Tân Hồng",
+    "full_name_en": "Tan Hong Ward",
+    "type": "phường",
+    "district_code": "261",
+    "codename": "tan_hong"
+  },
+  {
+    "code": "09394",
+    "name": "Đình Bảng",
+    "name_en": "Dinh Bang",
+    "full_name": "Phường Đình Bảng",
+    "full_name_en": "Dinh Bang Ward",
+    "type": "phường",
+    "district_code": "261",
+    "codename": "dinh_bang"
+  },
+  {
+    "code": "09397",
+    "name": "Phù Chẩn",
+    "name_en": "Phu Chan",
+    "full_name": "Phường Phù Chẩn",
+    "full_name_en": "Phu Chan Ward",
+    "type": "phường",
+    "district_code": "261",
+    "codename": "phu_chan"
+  }
+]

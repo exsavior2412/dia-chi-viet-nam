@@ -1,0 +1,252 @@
+[
+  {
+    "code": "04375",
+    "name": "Mậu A",
+    "name_en": "Mau A",
+    "full_name": "Thị trấn Mậu A",
+    "full_name_en": "Mau A Township",
+    "type": "thị trấn",
+    "district_code": "136",
+    "codename": "mau_a"
+  },
+  {
+    "code": "04378",
+    "name": "Lang Thíp",
+    "name_en": "Lang Thip",
+    "full_name": "Xã Lang Thíp",
+    "full_name_en": "Lang Thip Commune",
+    "type": "xã",
+    "district_code": "136",
+    "codename": "lang_thip"
+  },
+  {
+    "code": "04381",
+    "name": "Lâm Giang",
+    "name_en": "Lam Giang",
+    "full_name": "Xã Lâm Giang",
+    "full_name_en": "Lam Giang Commune",
+    "type": "xã",
+    "district_code": "136",
+    "codename": "lam_giang"
+  },
+  {
+    "code": "04384",
+    "name": "Châu Quế Thượng",
+    "name_en": "Chau Que Thuong",
+    "full_name": "Xã Châu Quế Thượng",
+    "full_name_en": "Chau Que Thuong Commune",
+    "type": "xã",
+    "district_code": "136",
+    "codename": "chau_que_thuong"
+  },
+  {
+    "code": "04387",
+    "name": "Châu Quế Hạ",
+    "name_en": "Chau Que Ha",
+    "full_name": "Xã Châu Quế Hạ",
+    "full_name_en": "Chau Que Ha Commune",
+    "type": "xã",
+    "district_code": "136",
+    "codename": "chau_que_ha"
+  },
+  {
+    "code": "04390",
+    "name": "An Bình",
+    "name_en": "An Binh",
+    "full_name": "Xã An Bình",
+    "full_name_en": "An Binh Commune",
+    "type": "xã",
+    "district_code": "136",
+    "codename": "an_binh"
+  },
+  {
+    "code": "04393",
+    "name": "Quang Minh",
+    "name_en": "Quang Minh",
+    "full_name": "Xã Quang Minh",
+    "full_name_en": "Quang Minh Commune",
+    "type": "xã",
+    "district_code": "136",
+    "codename": "quang_minh"
+  },
+  {
+    "code": "04396",
+    "name": "Đông An",
+    "name_en": "Dong An",
+    "full_name": "Xã Đông An",
+    "full_name_en": "Dong An Commune",
+    "type": "xã",
+    "district_code": "136",
+    "codename": "dong_an"
+  },
+  {
+    "code": "04399",
+    "name": "Đông Cuông",
+    "name_en": "Dong Cuong",
+    "full_name": "Xã Đông Cuông",
+    "full_name_en": "Dong Cuong Commune",
+    "type": "xã",
+    "district_code": "136",
+    "codename": "dong_cuong"
+  },
+  {
+    "code": "04402",
+    "name": "Phong Dụ Hạ",
+    "name_en": "Phong Du Ha",
+    "full_name": "Xã Phong Dụ Hạ",
+    "full_name_en": "Phong Du Ha Commune",
+    "type": "xã",
+    "district_code": "136",
+    "codename": "phong_du_ha"
+  },
+  {
+    "code": "04405",
+    "name": "Mậu Đông",
+    "name_en": "Mau Dong",
+    "full_name": "Xã Mậu Đông",
+    "full_name_en": "Mau Dong Commune",
+    "type": "xã",
+    "district_code": "136",
+    "codename": "mau_dong"
+  },
+  {
+    "code": "04408",
+    "name": "Ngòi A",
+    "name_en": "Ngoi A",
+    "full_name": "Xã Ngòi A",
+    "full_name_en": "Ngoi A Commune",
+    "type": "xã",
+    "district_code": "136",
+    "codename": "ngoi_a"
+  },
+  {
+    "code": "04411",
+    "name": "Xuân Tầm",
+    "name_en": "Xuan Tam",
+    "full_name": "Xã Xuân Tầm",
+    "full_name_en": "Xuan Tam Commune",
+    "type": "xã",
+    "district_code": "136",
+    "codename": "xuan_tam"
+  },
+  {
+    "code": "04414",
+    "name": "Tân Hợp",
+    "name_en": "Tan Hop",
+    "full_name": "Xã Tân Hợp",
+    "full_name_en": "Tan Hop Commune",
+    "type": "xã",
+    "district_code": "136",
+    "codename": "tan_hop"
+  },
+  {
+    "code": "04417",
+    "name": "An Thịnh",
+    "name_en": "An Thinh",
+    "full_name": "Xã An Thịnh",
+    "full_name_en": "An Thinh Commune",
+    "type": "xã",
+    "district_code": "136",
+    "codename": "an_thinh"
+  },
+  {
+    "code": "04420",
+    "name": "Yên Thái",
+    "name_en": "Yen Thai",
+    "full_name": "Xã Yên Thái",
+    "full_name_en": "Yen Thai Commune",
+    "type": "xã",
+    "district_code": "136",
+    "codename": "yen_thai"
+  },
+  {
+    "code": "04423",
+    "name": "Phong Dụ Thượng",
+    "name_en": "Phong Du Thuong",
+    "full_name": "Xã Phong Dụ Thượng",
+    "full_name_en": "Phong Du Thuong Commune",
+    "type": "xã",
+    "district_code": "136",
+    "codename": "phong_du_thuong"
+  },
+  {
+    "code": "04426",
+    "name": "Yên Hợp",
+    "name_en": "Yen Hop",
+    "full_name": "Xã Yên Hợp",
+    "full_name_en": "Yen Hop Commune",
+    "type": "xã",
+    "district_code": "136",
+    "codename": "yen_hop"
+  },
+  {
+    "code": "04429",
+    "name": "Đại Sơn",
+    "name_en": "Dai Son",
+    "full_name": "Xã Đại Sơn",
+    "full_name_en": "Dai Son Commune",
+    "type": "xã",
+    "district_code": "136",
+    "codename": "dai_son"
+  },
+  {
+    "code": "04435",
+    "name": "Đại Phác",
+    "name_en": "Dai Phac",
+    "full_name": "Xã Đại Phác",
+    "full_name_en": "Dai Phac Commune",
+    "type": "xã",
+    "district_code": "136",
+    "codename": "dai_phac"
+  },
+  {
+    "code": "04438",
+    "name": "Yên Phú",
+    "name_en": "Yen Phu",
+    "full_name": "Xã Yên Phú",
+    "full_name_en": "Yen Phu Commune",
+    "type": "xã",
+    "district_code": "136",
+    "codename": "yen_phu"
+  },
+  {
+    "code": "04441",
+    "name": "Xuân Ái",
+    "name_en": "Xuan Ai",
+    "full_name": "Xã Xuân Ái",
+    "full_name_en": "Xuan Ai Commune",
+    "type": "xã",
+    "district_code": "136",
+    "codename": "xuan_ai"
+  },
+  {
+    "code": "04447",
+    "name": "Viễn Sơn",
+    "name_en": "Vien Son",
+    "full_name": "Xã Viễn Sơn",
+    "full_name_en": "Vien Son Commune",
+    "type": "xã",
+    "district_code": "136",
+    "codename": "vien_son"
+  },
+  {
+    "code": "04450",
+    "name": "Mỏ Vàng",
+    "name_en": "Mo Vang",
+    "full_name": "Xã Mỏ Vàng",
+    "full_name_en": "Mo Vang Commune",
+    "type": "xã",
+    "district_code": "136",
+    "codename": "mo_vang"
+  },
+  {
+    "code": "04453",
+    "name": "Nà Hẩu",
+    "name_en": "Na Hau",
+    "full_name": "Xã Nà Hẩu",
+    "full_name_en": "Na Hau Commune",
+    "type": "xã",
+    "district_code": "136",
+    "codename": "na_hau"
+  }
+]

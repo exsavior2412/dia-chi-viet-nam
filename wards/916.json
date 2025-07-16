@@ -1,0 +1,82 @@
+[
+  {
+    "code": "31117",
+    "name": "Cái Khế",
+    "name_en": "Cai Khe",
+    "full_name": "Phường Cái Khế",
+    "full_name_en": "Cai Khe Ward",
+    "type": "phường",
+    "district_code": "916",
+    "codename": "cai_khe"
+  },
+  {
+    "code": "31120",
+    "name": "An Hòa",
+    "name_en": "An Hoa",
+    "full_name": "Phường An Hòa",
+    "full_name_en": "An Hoa Ward",
+    "type": "phường",
+    "district_code": "916",
+    "codename": "an_hoa"
+  },
+  {
+    "code": "31123",
+    "name": "Thới Bình",
+    "name_en": "Thoi Binh",
+    "full_name": "Phường Thới Bình",
+    "full_name_en": "Thoi Binh Ward",
+    "type": "phường",
+    "district_code": "916",
+    "codename": "thoi_binh"
+  },
+  {
+    "code": "31135",
+    "name": "Tân An",
+    "name_en": "Tan An",
+    "full_name": "Phường Tân An",
+    "full_name_en": "Tan An Ward",
+    "type": "phường",
+    "district_code": "916",
+    "codename": "tan_an"
+  },
+  {
+    "code": "31144",
+    "name": "Xuân Khánh",
+    "name_en": "Xuan Khanh",
+    "full_name": "Phường Xuân Khánh",
+    "full_name_en": "Xuan Khanh Ward",
+    "type": "phường",
+    "district_code": "916",
+    "codename": "xuan_khanh"
+  },
+  {
+    "code": "31147",
+    "name": "Hưng Lợi",
+    "name_en": "Hung Loi",
+    "full_name": "Phường Hưng Lợi",
+    "full_name_en": "Hung Loi Ward",
+    "type": "phường",
+    "district_code": "916",
+    "codename": "hung_loi"
+  },
+  {
+    "code": "31149",
+    "name": "An Khánh",
+    "name_en": "An Khanh",
+    "full_name": "Phường An Khánh",
+    "full_name_en": "An Khanh Ward",
+    "type": "phường",
+    "district_code": "916",
+    "codename": "an_khanh"
+  },
+  {
+    "code": "31150",
+    "name": "An Bình",
+    "name_en": "An Binh",
+    "full_name": "Phường An Bình",
+    "full_name_en": "An Binh Ward",
+    "type": "phường",
+    "district_code": "916",
+    "codename": "an_binh"
+  }
+]

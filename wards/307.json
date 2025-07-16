@@ -1,0 +1,72 @@
+[
+  {
+    "code": "11431",
+    "name": "Đồng Hoà",
+    "name_en": "Dong Hoa",
+    "full_name": "Phường Đồng Hoà",
+    "full_name_en": "Dong Hoa Ward",
+    "type": "phường",
+    "district_code": "307",
+    "codename": "dong_hoa"
+  },
+  {
+    "code": "11434",
+    "name": "Bắc Sơn",
+    "name_en": "Bac Son",
+    "full_name": "Phường Bắc Sơn",
+    "full_name_en": "Bac Son Ward",
+    "type": "phường",
+    "district_code": "307",
+    "codename": "bac_son"
+  },
+  {
+    "code": "11437",
+    "name": "Nam Sơn",
+    "name_en": "Nam Son",
+    "full_name": "Phường Nam Sơn",
+    "full_name_en": "Nam Son Ward",
+    "type": "phường",
+    "district_code": "307",
+    "codename": "nam_son"
+  },
+  {
+    "code": "11440",
+    "name": "Ngọc Sơn",
+    "name_en": "Ngoc Son",
+    "full_name": "Phường Ngọc Sơn",
+    "full_name_en": "Ngoc Son Ward",
+    "type": "phường",
+    "district_code": "307",
+    "codename": "ngoc_son"
+  },
+  {
+    "code": "11443",
+    "name": "Trần Thành Ngọ",
+    "name_en": "Tran Thanh Ngo",
+    "full_name": "Phường Trần Thành Ngọ",
+    "full_name_en": "Tran Thanh Ngo Ward",
+    "type": "phường",
+    "district_code": "307",
+    "codename": "tran_thanh_ngo"
+  },
+  {
+    "code": "11446",
+    "name": "Văn Đẩu",
+    "name_en": "Van Dau",
+    "full_name": "Phường Văn Đẩu",
+    "full_name_en": "Van Dau Ward",
+    "type": "phường",
+    "district_code": "307",
+    "codename": "van_dau"
+  },
+  {
+    "code": "11449",
+    "name": "Bắc Hà",
+    "name_en": "Bac Ha",
+    "full_name": "Phường Bắc Hà",
+    "full_name_en": "Bac Ha Ward",
+    "type": "phường",
+    "district_code": "307",
+    "codename": "bac_ha"
+  }
+]

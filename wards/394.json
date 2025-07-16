@@ -1,0 +1,252 @@
+[
+  {
+    "code": "15397",
+    "name": "Thống Nhất",
+    "name_en": "Thong Nhat",
+    "full_name": "Thị trấn Thống Nhất",
+    "full_name_en": "Thong Nhat Township",
+    "type": "thị trấn",
+    "district_code": "394",
+    "codename": "thong_nhat"
+  },
+  {
+    "code": "15403",
+    "name": "Yên Lâm",
+    "name_en": "Yen Lam",
+    "full_name": "Thị trấn Yên Lâm",
+    "full_name_en": "Yen Lam Township",
+    "type": "thị trấn",
+    "district_code": "394",
+    "codename": "yen_lam"
+  },
+  {
+    "code": "15406",
+    "name": "Yên Tâm",
+    "name_en": "Yen Tam",
+    "full_name": "Xã Yên Tâm",
+    "full_name_en": "Yen Tam Commune",
+    "type": "xã",
+    "district_code": "394",
+    "codename": "yen_tam"
+  },
+  {
+    "code": "15409",
+    "name": "Yên Phú",
+    "name_en": "Yen Phu",
+    "full_name": "Xã Yên Phú",
+    "full_name_en": "Yen Phu Commune",
+    "type": "xã",
+    "district_code": "394",
+    "codename": "yen_phu"
+  },
+  {
+    "code": "15412",
+    "name": "Quý Lộc",
+    "name_en": "Quy Loc",
+    "full_name": "Thị trấn Quý Lộc",
+    "full_name_en": "Quy Loc Township",
+    "type": "thị trấn",
+    "district_code": "394",
+    "codename": "quy_loc"
+  },
+  {
+    "code": "15415",
+    "name": "Yên Thọ",
+    "name_en": "Yen Tho",
+    "full_name": "Xã Yên Thọ",
+    "full_name_en": "Yen Tho Commune",
+    "type": "xã",
+    "district_code": "394",
+    "codename": "yen_tho"
+  },
+  {
+    "code": "15418",
+    "name": "Yên Trung",
+    "name_en": "Yen Trung",
+    "full_name": "Xã Yên Trung",
+    "full_name_en": "Yen Trung Commune",
+    "type": "xã",
+    "district_code": "394",
+    "codename": "yen_trung"
+  },
+  {
+    "code": "15421",
+    "name": "Yên Trường",
+    "name_en": "Yen Truong",
+    "full_name": "Xã Yên Trường",
+    "full_name_en": "Yen Truong Commune",
+    "type": "xã",
+    "district_code": "394",
+    "codename": "yen_truong"
+  },
+  {
+    "code": "15427",
+    "name": "Yên Phong",
+    "name_en": "Yen Phong",
+    "full_name": "Xã Yên Phong",
+    "full_name_en": "Yen Phong Commune",
+    "type": "xã",
+    "district_code": "394",
+    "codename": "yen_phong"
+  },
+  {
+    "code": "15430",
+    "name": "Yên Thái",
+    "name_en": "Yen Thai",
+    "full_name": "Xã Yên Thái",
+    "full_name_en": "Yen Thai Commune",
+    "type": "xã",
+    "district_code": "394",
+    "codename": "yen_thai"
+  },
+  {
+    "code": "15433",
+    "name": "Yên Hùng",
+    "name_en": "Yen Hung",
+    "full_name": "Xã Yên Hùng",
+    "full_name_en": "Yen Hung Commune",
+    "type": "xã",
+    "district_code": "394",
+    "codename": "yen_hung"
+  },
+  {
+    "code": "15436",
+    "name": "Yên Thịnh",
+    "name_en": "Yen Thinh",
+    "full_name": "Xã Yên Thịnh",
+    "full_name_en": "Yen Thinh Commune",
+    "type": "xã",
+    "district_code": "394",
+    "codename": "yen_thinh"
+  },
+  {
+    "code": "15442",
+    "name": "Yên Ninh",
+    "name_en": "Yen Ninh",
+    "full_name": "Xã Yên Ninh",
+    "full_name_en": "Yen Ninh Commune",
+    "type": "xã",
+    "district_code": "394",
+    "codename": "yen_ninh"
+  },
+  {
+    "code": "15445",
+    "name": "Định Tăng",
+    "name_en": "Dinh Tang",
+    "full_name": "Xã Định Tăng",
+    "full_name_en": "Dinh Tang Commune",
+    "type": "xã",
+    "district_code": "394",
+    "codename": "dinh_tang"
+  },
+  {
+    "code": "15448",
+    "name": "Định Hòa",
+    "name_en": "Dinh Hoa",
+    "full_name": "Xã Định Hòa",
+    "full_name_en": "Dinh Hoa Commune",
+    "type": "xã",
+    "district_code": "394",
+    "codename": "dinh_hoa"
+  },
+  {
+    "code": "15451",
+    "name": "Định Thành",
+    "name_en": "Dinh Thanh",
+    "full_name": "Xã Định Thành",
+    "full_name_en": "Dinh Thanh Commune",
+    "type": "xã",
+    "district_code": "394",
+    "codename": "dinh_thanh"
+  },
+  {
+    "code": "15454",
+    "name": "Định Công",
+    "name_en": "Dinh Cong",
+    "full_name": "Xã Định Công",
+    "full_name_en": "Dinh Cong Commune",
+    "type": "xã",
+    "district_code": "394",
+    "codename": "dinh_cong"
+  },
+  {
+    "code": "15457",
+    "name": "Định Tân",
+    "name_en": "Dinh Tan",
+    "full_name": "Xã Định Tân",
+    "full_name_en": "Dinh Tan Commune",
+    "type": "xã",
+    "district_code": "394",
+    "codename": "dinh_tan"
+  },
+  {
+    "code": "15460",
+    "name": "Định Tiến",
+    "name_en": "Dinh Tien",
+    "full_name": "Xã Định Tiến",
+    "full_name_en": "Dinh Tien Commune",
+    "type": "xã",
+    "district_code": "394",
+    "codename": "dinh_tien"
+  },
+  {
+    "code": "15463",
+    "name": "Định Long",
+    "name_en": "Dinh Long",
+    "full_name": "Xã Định Long",
+    "full_name_en": "Dinh Long Commune",
+    "type": "xã",
+    "district_code": "394",
+    "codename": "dinh_long"
+  },
+  {
+    "code": "15466",
+    "name": "Định Liên",
+    "name_en": "Dinh Lien",
+    "full_name": "Xã Định Liên",
+    "full_name_en": "Dinh Lien Commune",
+    "type": "xã",
+    "district_code": "394",
+    "codename": "dinh_lien"
+  },
+  {
+    "code": "15469",
+    "name": "Quán Lào",
+    "name_en": "Quan Lao",
+    "full_name": "Thị trấn Quán Lào",
+    "full_name_en": "Quan Lao Township",
+    "type": "thị trấn",
+    "district_code": "394",
+    "codename": "quan_lao"
+  },
+  {
+    "code": "15472",
+    "name": "Định Hưng",
+    "name_en": "Dinh Hung",
+    "full_name": "Xã Định Hưng",
+    "full_name_en": "Dinh Hung Commune",
+    "type": "xã",
+    "district_code": "394",
+    "codename": "dinh_hung"
+  },
+  {
+    "code": "15475",
+    "name": "Định Hải",
+    "name_en": "Dinh Hai",
+    "full_name": "Xã Định Hải",
+    "full_name_en": "Dinh Hai Commune",
+    "type": "xã",
+    "district_code": "394",
+    "codename": "dinh_hai"
+  },
+  {
+    "code": "15478",
+    "name": "Định Bình",
+    "name_en": "Dinh Binh",
+    "full_name": "Xã Định Bình",
+    "full_name_en": "Dinh Binh Commune",
+    "type": "xã",
+    "district_code": "394",
+    "codename": "dinh_binh"
+  }
+]

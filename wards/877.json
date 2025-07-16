@@ -1,0 +1,122 @@
+[
+  {
+    "code": "30244",
+    "name": "Cái Tàu Hạ",
+    "name_en": "Cai Tau Ha",
+    "full_name": "Thị trấn Cái Tàu Hạ",
+    "full_name_en": "Cai Tau Ha Township",
+    "type": "thị trấn",
+    "district_code": "877",
+    "codename": "cai_tau_ha"
+  },
+  {
+    "code": "30247",
+    "name": "An Hiệp",
+    "name_en": "An Hiep",
+    "full_name": "Xã An Hiệp",
+    "full_name_en": "An Hiep Commune",
+    "type": "xã",
+    "district_code": "877",
+    "codename": "an_hiep"
+  },
+  {
+    "code": "30250",
+    "name": "An Nhơn",
+    "name_en": "An Nhon",
+    "full_name": "Xã An Nhơn",
+    "full_name_en": "An Nhon Commune",
+    "type": "xã",
+    "district_code": "877",
+    "codename": "an_nhon"
+  },
+  {
+    "code": "30253",
+    "name": "Tân Nhuận Đông",
+    "name_en": "Tan Nhuan Dong",
+    "full_name": "Xã Tân Nhuận Đông",
+    "full_name_en": "Tan Nhuan Dong Commune",
+    "type": "xã",
+    "district_code": "877",
+    "codename": "tan_nhuan_dong"
+  },
+  {
+    "code": "30256",
+    "name": "Tân Bình",
+    "name_en": "Tan Binh",
+    "full_name": "Xã Tân Bình",
+    "full_name_en": "Tan Binh Commune",
+    "type": "xã",
+    "district_code": "877",
+    "codename": "tan_binh"
+  },
+  {
+    "code": "30259",
+    "name": "Tân Phú Trung",
+    "name_en": "Tan Phu Trung",
+    "full_name": "Xã Tân Phú Trung",
+    "full_name_en": "Tan Phu Trung Commune",
+    "type": "xã",
+    "district_code": "877",
+    "codename": "tan_phu_trung"
+  },
+  {
+    "code": "30262",
+    "name": "Phú Long",
+    "name_en": "Phu Long",
+    "full_name": "Xã Phú Long",
+    "full_name_en": "Phu Long Commune",
+    "type": "xã",
+    "district_code": "877",
+    "codename": "phu_long"
+  },
+  {
+    "code": "30265",
+    "name": "An Phú Thuận",
+    "name_en": "An Phu Thuan",
+    "full_name": "Xã An Phú Thuận",
+    "full_name_en": "An Phu Thuan Commune",
+    "type": "xã",
+    "district_code": "877",
+    "codename": "an_phu_thuan"
+  },
+  {
+    "code": "30268",
+    "name": "Phú Hựu",
+    "name_en": "Phu Huu",
+    "full_name": "Xã Phú Hựu",
+    "full_name_en": "Phu Huu Commune",
+    "type": "xã",
+    "district_code": "877",
+    "codename": "phu_huu"
+  },
+  {
+    "code": "30271",
+    "name": "An Khánh",
+    "name_en": "An Khanh",
+    "full_name": "Xã An Khánh",
+    "full_name_en": "An Khanh Commune",
+    "type": "xã",
+    "district_code": "877",
+    "codename": "an_khanh"
+  },
+  {
+    "code": "30274",
+    "name": "Tân Phú",
+    "name_en": "Tan Phu",
+    "full_name": "Xã Tân Phú",
+    "full_name_en": "Tan Phu Commune",
+    "type": "xã",
+    "district_code": "877",
+    "codename": "tan_phu"
+  },
+  {
+    "code": "30277",
+    "name": "Hòa Tân",
+    "name_en": "Hoa Tan",
+    "full_name": "Xã Hòa Tân",
+    "full_name_en": "Hoa Tan Commune",
+    "type": "xã",
+    "district_code": "877",
+    "codename": "hoa_tan"
+  }
+]

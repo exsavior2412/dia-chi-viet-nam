@@ -1,0 +1,162 @@
+[
+  {
+    "code": "24373",
+    "name": "Ea Kar",
+    "name_en": "Ea Kar",
+    "full_name": "Thị trấn Ea Kar",
+    "full_name_en": "Ea Kar Township",
+    "type": "thị trấn",
+    "district_code": "651",
+    "codename": "ea_kar"
+  },
+  {
+    "code": "24376",
+    "name": "Ea Knốp",
+    "name_en": "Ea Knop",
+    "full_name": "Thị trấn Ea Knốp",
+    "full_name_en": "Ea Knop Township",
+    "type": "thị trấn",
+    "district_code": "651",
+    "codename": "ea_knop"
+  },
+  {
+    "code": "24379",
+    "name": "Ea Sô",
+    "name_en": "Ea So",
+    "full_name": "Xã Ea Sô",
+    "full_name_en": "Ea So Commune",
+    "type": "xã",
+    "district_code": "651",
+    "codename": "ea_so"
+  },
+  {
+    "code": "24380",
+    "name": "Ea Sar",
+    "name_en": "Ea Sar",
+    "full_name": "Xã Ea Sar",
+    "full_name_en": "Ea Sar Commune",
+    "type": "xã",
+    "district_code": "651",
+    "codename": "ea_sar"
+  },
+  {
+    "code": "24382",
+    "name": "Xuân Phú",
+    "name_en": "Xuan Phu",
+    "full_name": "Xã Xuân Phú",
+    "full_name_en": "Xuan Phu Commune",
+    "type": "xã",
+    "district_code": "651",
+    "codename": "xuan_phu"
+  },
+  {
+    "code": "24385",
+    "name": "Cư Huê",
+    "name_en": "Cu Hue",
+    "full_name": "Xã Cư Huê",
+    "full_name_en": "Cu Hue Commune",
+    "type": "xã",
+    "district_code": "651",
+    "codename": "cu_hue"
+  },
+  {
+    "code": "24388",
+    "name": "Ea Tih",
+    "name_en": "Ea Tih",
+    "full_name": "Xã Ea Tih",
+    "full_name_en": "Ea Tih Commune",
+    "type": "xã",
+    "district_code": "651",
+    "codename": "ea_tih"
+  },
+  {
+    "code": "24391",
+    "name": "Ea Đar",
+    "name_en": "Ea Dar",
+    "full_name": "Xã Ea Đar",
+    "full_name_en": "Ea Dar Commune",
+    "type": "xã",
+    "district_code": "651",
+    "codename": "ea_dar"
+  },
+  {
+    "code": "24394",
+    "name": "Ea Kmút",
+    "name_en": "Ea Kmut",
+    "full_name": "Xã Ea Kmút",
+    "full_name_en": "Ea Kmut Commune",
+    "type": "xã",
+    "district_code": "651",
+    "codename": "ea_kmut"
+  },
+  {
+    "code": "24397",
+    "name": "Cư Ni",
+    "name_en": "Cu Ni",
+    "full_name": "Xã Cư Ni",
+    "full_name_en": "Cu Ni Commune",
+    "type": "xã",
+    "district_code": "651",
+    "codename": "cu_ni"
+  },
+  {
+    "code": "24400",
+    "name": "Ea Păl",
+    "name_en": "Ea Pal",
+    "full_name": "Xã Ea Păl",
+    "full_name_en": "Ea Pal Commune",
+    "type": "xã",
+    "district_code": "651",
+    "codename": "ea_pal"
+  },
+  {
+    "code": "24401",
+    "name": "Cư Prông",
+    "name_en": "Cu Prong",
+    "full_name": "Xã Cư Prông",
+    "full_name_en": "Cu Prong Commune",
+    "type": "xã",
+    "district_code": "651",
+    "codename": "cu_prong"
+  },
+  {
+    "code": "24403",
+    "name": "Ea Ô",
+    "name_en": "Ea O",
+    "full_name": "Xã Ea Ô",
+    "full_name_en": "Ea O Commune",
+    "type": "xã",
+    "district_code": "651",
+    "codename": "ea_o"
+  },
+  {
+    "code": "24404",
+    "name": "Cư ELang",
+    "name_en": "Cu ELang",
+    "full_name": "Xã Cư ELang",
+    "full_name_en": "Cu ELang Commune",
+    "type": "xã",
+    "district_code": "651",
+    "codename": "cu_elang"
+  },
+  {
+    "code": "24406",
+    "name": "Cư Bông",
+    "name_en": "Cu Bong",
+    "full_name": "Xã Cư Bông",
+    "full_name_en": "Cu Bong Commune",
+    "type": "xã",
+    "district_code": "651",
+    "codename": "cu_bong"
+  },
+  {
+    "code": "24409",
+    "name": "Cư Jang",
+    "name_en": "Cu Jang",
+    "full_name": "Xã Cư Jang",
+    "full_name_en": "Cu Jang Commune",
+    "type": "xã",
+    "district_code": "651",
+    "codename": "cu_jang"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "code": "19363",
+    "name": "Hồ Xá",
+    "name_en": "Ho Xa",
+    "full_name": "Thị trấn Hồ Xá",
+    "full_name_en": "Ho Xa Township",
+    "type": "thị trấn",
+    "district_code": "464",
+    "codename": "ho_xa"
+  },
+  {
+    "code": "19366",
+    "name": "Bến Quan",
+    "name_en": "Ben Quan",
+    "full_name": "Thị trấn Bến Quan",
+    "full_name_en": "Ben Quan Township",
+    "type": "thị trấn",
+    "district_code": "464",
+    "codename": "ben_quan"
+  },
+  {
+    "code": "19369",
+    "name": "Vĩnh Thái",
+    "name_en": "Vinh Thai",
+    "full_name": "Xã Vĩnh Thái",
+    "full_name_en": "Vinh Thai Commune",
+    "type": "xã",
+    "district_code": "464",
+    "codename": "vinh_thai"
+  },
+  {
+    "code": "19372",
+    "name": "Vĩnh Tú",
+    "name_en": "Vinh Tu",
+    "full_name": "Xã Vĩnh Tú",
+    "full_name_en": "Vinh Tu Commune",
+    "type": "xã",
+    "district_code": "464",
+    "codename": "vinh_tu"
+  },
+  {
+    "code": "19375",
+    "name": "Vĩnh Chấp",
+    "name_en": "Vinh Chap",
+    "full_name": "Xã Vĩnh Chấp",
+    "full_name_en": "Vinh Chap Commune",
+    "type": "xã",
+    "district_code": "464",
+    "codename": "vinh_chap"
+  },
+  {
+    "code": "19378",
+    "name": "Trung Nam",
+    "name_en": "Trung Nam",
+    "full_name": "Xã Trung Nam",
+    "full_name_en": "Trung Nam Commune",
+    "type": "xã",
+    "district_code": "464",
+    "codename": "trung_nam"
+  },
+  {
+    "code": "19384",
+    "name": "Kim Thạch",
+    "name_en": "Kim Thach",
+    "full_name": "Xã Kim Thạch",
+    "full_name_en": "Kim Thach Commune",
+    "type": "xã",
+    "district_code": "464",
+    "codename": "kim_thach"
+  },
+  {
+    "code": "19387",
+    "name": "Vĩnh Long",
+    "name_en": "Vinh Long",
+    "full_name": "Xã Vĩnh Long",
+    "full_name_en": "Vinh Long Commune",
+    "type": "xã",
+    "district_code": "464",
+    "codename": "vinh_long"
+  },
+  {
+    "code": "19393",
+    "name": "Vĩnh Khê",
+    "name_en": "Vinh Khe",
+    "full_name": "Xã Vĩnh Khê",
+    "full_name_en": "Vinh Khe Commune",
+    "type": "xã",
+    "district_code": "464",
+    "codename": "vinh_khe"
+  },
+  {
+    "code": "19396",
+    "name": "Vĩnh Hòa",
+    "name_en": "Vinh Hoa",
+    "full_name": "Xã Vĩnh Hòa",
+    "full_name_en": "Vinh Hoa Commune",
+    "type": "xã",
+    "district_code": "464",
+    "codename": "vinh_hoa"
+  },
+  {
+    "code": "19402",
+    "name": "Vĩnh Thủy",
+    "name_en": "Vinh Thuy",
+    "full_name": "Xã Vĩnh Thủy",
+    "full_name_en": "Vinh Thuy Commune",
+    "type": "xã",
+    "district_code": "464",
+    "codename": "vinh_thuy"
+  },
+  {
+    "code": "19405",
+    "name": "Vĩnh Lâm",
+    "name_en": "Vinh Lam",
+    "full_name": "Xã Vĩnh Lâm",
+    "full_name_en": "Vinh Lam Commune",
+    "type": "xã",
+    "district_code": "464",
+    "codename": "vinh_lam"
+  },
+  {
+    "code": "19408",
+    "name": "Hiền Thành",
+    "name_en": "Hien Thanh",
+    "full_name": "Xã Hiền Thành",
+    "full_name_en": "Hien Thanh Commune",
+    "type": "xã",
+    "district_code": "464",
+    "codename": "hien_thanh"
+  },
+  {
+    "code": "19414",
+    "name": "Cửa Tùng",
+    "name_en": "Cua Tung",
+    "full_name": "Thị trấn Cửa Tùng",
+    "full_name_en": "Cua Tung Township",
+    "type": "thị trấn",
+    "district_code": "464",
+    "codename": "cua_tung"
+  },
+  {
+    "code": "19417",
+    "name": "Vĩnh Hà",
+    "name_en": "Vinh Ha",
+    "full_name": "Xã Vĩnh Hà",
+    "full_name_en": "Vinh Ha Commune",
+    "type": "xã",
+    "district_code": "464",
+    "codename": "vinh_ha"
+  },
+  {
+    "code": "19420",
+    "name": "Vĩnh Sơn",
+    "name_en": "Vinh Son",
+    "full_name": "Xã Vĩnh Sơn",
+    "full_name_en": "Vinh Son Commune",
+    "type": "xã",
+    "district_code": "464",
+    "codename": "vinh_son"
+  },
+  {
+    "code": "19423",
+    "name": "Vĩnh Giang",
+    "name_en": "Vinh Giang",
+    "full_name": "Xã Vĩnh Giang",
+    "full_name_en": "Vinh Giang Commune",
+    "type": "xã",
+    "district_code": "464",
+    "codename": "vinh_giang"
+  },
+  {
+    "code": "19426",
+    "name": "Vĩnh Ô",
+    "name_en": "Vinh O",
+    "full_name": "Xã Vĩnh Ô",
+    "full_name_en": "Vinh O Commune",
+    "type": "xã",
+    "district_code": "464",
+    "codename": "vinh_o"
+  }
+]

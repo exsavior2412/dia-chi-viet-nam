@@ -1,0 +1,72 @@
+[
+  {
+    "code": "06970",
+    "name": "Ba Chẽ",
+    "name_en": "Ba Che",
+    "full_name": "Thị trấn Ba Chẽ",
+    "full_name_en": "Ba Che Township",
+    "type": "thị trấn",
+    "district_code": "202",
+    "codename": "ba_che"
+  },
+  {
+    "code": "06973",
+    "name": "Thanh Sơn",
+    "name_en": "Thanh Son",
+    "full_name": "Xã Thanh Sơn",
+    "full_name_en": "Thanh Son Commune",
+    "type": "xã",
+    "district_code": "202",
+    "codename": "thanh_son"
+  },
+  {
+    "code": "06976",
+    "name": "Thanh Lâm",
+    "name_en": "Thanh Lam",
+    "full_name": "Xã Thanh Lâm",
+    "full_name_en": "Thanh Lam Commune",
+    "type": "xã",
+    "district_code": "202",
+    "codename": "thanh_lam"
+  },
+  {
+    "code": "06979",
+    "name": "Đạp Thanh",
+    "name_en": "Dap Thanh",
+    "full_name": "Xã Đạp Thanh",
+    "full_name_en": "Dap Thanh Commune",
+    "type": "xã",
+    "district_code": "202",
+    "codename": "dap_thanh"
+  },
+  {
+    "code": "06982",
+    "name": "Nam Sơn",
+    "name_en": "Nam Son",
+    "full_name": "Xã Nam Sơn",
+    "full_name_en": "Nam Son Commune",
+    "type": "xã",
+    "district_code": "202",
+    "codename": "nam_son"
+  },
+  {
+    "code": "06985",
+    "name": "Lương Minh",
+    "name_en": "Luong Minh",
+    "full_name": "Xã Lương Minh",
+    "full_name_en": "Luong Minh Commune",
+    "type": "xã",
+    "district_code": "202",
+    "codename": "luong_minh"
+  },
+  {
+    "code": "06988",
+    "name": "Đồn Đạc",
+    "name_en": "Don Dac",
+    "full_name": "Xã Đồn Đạc",
+    "full_name_en": "Don Dac Commune",
+    "type": "xã",
+    "district_code": "202",
+    "codename": "don_dac"
+  }
+]

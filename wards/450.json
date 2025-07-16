@@ -1,0 +1,152 @@
+[
+  {
+    "code": "18853",
+    "name": "Hải Thành",
+    "name_en": "Hai Thanh",
+    "full_name": "Phường Hải Thành",
+    "full_name_en": "Hai Thanh Ward",
+    "type": "phường",
+    "district_code": "450",
+    "codename": "hai_thanh"
+  },
+  {
+    "code": "18856",
+    "name": "Đồng Phú",
+    "name_en": "Dong Phu",
+    "full_name": "Phường Đồng Phú",
+    "full_name_en": "Dong Phu Ward",
+    "type": "phường",
+    "district_code": "450",
+    "codename": "dong_phu"
+  },
+  {
+    "code": "18859",
+    "name": "Bắc Lý",
+    "name_en": "Bac Ly",
+    "full_name": "Phường Bắc Lý",
+    "full_name_en": "Bac Ly Ward",
+    "type": "phường",
+    "district_code": "450",
+    "codename": "bac_ly"
+  },
+  {
+    "code": "18865",
+    "name": "Nam Lý",
+    "name_en": "Nam Ly",
+    "full_name": "Phường Nam Lý",
+    "full_name_en": "Nam Ly Ward",
+    "type": "phường",
+    "district_code": "450",
+    "codename": "nam_ly"
+  },
+  {
+    "code": "18868",
+    "name": "Đồng Hải",
+    "name_en": "Dong Hai",
+    "full_name": "Phường Đồng Hải",
+    "full_name_en": "Dong Hai Ward",
+    "type": "phường",
+    "district_code": "450",
+    "codename": "dong_hai"
+  },
+  {
+    "code": "18871",
+    "name": "Đồng Sơn",
+    "name_en": "Dong Son",
+    "full_name": "Phường Đồng Sơn",
+    "full_name_en": "Dong Son Ward",
+    "type": "phường",
+    "district_code": "450",
+    "codename": "dong_son"
+  },
+  {
+    "code": "18874",
+    "name": "Phú Hải",
+    "name_en": "Phu Hai",
+    "full_name": "Phường Phú Hải",
+    "full_name_en": "Phu Hai Ward",
+    "type": "phường",
+    "district_code": "450",
+    "codename": "phu_hai"
+  },
+  {
+    "code": "18877",
+    "name": "Bắc Nghĩa",
+    "name_en": "Bac Nghia",
+    "full_name": "Phường Bắc Nghĩa",
+    "full_name_en": "Bac Nghia Ward",
+    "type": "phường",
+    "district_code": "450",
+    "codename": "bac_nghia"
+  },
+  {
+    "code": "18880",
+    "name": "Đức Ninh Đông",
+    "name_en": "Duc Ninh Dong",
+    "full_name": "Phường Đức Ninh Đông",
+    "full_name_en": "Duc Ninh Dong Ward",
+    "type": "phường",
+    "district_code": "450",
+    "codename": "duc_ninh_dong"
+  },
+  {
+    "code": "18883",
+    "name": "Quang Phú",
+    "name_en": "Quang Phu",
+    "full_name": "Xã Quang Phú",
+    "full_name_en": "Quang Phu Commune",
+    "type": "xã",
+    "district_code": "450",
+    "codename": "quang_phu"
+  },
+  {
+    "code": "18886",
+    "name": "Lộc Ninh",
+    "name_en": "Loc Ninh",
+    "full_name": "Xã Lộc Ninh",
+    "full_name_en": "Loc Ninh Commune",
+    "type": "xã",
+    "district_code": "450",
+    "codename": "loc_ninh"
+  },
+  {
+    "code": "18889",
+    "name": "Bảo Ninh",
+    "name_en": "Bao Ninh",
+    "full_name": "Xã Bảo Ninh",
+    "full_name_en": "Bao Ninh Commune",
+    "type": "xã",
+    "district_code": "450",
+    "codename": "bao_ninh"
+  },
+  {
+    "code": "18892",
+    "name": "Nghĩa Ninh",
+    "name_en": "Nghia Ninh",
+    "full_name": "Xã Nghĩa Ninh",
+    "full_name_en": "Nghia Ninh Commune",
+    "type": "xã",
+    "district_code": "450",
+    "codename": "nghia_ninh"
+  },
+  {
+    "code": "18895",
+    "name": "Thuận Đức",
+    "name_en": "Thuan Duc",
+    "full_name": "Xã Thuận Đức",
+    "full_name_en": "Thuan Duc Commune",
+    "type": "xã",
+    "district_code": "450",
+    "codename": "thuan_duc"
+  },
+  {
+    "code": "18898",
+    "name": "Đức Ninh",
+    "name_en": "Duc Ninh",
+    "full_name": "Xã Đức Ninh",
+    "full_name_en": "Duc Ninh Commune",
+    "type": "xã",
+    "district_code": "450",
+    "codename": "duc_ninh"
+  }
+]

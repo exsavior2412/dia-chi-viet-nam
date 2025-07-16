@@ -1,0 +1,142 @@
+[
+  {
+    "code": "04282",
+    "name": "Pú Trạng",
+    "name_en": "Pu Trang",
+    "full_name": "Phường Pú Trạng",
+    "full_name_en": "Pu Trang Ward",
+    "type": "phường",
+    "district_code": "133",
+    "codename": "pu_trang"
+  },
+  {
+    "code": "04285",
+    "name": "Trung Tâm",
+    "name_en": "Trung Tam",
+    "full_name": "Phường Trung Tâm",
+    "full_name_en": "Trung Tam Ward",
+    "type": "phường",
+    "district_code": "133",
+    "codename": "trung_tam"
+  },
+  {
+    "code": "04288",
+    "name": "Tân An",
+    "name_en": "Tan An",
+    "full_name": "Phường Tân An",
+    "full_name_en": "Tan An Ward",
+    "type": "phường",
+    "district_code": "133",
+    "codename": "tan_an"
+  },
+  {
+    "code": "04291",
+    "name": "Cầu Thia",
+    "name_en": "Cau Thia",
+    "full_name": "Phường Cầu Thia",
+    "full_name_en": "Cau Thia Ward",
+    "type": "phường",
+    "district_code": "133",
+    "codename": "cau_thia"
+  },
+  {
+    "code": "04294",
+    "name": "Nghĩa Lợi",
+    "name_en": "Nghia Loi",
+    "full_name": "Xã Nghĩa Lợi",
+    "full_name_en": "Nghia Loi Commune",
+    "type": "xã",
+    "district_code": "133",
+    "codename": "nghia_loi"
+  },
+  {
+    "code": "04297",
+    "name": "Nghĩa Phúc",
+    "name_en": "Nghia Phuc",
+    "full_name": "Xã Nghĩa Phúc",
+    "full_name_en": "Nghia Phuc Commune",
+    "type": "xã",
+    "district_code": "133",
+    "codename": "nghia_phuc"
+  },
+  {
+    "code": "04300",
+    "name": "Nghĩa An",
+    "name_en": "Nghia An",
+    "full_name": "Xã Nghĩa An",
+    "full_name_en": "Nghia An Commune",
+    "type": "xã",
+    "district_code": "133",
+    "codename": "nghia_an"
+  },
+  {
+    "code": "04624",
+    "name": "Nghĩa Lộ",
+    "name_en": "Nghia Lo",
+    "full_name": "Xã Nghĩa Lộ",
+    "full_name_en": "Nghia Lo Commune",
+    "type": "xã",
+    "district_code": "133",
+    "codename": "nghia_lo"
+  },
+  {
+    "code": "04660",
+    "name": "Sơn A",
+    "name_en": "Son A",
+    "full_name": "Xã Sơn A",
+    "full_name_en": "Son A Commune",
+    "type": "xã",
+    "district_code": "133",
+    "codename": "son_a"
+  },
+  {
+    "code": "04663",
+    "name": "Phù Nham",
+    "name_en": "Phu Nham",
+    "full_name": "Xã Phù Nham",
+    "full_name_en": "Phu Nham Commune",
+    "type": "xã",
+    "district_code": "133",
+    "codename": "phu_nham"
+  },
+  {
+    "code": "04675",
+    "name": "Thanh Lương",
+    "name_en": "Thanh Luong",
+    "full_name": "Xã Thanh Lương",
+    "full_name_en": "Thanh Luong Commune",
+    "type": "xã",
+    "district_code": "133",
+    "codename": "thanh_luong"
+  },
+  {
+    "code": "04678",
+    "name": "Hạnh Sơn",
+    "name_en": "Hanh Son",
+    "full_name": "Xã Hạnh Sơn",
+    "full_name_en": "Hanh Son Commune",
+    "type": "xã",
+    "district_code": "133",
+    "codename": "hanh_son"
+  },
+  {
+    "code": "04681",
+    "name": "Phúc Sơn",
+    "name_en": "Phuc Son",
+    "full_name": "Xã Phúc Sơn",
+    "full_name_en": "Phuc Son Commune",
+    "type": "xã",
+    "district_code": "133",
+    "codename": "phuc_son"
+  },
+  {
+    "code": "04684",
+    "name": "Thạch Lương",
+    "name_en": "Thach Luong",
+    "full_name": "Xã Thạch Lương",
+    "full_name_en": "Thach Luong Commune",
+    "type": "xã",
+    "district_code": "133",
+    "codename": "thach_luong"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "code": "04063",
+    "name": "Chiềng Đông",
+    "name_en": "Chieng Dong",
+    "full_name": "Xã Chiềng Đông",
+    "full_name_en": "Chieng Dong Commune",
+    "type": "xã",
+    "district_code": "124",
+    "codename": "chieng_dong"
+  },
+  {
+    "code": "04066",
+    "name": "Sặp Vạt",
+    "name_en": "Sap Vat",
+    "full_name": "Xã Sặp Vạt",
+    "full_name_en": "Sap Vat Commune",
+    "type": "xã",
+    "district_code": "124",
+    "codename": "sap_vat"
+  },
+  {
+    "code": "04069",
+    "name": "Chiềng Sàng",
+    "name_en": "Chieng Sang",
+    "full_name": "Xã Chiềng Sàng",
+    "full_name_en": "Chieng Sang Commune",
+    "type": "xã",
+    "district_code": "124",
+    "codename": "chieng_sang"
+  },
+  {
+    "code": "04072",
+    "name": "Chiềng Pằn",
+    "name_en": "Chieng Pan",
+    "full_name": "Xã Chiềng Pằn",
+    "full_name_en": "Chieng Pan Commune",
+    "type": "xã",
+    "district_code": "124",
+    "codename": "chieng_pan"
+  },
+  {
+    "code": "04075",
+    "name": "Yên Châu",
+    "name_en": "Yen Chau",
+    "full_name": "Thị trấn Yên Châu",
+    "full_name_en": "Yen Chau Township",
+    "type": "thị trấn",
+    "district_code": "124",
+    "codename": "yen_chau"
+  },
+  {
+    "code": "04078",
+    "name": "Chiềng Hặc",
+    "name_en": "Chieng Hac",
+    "full_name": "Xã Chiềng Hặc",
+    "full_name_en": "Chieng Hac Commune",
+    "type": "xã",
+    "district_code": "124",
+    "codename": "chieng_hac"
+  },
+  {
+    "code": "04081",
+    "name": "Mường Lựm",
+    "name_en": "Muong Lum",
+    "full_name": "Xã Mường Lựm",
+    "full_name_en": "Muong Lum Commune",
+    "type": "xã",
+    "district_code": "124",
+    "codename": "muong_lum"
+  },
+  {
+    "code": "04084",
+    "name": "Chiềng On",
+    "name_en": "Chieng On",
+    "full_name": "Xã Chiềng On",
+    "full_name_en": "Chieng On Commune",
+    "type": "xã",
+    "district_code": "124",
+    "codename": "chieng_on"
+  },
+  {
+    "code": "04087",
+    "name": "Yên Sơn",
+    "name_en": "Yen Son",
+    "full_name": "Xã Yên Sơn",
+    "full_name_en": "Yen Son Commune",
+    "type": "xã",
+    "district_code": "124",
+    "codename": "yen_son"
+  },
+  {
+    "code": "04090",
+    "name": "Chiềng Khoi",
+    "name_en": "Chieng Khoi",
+    "full_name": "Xã Chiềng Khoi",
+    "full_name_en": "Chieng Khoi Commune",
+    "type": "xã",
+    "district_code": "124",
+    "codename": "chieng_khoi"
+  },
+  {
+    "code": "04093",
+    "name": "Tú Nang",
+    "name_en": "Tu Nang",
+    "full_name": "Xã Tú Nang",
+    "full_name_en": "Tu Nang Commune",
+    "type": "xã",
+    "district_code": "124",
+    "codename": "tu_nang"
+  },
+  {
+    "code": "04096",
+    "name": "Lóng Phiêng",
+    "name_en": "Long Phieng",
+    "full_name": "Xã Lóng Phiêng",
+    "full_name_en": "Long Phieng Commune",
+    "type": "xã",
+    "district_code": "124",
+    "codename": "long_phieng"
+  },
+  {
+    "code": "04099",
+    "name": "Phiêng Khoài",
+    "name_en": "Phieng Khoai",
+    "full_name": "Xã Phiêng Khoài",
+    "full_name_en": "Phieng Khoai Commune",
+    "type": "xã",
+    "district_code": "124",
+    "codename": "phieng_khoai"
+  },
+  {
+    "code": "04102",
+    "name": "Chiềng Tương",
+    "name_en": "Chieng Tuong",
+    "full_name": "Xã Chiềng Tương",
+    "full_name_en": "Chieng Tuong Commune",
+    "type": "xã",
+    "district_code": "124",
+    "codename": "chieng_tuong"
+  }
+]

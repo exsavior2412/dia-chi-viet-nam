@@ -1,0 +1,132 @@
+[
+  {
+    "code": "31258",
+    "name": "Thới Lai",
+    "name_en": "Thoi Lai",
+    "full_name": "Thị trấn Thới Lai",
+    "full_name_en": "Thoi Lai Township",
+    "type": "thị trấn",
+    "district_code": "927",
+    "codename": "thoi_lai"
+  },
+  {
+    "code": "31267",
+    "name": "Thới Thạnh",
+    "name_en": "Thoi Thanh",
+    "full_name": "Xã Thới Thạnh",
+    "full_name_en": "Thoi Thanh Commune",
+    "type": "xã",
+    "district_code": "927",
+    "codename": "thoi_thanh"
+  },
+  {
+    "code": "31268",
+    "name": "Tân Thạnh",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thạnh",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "927",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "31270",
+    "name": "Xuân Thắng",
+    "name_en": "Xuan Thang",
+    "full_name": "Xã Xuân Thắng",
+    "full_name_en": "Xuan Thang Commune",
+    "type": "xã",
+    "district_code": "927",
+    "codename": "xuan_thang"
+  },
+  {
+    "code": "31279",
+    "name": "Đông Bình",
+    "name_en": "Dong Binh",
+    "full_name": "Xã Đông Bình",
+    "full_name_en": "Dong Binh Commune",
+    "type": "xã",
+    "district_code": "927",
+    "codename": "dong_binh"
+  },
+  {
+    "code": "31282",
+    "name": "Đông Thuận",
+    "name_en": "Dong Thuan",
+    "full_name": "Xã Đông Thuận",
+    "full_name_en": "Dong Thuan Commune",
+    "type": "xã",
+    "district_code": "927",
+    "codename": "dong_thuan"
+  },
+  {
+    "code": "31285",
+    "name": "Thới Tân",
+    "name_en": "Thoi Tan",
+    "full_name": "Xã Thới Tân",
+    "full_name_en": "Thoi Tan Commune",
+    "type": "xã",
+    "district_code": "927",
+    "codename": "thoi_tan"
+  },
+  {
+    "code": "31286",
+    "name": "Trường Thắng",
+    "name_en": "Truong Thang",
+    "full_name": "Xã Trường Thắng",
+    "full_name_en": "Truong Thang Commune",
+    "type": "xã",
+    "district_code": "927",
+    "codename": "truong_thang"
+  },
+  {
+    "code": "31288",
+    "name": "Định Môn",
+    "name_en": "Dinh Mon",
+    "full_name": "Xã Định Môn",
+    "full_name_en": "Dinh Mon Commune",
+    "type": "xã",
+    "district_code": "927",
+    "codename": "dinh_mon"
+  },
+  {
+    "code": "31291",
+    "name": "Trường Thành",
+    "name_en": "Truong Thanh",
+    "full_name": "Xã Trường Thành",
+    "full_name_en": "Truong Thanh Commune",
+    "type": "xã",
+    "district_code": "927",
+    "codename": "truong_thanh"
+  },
+  {
+    "code": "31294",
+    "name": "Trường Xuân",
+    "name_en": "Truong Xuan",
+    "full_name": "Xã Trường Xuân",
+    "full_name_en": "Truong Xuan Commune",
+    "type": "xã",
+    "district_code": "927",
+    "codename": "truong_xuan"
+  },
+  {
+    "code": "31297",
+    "name": "Trường Xuân A",
+    "name_en": "Truong Xuan A",
+    "full_name": "Xã Trường Xuân A",
+    "full_name_en": "Truong Xuan A Commune",
+    "type": "xã",
+    "district_code": "927",
+    "codename": "truong_xuan_a"
+  },
+  {
+    "code": "31298",
+    "name": "Trường Xuân B",
+    "name_en": "Truong Xuan B",
+    "full_name": "Xã Trường Xuân B",
+    "full_name_en": "Truong Xuan B Commune",
+    "type": "xã",
+    "district_code": "927",
+    "codename": "truong_xuan_b"
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "code": "20965",
+    "name": "Núi Thành",
+    "name_en": "Nui Thanh",
+    "full_name": "Thị trấn Núi Thành",
+    "full_name_en": "Nui Thanh Township",
+    "type": "thị trấn",
+    "district_code": "517",
+    "codename": "nui_thanh"
+  },
+  {
+    "code": "20968",
+    "name": "Tam Xuân I",
+    "name_en": "Tam Xuan I",
+    "full_name": "Xã Tam Xuân I",
+    "full_name_en": "Tam Xuan I Commune",
+    "type": "xã",
+    "district_code": "517",
+    "codename": "tam_xuan_i"
+  },
+  {
+    "code": "20971",
+    "name": "Tam Xuân II",
+    "name_en": "Tam Xuan II",
+    "full_name": "Xã Tam Xuân II",
+    "full_name_en": "Tam Xuan II Commune",
+    "type": "xã",
+    "district_code": "517",
+    "codename": "tam_xuan_ii"
+  },
+  {
+    "code": "20974",
+    "name": "Tam Tiến",
+    "name_en": "Tam Tien",
+    "full_name": "Xã Tam Tiến",
+    "full_name_en": "Tam Tien Commune",
+    "type": "xã",
+    "district_code": "517",
+    "codename": "tam_tien"
+  },
+  {
+    "code": "20977",
+    "name": "Tam Sơn",
+    "name_en": "Tam Son",
+    "full_name": "Xã Tam Sơn",
+    "full_name_en": "Tam Son Commune",
+    "type": "xã",
+    "district_code": "517",
+    "codename": "tam_son"
+  },
+  {
+    "code": "20980",
+    "name": "Tam Thạnh",
+    "name_en": "Tam Thanh",
+    "full_name": "Xã Tam Thạnh",
+    "full_name_en": "Tam Thanh Commune",
+    "type": "xã",
+    "district_code": "517",
+    "codename": "tam_thanh"
+  },
+  {
+    "code": "20983",
+    "name": "Tam Anh Bắc",
+    "name_en": "Tam Anh Bac",
+    "full_name": "Xã Tam Anh Bắc",
+    "full_name_en": "Tam Anh Bac Commune",
+    "type": "xã",
+    "district_code": "517",
+    "codename": "tam_anh_bac"
+  },
+  {
+    "code": "20984",
+    "name": "Tam Anh Nam",
+    "name_en": "Tam Anh Nam",
+    "full_name": "Xã Tam Anh Nam",
+    "full_name_en": "Tam Anh Nam Commune",
+    "type": "xã",
+    "district_code": "517",
+    "codename": "tam_anh_nam"
+  },
+  {
+    "code": "20986",
+    "name": "Tam Hòa",
+    "name_en": "Tam Hoa",
+    "full_name": "Xã Tam Hòa",
+    "full_name_en": "Tam Hoa Commune",
+    "type": "xã",
+    "district_code": "517",
+    "codename": "tam_hoa"
+  },
+  {
+    "code": "20989",
+    "name": "Tam Hiệp",
+    "name_en": "Tam Hiep",
+    "full_name": "Xã Tam Hiệp",
+    "full_name_en": "Tam Hiep Commune",
+    "type": "xã",
+    "district_code": "517",
+    "codename": "tam_hiep"
+  },
+  {
+    "code": "20992",
+    "name": "Tam Hải",
+    "name_en": "Tam Hai",
+    "full_name": "Xã Tam Hải",
+    "full_name_en": "Tam Hai Commune",
+    "type": "xã",
+    "district_code": "517",
+    "codename": "tam_hai"
+  },
+  {
+    "code": "20995",
+    "name": "Tam Giang",
+    "name_en": "Tam Giang",
+    "full_name": "Xã Tam Giang",
+    "full_name_en": "Tam Giang Commune",
+    "type": "xã",
+    "district_code": "517",
+    "codename": "tam_giang"
+  },
+  {
+    "code": "20998",
+    "name": "Tam Quang",
+    "name_en": "Tam Quang",
+    "full_name": "Xã Tam Quang",
+    "full_name_en": "Tam Quang Commune",
+    "type": "xã",
+    "district_code": "517",
+    "codename": "tam_quang"
+  },
+  {
+    "code": "21001",
+    "name": "Tam Nghĩa",
+    "name_en": "Tam Nghia",
+    "full_name": "Xã Tam Nghĩa",
+    "full_name_en": "Tam Nghia Commune",
+    "type": "xã",
+    "district_code": "517",
+    "codename": "tam_nghia"
+  },
+  {
+    "code": "21004",
+    "name": "Tam Mỹ Tây",
+    "name_en": "Tam My Tay",
+    "full_name": "Xã Tam Mỹ Tây",
+    "full_name_en": "Tam My Tay Commune",
+    "type": "xã",
+    "district_code": "517",
+    "codename": "tam_my_tay"
+  },
+  {
+    "code": "21005",
+    "name": "Tam Mỹ Đông",
+    "name_en": "Tam My Dong",
+    "full_name": "Xã Tam Mỹ Đông",
+    "full_name_en": "Tam My Dong Commune",
+    "type": "xã",
+    "district_code": "517",
+    "codename": "tam_my_dong"
+  },
+  {
+    "code": "21007",
+    "name": "Tam Trà",
+    "name_en": "Tam Tra",
+    "full_name": "Xã Tam Trà",
+    "full_name_en": "Tam Tra Commune",
+    "type": "xã",
+    "district_code": "517",
+    "codename": "tam_tra"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "code": "11986",
+    "name": "Như Quỳnh",
+    "name_en": "Nhu Quynh",
+    "full_name": "Thị trấn Như Quỳnh",
+    "full_name_en": "Nhu Quynh Township",
+    "type": "thị trấn",
+    "district_code": "325",
+    "codename": "nhu_quynh"
+  },
+  {
+    "code": "11989",
+    "name": "Lạc Đạo",
+    "name_en": "Lac Dao",
+    "full_name": "Xã Lạc Đạo",
+    "full_name_en": "Lac Dao Commune",
+    "type": "xã",
+    "district_code": "325",
+    "codename": "lac_dao"
+  },
+  {
+    "code": "11992",
+    "name": "Chỉ Đạo",
+    "name_en": "Chi Dao",
+    "full_name": "Xã Chỉ Đạo",
+    "full_name_en": "Chi Dao Commune",
+    "type": "xã",
+    "district_code": "325",
+    "codename": "chi_dao"
+  },
+  {
+    "code": "11995",
+    "name": "Đại Đồng",
+    "name_en": "Dai Dong",
+    "full_name": "Xã Đại Đồng",
+    "full_name_en": "Dai Dong Commune",
+    "type": "xã",
+    "district_code": "325",
+    "codename": "dai_dong"
+  },
+  {
+    "code": "11998",
+    "name": "Việt Hưng",
+    "name_en": "Viet Hung",
+    "full_name": "Xã Việt Hưng",
+    "full_name_en": "Viet Hung Commune",
+    "type": "xã",
+    "district_code": "325",
+    "codename": "viet_hung"
+  },
+  {
+    "code": "12001",
+    "name": "Tân Quang",
+    "name_en": "Tan Quang",
+    "full_name": "Xã Tân Quang",
+    "full_name_en": "Tan Quang Commune",
+    "type": "xã",
+    "district_code": "325",
+    "codename": "tan_quang"
+  },
+  {
+    "code": "12004",
+    "name": "Đình Dù",
+    "name_en": "Dinh Du",
+    "full_name": "Xã Đình Dù",
+    "full_name_en": "Dinh Du Commune",
+    "type": "xã",
+    "district_code": "325",
+    "codename": "dinh_du"
+  },
+  {
+    "code": "12007",
+    "name": "Minh Hải",
+    "name_en": "Minh Hai",
+    "full_name": "Xã Minh Hải",
+    "full_name_en": "Minh Hai Commune",
+    "type": "xã",
+    "district_code": "325",
+    "codename": "minh_hai"
+  },
+  {
+    "code": "12010",
+    "name": "Lương Tài",
+    "name_en": "Luong Tai",
+    "full_name": "Xã Lương Tài",
+    "full_name_en": "Luong Tai Commune",
+    "type": "xã",
+    "district_code": "325",
+    "codename": "luong_tai"
+  },
+  {
+    "code": "12013",
+    "name": "Trưng Trắc",
+    "name_en": "Trung Trac",
+    "full_name": "Xã Trưng Trắc",
+    "full_name_en": "Trung Trac Commune",
+    "type": "xã",
+    "district_code": "325",
+    "codename": "trung_trac"
+  },
+  {
+    "code": "12016",
+    "name": "Lạc Hồng",
+    "name_en": "Lac Hong",
+    "full_name": "Xã Lạc Hồng",
+    "full_name_en": "Lac Hong Commune",
+    "type": "xã",
+    "district_code": "325",
+    "codename": "lac_hong"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "code": "19624",
+    "name": "Ái Tử",
+    "name_en": "Ai Tu",
+    "full_name": "Thị trấn Ái Tử",
+    "full_name_en": "Ai Tu Township",
+    "type": "thị trấn",
+    "district_code": "469",
+    "codename": "ai_tu"
+  },
+  {
+    "code": "19627",
+    "name": "Triệu Tân",
+    "name_en": "Trieu Tan",
+    "full_name": "Xã Triệu Tân",
+    "full_name_en": "Trieu Tan Commune",
+    "type": "xã",
+    "district_code": "469",
+    "codename": "trieu_tan"
+  },
+  {
+    "code": "19633",
+    "name": "Triệu Phước",
+    "name_en": "Trieu Phuoc",
+    "full_name": "Xã Triệu Phước",
+    "full_name_en": "Trieu Phuoc Commune",
+    "type": "xã",
+    "district_code": "469",
+    "codename": "trieu_phuoc"
+  },
+  {
+    "code": "19636",
+    "name": "Triệu Độ",
+    "name_en": "Trieu Do",
+    "full_name": "Xã Triệu Độ",
+    "full_name_en": "Trieu Do Commune",
+    "type": "xã",
+    "district_code": "469",
+    "codename": "trieu_do"
+  },
+  {
+    "code": "19639",
+    "name": "Triệu Trạch",
+    "name_en": "Trieu Trach",
+    "full_name": "Xã Triệu Trạch",
+    "full_name_en": "Trieu Trach Commune",
+    "type": "xã",
+    "district_code": "469",
+    "codename": "trieu_trach"
+  },
+  {
+    "code": "19642",
+    "name": "Triệu Thuận",
+    "name_en": "Trieu Thuan",
+    "full_name": "Xã Triệu Thuận",
+    "full_name_en": "Trieu Thuan Commune",
+    "type": "xã",
+    "district_code": "469",
+    "codename": "trieu_thuan"
+  },
+  {
+    "code": "19645",
+    "name": "Triệu Đại",
+    "name_en": "Trieu Dai",
+    "full_name": "Xã Triệu Đại",
+    "full_name_en": "Trieu Dai Commune",
+    "type": "xã",
+    "district_code": "469",
+    "codename": "trieu_dai"
+  },
+  {
+    "code": "19648",
+    "name": "Triệu Hòa",
+    "name_en": "Trieu Hoa",
+    "full_name": "Xã Triệu Hòa",
+    "full_name_en": "Trieu Hoa Commune",
+    "type": "xã",
+    "district_code": "469",
+    "codename": "trieu_hoa"
+  },
+  {
+    "code": "19654",
+    "name": "Triệu Cơ",
+    "name_en": "Trieu Co",
+    "full_name": "Xã Triệu Cơ",
+    "full_name_en": "Trieu Co Commune",
+    "type": "xã",
+    "district_code": "469",
+    "codename": "trieu_co"
+  },
+  {
+    "code": "19657",
+    "name": "Triệu Long",
+    "name_en": "Trieu Long",
+    "full_name": "Xã Triệu Long",
+    "full_name_en": "Trieu Long Commune",
+    "type": "xã",
+    "district_code": "469",
+    "codename": "trieu_long"
+  },
+  {
+    "code": "19660",
+    "name": "Triệu Tài",
+    "name_en": "Trieu Tai",
+    "full_name": "Xã Triệu Tài",
+    "full_name_en": "Trieu Tai Commune",
+    "type": "xã",
+    "district_code": "469",
+    "codename": "trieu_tai"
+  },
+  {
+    "code": "19666",
+    "name": "Triệu Trung",
+    "name_en": "Trieu Trung",
+    "full_name": "Xã Triệu Trung",
+    "full_name_en": "Trieu Trung Commune",
+    "type": "xã",
+    "district_code": "469",
+    "codename": "trieu_trung"
+  },
+  {
+    "code": "19669",
+    "name": "Triệu Ái",
+    "name_en": "Trieu Ai",
+    "full_name": "Xã Triệu Ái",
+    "full_name_en": "Trieu Ai Commune",
+    "type": "xã",
+    "district_code": "469",
+    "codename": "trieu_ai"
+  },
+  {
+    "code": "19672",
+    "name": "Triệu Thượng",
+    "name_en": "Trieu Thuong",
+    "full_name": "Xã Triệu Thượng",
+    "full_name_en": "Trieu Thuong Commune",
+    "type": "xã",
+    "district_code": "469",
+    "codename": "trieu_thuong"
+  },
+  {
+    "code": "19675",
+    "name": "Triệu Giang",
+    "name_en": "Trieu Giang",
+    "full_name": "Xã Triệu Giang",
+    "full_name_en": "Trieu Giang Commune",
+    "type": "xã",
+    "district_code": "469",
+    "codename": "trieu_giang"
+  },
+  {
+    "code": "19678",
+    "name": "Triệu Thành",
+    "name_en": "Trieu Thanh",
+    "full_name": "Xã Triệu Thành",
+    "full_name_en": "Trieu Thanh Commune",
+    "type": "xã",
+    "district_code": "469",
+    "codename": "trieu_thanh"
+  }
+]

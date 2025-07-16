@@ -1,0 +1,142 @@
+[
+  {
+    "code": "23824",
+    "name": "Kông Chro",
+    "name_en": "Kong Chro",
+    "full_name": "Thị trấn Kông Chro",
+    "full_name_en": "Kong Chro Township",
+    "type": "thị trấn",
+    "district_code": "630",
+    "codename": "kong_chro"
+  },
+  {
+    "code": "23827",
+    "name": "Chư Krêy",
+    "name_en": "Chu Krey",
+    "full_name": "Xã Chư Krêy",
+    "full_name_en": "Chu Krey Commune",
+    "type": "xã",
+    "district_code": "630",
+    "codename": "chu_krey"
+  },
+  {
+    "code": "23830",
+    "name": "An Trung",
+    "name_en": "An Trung",
+    "full_name": "Xã An Trung",
+    "full_name_en": "An Trung Commune",
+    "type": "xã",
+    "district_code": "630",
+    "codename": "an_trung"
+  },
+  {
+    "code": "23833",
+    "name": "Kông Yang",
+    "name_en": "Kong Yang",
+    "full_name": "Xã Kông Yang",
+    "full_name_en": "Kong Yang Commune",
+    "type": "xã",
+    "district_code": "630",
+    "codename": "kong_yang"
+  },
+  {
+    "code": "23836",
+    "name": "Đăk Tơ Pang",
+    "name_en": "Dak To Pang",
+    "full_name": "Xã Đăk Tơ Pang",
+    "full_name_en": "Dak To Pang Commune",
+    "type": "xã",
+    "district_code": "630",
+    "codename": "dak_to_pang"
+  },
+  {
+    "code": "23839",
+    "name": "SRó",
+    "name_en": "SRo",
+    "full_name": "Xã SRó",
+    "full_name_en": "SRo Commune",
+    "type": "xã",
+    "district_code": "630",
+    "codename": "sro"
+  },
+  {
+    "code": "23840",
+    "name": "Đắk Kơ Ning",
+    "name_en": "Dak Ko Ning",
+    "full_name": "Xã Đắk Kơ Ning",
+    "full_name_en": "Dak Ko Ning Commune",
+    "type": "xã",
+    "district_code": "630",
+    "codename": "dak_ko_ning"
+  },
+  {
+    "code": "23842",
+    "name": "Đăk Song",
+    "name_en": "Dak Song",
+    "full_name": "Xã Đăk Song",
+    "full_name_en": "Dak Song Commune",
+    "type": "xã",
+    "district_code": "630",
+    "codename": "dak_song"
+  },
+  {
+    "code": "23843",
+    "name": "Đăk Pling",
+    "name_en": "Dak Pling",
+    "full_name": "Xã Đăk Pling",
+    "full_name_en": "Dak Pling Commune",
+    "type": "xã",
+    "district_code": "630",
+    "codename": "dak_pling"
+  },
+  {
+    "code": "23845",
+    "name": "Yang Trung",
+    "name_en": "Yang Trung",
+    "full_name": "Xã Yang Trung",
+    "full_name_en": "Yang Trung Commune",
+    "type": "xã",
+    "district_code": "630",
+    "codename": "yang_trung"
+  },
+  {
+    "code": "23846",
+    "name": "Đăk Pơ Pho",
+    "name_en": "Dak Po Pho",
+    "full_name": "Xã Đăk Pơ Pho",
+    "full_name_en": "Dak Po Pho Commune",
+    "type": "xã",
+    "district_code": "630",
+    "codename": "dak_po_pho"
+  },
+  {
+    "code": "23848",
+    "name": "Ya Ma",
+    "name_en": "Ya Ma",
+    "full_name": "Xã Ya Ma",
+    "full_name_en": "Ya Ma Commune",
+    "type": "xã",
+    "district_code": "630",
+    "codename": "ya_ma"
+  },
+  {
+    "code": "23851",
+    "name": "Chơ Long",
+    "name_en": "Cho Long",
+    "full_name": "Xã Chơ Long",
+    "full_name_en": "Cho Long Commune",
+    "type": "xã",
+    "district_code": "630",
+    "codename": "cho_long"
+  },
+  {
+    "code": "23854",
+    "name": "Yang Nam",
+    "name_en": "Yang Nam",
+    "full_name": "Xã Yang Nam",
+    "full_name_en": "Yang Nam Commune",
+    "type": "xã",
+    "district_code": "630",
+    "codename": "yang_nam"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "code": "02374",
+    "name": "Tân Yên",
+    "name_en": "Tan Yen",
+    "full_name": "Thị trấn Tân Yên",
+    "full_name_en": "Tan Yen Township",
+    "type": "thị trấn",
+    "district_code": "074",
+    "codename": "tan_yen"
+  },
+  {
+    "code": "02377",
+    "name": "Yên Thuận",
+    "name_en": "Yen Thuan",
+    "full_name": "Xã Yên Thuận",
+    "full_name_en": "Yen Thuan Commune",
+    "type": "xã",
+    "district_code": "074",
+    "codename": "yen_thuan"
+  },
+  {
+    "code": "02380",
+    "name": "Bạch Xa",
+    "name_en": "Bach Xa",
+    "full_name": "Xã Bạch Xa",
+    "full_name_en": "Bach Xa Commune",
+    "type": "xã",
+    "district_code": "074",
+    "codename": "bach_xa"
+  },
+  {
+    "code": "02383",
+    "name": "Minh Khương",
+    "name_en": "Minh Khuong",
+    "full_name": "Xã Minh Khương",
+    "full_name_en": "Minh Khuong Commune",
+    "type": "xã",
+    "district_code": "074",
+    "codename": "minh_khuong"
+  },
+  {
+    "code": "02386",
+    "name": "Yên Lâm",
+    "name_en": "Yen Lam",
+    "full_name": "Xã Yên Lâm",
+    "full_name_en": "Yen Lam Commune",
+    "type": "xã",
+    "district_code": "074",
+    "codename": "yen_lam"
+  },
+  {
+    "code": "02389",
+    "name": "Minh Dân",
+    "name_en": "Minh Dan",
+    "full_name": "Xã Minh Dân",
+    "full_name_en": "Minh Dan Commune",
+    "type": "xã",
+    "district_code": "074",
+    "codename": "minh_dan"
+  },
+  {
+    "code": "02392",
+    "name": "Phù Lưu",
+    "name_en": "Phu Luu",
+    "full_name": "Xã Phù Lưu",
+    "full_name_en": "Phu Luu Commune",
+    "type": "xã",
+    "district_code": "074",
+    "codename": "phu_luu"
+  },
+  {
+    "code": "02395",
+    "name": "Minh Hương",
+    "name_en": "Minh Huong",
+    "full_name": "Xã Minh Hương",
+    "full_name_en": "Minh Huong Commune",
+    "type": "xã",
+    "district_code": "074",
+    "codename": "minh_huong"
+  },
+  {
+    "code": "02398",
+    "name": "Yên Phú",
+    "name_en": "Yen Phu",
+    "full_name": "Xã Yên Phú",
+    "full_name_en": "Yen Phu Commune",
+    "type": "xã",
+    "district_code": "074",
+    "codename": "yen_phu"
+  },
+  {
+    "code": "02401",
+    "name": "Tân Thành",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thành",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "074",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "02404",
+    "name": "Bình Xa",
+    "name_en": "Binh Xa",
+    "full_name": "Xã Bình Xa",
+    "full_name_en": "Binh Xa Commune",
+    "type": "xã",
+    "district_code": "074",
+    "codename": "binh_xa"
+  },
+  {
+    "code": "02407",
+    "name": "Thái Sơn",
+    "name_en": "Thai Son",
+    "full_name": "Xã Thái Sơn",
+    "full_name_en": "Thai Son Commune",
+    "type": "xã",
+    "district_code": "074",
+    "codename": "thai_son"
+  },
+  {
+    "code": "02410",
+    "name": "Nhân Mục",
+    "name_en": "Nhan Muc",
+    "full_name": "Xã Nhân Mục",
+    "full_name_en": "Nhan Muc Commune",
+    "type": "xã",
+    "district_code": "074",
+    "codename": "nhan_muc"
+  },
+  {
+    "code": "02413",
+    "name": "Thành Long",
+    "name_en": "Thanh Long",
+    "full_name": "Xã Thành Long",
+    "full_name_en": "Thanh Long Commune",
+    "type": "xã",
+    "district_code": "074",
+    "codename": "thanh_long"
+  },
+  {
+    "code": "02416",
+    "name": "Bằng Cốc",
+    "name_en": "Bang Coc",
+    "full_name": "Xã Bằng Cốc",
+    "full_name_en": "Bang Coc Commune",
+    "type": "xã",
+    "district_code": "074",
+    "codename": "bang_coc"
+  },
+  {
+    "code": "02419",
+    "name": "Thái Hòa",
+    "name_en": "Thai Hoa",
+    "full_name": "Xã Thái Hòa",
+    "full_name_en": "Thai Hoa Commune",
+    "type": "xã",
+    "district_code": "074",
+    "codename": "thai_hoa"
+  },
+  {
+    "code": "02422",
+    "name": "Đức Ninh",
+    "name_en": "Duc Ninh",
+    "full_name": "Xã Đức Ninh",
+    "full_name_en": "Duc Ninh Commune",
+    "type": "xã",
+    "district_code": "074",
+    "codename": "duc_ninh"
+  },
+  {
+    "code": "02425",
+    "name": "Hùng Đức",
+    "name_en": "Hung Duc",
+    "full_name": "Xã Hùng Đức",
+    "full_name_en": "Hung Duc Commune",
+    "type": "xã",
+    "district_code": "074",
+    "codename": "hung_duc"
+  }
+]

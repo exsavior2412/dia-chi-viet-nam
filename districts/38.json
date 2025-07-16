@@ -1,0 +1,262 @@
+[
+  {
+    "code": "380",
+    "name": "Thanh Hóa",
+    "name_en": "Thanh Hoa",
+    "full_name": "Thành phố Thanh Hóa",
+    "full_name_en": "Thanh Hoa City",
+    "type": "thành phố",
+    "province_code": "38",
+    "codename": "thanh_hoa"
+  },
+  {
+    "code": "381",
+    "name": "Bỉm Sơn",
+    "name_en": "Bim Son",
+    "full_name": "Thị xã Bỉm Sơn",
+    "full_name_en": "Bim Son Town",
+    "type": "thị xã",
+    "province_code": "38",
+    "codename": "bim_son"
+  },
+  {
+    "code": "382",
+    "name": "Sầm Sơn",
+    "name_en": "Sam Son",
+    "full_name": "Thành phố Sầm Sơn",
+    "full_name_en": "Sam Son City",
+    "type": "thành phố",
+    "province_code": "38",
+    "codename": "sam_son"
+  },
+  {
+    "code": "384",
+    "name": "Mường Lát",
+    "name_en": "Muong Lat",
+    "full_name": "Huyện Mường Lát",
+    "full_name_en": "Muong Lat District",
+    "type": "huyện",
+    "province_code": "38",
+    "codename": "muong_lat"
+  },
+  {
+    "code": "385",
+    "name": "Quan Hóa",
+    "name_en": "Quan Hoa",
+    "full_name": "Huyện Quan Hóa",
+    "full_name_en": "Quan Hoa District",
+    "type": "huyện",
+    "province_code": "38",
+    "codename": "quan_hoa"
+  },
+  {
+    "code": "386",
+    "name": "Bá Thước",
+    "name_en": "Ba Thuoc",
+    "full_name": "Huyện Bá Thước",
+    "full_name_en": "Ba Thuoc District",
+    "type": "huyện",
+    "province_code": "38",
+    "codename": "ba_thuoc"
+  },
+  {
+    "code": "387",
+    "name": "Quan Sơn",
+    "name_en": "Quan Son",
+    "full_name": "Huyện Quan Sơn",
+    "full_name_en": "Quan Son District",
+    "type": "huyện",
+    "province_code": "38",
+    "codename": "quan_son"
+  },
+  {
+    "code": "388",
+    "name": "Lang Chánh",
+    "name_en": "Lang Chanh",
+    "full_name": "Huyện Lang Chánh",
+    "full_name_en": "Lang Chanh District",
+    "type": "huyện",
+    "province_code": "38",
+    "codename": "lang_chanh"
+  },
+  {
+    "code": "389",
+    "name": "Ngọc Lặc",
+    "name_en": "Ngoc Lac",
+    "full_name": "Huyện Ngọc Lặc",
+    "full_name_en": "Ngoc Lac District",
+    "type": "huyện",
+    "province_code": "38",
+    "codename": "ngoc_lac"
+  },
+  {
+    "code": "390",
+    "name": "Cẩm Thủy",
+    "name_en": "Cam Thuy",
+    "full_name": "Huyện Cẩm Thủy",
+    "full_name_en": "Cam Thuy District",
+    "type": "huyện",
+    "province_code": "38",
+    "codename": "cam_thuy"
+  },
+  {
+    "code": "391",
+    "name": "Thạch Thành",
+    "name_en": "Thach Thanh",
+    "full_name": "Huyện Thạch Thành",
+    "full_name_en": "Thach Thanh District",
+    "type": "huyện",
+    "province_code": "38",
+    "codename": "thach_thanh"
+  },
+  {
+    "code": "392",
+    "name": "Hà Trung",
+    "name_en": "Ha Trung",
+    "full_name": "Huyện Hà Trung",
+    "full_name_en": "Ha Trung District",
+    "type": "huyện",
+    "province_code": "38",
+    "codename": "ha_trung"
+  },
+  {
+    "code": "393",
+    "name": "Vĩnh Lộc",
+    "name_en": "Vinh Loc",
+    "full_name": "Huyện Vĩnh Lộc",
+    "full_name_en": "Vinh Loc District",
+    "type": "huyện",
+    "province_code": "38",
+    "codename": "vinh_loc"
+  },
+  {
+    "code": "394",
+    "name": "Yên Định",
+    "name_en": "Yen Dinh",
+    "full_name": "Huyện Yên Định",
+    "full_name_en": "Yen Dinh District",
+    "type": "huyện",
+    "province_code": "38",
+    "codename": "yen_dinh"
+  },
+  {
+    "code": "395",
+    "name": "Thọ Xuân",
+    "name_en": "Tho Xuan",
+    "full_name": "Huyện Thọ Xuân",
+    "full_name_en": "Tho Xuan District",
+    "type": "huyện",
+    "province_code": "38",
+    "codename": "tho_xuan"
+  },
+  {
+    "code": "396",
+    "name": "Thường Xuân",
+    "name_en": "Thuong Xuan",
+    "full_name": "Huyện Thường Xuân",
+    "full_name_en": "Thuong Xuan District",
+    "type": "huyện",
+    "province_code": "38",
+    "codename": "thuong_xuan"
+  },
+  {
+    "code": "397",
+    "name": "Triệu Sơn",
+    "name_en": "Trieu Son",
+    "full_name": "Huyện Triệu Sơn",
+    "full_name_en": "Trieu Son District",
+    "type": "huyện",
+    "province_code": "38",
+    "codename": "trieu_son"
+  },
+  {
+    "code": "398",
+    "name": "Thiệu Hóa",
+    "name_en": "Thieu Hoa",
+    "full_name": "Huyện Thiệu Hóa",
+    "full_name_en": "Thieu Hoa District",
+    "type": "huyện",
+    "province_code": "38",
+    "codename": "thieu_hoa"
+  },
+  {
+    "code": "399",
+    "name": "Hoằng Hóa",
+    "name_en": "Hoang Hoa",
+    "full_name": "Huyện Hoằng Hóa",
+    "full_name_en": "Hoang Hoa District",
+    "type": "huyện",
+    "province_code": "38",
+    "codename": "hoang_hoa"
+  },
+  {
+    "code": "400",
+    "name": "Hậu Lộc",
+    "name_en": "Hau Loc",
+    "full_name": "Huyện Hậu Lộc",
+    "full_name_en": "Hau Loc District",
+    "type": "huyện",
+    "province_code": "38",
+    "codename": "hau_loc"
+  },
+  {
+    "code": "401",
+    "name": "Nga Sơn",
+    "name_en": "Nga Son",
+    "full_name": "Huyện Nga Sơn",
+    "full_name_en": "Nga Son District",
+    "type": "huyện",
+    "province_code": "38",
+    "codename": "nga_son"
+  },
+  {
+    "code": "402",
+    "name": "Như Xuân",
+    "name_en": "Nhu Xuan",
+    "full_name": "Huyện Như Xuân",
+    "full_name_en": "Nhu Xuan District",
+    "type": "huyện",
+    "province_code": "38",
+    "codename": "nhu_xuan"
+  },
+  {
+    "code": "403",
+    "name": "Như Thanh",
+    "name_en": "Nhu Thanh",
+    "full_name": "Huyện Như Thanh",
+    "full_name_en": "Nhu Thanh District",
+    "type": "huyện",
+    "province_code": "38",
+    "codename": "nhu_thanh"
+  },
+  {
+    "code": "404",
+    "name": "Nông Cống",
+    "name_en": "Nong Cong",
+    "full_name": "Huyện Nông Cống",
+    "full_name_en": "Nong Cong District",
+    "type": "huyện",
+    "province_code": "38",
+    "codename": "nong_cong"
+  },
+  {
+    "code": "406",
+    "name": "Quảng Xương",
+    "name_en": "Quang Xuong",
+    "full_name": "Huyện Quảng Xương",
+    "full_name_en": "Quang Xuong District",
+    "type": "huyện",
+    "province_code": "38",
+    "codename": "quang_xuong"
+  },
+  {
+    "code": "407",
+    "name": "Nghi Sơn",
+    "name_en": "Nghi Son",
+    "full_name": "Thị xã Nghi Sơn",
+    "full_name_en": "Nghi Son Town",
+    "type": "thị xã",
+    "province_code": "38",
+    "codename": "nghi_son"
+  }
+]

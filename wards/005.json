@@ -1,0 +1,82 @@
+[
+  {
+    "code": "00157",
+    "name": "Nghĩa Đô",
+    "name_en": "Nghia Do",
+    "full_name": "Phường Nghĩa Đô",
+    "full_name_en": "Nghia Do Ward",
+    "type": "phường",
+    "district_code": "005",
+    "codename": "nghia_do"
+  },
+  {
+    "code": "00160",
+    "name": "Nghĩa Tân",
+    "name_en": "Nghia Tan",
+    "full_name": "Phường Nghĩa Tân",
+    "full_name_en": "Nghia Tan Ward",
+    "type": "phường",
+    "district_code": "005",
+    "codename": "nghia_tan"
+  },
+  {
+    "code": "00163",
+    "name": "Mai Dịch",
+    "name_en": "Mai Dich",
+    "full_name": "Phường Mai Dịch",
+    "full_name_en": "Mai Dich Ward",
+    "type": "phường",
+    "district_code": "005",
+    "codename": "mai_dich"
+  },
+  {
+    "code": "00166",
+    "name": "Dịch Vọng",
+    "name_en": "Dich Vong",
+    "full_name": "Phường Dịch Vọng",
+    "full_name_en": "Dich Vong Ward",
+    "type": "phường",
+    "district_code": "005",
+    "codename": "dich_vong"
+  },
+  {
+    "code": "00167",
+    "name": "Dịch Vọng Hậu",
+    "name_en": "Dich Vong Hau",
+    "full_name": "Phường Dịch Vọng Hậu",
+    "full_name_en": "Dich Vong Hau Ward",
+    "type": "phường",
+    "district_code": "005",
+    "codename": "dich_vong_hau"
+  },
+  {
+    "code": "00169",
+    "name": "Quan Hoa",
+    "name_en": "Quan Hoa",
+    "full_name": "Phường Quan Hoa",
+    "full_name_en": "Quan Hoa Ward",
+    "type": "phường",
+    "district_code": "005",
+    "codename": "quan_hoa"
+  },
+  {
+    "code": "00172",
+    "name": "Yên Hoà",
+    "name_en": "Yen Hoa",
+    "full_name": "Phường Yên Hoà",
+    "full_name_en": "Yen Hoa Ward",
+    "type": "phường",
+    "district_code": "005",
+    "codename": "yen_hoa"
+  },
+  {
+    "code": "00175",
+    "name": "Trung Hoà",
+    "name_en": "Trung Hoa",
+    "full_name": "Phường Trung Hoà",
+    "full_name_en": "Trung Hoa Ward",
+    "type": "phường",
+    "district_code": "005",
+    "codename": "trung_hoa"
+  }
+]

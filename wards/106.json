@@ -1,0 +1,132 @@
+[
+  {
+    "code": "03390",
+    "name": "Tam Đường",
+    "name_en": "Tam Duong",
+    "full_name": "Thị trấn Tam Đường",
+    "full_name_en": "Tam Duong Township",
+    "type": "thị trấn",
+    "district_code": "106",
+    "codename": "tam_duong"
+  },
+  {
+    "code": "03394",
+    "name": "Thèn Sin",
+    "name_en": "Then Sin",
+    "full_name": "Xã Thèn Sin",
+    "full_name_en": "Then Sin Commune",
+    "type": "xã",
+    "district_code": "106",
+    "codename": "then_sin"
+  },
+  {
+    "code": "03400",
+    "name": "Tả Lèng",
+    "name_en": "Ta Leng",
+    "full_name": "Xã Tả Lèng",
+    "full_name_en": "Ta Leng Commune",
+    "type": "xã",
+    "district_code": "106",
+    "codename": "ta_leng"
+  },
+  {
+    "code": "03405",
+    "name": "Giang Ma",
+    "name_en": "Giang Ma",
+    "full_name": "Xã Giang Ma",
+    "full_name_en": "Giang Ma Commune",
+    "type": "xã",
+    "district_code": "106",
+    "codename": "giang_ma"
+  },
+  {
+    "code": "03406",
+    "name": "Hồ Thầu",
+    "name_en": "Ho Thau",
+    "full_name": "Xã Hồ Thầu",
+    "full_name_en": "Ho Thau Commune",
+    "type": "xã",
+    "district_code": "106",
+    "codename": "ho_thau"
+  },
+  {
+    "code": "03412",
+    "name": "Bình Lư",
+    "name_en": "Binh Lu",
+    "full_name": "Xã Bình Lư",
+    "full_name_en": "Binh Lu Commune",
+    "type": "xã",
+    "district_code": "106",
+    "codename": "binh_lu"
+  },
+  {
+    "code": "03413",
+    "name": "Sơn Bình",
+    "name_en": "Son Binh",
+    "full_name": "Xã Sơn Bình",
+    "full_name_en": "Son Binh Commune",
+    "type": "xã",
+    "district_code": "106",
+    "codename": "son_binh"
+  },
+  {
+    "code": "03415",
+    "name": "Nùng Nàng",
+    "name_en": "Nung Nang",
+    "full_name": "Xã Nùng Nàng",
+    "full_name_en": "Nung Nang Commune",
+    "type": "xã",
+    "district_code": "106",
+    "codename": "nung_nang"
+  },
+  {
+    "code": "03418",
+    "name": "Bản Giang",
+    "name_en": "Ban Giang",
+    "full_name": "Xã Bản Giang",
+    "full_name_en": "Ban Giang Commune",
+    "type": "xã",
+    "district_code": "106",
+    "codename": "ban_giang"
+  },
+  {
+    "code": "03421",
+    "name": "Bản Hon",
+    "name_en": "Ban Hon",
+    "full_name": "Xã Bản Hon",
+    "full_name_en": "Ban Hon Commune",
+    "type": "xã",
+    "district_code": "106",
+    "codename": "ban_hon"
+  },
+  {
+    "code": "03424",
+    "name": "Bản Bo",
+    "name_en": "Ban Bo",
+    "full_name": "Xã Bản Bo",
+    "full_name_en": "Ban Bo Commune",
+    "type": "xã",
+    "district_code": "106",
+    "codename": "ban_bo"
+  },
+  {
+    "code": "03427",
+    "name": "Nà Tăm",
+    "name_en": "Na Tam",
+    "full_name": "Xã Nà Tăm",
+    "full_name_en": "Na Tam Commune",
+    "type": "xã",
+    "district_code": "106",
+    "codename": "na_tam"
+  },
+  {
+    "code": "03430",
+    "name": "Khun Há",
+    "name_en": "Khun Ha",
+    "full_name": "Xã Khun Há",
+    "full_name_en": "Khun Ha Commune",
+    "type": "xã",
+    "district_code": "106",
+    "codename": "khun_ha"
+  }
+]

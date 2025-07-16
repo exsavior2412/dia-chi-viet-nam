@@ -1,0 +1,112 @@
+[
+  {
+    "code": "22969",
+    "name": "Liên Hương",
+    "name_en": "Lien Huong",
+    "full_name": "Thị trấn Liên Hương",
+    "full_name_en": "Lien Huong Township",
+    "type": "thị trấn",
+    "district_code": "595",
+    "codename": "lien_huong"
+  },
+  {
+    "code": "22972",
+    "name": "Phan Rí Cửa",
+    "name_en": "Phan Ri Cua",
+    "full_name": "Thị trấn Phan Rí Cửa",
+    "full_name_en": "Phan Ri Cua Township",
+    "type": "thị trấn",
+    "district_code": "595",
+    "codename": "phan_ri_cua"
+  },
+  {
+    "code": "22975",
+    "name": "Phan Dũng",
+    "name_en": "Phan Dung",
+    "full_name": "Xã Phan Dũng",
+    "full_name_en": "Phan Dung Commune",
+    "type": "xã",
+    "district_code": "595",
+    "codename": "phan_dung"
+  },
+  {
+    "code": "22978",
+    "name": "Phong Phú",
+    "name_en": "Phong Phu",
+    "full_name": "Xã Phong Phú",
+    "full_name_en": "Phong Phu Commune",
+    "type": "xã",
+    "district_code": "595",
+    "codename": "phong_phu"
+  },
+  {
+    "code": "22981",
+    "name": "Vĩnh Hảo",
+    "name_en": "Vinh Hao",
+    "full_name": "Xã Vĩnh Hảo",
+    "full_name_en": "Vinh Hao Commune",
+    "type": "xã",
+    "district_code": "595",
+    "codename": "vinh_hao"
+  },
+  {
+    "code": "22984",
+    "name": "Vĩnh Tân",
+    "name_en": "Vinh Tan",
+    "full_name": "Xã Vĩnh Tân",
+    "full_name_en": "Vinh Tan Commune",
+    "type": "xã",
+    "district_code": "595",
+    "codename": "vinh_tan"
+  },
+  {
+    "code": "22987",
+    "name": "Phú Lạc",
+    "name_en": "Phu Lac",
+    "full_name": "Xã Phú Lạc",
+    "full_name_en": "Phu Lac Commune",
+    "type": "xã",
+    "district_code": "595",
+    "codename": "phu_lac"
+  },
+  {
+    "code": "22990",
+    "name": "Phước Thể",
+    "name_en": "Phuoc The",
+    "full_name": "Xã Phước Thể",
+    "full_name_en": "Phuoc The Commune",
+    "type": "xã",
+    "district_code": "595",
+    "codename": "phuoc_the"
+  },
+  {
+    "code": "22993",
+    "name": "Hòa Minh",
+    "name_en": "Hoa Minh",
+    "full_name": "Xã Hòa Minh",
+    "full_name_en": "Hoa Minh Commune",
+    "type": "xã",
+    "district_code": "595",
+    "codename": "hoa_minh"
+  },
+  {
+    "code": "22996",
+    "name": "Chí Công",
+    "name_en": "Chi Cong",
+    "full_name": "Xã Chí Công",
+    "full_name_en": "Chi Cong Commune",
+    "type": "xã",
+    "district_code": "595",
+    "codename": "chi_cong"
+  },
+  {
+    "code": "22999",
+    "name": "Bình Thạnh",
+    "name_en": "Binh Thanh",
+    "full_name": "Xã Bình Thạnh",
+    "full_name_en": "Binh Thanh Commune",
+    "type": "xã",
+    "district_code": "595",
+    "codename": "binh_thanh"
+  }
+]

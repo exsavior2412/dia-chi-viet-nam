@@ -1,0 +1,152 @@
+[
+  {
+    "code": "21808",
+    "name": "Phú Phong",
+    "name_en": "Phu Phong",
+    "full_name": "Thị trấn Phú Phong",
+    "full_name_en": "Phu Phong Township",
+    "type": "thị trấn",
+    "district_code": "547",
+    "codename": "phu_phong"
+  },
+  {
+    "code": "21811",
+    "name": "Bình Tân",
+    "name_en": "Binh Tan",
+    "full_name": "Xã Bình Tân",
+    "full_name_en": "Binh Tan Commune",
+    "type": "xã",
+    "district_code": "547",
+    "codename": "binh_tan"
+  },
+  {
+    "code": "21814",
+    "name": "Tây Thuận",
+    "name_en": "Tay Thuan",
+    "full_name": "Xã Tây Thuận",
+    "full_name_en": "Tay Thuan Commune",
+    "type": "xã",
+    "district_code": "547",
+    "codename": "tay_thuan"
+  },
+  {
+    "code": "21817",
+    "name": "Bình Thuận",
+    "name_en": "Binh Thuan",
+    "full_name": "Xã Bình Thuận",
+    "full_name_en": "Binh Thuan Commune",
+    "type": "xã",
+    "district_code": "547",
+    "codename": "binh_thuan"
+  },
+  {
+    "code": "21820",
+    "name": "Tây Giang",
+    "name_en": "Tay Giang",
+    "full_name": "Xã Tây Giang",
+    "full_name_en": "Tay Giang Commune",
+    "type": "xã",
+    "district_code": "547",
+    "codename": "tay_giang"
+  },
+  {
+    "code": "21823",
+    "name": "Bình Thành",
+    "name_en": "Binh Thanh",
+    "full_name": "Xã Bình Thành",
+    "full_name_en": "Binh Thanh Commune",
+    "type": "xã",
+    "district_code": "547",
+    "codename": "binh_thanh"
+  },
+  {
+    "code": "21826",
+    "name": "Tây An",
+    "name_en": "Tay An",
+    "full_name": "Xã Tây An",
+    "full_name_en": "Tay An Commune",
+    "type": "xã",
+    "district_code": "547",
+    "codename": "tay_an"
+  },
+  {
+    "code": "21829",
+    "name": "Bình Hòa",
+    "name_en": "Binh Hoa",
+    "full_name": "Xã Bình Hòa",
+    "full_name_en": "Binh Hoa Commune",
+    "type": "xã",
+    "district_code": "547",
+    "codename": "binh_hoa"
+  },
+  {
+    "code": "21832",
+    "name": "Tây Bình",
+    "name_en": "Tay Binh",
+    "full_name": "Xã Tây Bình",
+    "full_name_en": "Tay Binh Commune",
+    "type": "xã",
+    "district_code": "547",
+    "codename": "tay_binh"
+  },
+  {
+    "code": "21835",
+    "name": "Bình Tường",
+    "name_en": "Binh Tuong",
+    "full_name": "Xã Bình Tường",
+    "full_name_en": "Binh Tuong Commune",
+    "type": "xã",
+    "district_code": "547",
+    "codename": "binh_tuong"
+  },
+  {
+    "code": "21838",
+    "name": "Tây Vinh",
+    "name_en": "Tay Vinh",
+    "full_name": "Xã Tây Vinh",
+    "full_name_en": "Tay Vinh Commune",
+    "type": "xã",
+    "district_code": "547",
+    "codename": "tay_vinh"
+  },
+  {
+    "code": "21841",
+    "name": "Vĩnh An",
+    "name_en": "Vinh An",
+    "full_name": "Xã Vĩnh An",
+    "full_name_en": "Vinh An Commune",
+    "type": "xã",
+    "district_code": "547",
+    "codename": "vinh_an"
+  },
+  {
+    "code": "21844",
+    "name": "Tây Xuân",
+    "name_en": "Tay Xuan",
+    "full_name": "Xã Tây Xuân",
+    "full_name_en": "Tay Xuan Commune",
+    "type": "xã",
+    "district_code": "547",
+    "codename": "tay_xuan"
+  },
+  {
+    "code": "21847",
+    "name": "Bình Nghi",
+    "name_en": "Binh Nghi",
+    "full_name": "Xã Bình Nghi",
+    "full_name_en": "Binh Nghi Commune",
+    "type": "xã",
+    "district_code": "547",
+    "codename": "binh_nghi"
+  },
+  {
+    "code": "21850",
+    "name": "Tây Phú",
+    "name_en": "Tay Phu",
+    "full_name": "Xã Tây Phú",
+    "full_name_en": "Tay Phu Commune",
+    "type": "xã",
+    "district_code": "547",
+    "codename": "tay_phu"
+  }
+]

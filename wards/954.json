@@ -1,0 +1,102 @@
+[
+  {
+    "code": "31813",
+    "name": "2",
+    "name_en": "2",
+    "full_name": "Phường 2",
+    "full_name_en": "Ward 2",
+    "type": "phường",
+    "district_code": "954",
+    "codename": "2"
+  },
+  {
+    "code": "31816",
+    "name": "3",
+    "name_en": "3",
+    "full_name": "Phường 3",
+    "full_name_en": "Ward 3",
+    "type": "phường",
+    "district_code": "954",
+    "codename": "3"
+  },
+  {
+    "code": "31819",
+    "name": "5",
+    "name_en": "5",
+    "full_name": "Phường 5",
+    "full_name_en": "Ward 5",
+    "type": "phường",
+    "district_code": "954",
+    "codename": "5"
+  },
+  {
+    "code": "31822",
+    "name": "7",
+    "name_en": "7",
+    "full_name": "Phường 7",
+    "full_name_en": "Ward 7",
+    "type": "phường",
+    "district_code": "954",
+    "codename": "7"
+  },
+  {
+    "code": "31825",
+    "name": "1",
+    "name_en": "1",
+    "full_name": "Phường 1",
+    "full_name_en": "Ward 1",
+    "type": "phường",
+    "district_code": "954",
+    "codename": "1"
+  },
+  {
+    "code": "31828",
+    "name": "8",
+    "name_en": "8",
+    "full_name": "Phường 8",
+    "full_name_en": "Ward 8",
+    "type": "phường",
+    "district_code": "954",
+    "codename": "8"
+  },
+  {
+    "code": "31831",
+    "name": "Nhà Mát",
+    "name_en": "Nha Mat",
+    "full_name": "Phường Nhà Mát",
+    "full_name_en": "Nha Mat Ward",
+    "type": "phường",
+    "district_code": "954",
+    "codename": "nha_mat"
+  },
+  {
+    "code": "31834",
+    "name": "Vĩnh Trạch",
+    "name_en": "Vinh Trach",
+    "full_name": "Xã Vĩnh Trạch",
+    "full_name_en": "Vinh Trach Commune",
+    "type": "xã",
+    "district_code": "954",
+    "codename": "vinh_trach"
+  },
+  {
+    "code": "31837",
+    "name": "Vĩnh Trạch Đông",
+    "name_en": "Vinh Trach Dong",
+    "full_name": "Xã Vĩnh Trạch Đông",
+    "full_name_en": "Vinh Trach Dong Commune",
+    "type": "xã",
+    "district_code": "954",
+    "codename": "vinh_trach_dong"
+  },
+  {
+    "code": "31840",
+    "name": "Hiệp Thành",
+    "name_en": "Hiep Thanh",
+    "full_name": "Xã Hiệp Thành",
+    "full_name_en": "Hiep Thanh Commune",
+    "type": "xã",
+    "district_code": "954",
+    "codename": "hiep_thanh"
+  }
+]

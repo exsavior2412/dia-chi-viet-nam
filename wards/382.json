@@ -1,0 +1,102 @@
+[
+  {
+    "code": "14830",
+    "name": "Trung Sơn",
+    "name_en": "Trung Son",
+    "full_name": "Phường Trung Sơn",
+    "full_name_en": "Trung Son Ward",
+    "type": "phường",
+    "district_code": "382",
+    "codename": "trung_son"
+  },
+  {
+    "code": "14833",
+    "name": "Bắc Sơn",
+    "name_en": "Bac Son",
+    "full_name": "Phường Bắc Sơn",
+    "full_name_en": "Bac Son Ward",
+    "type": "phường",
+    "district_code": "382",
+    "codename": "bac_son"
+  },
+  {
+    "code": "14836",
+    "name": "Trường Sơn",
+    "name_en": "Truong Son",
+    "full_name": "Phường Trường Sơn",
+    "full_name_en": "Truong Son Ward",
+    "type": "phường",
+    "district_code": "382",
+    "codename": "truong_son"
+  },
+  {
+    "code": "14839",
+    "name": "Quảng Cư",
+    "name_en": "Quang Cu",
+    "full_name": "Phường Quảng Cư",
+    "full_name_en": "Quang Cu Ward",
+    "type": "phường",
+    "district_code": "382",
+    "codename": "quang_cu"
+  },
+  {
+    "code": "14842",
+    "name": "Quảng Tiến",
+    "name_en": "Quang Tien",
+    "full_name": "Phường Quảng Tiến",
+    "full_name_en": "Quang Tien Ward",
+    "type": "phường",
+    "district_code": "382",
+    "codename": "quang_tien"
+  },
+  {
+    "code": "16513",
+    "name": "Quảng Minh",
+    "name_en": "Quang Minh",
+    "full_name": "Xã Quảng Minh",
+    "full_name_en": "Quang Minh Commune",
+    "type": "xã",
+    "district_code": "382",
+    "codename": "quang_minh"
+  },
+  {
+    "code": "16516",
+    "name": "Đại Hùng",
+    "name_en": "Dai Hung",
+    "full_name": "Xã Đại Hùng",
+    "full_name_en": "Dai Hung Commune",
+    "type": "xã",
+    "district_code": "382",
+    "codename": "dai_hung"
+  },
+  {
+    "code": "16528",
+    "name": "Quảng Thọ",
+    "name_en": "Quang Tho",
+    "full_name": "Phường Quảng Thọ",
+    "full_name_en": "Quang Tho Ward",
+    "type": "phường",
+    "district_code": "382",
+    "codename": "quang_tho"
+  },
+  {
+    "code": "16531",
+    "name": "Quảng Châu",
+    "name_en": "Quang Chau",
+    "full_name": "Phường Quảng Châu",
+    "full_name_en": "Quang Chau Ward",
+    "type": "phường",
+    "district_code": "382",
+    "codename": "quang_chau"
+  },
+  {
+    "code": "16534",
+    "name": "Quảng Vinh",
+    "name_en": "Quang Vinh",
+    "full_name": "Phường Quảng Vinh",
+    "full_name_en": "Quang Vinh Ward",
+    "type": "phường",
+    "district_code": "382",
+    "codename": "quang_vinh"
+  }
+]

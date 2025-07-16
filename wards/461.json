@@ -1,0 +1,92 @@
+[
+  {
+    "code": "19330",
+    "name": "Đông Giang",
+    "name_en": "Dong Giang",
+    "full_name": "Phường Đông Giang",
+    "full_name_en": "Dong Giang Ward",
+    "type": "phường",
+    "district_code": "461",
+    "codename": "dong_giang"
+  },
+  {
+    "code": "19333",
+    "name": "1",
+    "name_en": "1",
+    "full_name": "Phường 1",
+    "full_name_en": "Ward 1",
+    "type": "phường",
+    "district_code": "461",
+    "codename": "1"
+  },
+  {
+    "code": "19336",
+    "name": "Đông Lễ",
+    "name_en": "Dong Le",
+    "full_name": "Phường Đông Lễ",
+    "full_name_en": "Dong Le Ward",
+    "type": "phường",
+    "district_code": "461",
+    "codename": "dong_le"
+  },
+  {
+    "code": "19339",
+    "name": "Đông Thanh",
+    "name_en": "Dong Thanh",
+    "full_name": "Phường Đông Thanh",
+    "full_name_en": "Dong Thanh Ward",
+    "type": "phường",
+    "district_code": "461",
+    "codename": "dong_thanh"
+  },
+  {
+    "code": "19342",
+    "name": "2",
+    "name_en": "2",
+    "full_name": "Phường 2",
+    "full_name_en": "Ward 2",
+    "type": "phường",
+    "district_code": "461",
+    "codename": "2"
+  },
+  {
+    "code": "19345",
+    "name": "4",
+    "name_en": "4",
+    "full_name": "Phường 4",
+    "full_name_en": "Ward 4",
+    "type": "phường",
+    "district_code": "461",
+    "codename": "4"
+  },
+  {
+    "code": "19348",
+    "name": "5",
+    "name_en": "5",
+    "full_name": "Phường 5",
+    "full_name_en": "Ward 5",
+    "type": "phường",
+    "district_code": "461",
+    "codename": "5"
+  },
+  {
+    "code": "19351",
+    "name": "Đông Lương",
+    "name_en": "Dong Luong",
+    "full_name": "Phường Đông Lương",
+    "full_name_en": "Dong Luong Ward",
+    "type": "phường",
+    "district_code": "461",
+    "codename": "dong_luong"
+  },
+  {
+    "code": "19354",
+    "name": "3",
+    "name_en": "3",
+    "full_name": "Phường 3",
+    "full_name_en": "Ward 3",
+    "type": "phường",
+    "district_code": "461",
+    "codename": "3"
+  }
+]

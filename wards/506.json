@@ -1,0 +1,182 @@
+[
+  {
+    "code": "20500",
+    "name": "Ái Nghĩa",
+    "name_en": "Ai Nghia",
+    "full_name": "Thị trấn Ái Nghĩa",
+    "full_name_en": "Ai Nghia Township",
+    "type": "thị trấn",
+    "district_code": "506",
+    "codename": "ai_nghia"
+  },
+  {
+    "code": "20503",
+    "name": "Đại Sơn",
+    "name_en": "Dai Son",
+    "full_name": "Xã Đại Sơn",
+    "full_name_en": "Dai Son Commune",
+    "type": "xã",
+    "district_code": "506",
+    "codename": "dai_son"
+  },
+  {
+    "code": "20506",
+    "name": "Đại Lãnh",
+    "name_en": "Dai Lanh",
+    "full_name": "Xã Đại Lãnh",
+    "full_name_en": "Dai Lanh Commune",
+    "type": "xã",
+    "district_code": "506",
+    "codename": "dai_lanh"
+  },
+  {
+    "code": "20509",
+    "name": "Đại Hưng",
+    "name_en": "Dai Hung",
+    "full_name": "Xã Đại Hưng",
+    "full_name_en": "Dai Hung Commune",
+    "type": "xã",
+    "district_code": "506",
+    "codename": "dai_hung"
+  },
+  {
+    "code": "20512",
+    "name": "Đại Hồng",
+    "name_en": "Dai Hong",
+    "full_name": "Xã Đại Hồng",
+    "full_name_en": "Dai Hong Commune",
+    "type": "xã",
+    "district_code": "506",
+    "codename": "dai_hong"
+  },
+  {
+    "code": "20515",
+    "name": "Đại Đồng",
+    "name_en": "Dai Dong",
+    "full_name": "Xã Đại Đồng",
+    "full_name_en": "Dai Dong Commune",
+    "type": "xã",
+    "district_code": "506",
+    "codename": "dai_dong"
+  },
+  {
+    "code": "20518",
+    "name": "Đại Quang",
+    "name_en": "Dai Quang",
+    "full_name": "Xã Đại Quang",
+    "full_name_en": "Dai Quang Commune",
+    "type": "xã",
+    "district_code": "506",
+    "codename": "dai_quang"
+  },
+  {
+    "code": "20521",
+    "name": "Đại Nghĩa",
+    "name_en": "Dai Nghia",
+    "full_name": "Xã Đại Nghĩa",
+    "full_name_en": "Dai Nghia Commune",
+    "type": "xã",
+    "district_code": "506",
+    "codename": "dai_nghia"
+  },
+  {
+    "code": "20524",
+    "name": "Đại Hiệp",
+    "name_en": "Dai Hiep",
+    "full_name": "Xã Đại Hiệp",
+    "full_name_en": "Dai Hiep Commune",
+    "type": "xã",
+    "district_code": "506",
+    "codename": "dai_hiep"
+  },
+  {
+    "code": "20527",
+    "name": "Đại Thạnh",
+    "name_en": "Dai Thanh",
+    "full_name": "Xã Đại Thạnh",
+    "full_name_en": "Dai Thanh Commune",
+    "type": "xã",
+    "district_code": "506",
+    "codename": "dai_thanh"
+  },
+  {
+    "code": "20530",
+    "name": "Đại Chánh",
+    "name_en": "Dai Chanh",
+    "full_name": "Xã Đại Chánh",
+    "full_name_en": "Dai Chanh Commune",
+    "type": "xã",
+    "district_code": "506",
+    "codename": "dai_chanh"
+  },
+  {
+    "code": "20533",
+    "name": "Đại Tân",
+    "name_en": "Dai Tan",
+    "full_name": "Xã Đại Tân",
+    "full_name_en": "Dai Tan Commune",
+    "type": "xã",
+    "district_code": "506",
+    "codename": "dai_tan"
+  },
+  {
+    "code": "20536",
+    "name": "Đại Phong",
+    "name_en": "Dai Phong",
+    "full_name": "Xã Đại Phong",
+    "full_name_en": "Dai Phong Commune",
+    "type": "xã",
+    "district_code": "506",
+    "codename": "dai_phong"
+  },
+  {
+    "code": "20539",
+    "name": "Đại Minh",
+    "name_en": "Dai Minh",
+    "full_name": "Xã Đại Minh",
+    "full_name_en": "Dai Minh Commune",
+    "type": "xã",
+    "district_code": "506",
+    "codename": "dai_minh"
+  },
+  {
+    "code": "20542",
+    "name": "Đại Thắng",
+    "name_en": "Dai Thang",
+    "full_name": "Xã Đại Thắng",
+    "full_name_en": "Dai Thang Commune",
+    "type": "xã",
+    "district_code": "506",
+    "codename": "dai_thang"
+  },
+  {
+    "code": "20545",
+    "name": "Đại Cường",
+    "name_en": "Dai Cuong",
+    "full_name": "Xã Đại Cường",
+    "full_name_en": "Dai Cuong Commune",
+    "type": "xã",
+    "district_code": "506",
+    "codename": "dai_cuong"
+  },
+  {
+    "code": "20547",
+    "name": "Đại An",
+    "name_en": "Dai An",
+    "full_name": "Xã Đại An",
+    "full_name_en": "Dai An Commune",
+    "type": "xã",
+    "district_code": "506",
+    "codename": "dai_an"
+  },
+  {
+    "code": "20548",
+    "name": "Đại Hòa",
+    "name_en": "Dai Hoa",
+    "full_name": "Xã Đại Hòa",
+    "full_name_en": "Dai Hoa Commune",
+    "type": "xã",
+    "district_code": "506",
+    "codename": "dai_hoa"
+  }
+]

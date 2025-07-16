@@ -1,0 +1,122 @@
+[
+  {
+    "code": "12052",
+    "name": "Yên Mỹ",
+    "name_en": "Yen My",
+    "full_name": "Thị trấn Yên Mỹ",
+    "full_name_en": "Yen My Township",
+    "type": "thị trấn",
+    "district_code": "327",
+    "codename": "yen_my"
+  },
+  {
+    "code": "12055",
+    "name": "Nguyễn Văn Linh",
+    "name_en": "Nguyen Van Linh",
+    "full_name": "Xã Nguyễn Văn Linh",
+    "full_name_en": "Nguyen Van Linh Commune",
+    "type": "xã",
+    "district_code": "327",
+    "codename": "nguyen_van_linh"
+  },
+  {
+    "code": "12061",
+    "name": "Đồng Than",
+    "name_en": "Dong Than",
+    "full_name": "Xã Đồng Than",
+    "full_name_en": "Dong Than Commune",
+    "type": "xã",
+    "district_code": "327",
+    "codename": "dong_than"
+  },
+  {
+    "code": "12064",
+    "name": "Ngọc Long",
+    "name_en": "Ngoc Long",
+    "full_name": "Xã Ngọc Long",
+    "full_name_en": "Ngoc Long Commune",
+    "type": "xã",
+    "district_code": "327",
+    "codename": "ngoc_long"
+  },
+  {
+    "code": "12067",
+    "name": "Liêu Xá",
+    "name_en": "Lieu Xa",
+    "full_name": "Xã Liêu Xá",
+    "full_name_en": "Lieu Xa Commune",
+    "type": "xã",
+    "district_code": "327",
+    "codename": "lieu_xa"
+  },
+  {
+    "code": "12070",
+    "name": "Hoàn Long",
+    "name_en": "Hoan Long",
+    "full_name": "Xã Hoàn Long",
+    "full_name_en": "Hoan Long Commune",
+    "type": "xã",
+    "district_code": "327",
+    "codename": "hoan_long"
+  },
+  {
+    "code": "12073",
+    "name": "Tân Lập",
+    "name_en": "Tan Lap",
+    "full_name": "Xã Tân Lập",
+    "full_name_en": "Tan Lap Commune",
+    "type": "xã",
+    "district_code": "327",
+    "codename": "tan_lap"
+  },
+  {
+    "code": "12076",
+    "name": "Thanh Long",
+    "name_en": "Thanh Long",
+    "full_name": "Xã Thanh Long",
+    "full_name_en": "Thanh Long Commune",
+    "type": "xã",
+    "district_code": "327",
+    "codename": "thanh_long"
+  },
+  {
+    "code": "12079",
+    "name": "Yên Phú",
+    "name_en": "Yen Phu",
+    "full_name": "Xã Yên Phú",
+    "full_name_en": "Yen Phu Commune",
+    "type": "xã",
+    "district_code": "327",
+    "codename": "yen_phu"
+  },
+  {
+    "code": "12085",
+    "name": "Trung Hòa",
+    "name_en": "Trung Hoa",
+    "full_name": "Xã Trung Hòa",
+    "full_name_en": "Trung Hoa Commune",
+    "type": "xã",
+    "district_code": "327",
+    "codename": "trung_hoa"
+  },
+  {
+    "code": "12091",
+    "name": "Việt Yên",
+    "name_en": "Viet Yen",
+    "full_name": "Xã Việt Yên",
+    "full_name_en": "Viet Yen Commune",
+    "type": "xã",
+    "district_code": "327",
+    "codename": "viet_yen"
+  },
+  {
+    "code": "12100",
+    "name": "Tân Minh",
+    "name_en": "Tan Minh",
+    "full_name": "Xã Tân Minh",
+    "full_name_en": "Tan Minh Commune",
+    "type": "xã",
+    "district_code": "327",
+    "codename": "tan_minh"
+  }
+]

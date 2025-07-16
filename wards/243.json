@@ -1,0 +1,92 @@
+[
+  {
+    "code": "08707",
+    "name": "Tích Sơn",
+    "name_en": "Tich Son",
+    "full_name": "Phường Tích Sơn",
+    "full_name_en": "Tich Son Ward",
+    "type": "phường",
+    "district_code": "243",
+    "codename": "tich_son"
+  },
+  {
+    "code": "08710",
+    "name": "Liên Bảo",
+    "name_en": "Lien Bao",
+    "full_name": "Phường Liên Bảo",
+    "full_name_en": "Lien Bao Ward",
+    "type": "phường",
+    "district_code": "243",
+    "codename": "lien_bao"
+  },
+  {
+    "code": "08713",
+    "name": "Hội Hợp",
+    "name_en": "Hoi Hop",
+    "full_name": "Phường Hội Hợp",
+    "full_name_en": "Hoi Hop Ward",
+    "type": "phường",
+    "district_code": "243",
+    "codename": "hoi_hop"
+  },
+  {
+    "code": "08716",
+    "name": "Đống Đa",
+    "name_en": "Dong Da",
+    "full_name": "Phường Đống Đa",
+    "full_name_en": "Dong Da Ward",
+    "type": "phường",
+    "district_code": "243",
+    "codename": "dong_da"
+  },
+  {
+    "code": "08719",
+    "name": "Ngô Quyền",
+    "name_en": "Ngo Quyen",
+    "full_name": "Phường Ngô Quyền",
+    "full_name_en": "Ngo Quyen Ward",
+    "type": "phường",
+    "district_code": "243",
+    "codename": "ngo_quyen"
+  },
+  {
+    "code": "08722",
+    "name": "Đồng Tâm",
+    "name_en": "Dong Tam",
+    "full_name": "Phường Đồng Tâm",
+    "full_name_en": "Dong Tam Ward",
+    "type": "phường",
+    "district_code": "243",
+    "codename": "dong_tam"
+  },
+  {
+    "code": "08725",
+    "name": "Định Trung",
+    "name_en": "Dinh Trung",
+    "full_name": "Phường Định Trung",
+    "full_name_en": "Dinh Trung Ward",
+    "type": "phường",
+    "district_code": "243",
+    "codename": "dinh_trung"
+  },
+  {
+    "code": "08728",
+    "name": "Khai Quang",
+    "name_en": "Khai Quang",
+    "full_name": "Phường Khai Quang",
+    "full_name_en": "Khai Quang Ward",
+    "type": "phường",
+    "district_code": "243",
+    "codename": "khai_quang"
+  },
+  {
+    "code": "08731",
+    "name": "Thanh Trù",
+    "name_en": "Thanh Tru",
+    "full_name": "Xã Thanh Trù",
+    "full_name_en": "Thanh Tru Commune",
+    "type": "xã",
+    "district_code": "243",
+    "codename": "thanh_tru"
+  }
+]

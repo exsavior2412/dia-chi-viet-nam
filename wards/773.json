@@ -1,0 +1,102 @@
+[
+  {
+    "code": "27259",
+    "name": "13",
+    "name_en": "13",
+    "full_name": "Phường 13",
+    "full_name_en": "Ward 13",
+    "type": "phường",
+    "district_code": "773",
+    "codename": "13"
+  },
+  {
+    "code": "27265",
+    "name": "9",
+    "name_en": "9",
+    "full_name": "Phường 9",
+    "full_name_en": "Ward 9",
+    "type": "phường",
+    "district_code": "773",
+    "codename": "9"
+  },
+  {
+    "code": "27271",
+    "name": "8",
+    "name_en": "8",
+    "full_name": "Phường 8",
+    "full_name_en": "Ward 8",
+    "type": "phường",
+    "district_code": "773",
+    "codename": "8"
+  },
+  {
+    "code": "27277",
+    "name": "18",
+    "name_en": "18",
+    "full_name": "Phường 18",
+    "full_name_en": "Ward 18",
+    "type": "phường",
+    "district_code": "773",
+    "codename": "18"
+  },
+  {
+    "code": "27283",
+    "name": "4",
+    "name_en": "4",
+    "full_name": "Phường 4",
+    "full_name_en": "Ward 4",
+    "type": "phường",
+    "district_code": "773",
+    "codename": "4"
+  },
+  {
+    "code": "27286",
+    "name": "3",
+    "name_en": "3",
+    "full_name": "Phường 3",
+    "full_name_en": "Ward 3",
+    "type": "phường",
+    "district_code": "773",
+    "codename": "3"
+  },
+  {
+    "code": "27289",
+    "name": "16",
+    "name_en": "16",
+    "full_name": "Phường 16",
+    "full_name_en": "Ward 16",
+    "type": "phường",
+    "district_code": "773",
+    "codename": "16"
+  },
+  {
+    "code": "27292",
+    "name": "2",
+    "name_en": "2",
+    "full_name": "Phường 2",
+    "full_name_en": "Ward 2",
+    "type": "phường",
+    "district_code": "773",
+    "codename": "2"
+  },
+  {
+    "code": "27295",
+    "name": "15",
+    "name_en": "15",
+    "full_name": "Phường 15",
+    "full_name_en": "Ward 15",
+    "type": "phường",
+    "district_code": "773",
+    "codename": "15"
+  },
+  {
+    "code": "27298",
+    "name": "1",
+    "name_en": "1",
+    "full_name": "Phường 1",
+    "full_name_en": "Ward 1",
+    "type": "phường",
+    "district_code": "773",
+    "codename": "1"
+  }
+]

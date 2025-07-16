@@ -1,0 +1,92 @@
+[
+  {
+    "code": "32212",
+    "name": "Cái Đôi Vàm",
+    "name_en": "Cai Doi Vam",
+    "full_name": "Thị trấn Cái Đôi Vàm",
+    "full_name_en": "Cai Doi Vam Township",
+    "type": "thị trấn",
+    "district_code": "972",
+    "codename": "cai_doi_vam"
+  },
+  {
+    "code": "32214",
+    "name": "Phú Thuận",
+    "name_en": "Phu Thuan",
+    "full_name": "Xã Phú Thuận",
+    "full_name_en": "Phu Thuan Commune",
+    "type": "xã",
+    "district_code": "972",
+    "codename": "phu_thuan"
+  },
+  {
+    "code": "32215",
+    "name": "Phú Mỹ",
+    "name_en": "Phu My",
+    "full_name": "Xã Phú Mỹ",
+    "full_name_en": "Phu My Commune",
+    "type": "xã",
+    "district_code": "972",
+    "codename": "phu_my"
+  },
+  {
+    "code": "32218",
+    "name": "Phú Tân",
+    "name_en": "Phu Tan",
+    "full_name": "Xã Phú Tân",
+    "full_name_en": "Phu Tan Commune",
+    "type": "xã",
+    "district_code": "972",
+    "codename": "phu_tan"
+  },
+  {
+    "code": "32221",
+    "name": "Tân Hải",
+    "name_en": "Tan Hai",
+    "full_name": "Xã Tân Hải",
+    "full_name_en": "Tan Hai Commune",
+    "type": "xã",
+    "district_code": "972",
+    "codename": "tan_hai"
+  },
+  {
+    "code": "32224",
+    "name": "Việt Thắng",
+    "name_en": "Viet Thang",
+    "full_name": "Xã Việt Thắng",
+    "full_name_en": "Viet Thang Commune",
+    "type": "xã",
+    "district_code": "972",
+    "codename": "viet_thang"
+  },
+  {
+    "code": "32227",
+    "name": "Tân Hưng Tây",
+    "name_en": "Tan Hung Tay",
+    "full_name": "Xã Tân Hưng Tây",
+    "full_name_en": "Tan Hung Tay Commune",
+    "type": "xã",
+    "district_code": "972",
+    "codename": "tan_hung_tay"
+  },
+  {
+    "code": "32228",
+    "name": "Rạch Chèo",
+    "name_en": "Rach Cheo",
+    "full_name": "Xã Rạch Chèo",
+    "full_name_en": "Rach Cheo Commune",
+    "type": "xã",
+    "district_code": "972",
+    "codename": "rach_cheo"
+  },
+  {
+    "code": "32230",
+    "name": "Nguyễn Việt Khái",
+    "name_en": "Nguyen Viet Khai",
+    "full_name": "Xã Nguyễn Việt Khái",
+    "full_name_en": "Nguyen Viet Khai Commune",
+    "type": "xã",
+    "district_code": "972",
+    "codename": "nguyen_viet_khai"
+  }
+]

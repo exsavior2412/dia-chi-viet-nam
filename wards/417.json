@@ -1,0 +1,212 @@
+[
+  {
+    "code": "16813",
+    "name": "Mường Xén",
+    "name_en": "Muong Xen",
+    "full_name": "Thị trấn Mường Xén",
+    "full_name_en": "Muong Xen Township",
+    "type": "thị trấn",
+    "district_code": "417",
+    "codename": "muong_xen"
+  },
+  {
+    "code": "16816",
+    "name": "Mỹ Lý",
+    "name_en": "My Ly",
+    "full_name": "Xã Mỹ Lý",
+    "full_name_en": "My Ly Commune",
+    "type": "xã",
+    "district_code": "417",
+    "codename": "my_ly"
+  },
+  {
+    "code": "16819",
+    "name": "Bắc Lý",
+    "name_en": "Bac Ly",
+    "full_name": "Xã Bắc Lý",
+    "full_name_en": "Bac Ly Commune",
+    "type": "xã",
+    "district_code": "417",
+    "codename": "bac_ly"
+  },
+  {
+    "code": "16822",
+    "name": "Keng Đu",
+    "name_en": "Keng Du",
+    "full_name": "Xã Keng Đu",
+    "full_name_en": "Keng Du Commune",
+    "type": "xã",
+    "district_code": "417",
+    "codename": "keng_du"
+  },
+  {
+    "code": "16825",
+    "name": "Đoọc Mạy",
+    "name_en": "Dooc May",
+    "full_name": "Xã Đoọc Mạy",
+    "full_name_en": "Dooc May Commune",
+    "type": "xã",
+    "district_code": "417",
+    "codename": "dooc_may"
+  },
+  {
+    "code": "16828",
+    "name": "Huồi Tụ",
+    "name_en": "Huoi Tu",
+    "full_name": "Xã Huồi Tụ",
+    "full_name_en": "Huoi Tu Commune",
+    "type": "xã",
+    "district_code": "417",
+    "codename": "huoi_tu"
+  },
+  {
+    "code": "16831",
+    "name": "Mường Lống",
+    "name_en": "Muong Long",
+    "full_name": "Xã Mường Lống",
+    "full_name_en": "Muong Long Commune",
+    "type": "xã",
+    "district_code": "417",
+    "codename": "muong_long"
+  },
+  {
+    "code": "16834",
+    "name": "Na Loi",
+    "name_en": "Na Loi",
+    "full_name": "Xã Na Loi",
+    "full_name_en": "Na Loi Commune",
+    "type": "xã",
+    "district_code": "417",
+    "codename": "na_loi"
+  },
+  {
+    "code": "16837",
+    "name": "Nậm Cắn",
+    "name_en": "Nam Can",
+    "full_name": "Xã Nậm Cắn",
+    "full_name_en": "Nam Can Commune",
+    "type": "xã",
+    "district_code": "417",
+    "codename": "nam_can"
+  },
+  {
+    "code": "16840",
+    "name": "Bảo Nam",
+    "name_en": "Bao Nam",
+    "full_name": "Xã Bảo Nam",
+    "full_name_en": "Bao Nam Commune",
+    "type": "xã",
+    "district_code": "417",
+    "codename": "bao_nam"
+  },
+  {
+    "code": "16843",
+    "name": "Phà Đánh",
+    "name_en": "Pha Danh",
+    "full_name": "Xã Phà Đánh",
+    "full_name_en": "Pha Danh Commune",
+    "type": "xã",
+    "district_code": "417",
+    "codename": "pha_danh"
+  },
+  {
+    "code": "16846",
+    "name": "Bảo Thắng",
+    "name_en": "Bao Thang",
+    "full_name": "Xã Bảo Thắng",
+    "full_name_en": "Bao Thang Commune",
+    "type": "xã",
+    "district_code": "417",
+    "codename": "bao_thang"
+  },
+  {
+    "code": "16849",
+    "name": "Hữu Lập",
+    "name_en": "Huu Lap",
+    "full_name": "Xã Hữu Lập",
+    "full_name_en": "Huu Lap Commune",
+    "type": "xã",
+    "district_code": "417",
+    "codename": "huu_lap"
+  },
+  {
+    "code": "16852",
+    "name": "Tà Cạ",
+    "name_en": "Ta Ca",
+    "full_name": "Xã Tà Cạ",
+    "full_name_en": "Ta Ca Commune",
+    "type": "xã",
+    "district_code": "417",
+    "codename": "ta_ca"
+  },
+  {
+    "code": "16855",
+    "name": "Chiêu Lưu",
+    "name_en": "Chieu Luu",
+    "full_name": "Xã Chiêu Lưu",
+    "full_name_en": "Chieu Luu Commune",
+    "type": "xã",
+    "district_code": "417",
+    "codename": "chieu_luu"
+  },
+  {
+    "code": "16858",
+    "name": "Mường Típ",
+    "name_en": "Muong Tip",
+    "full_name": "Xã Mường Típ",
+    "full_name_en": "Muong Tip Commune",
+    "type": "xã",
+    "district_code": "417",
+    "codename": "muong_tip"
+  },
+  {
+    "code": "16861",
+    "name": "Hữu Kiệm",
+    "name_en": "Huu Kiem",
+    "full_name": "Xã Hữu Kiệm",
+    "full_name_en": "Huu Kiem Commune",
+    "type": "xã",
+    "district_code": "417",
+    "codename": "huu_kiem"
+  },
+  {
+    "code": "16864",
+    "name": "Tây Sơn",
+    "name_en": "Tay Son",
+    "full_name": "Xã Tây Sơn",
+    "full_name_en": "Tay Son Commune",
+    "type": "xã",
+    "district_code": "417",
+    "codename": "tay_son"
+  },
+  {
+    "code": "16867",
+    "name": "Mường Ải",
+    "name_en": "Muong Ai",
+    "full_name": "Xã Mường Ải",
+    "full_name_en": "Muong Ai Commune",
+    "type": "xã",
+    "district_code": "417",
+    "codename": "muong_ai"
+  },
+  {
+    "code": "16870",
+    "name": "Na Ngoi",
+    "name_en": "Na Ngoi",
+    "full_name": "Xã Na Ngoi",
+    "full_name_en": "Na Ngoi Commune",
+    "type": "xã",
+    "district_code": "417",
+    "codename": "na_ngoi"
+  },
+  {
+    "code": "16873",
+    "name": "Nậm Càn",
+    "name_en": "Nam Can",
+    "full_name": "Xã Nậm Càn",
+    "full_name_en": "Nam Can Commune",
+    "type": "xã",
+    "district_code": "417",
+    "codename": "nam_can"
+  }
+]

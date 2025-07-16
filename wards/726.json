@@ -1,0 +1,102 @@
+[
+  {
+    "code": "25894",
+    "name": "Tân Định",
+    "name_en": "Tan Dinh",
+    "full_name": "Xã Tân Định",
+    "full_name_en": "Tan Dinh Commune",
+    "type": "xã",
+    "district_code": "726",
+    "codename": "tan_dinh"
+  },
+  {
+    "code": "25897",
+    "name": "Bình Mỹ",
+    "name_en": "Binh My",
+    "full_name": "Xã Bình Mỹ",
+    "full_name_en": "Binh My Commune",
+    "type": "xã",
+    "district_code": "726",
+    "codename": "binh_my"
+  },
+  {
+    "code": "25900",
+    "name": "Tân Bình",
+    "name_en": "Tan Binh",
+    "full_name": "Thị trấn Tân Bình",
+    "full_name_en": "Tan Binh Township",
+    "type": "thị trấn",
+    "district_code": "726",
+    "codename": "tan_binh"
+  },
+  {
+    "code": "25903",
+    "name": "Tân Lập",
+    "name_en": "Tan Lap",
+    "full_name": "Xã Tân Lập",
+    "full_name_en": "Tan Lap Commune",
+    "type": "xã",
+    "district_code": "726",
+    "codename": "tan_lap"
+  },
+  {
+    "code": "25906",
+    "name": "Tân Thành",
+    "name_en": "Tan Thanh",
+    "full_name": "Thị trấn Tân Thành",
+    "full_name_en": "Tan Thanh Township",
+    "type": "thị trấn",
+    "district_code": "726",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "25907",
+    "name": "Đất Cuốc",
+    "name_en": "Dat Cuoc",
+    "full_name": "Xã Đất Cuốc",
+    "full_name_en": "Dat Cuoc Commune",
+    "type": "xã",
+    "district_code": "726",
+    "codename": "dat_cuoc"
+  },
+  {
+    "code": "25908",
+    "name": "Hiếu Liêm",
+    "name_en": "Hieu Liem",
+    "full_name": "Xã Hiếu Liêm",
+    "full_name_en": "Hieu Liem Commune",
+    "type": "xã",
+    "district_code": "726",
+    "codename": "hieu_liem"
+  },
+  {
+    "code": "25909",
+    "name": "Lạc An",
+    "name_en": "Lac An",
+    "full_name": "Xã Lạc An",
+    "full_name_en": "Lac An Commune",
+    "type": "xã",
+    "district_code": "726",
+    "codename": "lac_an"
+  },
+  {
+    "code": "25918",
+    "name": "Tân Mỹ",
+    "name_en": "Tan My",
+    "full_name": "Xã Tân Mỹ",
+    "full_name_en": "Tan My Commune",
+    "type": "xã",
+    "district_code": "726",
+    "codename": "tan_my"
+  },
+  {
+    "code": "25927",
+    "name": "Thường Tân",
+    "name_en": "Thuong Tan",
+    "full_name": "Xã Thường Tân",
+    "full_name_en": "Thuong Tan Commune",
+    "type": "xã",
+    "district_code": "726",
+    "codename": "thuong_tan"
+  }
+]

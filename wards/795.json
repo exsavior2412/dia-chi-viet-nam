@@ -1,0 +1,82 @@
+[
+  {
+    "code": "27787",
+    "name": "1",
+    "name_en": "1",
+    "full_name": "Phường 1",
+    "full_name_en": "Ward 1",
+    "type": "phường",
+    "district_code": "795",
+    "codename": "1"
+  },
+  {
+    "code": "27788",
+    "name": "2",
+    "name_en": "2",
+    "full_name": "Phường 2",
+    "full_name_en": "Ward 2",
+    "type": "phường",
+    "district_code": "795",
+    "codename": "2"
+  },
+  {
+    "code": "27790",
+    "name": "Thạnh Trị",
+    "name_en": "Thanh Tri",
+    "full_name": "Xã Thạnh Trị",
+    "full_name_en": "Thanh Tri Commune",
+    "type": "xã",
+    "district_code": "795",
+    "codename": "thanh_tri"
+  },
+  {
+    "code": "27793",
+    "name": "Bình Hiệp",
+    "name_en": "Binh Hiep",
+    "full_name": "Xã Bình Hiệp",
+    "full_name_en": "Binh Hiep Commune",
+    "type": "xã",
+    "district_code": "795",
+    "codename": "binh_hiep"
+  },
+  {
+    "code": "27799",
+    "name": "Bình Tân",
+    "name_en": "Binh Tan",
+    "full_name": "Xã Bình Tân",
+    "full_name_en": "Binh Tan Commune",
+    "type": "xã",
+    "district_code": "795",
+    "codename": "binh_tan"
+  },
+  {
+    "code": "27805",
+    "name": "Tuyên Thạnh",
+    "name_en": "Tuyen Thanh",
+    "full_name": "Xã Tuyên Thạnh",
+    "full_name_en": "Tuyen Thanh Commune",
+    "type": "xã",
+    "district_code": "795",
+    "codename": "tuyen_thanh"
+  },
+  {
+    "code": "27806",
+    "name": "3",
+    "name_en": "3",
+    "full_name": "Phường 3",
+    "full_name_en": "Ward 3",
+    "type": "phường",
+    "district_code": "795",
+    "codename": "3"
+  },
+  {
+    "code": "27817",
+    "name": "Thạnh Hưng",
+    "name_en": "Thanh Hung",
+    "full_name": "Xã Thạnh Hưng",
+    "full_name_en": "Thanh Hung Commune",
+    "type": "xã",
+    "district_code": "795",
+    "codename": "thanh_hung"
+  }
+]

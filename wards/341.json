@@ -1,0 +1,362 @@
+[
+  {
+    "code": "12826",
+    "name": "Diêm Điền",
+    "name_en": "Diem Dien",
+    "full_name": "Thị trấn Diêm Điền",
+    "full_name_en": "Diem Dien Township",
+    "type": "thị trấn",
+    "district_code": "341",
+    "codename": "diem_dien"
+  },
+  {
+    "code": "12832",
+    "name": "Thụy Trường",
+    "name_en": "Thuy Truong",
+    "full_name": "Xã Thụy Trường",
+    "full_name_en": "Thuy Truong Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "thuy_truong"
+  },
+  {
+    "code": "12841",
+    "name": "Hồng Dũng",
+    "name_en": "Hong Dung",
+    "full_name": "Xã Hồng Dũng",
+    "full_name_en": "Hong Dung Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "hong_dung"
+  },
+  {
+    "code": "12844",
+    "name": "Thụy Quỳnh",
+    "name_en": "Thuy Quynh",
+    "full_name": "Xã Thụy Quỳnh",
+    "full_name_en": "Thuy Quynh Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "thuy_quynh"
+  },
+  {
+    "code": "12847",
+    "name": "An Tân",
+    "name_en": "An Tan",
+    "full_name": "Xã An Tân",
+    "full_name_en": "An Tan Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "an_tan"
+  },
+  {
+    "code": "12850",
+    "name": "Thụy Ninh",
+    "name_en": "Thuy Ninh",
+    "full_name": "Xã Thụy Ninh",
+    "full_name_en": "Thuy Ninh Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "thuy_ninh"
+  },
+  {
+    "code": "12853",
+    "name": "Thụy Hưng",
+    "name_en": "Thuy Hung",
+    "full_name": "Xã Thụy Hưng",
+    "full_name_en": "Thuy Hung Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "thuy_hung"
+  },
+  {
+    "code": "12856",
+    "name": "Thụy Việt",
+    "name_en": "Thuy Viet",
+    "full_name": "Xã Thụy Việt",
+    "full_name_en": "Thuy Viet Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "thuy_viet"
+  },
+  {
+    "code": "12859",
+    "name": "Thụy Văn",
+    "name_en": "Thuy Van",
+    "full_name": "Xã Thụy Văn",
+    "full_name_en": "Thuy Van Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "thuy_van"
+  },
+  {
+    "code": "12862",
+    "name": "Thụy Xuân",
+    "name_en": "Thuy Xuan",
+    "full_name": "Xã Thụy Xuân",
+    "full_name_en": "Thuy Xuan Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "thuy_xuan"
+  },
+  {
+    "code": "12865",
+    "name": "Dương Phúc",
+    "name_en": "Duong Phuc",
+    "full_name": "Xã Dương Phúc",
+    "full_name_en": "Duong Phuc Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "duong_phuc"
+  },
+  {
+    "code": "12868",
+    "name": "Thụy Trình",
+    "name_en": "Thuy Trinh",
+    "full_name": "Xã Thụy Trình",
+    "full_name_en": "Thuy Trinh Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "thuy_trinh"
+  },
+  {
+    "code": "12871",
+    "name": "Thụy Bình",
+    "name_en": "Thuy Binh",
+    "full_name": "Xã Thụy Bình",
+    "full_name_en": "Thuy Binh Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "thuy_binh"
+  },
+  {
+    "code": "12874",
+    "name": "Thụy Chính",
+    "name_en": "Thuy Chinh",
+    "full_name": "Xã Thụy Chính",
+    "full_name_en": "Thuy Chinh Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "thuy_chinh"
+  },
+  {
+    "code": "12877",
+    "name": "Thụy Dân",
+    "name_en": "Thuy Dan",
+    "full_name": "Xã Thụy Dân",
+    "full_name_en": "Thuy Dan Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "thuy_dan"
+  },
+  {
+    "code": "12880",
+    "name": "Thụy Hải",
+    "name_en": "Thuy Hai",
+    "full_name": "Xã Thụy Hải",
+    "full_name_en": "Thuy Hai Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "thuy_hai"
+  },
+  {
+    "code": "12889",
+    "name": "Thụy Liên",
+    "name_en": "Thuy Lien",
+    "full_name": "Xã Thụy Liên",
+    "full_name_en": "Thuy Lien Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "thuy_lien"
+  },
+  {
+    "code": "12892",
+    "name": "Thụy Duyên",
+    "name_en": "Thuy Duyen",
+    "full_name": "Xã Thụy Duyên",
+    "full_name_en": "Thuy Duyen Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "thuy_duyen"
+  },
+  {
+    "code": "12898",
+    "name": "Thụy Thanh",
+    "name_en": "Thuy Thanh",
+    "full_name": "Xã Thụy Thanh",
+    "full_name_en": "Thuy Thanh Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "thuy_thanh"
+  },
+  {
+    "code": "12901",
+    "name": "Thụy Sơn",
+    "name_en": "Thuy Son",
+    "full_name": "Xã Thụy Sơn",
+    "full_name_en": "Thuy Son Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "thuy_son"
+  },
+  {
+    "code": "12904",
+    "name": "Thụy Phong",
+    "name_en": "Thuy Phong",
+    "full_name": "Xã Thụy Phong",
+    "full_name_en": "Thuy Phong Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "thuy_phong"
+  },
+  {
+    "code": "12907",
+    "name": "Thái Thượng",
+    "name_en": "Thai Thuong",
+    "full_name": "Xã Thái Thượng",
+    "full_name_en": "Thai Thuong Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "thai_thuong"
+  },
+  {
+    "code": "12910",
+    "name": "Thái Nguyên",
+    "name_en": "Thai Nguyen",
+    "full_name": "Xã Thái Nguyên",
+    "full_name_en": "Thai Nguyen Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "thai_nguyen"
+  },
+  {
+    "code": "12916",
+    "name": "Dương Hồng Thủy",
+    "name_en": "Duong Hong Thuy",
+    "full_name": "Xã Dương Hồng Thủy",
+    "full_name_en": "Duong Hong Thuy Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "duong_hong_thuy"
+  },
+  {
+    "code": "12919",
+    "name": "Thái Giang",
+    "name_en": "Thai Giang",
+    "full_name": "Xã Thái Giang",
+    "full_name_en": "Thai Giang Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "thai_giang"
+  },
+  {
+    "code": "12922",
+    "name": "Hòa An",
+    "name_en": "Hoa An",
+    "full_name": "Xã Hòa An",
+    "full_name_en": "Hoa An Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "hoa_an"
+  },
+  {
+    "code": "12925",
+    "name": "Sơn Hà",
+    "name_en": "Son Ha",
+    "full_name": "Xã Sơn Hà",
+    "full_name_en": "Son Ha Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "son_ha"
+  },
+  {
+    "code": "12934",
+    "name": "Thái Phúc",
+    "name_en": "Thai Phuc",
+    "full_name": "Xã Thái Phúc",
+    "full_name_en": "Thai Phuc Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "thai_phuc"
+  },
+  {
+    "code": "12937",
+    "name": "Thái Hưng",
+    "name_en": "Thai Hung",
+    "full_name": "Xã Thái Hưng",
+    "full_name_en": "Thai Hung Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "thai_hung"
+  },
+  {
+    "code": "12940",
+    "name": "Thái Đô",
+    "name_en": "Thai Do",
+    "full_name": "Xã Thái Đô",
+    "full_name_en": "Thai Do Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "thai_do"
+  },
+  {
+    "code": "12943",
+    "name": "Thái Xuyên",
+    "name_en": "Thai Xuyen",
+    "full_name": "Xã Thái Xuyên",
+    "full_name_en": "Thai Xuyen Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "thai_xuyen"
+  },
+  {
+    "code": "12949",
+    "name": "Mỹ Lộc",
+    "name_en": "My Loc",
+    "full_name": "Xã Mỹ Lộc",
+    "full_name_en": "My Loc Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "my_loc"
+  },
+  {
+    "code": "12958",
+    "name": "Tân Học",
+    "name_en": "Tan Hoc",
+    "full_name": "Xã Tân Học",
+    "full_name_en": "Tan Hoc Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "tan_hoc"
+  },
+  {
+    "code": "12961",
+    "name": "Thái Thịnh",
+    "name_en": "Thai Thinh",
+    "full_name": "Xã Thái Thịnh",
+    "full_name_en": "Thai Thinh Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "thai_thinh"
+  },
+  {
+    "code": "12964",
+    "name": "Thuần Thành",
+    "name_en": "Thuan Thanh",
+    "full_name": "Xã Thuần Thành",
+    "full_name_en": "Thuan Thanh Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "thuan_thanh"
+  },
+  {
+    "code": "12967",
+    "name": "Thái Thọ",
+    "name_en": "Thai Tho",
+    "full_name": "Xã Thái Thọ",
+    "full_name_en": "Thai Tho Commune",
+    "type": "xã",
+    "district_code": "341",
+    "codename": "thai_tho"
+  }
+]

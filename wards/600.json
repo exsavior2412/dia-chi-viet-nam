@@ -1,0 +1,122 @@
+[
+  {
+    "code": "23191",
+    "name": "Võ Xu",
+    "name_en": "Vo Xu",
+    "full_name": "Thị trấn Võ Xu",
+    "full_name_en": "Vo Xu Township",
+    "type": "thị trấn",
+    "district_code": "600",
+    "codename": "vo_xu"
+  },
+  {
+    "code": "23194",
+    "name": "Đức Tài",
+    "name_en": "Duc Tai",
+    "full_name": "Thị trấn Đức Tài",
+    "full_name_en": "Duc Tai Township",
+    "type": "thị trấn",
+    "district_code": "600",
+    "codename": "duc_tai"
+  },
+  {
+    "code": "23197",
+    "name": "Đa Kai",
+    "name_en": "Da Kai",
+    "full_name": "Xã Đa Kai",
+    "full_name_en": "Da Kai Commune",
+    "type": "xã",
+    "district_code": "600",
+    "codename": "da_kai"
+  },
+  {
+    "code": "23200",
+    "name": "Sùng Nhơn",
+    "name_en": "Sung Nhon",
+    "full_name": "Xã Sùng Nhơn",
+    "full_name_en": "Sung Nhon Commune",
+    "type": "xã",
+    "district_code": "600",
+    "codename": "sung_nhon"
+  },
+  {
+    "code": "23203",
+    "name": "Mê Pu",
+    "name_en": "Me Pu",
+    "full_name": "Xã Mê Pu",
+    "full_name_en": "Me Pu Commune",
+    "type": "xã",
+    "district_code": "600",
+    "codename": "me_pu"
+  },
+  {
+    "code": "23206",
+    "name": "Nam Chính",
+    "name_en": "Nam Chinh",
+    "full_name": "Xã Nam Chính",
+    "full_name_en": "Nam Chinh Commune",
+    "type": "xã",
+    "district_code": "600",
+    "codename": "nam_chinh"
+  },
+  {
+    "code": "23212",
+    "name": "Đức Hạnh",
+    "name_en": "Duc Hanh",
+    "full_name": "Xã Đức Hạnh",
+    "full_name_en": "Duc Hanh Commune",
+    "type": "xã",
+    "district_code": "600",
+    "codename": "duc_hanh"
+  },
+  {
+    "code": "23215",
+    "name": "Đức Tín",
+    "name_en": "Duc Tin",
+    "full_name": "Xã Đức Tín",
+    "full_name_en": "Duc Tin Commune",
+    "type": "xã",
+    "district_code": "600",
+    "codename": "duc_tin"
+  },
+  {
+    "code": "23218",
+    "name": "Vũ Hoà",
+    "name_en": "Vu Hoa",
+    "full_name": "Xã Vũ Hoà",
+    "full_name_en": "Vu Hoa Commune",
+    "type": "xã",
+    "district_code": "600",
+    "codename": "vu_hoa"
+  },
+  {
+    "code": "23221",
+    "name": "Tân Hà",
+    "name_en": "Tan Ha",
+    "full_name": "Xã Tân Hà",
+    "full_name_en": "Tan Ha Commune",
+    "type": "xã",
+    "district_code": "600",
+    "codename": "tan_ha"
+  },
+  {
+    "code": "23224",
+    "name": "Đông Hà",
+    "name_en": "Dong Ha",
+    "full_name": "Xã Đông Hà",
+    "full_name_en": "Dong Ha Commune",
+    "type": "xã",
+    "district_code": "600",
+    "codename": "dong_ha"
+  },
+  {
+    "code": "23227",
+    "name": "Trà Tân",
+    "name_en": "Tra Tan",
+    "full_name": "Xã Trà Tân",
+    "full_name_en": "Tra Tan Commune",
+    "type": "xã",
+    "district_code": "600",
+    "codename": "tra_tan"
+  }
+]

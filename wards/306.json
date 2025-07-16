@@ -1,0 +1,82 @@
+[
+  {
+    "code": "11410",
+    "name": "Đông Hải 1",
+    "name_en": "Dong Hai 1",
+    "full_name": "Phường Đông Hải 1",
+    "full_name_en": "Ward Dong Hai 1",
+    "type": "phường",
+    "district_code": "306",
+    "codename": "dong_hai_1"
+  },
+  {
+    "code": "11411",
+    "name": "Đông Hải 2",
+    "name_en": "Dong Hai 2",
+    "full_name": "Phường Đông Hải 2",
+    "full_name_en": "Ward Dong Hai 2",
+    "type": "phường",
+    "district_code": "306",
+    "codename": "dong_hai_2"
+  },
+  {
+    "code": "11413",
+    "name": "Đằng Lâm",
+    "name_en": "Dang Lam",
+    "full_name": "Phường Đằng Lâm",
+    "full_name_en": "Dang Lam Ward",
+    "type": "phường",
+    "district_code": "306",
+    "codename": "dang_lam"
+  },
+  {
+    "code": "11414",
+    "name": "Thành Tô",
+    "name_en": "Thanh To",
+    "full_name": "Phường Thành Tô",
+    "full_name_en": "Thanh To Ward",
+    "type": "phường",
+    "district_code": "306",
+    "codename": "thanh_to"
+  },
+  {
+    "code": "11416",
+    "name": "Đằng Hải",
+    "name_en": "Dang Hai",
+    "full_name": "Phường Đằng Hải",
+    "full_name_en": "Dang Hai Ward",
+    "type": "phường",
+    "district_code": "306",
+    "codename": "dang_hai"
+  },
+  {
+    "code": "11419",
+    "name": "Nam Hải",
+    "name_en": "Nam Hai",
+    "full_name": "Phường Nam Hải",
+    "full_name_en": "Nam Hai Ward",
+    "type": "phường",
+    "district_code": "306",
+    "codename": "nam_hai"
+  },
+  {
+    "code": "11422",
+    "name": "Cát Bi",
+    "name_en": "Cat Bi",
+    "full_name": "Phường Cát Bi",
+    "full_name_en": "Cat Bi Ward",
+    "type": "phường",
+    "district_code": "306",
+    "codename": "cat_bi"
+  },
+  {
+    "code": "11425",
+    "name": "Tràng Cát",
+    "name_en": "Trang Cat",
+    "full_name": "Phường Tràng Cát",
+    "full_name_en": "Trang Cat Ward",
+    "type": "phường",
+    "district_code": "306",
+    "codename": "trang_cat"
+  }
+]

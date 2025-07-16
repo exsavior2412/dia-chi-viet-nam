@@ -1,0 +1,142 @@
+[
+  {
+    "code": "25741",
+    "name": "Hiệp Thành",
+    "name_en": "Hiep Thanh",
+    "full_name": "Phường Hiệp Thành",
+    "full_name_en": "Hiep Thanh Ward",
+    "type": "phường",
+    "district_code": "718",
+    "codename": "hiep_thanh"
+  },
+  {
+    "code": "25744",
+    "name": "Phú Lợi",
+    "name_en": "Phu Loi",
+    "full_name": "Phường Phú Lợi",
+    "full_name_en": "Phu Loi Ward",
+    "type": "phường",
+    "district_code": "718",
+    "codename": "phu_loi"
+  },
+  {
+    "code": "25747",
+    "name": "Phú Cường",
+    "name_en": "Phu Cuong",
+    "full_name": "Phường Phú Cường",
+    "full_name_en": "Phu Cuong Ward",
+    "type": "phường",
+    "district_code": "718",
+    "codename": "phu_cuong"
+  },
+  {
+    "code": "25750",
+    "name": "Phú Hòa",
+    "name_en": "Phu Hoa",
+    "full_name": "Phường Phú Hòa",
+    "full_name_en": "Phu Hoa Ward",
+    "type": "phường",
+    "district_code": "718",
+    "codename": "phu_hoa"
+  },
+  {
+    "code": "25753",
+    "name": "Phú Thọ",
+    "name_en": "Phu Tho",
+    "full_name": "Phường Phú Thọ",
+    "full_name_en": "Phu Tho Ward",
+    "type": "phường",
+    "district_code": "718",
+    "codename": "phu_tho"
+  },
+  {
+    "code": "25756",
+    "name": "Chánh Nghĩa",
+    "name_en": "Chanh Nghia",
+    "full_name": "Phường Chánh Nghĩa",
+    "full_name_en": "Chanh Nghia Ward",
+    "type": "phường",
+    "district_code": "718",
+    "codename": "chanh_nghia"
+  },
+  {
+    "code": "25759",
+    "name": "Định Hoà",
+    "name_en": "Dinh Hoa",
+    "full_name": "Phường Định Hoà",
+    "full_name_en": "Dinh Hoa Ward",
+    "type": "phường",
+    "district_code": "718",
+    "codename": "dinh_hoa"
+  },
+  {
+    "code": "25760",
+    "name": "Hoà Phú",
+    "name_en": "Hoa Phu",
+    "full_name": "Phường Hoà Phú",
+    "full_name_en": "Hoa Phu Ward",
+    "type": "phường",
+    "district_code": "718",
+    "codename": "hoa_phu"
+  },
+  {
+    "code": "25762",
+    "name": "Phú Mỹ",
+    "name_en": "Phu My",
+    "full_name": "Phường Phú Mỹ",
+    "full_name_en": "Phu My Ward",
+    "type": "phường",
+    "district_code": "718",
+    "codename": "phu_my"
+  },
+  {
+    "code": "25763",
+    "name": "Phú Tân",
+    "name_en": "Phu Tan",
+    "full_name": "Phường Phú Tân",
+    "full_name_en": "Phu Tan Ward",
+    "type": "phường",
+    "district_code": "718",
+    "codename": "phu_tan"
+  },
+  {
+    "code": "25765",
+    "name": "Tân An",
+    "name_en": "Tan An",
+    "full_name": "Phường Tân An",
+    "full_name_en": "Tan An Ward",
+    "type": "phường",
+    "district_code": "718",
+    "codename": "tan_an"
+  },
+  {
+    "code": "25768",
+    "name": "Hiệp An",
+    "name_en": "Hiep An",
+    "full_name": "Phường Hiệp An",
+    "full_name_en": "Hiep An Ward",
+    "type": "phường",
+    "district_code": "718",
+    "codename": "hiep_an"
+  },
+  {
+    "code": "25771",
+    "name": "Tương Bình Hiệp",
+    "name_en": "Tuong Binh Hiep",
+    "full_name": "Phường Tương Bình Hiệp",
+    "full_name_en": "Tuong Binh Hiep Ward",
+    "type": "phường",
+    "district_code": "718",
+    "codename": "tuong_binh_hiep"
+  },
+  {
+    "code": "25774",
+    "name": "Chánh Mỹ",
+    "name_en": "Chanh My",
+    "full_name": "Phường Chánh Mỹ",
+    "full_name_en": "Chanh My Ward",
+    "type": "phường",
+    "district_code": "718",
+    "codename": "chanh_my"
+  }
+]

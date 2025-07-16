@@ -1,0 +1,92 @@
+[
+  {
+    "code": "06895",
+    "name": "Đầm Hà",
+    "name_en": "Dam Ha",
+    "full_name": "Thị trấn Đầm Hà",
+    "full_name_en": "Dam Ha Township",
+    "type": "thị trấn",
+    "district_code": "200",
+    "codename": "dam_ha"
+  },
+  {
+    "code": "06898",
+    "name": "Quảng Lâm",
+    "name_en": "Quang Lam",
+    "full_name": "Xã Quảng Lâm",
+    "full_name_en": "Quang Lam Commune",
+    "type": "xã",
+    "district_code": "200",
+    "codename": "quang_lam"
+  },
+  {
+    "code": "06901",
+    "name": "Quảng An",
+    "name_en": "Quang An",
+    "full_name": "Xã Quảng An",
+    "full_name_en": "Quang An Commune",
+    "type": "xã",
+    "district_code": "200",
+    "codename": "quang_an"
+  },
+  {
+    "code": "06904",
+    "name": "Tân Bình",
+    "name_en": "Tan Binh",
+    "full_name": "Xã Tân Bình",
+    "full_name_en": "Tan Binh Commune",
+    "type": "xã",
+    "district_code": "200",
+    "codename": "tan_binh"
+  },
+  {
+    "code": "06910",
+    "name": "Dực Yên",
+    "name_en": "Duc Yen",
+    "full_name": "Xã Dực Yên",
+    "full_name_en": "Duc Yen Commune",
+    "type": "xã",
+    "district_code": "200",
+    "codename": "duc_yen"
+  },
+  {
+    "code": "06913",
+    "name": "Quảng Tân",
+    "name_en": "Quang Tan",
+    "full_name": "Xã Quảng Tân",
+    "full_name_en": "Quang Tan Commune",
+    "type": "xã",
+    "district_code": "200",
+    "codename": "quang_tan"
+  },
+  {
+    "code": "06916",
+    "name": "Đầm Hà",
+    "name_en": "Dam Ha",
+    "full_name": "Xã Đầm Hà",
+    "full_name_en": "Dam Ha Commune",
+    "type": "xã",
+    "district_code": "200",
+    "codename": "dam_ha"
+  },
+  {
+    "code": "06917",
+    "name": "Tân Lập",
+    "name_en": "Tan Lap",
+    "full_name": "Xã Tân Lập",
+    "full_name_en": "Tan Lap Commune",
+    "type": "xã",
+    "district_code": "200",
+    "codename": "tan_lap"
+  },
+  {
+    "code": "06919",
+    "name": "Đại Bình",
+    "name_en": "Dai Binh",
+    "full_name": "Xã Đại Bình",
+    "full_name_en": "Dai Binh Commune",
+    "type": "xã",
+    "district_code": "200",
+    "codename": "dai_binh"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "code": "040",
+    "name": "Cao Bằng",
+    "name_en": "Cao Bang",
+    "full_name": "Thành phố Cao Bằng",
+    "full_name_en": "Cao Bang City",
+    "type": "thành phố",
+    "province_code": "04",
+    "codename": "cao_bang"
+  },
+  {
+    "code": "042",
+    "name": "Bảo Lâm",
+    "name_en": "Bao Lam",
+    "full_name": "Huyện Bảo Lâm",
+    "full_name_en": "Bao Lam District",
+    "type": "huyện",
+    "province_code": "04",
+    "codename": "bao_lam"
+  },
+  {
+    "code": "043",
+    "name": "Bảo Lạc",
+    "name_en": "Bao Lac",
+    "full_name": "Huyện Bảo Lạc",
+    "full_name_en": "Bao Lac District",
+    "type": "huyện",
+    "province_code": "04",
+    "codename": "bao_lac"
+  },
+  {
+    "code": "045",
+    "name": "Hà Quảng",
+    "name_en": "Ha Quang",
+    "full_name": "Huyện Hà Quảng",
+    "full_name_en": "Ha Quang District",
+    "type": "huyện",
+    "province_code": "04",
+    "codename": "ha_quang"
+  },
+  {
+    "code": "047",
+    "name": "Trùng Khánh",
+    "name_en": "Trung Khanh",
+    "full_name": "Huyện Trùng Khánh",
+    "full_name_en": "Trung Khanh District",
+    "type": "huyện",
+    "province_code": "04",
+    "codename": "trung_khanh"
+  },
+  {
+    "code": "048",
+    "name": "Hạ Lang",
+    "name_en": "Ha Lang",
+    "full_name": "Huyện Hạ Lang",
+    "full_name_en": "Ha Lang District",
+    "type": "huyện",
+    "province_code": "04",
+    "codename": "ha_lang"
+  },
+  {
+    "code": "049",
+    "name": "Quảng Hòa",
+    "name_en": "Quang Hoa",
+    "full_name": "Huyện Quảng Hòa",
+    "full_name_en": "Quang Hoa District",
+    "type": "huyện",
+    "province_code": "04",
+    "codename": "quang_hoa"
+  },
+  {
+    "code": "051",
+    "name": "Hoà An",
+    "name_en": "Hoa An",
+    "full_name": "Huyện Hoà An",
+    "full_name_en": "Hoa An District",
+    "type": "huyện",
+    "province_code": "04",
+    "codename": "hoa_an"
+  },
+  {
+    "code": "052",
+    "name": "Nguyên Bình",
+    "name_en": "Nguyen Binh",
+    "full_name": "Huyện Nguyên Bình",
+    "full_name_en": "Nguyen Binh District",
+    "type": "huyện",
+    "province_code": "04",
+    "codename": "nguyen_binh"
+  },
+  {
+    "code": "053",
+    "name": "Thạch An",
+    "name_en": "Thach An",
+    "full_name": "Huyện Thạch An",
+    "full_name_en": "Thach An District",
+    "type": "huyện",
+    "province_code": "04",
+    "codename": "thach_an"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "code": "25516",
+    "name": "Tân Châu",
+    "name_en": "Tan Chau",
+    "full_name": "Thị trấn Tân Châu",
+    "full_name_en": "Tan Chau Township",
+    "type": "thị trấn",
+    "district_code": "706",
+    "codename": "tan_chau"
+  },
+  {
+    "code": "25519",
+    "name": "Tân Hà",
+    "name_en": "Tan Ha",
+    "full_name": "Xã Tân Hà",
+    "full_name_en": "Tan Ha Commune",
+    "type": "xã",
+    "district_code": "706",
+    "codename": "tan_ha"
+  },
+  {
+    "code": "25522",
+    "name": "Tân Đông",
+    "name_en": "Tan Dong",
+    "full_name": "Xã Tân Đông",
+    "full_name_en": "Tan Dong Commune",
+    "type": "xã",
+    "district_code": "706",
+    "codename": "tan_dong"
+  },
+  {
+    "code": "25525",
+    "name": "Tân Hội",
+    "name_en": "Tan Hoi",
+    "full_name": "Xã Tân Hội",
+    "full_name_en": "Tan Hoi Commune",
+    "type": "xã",
+    "district_code": "706",
+    "codename": "tan_hoi"
+  },
+  {
+    "code": "25528",
+    "name": "Tân Hòa",
+    "name_en": "Tan Hoa",
+    "full_name": "Xã Tân Hòa",
+    "full_name_en": "Tan Hoa Commune",
+    "type": "xã",
+    "district_code": "706",
+    "codename": "tan_hoa"
+  },
+  {
+    "code": "25531",
+    "name": "Suối Ngô",
+    "name_en": "Suoi Ngo",
+    "full_name": "Xã Suối Ngô",
+    "full_name_en": "Suoi Ngo Commune",
+    "type": "xã",
+    "district_code": "706",
+    "codename": "suoi_ngo"
+  },
+  {
+    "code": "25534",
+    "name": "Suối Dây",
+    "name_en": "Suoi Day",
+    "full_name": "Xã Suối Dây",
+    "full_name_en": "Suoi Day Commune",
+    "type": "xã",
+    "district_code": "706",
+    "codename": "suoi_day"
+  },
+  {
+    "code": "25537",
+    "name": "Tân Hiệp",
+    "name_en": "Tan Hiep",
+    "full_name": "Xã Tân Hiệp",
+    "full_name_en": "Tan Hiep Commune",
+    "type": "xã",
+    "district_code": "706",
+    "codename": "tan_hiep"
+  },
+  {
+    "code": "25540",
+    "name": "Thạnh Đông",
+    "name_en": "Thanh Dong",
+    "full_name": "Xã Thạnh Đông",
+    "full_name_en": "Thanh Dong Commune",
+    "type": "xã",
+    "district_code": "706",
+    "codename": "thanh_dong"
+  },
+  {
+    "code": "25543",
+    "name": "Tân Thành",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thành",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "706",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "25546",
+    "name": "Tân Phú",
+    "name_en": "Tan Phu",
+    "full_name": "Xã Tân Phú",
+    "full_name_en": "Tan Phu Commune",
+    "type": "xã",
+    "district_code": "706",
+    "codename": "tan_phu"
+  },
+  {
+    "code": "25549",
+    "name": "Tân Hưng",
+    "name_en": "Tan Hung",
+    "full_name": "Xã Tân Hưng",
+    "full_name_en": "Tan Hung Commune",
+    "type": "xã",
+    "district_code": "706",
+    "codename": "tan_hung"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "code": "18073",
+    "name": "Nam Hà",
+    "name_en": "Nam Ha",
+    "full_name": "Phường Nam Hà",
+    "full_name_en": "Nam Ha Ward",
+    "type": "phường",
+    "district_code": "436",
+    "codename": "nam_ha"
+  },
+  {
+    "code": "18077",
+    "name": "Bắc Hà",
+    "name_en": "Bac Ha",
+    "full_name": "Phường Bắc Hà",
+    "full_name_en": "Bac Ha Ward",
+    "type": "phường",
+    "district_code": "436",
+    "codename": "bac_ha"
+  },
+  {
+    "code": "18079",
+    "name": "Tân Giang",
+    "name_en": "Tan Giang",
+    "full_name": "Phường Tân Giang",
+    "full_name_en": "Tan Giang Ward",
+    "type": "phường",
+    "district_code": "436",
+    "codename": "tan_giang"
+  },
+  {
+    "code": "18082",
+    "name": "Đại Nài",
+    "name_en": "Dai Nai",
+    "full_name": "Phường Đại Nài",
+    "full_name_en": "Dai Nai Ward",
+    "type": "phường",
+    "district_code": "436",
+    "codename": "dai_nai"
+  },
+  {
+    "code": "18085",
+    "name": "Hà Huy Tập",
+    "name_en": "Ha Huy Tap",
+    "full_name": "Phường Hà Huy Tập",
+    "full_name_en": "Ha Huy Tap Ward",
+    "type": "phường",
+    "district_code": "436",
+    "codename": "ha_huy_tap"
+  },
+  {
+    "code": "18088",
+    "name": "Thạch Trung",
+    "name_en": "Thach Trung",
+    "full_name": "Phường Thạch Trung",
+    "full_name_en": "Thach Trung Ward",
+    "type": "phường",
+    "district_code": "436",
+    "codename": "thach_trung"
+  },
+  {
+    "code": "18091",
+    "name": "Thạch Quý",
+    "name_en": "Thach Quy",
+    "full_name": "Phường Thạch Quý",
+    "full_name_en": "Thach Quy Ward",
+    "type": "phường",
+    "district_code": "436",
+    "codename": "thach_quy"
+  },
+  {
+    "code": "18094",
+    "name": "Trần Phú",
+    "name_en": "Tran Phu",
+    "full_name": "Phường Trần Phú",
+    "full_name_en": "Tran Phu Ward",
+    "type": "phường",
+    "district_code": "436",
+    "codename": "tran_phu"
+  },
+  {
+    "code": "18097",
+    "name": "Văn Yên",
+    "name_en": "Van Yen",
+    "full_name": "Phường Văn Yên",
+    "full_name_en": "Van Yen Ward",
+    "type": "phường",
+    "district_code": "436",
+    "codename": "van_yen"
+  },
+  {
+    "code": "18100",
+    "name": "Thạch Hạ",
+    "name_en": "Thach Ha",
+    "full_name": "Phường Thạch Hạ",
+    "full_name_en": "Thach Ha Ward",
+    "type": "phường",
+    "district_code": "436",
+    "codename": "thach_ha"
+  },
+  {
+    "code": "18103",
+    "name": "Đồng Môn",
+    "name_en": "Dong Mon",
+    "full_name": "Phường Đồng Môn",
+    "full_name_en": "Dong Mon Ward",
+    "type": "phường",
+    "district_code": "436",
+    "codename": "dong_mon"
+  },
+  {
+    "code": "18109",
+    "name": "Thạch Hưng",
+    "name_en": "Thach Hung",
+    "full_name": "Phường Thạch Hưng",
+    "full_name_en": "Thach Hung Ward",
+    "type": "phường",
+    "district_code": "436",
+    "codename": "thach_hung"
+  },
+  {
+    "code": "18112",
+    "name": "Thạch Bình",
+    "name_en": "Thach Binh",
+    "full_name": "Xã Thạch Bình",
+    "full_name_en": "Thach Binh Commune",
+    "type": "xã",
+    "district_code": "436",
+    "codename": "thach_binh"
+  },
+  {
+    "code": "18571",
+    "name": "Thạch Hải",
+    "name_en": "Thach Hai",
+    "full_name": "Xã Thạch Hải",
+    "full_name_en": "Thach Hai Commune",
+    "type": "xã",
+    "district_code": "436",
+    "codename": "thach_hai"
+  },
+  {
+    "code": "18595",
+    "name": "Đỉnh Bàn",
+    "name_en": "Dinh Ban",
+    "full_name": "Xã Đỉnh Bàn",
+    "full_name_en": "Dinh Ban Commune",
+    "type": "xã",
+    "district_code": "436",
+    "codename": "dinh_ban"
+  },
+  {
+    "code": "18598",
+    "name": "Hộ Độ",
+    "name_en": "Ho Do",
+    "full_name": "Xã Hộ Độ",
+    "full_name_en": "Ho Do Commune",
+    "type": "xã",
+    "district_code": "436",
+    "codename": "ho_do"
+  },
+  {
+    "code": "18604",
+    "name": "Thạch Khê",
+    "name_en": "Thach Khe",
+    "full_name": "Xã Thạch Khê",
+    "full_name_en": "Thach Khe Commune",
+    "type": "xã",
+    "district_code": "436",
+    "codename": "thach_khe"
+  },
+  {
+    "code": "18619",
+    "name": "Thạch Trị",
+    "name_en": "Thach Tri",
+    "full_name": "Xã Thạch Trị",
+    "full_name_en": "Thach Tri Commune",
+    "type": "xã",
+    "district_code": "436",
+    "codename": "thach_tri"
+  },
+  {
+    "code": "18622",
+    "name": "Thạch Lạc",
+    "name_en": "Thach Lac",
+    "full_name": "Xã Thạch Lạc",
+    "full_name_en": "Thach Lac Commune",
+    "type": "xã",
+    "district_code": "436",
+    "codename": "thach_lac"
+  },
+  {
+    "code": "18628",
+    "name": "Tượng Sơn",
+    "name_en": "Tuong Son",
+    "full_name": "Xã Tượng Sơn",
+    "full_name_en": "Tuong Son Commune",
+    "type": "xã",
+    "district_code": "436",
+    "codename": "tuong_son"
+  },
+  {
+    "code": "18631",
+    "name": "Thạch Văn",
+    "name_en": "Thach Van",
+    "full_name": "Xã Thạch Văn",
+    "full_name_en": "Thach Van Commune",
+    "type": "xã",
+    "district_code": "436",
+    "codename": "thach_van"
+  },
+  {
+    "code": "18637",
+    "name": "Thạch Thắng",
+    "name_en": "Thach Thang",
+    "full_name": "Xã Thạch Thắng",
+    "full_name_en": "Thach Thang Commune",
+    "type": "xã",
+    "district_code": "436",
+    "codename": "thach_thang"
+  },
+  {
+    "code": "18643",
+    "name": "Thạch Đài",
+    "name_en": "Thach Dai",
+    "full_name": "Xã Thạch Đài",
+    "full_name_en": "Thach Dai Commune",
+    "type": "xã",
+    "district_code": "436",
+    "codename": "thach_dai"
+  },
+  {
+    "code": "18649",
+    "name": "Thạch Hội",
+    "name_en": "Thach Hoi",
+    "full_name": "Xã Thạch Hội",
+    "full_name_en": "Thach Hoi Commune",
+    "type": "xã",
+    "district_code": "436",
+    "codename": "thach_hoi"
+  },
+  {
+    "code": "18652",
+    "name": "Tân Lâm Hương",
+    "name_en": "Tan Lam Huong",
+    "full_name": "Xã Tân Lâm Hương",
+    "full_name_en": "Tan Lam Huong Commune",
+    "type": "xã",
+    "district_code": "436",
+    "codename": "tan_lam_huong"
+  },
+  {
+    "code": "18685",
+    "name": "Cẩm Bình",
+    "name_en": "Cam Binh",
+    "full_name": "Xã Cẩm Bình",
+    "full_name_en": "Cam Binh Commune",
+    "type": "xã",
+    "district_code": "436",
+    "codename": "cam_binh"
+  },
+  {
+    "code": "18691",
+    "name": "Cẩm Vịnh",
+    "name_en": "Cam Vinh",
+    "full_name": "Xã Cẩm Vịnh",
+    "full_name_en": "Cam Vinh Commune",
+    "type": "xã",
+    "district_code": "436",
+    "codename": "cam_vinh"
+  }
+]

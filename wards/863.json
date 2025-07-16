@@ -1,0 +1,92 @@
+[
+  {
+    "code": "29776",
+    "name": "Tân Thành",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thành",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "863",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "29779",
+    "name": "Thành Trung",
+    "name_en": "Thanh Trung",
+    "full_name": "Xã Thành Trung",
+    "full_name_en": "Thanh Trung Commune",
+    "type": "xã",
+    "district_code": "863",
+    "codename": "thanh_trung"
+  },
+  {
+    "code": "29782",
+    "name": "Tân An Thạnh",
+    "name_en": "Tan An Thanh",
+    "full_name": "Xã Tân An Thạnh",
+    "full_name_en": "Tan An Thanh Commune",
+    "type": "xã",
+    "district_code": "863",
+    "codename": "tan_an_thanh"
+  },
+  {
+    "code": "29785",
+    "name": "Tân Lược",
+    "name_en": "Tan Luoc",
+    "full_name": "Xã Tân Lược",
+    "full_name_en": "Tan Luoc Commune",
+    "type": "xã",
+    "district_code": "863",
+    "codename": "tan_luoc"
+  },
+  {
+    "code": "29788",
+    "name": "Nguyễn Văn Thảnh",
+    "name_en": "Nguyen Van Thanh",
+    "full_name": "Xã Nguyễn Văn Thảnh",
+    "full_name_en": "Nguyen Van Thanh Commune",
+    "type": "xã",
+    "district_code": "863",
+    "codename": "nguyen_van_thanh"
+  },
+  {
+    "code": "29791",
+    "name": "Thành Lợi",
+    "name_en": "Thanh Loi",
+    "full_name": "Xã Thành Lợi",
+    "full_name_en": "Thanh Loi Commune",
+    "type": "xã",
+    "district_code": "863",
+    "codename": "thanh_loi"
+  },
+  {
+    "code": "29794",
+    "name": "Mỹ Thuận",
+    "name_en": "My Thuan",
+    "full_name": "Xã Mỹ Thuận",
+    "full_name_en": "My Thuan Commune",
+    "type": "xã",
+    "district_code": "863",
+    "codename": "my_thuan"
+  },
+  {
+    "code": "29797",
+    "name": "Tân Bình",
+    "name_en": "Tan Binh",
+    "full_name": "Xã Tân Bình",
+    "full_name_en": "Tan Binh Commune",
+    "type": "xã",
+    "district_code": "863",
+    "codename": "tan_binh"
+  },
+  {
+    "code": "29800",
+    "name": "Tân Quới",
+    "name_en": "Tan Quoi",
+    "full_name": "Thị trấn Tân Quới",
+    "full_name_en": "Tan Quoi Township",
+    "type": "thị trấn",
+    "district_code": "863",
+    "codename": "tan_quoi"
+  }
+]

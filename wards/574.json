@@ -1,0 +1,172 @@
+[
+  {
+    "code": "22651",
+    "name": "Diên Khánh",
+    "name_en": "Dien Khanh",
+    "full_name": "Thị trấn Diên Khánh",
+    "full_name_en": "Dien Khanh Township",
+    "type": "thị trấn",
+    "district_code": "574",
+    "codename": "dien_khanh"
+  },
+  {
+    "code": "22654",
+    "name": "Diên Lâm",
+    "name_en": "Dien Lam",
+    "full_name": "Xã Diên Lâm",
+    "full_name_en": "Dien Lam Commune",
+    "type": "xã",
+    "district_code": "574",
+    "codename": "dien_lam"
+  },
+  {
+    "code": "22657",
+    "name": "Diên Điền",
+    "name_en": "Dien Dien",
+    "full_name": "Xã Diên Điền",
+    "full_name_en": "Dien Dien Commune",
+    "type": "xã",
+    "district_code": "574",
+    "codename": "dien_dien"
+  },
+  {
+    "code": "22660",
+    "name": "Xuân Đồng",
+    "name_en": "Xuan Dong",
+    "full_name": "Xã Xuân Đồng",
+    "full_name_en": "Xuan Dong Commune",
+    "type": "xã",
+    "district_code": "574",
+    "codename": "xuan_dong"
+  },
+  {
+    "code": "22663",
+    "name": "Diên Sơn",
+    "name_en": "Dien Son",
+    "full_name": "Xã Diên Sơn",
+    "full_name_en": "Dien Son Commune",
+    "type": "xã",
+    "district_code": "574",
+    "codename": "dien_son"
+  },
+  {
+    "code": "22669",
+    "name": "Diên Phú",
+    "name_en": "Dien Phu",
+    "full_name": "Xã Diên Phú",
+    "full_name_en": "Dien Phu Commune",
+    "type": "xã",
+    "district_code": "574",
+    "codename": "dien_phu"
+  },
+  {
+    "code": "22672",
+    "name": "Diên Thọ",
+    "name_en": "Dien Tho",
+    "full_name": "Xã Diên Thọ",
+    "full_name_en": "Dien Tho Commune",
+    "type": "xã",
+    "district_code": "574",
+    "codename": "dien_tho"
+  },
+  {
+    "code": "22675",
+    "name": "Diên Phước",
+    "name_en": "Dien Phuoc",
+    "full_name": "Xã Diên Phước",
+    "full_name_en": "Dien Phuoc Commune",
+    "type": "xã",
+    "district_code": "574",
+    "codename": "dien_phuoc"
+  },
+  {
+    "code": "22678",
+    "name": "Diên Lạc",
+    "name_en": "Dien Lac",
+    "full_name": "Xã Diên Lạc",
+    "full_name_en": "Dien Lac Commune",
+    "type": "xã",
+    "district_code": "574",
+    "codename": "dien_lac"
+  },
+  {
+    "code": "22681",
+    "name": "Diên Tân",
+    "name_en": "Dien Tan",
+    "full_name": "Xã Diên Tân",
+    "full_name_en": "Dien Tan Commune",
+    "type": "xã",
+    "district_code": "574",
+    "codename": "dien_tan"
+  },
+  {
+    "code": "22684",
+    "name": "Diên Hòa",
+    "name_en": "Dien Hoa",
+    "full_name": "Xã Diên Hòa",
+    "full_name_en": "Dien Hoa Commune",
+    "type": "xã",
+    "district_code": "574",
+    "codename": "dien_hoa"
+  },
+  {
+    "code": "22687",
+    "name": "Diên Thạnh",
+    "name_en": "Dien Thanh",
+    "full_name": "Xã Diên Thạnh",
+    "full_name_en": "Dien Thanh Commune",
+    "type": "xã",
+    "district_code": "574",
+    "codename": "dien_thanh"
+  },
+  {
+    "code": "22690",
+    "name": "Diên Toàn",
+    "name_en": "Dien Toan",
+    "full_name": "Xã Diên Toàn",
+    "full_name_en": "Dien Toan Commune",
+    "type": "xã",
+    "district_code": "574",
+    "codename": "dien_toan"
+  },
+  {
+    "code": "22693",
+    "name": "Diên An",
+    "name_en": "Dien An",
+    "full_name": "Xã Diên An",
+    "full_name_en": "Dien An Commune",
+    "type": "xã",
+    "district_code": "574",
+    "codename": "dien_an"
+  },
+  {
+    "code": "22696",
+    "name": "Bình Lộc",
+    "name_en": "Binh Loc",
+    "full_name": "Xã Bình Lộc",
+    "full_name_en": "Binh Loc Commune",
+    "type": "xã",
+    "district_code": "574",
+    "codename": "binh_loc"
+  },
+  {
+    "code": "22702",
+    "name": "Suối Hiệp",
+    "name_en": "Suoi Hiep",
+    "full_name": "Xã Suối Hiệp",
+    "full_name_en": "Suoi Hiep Commune",
+    "type": "xã",
+    "district_code": "574",
+    "codename": "suoi_hiep"
+  },
+  {
+    "code": "22705",
+    "name": "Suối Tiên",
+    "name_en": "Suoi Tien",
+    "full_name": "Xã Suối Tiên",
+    "full_name_en": "Suoi Tien Commune",
+    "type": "xã",
+    "district_code": "574",
+    "codename": "suoi_tien"
+  }
+]

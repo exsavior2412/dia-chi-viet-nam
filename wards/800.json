@@ -1,0 +1,112 @@
+[
+  {
+    "code": "27865",
+    "name": "Thạnh Hóa",
+    "name_en": "Thanh Hoa",
+    "full_name": "Thị trấn Thạnh Hóa",
+    "full_name_en": "Thanh Hoa Township",
+    "type": "thị trấn",
+    "district_code": "800",
+    "codename": "thanh_hoa"
+  },
+  {
+    "code": "27868",
+    "name": "Tân Hiệp",
+    "name_en": "Tan Hiep",
+    "full_name": "Xã Tân Hiệp",
+    "full_name_en": "Tan Hiep Commune",
+    "type": "xã",
+    "district_code": "800",
+    "codename": "tan_hiep"
+  },
+  {
+    "code": "27871",
+    "name": "Thuận Bình",
+    "name_en": "Thuan Binh",
+    "full_name": "Xã Thuận Bình",
+    "full_name_en": "Thuan Binh Commune",
+    "type": "xã",
+    "district_code": "800",
+    "codename": "thuan_binh"
+  },
+  {
+    "code": "27874",
+    "name": "Thạnh Phước",
+    "name_en": "Thanh Phuoc",
+    "full_name": "Xã Thạnh Phước",
+    "full_name_en": "Thanh Phuoc Commune",
+    "type": "xã",
+    "district_code": "800",
+    "codename": "thanh_phuoc"
+  },
+  {
+    "code": "27877",
+    "name": "Thạnh Phú",
+    "name_en": "Thanh Phu",
+    "full_name": "Xã Thạnh Phú",
+    "full_name_en": "Thanh Phu Commune",
+    "type": "xã",
+    "district_code": "800",
+    "codename": "thanh_phu"
+  },
+  {
+    "code": "27880",
+    "name": "Thuận Nghĩa Hòa",
+    "name_en": "Thuan Nghia Hoa",
+    "full_name": "Xã Thuận Nghĩa Hòa",
+    "full_name_en": "Thuan Nghia Hoa Commune",
+    "type": "xã",
+    "district_code": "800",
+    "codename": "thuan_nghia_hoa"
+  },
+  {
+    "code": "27883",
+    "name": "Thủy Đông",
+    "name_en": "Thuy Dong",
+    "full_name": "Xã Thủy Đông",
+    "full_name_en": "Thuy Dong Commune",
+    "type": "xã",
+    "district_code": "800",
+    "codename": "thuy_dong"
+  },
+  {
+    "code": "27886",
+    "name": "Thủy Tây",
+    "name_en": "Thuy Tay",
+    "full_name": "Xã Thủy Tây",
+    "full_name_en": "Thuy Tay Commune",
+    "type": "xã",
+    "district_code": "800",
+    "codename": "thuy_tay"
+  },
+  {
+    "code": "27889",
+    "name": "Tân Tây",
+    "name_en": "Tan Tay",
+    "full_name": "Xã Tân Tây",
+    "full_name_en": "Tan Tay Commune",
+    "type": "xã",
+    "district_code": "800",
+    "codename": "tan_tay"
+  },
+  {
+    "code": "27892",
+    "name": "Tân Đông",
+    "name_en": "Tan Dong",
+    "full_name": "Xã Tân Đông",
+    "full_name_en": "Tan Dong Commune",
+    "type": "xã",
+    "district_code": "800",
+    "codename": "tan_dong"
+  },
+  {
+    "code": "27895",
+    "name": "Thạnh An",
+    "name_en": "Thanh An",
+    "full_name": "Xã Thạnh An",
+    "full_name_en": "Thanh An Commune",
+    "type": "xã",
+    "district_code": "800",
+    "codename": "thanh_an"
+  }
+]

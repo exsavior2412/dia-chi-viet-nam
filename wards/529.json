@@ -1,0 +1,142 @@
+[
+  {
+    "code": "21289",
+    "name": "Di Lăng",
+    "name_en": "Di Lang",
+    "full_name": "Thị trấn Di Lăng",
+    "full_name_en": "Di Lang Township",
+    "type": "thị trấn",
+    "district_code": "529",
+    "codename": "di_lang"
+  },
+  {
+    "code": "21292",
+    "name": "Sơn Hạ",
+    "name_en": "Son Ha",
+    "full_name": "Xã Sơn Hạ",
+    "full_name_en": "Son Ha Commune",
+    "type": "xã",
+    "district_code": "529",
+    "codename": "son_ha"
+  },
+  {
+    "code": "21295",
+    "name": "Sơn Thành",
+    "name_en": "Son Thanh",
+    "full_name": "Xã Sơn Thành",
+    "full_name_en": "Son Thanh Commune",
+    "type": "xã",
+    "district_code": "529",
+    "codename": "son_thanh"
+  },
+  {
+    "code": "21298",
+    "name": "Sơn Nham",
+    "name_en": "Son Nham",
+    "full_name": "Xã Sơn Nham",
+    "full_name_en": "Son Nham Commune",
+    "type": "xã",
+    "district_code": "529",
+    "codename": "son_nham"
+  },
+  {
+    "code": "21301",
+    "name": "Sơn Bao",
+    "name_en": "Son Bao",
+    "full_name": "Xã Sơn Bao",
+    "full_name_en": "Son Bao Commune",
+    "type": "xã",
+    "district_code": "529",
+    "codename": "son_bao"
+  },
+  {
+    "code": "21304",
+    "name": "Sơn Linh",
+    "name_en": "Son Linh",
+    "full_name": "Xã Sơn Linh",
+    "full_name_en": "Son Linh Commune",
+    "type": "xã",
+    "district_code": "529",
+    "codename": "son_linh"
+  },
+  {
+    "code": "21307",
+    "name": "Sơn Giang",
+    "name_en": "Son Giang",
+    "full_name": "Xã Sơn Giang",
+    "full_name_en": "Son Giang Commune",
+    "type": "xã",
+    "district_code": "529",
+    "codename": "son_giang"
+  },
+  {
+    "code": "21310",
+    "name": "Sơn Trung",
+    "name_en": "Son Trung",
+    "full_name": "Xã Sơn Trung",
+    "full_name_en": "Son Trung Commune",
+    "type": "xã",
+    "district_code": "529",
+    "codename": "son_trung"
+  },
+  {
+    "code": "21313",
+    "name": "Sơn Thượng",
+    "name_en": "Son Thuong",
+    "full_name": "Xã Sơn Thượng",
+    "full_name_en": "Son Thuong Commune",
+    "type": "xã",
+    "district_code": "529",
+    "codename": "son_thuong"
+  },
+  {
+    "code": "21316",
+    "name": "Sơn Cao",
+    "name_en": "Son Cao",
+    "full_name": "Xã Sơn Cao",
+    "full_name_en": "Son Cao Commune",
+    "type": "xã",
+    "district_code": "529",
+    "codename": "son_cao"
+  },
+  {
+    "code": "21319",
+    "name": "Sơn Hải",
+    "name_en": "Son Hai",
+    "full_name": "Xã Sơn Hải",
+    "full_name_en": "Son Hai Commune",
+    "type": "xã",
+    "district_code": "529",
+    "codename": "son_hai"
+  },
+  {
+    "code": "21322",
+    "name": "Sơn Thủy",
+    "name_en": "Son Thuy",
+    "full_name": "Xã Sơn Thủy",
+    "full_name_en": "Son Thuy Commune",
+    "type": "xã",
+    "district_code": "529",
+    "codename": "son_thuy"
+  },
+  {
+    "code": "21325",
+    "name": "Sơn Kỳ",
+    "name_en": "Son Ky",
+    "full_name": "Xã Sơn Kỳ",
+    "full_name_en": "Son Ky Commune",
+    "type": "xã",
+    "district_code": "529",
+    "codename": "son_ky"
+  },
+  {
+    "code": "21328",
+    "name": "Sơn Ba",
+    "name_en": "Son Ba",
+    "full_name": "Xã Sơn Ba",
+    "full_name_en": "Son Ba Commune",
+    "type": "xã",
+    "district_code": "529",
+    "codename": "son_ba"
+  }
+]

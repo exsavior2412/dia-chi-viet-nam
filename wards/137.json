@@ -1,0 +1,142 @@
+[
+  {
+    "code": "04456",
+    "name": "Mù Căng Chải",
+    "name_en": "Mu Cang Chai",
+    "full_name": "Thị trấn Mù Căng Chải",
+    "full_name_en": "Mu Cang Chai Township",
+    "type": "thị trấn",
+    "district_code": "137",
+    "codename": "mu_cang_chai"
+  },
+  {
+    "code": "04459",
+    "name": "Hồ Bốn",
+    "name_en": "Ho Bon",
+    "full_name": "Xã Hồ Bốn",
+    "full_name_en": "Ho Bon Commune",
+    "type": "xã",
+    "district_code": "137",
+    "codename": "ho_bon"
+  },
+  {
+    "code": "04462",
+    "name": "Nậm Có",
+    "name_en": "Nam Co",
+    "full_name": "Xã Nậm Có",
+    "full_name_en": "Nam Co Commune",
+    "type": "xã",
+    "district_code": "137",
+    "codename": "nam_co"
+  },
+  {
+    "code": "04465",
+    "name": "Khao Mang",
+    "name_en": "Khao Mang",
+    "full_name": "Xã Khao Mang",
+    "full_name_en": "Khao Mang Commune",
+    "type": "xã",
+    "district_code": "137",
+    "codename": "khao_mang"
+  },
+  {
+    "code": "04468",
+    "name": "Mồ Dề",
+    "name_en": "Mo De",
+    "full_name": "Xã Mồ Dề",
+    "full_name_en": "Mo De Commune",
+    "type": "xã",
+    "district_code": "137",
+    "codename": "mo_de"
+  },
+  {
+    "code": "04471",
+    "name": "Chế Cu Nha",
+    "name_en": "Che Cu Nha",
+    "full_name": "Xã Chế Cu Nha",
+    "full_name_en": "Che Cu Nha Commune",
+    "type": "xã",
+    "district_code": "137",
+    "codename": "che_cu_nha"
+  },
+  {
+    "code": "04474",
+    "name": "Lao Chải",
+    "name_en": "Lao Chai",
+    "full_name": "Xã Lao Chải",
+    "full_name_en": "Lao Chai Commune",
+    "type": "xã",
+    "district_code": "137",
+    "codename": "lao_chai"
+  },
+  {
+    "code": "04477",
+    "name": "Kim Nọi",
+    "name_en": "Kim Noi",
+    "full_name": "Xã Kim Nọi",
+    "full_name_en": "Kim Noi Commune",
+    "type": "xã",
+    "district_code": "137",
+    "codename": "kim_noi"
+  },
+  {
+    "code": "04480",
+    "name": "Cao Phạ",
+    "name_en": "Cao Pha",
+    "full_name": "Xã Cao Phạ",
+    "full_name_en": "Cao Pha Commune",
+    "type": "xã",
+    "district_code": "137",
+    "codename": "cao_pha"
+  },
+  {
+    "code": "04483",
+    "name": "La Pán Tẩn",
+    "name_en": "La Pan Tan",
+    "full_name": "Xã La Pán Tẩn",
+    "full_name_en": "La Pan Tan Commune",
+    "type": "xã",
+    "district_code": "137",
+    "codename": "la_pan_tan"
+  },
+  {
+    "code": "04486",
+    "name": "Dế Su Phình",
+    "name_en": "De Su Phinh",
+    "full_name": "Xã Dế Su Phình",
+    "full_name_en": "De Su Phinh Commune",
+    "type": "xã",
+    "district_code": "137",
+    "codename": "de_su_phinh"
+  },
+  {
+    "code": "04489",
+    "name": "Chế Tạo",
+    "name_en": "Che Tao",
+    "full_name": "Xã Chế Tạo",
+    "full_name_en": "Che Tao Commune",
+    "type": "xã",
+    "district_code": "137",
+    "codename": "che_tao"
+  },
+  {
+    "code": "04492",
+    "name": "Púng Luông",
+    "name_en": "Pung Luong",
+    "full_name": "Xã Púng Luông",
+    "full_name_en": "Pung Luong Commune",
+    "type": "xã",
+    "district_code": "137",
+    "codename": "pung_luong"
+  },
+  {
+    "code": "04495",
+    "name": "Nậm Khắt",
+    "name_en": "Nam Khat",
+    "full_name": "Xã Nậm Khắt",
+    "full_name_en": "Nam Khat Commune",
+    "type": "xã",
+    "district_code": "137",
+    "codename": "nam_khat"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "code": "23231",
+    "name": "Phước Hội",
+    "name_en": "Phuoc Hoi",
+    "full_name": "Phường Phước Hội",
+    "full_name_en": "Phuoc Hoi Ward",
+    "type": "phường",
+    "district_code": "594",
+    "codename": "phuoc_hoi"
+  },
+  {
+    "code": "23232",
+    "name": "Phước Lộc",
+    "name_en": "Phuoc Loc",
+    "full_name": "Phường Phước Lộc",
+    "full_name_en": "Phuoc Loc Ward",
+    "type": "phường",
+    "district_code": "594",
+    "codename": "phuoc_loc"
+  },
+  {
+    "code": "23234",
+    "name": "Tân Thiện",
+    "name_en": "Tan Thien",
+    "full_name": "Phường Tân Thiện",
+    "full_name_en": "Tan Thien Ward",
+    "type": "phường",
+    "district_code": "594",
+    "codename": "tan_thien"
+  },
+  {
+    "code": "23235",
+    "name": "Tân An",
+    "name_en": "Tan An",
+    "full_name": "Phường Tân An",
+    "full_name_en": "Tan An Ward",
+    "type": "phường",
+    "district_code": "594",
+    "codename": "tan_an"
+  },
+  {
+    "code": "23237",
+    "name": "Bình Tân",
+    "name_en": "Binh Tan",
+    "full_name": "Phường Bình Tân",
+    "full_name_en": "Binh Tan Ward",
+    "type": "phường",
+    "district_code": "594",
+    "codename": "binh_tan"
+  },
+  {
+    "code": "23245",
+    "name": "Tân Hải",
+    "name_en": "Tan Hai",
+    "full_name": "Xã Tân Hải",
+    "full_name_en": "Tan Hai Commune",
+    "type": "xã",
+    "district_code": "594",
+    "codename": "tan_hai"
+  },
+  {
+    "code": "23246",
+    "name": "Tân Tiến",
+    "name_en": "Tan Tien",
+    "full_name": "Xã Tân Tiến",
+    "full_name_en": "Tan Tien Commune",
+    "type": "xã",
+    "district_code": "594",
+    "codename": "tan_tien"
+  },
+  {
+    "code": "23248",
+    "name": "Tân Bình",
+    "name_en": "Tan Binh",
+    "full_name": "Xã Tân Bình",
+    "full_name_en": "Tan Binh Commune",
+    "type": "xã",
+    "district_code": "594",
+    "codename": "tan_binh"
+  },
+  {
+    "code": "23268",
+    "name": "Tân Phước",
+    "name_en": "Tan Phuoc",
+    "full_name": "Xã Tân Phước",
+    "full_name_en": "Tan Phuoc Commune",
+    "type": "xã",
+    "district_code": "594",
+    "codename": "tan_phuoc"
+  }
+]

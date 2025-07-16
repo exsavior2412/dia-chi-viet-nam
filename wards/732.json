@@ -1,0 +1,132 @@
+[
+  {
+    "code": "26077",
+    "name": "Xuân Bình",
+    "name_en": "Xuan Binh",
+    "full_name": "Phường Xuân Bình",
+    "full_name_en": "Xuan Binh Ward",
+    "type": "phường",
+    "district_code": "732",
+    "codename": "xuan_binh"
+  },
+  {
+    "code": "26080",
+    "name": "Xuân An",
+    "name_en": "Xuan An",
+    "full_name": "Phường Xuân An",
+    "full_name_en": "Xuan An Ward",
+    "type": "phường",
+    "district_code": "732",
+    "codename": "xuan_an"
+  },
+  {
+    "code": "26083",
+    "name": "Xuân Hoà",
+    "name_en": "Xuan Hoa",
+    "full_name": "Phường Xuân Hoà",
+    "full_name_en": "Xuan Hoa Ward",
+    "type": "phường",
+    "district_code": "732",
+    "codename": "xuan_hoa"
+  },
+  {
+    "code": "26086",
+    "name": "Phú Bình",
+    "name_en": "Phu Binh",
+    "full_name": "Phường Phú Bình",
+    "full_name_en": "Phu Binh Ward",
+    "type": "phường",
+    "district_code": "732",
+    "codename": "phu_binh"
+  },
+  {
+    "code": "26089",
+    "name": "Bình Lộc",
+    "name_en": "Binh Loc",
+    "full_name": "Xã Bình Lộc",
+    "full_name_en": "Binh Loc Commune",
+    "type": "xã",
+    "district_code": "732",
+    "codename": "binh_loc"
+  },
+  {
+    "code": "26092",
+    "name": "Bảo Quang",
+    "name_en": "Bao Quang",
+    "full_name": "Xã Bảo Quang",
+    "full_name_en": "Bao Quang Commune",
+    "type": "xã",
+    "district_code": "732",
+    "codename": "bao_quang"
+  },
+  {
+    "code": "26095",
+    "name": "Suối Tre",
+    "name_en": "Suoi Tre",
+    "full_name": "Phường Suối Tre",
+    "full_name_en": "Suoi Tre Ward",
+    "type": "phường",
+    "district_code": "732",
+    "codename": "suoi_tre"
+  },
+  {
+    "code": "26098",
+    "name": "Bảo Vinh",
+    "name_en": "Bao Vinh",
+    "full_name": "Phường Bảo Vinh",
+    "full_name_en": "Bao Vinh Ward",
+    "type": "phường",
+    "district_code": "732",
+    "codename": "bao_vinh"
+  },
+  {
+    "code": "26101",
+    "name": "Xuân Lập",
+    "name_en": "Xuan Lap",
+    "full_name": "Phường Xuân Lập",
+    "full_name_en": "Xuan Lap Ward",
+    "type": "phường",
+    "district_code": "732",
+    "codename": "xuan_lap"
+  },
+  {
+    "code": "26104",
+    "name": "Bàu Sen",
+    "name_en": "Bau Sen",
+    "full_name": "Phường Bàu Sen",
+    "full_name_en": "Bau Sen Ward",
+    "type": "phường",
+    "district_code": "732",
+    "codename": "bau_sen"
+  },
+  {
+    "code": "26107",
+    "name": "Bàu Trâm",
+    "name_en": "Bau Tram",
+    "full_name": "Xã Bàu Trâm",
+    "full_name_en": "Bau Tram Commune",
+    "type": "xã",
+    "district_code": "732",
+    "codename": "bau_tram"
+  },
+  {
+    "code": "26110",
+    "name": "Xuân Tân",
+    "name_en": "Xuan Tan",
+    "full_name": "Phường Xuân Tân",
+    "full_name_en": "Xuan Tan Ward",
+    "type": "phường",
+    "district_code": "732",
+    "codename": "xuan_tan"
+  },
+  {
+    "code": "26113",
+    "name": "Hàng Gòn",
+    "name_en": "Hang Gon",
+    "full_name": "Xã Hàng Gòn",
+    "full_name_en": "Hang Gon Commune",
+    "type": "xã",
+    "district_code": "732",
+    "codename": "hang_gon"
+  }
+]

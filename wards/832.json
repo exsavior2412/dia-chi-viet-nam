@@ -1,0 +1,112 @@
+[
+  {
+    "code": "28870",
+    "name": "Chợ Lách",
+    "name_en": "Cho Lach",
+    "full_name": "Thị trấn Chợ Lách",
+    "full_name_en": "Cho Lach Township",
+    "type": "thị trấn",
+    "district_code": "832",
+    "codename": "cho_lach"
+  },
+  {
+    "code": "28873",
+    "name": "Phú Phụng",
+    "name_en": "Phu Phung",
+    "full_name": "Xã Phú Phụng",
+    "full_name_en": "Phu Phung Commune",
+    "type": "xã",
+    "district_code": "832",
+    "codename": "phu_phung"
+  },
+  {
+    "code": "28876",
+    "name": "Sơn Định",
+    "name_en": "Son Dinh",
+    "full_name": "Xã Sơn Định",
+    "full_name_en": "Son Dinh Commune",
+    "type": "xã",
+    "district_code": "832",
+    "codename": "son_dinh"
+  },
+  {
+    "code": "28879",
+    "name": "Vĩnh Bình",
+    "name_en": "Vinh Binh",
+    "full_name": "Xã Vĩnh Bình",
+    "full_name_en": "Vinh Binh Commune",
+    "type": "xã",
+    "district_code": "832",
+    "codename": "vinh_binh"
+  },
+  {
+    "code": "28882",
+    "name": "Hòa Nghĩa",
+    "name_en": "Hoa Nghia",
+    "full_name": "Xã Hòa Nghĩa",
+    "full_name_en": "Hoa Nghia Commune",
+    "type": "xã",
+    "district_code": "832",
+    "codename": "hoa_nghia"
+  },
+  {
+    "code": "28885",
+    "name": "Long Thới",
+    "name_en": "Long Thoi",
+    "full_name": "Xã Long Thới",
+    "full_name_en": "Long Thoi Commune",
+    "type": "xã",
+    "district_code": "832",
+    "codename": "long_thoi"
+  },
+  {
+    "code": "28888",
+    "name": "Phú Sơn",
+    "name_en": "Phu Son",
+    "full_name": "Xã Phú Sơn",
+    "full_name_en": "Phu Son Commune",
+    "type": "xã",
+    "district_code": "832",
+    "codename": "phu_son"
+  },
+  {
+    "code": "28891",
+    "name": "Tân Thiềng",
+    "name_en": "Tan Thieng",
+    "full_name": "Xã Tân Thiềng",
+    "full_name_en": "Tan Thieng Commune",
+    "type": "xã",
+    "district_code": "832",
+    "codename": "tan_thieng"
+  },
+  {
+    "code": "28894",
+    "name": "Vĩnh Thành",
+    "name_en": "Vinh Thanh",
+    "full_name": "Xã Vĩnh Thành",
+    "full_name_en": "Vinh Thanh Commune",
+    "type": "xã",
+    "district_code": "832",
+    "codename": "vinh_thanh"
+  },
+  {
+    "code": "28897",
+    "name": "Vĩnh Hòa",
+    "name_en": "Vinh Hoa",
+    "full_name": "Xã Vĩnh Hòa",
+    "full_name_en": "Vinh Hoa Commune",
+    "type": "xã",
+    "district_code": "832",
+    "codename": "vinh_hoa"
+  },
+  {
+    "code": "28900",
+    "name": "Hưng Khánh Trung B",
+    "name_en": "Hung Khanh Trung B",
+    "full_name": "Xã Hưng Khánh Trung B",
+    "full_name_en": "Hung Khanh Trung B Commune",
+    "type": "xã",
+    "district_code": "832",
+    "codename": "hung_khanh_trung_b"
+  }
+]

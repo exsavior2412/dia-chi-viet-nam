@@ -1,0 +1,92 @@
+[
+  {
+    "code": "356",
+    "name": "Nam Định",
+    "name_en": "Nam Dinh",
+    "full_name": "Thành phố Nam Định",
+    "full_name_en": "Nam Dinh City",
+    "type": "thành phố",
+    "province_code": "36",
+    "codename": "nam_dinh"
+  },
+  {
+    "code": "359",
+    "name": "Vụ Bản",
+    "name_en": "Vu Ban",
+    "full_name": "Huyện Vụ Bản",
+    "full_name_en": "Vu Ban District",
+    "type": "huyện",
+    "province_code": "36",
+    "codename": "vu_ban"
+  },
+  {
+    "code": "360",
+    "name": "Ý Yên",
+    "name_en": "Y Yen",
+    "full_name": "Huyện Ý Yên",
+    "full_name_en": "Y Yen District",
+    "type": "huyện",
+    "province_code": "36",
+    "codename": "y_yen"
+  },
+  {
+    "code": "361",
+    "name": "Nghĩa Hưng",
+    "name_en": "Nghia Hung",
+    "full_name": "Huyện Nghĩa Hưng",
+    "full_name_en": "Nghia Hung District",
+    "type": "huyện",
+    "province_code": "36",
+    "codename": "nghia_hung"
+  },
+  {
+    "code": "362",
+    "name": "Nam Trực",
+    "name_en": "Nam Truc",
+    "full_name": "Huyện Nam Trực",
+    "full_name_en": "Nam Truc District",
+    "type": "huyện",
+    "province_code": "36",
+    "codename": "nam_truc"
+  },
+  {
+    "code": "363",
+    "name": "Trực Ninh",
+    "name_en": "Truc Ninh",
+    "full_name": "Huyện Trực Ninh",
+    "full_name_en": "Truc Ninh District",
+    "type": "huyện",
+    "province_code": "36",
+    "codename": "truc_ninh"
+  },
+  {
+    "code": "364",
+    "name": "Xuân Trường",
+    "name_en": "Xuan Truong",
+    "full_name": "Huyện Xuân Trường",
+    "full_name_en": "Xuan Truong District",
+    "type": "huyện",
+    "province_code": "36",
+    "codename": "xuan_truong"
+  },
+  {
+    "code": "365",
+    "name": "Giao Thủy",
+    "name_en": "Giao Thuy",
+    "full_name": "Huyện Giao Thủy",
+    "full_name_en": "Giao Thuy District",
+    "type": "huyện",
+    "province_code": "36",
+    "codename": "giao_thuy"
+  },
+  {
+    "code": "366",
+    "name": "Hải Hậu",
+    "name_en": "Hai Hau",
+    "full_name": "Huyện Hải Hậu",
+    "full_name_en": "Hai Hau District",
+    "type": "huyện",
+    "province_code": "36",
+    "codename": "hai_hau"
+  }
+]

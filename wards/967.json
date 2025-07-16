@@ -1,0 +1,122 @@
+[
+  {
+    "code": "32065",
+    "name": "Thới Bình",
+    "name_en": "Thoi Binh",
+    "full_name": "Thị trấn Thới Bình",
+    "full_name_en": "Thoi Binh Township",
+    "type": "thị trấn",
+    "district_code": "967",
+    "codename": "thoi_binh"
+  },
+  {
+    "code": "32068",
+    "name": "Biển Bạch",
+    "name_en": "Bien Bach",
+    "full_name": "Xã Biển Bạch",
+    "full_name_en": "Bien Bach Commune",
+    "type": "xã",
+    "district_code": "967",
+    "codename": "bien_bach"
+  },
+  {
+    "code": "32069",
+    "name": "Tân Bằng",
+    "name_en": "Tan Bang",
+    "full_name": "Xã Tân Bằng",
+    "full_name_en": "Tan Bang Commune",
+    "type": "xã",
+    "district_code": "967",
+    "codename": "tan_bang"
+  },
+  {
+    "code": "32071",
+    "name": "Trí Phải",
+    "name_en": "Tri Phai",
+    "full_name": "Xã Trí Phải",
+    "full_name_en": "Tri Phai Commune",
+    "type": "xã",
+    "district_code": "967",
+    "codename": "tri_phai"
+  },
+  {
+    "code": "32072",
+    "name": "Trí Lực",
+    "name_en": "Tri Luc",
+    "full_name": "Xã Trí Lực",
+    "full_name_en": "Tri Luc Commune",
+    "type": "xã",
+    "district_code": "967",
+    "codename": "tri_luc"
+  },
+  {
+    "code": "32074",
+    "name": "Biển Bạch Đông",
+    "name_en": "Bien Bach Dong",
+    "full_name": "Xã Biển Bạch Đông",
+    "full_name_en": "Bien Bach Dong Commune",
+    "type": "xã",
+    "district_code": "967",
+    "codename": "bien_bach_dong"
+  },
+  {
+    "code": "32077",
+    "name": "Thới Bình",
+    "name_en": "Thoi Binh",
+    "full_name": "Xã Thới Bình",
+    "full_name_en": "Thoi Binh Commune",
+    "type": "xã",
+    "district_code": "967",
+    "codename": "thoi_binh"
+  },
+  {
+    "code": "32080",
+    "name": "Tân Phú",
+    "name_en": "Tan Phu",
+    "full_name": "Xã Tân Phú",
+    "full_name_en": "Tan Phu Commune",
+    "type": "xã",
+    "district_code": "967",
+    "codename": "tan_phu"
+  },
+  {
+    "code": "32083",
+    "name": "Tân Lộc Bắc",
+    "name_en": "Tan Loc Bac",
+    "full_name": "Xã Tân Lộc Bắc",
+    "full_name_en": "Tan Loc Bac Commune",
+    "type": "xã",
+    "district_code": "967",
+    "codename": "tan_loc_bac"
+  },
+  {
+    "code": "32086",
+    "name": "Tân Lộc",
+    "name_en": "Tan Loc",
+    "full_name": "Xã Tân Lộc",
+    "full_name_en": "Tan Loc Commune",
+    "type": "xã",
+    "district_code": "967",
+    "codename": "tan_loc"
+  },
+  {
+    "code": "32089",
+    "name": "Tân Lộc Đông",
+    "name_en": "Tan Loc Dong",
+    "full_name": "Xã Tân Lộc Đông",
+    "full_name_en": "Tan Loc Dong Commune",
+    "type": "xã",
+    "district_code": "967",
+    "codename": "tan_loc_dong"
+  },
+  {
+    "code": "32092",
+    "name": "Hồ Thị Kỷ",
+    "name_en": "Ho Thi Ky",
+    "full_name": "Xã Hồ Thị Kỷ",
+    "full_name_en": "Ho Thi Ky Commune",
+    "type": "xã",
+    "district_code": "967",
+    "codename": "ho_thi_ky"
+  }
+]

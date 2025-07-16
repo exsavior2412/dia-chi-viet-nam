@@ -1,0 +1,242 @@
+[
+  {
+    "code": "05266",
+    "name": "Vụ Bản",
+    "name_en": "Vu Ban",
+    "full_name": "Thị trấn Vụ Bản",
+    "full_name_en": "Vu Ban Township",
+    "type": "thị trấn",
+    "district_code": "157",
+    "codename": "vu_ban"
+  },
+  {
+    "code": "05269",
+    "name": "Quý Hòa",
+    "name_en": "Quy Hoa",
+    "full_name": "Xã Quý Hòa",
+    "full_name_en": "Quy Hoa Commune",
+    "type": "xã",
+    "district_code": "157",
+    "codename": "quy_hoa"
+  },
+  {
+    "code": "05272",
+    "name": "Miền Đồi",
+    "name_en": "Mien Doi",
+    "full_name": "Xã Miền Đồi",
+    "full_name_en": "Mien Doi Commune",
+    "type": "xã",
+    "district_code": "157",
+    "codename": "mien_doi"
+  },
+  {
+    "code": "05275",
+    "name": "Mỹ Thành",
+    "name_en": "My Thanh",
+    "full_name": "Xã Mỹ Thành",
+    "full_name_en": "My Thanh Commune",
+    "type": "xã",
+    "district_code": "157",
+    "codename": "my_thanh"
+  },
+  {
+    "code": "05278",
+    "name": "Tuân Đạo",
+    "name_en": "Tuan Dao",
+    "full_name": "Xã Tuân Đạo",
+    "full_name_en": "Tuan Dao Commune",
+    "type": "xã",
+    "district_code": "157",
+    "codename": "tuan_dao"
+  },
+  {
+    "code": "05281",
+    "name": "Văn Nghĩa",
+    "name_en": "Van Nghia",
+    "full_name": "Xã Văn Nghĩa",
+    "full_name_en": "Van Nghia Commune",
+    "type": "xã",
+    "district_code": "157",
+    "codename": "van_nghia"
+  },
+  {
+    "code": "05284",
+    "name": "Văn Sơn",
+    "name_en": "Van Son",
+    "full_name": "Xã Văn Sơn",
+    "full_name_en": "Van Son Commune",
+    "type": "xã",
+    "district_code": "157",
+    "codename": "van_son"
+  },
+  {
+    "code": "05287",
+    "name": "Tân Lập",
+    "name_en": "Tan Lap",
+    "full_name": "Xã Tân Lập",
+    "full_name_en": "Tan Lap Commune",
+    "type": "xã",
+    "district_code": "157",
+    "codename": "tan_lap"
+  },
+  {
+    "code": "05290",
+    "name": "Nhân Nghĩa",
+    "name_en": "Nhan Nghia",
+    "full_name": "Xã Nhân Nghĩa",
+    "full_name_en": "Nhan Nghia Commune",
+    "type": "xã",
+    "district_code": "157",
+    "codename": "nhan_nghia"
+  },
+  {
+    "code": "05293",
+    "name": "Thượng Cốc",
+    "name_en": "Thuong Coc",
+    "full_name": "Xã Thượng Cốc",
+    "full_name_en": "Thuong Coc Commune",
+    "type": "xã",
+    "district_code": "157",
+    "codename": "thuong_coc"
+  },
+  {
+    "code": "05299",
+    "name": "Quyết Thắng",
+    "name_en": "Quyet Thang",
+    "full_name": "Xã Quyết Thắng",
+    "full_name_en": "Quyet Thang Commune",
+    "type": "xã",
+    "district_code": "157",
+    "codename": "quyet_thang"
+  },
+  {
+    "code": "05302",
+    "name": "Xuất Hóa",
+    "name_en": "Xuat Hoa",
+    "full_name": "Xã Xuất Hóa",
+    "full_name_en": "Xuat Hoa Commune",
+    "type": "xã",
+    "district_code": "157",
+    "codename": "xuat_hoa"
+  },
+  {
+    "code": "05305",
+    "name": "Yên Phú",
+    "name_en": "Yen Phu",
+    "full_name": "Xã Yên Phú",
+    "full_name_en": "Yen Phu Commune",
+    "type": "xã",
+    "district_code": "157",
+    "codename": "yen_phu"
+  },
+  {
+    "code": "05308",
+    "name": "Bình Hẻm",
+    "name_en": "Binh Hem",
+    "full_name": "Xã Bình Hẻm",
+    "full_name_en": "Binh Hem Commune",
+    "type": "xã",
+    "district_code": "157",
+    "codename": "binh_hem"
+  },
+  {
+    "code": "05320",
+    "name": "Định Cư",
+    "name_en": "Dinh Cu",
+    "full_name": "Xã Định Cư",
+    "full_name_en": "Dinh Cu Commune",
+    "type": "xã",
+    "district_code": "157",
+    "codename": "dinh_cu"
+  },
+  {
+    "code": "05323",
+    "name": "Chí Đạo",
+    "name_en": "Chi Dao",
+    "full_name": "Xã Chí Đạo",
+    "full_name_en": "Chi Dao Commune",
+    "type": "xã",
+    "district_code": "157",
+    "codename": "chi_dao"
+  },
+  {
+    "code": "05329",
+    "name": "Ngọc Sơn",
+    "name_en": "Ngoc Son",
+    "full_name": "Xã Ngọc Sơn",
+    "full_name_en": "Ngoc Son Commune",
+    "type": "xã",
+    "district_code": "157",
+    "codename": "ngoc_son"
+  },
+  {
+    "code": "05332",
+    "name": "Hương Nhượng",
+    "name_en": "Huong Nhuong",
+    "full_name": "Xã Hương Nhượng",
+    "full_name_en": "Huong Nhuong Commune",
+    "type": "xã",
+    "district_code": "157",
+    "codename": "huong_nhuong"
+  },
+  {
+    "code": "05335",
+    "name": "Vũ Bình",
+    "name_en": "Vu Binh",
+    "full_name": "Xã Vũ Bình",
+    "full_name_en": "Vu Binh Commune",
+    "type": "xã",
+    "district_code": "157",
+    "codename": "vu_binh"
+  },
+  {
+    "code": "05338",
+    "name": "Tự Do",
+    "name_en": "Tu Do",
+    "full_name": "Xã Tự Do",
+    "full_name_en": "Tu Do Commune",
+    "type": "xã",
+    "district_code": "157",
+    "codename": "tu_do"
+  },
+  {
+    "code": "05341",
+    "name": "Yên Nghiệp",
+    "name_en": "Yen Nghiep",
+    "full_name": "Xã Yên Nghiệp",
+    "full_name_en": "Yen Nghiep Commune",
+    "type": "xã",
+    "district_code": "157",
+    "codename": "yen_nghiep"
+  },
+  {
+    "code": "05344",
+    "name": "Tân Mỹ",
+    "name_en": "Tan My",
+    "full_name": "Xã Tân Mỹ",
+    "full_name_en": "Tan My Commune",
+    "type": "xã",
+    "district_code": "157",
+    "codename": "tan_my"
+  },
+  {
+    "code": "05347",
+    "name": "Ân Nghĩa",
+    "name_en": "An Nghia",
+    "full_name": "Xã Ân Nghĩa",
+    "full_name_en": "An Nghia Commune",
+    "type": "xã",
+    "district_code": "157",
+    "codename": "an_nghia"
+  },
+  {
+    "code": "05350",
+    "name": "Ngọc Lâu",
+    "name_en": "Ngoc Lau",
+    "full_name": "Xã Ngọc Lâu",
+    "full_name_en": "Ngoc Lau Commune",
+    "type": "xã",
+    "district_code": "157",
+    "codename": "ngoc_lau"
+  }
+]

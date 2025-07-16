@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🇻🇳 Vietnam Admin Data CDN by exsavior2412</title>
+    <style>
+        * { box-sizing: border-box; }
+        body { 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            max-width: 1000px; 
+            margin: 0 auto; 
+            padding: 20px; 
+            background: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 { 
+            color: #2c3e50; 
+            text-align: center; 
+            margin-bottom: 10px;
+        }
+        .subtitle {
+            text-align: center;
+            color: #7f8c8d;
+            margin-bottom: 30px;
+        }
+        select { 
+            width: 100%; 
+            max-width: 300px;
+            margin: 10px; 
+            padding: 12px; 
+            border: 2px solid #ecf0f1;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+        select:focus {
+            outline: none;
+            border-color: #3498db;
+        }
+        .form-group {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+        .result { 
+            margin-top: 20px; 
+            padding: 20px; 
+            background: #e8f5e8; 
+            border-radius: 8px;
+            border-left: 4px solid #27ae60;
+        }
+        .stats { 
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 20px; 
+            border-radius: 10px; 
+            margin-bottom: 30px;
+        }
+        .stats h3 { margin-top: 0; }
+        .code-block {
+            background: #2c3e50;
+            color: #ecf0f1;
+            padding: 15px;
+            border-radius: 5px;
+            overflow-x: auto;
+            margin: 15px 0;
+        }
+        .api-section {
+            margin-top: 30px;
+            padding-top: 30px;
+            border-top: 2px solid #ecf0f1;
+        }
+        .endpoint {
+            background: #f8f9fa;
+            padding: 10px;
+            border-radius: 5px;
+            margin: 10px 0;
+            font-family: monospace;
+            font-size: 14px;
+        }
+        .btn {
+            background: #3498db;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin: 5px;
+        }
+        .btn:hover {
+            background: #2980b9;
+        }
+        .github-link {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .github-link a {
+            color: #3498db;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🇻🇳 Vietnam Administrative Data CDN</h1>
+        <div class="subtitle">Dữ liệu hành chính Việt Nam đầy đủ - Tạo bởi exsavior2412</div>
+        
+        <div class="stats">
+            <h3>📊 Thống kê dữ liệu:</h3>
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px;">
+                <div>📍 <strong id="total-provinces">63</strong> tỉnh thành phố</div>
+                <div>🏘️ <strong id="total-districts">705</strong> quận/huyện</div>
+                <div>🏠 <strong id="total-wards">10,599</strong> phường/xã</div>
+                <div>📅 Cập nhật: <strong id="last-updated">2024</strong></div>
+            </div>
+        </div>
+
+        <div>
+            <h3>🔍 Demo chọn địa chỉ:</h3>
+            
+            <div class="form-group">
+                <select id="provinces">
+                    <option value="">Chọn tỉnh thành...</option>
+                </select>
+                
+                <select id="districts" disabled>
+                    <option value="">Chọn quận/huyện...</option>
+                </select>
+                
+                <select id="wards" disabled>
+                    <option value="">Chọn phường/xã...</option>
+                </select>
+            </div>
+
+            <button class="btn" onclick="clearAll()">🔄 Reset</button>
+            <button class="btn" onclick="randomAddress()">🎲 Địa chỉ ngẫu nhiên</button>
+        </div>
+
+        <div class="result" id="result" style="display: none;">
+            <h4>📍 Địa chỉ đã chọn:</h4>
+            <p id="fullAddress" style="font-size: 18px; font-weight: bold; color: #27ae60;"></p>
+            <div id="addressDetails"></div>
+        </div>
+
+        <div class="api-section">
+            <h3>🚀 API Endpoints CDN:</h3>
+            
+            <div class="endpoint">
+                <strong>Tất cả tỉnh thành:</strong><br>
+                https://cdn.jsdelivr.net/gh/exsavior2412/my-vietnam-admin-cdn@main/provinces.json
+            </div>
+            
+            <div class="endpoint">
+                <strong>Quận/huyện theo tỉnh:</strong><br>
+                https://cdn.jsdelivr.net/gh/exsavior2412/my-vietnam-admin-cdn@main/districts/{province_code}.json
+            </div>
+            
+            <div class="endpoint">
+                <strong>Phường/xã theo quận/huyện:</strong><br>
+                https://cdn.jsdelivr.net/gh/exsavior2412/my-vietnam-admin-cdn@main/wards/{district_code}.json
+            </div>
+
+            <h4>💻 Ví dụ sử dụng JavaScript:</h4>
+            <div class="code-block">
+<pre>// Load tất cả tỉnh thành
+const provinces = await fetch('https://cdn.jsdelivr.net/gh/exsavior2412/my-vietnam-admin-cdn@main/provinces.json')
+  .then(r => r.json());
+
+// Load quận/huyện của Hà Nội (code: 01)  
+const districts = await fetch('https://cdn.jsdelivr.net/gh/exsavior2412/my-vietnam-admin-cdn@main/districts/01.json')
+  .then(r => r.json());
+
+// Load phường/xã của quận Ba Đình (code: 001)
+const wards = await fetch('https://cdn.jsdelivr.net/gh/exsavior2412/my-vietnam-admin-cdn@main/wards/001.json')
+  .then(r => r.json());</pre>
+            </div>
+        </div>
+
+        <div class="github-link">
+            <a href="https://github.com/exsavior2412/my-vietnam-admin-cdn" target="_blank">
+                📂 Xem source code trên GitHub
+            </a>
+        </div>
+    </div>
+
+    <script>
+        let currentProvinces = [];
+        let currentDistricts = [];
+        let currentWards = [];
+
+        async function loadMetadata() {
+            try {
+                const response = await fetch('./metadata.json');
+                const metadata = await response.json();
+                
+                document.getElementById('total-provinces').textContent = metadata.total_provinces;
+                document.getElementById('total-districts').textContent = metadata.total_districts;
+                document.getElementById('total-wards').textContent = metadata.total_wards;
+                document.getElementById('last-updated').textContent = new Date(metadata.last_updated).getFullYear();
+            } catch (error) {
+                console.error('Error loading metadata:', error);
+            }
+        }
+
+        async function loadProvinces() {
+            try {
+                const response = await fetch('./provinces.json');
+                currentProvinces = await response.json();
+                
+                const select = document.getElementById('provinces');
+                select.innerHTML = '<option value="">Chọn tỉnh thành...</option>';
+                
+                currentProvinces.forEach(province => {
+                    const option = document.createElement('option');
+                    option.value = province.code;
+                    option.textContent = province.full_name;
+                    select.appendChild(option);
+                });
+                
+                console.log(`✅ Loaded ${currentProvinces.length} provinces`);
+            } catch (error) {
+                console.error('Error loading provinces:', error);
+            }
+        }
+
+        async function loadDistricts(provinceCode) {
+            try {
+                const response = await fetch(`./districts/${provinceCode}.json`);
+                currentDistricts = await response.json();
+                
+                const select = document.getElementById('districts');
+                select.innerHTML = '<option value="">Chọn quận/huyện...</option>';
+                
+                currentDistricts.forEach(district => {
+                    const option = document.createElement('option');
+                    option.value = district.code;
+                    option.textContent = district.full_name;
+                    select.appendChild(option);
+                });
+                
+                select.disabled = false;
+                document.getElementById('wards').disabled = true;
+                document.getElementById('wards').innerHTML = '<option value="">Chọn phường/xã...</option>';
+                
+                console.log(`✅ Loaded ${currentDistricts.length} districts`);
+            } catch (error) {
+                console.error('Error loading districts:', error);
+            }
+        }
+
+        async function loadWards(districtCode) {
+            try {
+                const response = await fetch(`./wards/${districtCode}.json`);
+                currentWards = await response.json();
+                
+                const select = document.getElementById('wards');
+                select.innerHTML = '<option value="">Chọn phường/xã...</option>';
+                
+                currentWards.forEach(ward => {
+                    const option = document.createElement('option');
+                    option.value = ward.code;
+                    option.textContent = ward.full_name;
+                    select.appendChild(option);
+                });
+                
+                select.disabled = false;
+                console.log(`✅ Loaded ${currentWards.length} wards`);
+            } catch (error) {
+                console.error('Error loading wards:', error);
+            }
+        }
+
+        function updateResult() {
+            const provinceCode = document.getElementById('provinces').value;
+            const districtCode = document.getElementById('districts').value;
+            const wardCode = document.getElementById('wards').value;
+
+            if (provinceCode && districtCode && wardCode) {
+                const province = currentProvinces.find(p => p.code === provinceCode);
+                const district = currentDistricts.find(d => d.code === districtCode);
+                const ward = currentWards.find(w => w.code === wardCode);
+
+                document.getElementById('fullAddress').textContent = 
+                    `${ward.full_name}, ${district.full_name}, ${province.full_name}`;
+                
+                document.getElementById('addressDetails').innerHTML = `
+                    <div style="margin-top: 15px; padding: 15px; background: white; border-radius: 5px;">
+                        <div><strong>Phường/Xã:</strong> ${ward.name} (${ward.type})</div>
+                        <div><strong>Quận/Huyện:</strong> ${district.name} (${district.type})</div>
+                        <div><strong>Tỉnh/Thành:</strong> ${province.name} (${province.type})</div>
+                        <div style="margin-top: 10px; font-size: 12px; color: #7f8c8d;">
+                            <strong>Codes:</strong> Province: ${province.code} | District: ${district.code} | Ward: ${ward.code}
+                        </div>
+                    </div>
+                `;
+                
+                document.getElementById('result').style.display = 'block';
+            } else {
+                document.getElementById('result').style.display = 'none';
+            }
+        }
+
+        function clearAll() {
+            document.getElementById('provinces').value = '';
+            document.getElementById('districts').innerHTML = '<option value="">Chọn quận/huyện...</option>';
+            document.getElementById('districts').disabled = true;
+            document.getElementById('wards').innerHTML = '<option value="">Chọn phường/xã...</option>';
+            document.getElementById('wards').disabled = true;
+            document.getElementById('result').style.display = 'none';
+            currentDistricts = [];
+            currentWards = [];
+        }
+
+        async function randomAddress() {
+            if (currentProvinces.length === 0) return;
+            
+            // Random province
+            const randomProvince = currentProvinces[Math.floor(Math.random() * currentProvinces.length)];
+            document.getElementById('provinces').value = randomProvince.code;
+            
+            // Load districts and pick random
+            await loadDistricts(randomProvince.code);
+            const randomDistrict = currentDistricts[Math.floor(Math.random() * currentDistricts.length)];
+            document.getElementById('districts').value = randomDistrict.code;
+            
+            // Load wards and pick random
+            await loadWards(randomDistrict.code);
+            const randomWard = currentWards[Math.floor(Math.random() * currentWards.length)];
+            document.getElementById('wards').value = randomWard.code;
+            
+            updateResult();
+        }
+
+        // Event listeners
+        document.getElementById('provinces').addEventListener('change', (e) => {
+            if (e.target.value) {
+                loadDistricts(e.target.value);
+            } else {
+                clearAll();
+            }
+            updateResult();
+        });
+
+        document.getElementById('districts').addEventListener('change', (e) => {
+            if (e.target.value) {
+                loadWards(e.target.value);
+            } else {
+                document.getElementById('wards').innerHTML = '<option value="">Chọn phường/xã...</option>';
+                document.getElementById('wards').disabled = true;
+                currentWards = [];
+            }
+            updateResult();
+        });
+
+        document.getElementById('wards').addEventListener('change', updateResult);
+
+        // Initialize
+        loadMetadata();
+        loadProvinces();
+    </script>
+</body>
+</html>

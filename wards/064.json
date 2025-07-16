@@ -1,0 +1,202 @@
+[
+  {
+    "code": "02020",
+    "name": "Bằng Lũng",
+    "name_en": "Bang Lung",
+    "full_name": "Thị trấn Bằng Lũng",
+    "full_name_en": "Bang Lung Township",
+    "type": "thị trấn",
+    "district_code": "064",
+    "codename": "bang_lung"
+  },
+  {
+    "code": "02023",
+    "name": "Xuân Lạc",
+    "name_en": "Xuan Lac",
+    "full_name": "Xã Xuân Lạc",
+    "full_name_en": "Xuan Lac Commune",
+    "type": "xã",
+    "district_code": "064",
+    "codename": "xuan_lac"
+  },
+  {
+    "code": "02026",
+    "name": "Nam Cường",
+    "name_en": "Nam Cuong",
+    "full_name": "Xã Nam Cường",
+    "full_name_en": "Nam Cuong Commune",
+    "type": "xã",
+    "district_code": "064",
+    "codename": "nam_cuong"
+  },
+  {
+    "code": "02029",
+    "name": "Đồng Lạc",
+    "name_en": "Dong Lac",
+    "full_name": "Xã Đồng Lạc",
+    "full_name_en": "Dong Lac Commune",
+    "type": "xã",
+    "district_code": "064",
+    "codename": "dong_lac"
+  },
+  {
+    "code": "02032",
+    "name": "Tân Lập",
+    "name_en": "Tan Lap",
+    "full_name": "Xã Tân Lập",
+    "full_name_en": "Tan Lap Commune",
+    "type": "xã",
+    "district_code": "064",
+    "codename": "tan_lap"
+  },
+  {
+    "code": "02035",
+    "name": "Bản Thi",
+    "name_en": "Ban Thi",
+    "full_name": "Xã Bản Thi",
+    "full_name_en": "Ban Thi Commune",
+    "type": "xã",
+    "district_code": "064",
+    "codename": "ban_thi"
+  },
+  {
+    "code": "02038",
+    "name": "Quảng Bạch",
+    "name_en": "Quang Bach",
+    "full_name": "Xã Quảng Bạch",
+    "full_name_en": "Quang Bach Commune",
+    "type": "xã",
+    "district_code": "064",
+    "codename": "quang_bach"
+  },
+  {
+    "code": "02041",
+    "name": "Bằng Phúc",
+    "name_en": "Bang Phuc",
+    "full_name": "Xã Bằng Phúc",
+    "full_name_en": "Bang Phuc Commune",
+    "type": "xã",
+    "district_code": "064",
+    "codename": "bang_phuc"
+  },
+  {
+    "code": "02044",
+    "name": "Yên Thịnh",
+    "name_en": "Yen Thinh",
+    "full_name": "Xã Yên Thịnh",
+    "full_name_en": "Yen Thinh Commune",
+    "type": "xã",
+    "district_code": "064",
+    "codename": "yen_thinh"
+  },
+  {
+    "code": "02047",
+    "name": "Yên Thượng",
+    "name_en": "Yen Thuong",
+    "full_name": "Xã Yên Thượng",
+    "full_name_en": "Yen Thuong Commune",
+    "type": "xã",
+    "district_code": "064",
+    "codename": "yen_thuong"
+  },
+  {
+    "code": "02050",
+    "name": "Phương Viên",
+    "name_en": "Phuong Vien",
+    "full_name": "Xã Phương Viên",
+    "full_name_en": "Phuong Vien Commune",
+    "type": "xã",
+    "district_code": "064",
+    "codename": "phuong_vien"
+  },
+  {
+    "code": "02053",
+    "name": "Ngọc Phái",
+    "name_en": "Ngoc Phai",
+    "full_name": "Xã Ngọc Phái",
+    "full_name_en": "Ngoc Phai Commune",
+    "type": "xã",
+    "district_code": "064",
+    "codename": "ngoc_phai"
+  },
+  {
+    "code": "02059",
+    "name": "Đồng Thắng",
+    "name_en": "Dong Thang",
+    "full_name": "Xã Đồng Thắng",
+    "full_name_en": "Dong Thang Commune",
+    "type": "xã",
+    "district_code": "064",
+    "codename": "dong_thang"
+  },
+  {
+    "code": "02062",
+    "name": "Lương Bằng",
+    "name_en": "Luong Bang",
+    "full_name": "Xã Lương Bằng",
+    "full_name_en": "Luong Bang Commune",
+    "type": "xã",
+    "district_code": "064",
+    "codename": "luong_bang"
+  },
+  {
+    "code": "02065",
+    "name": "Bằng Lãng",
+    "name_en": "Bang Lang",
+    "full_name": "Xã Bằng Lãng",
+    "full_name_en": "Bang Lang Commune",
+    "type": "xã",
+    "district_code": "064",
+    "codename": "bang_lang"
+  },
+  {
+    "code": "02068",
+    "name": "Đại Sảo",
+    "name_en": "Dai Sao",
+    "full_name": "Xã Đại Sảo",
+    "full_name_en": "Dai Sao Commune",
+    "type": "xã",
+    "district_code": "064",
+    "codename": "dai_sao"
+  },
+  {
+    "code": "02071",
+    "name": "Nghĩa Tá",
+    "name_en": "Nghia Ta",
+    "full_name": "Xã Nghĩa Tá",
+    "full_name_en": "Nghia Ta Commune",
+    "type": "xã",
+    "district_code": "064",
+    "codename": "nghia_ta"
+  },
+  {
+    "code": "02077",
+    "name": "Yên Mỹ",
+    "name_en": "Yen My",
+    "full_name": "Xã Yên Mỹ",
+    "full_name_en": "Yen My Commune",
+    "type": "xã",
+    "district_code": "064",
+    "codename": "yen_my"
+  },
+  {
+    "code": "02080",
+    "name": "Bình Trung",
+    "name_en": "Binh Trung",
+    "full_name": "Xã Bình Trung",
+    "full_name_en": "Binh Trung Commune",
+    "type": "xã",
+    "district_code": "064",
+    "codename": "binh_trung"
+  },
+  {
+    "code": "02083",
+    "name": "Yên Phong",
+    "name_en": "Yen Phong",
+    "full_name": "Xã Yên Phong",
+    "full_name_en": "Yen Phong Commune",
+    "type": "xã",
+    "district_code": "064",
+    "codename": "yen_phong"
+  }
+]

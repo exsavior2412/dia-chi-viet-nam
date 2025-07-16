@@ -1,0 +1,162 @@
+[
+  {
+    "code": "02752",
+    "name": "Pha Long",
+    "name_en": "Pha Long",
+    "full_name": "Xã Pha Long",
+    "full_name_en": "Pha Long Commune",
+    "type": "xã",
+    "district_code": "083",
+    "codename": "pha_long"
+  },
+  {
+    "code": "02755",
+    "name": "Tả Ngải Chồ",
+    "name_en": "Ta Ngai Cho",
+    "full_name": "Xã Tả Ngải Chồ",
+    "full_name_en": "Ta Ngai Cho Commune",
+    "type": "xã",
+    "district_code": "083",
+    "codename": "ta_ngai_cho"
+  },
+  {
+    "code": "02758",
+    "name": "Tung Chung Phố",
+    "name_en": "Tung Chung Pho",
+    "full_name": "Xã Tung Chung Phố",
+    "full_name_en": "Tung Chung Pho Commune",
+    "type": "xã",
+    "district_code": "083",
+    "codename": "tung_chung_pho"
+  },
+  {
+    "code": "02761",
+    "name": "Mường Khương",
+    "name_en": "Muong Khuong",
+    "full_name": "Thị trấn Mường Khương",
+    "full_name_en": "Muong Khuong Township",
+    "type": "thị trấn",
+    "district_code": "083",
+    "codename": "muong_khuong"
+  },
+  {
+    "code": "02764",
+    "name": "Dìn Chin",
+    "name_en": "Din Chin",
+    "full_name": "Xã Dìn Chin",
+    "full_name_en": "Din Chin Commune",
+    "type": "xã",
+    "district_code": "083",
+    "codename": "din_chin"
+  },
+  {
+    "code": "02767",
+    "name": "Tả Gia Khâu",
+    "name_en": "Ta Gia Khau",
+    "full_name": "Xã Tả Gia Khâu",
+    "full_name_en": "Ta Gia Khau Commune",
+    "type": "xã",
+    "district_code": "083",
+    "codename": "ta_gia_khau"
+  },
+  {
+    "code": "02770",
+    "name": "Nậm Chảy",
+    "name_en": "Nam Chay",
+    "full_name": "Xã Nậm Chảy",
+    "full_name_en": "Nam Chay Commune",
+    "type": "xã",
+    "district_code": "083",
+    "codename": "nam_chay"
+  },
+  {
+    "code": "02773",
+    "name": "Nấm Lư",
+    "name_en": "Nam Lu",
+    "full_name": "Xã Nấm Lư",
+    "full_name_en": "Nam Lu Commune",
+    "type": "xã",
+    "district_code": "083",
+    "codename": "nam_lu"
+  },
+  {
+    "code": "02776",
+    "name": "Lùng Khấu Nhin",
+    "name_en": "Lung Khau Nhin",
+    "full_name": "Xã Lùng Khấu Nhin",
+    "full_name_en": "Lung Khau Nhin Commune",
+    "type": "xã",
+    "district_code": "083",
+    "codename": "lung_khau_nhin"
+  },
+  {
+    "code": "02779",
+    "name": "Thanh Bình",
+    "name_en": "Thanh Binh",
+    "full_name": "Xã Thanh Bình",
+    "full_name_en": "Thanh Binh Commune",
+    "type": "xã",
+    "district_code": "083",
+    "codename": "thanh_binh"
+  },
+  {
+    "code": "02782",
+    "name": "Cao Sơn",
+    "name_en": "Cao Son",
+    "full_name": "Xã Cao Sơn",
+    "full_name_en": "Cao Son Commune",
+    "type": "xã",
+    "district_code": "083",
+    "codename": "cao_son"
+  },
+  {
+    "code": "02785",
+    "name": "Lùng Vai",
+    "name_en": "Lung Vai",
+    "full_name": "Xã Lùng Vai",
+    "full_name_en": "Lung Vai Commune",
+    "type": "xã",
+    "district_code": "083",
+    "codename": "lung_vai"
+  },
+  {
+    "code": "02788",
+    "name": "Bản Lầu",
+    "name_en": "Ban Lau",
+    "full_name": "Xã Bản Lầu",
+    "full_name_en": "Ban Lau Commune",
+    "type": "xã",
+    "district_code": "083",
+    "codename": "ban_lau"
+  },
+  {
+    "code": "02791",
+    "name": "La Pan Tẩn",
+    "name_en": "La Pan Tan",
+    "full_name": "Xã La Pan Tẩn",
+    "full_name_en": "La Pan Tan Commune",
+    "type": "xã",
+    "district_code": "083",
+    "codename": "la_pan_tan"
+  },
+  {
+    "code": "02794",
+    "name": "Tả Thàng",
+    "name_en": "Ta Thang",
+    "full_name": "Xã Tả Thàng",
+    "full_name_en": "Ta Thang Commune",
+    "type": "xã",
+    "district_code": "083",
+    "codename": "ta_thang"
+  },
+  {
+    "code": "02797",
+    "name": "Bản Sen",
+    "name_en": "Ban Sen",
+    "full_name": "Xã Bản Sen",
+    "full_name_en": "Ban Sen Commune",
+    "type": "xã",
+    "district_code": "083",
+    "codename": "ban_sen"
+  }
+]

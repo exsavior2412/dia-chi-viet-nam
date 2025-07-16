@@ -1,0 +1,52 @@
+[
+  {
+    "code": "20194",
+    "name": "Hòa Hiệp Bắc",
+    "name_en": "Hoa Hiep Bac",
+    "full_name": "Phường Hòa Hiệp Bắc",
+    "full_name_en": "Hoa Hiep Bac Ward",
+    "type": "phường",
+    "district_code": "490",
+    "codename": "hoa_hiep_bac"
+  },
+  {
+    "code": "20195",
+    "name": "Hòa Hiệp Nam",
+    "name_en": "Hoa Hiep Nam",
+    "full_name": "Phường Hòa Hiệp Nam",
+    "full_name_en": "Hoa Hiep Nam Ward",
+    "type": "phường",
+    "district_code": "490",
+    "codename": "hoa_hiep_nam"
+  },
+  {
+    "code": "20197",
+    "name": "Hòa Khánh Bắc",
+    "name_en": "Hoa Khanh Bac",
+    "full_name": "Phường Hòa Khánh Bắc",
+    "full_name_en": "Hoa Khanh Bac Ward",
+    "type": "phường",
+    "district_code": "490",
+    "codename": "hoa_khanh_bac"
+  },
+  {
+    "code": "20198",
+    "name": "Hòa Khánh Nam",
+    "name_en": "Hoa Khanh Nam",
+    "full_name": "Phường Hòa Khánh Nam",
+    "full_name_en": "Hoa Khanh Nam Ward",
+    "type": "phường",
+    "district_code": "490",
+    "codename": "hoa_khanh_nam"
+  },
+  {
+    "code": "20200",
+    "name": "Hòa Minh",
+    "name_en": "Hoa Minh",
+    "full_name": "Phường Hòa Minh",
+    "full_name_en": "Hoa Minh Ward",
+    "type": "phường",
+    "district_code": "490",
+    "codename": "hoa_minh"
+  }
+]

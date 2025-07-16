@@ -1,0 +1,92 @@
+[
+  {
+    "code": "718",
+    "name": "Thủ Dầu Một",
+    "name_en": "Thu Dau Mot",
+    "full_name": "Thành phố Thủ Dầu Một",
+    "full_name_en": "Thu Dau Mot City",
+    "type": "thành phố",
+    "province_code": "74",
+    "codename": "thu_dau_mot"
+  },
+  {
+    "code": "719",
+    "name": "Bàu Bàng",
+    "name_en": "Bau Bang",
+    "full_name": "Huyện Bàu Bàng",
+    "full_name_en": "Bau Bang District",
+    "type": "huyện",
+    "province_code": "74",
+    "codename": "bau_bang"
+  },
+  {
+    "code": "720",
+    "name": "Dầu Tiếng",
+    "name_en": "Dau Tieng",
+    "full_name": "Huyện Dầu Tiếng",
+    "full_name_en": "Dau Tieng District",
+    "type": "huyện",
+    "province_code": "74",
+    "codename": "dau_tieng"
+  },
+  {
+    "code": "721",
+    "name": "Bến Cát",
+    "name_en": "Ben Cat",
+    "full_name": "Thành phố Bến Cát",
+    "full_name_en": "Ben Cat City",
+    "type": "thành phố",
+    "province_code": "74",
+    "codename": "ben_cat"
+  },
+  {
+    "code": "722",
+    "name": "Phú Giáo",
+    "name_en": "Phu Giao",
+    "full_name": "Huyện Phú Giáo",
+    "full_name_en": "Phu Giao District",
+    "type": "huyện",
+    "province_code": "74",
+    "codename": "phu_giao"
+  },
+  {
+    "code": "723",
+    "name": "Tân Uyên",
+    "name_en": "Tan Uyen",
+    "full_name": "Thành phố Tân Uyên",
+    "full_name_en": "Tan Uyen City",
+    "type": "thành phố",
+    "province_code": "74",
+    "codename": "tan_uyen"
+  },
+  {
+    "code": "724",
+    "name": "Dĩ An",
+    "name_en": "Di An",
+    "full_name": "Thành phố Dĩ An",
+    "full_name_en": "Di An City",
+    "type": "thành phố",
+    "province_code": "74",
+    "codename": "di_an"
+  },
+  {
+    "code": "725",
+    "name": "Thuận An",
+    "name_en": "Thuan An",
+    "full_name": "Thành phố Thuận An",
+    "full_name_en": "Thuan An City",
+    "type": "thành phố",
+    "province_code": "74",
+    "codename": "thuan_an"
+  },
+  {
+    "code": "726",
+    "name": "Bắc Tân Uyên",
+    "name_en": "Bac Tan Uyen",
+    "full_name": "Huyện Bắc Tân Uyên",
+    "full_name_en": "Bac Tan Uyen District",
+    "type": "huyện",
+    "province_code": "74",
+    "codename": "bac_tan_uyen"
+  }
+]

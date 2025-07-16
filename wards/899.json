@@ -1,0 +1,112 @@
+[
+  {
+    "code": "30733",
+    "name": "Vĩnh Thanh",
+    "name_en": "Vinh Thanh",
+    "full_name": "Phường Vĩnh Thanh",
+    "full_name_en": "Vinh Thanh Ward",
+    "type": "phường",
+    "district_code": "899",
+    "codename": "vinh_thanh"
+  },
+  {
+    "code": "30736",
+    "name": "Vĩnh Quang",
+    "name_en": "Vinh Quang",
+    "full_name": "Phường Vĩnh Quang",
+    "full_name_en": "Vinh Quang Ward",
+    "type": "phường",
+    "district_code": "899",
+    "codename": "vinh_quang"
+  },
+  {
+    "code": "30739",
+    "name": "Vĩnh Hiệp",
+    "name_en": "Vinh Hiep",
+    "full_name": "Phường Vĩnh Hiệp",
+    "full_name_en": "Vinh Hiep Ward",
+    "type": "phường",
+    "district_code": "899",
+    "codename": "vinh_hiep"
+  },
+  {
+    "code": "30742",
+    "name": "Vĩnh Thanh Vân",
+    "name_en": "Vinh Thanh Van",
+    "full_name": "Phường Vĩnh Thanh Vân",
+    "full_name_en": "Vinh Thanh Van Ward",
+    "type": "phường",
+    "district_code": "899",
+    "codename": "vinh_thanh_van"
+  },
+  {
+    "code": "30745",
+    "name": "Vĩnh Lạc",
+    "name_en": "Vinh Lac",
+    "full_name": "Phường Vĩnh Lạc",
+    "full_name_en": "Vinh Lac Ward",
+    "type": "phường",
+    "district_code": "899",
+    "codename": "vinh_lac"
+  },
+  {
+    "code": "30748",
+    "name": "An Hòa",
+    "name_en": "An Hoa",
+    "full_name": "Phường An Hòa",
+    "full_name_en": "An Hoa Ward",
+    "type": "phường",
+    "district_code": "899",
+    "codename": "an_hoa"
+  },
+  {
+    "code": "30751",
+    "name": "An Bình",
+    "name_en": "An Binh",
+    "full_name": "Phường An Bình",
+    "full_name_en": "An Binh Ward",
+    "type": "phường",
+    "district_code": "899",
+    "codename": "an_binh"
+  },
+  {
+    "code": "30754",
+    "name": "Rạch Sỏi",
+    "name_en": "Rach Soi",
+    "full_name": "Phường Rạch Sỏi",
+    "full_name_en": "Rach Soi Ward",
+    "type": "phường",
+    "district_code": "899",
+    "codename": "rach_soi"
+  },
+  {
+    "code": "30757",
+    "name": "Vĩnh Lợi",
+    "name_en": "Vinh Loi",
+    "full_name": "Phường Vĩnh Lợi",
+    "full_name_en": "Vinh Loi Ward",
+    "type": "phường",
+    "district_code": "899",
+    "codename": "vinh_loi"
+  },
+  {
+    "code": "30760",
+    "name": "Vĩnh Thông",
+    "name_en": "Vinh Thong",
+    "full_name": "Phường Vĩnh Thông",
+    "full_name_en": "Vinh Thong Ward",
+    "type": "phường",
+    "district_code": "899",
+    "codename": "vinh_thong"
+  },
+  {
+    "code": "30763",
+    "name": "Phi Thông",
+    "name_en": "Phi Thong",
+    "full_name": "Xã Phi Thông",
+    "full_name_en": "Phi Thong Commune",
+    "type": "xã",
+    "district_code": "899",
+    "codename": "phi_thong"
+  }
+]

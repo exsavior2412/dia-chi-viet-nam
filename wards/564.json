@@ -1,0 +1,102 @@
+[
+  {
+    "code": "22243",
+    "name": "Hòa Thành",
+    "name_en": "Hoa Thanh",
+    "full_name": "Xã Hòa Thành",
+    "full_name_en": "Hoa Thanh Commune",
+    "type": "xã",
+    "district_code": "564",
+    "codename": "hoa_thanh"
+  },
+  {
+    "code": "22246",
+    "name": "Hòa Hiệp Bắc",
+    "name_en": "Hoa Hiep Bac",
+    "full_name": "Phường Hòa Hiệp Bắc",
+    "full_name_en": "Hoa Hiep Bac Ward",
+    "type": "phường",
+    "district_code": "564",
+    "codename": "hoa_hiep_bac"
+  },
+  {
+    "code": "22258",
+    "name": "Hoà Vinh",
+    "name_en": "Hoa Vinh",
+    "full_name": "Phường Hoà Vinh",
+    "full_name_en": "Hoa Vinh Ward",
+    "type": "phường",
+    "district_code": "564",
+    "codename": "hoa_vinh"
+  },
+  {
+    "code": "22261",
+    "name": "Hoà Hiệp Trung",
+    "name_en": "Hoa Hiep Trung",
+    "full_name": "Phường Hoà Hiệp Trung",
+    "full_name_en": "Hoa Hiep Trung Ward",
+    "type": "phường",
+    "district_code": "564",
+    "codename": "hoa_hiep_trung"
+  },
+  {
+    "code": "22267",
+    "name": "Hòa Tân Đông",
+    "name_en": "Hoa Tan Dong",
+    "full_name": "Xã Hòa Tân Đông",
+    "full_name_en": "Hoa Tan Dong Commune",
+    "type": "xã",
+    "district_code": "564",
+    "codename": "hoa_tan_dong"
+  },
+  {
+    "code": "22279",
+    "name": "Hòa Xuân Tây",
+    "name_en": "Hoa Xuan Tay",
+    "full_name": "Phường Hòa Xuân Tây",
+    "full_name_en": "Hoa Xuan Tay Ward",
+    "type": "phường",
+    "district_code": "564",
+    "codename": "hoa_xuan_tay"
+  },
+  {
+    "code": "22282",
+    "name": "Hòa Hiệp Nam",
+    "name_en": "Hoa Hiep Nam",
+    "full_name": "Phường Hòa Hiệp Nam",
+    "full_name_en": "Hoa Hiep Nam Ward",
+    "type": "phường",
+    "district_code": "564",
+    "codename": "hoa_hiep_nam"
+  },
+  {
+    "code": "22291",
+    "name": "Hòa Xuân Đông",
+    "name_en": "Hoa Xuan Dong",
+    "full_name": "Xã Hòa Xuân Đông",
+    "full_name_en": "Hoa Xuan Dong Commune",
+    "type": "xã",
+    "district_code": "564",
+    "codename": "hoa_xuan_dong"
+  },
+  {
+    "code": "22297",
+    "name": "Hòa Tâm",
+    "name_en": "Hoa Tam",
+    "full_name": "Xã Hòa Tâm",
+    "full_name_en": "Hoa Tam Commune",
+    "type": "xã",
+    "district_code": "564",
+    "codename": "hoa_tam"
+  },
+  {
+    "code": "22300",
+    "name": "Hòa Xuân Nam",
+    "name_en": "Hoa Xuan Nam",
+    "full_name": "Xã Hòa Xuân Nam",
+    "full_name_en": "Hoa Xuan Nam Commune",
+    "type": "xã",
+    "district_code": "564",
+    "codename": "hoa_xuan_nam"
+  }
+]

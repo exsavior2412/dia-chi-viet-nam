@@ -1,0 +1,102 @@
+[
+  {
+    "code": "23230",
+    "name": "Tân Minh",
+    "name_en": "Tan Minh",
+    "full_name": "Thị trấn Tân Minh",
+    "full_name_en": "Tan Minh Township",
+    "type": "thị trấn",
+    "district_code": "601",
+    "codename": "tan_minh"
+  },
+  {
+    "code": "23236",
+    "name": "Tân Nghĩa",
+    "name_en": "Tan Nghia",
+    "full_name": "Thị trấn Tân Nghĩa",
+    "full_name_en": "Tan Nghia Township",
+    "type": "thị trấn",
+    "district_code": "601",
+    "codename": "tan_nghia"
+  },
+  {
+    "code": "23239",
+    "name": "Sông Phan",
+    "name_en": "Song Phan",
+    "full_name": "Xã Sông Phan",
+    "full_name_en": "Song Phan Commune",
+    "type": "xã",
+    "district_code": "601",
+    "codename": "song_phan"
+  },
+  {
+    "code": "23242",
+    "name": "Tân Phúc",
+    "name_en": "Tan Phuc",
+    "full_name": "Xã Tân Phúc",
+    "full_name_en": "Tan Phuc Commune",
+    "type": "xã",
+    "district_code": "601",
+    "codename": "tan_phuc"
+  },
+  {
+    "code": "23251",
+    "name": "Tân Đức",
+    "name_en": "Tan Duc",
+    "full_name": "Xã Tân Đức",
+    "full_name_en": "Tan Duc Commune",
+    "type": "xã",
+    "district_code": "601",
+    "codename": "tan_duc"
+  },
+  {
+    "code": "23254",
+    "name": "Tân Thắng",
+    "name_en": "Tan Thang",
+    "full_name": "Xã Tân Thắng",
+    "full_name_en": "Tan Thang Commune",
+    "type": "xã",
+    "district_code": "601",
+    "codename": "tan_thang"
+  },
+  {
+    "code": "23255",
+    "name": "Thắng Hải",
+    "name_en": "Thang Hai",
+    "full_name": "Xã Thắng Hải",
+    "full_name_en": "Thang Hai Commune",
+    "type": "xã",
+    "district_code": "601",
+    "codename": "thang_hai"
+  },
+  {
+    "code": "23257",
+    "name": "Tân Hà",
+    "name_en": "Tan Ha",
+    "full_name": "Xã Tân Hà",
+    "full_name_en": "Tan Ha Commune",
+    "type": "xã",
+    "district_code": "601",
+    "codename": "tan_ha"
+  },
+  {
+    "code": "23260",
+    "name": "Tân Xuân",
+    "name_en": "Tan Xuan",
+    "full_name": "Xã Tân Xuân",
+    "full_name_en": "Tan Xuan Commune",
+    "type": "xã",
+    "district_code": "601",
+    "codename": "tan_xuan"
+  },
+  {
+    "code": "23266",
+    "name": "Sơn Mỹ",
+    "name_en": "Son My",
+    "full_name": "Xã Sơn Mỹ",
+    "full_name_en": "Son My Commune",
+    "type": "xã",
+    "district_code": "601",
+    "codename": "son_my"
+  }
+]

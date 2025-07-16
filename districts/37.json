@@ -1,0 +1,72 @@
+[
+  {
+    "code": "370",
+    "name": "Tam Điệp",
+    "name_en": "Tam Diep",
+    "full_name": "Thành phố Tam Điệp",
+    "full_name_en": "Tam Diep City",
+    "type": "thành phố",
+    "province_code": "37",
+    "codename": "tam_diep"
+  },
+  {
+    "code": "372",
+    "name": "Nho Quan",
+    "name_en": "Nho Quan",
+    "full_name": "Huyện Nho Quan",
+    "full_name_en": "Nho Quan District",
+    "type": "huyện",
+    "province_code": "37",
+    "codename": "nho_quan"
+  },
+  {
+    "code": "373",
+    "name": "Gia Viễn",
+    "name_en": "Gia Vien",
+    "full_name": "Huyện Gia Viễn",
+    "full_name_en": "Gia Vien District",
+    "type": "huyện",
+    "province_code": "37",
+    "codename": "gia_vien"
+  },
+  {
+    "code": "374",
+    "name": "Hoa Lư",
+    "name_en": "Hoa Lu",
+    "full_name": "Thành phố Hoa Lư",
+    "full_name_en": "Hoa Lu City",
+    "type": "thành phố",
+    "province_code": "37",
+    "codename": "hoa_lu"
+  },
+  {
+    "code": "375",
+    "name": "Yên Khánh",
+    "name_en": "Yen Khanh",
+    "full_name": "Huyện Yên Khánh",
+    "full_name_en": "Yen Khanh District",
+    "type": "huyện",
+    "province_code": "37",
+    "codename": "yen_khanh"
+  },
+  {
+    "code": "376",
+    "name": "Kim Sơn",
+    "name_en": "Kim Son",
+    "full_name": "Huyện Kim Sơn",
+    "full_name_en": "Kim Son District",
+    "type": "huyện",
+    "province_code": "37",
+    "codename": "kim_son"
+  },
+  {
+    "code": "377",
+    "name": "Yên Mô",
+    "name_en": "Yen Mo",
+    "full_name": "Huyện Yên Mô",
+    "full_name_en": "Yen Mo District",
+    "type": "huyện",
+    "province_code": "37",
+    "codename": "yen_mo"
+  }
+]

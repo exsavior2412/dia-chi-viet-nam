@@ -1,0 +1,102 @@
+[
+  {
+    "code": "213",
+    "name": "Bắc Giang",
+    "name_en": "Bac Giang",
+    "full_name": "Thành phố Bắc Giang",
+    "full_name_en": "Bac Giang City",
+    "type": "thành phố",
+    "province_code": "24",
+    "codename": "bac_giang"
+  },
+  {
+    "code": "215",
+    "name": "Yên Thế",
+    "name_en": "Yen The",
+    "full_name": "Huyện Yên Thế",
+    "full_name_en": "Yen The District",
+    "type": "huyện",
+    "province_code": "24",
+    "codename": "yen_the"
+  },
+  {
+    "code": "216",
+    "name": "Tân Yên",
+    "name_en": "Tan Yen",
+    "full_name": "Huyện Tân Yên",
+    "full_name_en": "Tan Yen District",
+    "type": "huyện",
+    "province_code": "24",
+    "codename": "tan_yen"
+  },
+  {
+    "code": "217",
+    "name": "Lạng Giang",
+    "name_en": "Lang Giang",
+    "full_name": "Huyện Lạng Giang",
+    "full_name_en": "Lang Giang District",
+    "type": "huyện",
+    "province_code": "24",
+    "codename": "lang_giang"
+  },
+  {
+    "code": "218",
+    "name": "Lục Nam",
+    "name_en": "Luc Nam",
+    "full_name": "Huyện Lục Nam",
+    "full_name_en": "Luc Nam District",
+    "type": "huyện",
+    "province_code": "24",
+    "codename": "luc_nam"
+  },
+  {
+    "code": "219",
+    "name": "Lục Ngạn",
+    "name_en": "Luc Ngan",
+    "full_name": "Huyện Lục Ngạn",
+    "full_name_en": "Luc Ngan District",
+    "type": "huyện",
+    "province_code": "24",
+    "codename": "luc_ngan"
+  },
+  {
+    "code": "220",
+    "name": "Sơn Động",
+    "name_en": "Son Dong",
+    "full_name": "Huyện Sơn Động",
+    "full_name_en": "Son Dong District",
+    "type": "huyện",
+    "province_code": "24",
+    "codename": "son_dong"
+  },
+  {
+    "code": "222",
+    "name": "Việt Yên",
+    "name_en": "Viet Yen",
+    "full_name": "Thị xã Việt Yên",
+    "full_name_en": "Viet Yen Town",
+    "type": "thị xã",
+    "province_code": "24",
+    "codename": "viet_yen"
+  },
+  {
+    "code": "223",
+    "name": "Hiệp Hòa",
+    "name_en": "Hiep Hoa",
+    "full_name": "Huyện Hiệp Hòa",
+    "full_name_en": "Hiep Hoa District",
+    "type": "huyện",
+    "province_code": "24",
+    "codename": "hiep_hoa"
+  },
+  {
+    "code": "224",
+    "name": "Chũ",
+    "name_en": "Chu",
+    "full_name": "Thị xã Chũ",
+    "full_name_en": "Chu Town",
+    "type": "thị xã",
+    "province_code": "24",
+    "codename": "chu"
+  }
+]

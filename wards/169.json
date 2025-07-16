@@ -1,0 +1,142 @@
+[
+  {
+    "code": "05656",
+    "name": "Sông Cầu",
+    "name_en": "Song Cau",
+    "full_name": "Thị trấn Sông Cầu",
+    "full_name_en": "Song Cau Township",
+    "type": "thị trấn",
+    "district_code": "169",
+    "codename": "song_cau"
+  },
+  {
+    "code": "05662",
+    "name": "Trại Cau",
+    "name_en": "Trai Cau",
+    "full_name": "Thị trấn Trại Cau",
+    "full_name_en": "Trai Cau Township",
+    "type": "thị trấn",
+    "district_code": "169",
+    "codename": "trai_cau"
+  },
+  {
+    "code": "05665",
+    "name": "Văn Lăng",
+    "name_en": "Van Lang",
+    "full_name": "Xã Văn Lăng",
+    "full_name_en": "Van Lang Commune",
+    "type": "xã",
+    "district_code": "169",
+    "codename": "van_lang"
+  },
+  {
+    "code": "05668",
+    "name": "Tân Long",
+    "name_en": "Tan Long",
+    "full_name": "Xã Tân Long",
+    "full_name_en": "Tan Long Commune",
+    "type": "xã",
+    "district_code": "169",
+    "codename": "tan_long"
+  },
+  {
+    "code": "05671",
+    "name": "Hòa Bình",
+    "name_en": "Hoa Binh",
+    "full_name": "Xã Hòa Bình",
+    "full_name_en": "Hoa Binh Commune",
+    "type": "xã",
+    "district_code": "169",
+    "codename": "hoa_binh"
+  },
+  {
+    "code": "05674",
+    "name": "Quang Sơn",
+    "name_en": "Quang Son",
+    "full_name": "Xã Quang Sơn",
+    "full_name_en": "Quang Son Commune",
+    "type": "xã",
+    "district_code": "169",
+    "codename": "quang_son"
+  },
+  {
+    "code": "05677",
+    "name": "Minh Lập",
+    "name_en": "Minh Lap",
+    "full_name": "Xã Minh Lập",
+    "full_name_en": "Minh Lap Commune",
+    "type": "xã",
+    "district_code": "169",
+    "codename": "minh_lap"
+  },
+  {
+    "code": "05680",
+    "name": "Văn Hán",
+    "name_en": "Van Han",
+    "full_name": "Xã Văn Hán",
+    "full_name_en": "Van Han Commune",
+    "type": "xã",
+    "district_code": "169",
+    "codename": "van_han"
+  },
+  {
+    "code": "05683",
+    "name": "Hóa Trung",
+    "name_en": "Hoa Trung",
+    "full_name": "Xã Hóa Trung",
+    "full_name_en": "Hoa Trung Commune",
+    "type": "xã",
+    "district_code": "169",
+    "codename": "hoa_trung"
+  },
+  {
+    "code": "05686",
+    "name": "Khe Mo",
+    "name_en": "Khe Mo",
+    "full_name": "Xã Khe Mo",
+    "full_name_en": "Khe Mo Commune",
+    "type": "xã",
+    "district_code": "169",
+    "codename": "khe_mo"
+  },
+  {
+    "code": "05689",
+    "name": "Cây Thị",
+    "name_en": "Cay Thi",
+    "full_name": "Xã Cây Thị",
+    "full_name_en": "Cay Thi Commune",
+    "type": "xã",
+    "district_code": "169",
+    "codename": "cay_thi"
+  },
+  {
+    "code": "05692",
+    "name": "Hóa Thượng",
+    "name_en": "Hoa Thuong",
+    "full_name": "Thị trấn Hóa Thượng",
+    "full_name_en": "Hoa Thuong Township",
+    "type": "thị trấn",
+    "district_code": "169",
+    "codename": "hoa_thuong"
+  },
+  {
+    "code": "05698",
+    "name": "Hợp Tiến",
+    "name_en": "Hop Tien",
+    "full_name": "Xã Hợp Tiến",
+    "full_name_en": "Hop Tien Commune",
+    "type": "xã",
+    "district_code": "169",
+    "codename": "hop_tien"
+  },
+  {
+    "code": "05707",
+    "name": "Nam Hòa",
+    "name_en": "Nam Hoa",
+    "full_name": "Xã Nam Hòa",
+    "full_name_en": "Nam Hoa Commune",
+    "type": "xã",
+    "district_code": "169",
+    "codename": "nam_hoa"
+  }
+]

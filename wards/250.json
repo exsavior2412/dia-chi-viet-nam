@@ -1,0 +1,172 @@
+[
+  {
+    "code": "08973",
+    "name": "Chi Đông",
+    "name_en": "Chi Dong",
+    "full_name": "Thị trấn Chi Đông",
+    "full_name_en": "Chi Dong Township",
+    "type": "thị trấn",
+    "district_code": "250",
+    "codename": "chi_dong"
+  },
+  {
+    "code": "08974",
+    "name": "Đại Thịnh",
+    "name_en": "Dai Thinh",
+    "full_name": "Xã Đại Thịnh",
+    "full_name_en": "Dai Thinh Commune",
+    "type": "xã",
+    "district_code": "250",
+    "codename": "dai_thinh"
+  },
+  {
+    "code": "08977",
+    "name": "Kim Hoa",
+    "name_en": "Kim Hoa",
+    "full_name": "Xã Kim Hoa",
+    "full_name_en": "Kim Hoa Commune",
+    "type": "xã",
+    "district_code": "250",
+    "codename": "kim_hoa"
+  },
+  {
+    "code": "08980",
+    "name": "Thạch Đà",
+    "name_en": "Thach Da",
+    "full_name": "Xã Thạch Đà",
+    "full_name_en": "Thach Da Commune",
+    "type": "xã",
+    "district_code": "250",
+    "codename": "thach_da"
+  },
+  {
+    "code": "08983",
+    "name": "Tiến Thắng",
+    "name_en": "Tien Thang",
+    "full_name": "Xã Tiến Thắng",
+    "full_name_en": "Tien Thang Commune",
+    "type": "xã",
+    "district_code": "250",
+    "codename": "tien_thang"
+  },
+  {
+    "code": "08986",
+    "name": "Tự Lập",
+    "name_en": "Tu Lap",
+    "full_name": "Xã Tự Lập",
+    "full_name_en": "Tu Lap Commune",
+    "type": "xã",
+    "district_code": "250",
+    "codename": "tu_lap"
+  },
+  {
+    "code": "08989",
+    "name": "Quang Minh",
+    "name_en": "Quang Minh",
+    "full_name": "Thị trấn Quang Minh",
+    "full_name_en": "Quang Minh Township",
+    "type": "thị trấn",
+    "district_code": "250",
+    "codename": "quang_minh"
+  },
+  {
+    "code": "08992",
+    "name": "Thanh Lâm",
+    "name_en": "Thanh Lam",
+    "full_name": "Xã Thanh Lâm",
+    "full_name_en": "Thanh Lam Commune",
+    "type": "xã",
+    "district_code": "250",
+    "codename": "thanh_lam"
+  },
+  {
+    "code": "08995",
+    "name": "Tam Đồng",
+    "name_en": "Tam Dong",
+    "full_name": "Xã Tam Đồng",
+    "full_name_en": "Tam Dong Commune",
+    "type": "xã",
+    "district_code": "250",
+    "codename": "tam_dong"
+  },
+  {
+    "code": "08998",
+    "name": "Liên Mạc",
+    "name_en": "Lien Mac",
+    "full_name": "Xã Liên Mạc",
+    "full_name_en": "Lien Mac Commune",
+    "type": "xã",
+    "district_code": "250",
+    "codename": "lien_mac"
+  },
+  {
+    "code": "09004",
+    "name": "Chu Phan",
+    "name_en": "Chu Phan",
+    "full_name": "Xã Chu Phan",
+    "full_name_en": "Chu Phan Commune",
+    "type": "xã",
+    "district_code": "250",
+    "codename": "chu_phan"
+  },
+  {
+    "code": "09007",
+    "name": "Tiến Thịnh",
+    "name_en": "Tien Thinh",
+    "full_name": "Xã Tiến Thịnh",
+    "full_name_en": "Tien Thinh Commune",
+    "type": "xã",
+    "district_code": "250",
+    "codename": "tien_thinh"
+  },
+  {
+    "code": "09010",
+    "name": "Mê Linh",
+    "name_en": "Me Linh",
+    "full_name": "Xã Mê Linh",
+    "full_name_en": "Me Linh Commune",
+    "type": "xã",
+    "district_code": "250",
+    "codename": "me_linh"
+  },
+  {
+    "code": "09013",
+    "name": "Văn Khê",
+    "name_en": "Van Khe",
+    "full_name": "Xã Văn Khê",
+    "full_name_en": "Van Khe Commune",
+    "type": "xã",
+    "district_code": "250",
+    "codename": "van_khe"
+  },
+  {
+    "code": "09016",
+    "name": "Hoàng Kim",
+    "name_en": "Hoang Kim",
+    "full_name": "Xã Hoàng Kim",
+    "full_name_en": "Hoang Kim Commune",
+    "type": "xã",
+    "district_code": "250",
+    "codename": "hoang_kim"
+  },
+  {
+    "code": "09019",
+    "name": "Tiền Phong",
+    "name_en": "Tien Phong",
+    "full_name": "Xã Tiền Phong",
+    "full_name_en": "Tien Phong Commune",
+    "type": "xã",
+    "district_code": "250",
+    "codename": "tien_phong"
+  },
+  {
+    "code": "09022",
+    "name": "Tráng Việt",
+    "name_en": "Trang Viet",
+    "full_name": "Xã Tráng Việt",
+    "full_name_en": "Trang Viet Commune",
+    "type": "xã",
+    "district_code": "250",
+    "codename": "trang_viet"
+  }
+]

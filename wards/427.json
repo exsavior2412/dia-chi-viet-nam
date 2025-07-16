@@ -1,0 +1,322 @@
+[
+  {
+    "code": "17617",
+    "name": "Đô Lương",
+    "name_en": "Do Luong",
+    "full_name": "Thị trấn Đô Lương",
+    "full_name_en": "Do Luong Township",
+    "type": "thị trấn",
+    "district_code": "427",
+    "codename": "do_luong"
+  },
+  {
+    "code": "17619",
+    "name": "Giang Sơn Đông",
+    "name_en": "Giang Son Dong",
+    "full_name": "Xã Giang Sơn Đông",
+    "full_name_en": "Giang Son Dong Commune",
+    "type": "xã",
+    "district_code": "427",
+    "codename": "giang_son_dong"
+  },
+  {
+    "code": "17620",
+    "name": "Giang Sơn Tây",
+    "name_en": "Giang Son Tay",
+    "full_name": "Xã Giang Sơn Tây",
+    "full_name_en": "Giang Son Tay Commune",
+    "type": "xã",
+    "district_code": "427",
+    "codename": "giang_son_tay"
+  },
+  {
+    "code": "17623",
+    "name": "Bạch Ngọc",
+    "name_en": "Bach Ngoc",
+    "full_name": "Xã Bạch Ngọc",
+    "full_name_en": "Bach Ngoc Commune",
+    "type": "xã",
+    "district_code": "427",
+    "codename": "bach_ngoc"
+  },
+  {
+    "code": "17626",
+    "name": "Bồi Sơn",
+    "name_en": "Boi Son",
+    "full_name": "Xã Bồi Sơn",
+    "full_name_en": "Boi Son Commune",
+    "type": "xã",
+    "district_code": "427",
+    "codename": "boi_son"
+  },
+  {
+    "code": "17629",
+    "name": "Hồng Sơn",
+    "name_en": "Hong Son",
+    "full_name": "Xã Hồng Sơn",
+    "full_name_en": "Hong Son Commune",
+    "type": "xã",
+    "district_code": "427",
+    "codename": "hong_son"
+  },
+  {
+    "code": "17632",
+    "name": "Bài Sơn",
+    "name_en": "Bai Son",
+    "full_name": "Xã Bài Sơn",
+    "full_name_en": "Bai Son Commune",
+    "type": "xã",
+    "district_code": "427",
+    "codename": "bai_son"
+  },
+  {
+    "code": "17638",
+    "name": "Bắc Sơn",
+    "name_en": "Bac Son",
+    "full_name": "Xã Bắc Sơn",
+    "full_name_en": "Bac Son Commune",
+    "type": "xã",
+    "district_code": "427",
+    "codename": "bac_son"
+  },
+  {
+    "code": "17641",
+    "name": "Tràng Sơn",
+    "name_en": "Trang Son",
+    "full_name": "Xã Tràng Sơn",
+    "full_name_en": "Trang Son Commune",
+    "type": "xã",
+    "district_code": "427",
+    "codename": "trang_son"
+  },
+  {
+    "code": "17644",
+    "name": "Thượng Sơn",
+    "name_en": "Thuong Son",
+    "full_name": "Xã Thượng Sơn",
+    "full_name_en": "Thuong Son Commune",
+    "type": "xã",
+    "district_code": "427",
+    "codename": "thuong_son"
+  },
+  {
+    "code": "17647",
+    "name": "Hòa Sơn",
+    "name_en": "Hoa Son",
+    "full_name": "Xã Hòa Sơn",
+    "full_name_en": "Hoa Son Commune",
+    "type": "xã",
+    "district_code": "427",
+    "codename": "hoa_son"
+  },
+  {
+    "code": "17650",
+    "name": "Đặng Sơn",
+    "name_en": "Dang Son",
+    "full_name": "Xã Đặng Sơn",
+    "full_name_en": "Dang Son Commune",
+    "type": "xã",
+    "district_code": "427",
+    "codename": "dang_son"
+  },
+  {
+    "code": "17653",
+    "name": "Đông Sơn",
+    "name_en": "Dong Son",
+    "full_name": "Xã Đông Sơn",
+    "full_name_en": "Dong Son Commune",
+    "type": "xã",
+    "district_code": "427",
+    "codename": "dong_son"
+  },
+  {
+    "code": "17656",
+    "name": "Nam Sơn",
+    "name_en": "Nam Son",
+    "full_name": "Xã Nam Sơn",
+    "full_name_en": "Nam Son Commune",
+    "type": "xã",
+    "district_code": "427",
+    "codename": "nam_son"
+  },
+  {
+    "code": "17659",
+    "name": "Lưu Sơn",
+    "name_en": "Luu Son",
+    "full_name": "Xã Lưu Sơn",
+    "full_name_en": "Luu Son Commune",
+    "type": "xã",
+    "district_code": "427",
+    "codename": "luu_son"
+  },
+  {
+    "code": "17662",
+    "name": "Yên Sơn",
+    "name_en": "Yen Son",
+    "full_name": "Xã Yên Sơn",
+    "full_name_en": "Yen Son Commune",
+    "type": "xã",
+    "district_code": "427",
+    "codename": "yen_son"
+  },
+  {
+    "code": "17665",
+    "name": "Văn Sơn",
+    "name_en": "Van Son",
+    "full_name": "Xã Văn Sơn",
+    "full_name_en": "Van Son Commune",
+    "type": "xã",
+    "district_code": "427",
+    "codename": "van_son"
+  },
+  {
+    "code": "17668",
+    "name": "Đà Sơn",
+    "name_en": "Da Son",
+    "full_name": "Xã Đà Sơn",
+    "full_name_en": "Da Son Commune",
+    "type": "xã",
+    "district_code": "427",
+    "codename": "da_son"
+  },
+  {
+    "code": "17671",
+    "name": "Lạc Sơn",
+    "name_en": "Lac Son",
+    "full_name": "Xã Lạc Sơn",
+    "full_name_en": "Lac Son Commune",
+    "type": "xã",
+    "district_code": "427",
+    "codename": "lac_son"
+  },
+  {
+    "code": "17674",
+    "name": "Tân Sơn",
+    "name_en": "Tan Son",
+    "full_name": "Xã Tân Sơn",
+    "full_name_en": "Tan Son Commune",
+    "type": "xã",
+    "district_code": "427",
+    "codename": "tan_son"
+  },
+  {
+    "code": "17677",
+    "name": "Thái Sơn",
+    "name_en": "Thai Son",
+    "full_name": "Xã Thái Sơn",
+    "full_name_en": "Thai Son Commune",
+    "type": "xã",
+    "district_code": "427",
+    "codename": "thai_son"
+  },
+  {
+    "code": "17680",
+    "name": "Quang Sơn",
+    "name_en": "Quang Son",
+    "full_name": "Xã Quang Sơn",
+    "full_name_en": "Quang Son Commune",
+    "type": "xã",
+    "district_code": "427",
+    "codename": "quang_son"
+  },
+  {
+    "code": "17683",
+    "name": "Thịnh Sơn",
+    "name_en": "Thinh Son",
+    "full_name": "Xã Thịnh Sơn",
+    "full_name_en": "Thinh Son Commune",
+    "type": "xã",
+    "district_code": "427",
+    "codename": "thinh_son"
+  },
+  {
+    "code": "17686",
+    "name": "Trung Sơn",
+    "name_en": "Trung Son",
+    "full_name": "Xã Trung Sơn",
+    "full_name_en": "Trung Son Commune",
+    "type": "xã",
+    "district_code": "427",
+    "codename": "trung_son"
+  },
+  {
+    "code": "17689",
+    "name": "Xuân Sơn",
+    "name_en": "Xuan Son",
+    "full_name": "Xã Xuân Sơn",
+    "full_name_en": "Xuan Son Commune",
+    "type": "xã",
+    "district_code": "427",
+    "codename": "xuan_son"
+  },
+  {
+    "code": "17692",
+    "name": "Minh Sơn",
+    "name_en": "Minh Son",
+    "full_name": "Xã Minh Sơn",
+    "full_name_en": "Minh Son Commune",
+    "type": "xã",
+    "district_code": "427",
+    "codename": "minh_son"
+  },
+  {
+    "code": "17695",
+    "name": "Thuận Sơn",
+    "name_en": "Thuan Son",
+    "full_name": "Xã Thuận Sơn",
+    "full_name_en": "Thuan Son Commune",
+    "type": "xã",
+    "district_code": "427",
+    "codename": "thuan_son"
+  },
+  {
+    "code": "17698",
+    "name": "Nhân Sơn",
+    "name_en": "Nhan Son",
+    "full_name": "Xã Nhân Sơn",
+    "full_name_en": "Nhan Son Commune",
+    "type": "xã",
+    "district_code": "427",
+    "codename": "nhan_son"
+  },
+  {
+    "code": "17701",
+    "name": "Hiến Sơn",
+    "name_en": "Hien Son",
+    "full_name": "Xã Hiến Sơn",
+    "full_name_en": "Hien Son Commune",
+    "type": "xã",
+    "district_code": "427",
+    "codename": "hien_son"
+  },
+  {
+    "code": "17704",
+    "name": "Mỹ Sơn",
+    "name_en": "My Son",
+    "full_name": "Xã Mỹ Sơn",
+    "full_name_en": "My Son Commune",
+    "type": "xã",
+    "district_code": "427",
+    "codename": "my_son"
+  },
+  {
+    "code": "17707",
+    "name": "Trù Sơn",
+    "name_en": "Tru Son",
+    "full_name": "Xã Trù Sơn",
+    "full_name_en": "Tru Son Commune",
+    "type": "xã",
+    "district_code": "427",
+    "codename": "tru_son"
+  },
+  {
+    "code": "17710",
+    "name": "Đại Sơn",
+    "name_en": "Dai Son",
+    "full_name": "Xã Đại Sơn",
+    "full_name_en": "Dai Son Commune",
+    "type": "xã",
+    "district_code": "427",
+    "codename": "dai_son"
+  }
+]

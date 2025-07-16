@@ -1,0 +1,202 @@
+[
+  {
+    "code": "18496",
+    "name": "Hương Khê",
+    "name_en": "Huong Khe",
+    "full_name": "Thị trấn Hương Khê",
+    "full_name_en": "Huong Khe Township",
+    "type": "thị trấn",
+    "district_code": "444",
+    "codename": "huong_khe"
+  },
+  {
+    "code": "18499",
+    "name": "Điền Mỹ",
+    "name_en": "Dien My",
+    "full_name": "Xã Điền Mỹ",
+    "full_name_en": "Dien My Commune",
+    "type": "xã",
+    "district_code": "444",
+    "codename": "dien_my"
+  },
+  {
+    "code": "18502",
+    "name": "Hà Linh",
+    "name_en": "Ha Linh",
+    "full_name": "Xã Hà Linh",
+    "full_name_en": "Ha Linh Commune",
+    "type": "xã",
+    "district_code": "444",
+    "codename": "ha_linh"
+  },
+  {
+    "code": "18505",
+    "name": "Hương Thủy",
+    "name_en": "Huong Thuy",
+    "full_name": "Xã Hương Thủy",
+    "full_name_en": "Huong Thuy Commune",
+    "type": "xã",
+    "district_code": "444",
+    "codename": "huong_thuy"
+  },
+  {
+    "code": "18508",
+    "name": "Hòa Hải",
+    "name_en": "Hoa Hai",
+    "full_name": "Xã Hòa Hải",
+    "full_name_en": "Hoa Hai Commune",
+    "type": "xã",
+    "district_code": "444",
+    "codename": "hoa_hai"
+  },
+  {
+    "code": "18514",
+    "name": "Phúc Đồng",
+    "name_en": "Phuc Dong",
+    "full_name": "Xã Phúc Đồng",
+    "full_name_en": "Phuc Dong Commune",
+    "type": "xã",
+    "district_code": "444",
+    "codename": "phuc_dong"
+  },
+  {
+    "code": "18517",
+    "name": "Hương Giang",
+    "name_en": "Huong Giang",
+    "full_name": "Xã Hương Giang",
+    "full_name_en": "Huong Giang Commune",
+    "type": "xã",
+    "district_code": "444",
+    "codename": "huong_giang"
+  },
+  {
+    "code": "18520",
+    "name": "Lộc Yên",
+    "name_en": "Loc Yen",
+    "full_name": "Xã Lộc Yên",
+    "full_name_en": "Loc Yen Commune",
+    "type": "xã",
+    "district_code": "444",
+    "codename": "loc_yen"
+  },
+  {
+    "code": "18523",
+    "name": "Hương Bình",
+    "name_en": "Huong Binh",
+    "full_name": "Xã Hương Bình",
+    "full_name_en": "Huong Binh Commune",
+    "type": "xã",
+    "district_code": "444",
+    "codename": "huong_binh"
+  },
+  {
+    "code": "18526",
+    "name": "Hương Long",
+    "name_en": "Huong Long",
+    "full_name": "Xã Hương Long",
+    "full_name_en": "Huong Long Commune",
+    "type": "xã",
+    "district_code": "444",
+    "codename": "huong_long"
+  },
+  {
+    "code": "18529",
+    "name": "Phú Gia",
+    "name_en": "Phu Gia",
+    "full_name": "Xã Phú Gia",
+    "full_name_en": "Phu Gia Commune",
+    "type": "xã",
+    "district_code": "444",
+    "codename": "phu_gia"
+  },
+  {
+    "code": "18532",
+    "name": "Gia Phố",
+    "name_en": "Gia Pho",
+    "full_name": "Xã Gia Phố",
+    "full_name_en": "Gia Pho Commune",
+    "type": "xã",
+    "district_code": "444",
+    "codename": "gia_pho"
+  },
+  {
+    "code": "18538",
+    "name": "Hương Đô",
+    "name_en": "Huong Do",
+    "full_name": "Xã Hương Đô",
+    "full_name_en": "Huong Do Commune",
+    "type": "xã",
+    "district_code": "444",
+    "codename": "huong_do"
+  },
+  {
+    "code": "18541",
+    "name": "Hương Vĩnh",
+    "name_en": "Huong Vinh",
+    "full_name": "Xã Hương Vĩnh",
+    "full_name_en": "Huong Vinh Commune",
+    "type": "xã",
+    "district_code": "444",
+    "codename": "huong_vinh"
+  },
+  {
+    "code": "18544",
+    "name": "Hương Xuân",
+    "name_en": "Huong Xuan",
+    "full_name": "Xã Hương Xuân",
+    "full_name_en": "Huong Xuan Commune",
+    "type": "xã",
+    "district_code": "444",
+    "codename": "huong_xuan"
+  },
+  {
+    "code": "18547",
+    "name": "Phúc Trạch",
+    "name_en": "Phuc Trach",
+    "full_name": "Xã Phúc Trạch",
+    "full_name_en": "Phuc Trach Commune",
+    "type": "xã",
+    "district_code": "444",
+    "codename": "phuc_trach"
+  },
+  {
+    "code": "18550",
+    "name": "Hương Trà",
+    "name_en": "Huong Tra",
+    "full_name": "Xã Hương Trà",
+    "full_name_en": "Huong Tra Commune",
+    "type": "xã",
+    "district_code": "444",
+    "codename": "huong_tra"
+  },
+  {
+    "code": "18553",
+    "name": "Hương Trạch",
+    "name_en": "Huong Trach",
+    "full_name": "Xã Hương Trạch",
+    "full_name_en": "Huong Trach Commune",
+    "type": "xã",
+    "district_code": "444",
+    "codename": "huong_trach"
+  },
+  {
+    "code": "18556",
+    "name": "Hương Lâm",
+    "name_en": "Huong Lam",
+    "full_name": "Xã Hương Lâm",
+    "full_name_en": "Huong Lam Commune",
+    "type": "xã",
+    "district_code": "444",
+    "codename": "huong_lam"
+  },
+  {
+    "code": "18559",
+    "name": "Hương Liên",
+    "name_en": "Huong Lien",
+    "full_name": "Xã Hương Liên",
+    "full_name_en": "Huong Lien Commune",
+    "type": "xã",
+    "district_code": "444",
+    "codename": "huong_lien"
+  }
+]

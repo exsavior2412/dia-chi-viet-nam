@@ -1,0 +1,132 @@
+[
+  {
+    "code": "24412",
+    "name": "M'Đrắk",
+    "name_en": "M'Drak",
+    "full_name": "Thị trấn M'Đrắk",
+    "full_name_en": "M'Drak Township",
+    "type": "thị trấn",
+    "district_code": "652",
+    "codename": "mdrak"
+  },
+  {
+    "code": "24415",
+    "name": "Cư Prao",
+    "name_en": "Cu Prao",
+    "full_name": "Xã Cư Prao",
+    "full_name_en": "Cu Prao Commune",
+    "type": "xã",
+    "district_code": "652",
+    "codename": "cu_prao"
+  },
+  {
+    "code": "24418",
+    "name": "Ea Pil",
+    "name_en": "Ea Pil",
+    "full_name": "Xã Ea Pil",
+    "full_name_en": "Ea Pil Commune",
+    "type": "xã",
+    "district_code": "652",
+    "codename": "ea_pil"
+  },
+  {
+    "code": "24421",
+    "name": "Ea Lai",
+    "name_en": "Ea Lai",
+    "full_name": "Xã Ea Lai",
+    "full_name_en": "Ea Lai Commune",
+    "type": "xã",
+    "district_code": "652",
+    "codename": "ea_lai"
+  },
+  {
+    "code": "24424",
+    "name": "Ea H'MLay",
+    "name_en": "Ea H'MLay",
+    "full_name": "Xã Ea H'MLay",
+    "full_name_en": "Ea H'MLay Commune",
+    "type": "xã",
+    "district_code": "652",
+    "codename": "ea_hmlay"
+  },
+  {
+    "code": "24427",
+    "name": "Krông Jing",
+    "name_en": "Krong Jing",
+    "full_name": "Xã Krông Jing",
+    "full_name_en": "Krong Jing Commune",
+    "type": "xã",
+    "district_code": "652",
+    "codename": "krong_jing"
+  },
+  {
+    "code": "24430",
+    "name": "Ea M' Doal",
+    "name_en": "Ea M' Doal",
+    "full_name": "Xã Ea M' Doal",
+    "full_name_en": "Ea M' Doal Commune",
+    "type": "xã",
+    "district_code": "652",
+    "codename": "ea_m_doal"
+  },
+  {
+    "code": "24433",
+    "name": "Ea Riêng",
+    "name_en": "Ea Rieng",
+    "full_name": "Xã Ea Riêng",
+    "full_name_en": "Ea Rieng Commune",
+    "type": "xã",
+    "district_code": "652",
+    "codename": "ea_rieng"
+  },
+  {
+    "code": "24436",
+    "name": "Cư M'ta",
+    "name_en": "Cu M'ta",
+    "full_name": "Xã Cư M'ta",
+    "full_name_en": "Cu M'ta Commune",
+    "type": "xã",
+    "district_code": "652",
+    "codename": "cu_mta"
+  },
+  {
+    "code": "24439",
+    "name": "Cư K Róa",
+    "name_en": "Cu K Roa",
+    "full_name": "Xã Cư K Róa",
+    "full_name_en": "Cu K Roa Commune",
+    "type": "xã",
+    "district_code": "652",
+    "codename": "cu_k_roa"
+  },
+  {
+    "code": "24442",
+    "name": "Krông Á",
+    "name_en": "Krong A",
+    "full_name": "Xã Krông Á",
+    "full_name_en": "Krong A Commune",
+    "type": "xã",
+    "district_code": "652",
+    "codename": "krong_a"
+  },
+  {
+    "code": "24444",
+    "name": "Cư San",
+    "name_en": "Cu San",
+    "full_name": "Xã Cư San",
+    "full_name_en": "Cu San Commune",
+    "type": "xã",
+    "district_code": "652",
+    "codename": "cu_san"
+  },
+  {
+    "code": "24445",
+    "name": "Ea Trang",
+    "name_en": "Ea Trang",
+    "full_name": "Xã Ea Trang",
+    "full_name_en": "Ea Trang Commune",
+    "type": "xã",
+    "district_code": "652",
+    "codename": "ea_trang"
+  }
+]

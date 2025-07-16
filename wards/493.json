@@ -1,0 +1,62 @@
+[
+  {
+    "code": "20263",
+    "name": "Thọ Quang",
+    "name_en": "Tho Quang",
+    "full_name": "Phường Thọ Quang",
+    "full_name_en": "Tho Quang Ward",
+    "type": "phường",
+    "district_code": "493",
+    "codename": "tho_quang"
+  },
+  {
+    "code": "20266",
+    "name": "Nại Hiên Đông",
+    "name_en": "Nai Hien Dong",
+    "full_name": "Phường Nại Hiên Đông",
+    "full_name_en": "Nai Hien Dong Ward",
+    "type": "phường",
+    "district_code": "493",
+    "codename": "nai_hien_dong"
+  },
+  {
+    "code": "20269",
+    "name": "Mân Thái",
+    "name_en": "Man Thai",
+    "full_name": "Phường Mân Thái",
+    "full_name_en": "Man Thai Ward",
+    "type": "phường",
+    "district_code": "493",
+    "codename": "man_thai"
+  },
+  {
+    "code": "20272",
+    "name": "An Hải Bắc",
+    "name_en": "An Hai Bac",
+    "full_name": "Phường An Hải Bắc",
+    "full_name_en": "An Hai Bac Ward",
+    "type": "phường",
+    "district_code": "493",
+    "codename": "an_hai_bac"
+  },
+  {
+    "code": "20275",
+    "name": "Phước Mỹ",
+    "name_en": "Phuoc My",
+    "full_name": "Phường Phước Mỹ",
+    "full_name_en": "Phuoc My Ward",
+    "type": "phường",
+    "district_code": "493",
+    "codename": "phuoc_my"
+  },
+  {
+    "code": "20278",
+    "name": "An Hải Nam",
+    "name_en": "An Hai Nam",
+    "full_name": "Phường An Hải Nam",
+    "full_name_en": "An Hai Nam Ward",
+    "type": "phường",
+    "district_code": "493",
+    "codename": "an_hai_nam"
+  }
+]

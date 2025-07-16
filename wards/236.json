@@ -1,0 +1,122 @@
+[
+  {
+    "code": "08434",
+    "name": "Hưng Hoá",
+    "name_en": "Hung Hoa",
+    "full_name": "Thị trấn Hưng Hoá",
+    "full_name_en": "Hung Hoa Township",
+    "type": "thị trấn",
+    "district_code": "236",
+    "codename": "hung_hoa"
+  },
+  {
+    "code": "08440",
+    "name": "Hiền Quan",
+    "name_en": "Hien Quan",
+    "full_name": "Xã Hiền Quan",
+    "full_name_en": "Hien Quan Commune",
+    "type": "xã",
+    "district_code": "236",
+    "codename": "hien_quan"
+  },
+  {
+    "code": "08443",
+    "name": "Bắc Sơn",
+    "name_en": "Bac Son",
+    "full_name": "Xã Bắc Sơn",
+    "full_name_en": "Bac Son Commune",
+    "type": "xã",
+    "district_code": "236",
+    "codename": "bac_son"
+  },
+  {
+    "code": "08446",
+    "name": "Thanh Uyên",
+    "name_en": "Thanh Uyen",
+    "full_name": "Xã Thanh Uyên",
+    "full_name_en": "Thanh Uyen Commune",
+    "type": "xã",
+    "district_code": "236",
+    "codename": "thanh_uyen"
+  },
+  {
+    "code": "08461",
+    "name": "Lam Sơn",
+    "name_en": "Lam Son",
+    "full_name": "Xã Lam Sơn",
+    "full_name_en": "Lam Son Commune",
+    "type": "xã",
+    "district_code": "236",
+    "codename": "lam_son"
+  },
+  {
+    "code": "08467",
+    "name": "Vạn Xuân",
+    "name_en": "Van Xuan",
+    "full_name": "Xã Vạn Xuân",
+    "full_name_en": "Van Xuan Commune",
+    "type": "xã",
+    "district_code": "236",
+    "codename": "van_xuan"
+  },
+  {
+    "code": "08470",
+    "name": "Quang Húc",
+    "name_en": "Quang Huc",
+    "full_name": "Xã Quang Húc",
+    "full_name_en": "Quang Huc Commune",
+    "type": "xã",
+    "district_code": "236",
+    "codename": "quang_huc"
+  },
+  {
+    "code": "08473",
+    "name": "Hương Nộn",
+    "name_en": "Huong Non",
+    "full_name": "Xã Hương Nộn",
+    "full_name_en": "Huong Non Commune",
+    "type": "xã",
+    "district_code": "236",
+    "codename": "huong_non"
+  },
+  {
+    "code": "08476",
+    "name": "Tề Lễ",
+    "name_en": "Te Le",
+    "full_name": "Xã Tề Lễ",
+    "full_name_en": "Te Le Commune",
+    "type": "xã",
+    "district_code": "236",
+    "codename": "te_le"
+  },
+  {
+    "code": "08479",
+    "name": "Thọ Văn",
+    "name_en": "Tho Van",
+    "full_name": "Xã Thọ Văn",
+    "full_name_en": "Tho Van Commune",
+    "type": "xã",
+    "district_code": "236",
+    "codename": "tho_van"
+  },
+  {
+    "code": "08482",
+    "name": "Dị Nậu",
+    "name_en": "Di Nau",
+    "full_name": "Xã Dị Nậu",
+    "full_name_en": "Di Nau Commune",
+    "type": "xã",
+    "district_code": "236",
+    "codename": "di_nau"
+  },
+  {
+    "code": "08491",
+    "name": "Dân Quyền",
+    "name_en": "Dan Quyen",
+    "full_name": "Xã Dân Quyền",
+    "full_name_en": "Dan Quyen Commune",
+    "type": "xã",
+    "district_code": "236",
+    "codename": "dan_quyen"
+  }
+]

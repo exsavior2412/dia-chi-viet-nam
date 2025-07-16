@@ -1,0 +1,152 @@
+[
+  {
+    "code": "06760",
+    "name": "Mông Dương",
+    "name_en": "Mong Duong",
+    "full_name": "Phường Mông Dương",
+    "full_name_en": "Mong Duong Ward",
+    "type": "phường",
+    "district_code": "195",
+    "codename": "mong_duong"
+  },
+  {
+    "code": "06763",
+    "name": "Cửa Ông",
+    "name_en": "Cua Ong",
+    "full_name": "Phường Cửa Ông",
+    "full_name_en": "Cua Ong Ward",
+    "type": "phường",
+    "district_code": "195",
+    "codename": "cua_ong"
+  },
+  {
+    "code": "06766",
+    "name": "Cẩm Sơn",
+    "name_en": "Cam Son",
+    "full_name": "Phường Cẩm Sơn",
+    "full_name_en": "Cam Son Ward",
+    "type": "phường",
+    "district_code": "195",
+    "codename": "cam_son"
+  },
+  {
+    "code": "06769",
+    "name": "Cẩm Đông",
+    "name_en": "Cam Dong",
+    "full_name": "Phường Cẩm Đông",
+    "full_name_en": "Cam Dong Ward",
+    "type": "phường",
+    "district_code": "195",
+    "codename": "cam_dong"
+  },
+  {
+    "code": "06772",
+    "name": "Cẩm Phú",
+    "name_en": "Cam Phu",
+    "full_name": "Phường Cẩm Phú",
+    "full_name_en": "Cam Phu Ward",
+    "type": "phường",
+    "district_code": "195",
+    "codename": "cam_phu"
+  },
+  {
+    "code": "06775",
+    "name": "Cẩm Tây",
+    "name_en": "Cam Tay",
+    "full_name": "Phường Cẩm Tây",
+    "full_name_en": "Cam Tay Ward",
+    "type": "phường",
+    "district_code": "195",
+    "codename": "cam_tay"
+  },
+  {
+    "code": "06778",
+    "name": "Quang Hanh",
+    "name_en": "Quang Hanh",
+    "full_name": "Phường Quang Hanh",
+    "full_name_en": "Quang Hanh Ward",
+    "type": "phường",
+    "district_code": "195",
+    "codename": "quang_hanh"
+  },
+  {
+    "code": "06781",
+    "name": "Cẩm Thịnh",
+    "name_en": "Cam Thinh",
+    "full_name": "Phường Cẩm Thịnh",
+    "full_name_en": "Cam Thinh Ward",
+    "type": "phường",
+    "district_code": "195",
+    "codename": "cam_thinh"
+  },
+  {
+    "code": "06784",
+    "name": "Cẩm Thủy",
+    "name_en": "Cam Thuy",
+    "full_name": "Phường Cẩm Thủy",
+    "full_name_en": "Cam Thuy Ward",
+    "type": "phường",
+    "district_code": "195",
+    "codename": "cam_thuy"
+  },
+  {
+    "code": "06787",
+    "name": "Cẩm Thạch",
+    "name_en": "Cam Thach",
+    "full_name": "Phường Cẩm Thạch",
+    "full_name_en": "Cam Thach Ward",
+    "type": "phường",
+    "district_code": "195",
+    "codename": "cam_thach"
+  },
+  {
+    "code": "06790",
+    "name": "Cẩm Thành",
+    "name_en": "Cam Thanh",
+    "full_name": "Phường Cẩm Thành",
+    "full_name_en": "Cam Thanh Ward",
+    "type": "phường",
+    "district_code": "195",
+    "codename": "cam_thanh"
+  },
+  {
+    "code": "06793",
+    "name": "Cẩm Trung",
+    "name_en": "Cam Trung",
+    "full_name": "Phường Cẩm Trung",
+    "full_name_en": "Cam Trung Ward",
+    "type": "phường",
+    "district_code": "195",
+    "codename": "cam_trung"
+  },
+  {
+    "code": "06796",
+    "name": "Cẩm Bình",
+    "name_en": "Cam Binh",
+    "full_name": "Phường Cẩm Bình",
+    "full_name_en": "Cam Binh Ward",
+    "type": "phường",
+    "district_code": "195",
+    "codename": "cam_binh"
+  },
+  {
+    "code": "06799",
+    "name": "Hải Hòa",
+    "name_en": "Hai Hoa",
+    "full_name": "Xã Hải Hòa",
+    "full_name_en": "Hai Hoa Commune",
+    "type": "xã",
+    "district_code": "195",
+    "codename": "hai_hoa"
+  },
+  {
+    "code": "06805",
+    "name": "Dương Huy",
+    "name_en": "Duong Huy",
+    "full_name": "Xã Dương Huy",
+    "full_name_en": "Duong Huy Commune",
+    "type": "xã",
+    "district_code": "195",
+    "codename": "duong_huy"
+  }
+]

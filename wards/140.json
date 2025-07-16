@@ -1,0 +1,242 @@
+[
+  {
+    "code": "04621",
+    "name": "NT Liên Sơn",
+    "name_en": "NT Lien Son",
+    "full_name": "Thị trấn NT Liên Sơn",
+    "full_name_en": "NT Lien Son Township",
+    "type": "thị trấn",
+    "district_code": "140",
+    "codename": "nt_lien_son"
+  },
+  {
+    "code": "04627",
+    "name": "NT Trần Phú",
+    "name_en": "NT Tran Phu",
+    "full_name": "Thị trấn NT Trần Phú",
+    "full_name_en": "NT Tran Phu Township",
+    "type": "thị trấn",
+    "district_code": "140",
+    "codename": "nt_tran_phu"
+  },
+  {
+    "code": "04630",
+    "name": "Tú Lệ",
+    "name_en": "Tu Le",
+    "full_name": "Xã Tú Lệ",
+    "full_name_en": "Tu Le Commune",
+    "type": "xã",
+    "district_code": "140",
+    "codename": "tu_le"
+  },
+  {
+    "code": "04633",
+    "name": "Nậm Búng",
+    "name_en": "Nam Bung",
+    "full_name": "Xã Nậm Búng",
+    "full_name_en": "Nam Bung Commune",
+    "type": "xã",
+    "district_code": "140",
+    "codename": "nam_bung"
+  },
+  {
+    "code": "04636",
+    "name": "Gia Hội",
+    "name_en": "Gia Hoi",
+    "full_name": "Xã Gia Hội",
+    "full_name_en": "Gia Hoi Commune",
+    "type": "xã",
+    "district_code": "140",
+    "codename": "gia_hoi"
+  },
+  {
+    "code": "04639",
+    "name": "Sùng Đô",
+    "name_en": "Sung Do",
+    "full_name": "Xã Sùng Đô",
+    "full_name_en": "Sung Do Commune",
+    "type": "xã",
+    "district_code": "140",
+    "codename": "sung_do"
+  },
+  {
+    "code": "04642",
+    "name": "Nậm Mười",
+    "name_en": "Nam Muoi",
+    "full_name": "Xã Nậm Mười",
+    "full_name_en": "Nam Muoi Commune",
+    "type": "xã",
+    "district_code": "140",
+    "codename": "nam_muoi"
+  },
+  {
+    "code": "04645",
+    "name": "An Lương",
+    "name_en": "An Luong",
+    "full_name": "Xã An Lương",
+    "full_name_en": "An Luong Commune",
+    "type": "xã",
+    "district_code": "140",
+    "codename": "an_luong"
+  },
+  {
+    "code": "04648",
+    "name": "Nậm Lành",
+    "name_en": "Nam Lanh",
+    "full_name": "Xã Nậm Lành",
+    "full_name_en": "Nam Lanh Commune",
+    "type": "xã",
+    "district_code": "140",
+    "codename": "nam_lanh"
+  },
+  {
+    "code": "04651",
+    "name": "Sơn Lương",
+    "name_en": "Son Luong",
+    "full_name": "Xã Sơn Lương",
+    "full_name_en": "Son Luong Commune",
+    "type": "xã",
+    "district_code": "140",
+    "codename": "son_luong"
+  },
+  {
+    "code": "04654",
+    "name": "Suối Quyền",
+    "name_en": "Suoi Quyen",
+    "full_name": "Xã Suối Quyền",
+    "full_name_en": "Suoi Quyen Commune",
+    "type": "xã",
+    "district_code": "140",
+    "codename": "suoi_quyen"
+  },
+  {
+    "code": "04657",
+    "name": "Suối Giàng",
+    "name_en": "Suoi Giang",
+    "full_name": "Xã Suối Giàng",
+    "full_name_en": "Suoi Giang Commune",
+    "type": "xã",
+    "district_code": "140",
+    "codename": "suoi_giang"
+  },
+  {
+    "code": "04666",
+    "name": "Nghĩa Sơn",
+    "name_en": "Nghia Son",
+    "full_name": "Xã Nghĩa Sơn",
+    "full_name_en": "Nghia Son Commune",
+    "type": "xã",
+    "district_code": "140",
+    "codename": "nghia_son"
+  },
+  {
+    "code": "04669",
+    "name": "Suối Bu",
+    "name_en": "Suoi Bu",
+    "full_name": "Xã Suối Bu",
+    "full_name_en": "Suoi Bu Commune",
+    "type": "xã",
+    "district_code": "140",
+    "codename": "suoi_bu"
+  },
+  {
+    "code": "04672",
+    "name": "Sơn Thịnh",
+    "name_en": "Son Thinh",
+    "full_name": "Thị trấn Sơn Thịnh",
+    "full_name_en": "Son Thinh Township",
+    "type": "thị trấn",
+    "district_code": "140",
+    "codename": "son_thinh"
+  },
+  {
+    "code": "04687",
+    "name": "Đại Lịch",
+    "name_en": "Dai Lich",
+    "full_name": "Xã Đại Lịch",
+    "full_name_en": "Dai Lich Commune",
+    "type": "xã",
+    "district_code": "140",
+    "codename": "dai_lich"
+  },
+  {
+    "code": "04690",
+    "name": "Đồng Khê",
+    "name_en": "Dong Khe",
+    "full_name": "Xã Đồng Khê",
+    "full_name_en": "Dong Khe Commune",
+    "type": "xã",
+    "district_code": "140",
+    "codename": "dong_khe"
+  },
+  {
+    "code": "04693",
+    "name": "Cát Thịnh",
+    "name_en": "Cat Thinh",
+    "full_name": "Xã Cát Thịnh",
+    "full_name_en": "Cat Thinh Commune",
+    "type": "xã",
+    "district_code": "140",
+    "codename": "cat_thinh"
+  },
+  {
+    "code": "04696",
+    "name": "Tân Thịnh",
+    "name_en": "Tan Thinh",
+    "full_name": "Xã Tân Thịnh",
+    "full_name_en": "Tan Thinh Commune",
+    "type": "xã",
+    "district_code": "140",
+    "codename": "tan_thinh"
+  },
+  {
+    "code": "04699",
+    "name": "Chấn Thịnh",
+    "name_en": "Chan Thinh",
+    "full_name": "Xã Chấn Thịnh",
+    "full_name_en": "Chan Thinh Commune",
+    "type": "xã",
+    "district_code": "140",
+    "codename": "chan_thinh"
+  },
+  {
+    "code": "04702",
+    "name": "Bình Thuận",
+    "name_en": "Binh Thuan",
+    "full_name": "Xã Bình Thuận",
+    "full_name_en": "Binh Thuan Commune",
+    "type": "xã",
+    "district_code": "140",
+    "codename": "binh_thuan"
+  },
+  {
+    "code": "04705",
+    "name": "Thượng Bằng La",
+    "name_en": "Thuong Bang La",
+    "full_name": "Xã Thượng Bằng La",
+    "full_name_en": "Thuong Bang La Commune",
+    "type": "xã",
+    "district_code": "140",
+    "codename": "thuong_bang_la"
+  },
+  {
+    "code": "04708",
+    "name": "Minh An",
+    "name_en": "Minh An",
+    "full_name": "Xã Minh An",
+    "full_name_en": "Minh An Commune",
+    "type": "xã",
+    "district_code": "140",
+    "codename": "minh_an"
+  },
+  {
+    "code": "04711",
+    "name": "Nghĩa Tâm",
+    "name_en": "Nghia Tam",
+    "full_name": "Xã Nghĩa Tâm",
+    "full_name_en": "Nghia Tam Commune",
+    "type": "xã",
+    "district_code": "140",
+    "codename": "nghia_tam"
+  }
+]

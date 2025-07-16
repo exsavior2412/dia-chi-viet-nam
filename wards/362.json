@@ -1,0 +1,182 @@
+[
+  {
+    "code": "13966",
+    "name": "Nam Giang",
+    "name_en": "Nam Giang",
+    "full_name": "Thị trấn Nam Giang",
+    "full_name_en": "Nam Giang Township",
+    "type": "thị trấn",
+    "district_code": "362",
+    "codename": "nam_giang"
+  },
+  {
+    "code": "13972",
+    "name": "Nam Điền",
+    "name_en": "Nam Dien",
+    "full_name": "Xã Nam Điền",
+    "full_name_en": "Nam Dien Commune",
+    "type": "xã",
+    "district_code": "362",
+    "codename": "nam_dien"
+  },
+  {
+    "code": "13975",
+    "name": "Nghĩa An",
+    "name_en": "Nghia An",
+    "full_name": "Xã Nghĩa An",
+    "full_name_en": "Nghia An Commune",
+    "type": "xã",
+    "district_code": "362",
+    "codename": "nghia_an"
+  },
+  {
+    "code": "13978",
+    "name": "Nam Thắng",
+    "name_en": "Nam Thang",
+    "full_name": "Xã Nam Thắng",
+    "full_name_en": "Nam Thang Commune",
+    "type": "xã",
+    "district_code": "362",
+    "codename": "nam_thang"
+  },
+  {
+    "code": "13984",
+    "name": "Hồng Quang",
+    "name_en": "Hong Quang",
+    "full_name": "Xã Hồng Quang",
+    "full_name_en": "Hong Quang Commune",
+    "type": "xã",
+    "district_code": "362",
+    "codename": "hong_quang"
+  },
+  {
+    "code": "13987",
+    "name": "Tân Thịnh",
+    "name_en": "Tan Thinh",
+    "full_name": "Xã Tân Thịnh",
+    "full_name_en": "Tan Thinh Commune",
+    "type": "xã",
+    "district_code": "362",
+    "codename": "tan_thinh"
+  },
+  {
+    "code": "13990",
+    "name": "Nam Cường",
+    "name_en": "Nam Cuong",
+    "full_name": "Xã Nam Cường",
+    "full_name_en": "Nam Cuong Commune",
+    "type": "xã",
+    "district_code": "362",
+    "codename": "nam_cuong"
+  },
+  {
+    "code": "13993",
+    "name": "Nam Hồng",
+    "name_en": "Nam Hong",
+    "full_name": "Xã Nam Hồng",
+    "full_name_en": "Nam Hong Commune",
+    "type": "xã",
+    "district_code": "362",
+    "codename": "nam_hong"
+  },
+  {
+    "code": "13996",
+    "name": "Nam Hùng",
+    "name_en": "Nam Hung",
+    "full_name": "Xã Nam Hùng",
+    "full_name_en": "Nam Hung Commune",
+    "type": "xã",
+    "district_code": "362",
+    "codename": "nam_hung"
+  },
+  {
+    "code": "13999",
+    "name": "Nam Hoa",
+    "name_en": "Nam Hoa",
+    "full_name": "Xã Nam Hoa",
+    "full_name_en": "Nam Hoa Commune",
+    "type": "xã",
+    "district_code": "362",
+    "codename": "nam_hoa"
+  },
+  {
+    "code": "14002",
+    "name": "Nam Dương",
+    "name_en": "Nam Duong",
+    "full_name": "Xã Nam Dương",
+    "full_name_en": "Nam Duong Commune",
+    "type": "xã",
+    "district_code": "362",
+    "codename": "nam_duong"
+  },
+  {
+    "code": "14005",
+    "name": "Nam Thanh",
+    "name_en": "Nam Thanh",
+    "full_name": "Xã Nam Thanh",
+    "full_name_en": "Nam Thanh Commune",
+    "type": "xã",
+    "district_code": "362",
+    "codename": "nam_thanh"
+  },
+  {
+    "code": "14008",
+    "name": "Nam Lợi",
+    "name_en": "Nam Loi",
+    "full_name": "Xã Nam Lợi",
+    "full_name_en": "Nam Loi Commune",
+    "type": "xã",
+    "district_code": "362",
+    "codename": "nam_loi"
+  },
+  {
+    "code": "14011",
+    "name": "Bình Minh",
+    "name_en": "Binh Minh",
+    "full_name": "Xã Bình Minh",
+    "full_name_en": "Binh Minh Commune",
+    "type": "xã",
+    "district_code": "362",
+    "codename": "binh_minh"
+  },
+  {
+    "code": "14014",
+    "name": "Đồng Sơn",
+    "name_en": "Dong Son",
+    "full_name": "Xã Đồng Sơn",
+    "full_name_en": "Dong Son Commune",
+    "type": "xã",
+    "district_code": "362",
+    "codename": "dong_son"
+  },
+  {
+    "code": "14017",
+    "name": "Nam Tiến",
+    "name_en": "Nam Tien",
+    "full_name": "Xã Nam Tiến",
+    "full_name_en": "Nam Tien Commune",
+    "type": "xã",
+    "district_code": "362",
+    "codename": "nam_tien"
+  },
+  {
+    "code": "14020",
+    "name": "Nam Hải",
+    "name_en": "Nam Hai",
+    "full_name": "Xã Nam Hải",
+    "full_name_en": "Nam Hai Commune",
+    "type": "xã",
+    "district_code": "362",
+    "codename": "nam_hai"
+  },
+  {
+    "code": "14023",
+    "name": "Nam Thái",
+    "name_en": "Nam Thai",
+    "full_name": "Xã Nam Thái",
+    "full_name_en": "Nam Thai Commune",
+    "type": "xã",
+    "district_code": "362",
+    "codename": "nam_thai"
+  }
+]

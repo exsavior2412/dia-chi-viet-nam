@@ -1,0 +1,192 @@
+[
+  {
+    "code": "07132",
+    "name": "Quảng Yên",
+    "name_en": "Quang Yen",
+    "full_name": "Phường Quảng Yên",
+    "full_name_en": "Quang Yen Ward",
+    "type": "phường",
+    "district_code": "206",
+    "codename": "quang_yen"
+  },
+  {
+    "code": "07135",
+    "name": "Đông Mai",
+    "name_en": "Dong Mai",
+    "full_name": "Phường Đông Mai",
+    "full_name_en": "Dong Mai Ward",
+    "type": "phường",
+    "district_code": "206",
+    "codename": "dong_mai"
+  },
+  {
+    "code": "07138",
+    "name": "Minh Thành",
+    "name_en": "Minh Thanh",
+    "full_name": "Phường Minh Thành",
+    "full_name_en": "Minh Thanh Ward",
+    "type": "phường",
+    "district_code": "206",
+    "codename": "minh_thanh"
+  },
+  {
+    "code": "07144",
+    "name": "Sông Khoai",
+    "name_en": "Song Khoai",
+    "full_name": "Xã Sông Khoai",
+    "full_name_en": "Song Khoai Commune",
+    "type": "xã",
+    "district_code": "206",
+    "codename": "song_khoai"
+  },
+  {
+    "code": "07147",
+    "name": "Hiệp Hòa",
+    "name_en": "Hiep Hoa",
+    "full_name": "Xã Hiệp Hòa",
+    "full_name_en": "Hiep Hoa Commune",
+    "type": "xã",
+    "district_code": "206",
+    "codename": "hiep_hoa"
+  },
+  {
+    "code": "07150",
+    "name": "Cộng Hòa",
+    "name_en": "Cong Hoa",
+    "full_name": "Phường Cộng Hòa",
+    "full_name_en": "Cong Hoa Ward",
+    "type": "phường",
+    "district_code": "206",
+    "codename": "cong_hoa"
+  },
+  {
+    "code": "07153",
+    "name": "Tiền An",
+    "name_en": "Tien An",
+    "full_name": "Xã Tiền An",
+    "full_name_en": "Tien An Commune",
+    "type": "xã",
+    "district_code": "206",
+    "codename": "tien_an"
+  },
+  {
+    "code": "07156",
+    "name": "Hoàng Tân",
+    "name_en": "Hoang Tan",
+    "full_name": "Xã Hoàng Tân",
+    "full_name_en": "Hoang Tan Commune",
+    "type": "xã",
+    "district_code": "206",
+    "codename": "hoang_tan"
+  },
+  {
+    "code": "07159",
+    "name": "Tân An",
+    "name_en": "Tan An",
+    "full_name": "Phường Tân An",
+    "full_name_en": "Tan An Ward",
+    "type": "phường",
+    "district_code": "206",
+    "codename": "tan_an"
+  },
+  {
+    "code": "07162",
+    "name": "Yên Giang",
+    "name_en": "Yen Giang",
+    "full_name": "Phường Yên Giang",
+    "full_name_en": "Yen Giang Ward",
+    "type": "phường",
+    "district_code": "206",
+    "codename": "yen_giang"
+  },
+  {
+    "code": "07165",
+    "name": "Nam Hoà",
+    "name_en": "Nam Hoa",
+    "full_name": "Phường Nam Hoà",
+    "full_name_en": "Nam Hoa Ward",
+    "type": "phường",
+    "district_code": "206",
+    "codename": "nam_hoa"
+  },
+  {
+    "code": "07168",
+    "name": "Hà An",
+    "name_en": "Ha An",
+    "full_name": "Phường Hà An",
+    "full_name_en": "Ha An Ward",
+    "type": "phường",
+    "district_code": "206",
+    "codename": "ha_an"
+  },
+  {
+    "code": "07171",
+    "name": "Cẩm La",
+    "name_en": "Cam La",
+    "full_name": "Xã Cẩm La",
+    "full_name_en": "Cam La Commune",
+    "type": "xã",
+    "district_code": "206",
+    "codename": "cam_la"
+  },
+  {
+    "code": "07174",
+    "name": "Phong Hải",
+    "name_en": "Phong Hai",
+    "full_name": "Phường Phong Hải",
+    "full_name_en": "Phong Hai Ward",
+    "type": "phường",
+    "district_code": "206",
+    "codename": "phong_hai"
+  },
+  {
+    "code": "07177",
+    "name": "Yên Hải",
+    "name_en": "Yen Hai",
+    "full_name": "Phường Yên Hải",
+    "full_name_en": "Yen Hai Ward",
+    "type": "phường",
+    "district_code": "206",
+    "codename": "yen_hai"
+  },
+  {
+    "code": "07180",
+    "name": "Liên Hòa",
+    "name_en": "Lien Hoa",
+    "full_name": "Xã Liên Hòa",
+    "full_name_en": "Lien Hoa Commune",
+    "type": "xã",
+    "district_code": "206",
+    "codename": "lien_hoa"
+  },
+  {
+    "code": "07183",
+    "name": "Phong Cốc",
+    "name_en": "Phong Coc",
+    "full_name": "Phường Phong Cốc",
+    "full_name_en": "Phong Coc Ward",
+    "type": "phường",
+    "district_code": "206",
+    "codename": "phong_coc"
+  },
+  {
+    "code": "07186",
+    "name": "Liên Vị",
+    "name_en": "Lien Vi",
+    "full_name": "Xã Liên Vị",
+    "full_name_en": "Lien Vi Commune",
+    "type": "xã",
+    "district_code": "206",
+    "codename": "lien_vi"
+  },
+  {
+    "code": "07189",
+    "name": "Tiền Phong",
+    "name_en": "Tien Phong",
+    "full_name": "Xã Tiền Phong",
+    "full_name_en": "Tien Phong Commune",
+    "type": "xã",
+    "district_code": "206",
+    "codename": "tien_phong"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "code": "10750",
+    "name": "Phú Thái",
+    "name_en": "Phu Thai",
+    "full_name": "Thị trấn Phú Thái",
+    "full_name_en": "Phu Thai Township",
+    "type": "thị trấn",
+    "district_code": "293",
+    "codename": "phu_thai"
+  },
+  {
+    "code": "10756",
+    "name": "Lai Khê",
+    "name_en": "Lai Khe",
+    "full_name": "Xã Lai Khê",
+    "full_name_en": "Lai Khe Commune",
+    "type": "xã",
+    "district_code": "293",
+    "codename": "lai_khe"
+  },
+  {
+    "code": "10762",
+    "name": "Vũ Dũng",
+    "name_en": "Vu Dung",
+    "full_name": "Xã Vũ Dũng",
+    "full_name_en": "Vu Dung Commune",
+    "type": "xã",
+    "district_code": "293",
+    "codename": "vu_dung"
+  },
+  {
+    "code": "10768",
+    "name": "Tuấn Việt",
+    "name_en": "Tuan Viet",
+    "full_name": "Xã Tuấn Việt",
+    "full_name_en": "Tuan Viet Commune",
+    "type": "xã",
+    "district_code": "293",
+    "codename": "tuan_viet"
+  },
+  {
+    "code": "10771",
+    "name": "Kim Xuyên",
+    "name_en": "Kim Xuyen",
+    "full_name": "Xã Kim Xuyên",
+    "full_name_en": "Kim Xuyen Commune",
+    "type": "xã",
+    "district_code": "293",
+    "codename": "kim_xuyen"
+  },
+  {
+    "code": "10777",
+    "name": "Ngũ Phúc",
+    "name_en": "Ngu Phuc",
+    "full_name": "Xã Ngũ Phúc",
+    "full_name_en": "Ngu Phuc Commune",
+    "type": "xã",
+    "district_code": "293",
+    "codename": "ngu_phuc"
+  },
+  {
+    "code": "10780",
+    "name": "Kim Anh",
+    "name_en": "Kim Anh",
+    "full_name": "Xã Kim Anh",
+    "full_name_en": "Kim Anh Commune",
+    "type": "xã",
+    "district_code": "293",
+    "codename": "kim_anh"
+  },
+  {
+    "code": "10783",
+    "name": "Kim Liên",
+    "name_en": "Kim Lien",
+    "full_name": "Xã Kim Liên",
+    "full_name_en": "Kim Lien Commune",
+    "type": "xã",
+    "district_code": "293",
+    "codename": "kim_lien"
+  },
+  {
+    "code": "10786",
+    "name": "Kim Tân",
+    "name_en": "Kim Tan",
+    "full_name": "Xã Kim Tân",
+    "full_name_en": "Kim Tan Commune",
+    "type": "xã",
+    "district_code": "293",
+    "codename": "kim_tan"
+  },
+  {
+    "code": "10792",
+    "name": "Kim Đính",
+    "name_en": "Kim Dinh",
+    "full_name": "Xã Kim Đính",
+    "full_name_en": "Kim Dinh Commune",
+    "type": "xã",
+    "district_code": "293",
+    "codename": "kim_dinh"
+  },
+  {
+    "code": "10798",
+    "name": "Hòa Bình",
+    "name_en": "Hoa Binh",
+    "full_name": "Xã Hòa Bình",
+    "full_name_en": "Hoa Binh Commune",
+    "type": "xã",
+    "district_code": "293",
+    "codename": "hoa_binh"
+  },
+  {
+    "code": "10801",
+    "name": "Tam Kỳ",
+    "name_en": "Tam Ky",
+    "full_name": "Xã Tam Kỳ",
+    "full_name_en": "Tam Ky Commune",
+    "type": "xã",
+    "district_code": "293",
+    "codename": "tam_ky"
+  },
+  {
+    "code": "10804",
+    "name": "Đồng Cẩm",
+    "name_en": "Dong Cam",
+    "full_name": "Xã Đồng Cẩm",
+    "full_name_en": "Dong Cam Commune",
+    "type": "xã",
+    "district_code": "293",
+    "codename": "dong_cam"
+  },
+  {
+    "code": "10810",
+    "name": "Đại Đức",
+    "name_en": "Dai Duc",
+    "full_name": "Xã Đại Đức",
+    "full_name_en": "Dai Duc Commune",
+    "type": "xã",
+    "district_code": "293",
+    "codename": "dai_duc"
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "code": "03391",
+    "name": "Lả Nhì Thàng",
+    "name_en": "La Nhi Thang",
+    "full_name": "Xã Lả Nhì Thàng",
+    "full_name_en": "La Nhi Thang Commune",
+    "type": "xã",
+    "district_code": "109",
+    "codename": "la_nhi_thang"
+  },
+  {
+    "code": "03490",
+    "name": "Huổi Luông",
+    "name_en": "Huoi Luong",
+    "full_name": "Xã Huổi Luông",
+    "full_name_en": "Huoi Luong Commune",
+    "type": "xã",
+    "district_code": "109",
+    "codename": "huoi_luong"
+  },
+  {
+    "code": "03549",
+    "name": "Phong Thổ",
+    "name_en": "Phong Tho",
+    "full_name": "Thị trấn Phong Thổ",
+    "full_name_en": "Phong Tho Township",
+    "type": "thị trấn",
+    "district_code": "109",
+    "codename": "phong_tho"
+  },
+  {
+    "code": "03550",
+    "name": "Sì Lở Lầu",
+    "name_en": "Si Lo Lau",
+    "full_name": "Xã Sì Lở Lầu",
+    "full_name_en": "Si Lo Lau Commune",
+    "type": "xã",
+    "district_code": "109",
+    "codename": "si_lo_lau"
+  },
+  {
+    "code": "03553",
+    "name": "Mồ Sì San",
+    "name_en": "Mo Si San",
+    "full_name": "Xã Mồ Sì San",
+    "full_name_en": "Mo Si San Commune",
+    "type": "xã",
+    "district_code": "109",
+    "codename": "mo_si_san"
+  },
+  {
+    "code": "03559",
+    "name": "Pa Vây Sử",
+    "name_en": "Pa Vay Su",
+    "full_name": "Xã Pa Vây Sử",
+    "full_name_en": "Pa Vay Su Commune",
+    "type": "xã",
+    "district_code": "109",
+    "codename": "pa_vay_su"
+  },
+  {
+    "code": "03562",
+    "name": "Vàng Ma Chải",
+    "name_en": "Vang Ma Chai",
+    "full_name": "Xã Vàng Ma Chải",
+    "full_name_en": "Vang Ma Chai Commune",
+    "type": "xã",
+    "district_code": "109",
+    "codename": "vang_ma_chai"
+  },
+  {
+    "code": "03565",
+    "name": "Tông Qua Lìn",
+    "name_en": "Tong Qua Lin",
+    "full_name": "Xã Tông Qua Lìn",
+    "full_name_en": "Tong Qua Lin Commune",
+    "type": "xã",
+    "district_code": "109",
+    "codename": "tong_qua_lin"
+  },
+  {
+    "code": "03568",
+    "name": "Mù Sang",
+    "name_en": "Mu Sang",
+    "full_name": "Xã Mù Sang",
+    "full_name_en": "Mu Sang Commune",
+    "type": "xã",
+    "district_code": "109",
+    "codename": "mu_sang"
+  },
+  {
+    "code": "03571",
+    "name": "Dào San",
+    "name_en": "Dao San",
+    "full_name": "Xã Dào San",
+    "full_name_en": "Dao San Commune",
+    "type": "xã",
+    "district_code": "109",
+    "codename": "dao_san"
+  },
+  {
+    "code": "03574",
+    "name": "Ma Ly Pho",
+    "name_en": "Ma Ly Pho",
+    "full_name": "Xã Ma Ly Pho",
+    "full_name_en": "Ma Ly Pho Commune",
+    "type": "xã",
+    "district_code": "109",
+    "codename": "ma_ly_pho"
+  },
+  {
+    "code": "03577",
+    "name": "Bản Lang",
+    "name_en": "Ban Lang",
+    "full_name": "Xã Bản Lang",
+    "full_name_en": "Ban Lang Commune",
+    "type": "xã",
+    "district_code": "109",
+    "codename": "ban_lang"
+  },
+  {
+    "code": "03580",
+    "name": "Hoang Thèn",
+    "name_en": "Hoang Then",
+    "full_name": "Xã Hoang Thèn",
+    "full_name_en": "Hoang Then Commune",
+    "type": "xã",
+    "district_code": "109",
+    "codename": "hoang_then"
+  },
+  {
+    "code": "03583",
+    "name": "Khổng Lào",
+    "name_en": "Khong Lao",
+    "full_name": "Xã Khổng Lào",
+    "full_name_en": "Khong Lao Commune",
+    "type": "xã",
+    "district_code": "109",
+    "codename": "khong_lao"
+  },
+  {
+    "code": "03586",
+    "name": "Nậm Xe",
+    "name_en": "Nam Xe",
+    "full_name": "Xã Nậm Xe",
+    "full_name_en": "Nam Xe Commune",
+    "type": "xã",
+    "district_code": "109",
+    "codename": "nam_xe"
+  },
+  {
+    "code": "03589",
+    "name": "Mường So",
+    "name_en": "Muong So",
+    "full_name": "Xã Mường So",
+    "full_name_en": "Muong So Commune",
+    "type": "xã",
+    "district_code": "109",
+    "codename": "muong_so"
+  },
+  {
+    "code": "03592",
+    "name": "Sin Suối Hồ",
+    "name_en": "Sin Suoi Ho",
+    "full_name": "Xã Sin Suối Hồ",
+    "full_name_en": "Sin Suoi Ho Commune",
+    "type": "xã",
+    "district_code": "109",
+    "codename": "sin_suoi_ho"
+  }
+]

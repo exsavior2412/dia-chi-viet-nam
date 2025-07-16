@@ -1,0 +1,162 @@
+[
+  {
+    "code": "16174",
+    "name": "Yên Cát",
+    "name_en": "Yen Cat",
+    "full_name": "Thị trấn Yên Cát",
+    "full_name_en": "Yen Cat Township",
+    "type": "thị trấn",
+    "district_code": "402",
+    "codename": "yen_cat"
+  },
+  {
+    "code": "16177",
+    "name": "Bãi Trành",
+    "name_en": "Bai Tranh",
+    "full_name": "Xã Bãi Trành",
+    "full_name_en": "Bai Tranh Commune",
+    "type": "xã",
+    "district_code": "402",
+    "codename": "bai_tranh"
+  },
+  {
+    "code": "16180",
+    "name": "Xuân Hòa",
+    "name_en": "Xuan Hoa",
+    "full_name": "Xã Xuân Hòa",
+    "full_name_en": "Xuan Hoa Commune",
+    "type": "xã",
+    "district_code": "402",
+    "codename": "xuan_hoa"
+  },
+  {
+    "code": "16183",
+    "name": "Xuân Bình",
+    "name_en": "Xuan Binh",
+    "full_name": "Xã Xuân Bình",
+    "full_name_en": "Xuan Binh Commune",
+    "type": "xã",
+    "district_code": "402",
+    "codename": "xuan_binh"
+  },
+  {
+    "code": "16186",
+    "name": "Hóa Quỳ",
+    "name_en": "Hoa Quy",
+    "full_name": "Xã Hóa Quỳ",
+    "full_name_en": "Hoa Quy Commune",
+    "type": "xã",
+    "district_code": "402",
+    "codename": "hoa_quy"
+  },
+  {
+    "code": "16195",
+    "name": "Cát Vân",
+    "name_en": "Cat Van",
+    "full_name": "Xã Cát Vân",
+    "full_name_en": "Cat Van Commune",
+    "type": "xã",
+    "district_code": "402",
+    "codename": "cat_van"
+  },
+  {
+    "code": "16198",
+    "name": "Cát Tân",
+    "name_en": "Cat Tan",
+    "full_name": "Xã Cát Tân",
+    "full_name_en": "Cat Tan Commune",
+    "type": "xã",
+    "district_code": "402",
+    "codename": "cat_tan"
+  },
+  {
+    "code": "16201",
+    "name": "Tân Bình",
+    "name_en": "Tan Binh",
+    "full_name": "Xã Tân Bình",
+    "full_name_en": "Tan Binh Commune",
+    "type": "xã",
+    "district_code": "402",
+    "codename": "tan_binh"
+  },
+  {
+    "code": "16204",
+    "name": "Bình Lương",
+    "name_en": "Binh Luong",
+    "full_name": "Xã Bình Lương",
+    "full_name_en": "Binh Luong Commune",
+    "type": "xã",
+    "district_code": "402",
+    "codename": "binh_luong"
+  },
+  {
+    "code": "16207",
+    "name": "Thanh Quân",
+    "name_en": "Thanh Quan",
+    "full_name": "Xã Thanh Quân",
+    "full_name_en": "Thanh Quan Commune",
+    "type": "xã",
+    "district_code": "402",
+    "codename": "thanh_quan"
+  },
+  {
+    "code": "16210",
+    "name": "Thanh Xuân",
+    "name_en": "Thanh Xuan",
+    "full_name": "Xã Thanh Xuân",
+    "full_name_en": "Thanh Xuan Commune",
+    "type": "xã",
+    "district_code": "402",
+    "codename": "thanh_xuan"
+  },
+  {
+    "code": "16213",
+    "name": "Thanh Hòa",
+    "name_en": "Thanh Hoa",
+    "full_name": "Xã Thanh Hòa",
+    "full_name_en": "Thanh Hoa Commune",
+    "type": "xã",
+    "district_code": "402",
+    "codename": "thanh_hoa"
+  },
+  {
+    "code": "16216",
+    "name": "Thanh Phong",
+    "name_en": "Thanh Phong",
+    "full_name": "Xã Thanh Phong",
+    "full_name_en": "Thanh Phong Commune",
+    "type": "xã",
+    "district_code": "402",
+    "codename": "thanh_phong"
+  },
+  {
+    "code": "16219",
+    "name": "Thanh Lâm",
+    "name_en": "Thanh Lam",
+    "full_name": "Xã Thanh Lâm",
+    "full_name_en": "Thanh Lam Commune",
+    "type": "xã",
+    "district_code": "402",
+    "codename": "thanh_lam"
+  },
+  {
+    "code": "16222",
+    "name": "Thanh Sơn",
+    "name_en": "Thanh Son",
+    "full_name": "Xã Thanh Sơn",
+    "full_name_en": "Thanh Son Commune",
+    "type": "xã",
+    "district_code": "402",
+    "codename": "thanh_son"
+  },
+  {
+    "code": "16225",
+    "name": "Thượng Ninh",
+    "name_en": "Thuong Ninh",
+    "full_name": "Xã Thượng Ninh",
+    "full_name_en": "Thuong Ninh Commune",
+    "type": "xã",
+    "district_code": "402",
+    "codename": "thuong_ninh"
+  }
+]

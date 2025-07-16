@@ -1,0 +1,132 @@
+[
+  {
+    "code": "12103",
+    "name": "Bần Yên Nhân",
+    "name_en": "Ban Yen Nhan",
+    "full_name": "Phường Bần Yên Nhân",
+    "full_name_en": "Ban Yen Nhan Ward",
+    "type": "phường",
+    "district_code": "328",
+    "codename": "ban_yen_nhan"
+  },
+  {
+    "code": "12106",
+    "name": "Phan Đình Phùng",
+    "name_en": "Phan Dinh Phung",
+    "full_name": "Phường Phan Đình Phùng",
+    "full_name_en": "Phan Dinh Phung Ward",
+    "type": "phường",
+    "district_code": "328",
+    "codename": "phan_dinh_phung"
+  },
+  {
+    "code": "12109",
+    "name": "Cẩm Xá",
+    "name_en": "Cam Xa",
+    "full_name": "Xã Cẩm Xá",
+    "full_name_en": "Cam Xa Commune",
+    "type": "xã",
+    "district_code": "328",
+    "codename": "cam_xa"
+  },
+  {
+    "code": "12112",
+    "name": "Dương Quang",
+    "name_en": "Duong Quang",
+    "full_name": "Xã Dương Quang",
+    "full_name_en": "Duong Quang Commune",
+    "type": "xã",
+    "district_code": "328",
+    "codename": "duong_quang"
+  },
+  {
+    "code": "12115",
+    "name": "Hòa Phong",
+    "name_en": "Hoa Phong",
+    "full_name": "Xã Hòa Phong",
+    "full_name_en": "Hoa Phong Commune",
+    "type": "xã",
+    "district_code": "328",
+    "codename": "hoa_phong"
+  },
+  {
+    "code": "12118",
+    "name": "Nhân Hòa",
+    "name_en": "Nhan Hoa",
+    "full_name": "Phường Nhân Hòa",
+    "full_name_en": "Nhan Hoa Ward",
+    "type": "phường",
+    "district_code": "328",
+    "codename": "nhan_hoa"
+  },
+  {
+    "code": "12121",
+    "name": "Dị Sử",
+    "name_en": "Di Su",
+    "full_name": "Phường Dị Sử",
+    "full_name_en": "Di Su Ward",
+    "type": "phường",
+    "district_code": "328",
+    "codename": "di_su"
+  },
+  {
+    "code": "12124",
+    "name": "Bạch Sam",
+    "name_en": "Bach Sam",
+    "full_name": "Phường Bạch Sam",
+    "full_name_en": "Bach Sam Ward",
+    "type": "phường",
+    "district_code": "328",
+    "codename": "bach_sam"
+  },
+  {
+    "code": "12127",
+    "name": "Minh Đức",
+    "name_en": "Minh Duc",
+    "full_name": "Phường Minh Đức",
+    "full_name_en": "Minh Duc Ward",
+    "type": "phường",
+    "district_code": "328",
+    "codename": "minh_duc"
+  },
+  {
+    "code": "12130",
+    "name": "Phùng Chí Kiên",
+    "name_en": "Phung Chi Kien",
+    "full_name": "Phường Phùng Chí Kiên",
+    "full_name_en": "Phung Chi Kien Ward",
+    "type": "phường",
+    "district_code": "328",
+    "codename": "phung_chi_kien"
+  },
+  {
+    "code": "12133",
+    "name": "Xuân Dục",
+    "name_en": "Xuan Duc",
+    "full_name": "Xã Xuân Dục",
+    "full_name_en": "Xuan Duc Commune",
+    "type": "xã",
+    "district_code": "328",
+    "codename": "xuan_duc"
+  },
+  {
+    "code": "12136",
+    "name": "Ngọc Lâm",
+    "name_en": "Ngoc Lam",
+    "full_name": "Xã Ngọc Lâm",
+    "full_name_en": "Ngoc Lam Commune",
+    "type": "xã",
+    "district_code": "328",
+    "codename": "ngoc_lam"
+  },
+  {
+    "code": "12139",
+    "name": "Hưng Long",
+    "name_en": "Hung Long",
+    "full_name": "Xã Hưng Long",
+    "full_name_en": "Hung Long Commune",
+    "type": "xã",
+    "district_code": "328",
+    "codename": "hung_long"
+  }
+]

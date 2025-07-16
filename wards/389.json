@@ -1,0 +1,212 @@
+[
+  {
+    "code": "15061",
+    "name": "Ngọc Lặc",
+    "name_en": "Ngoc Lac",
+    "full_name": "Thị trấn Ngọc Lặc",
+    "full_name_en": "Ngoc Lac Township",
+    "type": "thị trấn",
+    "district_code": "389",
+    "codename": "ngoc_lac"
+  },
+  {
+    "code": "15064",
+    "name": "Lam Sơn",
+    "name_en": "Lam Son",
+    "full_name": "Xã Lam Sơn",
+    "full_name_en": "Lam Son Commune",
+    "type": "xã",
+    "district_code": "389",
+    "codename": "lam_son"
+  },
+  {
+    "code": "15067",
+    "name": "Mỹ Tân",
+    "name_en": "My Tan",
+    "full_name": "Xã Mỹ Tân",
+    "full_name_en": "My Tan Commune",
+    "type": "xã",
+    "district_code": "389",
+    "codename": "my_tan"
+  },
+  {
+    "code": "15070",
+    "name": "Thúy Sơn",
+    "name_en": "Thuy Son",
+    "full_name": "Xã Thúy Sơn",
+    "full_name_en": "Thuy Son Commune",
+    "type": "xã",
+    "district_code": "389",
+    "codename": "thuy_son"
+  },
+  {
+    "code": "15073",
+    "name": "Thạch Lập",
+    "name_en": "Thach Lap",
+    "full_name": "Xã Thạch Lập",
+    "full_name_en": "Thach Lap Commune",
+    "type": "xã",
+    "district_code": "389",
+    "codename": "thach_lap"
+  },
+  {
+    "code": "15076",
+    "name": "Vân Âm",
+    "name_en": "Van Am",
+    "full_name": "Xã Vân Âm",
+    "full_name_en": "Van Am Commune",
+    "type": "xã",
+    "district_code": "389",
+    "codename": "van_am"
+  },
+  {
+    "code": "15079",
+    "name": "Cao Ngọc",
+    "name_en": "Cao Ngoc",
+    "full_name": "Xã Cao Ngọc",
+    "full_name_en": "Cao Ngoc Commune",
+    "type": "xã",
+    "district_code": "389",
+    "codename": "cao_ngoc"
+  },
+  {
+    "code": "15085",
+    "name": "Quang Trung",
+    "name_en": "Quang Trung",
+    "full_name": "Xã Quang Trung",
+    "full_name_en": "Quang Trung Commune",
+    "type": "xã",
+    "district_code": "389",
+    "codename": "quang_trung"
+  },
+  {
+    "code": "15088",
+    "name": "Đồng Thịnh",
+    "name_en": "Dong Thinh",
+    "full_name": "Xã Đồng Thịnh",
+    "full_name_en": "Dong Thinh Commune",
+    "type": "xã",
+    "district_code": "389",
+    "codename": "dong_thinh"
+  },
+  {
+    "code": "15091",
+    "name": "Ngọc Liên",
+    "name_en": "Ngoc Lien",
+    "full_name": "Xã Ngọc Liên",
+    "full_name_en": "Ngoc Lien Commune",
+    "type": "xã",
+    "district_code": "389",
+    "codename": "ngoc_lien"
+  },
+  {
+    "code": "15094",
+    "name": "Ngọc Sơn",
+    "name_en": "Ngoc Son",
+    "full_name": "Xã Ngọc Sơn",
+    "full_name_en": "Ngoc Son Commune",
+    "type": "xã",
+    "district_code": "389",
+    "codename": "ngoc_son"
+  },
+  {
+    "code": "15097",
+    "name": "Lộc Thịnh",
+    "name_en": "Loc Thinh",
+    "full_name": "Xã Lộc Thịnh",
+    "full_name_en": "Loc Thinh Commune",
+    "type": "xã",
+    "district_code": "389",
+    "codename": "loc_thinh"
+  },
+  {
+    "code": "15100",
+    "name": "Cao Thịnh",
+    "name_en": "Cao Thinh",
+    "full_name": "Xã Cao Thịnh",
+    "full_name_en": "Cao Thinh Commune",
+    "type": "xã",
+    "district_code": "389",
+    "codename": "cao_thinh"
+  },
+  {
+    "code": "15103",
+    "name": "Ngọc Trung",
+    "name_en": "Ngoc Trung",
+    "full_name": "Xã Ngọc Trung",
+    "full_name_en": "Ngoc Trung Commune",
+    "type": "xã",
+    "district_code": "389",
+    "codename": "ngoc_trung"
+  },
+  {
+    "code": "15106",
+    "name": "Phùng Giáo",
+    "name_en": "Phung Giao",
+    "full_name": "Xã Phùng Giáo",
+    "full_name_en": "Phung Giao Commune",
+    "type": "xã",
+    "district_code": "389",
+    "codename": "phung_giao"
+  },
+  {
+    "code": "15109",
+    "name": "Phùng Minh",
+    "name_en": "Phung Minh",
+    "full_name": "Xã Phùng Minh",
+    "full_name_en": "Phung Minh Commune",
+    "type": "xã",
+    "district_code": "389",
+    "codename": "phung_minh"
+  },
+  {
+    "code": "15112",
+    "name": "Phúc Thịnh",
+    "name_en": "Phuc Thinh",
+    "full_name": "Xã Phúc Thịnh",
+    "full_name_en": "Phuc Thinh Commune",
+    "type": "xã",
+    "district_code": "389",
+    "codename": "phuc_thinh"
+  },
+  {
+    "code": "15115",
+    "name": "Nguyệt Ấn",
+    "name_en": "Nguyet An",
+    "full_name": "Xã Nguyệt Ấn",
+    "full_name_en": "Nguyet An Commune",
+    "type": "xã",
+    "district_code": "389",
+    "codename": "nguyet_an"
+  },
+  {
+    "code": "15118",
+    "name": "Kiên Thọ",
+    "name_en": "Kien Tho",
+    "full_name": "Xã Kiên Thọ",
+    "full_name_en": "Kien Tho Commune",
+    "type": "xã",
+    "district_code": "389",
+    "codename": "kien_tho"
+  },
+  {
+    "code": "15121",
+    "name": "Minh Tiến",
+    "name_en": "Minh Tien",
+    "full_name": "Xã Minh Tiến",
+    "full_name_en": "Minh Tien Commune",
+    "type": "xã",
+    "district_code": "389",
+    "codename": "minh_tien"
+  },
+  {
+    "code": "15124",
+    "name": "Minh Sơn",
+    "name_en": "Minh Son",
+    "full_name": "Xã Minh Sơn",
+    "full_name_en": "Minh Son Commune",
+    "type": "xã",
+    "district_code": "389",
+    "codename": "minh_son"
+  }
+]

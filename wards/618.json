@@ -1,0 +1,32 @@
+[
+  {
+    "code": "23535",
+    "name": "Ia Đal",
+    "name_en": "Ia Dal",
+    "full_name": "Xã Ia Đal",
+    "full_name_en": "Ia Dal Commune",
+    "type": "xã",
+    "district_code": "618",
+    "codename": "ia_dal"
+  },
+  {
+    "code": "23537",
+    "name": "Ia Dom",
+    "name_en": "Ia Dom",
+    "full_name": "Xã Ia Dom",
+    "full_name_en": "Ia Dom Commune",
+    "type": "xã",
+    "district_code": "618",
+    "codename": "ia_dom"
+  },
+  {
+    "code": "23538",
+    "name": "Ia Tơi",
+    "name_en": "Ia Toi",
+    "full_name": "Xã Ia Tơi",
+    "full_name_en": "Ia Toi Commune",
+    "type": "xã",
+    "district_code": "618",
+    "codename": "ia_toi"
+  }
+]

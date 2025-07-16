@@ -1,0 +1,172 @@
+[
+  {
+    "code": "11629",
+    "name": "An Lão",
+    "name_en": "An Lao",
+    "full_name": "Thị trấn An Lão",
+    "full_name_en": "An Lao Township",
+    "type": "thị trấn",
+    "district_code": "313",
+    "codename": "an_lao"
+  },
+  {
+    "code": "11632",
+    "name": "Bát Trang",
+    "name_en": "Bat Trang",
+    "full_name": "Xã Bát Trang",
+    "full_name_en": "Bat Trang Commune",
+    "type": "xã",
+    "district_code": "313",
+    "codename": "bat_trang"
+  },
+  {
+    "code": "11635",
+    "name": "Trường Thọ",
+    "name_en": "Truong Tho",
+    "full_name": "Xã Trường Thọ",
+    "full_name_en": "Truong Tho Commune",
+    "type": "xã",
+    "district_code": "313",
+    "codename": "truong_tho"
+  },
+  {
+    "code": "11638",
+    "name": "Trường Thành",
+    "name_en": "Truong Thanh",
+    "full_name": "Xã Trường Thành",
+    "full_name_en": "Truong Thanh Commune",
+    "type": "xã",
+    "district_code": "313",
+    "codename": "truong_thanh"
+  },
+  {
+    "code": "11641",
+    "name": "An Tiến",
+    "name_en": "An Tien",
+    "full_name": "Xã An Tiến",
+    "full_name_en": "An Tien Commune",
+    "type": "xã",
+    "district_code": "313",
+    "codename": "an_tien"
+  },
+  {
+    "code": "11644",
+    "name": "Quang Hưng",
+    "name_en": "Quang Hung",
+    "full_name": "Xã Quang Hưng",
+    "full_name_en": "Quang Hung Commune",
+    "type": "xã",
+    "district_code": "313",
+    "codename": "quang_hung"
+  },
+  {
+    "code": "11647",
+    "name": "Quang Trung",
+    "name_en": "Quang Trung",
+    "full_name": "Xã Quang Trung",
+    "full_name_en": "Quang Trung Commune",
+    "type": "xã",
+    "district_code": "313",
+    "codename": "quang_trung"
+  },
+  {
+    "code": "11650",
+    "name": "Quốc Tuấn",
+    "name_en": "Quoc Tuan",
+    "full_name": "Xã Quốc Tuấn",
+    "full_name_en": "Quoc Tuan Commune",
+    "type": "xã",
+    "district_code": "313",
+    "codename": "quoc_tuan"
+  },
+  {
+    "code": "11653",
+    "name": "An Thắng",
+    "name_en": "An Thang",
+    "full_name": "Xã An Thắng",
+    "full_name_en": "An Thang Commune",
+    "type": "xã",
+    "district_code": "313",
+    "codename": "an_thang"
+  },
+  {
+    "code": "11656",
+    "name": "Trường Sơn",
+    "name_en": "Truong Son",
+    "full_name": "Thị trấn Trường Sơn",
+    "full_name_en": "Truong Son Township",
+    "type": "thị trấn",
+    "district_code": "313",
+    "codename": "truong_son"
+  },
+  {
+    "code": "11659",
+    "name": "Tân Dân",
+    "name_en": "Tan Dan",
+    "full_name": "Xã Tân Dân",
+    "full_name_en": "Tan Dan Commune",
+    "type": "xã",
+    "district_code": "313",
+    "codename": "tan_dan"
+  },
+  {
+    "code": "11662",
+    "name": "Thái Sơn",
+    "name_en": "Thai Son",
+    "full_name": "Xã Thái Sơn",
+    "full_name_en": "Thai Son Commune",
+    "type": "xã",
+    "district_code": "313",
+    "codename": "thai_son"
+  },
+  {
+    "code": "11665",
+    "name": "Tân Viên",
+    "name_en": "Tan Vien",
+    "full_name": "Xã Tân Viên",
+    "full_name_en": "Tan Vien Commune",
+    "type": "xã",
+    "district_code": "313",
+    "codename": "tan_vien"
+  },
+  {
+    "code": "11668",
+    "name": "Mỹ Đức",
+    "name_en": "My Duc",
+    "full_name": "Xã Mỹ Đức",
+    "full_name_en": "My Duc Commune",
+    "type": "xã",
+    "district_code": "313",
+    "codename": "my_duc"
+  },
+  {
+    "code": "11671",
+    "name": "Chiến Thắng",
+    "name_en": "Chien Thang",
+    "full_name": "Xã Chiến Thắng",
+    "full_name_en": "Chien Thang Commune",
+    "type": "xã",
+    "district_code": "313",
+    "codename": "chien_thang"
+  },
+  {
+    "code": "11674",
+    "name": "An Thọ",
+    "name_en": "An Tho",
+    "full_name": "Xã An Thọ",
+    "full_name_en": "An Tho Commune",
+    "type": "xã",
+    "district_code": "313",
+    "codename": "an_tho"
+  },
+  {
+    "code": "11677",
+    "name": "An Thái",
+    "name_en": "An Thai",
+    "full_name": "Xã An Thái",
+    "full_name_en": "An Thai Commune",
+    "type": "xã",
+    "district_code": "313",
+    "codename": "an_thai"
+  }
+]

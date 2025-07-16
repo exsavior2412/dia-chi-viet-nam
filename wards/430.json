@@ -1,0 +1,172 @@
+[
+  {
+    "code": "17932",
+    "name": "Nam Hưng",
+    "name_en": "Nam Hung",
+    "full_name": "Xã Nam Hưng",
+    "full_name_en": "Nam Hung Commune",
+    "type": "xã",
+    "district_code": "430",
+    "codename": "nam_hung"
+  },
+  {
+    "code": "17935",
+    "name": "Nghĩa Thái",
+    "name_en": "Nghia Thai",
+    "full_name": "Xã Nghĩa Thái",
+    "full_name_en": "Nghia Thai Commune",
+    "type": "xã",
+    "district_code": "430",
+    "codename": "nghia_thai"
+  },
+  {
+    "code": "17938",
+    "name": "Nam Thanh",
+    "name_en": "Nam Thanh",
+    "full_name": "Xã Nam Thanh",
+    "full_name_en": "Nam Thanh Commune",
+    "type": "xã",
+    "district_code": "430",
+    "codename": "nam_thanh"
+  },
+  {
+    "code": "17941",
+    "name": "Nam Anh",
+    "name_en": "Nam Anh",
+    "full_name": "Xã Nam Anh",
+    "full_name_en": "Nam Anh Commune",
+    "type": "xã",
+    "district_code": "430",
+    "codename": "nam_anh"
+  },
+  {
+    "code": "17944",
+    "name": "Nam Xuân",
+    "name_en": "Nam Xuan",
+    "full_name": "Xã Nam Xuân",
+    "full_name_en": "Nam Xuan Commune",
+    "type": "xã",
+    "district_code": "430",
+    "codename": "nam_xuan"
+  },
+  {
+    "code": "17950",
+    "name": "Nam Đàn",
+    "name_en": "Nam Dan",
+    "full_name": "Thị trấn Nam Đàn",
+    "full_name_en": "Nam Dan Township",
+    "type": "thị trấn",
+    "district_code": "430",
+    "codename": "nam_dan"
+  },
+  {
+    "code": "17953",
+    "name": "Nam Lĩnh",
+    "name_en": "Nam Linh",
+    "full_name": "Xã Nam Lĩnh",
+    "full_name_en": "Nam Linh Commune",
+    "type": "xã",
+    "district_code": "430",
+    "codename": "nam_linh"
+  },
+  {
+    "code": "17956",
+    "name": "Nam Giang",
+    "name_en": "Nam Giang",
+    "full_name": "Xã Nam Giang",
+    "full_name_en": "Nam Giang Commune",
+    "type": "xã",
+    "district_code": "430",
+    "codename": "nam_giang"
+  },
+  {
+    "code": "17959",
+    "name": "Xuân Hòa",
+    "name_en": "Xuan Hoa",
+    "full_name": "Xã Xuân Hòa",
+    "full_name_en": "Xuan Hoa Commune",
+    "type": "xã",
+    "district_code": "430",
+    "codename": "xuan_hoa"
+  },
+  {
+    "code": "17962",
+    "name": "Hùng Tiến",
+    "name_en": "Hung Tien",
+    "full_name": "Xã Hùng Tiến",
+    "full_name_en": "Hung Tien Commune",
+    "type": "xã",
+    "district_code": "430",
+    "codename": "hung_tien"
+  },
+  {
+    "code": "17968",
+    "name": "Thượng Tân Lộc",
+    "name_en": "Thuong Tan Loc",
+    "full_name": "Xã Thượng Tân Lộc",
+    "full_name_en": "Thuong Tan Loc Commune",
+    "type": "xã",
+    "district_code": "430",
+    "codename": "thuong_tan_loc"
+  },
+  {
+    "code": "17971",
+    "name": "Kim Liên",
+    "name_en": "Kim Lien",
+    "full_name": "Xã Kim Liên",
+    "full_name_en": "Kim Lien Commune",
+    "type": "xã",
+    "district_code": "430",
+    "codename": "kim_lien"
+  },
+  {
+    "code": "17980",
+    "name": "Xuân Hồng",
+    "name_en": "Xuan Hong",
+    "full_name": "Xã Xuân Hồng",
+    "full_name_en": "Xuan Hong Commune",
+    "type": "xã",
+    "district_code": "430",
+    "codename": "xuan_hong"
+  },
+  {
+    "code": "17983",
+    "name": "Nam Cát",
+    "name_en": "Nam Cat",
+    "full_name": "Xã Nam Cát",
+    "full_name_en": "Nam Cat Commune",
+    "type": "xã",
+    "district_code": "430",
+    "codename": "nam_cat"
+  },
+  {
+    "code": "17986",
+    "name": "Khánh Sơn",
+    "name_en": "Khanh Son",
+    "full_name": "Xã Khánh Sơn",
+    "full_name_en": "Khanh Son Commune",
+    "type": "xã",
+    "district_code": "430",
+    "codename": "khanh_son"
+  },
+  {
+    "code": "17989",
+    "name": "Trung Phúc Cường",
+    "name_en": "Trung Phuc Cuong",
+    "full_name": "Xã Trung Phúc Cường",
+    "full_name_en": "Trung Phuc Cuong Commune",
+    "type": "xã",
+    "district_code": "430",
+    "codename": "trung_phuc_cuong"
+  },
+  {
+    "code": "17998",
+    "name": "Nam Kim",
+    "name_en": "Nam Kim",
+    "full_name": "Xã Nam Kim",
+    "full_name_en": "Nam Kim Commune",
+    "type": "xã",
+    "district_code": "430",
+    "codename": "nam_kim"
+  }
+]

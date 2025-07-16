@@ -1,0 +1,122 @@
+[
+  {
+    "code": "22015",
+    "name": "1",
+    "name_en": "1",
+    "full_name": "Phường 1",
+    "full_name_en": "Ward 1",
+    "type": "phường",
+    "district_code": "555",
+    "codename": "1"
+  },
+  {
+    "code": "22018",
+    "name": "2",
+    "name_en": "2",
+    "full_name": "Phường 2",
+    "full_name_en": "Ward 2",
+    "type": "phường",
+    "district_code": "555",
+    "codename": "2"
+  },
+  {
+    "code": "22024",
+    "name": "9",
+    "name_en": "9",
+    "full_name": "Phường 9",
+    "full_name_en": "Ward 9",
+    "type": "phường",
+    "district_code": "555",
+    "codename": "9"
+  },
+  {
+    "code": "22030",
+    "name": "4",
+    "name_en": "4",
+    "full_name": "Phường 4",
+    "full_name_en": "Ward 4",
+    "type": "phường",
+    "district_code": "555",
+    "codename": "4"
+  },
+  {
+    "code": "22033",
+    "name": "5",
+    "name_en": "5",
+    "full_name": "Phường 5",
+    "full_name_en": "Ward 5",
+    "type": "phường",
+    "district_code": "555",
+    "codename": "5"
+  },
+  {
+    "code": "22036",
+    "name": "7",
+    "name_en": "7",
+    "full_name": "Phường 7",
+    "full_name_en": "Ward 7",
+    "type": "phường",
+    "district_code": "555",
+    "codename": "7"
+  },
+  {
+    "code": "22040",
+    "name": "Phú Thạnh",
+    "name_en": "Phu Thanh",
+    "full_name": "Phường Phú Thạnh",
+    "full_name_en": "Phu Thanh Ward",
+    "type": "phường",
+    "district_code": "555",
+    "codename": "phu_thanh"
+  },
+  {
+    "code": "22041",
+    "name": "Phú Đông",
+    "name_en": "Phu Dong",
+    "full_name": "Phường Phú Đông",
+    "full_name_en": "Phu Dong Ward",
+    "type": "phường",
+    "district_code": "555",
+    "codename": "phu_dong"
+  },
+  {
+    "code": "22042",
+    "name": "Hòa Kiến",
+    "name_en": "Hoa Kien",
+    "full_name": "Xã Hòa Kiến",
+    "full_name_en": "Hoa Kien Commune",
+    "type": "xã",
+    "district_code": "555",
+    "codename": "hoa_kien"
+  },
+  {
+    "code": "22045",
+    "name": "Bình Kiến",
+    "name_en": "Binh Kien",
+    "full_name": "Xã Bình Kiến",
+    "full_name_en": "Binh Kien Commune",
+    "type": "xã",
+    "district_code": "555",
+    "codename": "binh_kien"
+  },
+  {
+    "code": "22162",
+    "name": "An Phú",
+    "name_en": "An Phu",
+    "full_name": "Xã An Phú",
+    "full_name_en": "An Phu Commune",
+    "type": "xã",
+    "district_code": "555",
+    "codename": "an_phu"
+  },
+  {
+    "code": "22240",
+    "name": "Phú Lâm",
+    "name_en": "Phu Lam",
+    "full_name": "Phường Phú Lâm",
+    "full_name_en": "Phu Lam Ward",
+    "type": "phường",
+    "district_code": "555",
+    "codename": "phu_lam"
+  }
+]

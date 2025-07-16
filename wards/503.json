@@ -1,0 +1,132 @@
+[
+  {
+    "code": "20398",
+    "name": "Minh An",
+    "name_en": "Minh An",
+    "full_name": "Phường Minh An",
+    "full_name_en": "Minh An Ward",
+    "type": "phường",
+    "district_code": "503",
+    "codename": "minh_an"
+  },
+  {
+    "code": "20401",
+    "name": "Tân An",
+    "name_en": "Tan An",
+    "full_name": "Phường Tân An",
+    "full_name_en": "Tan An Ward",
+    "type": "phường",
+    "district_code": "503",
+    "codename": "tan_an"
+  },
+  {
+    "code": "20404",
+    "name": "Cẩm Phô",
+    "name_en": "Cam Pho",
+    "full_name": "Phường Cẩm Phô",
+    "full_name_en": "Cam Pho Ward",
+    "type": "phường",
+    "district_code": "503",
+    "codename": "cam_pho"
+  },
+  {
+    "code": "20407",
+    "name": "Thanh Hà",
+    "name_en": "Thanh Ha",
+    "full_name": "Phường Thanh Hà",
+    "full_name_en": "Thanh Ha Ward",
+    "type": "phường",
+    "district_code": "503",
+    "codename": "thanh_ha"
+  },
+  {
+    "code": "20410",
+    "name": "Sơn Phong",
+    "name_en": "Son Phong",
+    "full_name": "Phường Sơn Phong",
+    "full_name_en": "Son Phong Ward",
+    "type": "phường",
+    "district_code": "503",
+    "codename": "son_phong"
+  },
+  {
+    "code": "20413",
+    "name": "Cẩm Châu",
+    "name_en": "Cam Chau",
+    "full_name": "Phường Cẩm Châu",
+    "full_name_en": "Cam Chau Ward",
+    "type": "phường",
+    "district_code": "503",
+    "codename": "cam_chau"
+  },
+  {
+    "code": "20416",
+    "name": "Cửa Đại",
+    "name_en": "Cua Dai",
+    "full_name": "Phường Cửa Đại",
+    "full_name_en": "Cua Dai Ward",
+    "type": "phường",
+    "district_code": "503",
+    "codename": "cua_dai"
+  },
+  {
+    "code": "20419",
+    "name": "Cẩm An",
+    "name_en": "Cam An",
+    "full_name": "Phường Cẩm An",
+    "full_name_en": "Cam An Ward",
+    "type": "phường",
+    "district_code": "503",
+    "codename": "cam_an"
+  },
+  {
+    "code": "20422",
+    "name": "Cẩm Hà",
+    "name_en": "Cam Ha",
+    "full_name": "Xã Cẩm Hà",
+    "full_name_en": "Cam Ha Commune",
+    "type": "xã",
+    "district_code": "503",
+    "codename": "cam_ha"
+  },
+  {
+    "code": "20425",
+    "name": "Cẩm Kim",
+    "name_en": "Cam Kim",
+    "full_name": "Xã Cẩm Kim",
+    "full_name_en": "Cam Kim Commune",
+    "type": "xã",
+    "district_code": "503",
+    "codename": "cam_kim"
+  },
+  {
+    "code": "20428",
+    "name": "Cẩm Nam",
+    "name_en": "Cam Nam",
+    "full_name": "Phường Cẩm Nam",
+    "full_name_en": "Cam Nam Ward",
+    "type": "phường",
+    "district_code": "503",
+    "codename": "cam_nam"
+  },
+  {
+    "code": "20431",
+    "name": "Cẩm Thanh",
+    "name_en": "Cam Thanh",
+    "full_name": "Xã Cẩm Thanh",
+    "full_name_en": "Cam Thanh Commune",
+    "type": "xã",
+    "district_code": "503",
+    "codename": "cam_thanh"
+  },
+  {
+    "code": "20434",
+    "name": "Tân Hiệp",
+    "name_en": "Tan Hiep",
+    "full_name": "Xã Tân Hiệp",
+    "full_name_en": "Tan Hiep Commune",
+    "type": "xã",
+    "district_code": "503",
+    "codename": "tan_hiep"
+  }
+]

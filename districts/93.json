@@ -1,0 +1,82 @@
+[
+  {
+    "code": "930",
+    "name": "Vị Thanh",
+    "name_en": "Vi Thanh",
+    "full_name": "Thành phố Vị Thanh",
+    "full_name_en": "Vi Thanh City",
+    "type": "thành phố",
+    "province_code": "93",
+    "codename": "vi_thanh"
+  },
+  {
+    "code": "931",
+    "name": "Ngã Bảy",
+    "name_en": "Nga Bay",
+    "full_name": "Thành phố Ngã Bảy",
+    "full_name_en": "Nga Bay City",
+    "type": "thành phố",
+    "province_code": "93",
+    "codename": "nga_bay"
+  },
+  {
+    "code": "932",
+    "name": "Châu Thành A",
+    "name_en": "Chau Thanh A",
+    "full_name": "Huyện Châu Thành A",
+    "full_name_en": "Chau Thanh A District",
+    "type": "huyện",
+    "province_code": "93",
+    "codename": "chau_thanh_a"
+  },
+  {
+    "code": "933",
+    "name": "Châu Thành",
+    "name_en": "Chau Thanh",
+    "full_name": "Huyện Châu Thành",
+    "full_name_en": "Chau Thanh District",
+    "type": "huyện",
+    "province_code": "93",
+    "codename": "chau_thanh"
+  },
+  {
+    "code": "934",
+    "name": "Phụng Hiệp",
+    "name_en": "Phung Hiep",
+    "full_name": "Huyện Phụng Hiệp",
+    "full_name_en": "Phung Hiep District",
+    "type": "huyện",
+    "province_code": "93",
+    "codename": "phung_hiep"
+  },
+  {
+    "code": "935",
+    "name": "Vị Thuỷ",
+    "name_en": "Vi Thuy",
+    "full_name": "Huyện Vị Thuỷ",
+    "full_name_en": "Vi Thuy District",
+    "type": "huyện",
+    "province_code": "93",
+    "codename": "vi_thuy"
+  },
+  {
+    "code": "936",
+    "name": "Long Mỹ",
+    "name_en": "Long My",
+    "full_name": "Huyện Long Mỹ",
+    "full_name_en": "Long My District",
+    "type": "huyện",
+    "province_code": "93",
+    "codename": "long_my"
+  },
+  {
+    "code": "937",
+    "name": "Long Mỹ",
+    "name_en": "Long My",
+    "full_name": "Thị xã Long Mỹ",
+    "full_name_en": "Long My Town",
+    "type": "thị xã",
+    "province_code": "93",
+    "codename": "long_my"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "code": "09076",
+    "name": "Vĩnh Tường",
+    "name_en": "Vinh Tuong",
+    "full_name": "Thị trấn Vĩnh Tường",
+    "full_name_en": "Vinh Tuong Township",
+    "type": "thị trấn",
+    "district_code": "252",
+    "codename": "vinh_tuong"
+  },
+  {
+    "code": "09079",
+    "name": "Kim Xá",
+    "name_en": "Kim Xa",
+    "full_name": "Xã Kim Xá",
+    "full_name_en": "Kim Xa Commune",
+    "type": "xã",
+    "district_code": "252",
+    "codename": "kim_xa"
+  },
+  {
+    "code": "09082",
+    "name": "Yên Bình",
+    "name_en": "Yen Binh",
+    "full_name": "Xã Yên Bình",
+    "full_name_en": "Yen Binh Commune",
+    "type": "xã",
+    "district_code": "252",
+    "codename": "yen_binh"
+  },
+  {
+    "code": "09085",
+    "name": "Chấn Hưng",
+    "name_en": "Chan Hung",
+    "full_name": "Xã Chấn Hưng",
+    "full_name_en": "Chan Hung Commune",
+    "type": "xã",
+    "district_code": "252",
+    "codename": "chan_hung"
+  },
+  {
+    "code": "09088",
+    "name": "Nghĩa Hưng",
+    "name_en": "Nghia Hung",
+    "full_name": "Xã Nghĩa Hưng",
+    "full_name_en": "Nghia Hung Commune",
+    "type": "xã",
+    "district_code": "252",
+    "codename": "nghia_hung"
+  },
+  {
+    "code": "09091",
+    "name": "Yên Lập",
+    "name_en": "Yen Lap",
+    "full_name": "Xã Yên Lập",
+    "full_name_en": "Yen Lap Commune",
+    "type": "xã",
+    "district_code": "252",
+    "codename": "yen_lap"
+  },
+  {
+    "code": "09097",
+    "name": "Sao Đại Việt",
+    "name_en": "Sao Dai Viet",
+    "full_name": "Xã Sao Đại Việt",
+    "full_name_en": "Sao Dai Viet Commune",
+    "type": "xã",
+    "district_code": "252",
+    "codename": "sao_dai_viet"
+  },
+  {
+    "code": "09100",
+    "name": "Đại Đồng",
+    "name_en": "Dai Dong",
+    "full_name": "Xã Đại Đồng",
+    "full_name_en": "Dai Dong Commune",
+    "type": "xã",
+    "district_code": "252",
+    "codename": "dai_dong"
+  },
+  {
+    "code": "09106",
+    "name": "Lũng Hoà",
+    "name_en": "Lung Hoa",
+    "full_name": "Xã Lũng Hoà",
+    "full_name_en": "Lung Hoa Commune",
+    "type": "xã",
+    "district_code": "252",
+    "codename": "lung_hoa"
+  },
+  {
+    "code": "09112",
+    "name": "Thổ Tang",
+    "name_en": "Tho Tang",
+    "full_name": "Thị trấn Thổ Tang",
+    "full_name_en": "Tho Tang Township",
+    "type": "thị trấn",
+    "district_code": "252",
+    "codename": "tho_tang"
+  },
+  {
+    "code": "09118",
+    "name": "Lương Điền",
+    "name_en": "Luong Dien",
+    "full_name": "Xã Lương Điền",
+    "full_name_en": "Luong Dien Commune",
+    "type": "xã",
+    "district_code": "252",
+    "codename": "luong_dien"
+  },
+  {
+    "code": "09124",
+    "name": "Tân Phú",
+    "name_en": "Tan Phu",
+    "full_name": "Xã Tân Phú",
+    "full_name_en": "Tan Phu Commune",
+    "type": "xã",
+    "district_code": "252",
+    "codename": "tan_phu"
+  },
+  {
+    "code": "09127",
+    "name": "Thượng Trưng",
+    "name_en": "Thuong Trung",
+    "full_name": "Xã Thượng Trưng",
+    "full_name_en": "Thuong Trung Commune",
+    "type": "xã",
+    "district_code": "252",
+    "codename": "thuong_trung"
+  },
+  {
+    "code": "09130",
+    "name": "Vũ Di",
+    "name_en": "Vu Di",
+    "full_name": "Xã Vũ Di",
+    "full_name_en": "Vu Di Commune",
+    "type": "xã",
+    "district_code": "252",
+    "codename": "vu_di"
+  },
+  {
+    "code": "09136",
+    "name": "Tuân Chính",
+    "name_en": "Tuan Chinh",
+    "full_name": "Xã Tuân Chính",
+    "full_name_en": "Tuan Chinh Commune",
+    "type": "xã",
+    "district_code": "252",
+    "codename": "tuan_chinh"
+  },
+  {
+    "code": "09145",
+    "name": "Tứ Trưng",
+    "name_en": "Tu Trung",
+    "full_name": "Thị trấn Tứ Trưng",
+    "full_name_en": "Tu Trung Township",
+    "type": "thị trấn",
+    "district_code": "252",
+    "codename": "tu_trung"
+  },
+  {
+    "code": "09148",
+    "name": "Ngũ Kiên",
+    "name_en": "Ngu Kien",
+    "full_name": "Xã Ngũ Kiên",
+    "full_name_en": "Ngu Kien Commune",
+    "type": "xã",
+    "district_code": "252",
+    "codename": "ngu_kien"
+  },
+  {
+    "code": "09151",
+    "name": "An Nhân",
+    "name_en": "An Nhan",
+    "full_name": "Xã An Nhân",
+    "full_name_en": "An Nhan Commune",
+    "type": "xã",
+    "district_code": "252",
+    "codename": "an_nhan"
+  },
+  {
+    "code": "09154",
+    "name": "Vĩnh Thịnh",
+    "name_en": "Vinh Thinh",
+    "full_name": "Xã Vĩnh Thịnh",
+    "full_name_en": "Vinh Thinh Commune",
+    "type": "xã",
+    "district_code": "252",
+    "codename": "vinh_thinh"
+  },
+  {
+    "code": "09157",
+    "name": "Vĩnh Phú",
+    "name_en": "Vinh Phu",
+    "full_name": "Xã Vĩnh Phú",
+    "full_name_en": "Vinh Phu Commune",
+    "type": "xã",
+    "district_code": "252",
+    "codename": "vinh_phu"
+  }
+]

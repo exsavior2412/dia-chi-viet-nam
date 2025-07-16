@@ -1,0 +1,102 @@
+[
+  {
+    "code": "25708",
+    "name": "Trảng Bàng",
+    "name_en": "Trang Bang",
+    "full_name": "Phường Trảng Bàng",
+    "full_name_en": "Trang Bang Ward",
+    "type": "phường",
+    "district_code": "712",
+    "codename": "trang_bang"
+  },
+  {
+    "code": "25711",
+    "name": "Đôn Thuận",
+    "name_en": "Don Thuan",
+    "full_name": "Xã Đôn Thuận",
+    "full_name_en": "Don Thuan Commune",
+    "type": "xã",
+    "district_code": "712",
+    "codename": "don_thuan"
+  },
+  {
+    "code": "25714",
+    "name": "Hưng Thuận",
+    "name_en": "Hung Thuan",
+    "full_name": "Xã Hưng Thuận",
+    "full_name_en": "Hung Thuan Commune",
+    "type": "xã",
+    "district_code": "712",
+    "codename": "hung_thuan"
+  },
+  {
+    "code": "25717",
+    "name": "Lộc Hưng",
+    "name_en": "Loc Hung",
+    "full_name": "Phường Lộc Hưng",
+    "full_name_en": "Loc Hung Ward",
+    "type": "phường",
+    "district_code": "712",
+    "codename": "loc_hung"
+  },
+  {
+    "code": "25720",
+    "name": "Gia Lộc",
+    "name_en": "Gia Loc",
+    "full_name": "Phường Gia Lộc",
+    "full_name_en": "Gia Loc Ward",
+    "type": "phường",
+    "district_code": "712",
+    "codename": "gia_loc"
+  },
+  {
+    "code": "25723",
+    "name": "Gia Bình",
+    "name_en": "Gia Binh",
+    "full_name": "Phường Gia Bình",
+    "full_name_en": "Gia Binh Ward",
+    "type": "phường",
+    "district_code": "712",
+    "codename": "gia_binh"
+  },
+  {
+    "code": "25729",
+    "name": "Phước Bình",
+    "name_en": "Phuoc Binh",
+    "full_name": "Xã Phước Bình",
+    "full_name_en": "Phuoc Binh Commune",
+    "type": "xã",
+    "district_code": "712",
+    "codename": "phuoc_binh"
+  },
+  {
+    "code": "25732",
+    "name": "An Tịnh",
+    "name_en": "An Tinh",
+    "full_name": "Phường An Tịnh",
+    "full_name_en": "An Tinh Ward",
+    "type": "phường",
+    "district_code": "712",
+    "codename": "an_tinh"
+  },
+  {
+    "code": "25735",
+    "name": "An Hòa",
+    "name_en": "An Hoa",
+    "full_name": "Phường An Hòa",
+    "full_name_en": "An Hoa Ward",
+    "type": "phường",
+    "district_code": "712",
+    "codename": "an_hoa"
+  },
+  {
+    "code": "25738",
+    "name": "Phước Chỉ",
+    "name_en": "Phuoc Chi",
+    "full_name": "Xã Phước Chỉ",
+    "full_name_en": "Phuoc Chi Commune",
+    "type": "xã",
+    "district_code": "712",
+    "codename": "phuoc_chi"
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "code": "06067",
+    "name": "Hưng Đạo",
+    "name_en": "Hung Dao",
+    "full_name": "Xã Hưng Đạo",
+    "full_name_en": "Hung Dao Commune",
+    "type": "xã",
+    "district_code": "181",
+    "codename": "hung_dao"
+  },
+  {
+    "code": "06070",
+    "name": "Vĩnh Yên",
+    "name_en": "Vinh Yen",
+    "full_name": "Xã Vĩnh Yên",
+    "full_name_en": "Vinh Yen Commune",
+    "type": "xã",
+    "district_code": "181",
+    "codename": "vinh_yen"
+  },
+  {
+    "code": "06073",
+    "name": "Hoa Thám",
+    "name_en": "Hoa Tham",
+    "full_name": "Xã Hoa Thám",
+    "full_name_en": "Hoa Tham Commune",
+    "type": "xã",
+    "district_code": "181",
+    "codename": "hoa_tham"
+  },
+  {
+    "code": "06076",
+    "name": "Quý Hòa",
+    "name_en": "Quy Hoa",
+    "full_name": "Xã Quý Hòa",
+    "full_name_en": "Quy Hoa Commune",
+    "type": "xã",
+    "district_code": "181",
+    "codename": "quy_hoa"
+  },
+  {
+    "code": "06079",
+    "name": "Hồng Phong",
+    "name_en": "Hong Phong",
+    "full_name": "Xã Hồng Phong",
+    "full_name_en": "Hong Phong Commune",
+    "type": "xã",
+    "district_code": "181",
+    "codename": "hong_phong"
+  },
+  {
+    "code": "06082",
+    "name": "Yên Lỗ",
+    "name_en": "Yen Lo",
+    "full_name": "Xã Yên Lỗ",
+    "full_name_en": "Yen Lo Commune",
+    "type": "xã",
+    "district_code": "181",
+    "codename": "yen_lo"
+  },
+  {
+    "code": "06085",
+    "name": "Thiện Hòa",
+    "name_en": "Thien Hoa",
+    "full_name": "Xã Thiện Hòa",
+    "full_name_en": "Thien Hoa Commune",
+    "type": "xã",
+    "district_code": "181",
+    "codename": "thien_hoa"
+  },
+  {
+    "code": "06088",
+    "name": "Quang Trung",
+    "name_en": "Quang Trung",
+    "full_name": "Xã Quang Trung",
+    "full_name_en": "Quang Trung Commune",
+    "type": "xã",
+    "district_code": "181",
+    "codename": "quang_trung"
+  },
+  {
+    "code": "06091",
+    "name": "Thiện Thuật",
+    "name_en": "Thien Thuat",
+    "full_name": "Xã Thiện Thuật",
+    "full_name_en": "Thien Thuat Commune",
+    "type": "xã",
+    "district_code": "181",
+    "codename": "thien_thuat"
+  },
+  {
+    "code": "06094",
+    "name": "Minh Khai",
+    "name_en": "Minh Khai",
+    "full_name": "Xã Minh Khai",
+    "full_name_en": "Minh Khai Commune",
+    "type": "xã",
+    "district_code": "181",
+    "codename": "minh_khai"
+  },
+  {
+    "code": "06097",
+    "name": "Thiện Long",
+    "name_en": "Thien Long",
+    "full_name": "Xã Thiện Long",
+    "full_name_en": "Thien Long Commune",
+    "type": "xã",
+    "district_code": "181",
+    "codename": "thien_long"
+  },
+  {
+    "code": "06100",
+    "name": "Hoàng Văn Thụ",
+    "name_en": "Hoang Van Thu",
+    "full_name": "Xã Hoàng Văn Thụ",
+    "full_name_en": "Hoang Van Thu Commune",
+    "type": "xã",
+    "district_code": "181",
+    "codename": "hoang_van_thu"
+  },
+  {
+    "code": "06103",
+    "name": "Hòa Bình",
+    "name_en": "Hoa Binh",
+    "full_name": "Xã Hòa Bình",
+    "full_name_en": "Hoa Binh Commune",
+    "type": "xã",
+    "district_code": "181",
+    "codename": "hoa_binh"
+  },
+  {
+    "code": "06106",
+    "name": "Mông Ân",
+    "name_en": "Mong An",
+    "full_name": "Xã Mông Ân",
+    "full_name_en": "Mong An Commune",
+    "type": "xã",
+    "district_code": "181",
+    "codename": "mong_an"
+  },
+  {
+    "code": "06109",
+    "name": "Tân Hòa",
+    "name_en": "Tan Hoa",
+    "full_name": "Xã Tân Hòa",
+    "full_name_en": "Tan Hoa Commune",
+    "type": "xã",
+    "district_code": "181",
+    "codename": "tan_hoa"
+  },
+  {
+    "code": "06112",
+    "name": "Bình Gia",
+    "name_en": "Binh Gia",
+    "full_name": "Thị trấn Bình Gia",
+    "full_name_en": "Binh Gia Township",
+    "type": "thị trấn",
+    "district_code": "181",
+    "codename": "binh_gia"
+  },
+  {
+    "code": "06115",
+    "name": "Hồng Thái",
+    "name_en": "Hong Thai",
+    "full_name": "Xã Hồng Thái",
+    "full_name_en": "Hong Thai Commune",
+    "type": "xã",
+    "district_code": "181",
+    "codename": "hong_thai"
+  },
+  {
+    "code": "06118",
+    "name": "Bình La",
+    "name_en": "Binh La",
+    "full_name": "Xã Bình La",
+    "full_name_en": "Binh La Commune",
+    "type": "xã",
+    "district_code": "181",
+    "codename": "binh_la"
+  },
+  {
+    "code": "06121",
+    "name": "Tân Văn",
+    "name_en": "Tan Van",
+    "full_name": "Xã Tân Văn",
+    "full_name_en": "Tan Van Commune",
+    "type": "xã",
+    "district_code": "181",
+    "codename": "tan_van"
+  }
+]

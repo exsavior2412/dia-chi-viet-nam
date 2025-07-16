@@ -1,0 +1,212 @@
+[
+  {
+    "code": "01447",
+    "name": "Trà Lĩnh",
+    "name_en": "Tra Linh",
+    "full_name": "Thị trấn Trà Lĩnh",
+    "full_name_en": "Tra Linh Township",
+    "type": "thị trấn",
+    "district_code": "047",
+    "codename": "tra_linh"
+  },
+  {
+    "code": "01453",
+    "name": "Tri Phương",
+    "name_en": "Tri Phuong",
+    "full_name": "Xã Tri Phương",
+    "full_name_en": "Tri Phuong Commune",
+    "type": "xã",
+    "district_code": "047",
+    "codename": "tri_phuong"
+  },
+  {
+    "code": "01456",
+    "name": "Quang Hán",
+    "name_en": "Quang Han",
+    "full_name": "Xã Quang Hán",
+    "full_name_en": "Quang Han Commune",
+    "type": "xã",
+    "district_code": "047",
+    "codename": "quang_han"
+  },
+  {
+    "code": "01462",
+    "name": "Xuân Nội",
+    "name_en": "Xuan Noi",
+    "full_name": "Xã Xuân Nội",
+    "full_name_en": "Xuan Noi Commune",
+    "type": "xã",
+    "district_code": "047",
+    "codename": "xuan_noi"
+  },
+  {
+    "code": "01465",
+    "name": "Quang Trung",
+    "name_en": "Quang Trung",
+    "full_name": "Xã Quang Trung",
+    "full_name_en": "Quang Trung Commune",
+    "type": "xã",
+    "district_code": "047",
+    "codename": "quang_trung"
+  },
+  {
+    "code": "01468",
+    "name": "Quang Vinh",
+    "name_en": "Quang Vinh",
+    "full_name": "Xã Quang Vinh",
+    "full_name_en": "Quang Vinh Commune",
+    "type": "xã",
+    "district_code": "047",
+    "codename": "quang_vinh"
+  },
+  {
+    "code": "01471",
+    "name": "Cao Chương",
+    "name_en": "Cao Chuong",
+    "full_name": "Xã Cao Chương",
+    "full_name_en": "Cao Chuong Commune",
+    "type": "xã",
+    "district_code": "047",
+    "codename": "cao_chuong"
+  },
+  {
+    "code": "01477",
+    "name": "Trùng Khánh",
+    "name_en": "Trung Khanh",
+    "full_name": "Thị trấn Trùng Khánh",
+    "full_name_en": "Trung Khanh Township",
+    "type": "thị trấn",
+    "district_code": "047",
+    "codename": "trung_khanh"
+  },
+  {
+    "code": "01480",
+    "name": "Ngọc Khê",
+    "name_en": "Ngoc Khe",
+    "full_name": "Xã Ngọc Khê",
+    "full_name_en": "Ngoc Khe Commune",
+    "type": "xã",
+    "district_code": "047",
+    "codename": "ngoc_khe"
+  },
+  {
+    "code": "01481",
+    "name": "Ngọc Côn",
+    "name_en": "Ngoc Con",
+    "full_name": "Xã Ngọc Côn",
+    "full_name_en": "Ngoc Con Commune",
+    "type": "xã",
+    "district_code": "047",
+    "codename": "ngoc_con"
+  },
+  {
+    "code": "01483",
+    "name": "Phong Nậm",
+    "name_en": "Phong Nam",
+    "full_name": "Xã Phong Nậm",
+    "full_name_en": "Phong Nam Commune",
+    "type": "xã",
+    "district_code": "047",
+    "codename": "phong_nam"
+  },
+  {
+    "code": "01489",
+    "name": "Đình Phong",
+    "name_en": "Dinh Phong",
+    "full_name": "Xã Đình Phong",
+    "full_name_en": "Dinh Phong Commune",
+    "type": "xã",
+    "district_code": "047",
+    "codename": "dinh_phong"
+  },
+  {
+    "code": "01495",
+    "name": "Đàm Thuỷ",
+    "name_en": "Dam Thuy",
+    "full_name": "Xã Đàm Thuỷ",
+    "full_name_en": "Dam Thuy Commune",
+    "type": "xã",
+    "district_code": "047",
+    "codename": "dam_thuy"
+  },
+  {
+    "code": "01498",
+    "name": "Khâm Thành",
+    "name_en": "Kham Thanh",
+    "full_name": "Xã Khâm Thành",
+    "full_name_en": "Kham Thanh Commune",
+    "type": "xã",
+    "district_code": "047",
+    "codename": "kham_thanh"
+  },
+  {
+    "code": "01501",
+    "name": "Chí Viễn",
+    "name_en": "Chi Vien",
+    "full_name": "Xã Chí Viễn",
+    "full_name_en": "Chi Vien Commune",
+    "type": "xã",
+    "district_code": "047",
+    "codename": "chi_vien"
+  },
+  {
+    "code": "01504",
+    "name": "Lăng Hiếu",
+    "name_en": "Lang Hieu",
+    "full_name": "Xã Lăng Hiếu",
+    "full_name_en": "Lang Hieu Commune",
+    "type": "xã",
+    "district_code": "047",
+    "codename": "lang_hieu"
+  },
+  {
+    "code": "01507",
+    "name": "Phong Châu",
+    "name_en": "Phong Chau",
+    "full_name": "Xã Phong Châu",
+    "full_name_en": "Phong Chau Commune",
+    "type": "xã",
+    "district_code": "047",
+    "codename": "phong_chau"
+  },
+  {
+    "code": "01516",
+    "name": "Trung Phúc",
+    "name_en": "Trung Phuc",
+    "full_name": "Xã Trung Phúc",
+    "full_name_en": "Trung Phuc Commune",
+    "type": "xã",
+    "district_code": "047",
+    "codename": "trung_phuc"
+  },
+  {
+    "code": "01519",
+    "name": "Cao Thăng",
+    "name_en": "Cao Thang",
+    "full_name": "Xã Cao Thăng",
+    "full_name_en": "Cao Thang Commune",
+    "type": "xã",
+    "district_code": "047",
+    "codename": "cao_thang"
+  },
+  {
+    "code": "01522",
+    "name": "Đức Hồng",
+    "name_en": "Duc Hong",
+    "full_name": "Xã Đức Hồng",
+    "full_name_en": "Duc Hong Commune",
+    "type": "xã",
+    "district_code": "047",
+    "codename": "duc_hong"
+  },
+  {
+    "code": "01525",
+    "name": "Đoài Dương",
+    "name_en": "Doai Duong",
+    "full_name": "Xã Đoài Dương",
+    "full_name_en": "Doai Duong Commune",
+    "type": "xã",
+    "district_code": "047",
+    "codename": "doai_duong"
+  }
+]

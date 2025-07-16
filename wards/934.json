@@ -1,0 +1,152 @@
+[
+  {
+    "code": "31393",
+    "name": "Kinh Cùng",
+    "name_en": "Kinh Cung",
+    "full_name": "Thị trấn Kinh Cùng",
+    "full_name_en": "Kinh Cung Township",
+    "type": "thị trấn",
+    "district_code": "934",
+    "codename": "kinh_cung"
+  },
+  {
+    "code": "31396",
+    "name": "Cây Dương",
+    "name_en": "Cay Duong",
+    "full_name": "Thị trấn Cây Dương",
+    "full_name_en": "Cay Duong Township",
+    "type": "thị trấn",
+    "district_code": "934",
+    "codename": "cay_duong"
+  },
+  {
+    "code": "31399",
+    "name": "Tân Bình",
+    "name_en": "Tan Binh",
+    "full_name": "Xã Tân Bình",
+    "full_name_en": "Tan Binh Commune",
+    "type": "xã",
+    "district_code": "934",
+    "codename": "tan_binh"
+  },
+  {
+    "code": "31402",
+    "name": "Bình Thành",
+    "name_en": "Binh Thanh",
+    "full_name": "Xã Bình Thành",
+    "full_name_en": "Binh Thanh Commune",
+    "type": "xã",
+    "district_code": "934",
+    "codename": "binh_thanh"
+  },
+  {
+    "code": "31405",
+    "name": "Thạnh Hòa",
+    "name_en": "Thanh Hoa",
+    "full_name": "Xã Thạnh Hòa",
+    "full_name_en": "Thanh Hoa Commune",
+    "type": "xã",
+    "district_code": "934",
+    "codename": "thanh_hoa"
+  },
+  {
+    "code": "31408",
+    "name": "Long Thạnh",
+    "name_en": "Long Thanh",
+    "full_name": "Xã Long Thạnh",
+    "full_name_en": "Long Thanh Commune",
+    "type": "xã",
+    "district_code": "934",
+    "codename": "long_thanh"
+  },
+  {
+    "code": "31417",
+    "name": "Phụng Hiệp",
+    "name_en": "Phung Hiep",
+    "full_name": "Xã Phụng Hiệp",
+    "full_name_en": "Phung Hiep Commune",
+    "type": "xã",
+    "district_code": "934",
+    "codename": "phung_hiep"
+  },
+  {
+    "code": "31420",
+    "name": "Hòa Mỹ",
+    "name_en": "Hoa My",
+    "full_name": "Xã Hòa Mỹ",
+    "full_name_en": "Hoa My Commune",
+    "type": "xã",
+    "district_code": "934",
+    "codename": "hoa_my"
+  },
+  {
+    "code": "31423",
+    "name": "Hòa An",
+    "name_en": "Hoa An",
+    "full_name": "Xã Hòa An",
+    "full_name_en": "Hoa An Commune",
+    "type": "xã",
+    "district_code": "934",
+    "codename": "hoa_an"
+  },
+  {
+    "code": "31426",
+    "name": "Phương Bình",
+    "name_en": "Phuong Binh",
+    "full_name": "Xã Phương Bình",
+    "full_name_en": "Phuong Binh Commune",
+    "type": "xã",
+    "district_code": "934",
+    "codename": "phuong_binh"
+  },
+  {
+    "code": "31429",
+    "name": "Hiệp Hưng",
+    "name_en": "Hiep Hung",
+    "full_name": "Xã Hiệp Hưng",
+    "full_name_en": "Hiep Hung Commune",
+    "type": "xã",
+    "district_code": "934",
+    "codename": "hiep_hung"
+  },
+  {
+    "code": "31432",
+    "name": "Tân Phước Hưng",
+    "name_en": "Tan Phuoc Hung",
+    "full_name": "Xã Tân Phước Hưng",
+    "full_name_en": "Tan Phuoc Hung Commune",
+    "type": "xã",
+    "district_code": "934",
+    "codename": "tan_phuoc_hung"
+  },
+  {
+    "code": "31433",
+    "name": "Búng Tàu",
+    "name_en": "Bung Tau",
+    "full_name": "Thị trấn Búng Tàu",
+    "full_name_en": "Bung Tau Township",
+    "type": "thị trấn",
+    "district_code": "934",
+    "codename": "bung_tau"
+  },
+  {
+    "code": "31435",
+    "name": "Phương Phú",
+    "name_en": "Phuong Phu",
+    "full_name": "Xã Phương Phú",
+    "full_name_en": "Phuong Phu Commune",
+    "type": "xã",
+    "district_code": "934",
+    "codename": "phuong_phu"
+  },
+  {
+    "code": "31438",
+    "name": "Tân Long",
+    "name_en": "Tan Long",
+    "full_name": "Xã Tân Long",
+    "full_name_en": "Tan Long Commune",
+    "type": "xã",
+    "district_code": "934",
+    "codename": "tan_long"
+  }
+]

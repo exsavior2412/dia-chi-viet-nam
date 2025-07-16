@@ -1,0 +1,192 @@
+[
+  {
+    "code": "04168",
+    "name": "Sông Mã",
+    "name_en": "Song Ma",
+    "full_name": "Thị trấn Sông Mã",
+    "full_name_en": "Song Ma Township",
+    "type": "thị trấn",
+    "district_code": "126",
+    "codename": "song_ma"
+  },
+  {
+    "code": "04171",
+    "name": "Bó Sinh",
+    "name_en": "Bo Sinh",
+    "full_name": "Xã Bó Sinh",
+    "full_name_en": "Bo Sinh Commune",
+    "type": "xã",
+    "district_code": "126",
+    "codename": "bo_sinh"
+  },
+  {
+    "code": "04174",
+    "name": "Pú Pẩu",
+    "name_en": "Pu Pau",
+    "full_name": "Xã Pú Pẩu",
+    "full_name_en": "Pu Pau Commune",
+    "type": "xã",
+    "district_code": "126",
+    "codename": "pu_pau"
+  },
+  {
+    "code": "04177",
+    "name": "Chiềng Phung",
+    "name_en": "Chieng Phung",
+    "full_name": "Xã Chiềng Phung",
+    "full_name_en": "Chieng Phung Commune",
+    "type": "xã",
+    "district_code": "126",
+    "codename": "chieng_phung"
+  },
+  {
+    "code": "04180",
+    "name": "Chiềng En",
+    "name_en": "Chieng En",
+    "full_name": "Xã Chiềng En",
+    "full_name_en": "Chieng En Commune",
+    "type": "xã",
+    "district_code": "126",
+    "codename": "chieng_en"
+  },
+  {
+    "code": "04183",
+    "name": "Mường Lầm",
+    "name_en": "Muong Lam",
+    "full_name": "Xã Mường Lầm",
+    "full_name_en": "Muong Lam Commune",
+    "type": "xã",
+    "district_code": "126",
+    "codename": "muong_lam"
+  },
+  {
+    "code": "04186",
+    "name": "Nậm Ty",
+    "name_en": "Nam Ty",
+    "full_name": "Xã Nậm Ty",
+    "full_name_en": "Nam Ty Commune",
+    "type": "xã",
+    "district_code": "126",
+    "codename": "nam_ty"
+  },
+  {
+    "code": "04189",
+    "name": "Đứa Mòn",
+    "name_en": "Dua Mon",
+    "full_name": "Xã Đứa Mòn",
+    "full_name_en": "Dua Mon Commune",
+    "type": "xã",
+    "district_code": "126",
+    "codename": "dua_mon"
+  },
+  {
+    "code": "04192",
+    "name": "Yên Hưng",
+    "name_en": "Yen Hung",
+    "full_name": "Xã Yên Hưng",
+    "full_name_en": "Yen Hung Commune",
+    "type": "xã",
+    "district_code": "126",
+    "codename": "yen_hung"
+  },
+  {
+    "code": "04195",
+    "name": "Chiềng Sơ",
+    "name_en": "Chieng So",
+    "full_name": "Xã Chiềng Sơ",
+    "full_name_en": "Chieng So Commune",
+    "type": "xã",
+    "district_code": "126",
+    "codename": "chieng_so"
+  },
+  {
+    "code": "04198",
+    "name": "Nà Nghịu",
+    "name_en": "Na Nghiu",
+    "full_name": "Xã Nà Nghịu",
+    "full_name_en": "Na Nghiu Commune",
+    "type": "xã",
+    "district_code": "126",
+    "codename": "na_nghiu"
+  },
+  {
+    "code": "04201",
+    "name": "Nậm Mằn",
+    "name_en": "Nam Man",
+    "full_name": "Xã Nậm Mằn",
+    "full_name_en": "Nam Man Commune",
+    "type": "xã",
+    "district_code": "126",
+    "codename": "nam_man"
+  },
+  {
+    "code": "04204",
+    "name": "Chiềng Khoong",
+    "name_en": "Chieng Khoong",
+    "full_name": "Xã Chiềng Khoong",
+    "full_name_en": "Chieng Khoong Commune",
+    "type": "xã",
+    "district_code": "126",
+    "codename": "chieng_khoong"
+  },
+  {
+    "code": "04207",
+    "name": "Chiềng Cang",
+    "name_en": "Chieng Cang",
+    "full_name": "Xã Chiềng Cang",
+    "full_name_en": "Chieng Cang Commune",
+    "type": "xã",
+    "district_code": "126",
+    "codename": "chieng_cang"
+  },
+  {
+    "code": "04210",
+    "name": "Huổi Một",
+    "name_en": "Huoi Mot",
+    "full_name": "Xã Huổi Một",
+    "full_name_en": "Huoi Mot Commune",
+    "type": "xã",
+    "district_code": "126",
+    "codename": "huoi_mot"
+  },
+  {
+    "code": "04213",
+    "name": "Mường Sai",
+    "name_en": "Muong Sai",
+    "full_name": "Xã Mường Sai",
+    "full_name_en": "Muong Sai Commune",
+    "type": "xã",
+    "district_code": "126",
+    "codename": "muong_sai"
+  },
+  {
+    "code": "04216",
+    "name": "Mường Cai",
+    "name_en": "Muong Cai",
+    "full_name": "Xã Mường Cai",
+    "full_name_en": "Muong Cai Commune",
+    "type": "xã",
+    "district_code": "126",
+    "codename": "muong_cai"
+  },
+  {
+    "code": "04219",
+    "name": "Mường Hung",
+    "name_en": "Muong Hung",
+    "full_name": "Xã Mường Hung",
+    "full_name_en": "Muong Hung Commune",
+    "type": "xã",
+    "district_code": "126",
+    "codename": "muong_hung"
+  },
+  {
+    "code": "04222",
+    "name": "Chiềng Khương",
+    "name_en": "Chieng Khuong",
+    "full_name": "Xã Chiềng Khương",
+    "full_name_en": "Chieng Khuong Commune",
+    "type": "xã",
+    "district_code": "126",
+    "codename": "chieng_khuong"
+  }
+]

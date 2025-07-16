@@ -1,0 +1,82 @@
+[
+  {
+    "code": "11329",
+    "name": "Máy Chai",
+    "name_en": "May Chai",
+    "full_name": "Phường Máy Chai",
+    "full_name_en": "May Chai Ward",
+    "type": "phường",
+    "district_code": "304",
+    "codename": "may_chai"
+  },
+  {
+    "code": "11335",
+    "name": "Vạn Mỹ",
+    "name_en": "Van My",
+    "full_name": "Phường Vạn Mỹ",
+    "full_name_en": "Van My Ward",
+    "type": "phường",
+    "district_code": "304",
+    "codename": "van_my"
+  },
+  {
+    "code": "11338",
+    "name": "Cầu Tre",
+    "name_en": "Cau Tre",
+    "full_name": "Phường Cầu Tre",
+    "full_name_en": "Cau Tre Ward",
+    "type": "phường",
+    "district_code": "304",
+    "codename": "cau_tre"
+  },
+  {
+    "code": "11341",
+    "name": "Gia Viên",
+    "name_en": "Gia Vien",
+    "full_name": "Phường Gia Viên",
+    "full_name_en": "Gia Vien Ward",
+    "type": "phường",
+    "district_code": "304",
+    "codename": "gia_vien"
+  },
+  {
+    "code": "11344",
+    "name": "Cầu Đất",
+    "name_en": "Cau Dat",
+    "full_name": "Phường Cầu Đất",
+    "full_name_en": "Cau Dat Ward",
+    "type": "phường",
+    "district_code": "304",
+    "codename": "cau_dat"
+  },
+  {
+    "code": "11350",
+    "name": "Đông Khê",
+    "name_en": "Dong Khe",
+    "full_name": "Phường Đông Khê",
+    "full_name_en": "Dong Khe Ward",
+    "type": "phường",
+    "district_code": "304",
+    "codename": "dong_khe"
+  },
+  {
+    "code": "11359",
+    "name": "Đằng Giang",
+    "name_en": "Dang Giang",
+    "full_name": "Phường Đằng Giang",
+    "full_name_en": "Dang Giang Ward",
+    "type": "phường",
+    "district_code": "304",
+    "codename": "dang_giang"
+  },
+  {
+    "code": "11365",
+    "name": "Lạch Tray",
+    "name_en": "Lach Tray",
+    "full_name": "Phường Lạch Tray",
+    "full_name_en": "Lach Tray Ward",
+    "type": "phường",
+    "district_code": "304",
+    "codename": "lach_tray"
+  }
+]

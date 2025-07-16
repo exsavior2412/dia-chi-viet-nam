@@ -1,0 +1,152 @@
+[
+  {
+    "code": "01222",
+    "name": "Xuân Minh",
+    "name_en": "Xuan Minh",
+    "full_name": "Xã Xuân Minh",
+    "full_name_en": "Xuan Minh Commune",
+    "type": "xã",
+    "district_code": "035",
+    "codename": "xuan_minh"
+  },
+  {
+    "code": "01225",
+    "name": "Tiên Nguyên",
+    "name_en": "Tien Nguyen",
+    "full_name": "Xã Tiên Nguyên",
+    "full_name_en": "Tien Nguyen Commune",
+    "type": "xã",
+    "district_code": "035",
+    "codename": "tien_nguyen"
+  },
+  {
+    "code": "01228",
+    "name": "Tân Nam",
+    "name_en": "Tan Nam",
+    "full_name": "Xã Tân Nam",
+    "full_name_en": "Tan Nam Commune",
+    "type": "xã",
+    "district_code": "035",
+    "codename": "tan_nam"
+  },
+  {
+    "code": "01231",
+    "name": "Bản Rịa",
+    "name_en": "Ban Ria",
+    "full_name": "Xã Bản Rịa",
+    "full_name_en": "Ban Ria Commune",
+    "type": "xã",
+    "district_code": "035",
+    "codename": "ban_ria"
+  },
+  {
+    "code": "01234",
+    "name": "Yên Thành",
+    "name_en": "Yen Thanh",
+    "full_name": "Xã Yên Thành",
+    "full_name_en": "Yen Thanh Commune",
+    "type": "xã",
+    "district_code": "035",
+    "codename": "yen_thanh"
+  },
+  {
+    "code": "01237",
+    "name": "Yên Bình",
+    "name_en": "Yen Binh",
+    "full_name": "Thị trấn Yên Bình",
+    "full_name_en": "Yen Binh Township",
+    "type": "thị trấn",
+    "district_code": "035",
+    "codename": "yen_binh"
+  },
+  {
+    "code": "01240",
+    "name": "Tân Trịnh",
+    "name_en": "Tan Trinh",
+    "full_name": "Xã Tân Trịnh",
+    "full_name_en": "Tan Trinh Commune",
+    "type": "xã",
+    "district_code": "035",
+    "codename": "tan_trinh"
+  },
+  {
+    "code": "01243",
+    "name": "Tân Bắc",
+    "name_en": "Tan Bac",
+    "full_name": "Xã Tân Bắc",
+    "full_name_en": "Tan Bac Commune",
+    "type": "xã",
+    "district_code": "035",
+    "codename": "tan_bac"
+  },
+  {
+    "code": "01246",
+    "name": "Bằng Lang",
+    "name_en": "Bang Lang",
+    "full_name": "Xã Bằng Lang",
+    "full_name_en": "Bang Lang Commune",
+    "type": "xã",
+    "district_code": "035",
+    "codename": "bang_lang"
+  },
+  {
+    "code": "01249",
+    "name": "Yên Hà",
+    "name_en": "Yen Ha",
+    "full_name": "Xã Yên Hà",
+    "full_name_en": "Yen Ha Commune",
+    "type": "xã",
+    "district_code": "035",
+    "codename": "yen_ha"
+  },
+  {
+    "code": "01252",
+    "name": "Hương Sơn",
+    "name_en": "Huong Son",
+    "full_name": "Xã Hương Sơn",
+    "full_name_en": "Huong Son Commune",
+    "type": "xã",
+    "district_code": "035",
+    "codename": "huong_son"
+  },
+  {
+    "code": "01255",
+    "name": "Xuân Giang",
+    "name_en": "Xuan Giang",
+    "full_name": "Xã Xuân Giang",
+    "full_name_en": "Xuan Giang Commune",
+    "type": "xã",
+    "district_code": "035",
+    "codename": "xuan_giang"
+  },
+  {
+    "code": "01258",
+    "name": "Nà Khương",
+    "name_en": "Na Khuong",
+    "full_name": "Xã Nà Khương",
+    "full_name_en": "Na Khuong Commune",
+    "type": "xã",
+    "district_code": "035",
+    "codename": "na_khuong"
+  },
+  {
+    "code": "01261",
+    "name": "Tiên Yên",
+    "name_en": "Tien Yen",
+    "full_name": "Xã Tiên Yên",
+    "full_name_en": "Tien Yen Commune",
+    "type": "xã",
+    "district_code": "035",
+    "codename": "tien_yen"
+  },
+  {
+    "code": "01264",
+    "name": "Vĩ Thượng",
+    "name_en": "Vi Thuong",
+    "full_name": "Xã Vĩ Thượng",
+    "full_name_en": "Vi Thuong Commune",
+    "type": "xã",
+    "district_code": "035",
+    "codename": "vi_thuong"
+  }
+]

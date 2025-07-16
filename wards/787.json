@@ -1,0 +1,72 @@
+[
+  {
+    "code": "27664",
+    "name": "Cần Thạnh",
+    "name_en": "Can Thanh",
+    "full_name": "Thị trấn Cần Thạnh",
+    "full_name_en": "Can Thanh Township",
+    "type": "thị trấn",
+    "district_code": "787",
+    "codename": "can_thanh"
+  },
+  {
+    "code": "27667",
+    "name": "Bình Khánh",
+    "name_en": "Binh Khanh",
+    "full_name": "Xã Bình Khánh",
+    "full_name_en": "Binh Khanh Commune",
+    "type": "xã",
+    "district_code": "787",
+    "codename": "binh_khanh"
+  },
+  {
+    "code": "27670",
+    "name": "Tam Thôn Hiệp",
+    "name_en": "Tam Thon Hiep",
+    "full_name": "Xã Tam Thôn Hiệp",
+    "full_name_en": "Tam Thon Hiep Commune",
+    "type": "xã",
+    "district_code": "787",
+    "codename": "tam_thon_hiep"
+  },
+  {
+    "code": "27673",
+    "name": "An Thới Đông",
+    "name_en": "An Thoi Dong",
+    "full_name": "Xã An Thới Đông",
+    "full_name_en": "An Thoi Dong Commune",
+    "type": "xã",
+    "district_code": "787",
+    "codename": "an_thoi_dong"
+  },
+  {
+    "code": "27676",
+    "name": "Thạnh An",
+    "name_en": "Thanh An",
+    "full_name": "Xã Thạnh An",
+    "full_name_en": "Thanh An Commune",
+    "type": "xã",
+    "district_code": "787",
+    "codename": "thanh_an"
+  },
+  {
+    "code": "27679",
+    "name": "Long Hòa",
+    "name_en": "Long Hoa",
+    "full_name": "Xã Long Hòa",
+    "full_name_en": "Long Hoa Commune",
+    "type": "xã",
+    "district_code": "787",
+    "codename": "long_hoa"
+  },
+  {
+    "code": "27682",
+    "name": "Lý Nhơn",
+    "name_en": "Ly Nhon",
+    "full_name": "Xã Lý Nhơn",
+    "full_name_en": "Ly Nhon Commune",
+    "type": "xã",
+    "district_code": "787",
+    "codename": "ly_nhon"
+  }
+]

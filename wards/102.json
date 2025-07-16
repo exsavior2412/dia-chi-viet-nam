@@ -1,0 +1,102 @@
+[
+  {
+    "code": "03256",
+    "name": "Mường Ảng",
+    "name_en": "Muong Ang",
+    "full_name": "Thị trấn Mường Ảng",
+    "full_name_en": "Muong Ang Township",
+    "type": "thị trấn",
+    "district_code": "102",
+    "codename": "muong_ang"
+  },
+  {
+    "code": "03286",
+    "name": "Mường Đăng",
+    "name_en": "Muong Dang",
+    "full_name": "Xã Mường Đăng",
+    "full_name_en": "Muong Dang Commune",
+    "type": "xã",
+    "district_code": "102",
+    "codename": "muong_dang"
+  },
+  {
+    "code": "03287",
+    "name": "Ngối Cáy",
+    "name_en": "Ngoi Cay",
+    "full_name": "Xã Ngối Cáy",
+    "full_name_en": "Ngoi Cay Commune",
+    "type": "xã",
+    "district_code": "102",
+    "codename": "ngoi_cay"
+  },
+  {
+    "code": "03292",
+    "name": "Ẳng Tở",
+    "name_en": "Ang To",
+    "full_name": "Xã Ẳng Tở",
+    "full_name_en": "Ang To Commune",
+    "type": "xã",
+    "district_code": "102",
+    "codename": "ang_to"
+  },
+  {
+    "code": "03301",
+    "name": "Búng Lao",
+    "name_en": "Bung Lao",
+    "full_name": "Xã Búng Lao",
+    "full_name_en": "Bung Lao Commune",
+    "type": "xã",
+    "district_code": "102",
+    "codename": "bung_lao"
+  },
+  {
+    "code": "03302",
+    "name": "Xuân Lao",
+    "name_en": "Xuan Lao",
+    "full_name": "Xã Xuân Lao",
+    "full_name_en": "Xuan Lao Commune",
+    "type": "xã",
+    "district_code": "102",
+    "codename": "xuan_lao"
+  },
+  {
+    "code": "03307",
+    "name": "Ẳng Nưa",
+    "name_en": "Ang Nua",
+    "full_name": "Xã Ẳng Nưa",
+    "full_name_en": "Ang Nua Commune",
+    "type": "xã",
+    "district_code": "102",
+    "codename": "ang_nua"
+  },
+  {
+    "code": "03310",
+    "name": "Ẳng Cang",
+    "name_en": "Ang Cang",
+    "full_name": "Xã Ẳng Cang",
+    "full_name_en": "Ang Cang Commune",
+    "type": "xã",
+    "district_code": "102",
+    "codename": "ang_cang"
+  },
+  {
+    "code": "03312",
+    "name": "Nặm Lịch",
+    "name_en": "Nam Lich",
+    "full_name": "Xã Nặm Lịch",
+    "full_name_en": "Nam Lich Commune",
+    "type": "xã",
+    "district_code": "102",
+    "codename": "nam_lich"
+  },
+  {
+    "code": "03313",
+    "name": "Mường Lạn",
+    "name_en": "Muong Lan",
+    "full_name": "Xã Mường Lạn",
+    "full_name_en": "Muong Lan Commune",
+    "type": "xã",
+    "district_code": "102",
+    "codename": "muong_lan"
+  }
+]

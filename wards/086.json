@@ -1,0 +1,142 @@
+[
+  {
+    "code": "02902",
+    "name": "N.T Phong Hải",
+    "name_en": "N.T Phong Hai",
+    "full_name": "Thị trấn N.T Phong Hải",
+    "full_name_en": "N.T Phong Hai Township",
+    "type": "thị trấn",
+    "district_code": "086",
+    "codename": "n.t_phong_hai"
+  },
+  {
+    "code": "02905",
+    "name": "Phố Lu",
+    "name_en": "Pho Lu",
+    "full_name": "Thị trấn Phố Lu",
+    "full_name_en": "Pho Lu Township",
+    "type": "thị trấn",
+    "district_code": "086",
+    "codename": "pho_lu"
+  },
+  {
+    "code": "02908",
+    "name": "Tằng Loỏng",
+    "name_en": "Tang Loong",
+    "full_name": "Thị trấn Tằng Loỏng",
+    "full_name_en": "Tang Loong Township",
+    "type": "thị trấn",
+    "district_code": "086",
+    "codename": "tang_loong"
+  },
+  {
+    "code": "02911",
+    "name": "Bản Phiệt",
+    "name_en": "Ban Phiet",
+    "full_name": "Xã Bản Phiệt",
+    "full_name_en": "Ban Phiet Commune",
+    "type": "xã",
+    "district_code": "086",
+    "codename": "ban_phiet"
+  },
+  {
+    "code": "02914",
+    "name": "Bản Cầm",
+    "name_en": "Ban Cam",
+    "full_name": "Xã Bản Cầm",
+    "full_name_en": "Ban Cam Commune",
+    "type": "xã",
+    "district_code": "086",
+    "codename": "ban_cam"
+  },
+  {
+    "code": "02917",
+    "name": "Thái Niên",
+    "name_en": "Thai Nien",
+    "full_name": "Xã Thái Niên",
+    "full_name_en": "Thai Nien Commune",
+    "type": "xã",
+    "district_code": "086",
+    "codename": "thai_nien"
+  },
+  {
+    "code": "02920",
+    "name": "Phong Niên",
+    "name_en": "Phong Nien",
+    "full_name": "Xã Phong Niên",
+    "full_name_en": "Phong Nien Commune",
+    "type": "xã",
+    "district_code": "086",
+    "codename": "phong_nien"
+  },
+  {
+    "code": "02923",
+    "name": "Gia Phú",
+    "name_en": "Gia Phu",
+    "full_name": "Xã Gia Phú",
+    "full_name_en": "Gia Phu Commune",
+    "type": "xã",
+    "district_code": "086",
+    "codename": "gia_phu"
+  },
+  {
+    "code": "02926",
+    "name": "Xuân Quang",
+    "name_en": "Xuan Quang",
+    "full_name": "Xã Xuân Quang",
+    "full_name_en": "Xuan Quang Commune",
+    "type": "xã",
+    "district_code": "086",
+    "codename": "xuan_quang"
+  },
+  {
+    "code": "02929",
+    "name": "Sơn Hải",
+    "name_en": "Son Hai",
+    "full_name": "Xã Sơn Hải",
+    "full_name_en": "Son Hai Commune",
+    "type": "xã",
+    "district_code": "086",
+    "codename": "son_hai"
+  },
+  {
+    "code": "02932",
+    "name": "Xuân Giao",
+    "name_en": "Xuan Giao",
+    "full_name": "Xã Xuân Giao",
+    "full_name_en": "Xuan Giao Commune",
+    "type": "xã",
+    "district_code": "086",
+    "codename": "xuan_giao"
+  },
+  {
+    "code": "02935",
+    "name": "Trì Quang",
+    "name_en": "Tri Quang",
+    "full_name": "Xã Trì Quang",
+    "full_name_en": "Tri Quang Commune",
+    "type": "xã",
+    "district_code": "086",
+    "codename": "tri_quang"
+  },
+  {
+    "code": "02938",
+    "name": "Sơn Hà",
+    "name_en": "Son Ha",
+    "full_name": "Xã Sơn Hà",
+    "full_name_en": "Son Ha Commune",
+    "type": "xã",
+    "district_code": "086",
+    "codename": "son_ha"
+  },
+  {
+    "code": "02944",
+    "name": "Phú Nhuận",
+    "name_en": "Phu Nhuan",
+    "full_name": "Xã Phú Nhuận",
+    "full_name_en": "Phu Nhuan Commune",
+    "type": "xã",
+    "district_code": "086",
+    "codename": "phu_nhuan"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "code": "24076",
+    "name": "Phú Túc",
+    "name_en": "Phu Tuc",
+    "full_name": "Thị trấn Phú Túc",
+    "full_name_en": "Phu Tuc Township",
+    "type": "thị trấn",
+    "district_code": "637",
+    "codename": "phu_tuc"
+  },
+  {
+    "code": "24079",
+    "name": "Ia RSai",
+    "name_en": "Ia RSai",
+    "full_name": "Xã Ia RSai",
+    "full_name_en": "Ia RSai Commune",
+    "type": "xã",
+    "district_code": "637",
+    "codename": "ia_rsai"
+  },
+  {
+    "code": "24082",
+    "name": "Ia RSươm",
+    "name_en": "Ia RSuom",
+    "full_name": "Xã Ia RSươm",
+    "full_name_en": "Ia RSuom Commune",
+    "type": "xã",
+    "district_code": "637",
+    "codename": "ia_rsuom"
+  },
+  {
+    "code": "24085",
+    "name": "Chư Gu",
+    "name_en": "Chu Gu",
+    "full_name": "Xã Chư Gu",
+    "full_name_en": "Chu Gu Commune",
+    "type": "xã",
+    "district_code": "637",
+    "codename": "chu_gu"
+  },
+  {
+    "code": "24088",
+    "name": "Đất Bằng",
+    "name_en": "Dat Bang",
+    "full_name": "Xã Đất Bằng",
+    "full_name_en": "Dat Bang Commune",
+    "type": "xã",
+    "district_code": "637",
+    "codename": "dat_bang"
+  },
+  {
+    "code": "24091",
+    "name": "Ia Mláh",
+    "name_en": "Ia Mlah",
+    "full_name": "Xã Ia Mláh",
+    "full_name_en": "Ia Mlah Commune",
+    "type": "xã",
+    "district_code": "637",
+    "codename": "ia_mlah"
+  },
+  {
+    "code": "24094",
+    "name": "Chư Drăng",
+    "name_en": "Chu Drang",
+    "full_name": "Xã Chư Drăng",
+    "full_name_en": "Chu Drang Commune",
+    "type": "xã",
+    "district_code": "637",
+    "codename": "chu_drang"
+  },
+  {
+    "code": "24097",
+    "name": "Phú Cần",
+    "name_en": "Phu Can",
+    "full_name": "Xã Phú Cần",
+    "full_name_en": "Phu Can Commune",
+    "type": "xã",
+    "district_code": "637",
+    "codename": "phu_can"
+  },
+  {
+    "code": "24100",
+    "name": "Ia HDreh",
+    "name_en": "Ia HDreh",
+    "full_name": "Xã Ia HDreh",
+    "full_name_en": "Ia HDreh Commune",
+    "type": "xã",
+    "district_code": "637",
+    "codename": "ia_hdreh"
+  },
+  {
+    "code": "24103",
+    "name": "Ia RMok",
+    "name_en": "Ia RMok",
+    "full_name": "Xã Ia RMok",
+    "full_name_en": "Ia RMok Commune",
+    "type": "xã",
+    "district_code": "637",
+    "codename": "ia_rmok"
+  },
+  {
+    "code": "24106",
+    "name": "Chư Ngọc",
+    "name_en": "Chu Ngoc",
+    "full_name": "Xã Chư Ngọc",
+    "full_name_en": "Chu Ngoc Commune",
+    "type": "xã",
+    "district_code": "637",
+    "codename": "chu_ngoc"
+  },
+  {
+    "code": "24109",
+    "name": "Uar",
+    "name_en": "Uar",
+    "full_name": "Xã Uar",
+    "full_name_en": "Uar Commune",
+    "type": "xã",
+    "district_code": "637",
+    "codename": "uar"
+  },
+  {
+    "code": "24112",
+    "name": "Chư Rcăm",
+    "name_en": "Chu Rcam",
+    "full_name": "Xã Chư Rcăm",
+    "full_name_en": "Chu Rcam Commune",
+    "type": "xã",
+    "district_code": "637",
+    "codename": "chu_rcam"
+  },
+  {
+    "code": "24115",
+    "name": "Krông Năng",
+    "name_en": "Krong Nang",
+    "full_name": "Xã Krông Năng",
+    "full_name_en": "Krong Nang Commune",
+    "type": "xã",
+    "district_code": "637",
+    "codename": "krong_nang"
+  }
+]

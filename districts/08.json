@@ -1,0 +1,72 @@
+[
+  {
+    "code": "070",
+    "name": "Tuyên Quang",
+    "name_en": "Tuyen Quang",
+    "full_name": "Thành phố Tuyên Quang",
+    "full_name_en": "Tuyen Quang City",
+    "type": "thành phố",
+    "province_code": "08",
+    "codename": "tuyen_quang"
+  },
+  {
+    "code": "071",
+    "name": "Lâm Bình",
+    "name_en": "Lam Binh",
+    "full_name": "Huyện Lâm Bình",
+    "full_name_en": "Lam Binh District",
+    "type": "huyện",
+    "province_code": "08",
+    "codename": "lam_binh"
+  },
+  {
+    "code": "072",
+    "name": "Na Hang",
+    "name_en": "Na Hang",
+    "full_name": "Huyện Na Hang",
+    "full_name_en": "Na Hang District",
+    "type": "huyện",
+    "province_code": "08",
+    "codename": "na_hang"
+  },
+  {
+    "code": "073",
+    "name": "Chiêm Hóa",
+    "name_en": "Chiem Hoa",
+    "full_name": "Huyện Chiêm Hóa",
+    "full_name_en": "Chiem Hoa District",
+    "type": "huyện",
+    "province_code": "08",
+    "codename": "chiem_hoa"
+  },
+  {
+    "code": "074",
+    "name": "Hàm Yên",
+    "name_en": "Ham Yen",
+    "full_name": "Huyện Hàm Yên",
+    "full_name_en": "Ham Yen District",
+    "type": "huyện",
+    "province_code": "08",
+    "codename": "ham_yen"
+  },
+  {
+    "code": "075",
+    "name": "Yên Sơn",
+    "name_en": "Yen Son",
+    "full_name": "Huyện Yên Sơn",
+    "full_name_en": "Yen Son District",
+    "type": "huyện",
+    "province_code": "08",
+    "codename": "yen_son"
+  },
+  {
+    "code": "076",
+    "name": "Sơn Dương",
+    "name_en": "Son Duong",
+    "full_name": "Huyện Sơn Dương",
+    "full_name_en": "Son Duong District",
+    "type": "huyện",
+    "province_code": "08",
+    "codename": "son_duong"
+  }
+]

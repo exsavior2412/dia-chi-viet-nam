@@ -1,0 +1,272 @@
+[
+  {
+    "code": "20107",
+    "name": "Phú Lộc",
+    "name_en": "Phu Loc",
+    "full_name": "Thị trấn Phú Lộc",
+    "full_name_en": "Phu Loc Township",
+    "type": "thị trấn",
+    "district_code": "482",
+    "codename": "phu_loc"
+  },
+  {
+    "code": "20110",
+    "name": "Lăng Cô",
+    "name_en": "Lang Co",
+    "full_name": "Thị trấn Lăng Cô",
+    "full_name_en": "Lang Co Township",
+    "type": "thị trấn",
+    "district_code": "482",
+    "codename": "lang_co"
+  },
+  {
+    "code": "20113",
+    "name": "Vinh Mỹ",
+    "name_en": "Vinh My",
+    "full_name": "Xã Vinh Mỹ",
+    "full_name_en": "Vinh My Commune",
+    "type": "xã",
+    "district_code": "482",
+    "codename": "vinh_my"
+  },
+  {
+    "code": "20116",
+    "name": "Vinh Hưng",
+    "name_en": "Vinh Hung",
+    "full_name": "Xã Vinh Hưng",
+    "full_name_en": "Vinh Hung Commune",
+    "type": "xã",
+    "district_code": "482",
+    "codename": "vinh_hung"
+  },
+  {
+    "code": "20122",
+    "name": "Giang Hải",
+    "name_en": "Giang Hai",
+    "full_name": "Xã Giang Hải",
+    "full_name_en": "Giang Hai Commune",
+    "type": "xã",
+    "district_code": "482",
+    "codename": "giang_hai"
+  },
+  {
+    "code": "20125",
+    "name": "Vinh Hiền",
+    "name_en": "Vinh Hien",
+    "full_name": "Xã Vinh Hiền",
+    "full_name_en": "Vinh Hien Commune",
+    "type": "xã",
+    "district_code": "482",
+    "codename": "vinh_hien"
+  },
+  {
+    "code": "20128",
+    "name": "Lộc Bổn",
+    "name_en": "Loc Bon",
+    "full_name": "Xã Lộc Bổn",
+    "full_name_en": "Loc Bon Commune",
+    "type": "xã",
+    "district_code": "482",
+    "codename": "loc_bon"
+  },
+  {
+    "code": "20131",
+    "name": "Lộc Sơn",
+    "name_en": "Loc Son",
+    "full_name": "Thị trấn Lộc Sơn",
+    "full_name_en": "Loc Son Township",
+    "type": "thị trấn",
+    "district_code": "482",
+    "codename": "loc_son"
+  },
+  {
+    "code": "20134",
+    "name": "Lộc Bình",
+    "name_en": "Loc Binh",
+    "full_name": "Xã Lộc Bình",
+    "full_name_en": "Loc Binh Commune",
+    "type": "xã",
+    "district_code": "482",
+    "codename": "loc_binh"
+  },
+  {
+    "code": "20137",
+    "name": "Lộc Vĩnh",
+    "name_en": "Loc Vinh",
+    "full_name": "Xã Lộc Vĩnh",
+    "full_name_en": "Loc Vinh Commune",
+    "type": "xã",
+    "district_code": "482",
+    "codename": "loc_vinh"
+  },
+  {
+    "code": "20140",
+    "name": "Lộc An",
+    "name_en": "Loc An",
+    "full_name": "Xã Lộc An",
+    "full_name_en": "Loc An Commune",
+    "type": "xã",
+    "district_code": "482",
+    "codename": "loc_an"
+  },
+  {
+    "code": "20143",
+    "name": "Lộc Điền",
+    "name_en": "Loc Dien",
+    "full_name": "Xã Lộc Điền",
+    "full_name_en": "Loc Dien Commune",
+    "type": "xã",
+    "district_code": "482",
+    "codename": "loc_dien"
+  },
+  {
+    "code": "20146",
+    "name": "Lộc Thủy",
+    "name_en": "Loc Thuy",
+    "full_name": "Xã Lộc Thủy",
+    "full_name_en": "Loc Thuy Commune",
+    "type": "xã",
+    "district_code": "482",
+    "codename": "loc_thuy"
+  },
+  {
+    "code": "20149",
+    "name": "Lộc Trì",
+    "name_en": "Loc Tri",
+    "full_name": "Xã Lộc Trì",
+    "full_name_en": "Loc Tri Commune",
+    "type": "xã",
+    "district_code": "482",
+    "codename": "loc_tri"
+  },
+  {
+    "code": "20152",
+    "name": "Lộc Tiến",
+    "name_en": "Loc Tien",
+    "full_name": "Xã Lộc Tiến",
+    "full_name_en": "Loc Tien Commune",
+    "type": "xã",
+    "district_code": "482",
+    "codename": "loc_tien"
+  },
+  {
+    "code": "20155",
+    "name": "Lộc Hòa",
+    "name_en": "Loc Hoa",
+    "full_name": "Xã Lộc Hòa",
+    "full_name_en": "Loc Hoa Commune",
+    "type": "xã",
+    "district_code": "482",
+    "codename": "loc_hoa"
+  },
+  {
+    "code": "20158",
+    "name": "Xuân Lộc",
+    "name_en": "Xuan Loc",
+    "full_name": "Xã Xuân Lộc",
+    "full_name_en": "Xuan Loc Commune",
+    "type": "xã",
+    "district_code": "482",
+    "codename": "xuan_loc"
+  },
+  {
+    "code": "20161",
+    "name": "Khe Tre",
+    "name_en": "Khe Tre",
+    "full_name": "Thị trấn Khe Tre",
+    "full_name_en": "Khe Tre Township",
+    "type": "thị trấn",
+    "district_code": "482",
+    "codename": "khe_tre"
+  },
+  {
+    "code": "20164",
+    "name": "Hương Phú",
+    "name_en": "Huong Phu",
+    "full_name": "Xã Hương Phú",
+    "full_name_en": "Huong Phu Commune",
+    "type": "xã",
+    "district_code": "482",
+    "codename": "huong_phu"
+  },
+  {
+    "code": "20167",
+    "name": "Hương Sơn",
+    "name_en": "Huong Son",
+    "full_name": "Xã Hương Sơn",
+    "full_name_en": "Huong Son Commune",
+    "type": "xã",
+    "district_code": "482",
+    "codename": "huong_son"
+  },
+  {
+    "code": "20170",
+    "name": "Hương Lộc",
+    "name_en": "Huong Loc",
+    "full_name": "Xã Hương Lộc",
+    "full_name_en": "Huong Loc Commune",
+    "type": "xã",
+    "district_code": "482",
+    "codename": "huong_loc"
+  },
+  {
+    "code": "20173",
+    "name": "Thượng Quảng",
+    "name_en": "Thuong Quang",
+    "full_name": "Xã Thượng Quảng",
+    "full_name_en": "Thuong Quang Commune",
+    "type": "xã",
+    "district_code": "482",
+    "codename": "thuong_quang"
+  },
+  {
+    "code": "20179",
+    "name": "Hương Xuân",
+    "name_en": "Huong Xuan",
+    "full_name": "Xã Hương Xuân",
+    "full_name_en": "Huong Xuan Commune",
+    "type": "xã",
+    "district_code": "482",
+    "codename": "huong_xuan"
+  },
+  {
+    "code": "20182",
+    "name": "Hương Hữu",
+    "name_en": "Huong Huu",
+    "full_name": "Xã Hương Hữu",
+    "full_name_en": "Huong Huu Commune",
+    "type": "xã",
+    "district_code": "482",
+    "codename": "huong_huu"
+  },
+  {
+    "code": "20185",
+    "name": "Thượng Lộ",
+    "name_en": "Thuong Lo",
+    "full_name": "Xã Thượng Lộ",
+    "full_name_en": "Thuong Lo Commune",
+    "type": "xã",
+    "district_code": "482",
+    "codename": "thuong_lo"
+  },
+  {
+    "code": "20188",
+    "name": "Thượng Long",
+    "name_en": "Thuong Long",
+    "full_name": "Xã Thượng Long",
+    "full_name_en": "Thuong Long Commune",
+    "type": "xã",
+    "district_code": "482",
+    "codename": "thuong_long"
+  },
+  {
+    "code": "20191",
+    "name": "Thượng Nhật",
+    "name_en": "Thuong Nhat",
+    "full_name": "Xã Thượng Nhật",
+    "full_name_en": "Thuong Nhat Commune",
+    "type": "xã",
+    "district_code": "482",
+    "codename": "thuong_nhat"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "code": "26329",
+    "name": "Sông Nhạn",
+    "name_en": "Song Nhan",
+    "full_name": "Xã Sông Nhạn",
+    "full_name_en": "Song Nhan Commune",
+    "type": "xã",
+    "district_code": "739",
+    "codename": "song_nhan"
+  },
+  {
+    "code": "26332",
+    "name": "Xuân Quế",
+    "name_en": "Xuan Que",
+    "full_name": "Xã Xuân Quế",
+    "full_name_en": "Xuan Que Commune",
+    "type": "xã",
+    "district_code": "739",
+    "codename": "xuan_que"
+  },
+  {
+    "code": "26335",
+    "name": "Nhân Nghĩa",
+    "name_en": "Nhan Nghia",
+    "full_name": "Xã Nhân Nghĩa",
+    "full_name_en": "Nhan Nghia Commune",
+    "type": "xã",
+    "district_code": "739",
+    "codename": "nhan_nghia"
+  },
+  {
+    "code": "26338",
+    "name": "Xuân Đường",
+    "name_en": "Xuan Duong",
+    "full_name": "Xã Xuân Đường",
+    "full_name_en": "Xuan Duong Commune",
+    "type": "xã",
+    "district_code": "739",
+    "codename": "xuan_duong"
+  },
+  {
+    "code": "26341",
+    "name": "Long Giao",
+    "name_en": "Long Giao",
+    "full_name": "Thị trấn Long Giao",
+    "full_name_en": "Long Giao Township",
+    "type": "thị trấn",
+    "district_code": "739",
+    "codename": "long_giao"
+  },
+  {
+    "code": "26344",
+    "name": "Xuân Mỹ",
+    "name_en": "Xuan My",
+    "full_name": "Xã Xuân Mỹ",
+    "full_name_en": "Xuan My Commune",
+    "type": "xã",
+    "district_code": "739",
+    "codename": "xuan_my"
+  },
+  {
+    "code": "26347",
+    "name": "Thừa Đức",
+    "name_en": "Thua Duc",
+    "full_name": "Xã Thừa Đức",
+    "full_name_en": "Thua Duc Commune",
+    "type": "xã",
+    "district_code": "739",
+    "codename": "thua_duc"
+  },
+  {
+    "code": "26350",
+    "name": "Bảo Bình",
+    "name_en": "Bao Binh",
+    "full_name": "Xã Bảo Bình",
+    "full_name_en": "Bao Binh Commune",
+    "type": "xã",
+    "district_code": "739",
+    "codename": "bao_binh"
+  },
+  {
+    "code": "26353",
+    "name": "Xuân Bảo",
+    "name_en": "Xuan Bao",
+    "full_name": "Xã Xuân Bảo",
+    "full_name_en": "Xuan Bao Commune",
+    "type": "xã",
+    "district_code": "739",
+    "codename": "xuan_bao"
+  },
+  {
+    "code": "26356",
+    "name": "Xuân Tây",
+    "name_en": "Xuan Tay",
+    "full_name": "Xã Xuân Tây",
+    "full_name_en": "Xuan Tay Commune",
+    "type": "xã",
+    "district_code": "739",
+    "codename": "xuan_tay"
+  },
+  {
+    "code": "26359",
+    "name": "Xuân Đông",
+    "name_en": "Xuan Dong",
+    "full_name": "Xã Xuân Đông",
+    "full_name_en": "Xuan Dong Commune",
+    "type": "xã",
+    "district_code": "739",
+    "codename": "xuan_dong"
+  },
+  {
+    "code": "26362",
+    "name": "Sông Ray",
+    "name_en": "Song Ray",
+    "full_name": "Xã Sông Ray",
+    "full_name_en": "Song Ray Commune",
+    "type": "xã",
+    "district_code": "739",
+    "codename": "song_ray"
+  },
+  {
+    "code": "26365",
+    "name": "Lâm San",
+    "name_en": "Lam San",
+    "full_name": "Xã Lâm San",
+    "full_name_en": "Lam San Commune",
+    "type": "xã",
+    "district_code": "739",
+    "codename": "lam_san"
+  }
+]

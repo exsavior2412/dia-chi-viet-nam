@@ -1,0 +1,102 @@
+[
+  {
+    "code": "28297",
+    "name": "2",
+    "name_en": "2",
+    "full_name": "Phường 2",
+    "full_name_en": "Ward 2",
+    "type": "phường",
+    "district_code": "816",
+    "codename": "2"
+  },
+  {
+    "code": "28300",
+    "name": "1",
+    "name_en": "1",
+    "full_name": "Phường 1",
+    "full_name_en": "Ward 1",
+    "type": "phường",
+    "district_code": "816",
+    "codename": "1"
+  },
+  {
+    "code": "28306",
+    "name": "5",
+    "name_en": "5",
+    "full_name": "Phường 5",
+    "full_name_en": "Ward 5",
+    "type": "phường",
+    "district_code": "816",
+    "codename": "5"
+  },
+  {
+    "code": "28309",
+    "name": "Long Hưng",
+    "name_en": "Long Hung",
+    "full_name": "Phường Long Hưng",
+    "full_name_en": "Long Hung Ward",
+    "type": "phường",
+    "district_code": "816",
+    "codename": "long_hung"
+  },
+  {
+    "code": "28312",
+    "name": "Long Thuận",
+    "name_en": "Long Thuan",
+    "full_name": "Phường Long Thuận",
+    "full_name_en": "Long Thuan Ward",
+    "type": "phường",
+    "district_code": "816",
+    "codename": "long_thuan"
+  },
+  {
+    "code": "28315",
+    "name": "Long Chánh",
+    "name_en": "Long Chanh",
+    "full_name": "Phường Long Chánh",
+    "full_name_en": "Long Chanh Ward",
+    "type": "phường",
+    "district_code": "816",
+    "codename": "long_chanh"
+  },
+  {
+    "code": "28318",
+    "name": "Long Hòa",
+    "name_en": "Long Hoa",
+    "full_name": "Phường Long Hòa",
+    "full_name_en": "Long Hoa Ward",
+    "type": "phường",
+    "district_code": "816",
+    "codename": "long_hoa"
+  },
+  {
+    "code": "28708",
+    "name": "Bình Đông",
+    "name_en": "Binh Dong",
+    "full_name": "Xã Bình Đông",
+    "full_name_en": "Binh Dong Commune",
+    "type": "xã",
+    "district_code": "816",
+    "codename": "binh_dong"
+  },
+  {
+    "code": "28717",
+    "name": "Bình Xuân",
+    "name_en": "Binh Xuan",
+    "full_name": "Xã Bình Xuân",
+    "full_name_en": "Binh Xuan Commune",
+    "type": "xã",
+    "district_code": "816",
+    "codename": "binh_xuan"
+  },
+  {
+    "code": "28729",
+    "name": "Tân Trung",
+    "name_en": "Tan Trung",
+    "full_name": "Xã Tân Trung",
+    "full_name_en": "Tan Trung Commune",
+    "type": "xã",
+    "district_code": "816",
+    "codename": "tan_trung"
+  }
+]

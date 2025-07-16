@@ -1,0 +1,232 @@
+[
+  {
+    "code": "10270",
+    "name": "Phú Minh",
+    "name_en": "Phu Minh",
+    "full_name": "Thị trấn Phú Minh",
+    "full_name_en": "Phu Minh Township",
+    "type": "thị trấn",
+    "district_code": "280",
+    "codename": "phu_minh"
+  },
+  {
+    "code": "10273",
+    "name": "Phú Xuyên",
+    "name_en": "Phu Xuyen",
+    "full_name": "Thị trấn Phú Xuyên",
+    "full_name_en": "Phu Xuyen Township",
+    "type": "thị trấn",
+    "district_code": "280",
+    "codename": "phu_xuyen"
+  },
+  {
+    "code": "10276",
+    "name": "Hồng Minh",
+    "name_en": "Hong Minh",
+    "full_name": "Xã Hồng Minh",
+    "full_name_en": "Hong Minh Commune",
+    "type": "xã",
+    "district_code": "280",
+    "codename": "hong_minh"
+  },
+  {
+    "code": "10279",
+    "name": "Phượng Dực",
+    "name_en": "Phuong Duc",
+    "full_name": "Xã Phượng Dực",
+    "full_name_en": "Phuong Duc Commune",
+    "type": "xã",
+    "district_code": "280",
+    "codename": "phuong_duc"
+  },
+  {
+    "code": "10282",
+    "name": "Nam Tiến",
+    "name_en": "Nam Tien",
+    "full_name": "Xã Nam Tiến",
+    "full_name_en": "Nam Tien Commune",
+    "type": "xã",
+    "district_code": "280",
+    "codename": "nam_tien"
+  },
+  {
+    "code": "10291",
+    "name": "Văn Hoàng",
+    "name_en": "Van Hoang",
+    "full_name": "Xã Văn Hoàng",
+    "full_name_en": "Van Hoang Commune",
+    "type": "xã",
+    "district_code": "280",
+    "codename": "van_hoang"
+  },
+  {
+    "code": "10294",
+    "name": "Phú Túc",
+    "name_en": "Phu Tuc",
+    "full_name": "Xã Phú Túc",
+    "full_name_en": "Phu Tuc Commune",
+    "type": "xã",
+    "district_code": "280",
+    "codename": "phu_tuc"
+  },
+  {
+    "code": "10300",
+    "name": "Hồng Thái",
+    "name_en": "Hong Thai",
+    "full_name": "Xã Hồng Thái",
+    "full_name_en": "Hong Thai Commune",
+    "type": "xã",
+    "district_code": "280",
+    "codename": "hong_thai"
+  },
+  {
+    "code": "10303",
+    "name": "Hoàng Long",
+    "name_en": "Hoang Long",
+    "full_name": "Xã Hoàng Long",
+    "full_name_en": "Hoang Long Commune",
+    "type": "xã",
+    "district_code": "280",
+    "codename": "hoang_long"
+  },
+  {
+    "code": "10312",
+    "name": "Nam Phong",
+    "name_en": "Nam Phong",
+    "full_name": "Xã Nam Phong",
+    "full_name_en": "Nam Phong Commune",
+    "type": "xã",
+    "district_code": "280",
+    "codename": "nam_phong"
+  },
+  {
+    "code": "10315",
+    "name": "Tân Dân",
+    "name_en": "Tan Dan",
+    "full_name": "Xã Tân Dân",
+    "full_name_en": "Tan Dan Commune",
+    "type": "xã",
+    "district_code": "280",
+    "codename": "tan_dan"
+  },
+  {
+    "code": "10318",
+    "name": "Quang Hà",
+    "name_en": "Quang Ha",
+    "full_name": "Xã Quang Hà",
+    "full_name_en": "Quang Ha Commune",
+    "type": "xã",
+    "district_code": "280",
+    "codename": "quang_ha"
+  },
+  {
+    "code": "10321",
+    "name": "Chuyên Mỹ",
+    "name_en": "Chuyen My",
+    "full_name": "Xã Chuyên Mỹ",
+    "full_name_en": "Chuyen My Commune",
+    "type": "xã",
+    "district_code": "280",
+    "codename": "chuyen_my"
+  },
+  {
+    "code": "10324",
+    "name": "Khai Thái",
+    "name_en": "Khai Thai",
+    "full_name": "Xã Khai Thái",
+    "full_name_en": "Khai Thai Commune",
+    "type": "xã",
+    "district_code": "280",
+    "codename": "khai_thai"
+  },
+  {
+    "code": "10327",
+    "name": "Phúc Tiến",
+    "name_en": "Phuc Tien",
+    "full_name": "Xã Phúc Tiến",
+    "full_name_en": "Phuc Tien Commune",
+    "type": "xã",
+    "district_code": "280",
+    "codename": "phuc_tien"
+  },
+  {
+    "code": "10330",
+    "name": "Vân Từ",
+    "name_en": "Van Tu",
+    "full_name": "Xã Vân Từ",
+    "full_name_en": "Van Tu Commune",
+    "type": "xã",
+    "district_code": "280",
+    "codename": "van_tu"
+  },
+  {
+    "code": "10333",
+    "name": "Tri Thủy",
+    "name_en": "Tri Thuy",
+    "full_name": "Xã Tri Thủy",
+    "full_name_en": "Tri Thuy Commune",
+    "type": "xã",
+    "district_code": "280",
+    "codename": "tri_thuy"
+  },
+  {
+    "code": "10336",
+    "name": "Đại Xuyên",
+    "name_en": "Dai Xuyen",
+    "full_name": "Xã Đại Xuyên",
+    "full_name_en": "Dai Xuyen Commune",
+    "type": "xã",
+    "district_code": "280",
+    "codename": "dai_xuyen"
+  },
+  {
+    "code": "10339",
+    "name": "Phú Yên",
+    "name_en": "Phu Yen",
+    "full_name": "Xã Phú Yên",
+    "full_name_en": "Phu Yen Commune",
+    "type": "xã",
+    "district_code": "280",
+    "codename": "phu_yen"
+  },
+  {
+    "code": "10342",
+    "name": "Bạch Hạ",
+    "name_en": "Bach Ha",
+    "full_name": "Xã Bạch Hạ",
+    "full_name_en": "Bach Ha Commune",
+    "type": "xã",
+    "district_code": "280",
+    "codename": "bach_ha"
+  },
+  {
+    "code": "10345",
+    "name": "Quang Lãng",
+    "name_en": "Quang Lang",
+    "full_name": "Xã Quang Lãng",
+    "full_name_en": "Quang Lang Commune",
+    "type": "xã",
+    "district_code": "280",
+    "codename": "quang_lang"
+  },
+  {
+    "code": "10348",
+    "name": "Châu Can",
+    "name_en": "Chau Can",
+    "full_name": "Xã Châu Can",
+    "full_name_en": "Chau Can Commune",
+    "type": "xã",
+    "district_code": "280",
+    "codename": "chau_can"
+  },
+  {
+    "code": "10351",
+    "name": "Minh Tân",
+    "name_en": "Minh Tan",
+    "full_name": "Xã Minh Tân",
+    "full_name_en": "Minh Tan Commune",
+    "type": "xã",
+    "district_code": "280",
+    "codename": "minh_tan"
+  }
+]

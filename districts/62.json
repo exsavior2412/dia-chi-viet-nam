@@ -1,0 +1,102 @@
+[
+  {
+    "code": "608",
+    "name": "Kon Tum",
+    "name_en": "Kon Tum",
+    "full_name": "Thành phố Kon Tum",
+    "full_name_en": "Kon Tum City",
+    "type": "thành phố",
+    "province_code": "62",
+    "codename": "kon_tum"
+  },
+  {
+    "code": "610",
+    "name": "Đắk Glei",
+    "name_en": "Dak Glei",
+    "full_name": "Huyện Đắk Glei",
+    "full_name_en": "Dak Glei District",
+    "type": "huyện",
+    "province_code": "62",
+    "codename": "dak_glei"
+  },
+  {
+    "code": "611",
+    "name": "Ngọc Hồi",
+    "name_en": "Ngoc Hoi",
+    "full_name": "Huyện Ngọc Hồi",
+    "full_name_en": "Ngoc Hoi District",
+    "type": "huyện",
+    "province_code": "62",
+    "codename": "ngoc_hoi"
+  },
+  {
+    "code": "612",
+    "name": "Đắk Tô",
+    "name_en": "Dak To",
+    "full_name": "Huyện Đắk Tô",
+    "full_name_en": "Dak To District",
+    "type": "huyện",
+    "province_code": "62",
+    "codename": "dak_to"
+  },
+  {
+    "code": "613",
+    "name": "Kon Plông",
+    "name_en": "Kon Plong",
+    "full_name": "Huyện Kon Plông",
+    "full_name_en": "Kon Plong District",
+    "type": "huyện",
+    "province_code": "62",
+    "codename": "kon_plong"
+  },
+  {
+    "code": "614",
+    "name": "Kon Rẫy",
+    "name_en": "Kon Ray",
+    "full_name": "Huyện Kon Rẫy",
+    "full_name_en": "Kon Ray District",
+    "type": "huyện",
+    "province_code": "62",
+    "codename": "kon_ray"
+  },
+  {
+    "code": "615",
+    "name": "Đắk Hà",
+    "name_en": "Dak Ha",
+    "full_name": "Huyện Đắk Hà",
+    "full_name_en": "Dak Ha District",
+    "type": "huyện",
+    "province_code": "62",
+    "codename": "dak_ha"
+  },
+  {
+    "code": "616",
+    "name": "Sa Thầy",
+    "name_en": "Sa Thay",
+    "full_name": "Huyện Sa Thầy",
+    "full_name_en": "Sa Thay District",
+    "type": "huyện",
+    "province_code": "62",
+    "codename": "sa_thay"
+  },
+  {
+    "code": "617",
+    "name": "Tu Mơ Rông",
+    "name_en": "Tu Mo Rong",
+    "full_name": "Huyện Tu Mơ Rông",
+    "full_name_en": "Tu Mo Rong District",
+    "type": "huyện",
+    "province_code": "62",
+    "codename": "tu_mo_rong"
+  },
+  {
+    "code": "618",
+    "name": "Ia H' Drai",
+    "name_en": "Ia H' Drai",
+    "full_name": "Huyện Ia H' Drai",
+    "full_name_en": "Ia H' Drai District",
+    "type": "huyện",
+    "province_code": "62",
+    "codename": "ia_h_drai"
+  }
+]

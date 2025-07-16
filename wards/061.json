@@ -1,0 +1,152 @@
+[
+  {
+    "code": "01888",
+    "name": "Chợ Rã",
+    "name_en": "Cho Ra",
+    "full_name": "Thị trấn Chợ Rã",
+    "full_name_en": "Cho Ra Township",
+    "type": "thị trấn",
+    "district_code": "061",
+    "codename": "cho_ra"
+  },
+  {
+    "code": "01891",
+    "name": "Bành Trạch",
+    "name_en": "Banh Trach",
+    "full_name": "Xã Bành Trạch",
+    "full_name_en": "Banh Trach Commune",
+    "type": "xã",
+    "district_code": "061",
+    "codename": "banh_trach"
+  },
+  {
+    "code": "01894",
+    "name": "Phúc Lộc",
+    "name_en": "Phuc Loc",
+    "full_name": "Xã Phúc Lộc",
+    "full_name_en": "Phuc Loc Commune",
+    "type": "xã",
+    "district_code": "061",
+    "codename": "phuc_loc"
+  },
+  {
+    "code": "01897",
+    "name": "Hà Hiệu",
+    "name_en": "Ha Hieu",
+    "full_name": "Xã Hà Hiệu",
+    "full_name_en": "Ha Hieu Commune",
+    "type": "xã",
+    "district_code": "061",
+    "codename": "ha_hieu"
+  },
+  {
+    "code": "01900",
+    "name": "Cao Thượng",
+    "name_en": "Cao Thuong",
+    "full_name": "Xã Cao Thượng",
+    "full_name_en": "Cao Thuong Commune",
+    "type": "xã",
+    "district_code": "061",
+    "codename": "cao_thuong"
+  },
+  {
+    "code": "01906",
+    "name": "Khang Ninh",
+    "name_en": "Khang Ninh",
+    "full_name": "Xã Khang Ninh",
+    "full_name_en": "Khang Ninh Commune",
+    "type": "xã",
+    "district_code": "061",
+    "codename": "khang_ninh"
+  },
+  {
+    "code": "01909",
+    "name": "Nam Mẫu",
+    "name_en": "Nam Mau",
+    "full_name": "Xã Nam Mẫu",
+    "full_name_en": "Nam Mau Commune",
+    "type": "xã",
+    "district_code": "061",
+    "codename": "nam_mau"
+  },
+  {
+    "code": "01912",
+    "name": "Thượng Giáo",
+    "name_en": "Thuong Giao",
+    "full_name": "Xã Thượng Giáo",
+    "full_name_en": "Thuong Giao Commune",
+    "type": "xã",
+    "district_code": "061",
+    "codename": "thuong_giao"
+  },
+  {
+    "code": "01915",
+    "name": "Địa Linh",
+    "name_en": "Dia Linh",
+    "full_name": "Xã Địa Linh",
+    "full_name_en": "Dia Linh Commune",
+    "type": "xã",
+    "district_code": "061",
+    "codename": "dia_linh"
+  },
+  {
+    "code": "01918",
+    "name": "Yến Dương",
+    "name_en": "Yen Duong",
+    "full_name": "Xã Yến Dương",
+    "full_name_en": "Yen Duong Commune",
+    "type": "xã",
+    "district_code": "061",
+    "codename": "yen_duong"
+  },
+  {
+    "code": "01921",
+    "name": "Chu Hương",
+    "name_en": "Chu Huong",
+    "full_name": "Xã Chu Hương",
+    "full_name_en": "Chu Huong Commune",
+    "type": "xã",
+    "district_code": "061",
+    "codename": "chu_huong"
+  },
+  {
+    "code": "01924",
+    "name": "Quảng Khê",
+    "name_en": "Quang Khe",
+    "full_name": "Xã Quảng Khê",
+    "full_name_en": "Quang Khe Commune",
+    "type": "xã",
+    "district_code": "061",
+    "codename": "quang_khe"
+  },
+  {
+    "code": "01927",
+    "name": "Mỹ Phương",
+    "name_en": "My Phuong",
+    "full_name": "Xã Mỹ Phương",
+    "full_name_en": "My Phuong Commune",
+    "type": "xã",
+    "district_code": "061",
+    "codename": "my_phuong"
+  },
+  {
+    "code": "01930",
+    "name": "Hoàng Trĩ",
+    "name_en": "Hoang Tri",
+    "full_name": "Xã Hoàng Trĩ",
+    "full_name_en": "Hoang Tri Commune",
+    "type": "xã",
+    "district_code": "061",
+    "codename": "hoang_tri"
+  },
+  {
+    "code": "01933",
+    "name": "Đồng Phúc",
+    "name_en": "Dong Phuc",
+    "full_name": "Xã Đồng Phúc",
+    "full_name_en": "Dong Phuc Commune",
+    "type": "xã",
+    "district_code": "061",
+    "codename": "dong_phuc"
+  }
+]

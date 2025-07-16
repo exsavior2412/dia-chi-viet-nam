@@ -1,0 +1,132 @@
+[
+  {
+    "code": "29869",
+    "name": "1",
+    "name_en": "1",
+    "full_name": "Phường 1",
+    "full_name_en": "Ward 1",
+    "type": "phường",
+    "district_code": "866",
+    "codename": "1"
+  },
+  {
+    "code": "29872",
+    "name": "4",
+    "name_en": "4",
+    "full_name": "Phường 4",
+    "full_name_en": "Ward 4",
+    "type": "phường",
+    "district_code": "866",
+    "codename": "4"
+  },
+  {
+    "code": "29875",
+    "name": "3",
+    "name_en": "3",
+    "full_name": "Phường 3",
+    "full_name_en": "Ward 3",
+    "type": "phường",
+    "district_code": "866",
+    "codename": "3"
+  },
+  {
+    "code": "29878",
+    "name": "6",
+    "name_en": "6",
+    "full_name": "Phường 6",
+    "full_name_en": "Ward 6",
+    "type": "phường",
+    "district_code": "866",
+    "codename": "6"
+  },
+  {
+    "code": "29881",
+    "name": "Mỹ Ngãi",
+    "name_en": "My Ngai",
+    "full_name": "Phường Mỹ Ngãi",
+    "full_name_en": "My Ngai Ward",
+    "type": "phường",
+    "district_code": "866",
+    "codename": "my_ngai"
+  },
+  {
+    "code": "29884",
+    "name": "Mỹ Tân",
+    "name_en": "My Tan",
+    "full_name": "Xã Mỹ Tân",
+    "full_name_en": "My Tan Commune",
+    "type": "xã",
+    "district_code": "866",
+    "codename": "my_tan"
+  },
+  {
+    "code": "29887",
+    "name": "Mỹ Trà",
+    "name_en": "My Tra",
+    "full_name": "Xã Mỹ Trà",
+    "full_name_en": "My Tra Commune",
+    "type": "xã",
+    "district_code": "866",
+    "codename": "my_tra"
+  },
+  {
+    "code": "29888",
+    "name": "Mỹ Phú",
+    "name_en": "My Phu",
+    "full_name": "Phường Mỹ Phú",
+    "full_name_en": "My Phu Ward",
+    "type": "phường",
+    "district_code": "866",
+    "codename": "my_phu"
+  },
+  {
+    "code": "29890",
+    "name": "Tân Thuận Tây",
+    "name_en": "Tan Thuan Tay",
+    "full_name": "Xã Tân Thuận Tây",
+    "full_name_en": "Tan Thuan Tay Commune",
+    "type": "xã",
+    "district_code": "866",
+    "codename": "tan_thuan_tay"
+  },
+  {
+    "code": "29892",
+    "name": "Hoà Thuận",
+    "name_en": "Hoa Thuan",
+    "full_name": "Phường Hoà Thuận",
+    "full_name_en": "Hoa Thuan Ward",
+    "type": "phường",
+    "district_code": "866",
+    "codename": "hoa_thuan"
+  },
+  {
+    "code": "29893",
+    "name": "Hòa An",
+    "name_en": "Hoa An",
+    "full_name": "Xã Hòa An",
+    "full_name_en": "Hoa An Commune",
+    "type": "xã",
+    "district_code": "866",
+    "codename": "hoa_an"
+  },
+  {
+    "code": "29896",
+    "name": "Tân Thuận Đông",
+    "name_en": "Tan Thuan Dong",
+    "full_name": "Xã Tân Thuận Đông",
+    "full_name_en": "Tan Thuan Dong Commune",
+    "type": "xã",
+    "district_code": "866",
+    "codename": "tan_thuan_dong"
+  },
+  {
+    "code": "29899",
+    "name": "Tịnh Thới",
+    "name_en": "Tinh Thoi",
+    "full_name": "Xã Tịnh Thới",
+    "full_name_en": "Tinh Thoi Commune",
+    "type": "xã",
+    "district_code": "866",
+    "codename": "tinh_thoi"
+  }
+]

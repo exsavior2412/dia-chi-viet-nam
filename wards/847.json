@@ -1,0 +1,142 @@
+[
+  {
+    "code": "29374",
+    "name": "Châu Thành",
+    "name_en": "Chau Thanh",
+    "full_name": "Thị trấn Châu Thành",
+    "full_name_en": "Chau Thanh Township",
+    "type": "thị trấn",
+    "district_code": "847",
+    "codename": "chau_thanh"
+  },
+  {
+    "code": "29377",
+    "name": "Đa Lộc",
+    "name_en": "Da Loc",
+    "full_name": "Xã Đa Lộc",
+    "full_name_en": "Da Loc Commune",
+    "type": "xã",
+    "district_code": "847",
+    "codename": "da_loc"
+  },
+  {
+    "code": "29380",
+    "name": "Mỹ Chánh",
+    "name_en": "My Chanh",
+    "full_name": "Xã Mỹ Chánh",
+    "full_name_en": "My Chanh Commune",
+    "type": "xã",
+    "district_code": "847",
+    "codename": "my_chanh"
+  },
+  {
+    "code": "29383",
+    "name": "Thanh Mỹ",
+    "name_en": "Thanh My",
+    "full_name": "Xã Thanh Mỹ",
+    "full_name_en": "Thanh My Commune",
+    "type": "xã",
+    "district_code": "847",
+    "codename": "thanh_my"
+  },
+  {
+    "code": "29386",
+    "name": "Lương Hoà A",
+    "name_en": "Luong Hoa A",
+    "full_name": "Xã Lương Hoà A",
+    "full_name_en": "Luong Hoa A Commune",
+    "type": "xã",
+    "district_code": "847",
+    "codename": "luong_hoa_a"
+  },
+  {
+    "code": "29389",
+    "name": "Lương Hòa",
+    "name_en": "Luong Hoa",
+    "full_name": "Xã Lương Hòa",
+    "full_name_en": "Luong Hoa Commune",
+    "type": "xã",
+    "district_code": "847",
+    "codename": "luong_hoa"
+  },
+  {
+    "code": "29392",
+    "name": "Song Lộc",
+    "name_en": "Song Loc",
+    "full_name": "Xã Song Lộc",
+    "full_name_en": "Song Loc Commune",
+    "type": "xã",
+    "district_code": "847",
+    "codename": "song_loc"
+  },
+  {
+    "code": "29395",
+    "name": "Nguyệt Hóa",
+    "name_en": "Nguyet Hoa",
+    "full_name": "Xã Nguyệt Hóa",
+    "full_name_en": "Nguyet Hoa Commune",
+    "type": "xã",
+    "district_code": "847",
+    "codename": "nguyet_hoa"
+  },
+  {
+    "code": "29398",
+    "name": "Hòa Thuận",
+    "name_en": "Hoa Thuan",
+    "full_name": "Xã Hòa Thuận",
+    "full_name_en": "Hoa Thuan Commune",
+    "type": "xã",
+    "district_code": "847",
+    "codename": "hoa_thuan"
+  },
+  {
+    "code": "29401",
+    "name": "Hòa Lợi",
+    "name_en": "Hoa Loi",
+    "full_name": "Xã Hòa Lợi",
+    "full_name_en": "Hoa Loi Commune",
+    "type": "xã",
+    "district_code": "847",
+    "codename": "hoa_loi"
+  },
+  {
+    "code": "29404",
+    "name": "Phước Hảo",
+    "name_en": "Phuoc Hao",
+    "full_name": "Xã Phước Hảo",
+    "full_name_en": "Phuoc Hao Commune",
+    "type": "xã",
+    "district_code": "847",
+    "codename": "phuoc_hao"
+  },
+  {
+    "code": "29407",
+    "name": "Hưng Mỹ",
+    "name_en": "Hung My",
+    "full_name": "Xã Hưng Mỹ",
+    "full_name_en": "Hung My Commune",
+    "type": "xã",
+    "district_code": "847",
+    "codename": "hung_my"
+  },
+  {
+    "code": "29410",
+    "name": "Hòa Minh",
+    "name_en": "Hoa Minh",
+    "full_name": "Xã Hòa Minh",
+    "full_name_en": "Hoa Minh Commune",
+    "type": "xã",
+    "district_code": "847",
+    "codename": "hoa_minh"
+  },
+  {
+    "code": "29413",
+    "name": "Long Hòa",
+    "name_en": "Long Hoa",
+    "full_name": "Xã Long Hòa",
+    "full_name_en": "Long Hoa Commune",
+    "type": "xã",
+    "district_code": "847",
+    "codename": "long_hoa"
+  }
+]

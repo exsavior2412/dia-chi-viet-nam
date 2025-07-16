@@ -1,0 +1,322 @@
+[
+  {
+    "code": "12688",
+    "name": "Đông Hưng",
+    "name_en": "Dong Hung",
+    "full_name": "Thị trấn Đông Hưng",
+    "full_name_en": "Dong Hung Township",
+    "type": "thị trấn",
+    "district_code": "340",
+    "codename": "dong_hung"
+  },
+  {
+    "code": "12694",
+    "name": "Đông Phương",
+    "name_en": "Dong Phuong",
+    "full_name": "Xã Đông Phương",
+    "full_name_en": "Dong Phuong Commune",
+    "type": "xã",
+    "district_code": "340",
+    "codename": "dong_phuong"
+  },
+  {
+    "code": "12700",
+    "name": "Liên An Đô",
+    "name_en": "Lien An Do",
+    "full_name": "Xã Liên An Đô",
+    "full_name_en": "Lien An Do Commune",
+    "type": "xã",
+    "district_code": "340",
+    "codename": "lien_an_do"
+  },
+  {
+    "code": "12703",
+    "name": "Đông Sơn",
+    "name_en": "Dong Son",
+    "full_name": "Xã Đông Sơn",
+    "full_name_en": "Dong Son Commune",
+    "type": "xã",
+    "district_code": "340",
+    "codename": "dong_son"
+  },
+  {
+    "code": "12706",
+    "name": "Đông Cường",
+    "name_en": "Dong Cuong",
+    "full_name": "Xã Đông Cường",
+    "full_name_en": "Dong Cuong Commune",
+    "type": "xã",
+    "district_code": "340",
+    "codename": "dong_cuong"
+  },
+  {
+    "code": "12709",
+    "name": "Phú Lương",
+    "name_en": "Phu Luong",
+    "full_name": "Xã Phú Lương",
+    "full_name_en": "Phu Luong Commune",
+    "type": "xã",
+    "district_code": "340",
+    "codename": "phu_luong"
+  },
+  {
+    "code": "12712",
+    "name": "Mê Linh",
+    "name_en": "Me Linh",
+    "full_name": "Xã Mê Linh",
+    "full_name_en": "Me Linh Commune",
+    "type": "xã",
+    "district_code": "340",
+    "codename": "me_linh"
+  },
+  {
+    "code": "12715",
+    "name": "Lô Giang",
+    "name_en": "Lo Giang",
+    "full_name": "Xã Lô Giang",
+    "full_name_en": "Lo Giang Commune",
+    "type": "xã",
+    "district_code": "340",
+    "codename": "lo_giang"
+  },
+  {
+    "code": "12718",
+    "name": "Đông La",
+    "name_en": "Dong La",
+    "full_name": "Xã Đông La",
+    "full_name_en": "Dong La Commune",
+    "type": "xã",
+    "district_code": "340",
+    "codename": "dong_la"
+  },
+  {
+    "code": "12721",
+    "name": "Minh Tân",
+    "name_en": "Minh Tan",
+    "full_name": "Xã Minh Tân",
+    "full_name_en": "Minh Tan Commune",
+    "type": "xã",
+    "district_code": "340",
+    "codename": "minh_tan"
+  },
+  {
+    "code": "12724",
+    "name": "Đông Xá",
+    "name_en": "Dong Xa",
+    "full_name": "Xã Đông Xá",
+    "full_name_en": "Dong Xa Commune",
+    "type": "xã",
+    "district_code": "340",
+    "codename": "dong_xa"
+  },
+  {
+    "code": "12730",
+    "name": "Nguyên Xá",
+    "name_en": "Nguyen Xa",
+    "full_name": "Xã Nguyên Xá",
+    "full_name_en": "Nguyen Xa Commune",
+    "type": "xã",
+    "district_code": "340",
+    "codename": "nguyen_xa"
+  },
+  {
+    "code": "12736",
+    "name": "Phong Dương Tiến",
+    "name_en": "Phong Duong Tien",
+    "full_name": "Xã Phong Dương Tiến",
+    "full_name_en": "Phong Duong Tien Commune",
+    "type": "xã",
+    "district_code": "340",
+    "codename": "phong_duong_tien"
+  },
+  {
+    "code": "12739",
+    "name": "Hồng Việt",
+    "name_en": "Hong Viet",
+    "full_name": "Xã Hồng Việt",
+    "full_name_en": "Hong Viet Commune",
+    "type": "xã",
+    "district_code": "340",
+    "codename": "hong_viet"
+  },
+  {
+    "code": "12745",
+    "name": "Hà Giang",
+    "name_en": "Ha Giang",
+    "full_name": "Xã Hà Giang",
+    "full_name_en": "Ha Giang Commune",
+    "type": "xã",
+    "district_code": "340",
+    "codename": "ha_giang"
+  },
+  {
+    "code": "12748",
+    "name": "Đông Kinh",
+    "name_en": "Dong Kinh",
+    "full_name": "Xã Đông Kinh",
+    "full_name_en": "Dong Kinh Commune",
+    "type": "xã",
+    "district_code": "340",
+    "codename": "dong_kinh"
+  },
+  {
+    "code": "12751",
+    "name": "Đông Hợp",
+    "name_en": "Dong Hop",
+    "full_name": "Xã Đông Hợp",
+    "full_name_en": "Dong Hop Commune",
+    "type": "xã",
+    "district_code": "340",
+    "codename": "dong_hop"
+  },
+  {
+    "code": "12754",
+    "name": "Thăng Long",
+    "name_en": "Thang Long",
+    "full_name": "Xã Thăng Long",
+    "full_name_en": "Thang Long Commune",
+    "type": "xã",
+    "district_code": "340",
+    "codename": "thang_long"
+  },
+  {
+    "code": "12757",
+    "name": "Đông Các",
+    "name_en": "Dong Cac",
+    "full_name": "Xã Đông Các",
+    "full_name_en": "Dong Cac Commune",
+    "type": "xã",
+    "district_code": "340",
+    "codename": "dong_cac"
+  },
+  {
+    "code": "12760",
+    "name": "Phú Châu",
+    "name_en": "Phu Chau",
+    "full_name": "Xã Phú Châu",
+    "full_name_en": "Phu Chau Commune",
+    "type": "xã",
+    "district_code": "340",
+    "codename": "phu_chau"
+  },
+  {
+    "code": "12763",
+    "name": "Liên Hoa",
+    "name_en": "Lien Hoa",
+    "full_name": "Xã Liên Hoa",
+    "full_name_en": "Lien Hoa Commune",
+    "type": "xã",
+    "district_code": "340",
+    "codename": "lien_hoa"
+  },
+  {
+    "code": "12769",
+    "name": "Đông Tân",
+    "name_en": "Dong Tan",
+    "full_name": "Xã Đông Tân",
+    "full_name_en": "Dong Tan Commune",
+    "type": "xã",
+    "district_code": "340",
+    "codename": "dong_tan"
+  },
+  {
+    "code": "12772",
+    "name": "Đông Vinh",
+    "name_en": "Dong Vinh",
+    "full_name": "Xã Đông Vinh",
+    "full_name_en": "Dong Vinh Commune",
+    "type": "xã",
+    "district_code": "340",
+    "codename": "dong_vinh"
+  },
+  {
+    "code": "12775",
+    "name": "Xuân Quang Động",
+    "name_en": "Xuan Quang Dong",
+    "full_name": "Xã Xuân Quang Động",
+    "full_name_en": "Xuan Quang Dong Commune",
+    "type": "xã",
+    "district_code": "340",
+    "codename": "xuan_quang_dong"
+  },
+  {
+    "code": "12778",
+    "name": "Hồng Bạch",
+    "name_en": "Hong Bach",
+    "full_name": "Xã Hồng Bạch",
+    "full_name_en": "Hong Bach Commune",
+    "type": "xã",
+    "district_code": "340",
+    "codename": "hong_bach"
+  },
+  {
+    "code": "12784",
+    "name": "Trọng Quan",
+    "name_en": "Trong Quan",
+    "full_name": "Xã Trọng Quan",
+    "full_name_en": "Trong Quan Commune",
+    "type": "xã",
+    "district_code": "340",
+    "codename": "trong_quan"
+  },
+  {
+    "code": "12790",
+    "name": "Hồng Giang",
+    "name_en": "Hong Giang",
+    "full_name": "Xã Hồng Giang",
+    "full_name_en": "Hong Giang Commune",
+    "type": "xã",
+    "district_code": "340",
+    "codename": "hong_giang"
+  },
+  {
+    "code": "12793",
+    "name": "Đông Quan",
+    "name_en": "Dong Quan",
+    "full_name": "Xã Đông Quan",
+    "full_name_en": "Dong Quan Commune",
+    "type": "xã",
+    "district_code": "340",
+    "codename": "dong_quan"
+  },
+  {
+    "code": "12802",
+    "name": "Đông Á",
+    "name_en": "Dong A",
+    "full_name": "Xã Đông Á",
+    "full_name_en": "Dong A Commune",
+    "type": "xã",
+    "district_code": "340",
+    "codename": "dong_a"
+  },
+  {
+    "code": "12808",
+    "name": "Đông Hoàng",
+    "name_en": "Dong Hoang",
+    "full_name": "Xã Đông Hoàng",
+    "full_name_en": "Dong Hoang Commune",
+    "type": "xã",
+    "district_code": "340",
+    "codename": "dong_hoang"
+  },
+  {
+    "code": "12811",
+    "name": "Đông Dương",
+    "name_en": "Dong Duong",
+    "full_name": "Xã Đông Dương",
+    "full_name_en": "Dong Duong Commune",
+    "type": "xã",
+    "district_code": "340",
+    "codename": "dong_duong"
+  },
+  {
+    "code": "12823",
+    "name": "Minh Phú",
+    "name_en": "Minh Phu",
+    "full_name": "Xã Minh Phú",
+    "full_name_en": "Minh Phu Commune",
+    "type": "xã",
+    "district_code": "340",
+    "codename": "minh_phu"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "code": "347",
+    "name": "Phủ Lý",
+    "name_en": "Phu Ly",
+    "full_name": "Thành phố Phủ Lý",
+    "full_name_en": "Phu Ly City",
+    "type": "thành phố",
+    "province_code": "35",
+    "codename": "phu_ly"
+  },
+  {
+    "code": "349",
+    "name": "Duy Tiên",
+    "name_en": "Duy Tien",
+    "full_name": "Thị xã Duy Tiên",
+    "full_name_en": "Duy Tien Town",
+    "type": "thị xã",
+    "province_code": "35",
+    "codename": "duy_tien"
+  },
+  {
+    "code": "350",
+    "name": "Kim Bảng",
+    "name_en": "Kim Bang",
+    "full_name": "Thị xã Kim Bảng",
+    "full_name_en": "Kim Bang Town",
+    "type": "thị xã",
+    "province_code": "35",
+    "codename": "kim_bang"
+  },
+  {
+    "code": "351",
+    "name": "Thanh Liêm",
+    "name_en": "Thanh Liem",
+    "full_name": "Huyện Thanh Liêm",
+    "full_name_en": "Thanh Liem District",
+    "type": "huyện",
+    "province_code": "35",
+    "codename": "thanh_liem"
+  },
+  {
+    "code": "352",
+    "name": "Bình Lục",
+    "name_en": "Binh Luc",
+    "full_name": "Huyện Bình Lục",
+    "full_name_en": "Binh Luc District",
+    "type": "huyện",
+    "province_code": "35",
+    "codename": "binh_luc"
+  },
+  {
+    "code": "353",
+    "name": "Lý Nhân",
+    "name_en": "Ly Nhan",
+    "full_name": "Huyện Lý Nhân",
+    "full_name_en": "Ly Nhan District",
+    "type": "huyện",
+    "province_code": "35",
+    "codename": "ly_nhan"
+  }
+]

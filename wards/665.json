@@ -1,0 +1,92 @@
+[
+  {
+    "code": "24717",
+    "name": "Đức An",
+    "name_en": "Duc An",
+    "full_name": "Thị trấn Đức An",
+    "full_name_en": "Duc An Township",
+    "type": "thị trấn",
+    "district_code": "665",
+    "codename": "duc_an"
+  },
+  {
+    "code": "24718",
+    "name": "Đắk Môl",
+    "name_en": "Dak Mol",
+    "full_name": "Xã Đắk Môl",
+    "full_name_en": "Dak Mol Commune",
+    "type": "xã",
+    "district_code": "665",
+    "codename": "dak_mol"
+  },
+  {
+    "code": "24719",
+    "name": "Đắk Hòa",
+    "name_en": "Dak Hoa",
+    "full_name": "Xã Đắk Hòa",
+    "full_name_en": "Dak Hoa Commune",
+    "type": "xã",
+    "district_code": "665",
+    "codename": "dak_hoa"
+  },
+  {
+    "code": "24721",
+    "name": "Nam Bình",
+    "name_en": "Nam Binh",
+    "full_name": "Xã Nam Bình",
+    "full_name_en": "Nam Binh Commune",
+    "type": "xã",
+    "district_code": "665",
+    "codename": "nam_binh"
+  },
+  {
+    "code": "24722",
+    "name": "Thuận Hà",
+    "name_en": "Thuan Ha",
+    "full_name": "Xã Thuận Hà",
+    "full_name_en": "Thuan Ha Commune",
+    "type": "xã",
+    "district_code": "665",
+    "codename": "thuan_ha"
+  },
+  {
+    "code": "24724",
+    "name": "Thuận Hạnh",
+    "name_en": "Thuan Hanh",
+    "full_name": "Xã Thuận Hạnh",
+    "full_name_en": "Thuan Hanh Commune",
+    "type": "xã",
+    "district_code": "665",
+    "codename": "thuan_hanh"
+  },
+  {
+    "code": "24727",
+    "name": "Đắk N'Dung",
+    "name_en": "Dak N'Dung",
+    "full_name": "Xã Đắk N'Dung",
+    "full_name_en": "Dak N'Dung Commune",
+    "type": "xã",
+    "district_code": "665",
+    "codename": "dak_ndung"
+  },
+  {
+    "code": "24728",
+    "name": "Nâm N'Jang",
+    "name_en": "Nam N'Jang",
+    "full_name": "Xã Nâm N'Jang",
+    "full_name_en": "Nam N'Jang Commune",
+    "type": "xã",
+    "district_code": "665",
+    "codename": "nam_njang"
+  },
+  {
+    "code": "24730",
+    "name": "Trường Xuân",
+    "name_en": "Truong Xuan",
+    "full_name": "Xã Trường Xuân",
+    "full_name_en": "Truong Xuan Commune",
+    "type": "xã",
+    "district_code": "665",
+    "codename": "truong_xuan"
+  }
+]

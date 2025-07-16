@@ -1,0 +1,172 @@
+[
+  {
+    "code": "00178",
+    "name": "Cát Linh",
+    "name_en": "Cat Linh",
+    "full_name": "Phường Cát Linh",
+    "full_name_en": "Cat Linh Ward",
+    "type": "phường",
+    "district_code": "006",
+    "codename": "cat_linh"
+  },
+  {
+    "code": "00181",
+    "name": "Văn Miếu - Quốc Tử Giám",
+    "name_en": "Van Mieu - Quoc Tu Giam",
+    "full_name": "Phường Văn Miếu - Quốc Tử Giám",
+    "full_name_en": "Van Mieu - Quoc Tu Giam Ward",
+    "type": "phường",
+    "district_code": "006",
+    "codename": "van_mieu_quoc_tu_giam"
+  },
+  {
+    "code": "00187",
+    "name": "Láng Thượng",
+    "name_en": "Lang Thuong",
+    "full_name": "Phường Láng Thượng",
+    "full_name_en": "Lang Thuong Ward",
+    "type": "phường",
+    "district_code": "006",
+    "codename": "lang_thuong"
+  },
+  {
+    "code": "00190",
+    "name": "Ô Chợ Dừa",
+    "name_en": "O Cho Dua",
+    "full_name": "Phường Ô Chợ Dừa",
+    "full_name_en": "O Cho Dua Ward",
+    "type": "phường",
+    "district_code": "006",
+    "codename": "o_cho_dua"
+  },
+  {
+    "code": "00193",
+    "name": "Văn Chương",
+    "name_en": "Van Chuong",
+    "full_name": "Phường Văn Chương",
+    "full_name_en": "Van Chuong Ward",
+    "type": "phường",
+    "district_code": "006",
+    "codename": "van_chuong"
+  },
+  {
+    "code": "00196",
+    "name": "Hàng Bột",
+    "name_en": "Hang Bot",
+    "full_name": "Phường Hàng Bột",
+    "full_name_en": "Hang Bot Ward",
+    "type": "phường",
+    "district_code": "006",
+    "codename": "hang_bot"
+  },
+  {
+    "code": "00199",
+    "name": "Láng Hạ",
+    "name_en": "Lang Ha",
+    "full_name": "Phường Láng Hạ",
+    "full_name_en": "Lang Ha Ward",
+    "type": "phường",
+    "district_code": "006",
+    "codename": "lang_ha"
+  },
+  {
+    "code": "00202",
+    "name": "Khâm Thiên",
+    "name_en": "Kham Thien",
+    "full_name": "Phường Khâm Thiên",
+    "full_name_en": "Kham Thien Ward",
+    "type": "phường",
+    "district_code": "006",
+    "codename": "kham_thien"
+  },
+  {
+    "code": "00205",
+    "name": "Thổ Quan",
+    "name_en": "Tho Quan",
+    "full_name": "Phường Thổ Quan",
+    "full_name_en": "Tho Quan Ward",
+    "type": "phường",
+    "district_code": "006",
+    "codename": "tho_quan"
+  },
+  {
+    "code": "00208",
+    "name": "Nam Đồng",
+    "name_en": "Nam Dong",
+    "full_name": "Phường Nam Đồng",
+    "full_name_en": "Nam Dong Ward",
+    "type": "phường",
+    "district_code": "006",
+    "codename": "nam_dong"
+  },
+  {
+    "code": "00214",
+    "name": "Quang Trung",
+    "name_en": "Quang Trung",
+    "full_name": "Phường Quang Trung",
+    "full_name_en": "Quang Trung Ward",
+    "type": "phường",
+    "district_code": "006",
+    "codename": "quang_trung"
+  },
+  {
+    "code": "00217",
+    "name": "Trung Liệt",
+    "name_en": "Trung Liet",
+    "full_name": "Phường Trung Liệt",
+    "full_name_en": "Trung Liet Ward",
+    "type": "phường",
+    "district_code": "006",
+    "codename": "trung_liet"
+  },
+  {
+    "code": "00226",
+    "name": "Phương Liên - Trung Tự",
+    "name_en": "Phuong Lien - Trung Tu",
+    "full_name": "Phường Phương Liên - Trung Tự",
+    "full_name_en": "Phuong Lien - Trung Tu Ward",
+    "type": "phường",
+    "district_code": "006",
+    "codename": "phuong_lien_trung_tu"
+  },
+  {
+    "code": "00229",
+    "name": "Kim Liên",
+    "name_en": "Kim Lien",
+    "full_name": "Phường Kim Liên",
+    "full_name_en": "Kim Lien Ward",
+    "type": "phường",
+    "district_code": "006",
+    "codename": "kim_lien"
+  },
+  {
+    "code": "00232",
+    "name": "Phương Mai",
+    "name_en": "Phuong Mai",
+    "full_name": "Phường Phương Mai",
+    "full_name_en": "Phuong Mai Ward",
+    "type": "phường",
+    "district_code": "006",
+    "codename": "phuong_mai"
+  },
+  {
+    "code": "00235",
+    "name": "Thịnh Quang",
+    "name_en": "Thinh Quang",
+    "full_name": "Phường Thịnh Quang",
+    "full_name_en": "Thinh Quang Ward",
+    "type": "phường",
+    "district_code": "006",
+    "codename": "thinh_quang"
+  },
+  {
+    "code": "00238",
+    "name": "Khương Thượng",
+    "name_en": "Khuong Thuong",
+    "full_name": "Phường Khương Thượng",
+    "full_name_en": "Khuong Thuong Ward",
+    "type": "phường",
+    "district_code": "006",
+    "codename": "khuong_thuong"
+  }
+]

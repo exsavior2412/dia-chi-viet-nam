@@ -1,0 +1,92 @@
+[
+  {
+    "code": "164",
+    "name": "Thái Nguyên",
+    "name_en": "Thai Nguyen",
+    "full_name": "Thành phố Thái Nguyên",
+    "full_name_en": "Thai Nguyen City",
+    "type": "thành phố",
+    "province_code": "19",
+    "codename": "thai_nguyen"
+  },
+  {
+    "code": "165",
+    "name": "Sông Công",
+    "name_en": "Song Cong",
+    "full_name": "Thành phố Sông Công",
+    "full_name_en": "Song Cong City",
+    "type": "thành phố",
+    "province_code": "19",
+    "codename": "song_cong"
+  },
+  {
+    "code": "167",
+    "name": "Định Hóa",
+    "name_en": "Dinh Hoa",
+    "full_name": "Huyện Định Hóa",
+    "full_name_en": "Dinh Hoa District",
+    "type": "huyện",
+    "province_code": "19",
+    "codename": "dinh_hoa"
+  },
+  {
+    "code": "168",
+    "name": "Phú Lương",
+    "name_en": "Phu Luong",
+    "full_name": "Huyện Phú Lương",
+    "full_name_en": "Phu Luong District",
+    "type": "huyện",
+    "province_code": "19",
+    "codename": "phu_luong"
+  },
+  {
+    "code": "169",
+    "name": "Đồng Hỷ",
+    "name_en": "Dong Hy",
+    "full_name": "Huyện Đồng Hỷ",
+    "full_name_en": "Dong Hy District",
+    "type": "huyện",
+    "province_code": "19",
+    "codename": "dong_hy"
+  },
+  {
+    "code": "170",
+    "name": "Võ Nhai",
+    "name_en": "Vo Nhai",
+    "full_name": "Huyện Võ Nhai",
+    "full_name_en": "Vo Nhai District",
+    "type": "huyện",
+    "province_code": "19",
+    "codename": "vo_nhai"
+  },
+  {
+    "code": "171",
+    "name": "Đại Từ",
+    "name_en": "Dai Tu",
+    "full_name": "Huyện Đại Từ",
+    "full_name_en": "Dai Tu District",
+    "type": "huyện",
+    "province_code": "19",
+    "codename": "dai_tu"
+  },
+  {
+    "code": "172",
+    "name": "Phổ Yên",
+    "name_en": "Pho Yen",
+    "full_name": "Thành phố Phổ Yên",
+    "full_name_en": "Pho Yen City",
+    "type": "thành phố",
+    "province_code": "19",
+    "codename": "pho_yen"
+  },
+  {
+    "code": "173",
+    "name": "Phú Bình",
+    "name_en": "Phu Binh",
+    "full_name": "Huyện Phú Bình",
+    "full_name_en": "Phu Binh District",
+    "type": "huyện",
+    "province_code": "19",
+    "codename": "phu_binh"
+  }
+]

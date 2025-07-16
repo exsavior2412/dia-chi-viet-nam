@@ -1,0 +1,102 @@
+[
+  {
+    "code": "31222",
+    "name": "Trung An",
+    "name_en": "Trung An",
+    "full_name": "Xã Trung An",
+    "full_name_en": "Trung An Commune",
+    "type": "xã",
+    "district_code": "925",
+    "codename": "trung_an"
+  },
+  {
+    "code": "31225",
+    "name": "Trung Thạnh",
+    "name_en": "Trung Thanh",
+    "full_name": "Xã Trung Thạnh",
+    "full_name_en": "Trung Thanh Commune",
+    "type": "xã",
+    "district_code": "925",
+    "codename": "trung_thanh"
+  },
+  {
+    "code": "31249",
+    "name": "Thạnh Phú",
+    "name_en": "Thanh Phu",
+    "full_name": "Xã Thạnh Phú",
+    "full_name_en": "Thanh Phu Commune",
+    "type": "xã",
+    "district_code": "925",
+    "codename": "thanh_phu"
+  },
+  {
+    "code": "31255",
+    "name": "Trung Hưng",
+    "name_en": "Trung Hung",
+    "full_name": "Xã Trung Hưng",
+    "full_name_en": "Trung Hung Commune",
+    "type": "xã",
+    "district_code": "925",
+    "codename": "trung_hung"
+  },
+  {
+    "code": "31261",
+    "name": "Cờ Đỏ",
+    "name_en": "Co Do",
+    "full_name": "Thị trấn Cờ Đỏ",
+    "full_name_en": "Co Do Township",
+    "type": "thị trấn",
+    "district_code": "925",
+    "codename": "co_do"
+  },
+  {
+    "code": "31264",
+    "name": "Thới Hưng",
+    "name_en": "Thoi Hung",
+    "full_name": "Xã Thới Hưng",
+    "full_name_en": "Thoi Hung Commune",
+    "type": "xã",
+    "district_code": "925",
+    "codename": "thoi_hung"
+  },
+  {
+    "code": "31273",
+    "name": "Đông Hiệp",
+    "name_en": "Dong Hiep",
+    "full_name": "Xã Đông Hiệp",
+    "full_name_en": "Dong Hiep Commune",
+    "type": "xã",
+    "district_code": "925",
+    "codename": "dong_hiep"
+  },
+  {
+    "code": "31274",
+    "name": "Đông Thắng",
+    "name_en": "Dong Thang",
+    "full_name": "Xã Đông Thắng",
+    "full_name_en": "Dong Thang Commune",
+    "type": "xã",
+    "district_code": "925",
+    "codename": "dong_thang"
+  },
+  {
+    "code": "31276",
+    "name": "Thới Đông",
+    "name_en": "Thoi Dong",
+    "full_name": "Xã Thới Đông",
+    "full_name_en": "Thoi Dong Commune",
+    "type": "xã",
+    "district_code": "925",
+    "codename": "thoi_dong"
+  },
+  {
+    "code": "31277",
+    "name": "Thới Xuân",
+    "name_en": "Thoi Xuan",
+    "full_name": "Xã Thới Xuân",
+    "full_name_en": "Thoi Xuan Commune",
+    "type": "xã",
+    "district_code": "925",
+    "codename": "thoi_xuan"
+  }
+]

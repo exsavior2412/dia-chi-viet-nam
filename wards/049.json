@@ -1,0 +1,192 @@
+[
+  {
+    "code": "01474",
+    "name": "Quốc Toản",
+    "name_en": "Quoc Toan",
+    "full_name": "Xã Quốc Toản",
+    "full_name_en": "Quoc Toan Commune",
+    "type": "xã",
+    "district_code": "049",
+    "codename": "quoc_toan"
+  },
+  {
+    "code": "01576",
+    "name": "Quảng Uyên",
+    "name_en": "Quang Uyen",
+    "full_name": "Thị trấn Quảng Uyên",
+    "full_name_en": "Quang Uyen Township",
+    "type": "thị trấn",
+    "district_code": "049",
+    "codename": "quang_uyen"
+  },
+  {
+    "code": "01579",
+    "name": "Phi Hải",
+    "name_en": "Phi Hai",
+    "full_name": "Xã Phi Hải",
+    "full_name_en": "Phi Hai Commune",
+    "type": "xã",
+    "district_code": "049",
+    "codename": "phi_hai"
+  },
+  {
+    "code": "01582",
+    "name": "Quảng Hưng",
+    "name_en": "Quang Hung",
+    "full_name": "Xã Quảng Hưng",
+    "full_name_en": "Quang Hung Commune",
+    "type": "xã",
+    "district_code": "049",
+    "codename": "quang_hung"
+  },
+  {
+    "code": "01594",
+    "name": "Độc Lập",
+    "name_en": "Doc Lap",
+    "full_name": "Xã Độc Lập",
+    "full_name_en": "Doc Lap Commune",
+    "type": "xã",
+    "district_code": "049",
+    "codename": "doc_lap"
+  },
+  {
+    "code": "01597",
+    "name": "Cai Bộ",
+    "name_en": "Cai Bo",
+    "full_name": "Xã Cai Bộ",
+    "full_name_en": "Cai Bo Commune",
+    "type": "xã",
+    "district_code": "049",
+    "codename": "cai_bo"
+  },
+  {
+    "code": "01603",
+    "name": "Phúc Sen",
+    "name_en": "Phuc Sen",
+    "full_name": "Xã Phúc Sen",
+    "full_name_en": "Phuc Sen Commune",
+    "type": "xã",
+    "district_code": "049",
+    "codename": "phuc_sen"
+  },
+  {
+    "code": "01606",
+    "name": "Chí Thảo",
+    "name_en": "Chi Thao",
+    "full_name": "Xã Chí Thảo",
+    "full_name_en": "Chi Thao Commune",
+    "type": "xã",
+    "district_code": "049",
+    "codename": "chi_thao"
+  },
+  {
+    "code": "01609",
+    "name": "Tự Do",
+    "name_en": "Tu Do",
+    "full_name": "Xã Tự Do",
+    "full_name_en": "Tu Do Commune",
+    "type": "xã",
+    "district_code": "049",
+    "codename": "tu_do"
+  },
+  {
+    "code": "01615",
+    "name": "Hồng Quang",
+    "name_en": "Hong Quang",
+    "full_name": "Xã Hồng Quang",
+    "full_name_en": "Hong Quang Commune",
+    "type": "xã",
+    "district_code": "049",
+    "codename": "hong_quang"
+  },
+  {
+    "code": "01618",
+    "name": "Ngọc Động",
+    "name_en": "Ngoc Dong",
+    "full_name": "Xã Ngọc Động",
+    "full_name_en": "Ngoc Dong Commune",
+    "type": "xã",
+    "district_code": "049",
+    "codename": "ngoc_dong"
+  },
+  {
+    "code": "01624",
+    "name": "Hạnh Phúc",
+    "name_en": "Hanh Phuc",
+    "full_name": "Xã Hạnh Phúc",
+    "full_name_en": "Hanh Phuc Commune",
+    "type": "xã",
+    "district_code": "049",
+    "codename": "hanh_phuc"
+  },
+  {
+    "code": "01627",
+    "name": "Tà Lùng",
+    "name_en": "Ta Lung",
+    "full_name": "Thị trấn Tà Lùng",
+    "full_name_en": "Ta Lung Township",
+    "type": "thị trấn",
+    "district_code": "049",
+    "codename": "ta_lung"
+  },
+  {
+    "code": "01630",
+    "name": "Bế Văn Đàn",
+    "name_en": "Be Van Dan",
+    "full_name": "Xã Bế Văn Đàn",
+    "full_name_en": "Be Van Dan Commune",
+    "type": "xã",
+    "district_code": "049",
+    "codename": "be_van_dan"
+  },
+  {
+    "code": "01636",
+    "name": "Cách Linh",
+    "name_en": "Cach Linh",
+    "full_name": "Xã Cách Linh",
+    "full_name_en": "Cach Linh Commune",
+    "type": "xã",
+    "district_code": "049",
+    "codename": "cach_linh"
+  },
+  {
+    "code": "01639",
+    "name": "Đại Sơn",
+    "name_en": "Dai Son",
+    "full_name": "Xã Đại Sơn",
+    "full_name_en": "Dai Son Commune",
+    "type": "xã",
+    "district_code": "049",
+    "codename": "dai_son"
+  },
+  {
+    "code": "01645",
+    "name": "Tiên Thành",
+    "name_en": "Tien Thanh",
+    "full_name": "Xã Tiên Thành",
+    "full_name_en": "Tien Thanh Commune",
+    "type": "xã",
+    "district_code": "049",
+    "codename": "tien_thanh"
+  },
+  {
+    "code": "01648",
+    "name": "Hoà Thuận",
+    "name_en": "Hoa Thuan",
+    "full_name": "Thị trấn Hoà Thuận",
+    "full_name_en": "Hoa Thuan Township",
+    "type": "thị trấn",
+    "district_code": "049",
+    "codename": "hoa_thuan"
+  },
+  {
+    "code": "01651",
+    "name": "Mỹ Hưng",
+    "name_en": "My Hung",
+    "full_name": "Xã Mỹ Hưng",
+    "full_name_en": "My Hung Commune",
+    "type": "xã",
+    "district_code": "049",
+    "codename": "my_hung"
+  }
+]

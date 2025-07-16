@@ -1,0 +1,242 @@
+[
+  {
+    "code": "14215",
+    "name": "Yên Định",
+    "name_en": "Yen Dinh",
+    "full_name": "Thị trấn Yên Định",
+    "full_name_en": "Yen Dinh Township",
+    "type": "thị trấn",
+    "district_code": "366",
+    "codename": "yen_dinh"
+  },
+  {
+    "code": "14218",
+    "name": "Cồn",
+    "name_en": "Con",
+    "full_name": "Thị trấn Cồn",
+    "full_name_en": "Con Township",
+    "type": "thị trấn",
+    "district_code": "366",
+    "codename": "con"
+  },
+  {
+    "code": "14221",
+    "name": "Thịnh Long",
+    "name_en": "Thinh Long",
+    "full_name": "Thị trấn Thịnh Long",
+    "full_name_en": "Thinh Long Township",
+    "type": "thị trấn",
+    "district_code": "366",
+    "codename": "thinh_long"
+  },
+  {
+    "code": "14224",
+    "name": "Hải Nam",
+    "name_en": "Hai Nam",
+    "full_name": "Xã Hải Nam",
+    "full_name_en": "Hai Nam Commune",
+    "type": "xã",
+    "district_code": "366",
+    "codename": "hai_nam"
+  },
+  {
+    "code": "14227",
+    "name": "Hải Trung",
+    "name_en": "Hai Trung",
+    "full_name": "Xã Hải Trung",
+    "full_name_en": "Hai Trung Commune",
+    "type": "xã",
+    "district_code": "366",
+    "codename": "hai_trung"
+  },
+  {
+    "code": "14233",
+    "name": "Hải Minh",
+    "name_en": "Hai Minh",
+    "full_name": "Xã Hải Minh",
+    "full_name_en": "Hai Minh Commune",
+    "type": "xã",
+    "district_code": "366",
+    "codename": "hai_minh"
+  },
+  {
+    "code": "14236",
+    "name": "Hải Anh",
+    "name_en": "Hai Anh",
+    "full_name": "Xã Hải Anh",
+    "full_name_en": "Hai Anh Commune",
+    "type": "xã",
+    "district_code": "366",
+    "codename": "hai_anh"
+  },
+  {
+    "code": "14248",
+    "name": "Hải Hưng",
+    "name_en": "Hai Hung",
+    "full_name": "Xã Hải Hưng",
+    "full_name_en": "Hai Hung Commune",
+    "type": "xã",
+    "district_code": "366",
+    "codename": "hai_hung"
+  },
+  {
+    "code": "14254",
+    "name": "Hải Long",
+    "name_en": "Hai Long",
+    "full_name": "Xã Hải Long",
+    "full_name_en": "Hai Long Commune",
+    "type": "xã",
+    "district_code": "366",
+    "codename": "hai_long"
+  },
+  {
+    "code": "14260",
+    "name": "Hải Đường",
+    "name_en": "Hai Duong",
+    "full_name": "Xã Hải Đường",
+    "full_name_en": "Hai Duong Commune",
+    "type": "xã",
+    "district_code": "366",
+    "codename": "hai_duong"
+  },
+  {
+    "code": "14263",
+    "name": "Hải Lộc",
+    "name_en": "Hai Loc",
+    "full_name": "Xã Hải Lộc",
+    "full_name_en": "Hai Loc Commune",
+    "type": "xã",
+    "district_code": "366",
+    "codename": "hai_loc"
+  },
+  {
+    "code": "14266",
+    "name": "Hải Quang",
+    "name_en": "Hai Quang",
+    "full_name": "Xã Hải Quang",
+    "full_name_en": "Hai Quang Commune",
+    "type": "xã",
+    "district_code": "366",
+    "codename": "hai_quang"
+  },
+  {
+    "code": "14269",
+    "name": "Hải Đông",
+    "name_en": "Hai Dong",
+    "full_name": "Xã Hải Đông",
+    "full_name_en": "Hai Dong Commune",
+    "type": "xã",
+    "district_code": "366",
+    "codename": "hai_dong"
+  },
+  {
+    "code": "14272",
+    "name": "Hải Sơn",
+    "name_en": "Hai Son",
+    "full_name": "Xã Hải Sơn",
+    "full_name_en": "Hai Son Commune",
+    "type": "xã",
+    "district_code": "366",
+    "codename": "hai_son"
+  },
+  {
+    "code": "14275",
+    "name": "Hải Tân",
+    "name_en": "Hai Tan",
+    "full_name": "Xã Hải Tân",
+    "full_name_en": "Hai Tan Commune",
+    "type": "xã",
+    "district_code": "366",
+    "codename": "hai_tan"
+  },
+  {
+    "code": "14281",
+    "name": "Hải Phong",
+    "name_en": "Hai Phong",
+    "full_name": "Xã Hải Phong",
+    "full_name_en": "Hai Phong Commune",
+    "type": "xã",
+    "district_code": "366",
+    "codename": "hai_phong"
+  },
+  {
+    "code": "14284",
+    "name": "Hải An",
+    "name_en": "Hai An",
+    "full_name": "Xã Hải An",
+    "full_name_en": "Hai An Commune",
+    "type": "xã",
+    "district_code": "366",
+    "codename": "hai_an"
+  },
+  {
+    "code": "14287",
+    "name": "Hải Tây",
+    "name_en": "Hai Tay",
+    "full_name": "Xã Hải Tây",
+    "full_name_en": "Hai Tay Commune",
+    "type": "xã",
+    "district_code": "366",
+    "codename": "hai_tay"
+  },
+  {
+    "code": "14293",
+    "name": "Hải Phú",
+    "name_en": "Hai Phu",
+    "full_name": "Xã Hải Phú",
+    "full_name_en": "Hai Phu Commune",
+    "type": "xã",
+    "district_code": "366",
+    "codename": "hai_phu"
+  },
+  {
+    "code": "14296",
+    "name": "Hải Giang",
+    "name_en": "Hai Giang",
+    "full_name": "Xã Hải Giang",
+    "full_name_en": "Hai Giang Commune",
+    "type": "xã",
+    "district_code": "366",
+    "codename": "hai_giang"
+  },
+  {
+    "code": "14302",
+    "name": "Hải Ninh",
+    "name_en": "Hai Ninh",
+    "full_name": "Xã Hải Ninh",
+    "full_name_en": "Hai Ninh Commune",
+    "type": "xã",
+    "district_code": "366",
+    "codename": "hai_ninh"
+  },
+  {
+    "code": "14308",
+    "name": "Hải Xuân",
+    "name_en": "Hai Xuan",
+    "full_name": "Xã Hải Xuân",
+    "full_name_en": "Hai Xuan Commune",
+    "type": "xã",
+    "district_code": "366",
+    "codename": "hai_xuan"
+  },
+  {
+    "code": "14311",
+    "name": "Hải Châu",
+    "name_en": "Hai Chau",
+    "full_name": "Xã Hải Châu",
+    "full_name_en": "Hai Chau Commune",
+    "type": "xã",
+    "district_code": "366",
+    "codename": "hai_chau"
+  },
+  {
+    "code": "14317",
+    "name": "Hải Hòa",
+    "name_en": "Hai Hoa",
+    "full_name": "Xã Hải Hòa",
+    "full_name_en": "Hai Hoa Commune",
+    "type": "xã",
+    "district_code": "366",
+    "codename": "hai_hoa"
+  }
+]

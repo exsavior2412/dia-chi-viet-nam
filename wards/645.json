@@ -1,0 +1,122 @@
+[
+  {
+    "code": "24181",
+    "name": "Ea Drăng",
+    "name_en": "Ea Drang",
+    "full_name": "Thị trấn Ea Drăng",
+    "full_name_en": "Ea Drang Township",
+    "type": "thị trấn",
+    "district_code": "645",
+    "codename": "ea_drang"
+  },
+  {
+    "code": "24184",
+    "name": "Ea H'leo",
+    "name_en": "Ea H'leo",
+    "full_name": "Xã Ea H'leo",
+    "full_name_en": "Ea H'leo Commune",
+    "type": "xã",
+    "district_code": "645",
+    "codename": "ea_hleo"
+  },
+  {
+    "code": "24187",
+    "name": "Ea Sol",
+    "name_en": "Ea Sol",
+    "full_name": "Xã Ea Sol",
+    "full_name_en": "Ea Sol Commune",
+    "type": "xã",
+    "district_code": "645",
+    "codename": "ea_sol"
+  },
+  {
+    "code": "24190",
+    "name": "Ea Ral",
+    "name_en": "Ea Ral",
+    "full_name": "Xã Ea Ral",
+    "full_name_en": "Ea Ral Commune",
+    "type": "xã",
+    "district_code": "645",
+    "codename": "ea_ral"
+  },
+  {
+    "code": "24193",
+    "name": "Ea Wy",
+    "name_en": "Ea Wy",
+    "full_name": "Xã Ea Wy",
+    "full_name_en": "Ea Wy Commune",
+    "type": "xã",
+    "district_code": "645",
+    "codename": "ea_wy"
+  },
+  {
+    "code": "24194",
+    "name": "Cư A Mung",
+    "name_en": "Cu A Mung",
+    "full_name": "Xã Cư A Mung",
+    "full_name_en": "Cu A Mung Commune",
+    "type": "xã",
+    "district_code": "645",
+    "codename": "cu_a_mung"
+  },
+  {
+    "code": "24196",
+    "name": "Cư Mốt",
+    "name_en": "Cu Mot",
+    "full_name": "Xã Cư Mốt",
+    "full_name_en": "Cu Mot Commune",
+    "type": "xã",
+    "district_code": "645",
+    "codename": "cu_mot"
+  },
+  {
+    "code": "24199",
+    "name": "Ea Hiao",
+    "name_en": "Ea Hiao",
+    "full_name": "Xã Ea Hiao",
+    "full_name_en": "Ea Hiao Commune",
+    "type": "xã",
+    "district_code": "645",
+    "codename": "ea_hiao"
+  },
+  {
+    "code": "24202",
+    "name": "Ea Khal",
+    "name_en": "Ea Khal",
+    "full_name": "Xã Ea Khal",
+    "full_name_en": "Ea Khal Commune",
+    "type": "xã",
+    "district_code": "645",
+    "codename": "ea_khal"
+  },
+  {
+    "code": "24205",
+    "name": "Dliê Yang",
+    "name_en": "Dlie Yang",
+    "full_name": "Xã Dliê Yang",
+    "full_name_en": "Dlie Yang Commune",
+    "type": "xã",
+    "district_code": "645",
+    "codename": "dlie_yang"
+  },
+  {
+    "code": "24207",
+    "name": "Ea Tir",
+    "name_en": "Ea Tir",
+    "full_name": "Xã Ea Tir",
+    "full_name_en": "Ea Tir Commune",
+    "type": "xã",
+    "district_code": "645",
+    "codename": "ea_tir"
+  },
+  {
+    "code": "24208",
+    "name": "Ea Nam",
+    "name_en": "Ea Nam",
+    "full_name": "Xã Ea Nam",
+    "full_name_en": "Ea Nam Commune",
+    "type": "xã",
+    "district_code": "645",
+    "codename": "ea_nam"
+  }
+]

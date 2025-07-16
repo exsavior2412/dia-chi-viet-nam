@@ -1,0 +1,72 @@
+[
+  {
+    "code": "24307",
+    "name": "Cư Né",
+    "name_en": "Cu Ne",
+    "full_name": "Xã Cư Né",
+    "full_name_en": "Cu Ne Commune",
+    "type": "xã",
+    "district_code": "649",
+    "codename": "cu_ne"
+  },
+  {
+    "code": "24310",
+    "name": "Chư KBô",
+    "name_en": "Chu KBo",
+    "full_name": "Xã Chư KBô",
+    "full_name_en": "Chu KBo Commune",
+    "type": "xã",
+    "district_code": "649",
+    "codename": "chu_kbo"
+  },
+  {
+    "code": "24313",
+    "name": "Cư Pơng",
+    "name_en": "Cu Pong",
+    "full_name": "Xã Cư Pơng",
+    "full_name_en": "Cu Pong Commune",
+    "type": "xã",
+    "district_code": "649",
+    "codename": "cu_pong"
+  },
+  {
+    "code": "24314",
+    "name": "Ea Sin",
+    "name_en": "Ea Sin",
+    "full_name": "Xã Ea Sin",
+    "full_name_en": "Ea Sin Commune",
+    "type": "xã",
+    "district_code": "649",
+    "codename": "ea_sin"
+  },
+  {
+    "code": "24316",
+    "name": "Pơng Drang",
+    "name_en": "Pong Drang",
+    "full_name": "Thị trấn Pơng Drang",
+    "full_name_en": "Pong Drang Township",
+    "type": "thị trấn",
+    "district_code": "649",
+    "codename": "pong_drang"
+  },
+  {
+    "code": "24317",
+    "name": "Tân Lập",
+    "name_en": "Tan Lap",
+    "full_name": "Xã Tân Lập",
+    "full_name_en": "Tan Lap Commune",
+    "type": "xã",
+    "district_code": "649",
+    "codename": "tan_lap"
+  },
+  {
+    "code": "24319",
+    "name": "Ea Ngai",
+    "name_en": "Ea Ngai",
+    "full_name": "Xã Ea Ngai",
+    "full_name_en": "Ea Ngai Commune",
+    "type": "xã",
+    "district_code": "649",
+    "codename": "ea_ngai"
+  }
+]

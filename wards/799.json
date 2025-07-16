@@ -1,0 +1,132 @@
+[
+  {
+    "code": "27826",
+    "name": "Tân Thạnh",
+    "name_en": "Tan Thanh",
+    "full_name": "Thị trấn Tân Thạnh",
+    "full_name_en": "Tan Thanh Township",
+    "type": "thị trấn",
+    "district_code": "799",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "27829",
+    "name": "Bắc Hòa",
+    "name_en": "Bac Hoa",
+    "full_name": "Xã Bắc Hòa",
+    "full_name_en": "Bac Hoa Commune",
+    "type": "xã",
+    "district_code": "799",
+    "codename": "bac_hoa"
+  },
+  {
+    "code": "27832",
+    "name": "Hậu Thạnh Tây",
+    "name_en": "Hau Thanh Tay",
+    "full_name": "Xã Hậu Thạnh Tây",
+    "full_name_en": "Hau Thanh Tay Commune",
+    "type": "xã",
+    "district_code": "799",
+    "codename": "hau_thanh_tay"
+  },
+  {
+    "code": "27835",
+    "name": "Nhơn Hòa Lập",
+    "name_en": "Nhon Hoa Lap",
+    "full_name": "Xã Nhơn Hòa Lập",
+    "full_name_en": "Nhon Hoa Lap Commune",
+    "type": "xã",
+    "district_code": "799",
+    "codename": "nhon_hoa_lap"
+  },
+  {
+    "code": "27838",
+    "name": "Tân Lập",
+    "name_en": "Tan Lap",
+    "full_name": "Xã Tân Lập",
+    "full_name_en": "Tan Lap Commune",
+    "type": "xã",
+    "district_code": "799",
+    "codename": "tan_lap"
+  },
+  {
+    "code": "27841",
+    "name": "Hậu Thạnh Đông",
+    "name_en": "Hau Thanh Dong",
+    "full_name": "Xã Hậu Thạnh Đông",
+    "full_name_en": "Hau Thanh Dong Commune",
+    "type": "xã",
+    "district_code": "799",
+    "codename": "hau_thanh_dong"
+  },
+  {
+    "code": "27844",
+    "name": "Nhơn Hoà",
+    "name_en": "Nhon Hoa",
+    "full_name": "Xã Nhơn Hoà",
+    "full_name_en": "Nhon Hoa Commune",
+    "type": "xã",
+    "district_code": "799",
+    "codename": "nhon_hoa"
+  },
+  {
+    "code": "27847",
+    "name": "Kiến Bình",
+    "name_en": "Kien Binh",
+    "full_name": "Xã Kiến Bình",
+    "full_name_en": "Kien Binh Commune",
+    "type": "xã",
+    "district_code": "799",
+    "codename": "kien_binh"
+  },
+  {
+    "code": "27850",
+    "name": "Tân Thành",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thành",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "799",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "27853",
+    "name": "Tân Bình",
+    "name_en": "Tan Binh",
+    "full_name": "Xã Tân Bình",
+    "full_name_en": "Tan Binh Commune",
+    "type": "xã",
+    "district_code": "799",
+    "codename": "tan_binh"
+  },
+  {
+    "code": "27856",
+    "name": "Tân Ninh",
+    "name_en": "Tan Ninh",
+    "full_name": "Xã Tân Ninh",
+    "full_name_en": "Tan Ninh Commune",
+    "type": "xã",
+    "district_code": "799",
+    "codename": "tan_ninh"
+  },
+  {
+    "code": "27859",
+    "name": "Nhơn Ninh",
+    "name_en": "Nhon Ninh",
+    "full_name": "Xã Nhơn Ninh",
+    "full_name_en": "Nhon Ninh Commune",
+    "type": "xã",
+    "district_code": "799",
+    "codename": "nhon_ninh"
+  },
+  {
+    "code": "27862",
+    "name": "Tân Hòa",
+    "name_en": "Tan Hoa",
+    "full_name": "Xã Tân Hòa",
+    "full_name_en": "Tan Hoa Commune",
+    "type": "xã",
+    "district_code": "799",
+    "codename": "tan_hoa"
+  }
+]

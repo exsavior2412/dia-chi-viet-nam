@@ -1,0 +1,122 @@
+[
+  {
+    "code": "28756",
+    "name": "Phú Khương",
+    "name_en": "Phu Khuong",
+    "full_name": "Phường Phú Khương",
+    "full_name_en": "Phu Khuong Ward",
+    "type": "phường",
+    "district_code": "829",
+    "codename": "phu_khuong"
+  },
+  {
+    "code": "28757",
+    "name": "Phú Tân",
+    "name_en": "Phu Tan",
+    "full_name": "Phường Phú Tân",
+    "full_name_en": "Phu Tan Ward",
+    "type": "phường",
+    "district_code": "829",
+    "codename": "phu_tan"
+  },
+  {
+    "code": "28759",
+    "name": "8",
+    "name_en": "8",
+    "full_name": "Phường 8",
+    "full_name_en": "Ward 8",
+    "type": "phường",
+    "district_code": "829",
+    "codename": "8"
+  },
+  {
+    "code": "28762",
+    "name": "6",
+    "name_en": "6",
+    "full_name": "Phường 6",
+    "full_name_en": "Ward 6",
+    "type": "phường",
+    "district_code": "829",
+    "codename": "6"
+  },
+  {
+    "code": "28777",
+    "name": "An Hội",
+    "name_en": "An Hoi",
+    "full_name": "Phường An Hội",
+    "full_name_en": "An Hoi Ward",
+    "type": "phường",
+    "district_code": "829",
+    "codename": "an_hoi"
+  },
+  {
+    "code": "28780",
+    "name": "7",
+    "name_en": "7",
+    "full_name": "Phường 7",
+    "full_name_en": "Ward 7",
+    "type": "phường",
+    "district_code": "829",
+    "codename": "7"
+  },
+  {
+    "code": "28783",
+    "name": "Sơn Đông",
+    "name_en": "Son Dong",
+    "full_name": "Xã Sơn Đông",
+    "full_name_en": "Son Dong Commune",
+    "type": "xã",
+    "district_code": "829",
+    "codename": "son_dong"
+  },
+  {
+    "code": "28786",
+    "name": "Phú Hưng",
+    "name_en": "Phu Hung",
+    "full_name": "Xã Phú Hưng",
+    "full_name_en": "Phu Hung Commune",
+    "type": "xã",
+    "district_code": "829",
+    "codename": "phu_hung"
+  },
+  {
+    "code": "28789",
+    "name": "Bình Phú",
+    "name_en": "Binh Phu",
+    "full_name": "Xã Bình Phú",
+    "full_name_en": "Binh Phu Commune",
+    "type": "xã",
+    "district_code": "829",
+    "codename": "binh_phu"
+  },
+  {
+    "code": "28792",
+    "name": "Mỹ Thạnh An",
+    "name_en": "My Thanh An",
+    "full_name": "Xã Mỹ Thạnh An",
+    "full_name_en": "My Thanh An Commune",
+    "type": "xã",
+    "district_code": "829",
+    "codename": "my_thanh_an"
+  },
+  {
+    "code": "28795",
+    "name": "Nhơn Thạnh",
+    "name_en": "Nhon Thanh",
+    "full_name": "Xã Nhơn Thạnh",
+    "full_name_en": "Nhon Thanh Commune",
+    "type": "xã",
+    "district_code": "829",
+    "codename": "nhon_thanh"
+  },
+  {
+    "code": "28798",
+    "name": "Phú Nhuận",
+    "name_en": "Phu Nhuan",
+    "full_name": "Xã Phú Nhuận",
+    "full_name_en": "Phu Nhuan Commune",
+    "type": "xã",
+    "district_code": "829",
+    "codename": "phu_nhuan"
+  }
+]

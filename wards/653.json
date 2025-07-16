@@ -1,0 +1,132 @@
+[
+  {
+    "code": "24448",
+    "name": "Krông Kmar",
+    "name_en": "Krong Kmar",
+    "full_name": "Thị trấn Krông Kmar",
+    "full_name_en": "Krong Kmar Township",
+    "type": "thị trấn",
+    "district_code": "653",
+    "codename": "krong_kmar"
+  },
+  {
+    "code": "24451",
+    "name": "Dang Kang",
+    "name_en": "Dang Kang",
+    "full_name": "Xã Dang Kang",
+    "full_name_en": "Dang Kang Commune",
+    "type": "xã",
+    "district_code": "653",
+    "codename": "dang_kang"
+  },
+  {
+    "code": "24454",
+    "name": "Cư KTy",
+    "name_en": "Cu KTy",
+    "full_name": "Xã Cư KTy",
+    "full_name_en": "Cu KTy Commune",
+    "type": "xã",
+    "district_code": "653",
+    "codename": "cu_kty"
+  },
+  {
+    "code": "24457",
+    "name": "Hòa Thành",
+    "name_en": "Hoa Thanh",
+    "full_name": "Xã Hòa Thành",
+    "full_name_en": "Hoa Thanh Commune",
+    "type": "xã",
+    "district_code": "653",
+    "codename": "hoa_thanh"
+  },
+  {
+    "code": "24463",
+    "name": "Hòa Phong",
+    "name_en": "Hoa Phong",
+    "full_name": "Xã Hòa Phong",
+    "full_name_en": "Hoa Phong Commune",
+    "type": "xã",
+    "district_code": "653",
+    "codename": "hoa_phong"
+  },
+  {
+    "code": "24466",
+    "name": "Hòa Lễ",
+    "name_en": "Hoa Le",
+    "full_name": "Xã Hòa Lễ",
+    "full_name_en": "Hoa Le Commune",
+    "type": "xã",
+    "district_code": "653",
+    "codename": "hoa_le"
+  },
+  {
+    "code": "24469",
+    "name": "Yang Reh",
+    "name_en": "Yang Reh",
+    "full_name": "Xã Yang Reh",
+    "full_name_en": "Yang Reh Commune",
+    "type": "xã",
+    "district_code": "653",
+    "codename": "yang_reh"
+  },
+  {
+    "code": "24472",
+    "name": "Ea Trul",
+    "name_en": "Ea Trul",
+    "full_name": "Xã Ea Trul",
+    "full_name_en": "Ea Trul Commune",
+    "type": "xã",
+    "district_code": "653",
+    "codename": "ea_trul"
+  },
+  {
+    "code": "24475",
+    "name": "Khuê Ngọc Điền",
+    "name_en": "Khue Ngoc Dien",
+    "full_name": "Xã Khuê Ngọc Điền",
+    "full_name_en": "Khue Ngoc Dien Commune",
+    "type": "xã",
+    "district_code": "653",
+    "codename": "khue_ngoc_dien"
+  },
+  {
+    "code": "24478",
+    "name": "Cư Pui",
+    "name_en": "Cu Pui",
+    "full_name": "Xã Cư Pui",
+    "full_name_en": "Cu Pui Commune",
+    "type": "xã",
+    "district_code": "653",
+    "codename": "cu_pui"
+  },
+  {
+    "code": "24481",
+    "name": "Hòa Sơn",
+    "name_en": "Hoa Son",
+    "full_name": "Xã Hòa Sơn",
+    "full_name_en": "Hoa Son Commune",
+    "type": "xã",
+    "district_code": "653",
+    "codename": "hoa_son"
+  },
+  {
+    "code": "24484",
+    "name": "Cư Drăm",
+    "name_en": "Cu Dram",
+    "full_name": "Xã Cư Drăm",
+    "full_name_en": "Cu Dram Commune",
+    "type": "xã",
+    "district_code": "653",
+    "codename": "cu_dram"
+  },
+  {
+    "code": "24487",
+    "name": "Yang Mao",
+    "name_en": "Yang Mao",
+    "full_name": "Xã Yang Mao",
+    "full_name_en": "Yang Mao Commune",
+    "type": "xã",
+    "district_code": "653",
+    "codename": "yang_mao"
+  }
+]

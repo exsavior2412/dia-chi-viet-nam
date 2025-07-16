@@ -1,0 +1,82 @@
+[
+  {
+    "code": "450",
+    "name": "Đồng Hới",
+    "name_en": "Dong Hoi",
+    "full_name": "Thành phố Đồng Hới",
+    "full_name_en": "Dong Hoi City",
+    "type": "thành phố",
+    "province_code": "44",
+    "codename": "dong_hoi"
+  },
+  {
+    "code": "452",
+    "name": "Minh Hóa",
+    "name_en": "Minh Hoa",
+    "full_name": "Huyện Minh Hóa",
+    "full_name_en": "Minh Hoa District",
+    "type": "huyện",
+    "province_code": "44",
+    "codename": "minh_hoa"
+  },
+  {
+    "code": "453",
+    "name": "Tuyên Hóa",
+    "name_en": "Tuyen Hoa",
+    "full_name": "Huyện Tuyên Hóa",
+    "full_name_en": "Tuyen Hoa District",
+    "type": "huyện",
+    "province_code": "44",
+    "codename": "tuyen_hoa"
+  },
+  {
+    "code": "454",
+    "name": "Quảng Trạch",
+    "name_en": "Quang Trach",
+    "full_name": "Huyện Quảng Trạch",
+    "full_name_en": "Quang Trach District",
+    "type": "huyện",
+    "province_code": "44",
+    "codename": "quang_trach"
+  },
+  {
+    "code": "455",
+    "name": "Bố Trạch",
+    "name_en": "Bo Trach",
+    "full_name": "Huyện Bố Trạch",
+    "full_name_en": "Bo Trach District",
+    "type": "huyện",
+    "province_code": "44",
+    "codename": "bo_trach"
+  },
+  {
+    "code": "456",
+    "name": "Quảng Ninh",
+    "name_en": "Quang Ninh",
+    "full_name": "Huyện Quảng Ninh",
+    "full_name_en": "Quang Ninh District",
+    "type": "huyện",
+    "province_code": "44",
+    "codename": "quang_ninh"
+  },
+  {
+    "code": "457",
+    "name": "Lệ Thủy",
+    "name_en": "Le Thuy",
+    "full_name": "Huyện Lệ Thủy",
+    "full_name_en": "Le Thuy District",
+    "type": "huyện",
+    "province_code": "44",
+    "codename": "le_thuy"
+  },
+  {
+    "code": "458",
+    "name": "Ba Đồn",
+    "name_en": "Ba Don",
+    "full_name": "Thị xã Ba Đồn",
+    "full_name_en": "Ba Don Town",
+    "type": "thị xã",
+    "province_code": "44",
+    "codename": "ba_don"
+  }
+]

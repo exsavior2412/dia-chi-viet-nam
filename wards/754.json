@@ -1,0 +1,102 @@
+[
+  {
+    "code": "26704",
+    "name": "Phú Mỹ",
+    "name_en": "Phu My",
+    "full_name": "Phường Phú Mỹ",
+    "full_name_en": "Phu My Ward",
+    "type": "phường",
+    "district_code": "754",
+    "codename": "phu_my"
+  },
+  {
+    "code": "26707",
+    "name": "Tân Hoà",
+    "name_en": "Tan Hoa",
+    "full_name": "Phường Tân Hoà",
+    "full_name_en": "Tan Hoa Ward",
+    "type": "phường",
+    "district_code": "754",
+    "codename": "tan_hoa"
+  },
+  {
+    "code": "26710",
+    "name": "Tân Hải",
+    "name_en": "Tan Hai",
+    "full_name": "Phường Tân Hải",
+    "full_name_en": "Tan Hai Ward",
+    "type": "phường",
+    "district_code": "754",
+    "codename": "tan_hai"
+  },
+  {
+    "code": "26713",
+    "name": "Phước Hoà",
+    "name_en": "Phuoc Hoa",
+    "full_name": "Phường Phước Hoà",
+    "full_name_en": "Phuoc Hoa Ward",
+    "type": "phường",
+    "district_code": "754",
+    "codename": "phuoc_hoa"
+  },
+  {
+    "code": "26716",
+    "name": "Tân Phước",
+    "name_en": "Tan Phuoc",
+    "full_name": "Phường Tân Phước",
+    "full_name_en": "Tan Phuoc Ward",
+    "type": "phường",
+    "district_code": "754",
+    "codename": "tan_phuoc"
+  },
+  {
+    "code": "26719",
+    "name": "Mỹ Xuân",
+    "name_en": "My Xuan",
+    "full_name": "Phường Mỹ Xuân",
+    "full_name_en": "My Xuan Ward",
+    "type": "phường",
+    "district_code": "754",
+    "codename": "my_xuan"
+  },
+  {
+    "code": "26722",
+    "name": "Sông Xoài",
+    "name_en": "Song Xoai",
+    "full_name": "Xã Sông Xoài",
+    "full_name_en": "Song Xoai Commune",
+    "type": "xã",
+    "district_code": "754",
+    "codename": "song_xoai"
+  },
+  {
+    "code": "26725",
+    "name": "Hắc Dịch",
+    "name_en": "Hac Dich",
+    "full_name": "Phường Hắc Dịch",
+    "full_name_en": "Hac Dich Ward",
+    "type": "phường",
+    "district_code": "754",
+    "codename": "hac_dich"
+  },
+  {
+    "code": "26728",
+    "name": "Châu Pha",
+    "name_en": "Chau Pha",
+    "full_name": "Xã Châu Pha",
+    "full_name_en": "Chau Pha Commune",
+    "type": "xã",
+    "district_code": "754",
+    "codename": "chau_pha"
+  },
+  {
+    "code": "26731",
+    "name": "Tóc Tiên",
+    "name_en": "Toc Tien",
+    "full_name": "Xã Tóc Tiên",
+    "full_name_en": "Toc Tien Commune",
+    "type": "xã",
+    "district_code": "754",
+    "codename": "toc_tien"
+  }
+]

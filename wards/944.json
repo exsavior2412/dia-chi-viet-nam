@@ -1,0 +1,92 @@
+[
+  {
+    "code": "31567",
+    "name": "Huỳnh Hữu Nghĩa",
+    "name_en": "Huynh Huu Nghia",
+    "full_name": "Thị trấn Huỳnh Hữu Nghĩa",
+    "full_name_en": "Huynh Huu Nghia Township",
+    "type": "thị trấn",
+    "district_code": "944",
+    "codename": "huynh_huu_nghia"
+  },
+  {
+    "code": "31579",
+    "name": "Long Hưng",
+    "name_en": "Long Hung",
+    "full_name": "Xã Long Hưng",
+    "full_name_en": "Long Hung Commune",
+    "type": "xã",
+    "district_code": "944",
+    "codename": "long_hung"
+  },
+  {
+    "code": "31588",
+    "name": "Hưng Phú",
+    "name_en": "Hung Phu",
+    "full_name": "Xã Hưng Phú",
+    "full_name_en": "Hung Phu Commune",
+    "type": "xã",
+    "district_code": "944",
+    "codename": "hung_phu"
+  },
+  {
+    "code": "31591",
+    "name": "Mỹ Hương",
+    "name_en": "My Huong",
+    "full_name": "Xã Mỹ Hương",
+    "full_name_en": "My Huong Commune",
+    "type": "xã",
+    "district_code": "944",
+    "codename": "my_huong"
+  },
+  {
+    "code": "31597",
+    "name": "Mỹ Tú",
+    "name_en": "My Tu",
+    "full_name": "Xã Mỹ Tú",
+    "full_name_en": "My Tu Commune",
+    "type": "xã",
+    "district_code": "944",
+    "codename": "my_tu"
+  },
+  {
+    "code": "31603",
+    "name": "Mỹ Phước",
+    "name_en": "My Phuoc",
+    "full_name": "Xã Mỹ Phước",
+    "full_name_en": "My Phuoc Commune",
+    "type": "xã",
+    "district_code": "944",
+    "codename": "my_phuoc"
+  },
+  {
+    "code": "31606",
+    "name": "Thuận Hưng",
+    "name_en": "Thuan Hung",
+    "full_name": "Xã Thuận Hưng",
+    "full_name_en": "Thuan Hung Commune",
+    "type": "xã",
+    "district_code": "944",
+    "codename": "thuan_hung"
+  },
+  {
+    "code": "31609",
+    "name": "Mỹ Thuận",
+    "name_en": "My Thuan",
+    "full_name": "Xã Mỹ Thuận",
+    "full_name_en": "My Thuan Commune",
+    "type": "xã",
+    "district_code": "944",
+    "codename": "my_thuan"
+  },
+  {
+    "code": "31612",
+    "name": "Phú Mỹ",
+    "name_en": "Phu My",
+    "full_name": "Xã Phú Mỹ",
+    "full_name_en": "Phu My Commune",
+    "type": "xã",
+    "district_code": "944",
+    "codename": "phu_my"
+  }
+]

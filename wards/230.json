@@ -1,0 +1,142 @@
+[
+  {
+    "code": "07969",
+    "name": "Đoan Hùng",
+    "name_en": "Doan Hung",
+    "full_name": "Thị trấn Đoan Hùng",
+    "full_name_en": "Doan Hung Township",
+    "type": "thị trấn",
+    "district_code": "230",
+    "codename": "doan_hung"
+  },
+  {
+    "code": "07975",
+    "name": "Hùng Xuyên",
+    "name_en": "Hung Xuyen",
+    "full_name": "Xã Hùng Xuyên",
+    "full_name_en": "Hung Xuyen Commune",
+    "type": "xã",
+    "district_code": "230",
+    "codename": "hung_xuyen"
+  },
+  {
+    "code": "07981",
+    "name": "Bằng Luân",
+    "name_en": "Bang Luan",
+    "full_name": "Xã Bằng Luân",
+    "full_name_en": "Bang Luan Commune",
+    "type": "xã",
+    "district_code": "230",
+    "codename": "bang_luan"
+  },
+  {
+    "code": "07987",
+    "name": "Phú Lâm",
+    "name_en": "Phu Lam",
+    "full_name": "Xã Phú Lâm",
+    "full_name_en": "Phu Lam Commune",
+    "type": "xã",
+    "district_code": "230",
+    "codename": "phu_lam"
+  },
+  {
+    "code": "07996",
+    "name": "Bằng Doãn",
+    "name_en": "Bang Doan",
+    "full_name": "Xã Bằng Doãn",
+    "full_name_en": "Bang Doan Commune",
+    "type": "xã",
+    "district_code": "230",
+    "codename": "bang_doan"
+  },
+  {
+    "code": "07999",
+    "name": "Chí Đám",
+    "name_en": "Chi Dam",
+    "full_name": "Xã Chí Đám",
+    "full_name_en": "Chi Dam Commune",
+    "type": "xã",
+    "district_code": "230",
+    "codename": "chi_dam"
+  },
+  {
+    "code": "08005",
+    "name": "Phúc Lai",
+    "name_en": "Phuc Lai",
+    "full_name": "Xã Phúc Lai",
+    "full_name_en": "Phuc Lai Commune",
+    "type": "xã",
+    "district_code": "230",
+    "codename": "phuc_lai"
+  },
+  {
+    "code": "08008",
+    "name": "Ngọc Quan",
+    "name_en": "Ngoc Quan",
+    "full_name": "Xã Ngọc Quan",
+    "full_name_en": "Ngoc Quan Commune",
+    "type": "xã",
+    "district_code": "230",
+    "codename": "ngoc_quan"
+  },
+  {
+    "code": "08014",
+    "name": "Hợp Nhất",
+    "name_en": "Hop Nhat",
+    "full_name": "Xã Hợp Nhất",
+    "full_name_en": "Hop Nhat Commune",
+    "type": "xã",
+    "district_code": "230",
+    "codename": "hop_nhat"
+  },
+  {
+    "code": "08023",
+    "name": "Tây Cốc",
+    "name_en": "Tay Coc",
+    "full_name": "Xã Tây Cốc",
+    "full_name_en": "Tay Coc Commune",
+    "type": "xã",
+    "district_code": "230",
+    "codename": "tay_coc"
+  },
+  {
+    "code": "08035",
+    "name": "Hùng Long",
+    "name_en": "Hung Long",
+    "full_name": "Xã Hùng Long",
+    "full_name_en": "Hung Long Commune",
+    "type": "xã",
+    "district_code": "230",
+    "codename": "hung_long"
+  },
+  {
+    "code": "08038",
+    "name": "Yên Kiện",
+    "name_en": "Yen Kien",
+    "full_name": "Xã Yên Kiện",
+    "full_name_en": "Yen Kien Commune",
+    "type": "xã",
+    "district_code": "230",
+    "codename": "yen_kien"
+  },
+  {
+    "code": "08044",
+    "name": "Chân Mộng",
+    "name_en": "Chan Mong",
+    "full_name": "Xã Chân Mộng",
+    "full_name_en": "Chan Mong Commune",
+    "type": "xã",
+    "district_code": "230",
+    "codename": "chan_mong"
+  },
+  {
+    "code": "08050",
+    "name": "Ca Đình",
+    "name_en": "Ca Dinh",
+    "full_name": "Xã Ca Đình",
+    "full_name_en": "Ca Dinh Commune",
+    "type": "xã",
+    "district_code": "230",
+    "codename": "ca_dinh"
+  }
+]

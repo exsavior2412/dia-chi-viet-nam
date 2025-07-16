@@ -1,0 +1,112 @@
+[
+  {
+    "code": "25858",
+    "name": "Phước Vĩnh",
+    "name_en": "Phuoc Vinh",
+    "full_name": "Thị trấn Phước Vĩnh",
+    "full_name_en": "Phuoc Vinh Township",
+    "type": "thị trấn",
+    "district_code": "722",
+    "codename": "phuoc_vinh"
+  },
+  {
+    "code": "25861",
+    "name": "An Linh",
+    "name_en": "An Linh",
+    "full_name": "Xã An Linh",
+    "full_name_en": "An Linh Commune",
+    "type": "xã",
+    "district_code": "722",
+    "codename": "an_linh"
+  },
+  {
+    "code": "25864",
+    "name": "Phước Sang",
+    "name_en": "Phuoc Sang",
+    "full_name": "Xã Phước Sang",
+    "full_name_en": "Phuoc Sang Commune",
+    "type": "xã",
+    "district_code": "722",
+    "codename": "phuoc_sang"
+  },
+  {
+    "code": "25865",
+    "name": "An Thái",
+    "name_en": "An Thai",
+    "full_name": "Xã An Thái",
+    "full_name_en": "An Thai Commune",
+    "type": "xã",
+    "district_code": "722",
+    "codename": "an_thai"
+  },
+  {
+    "code": "25867",
+    "name": "An Long",
+    "name_en": "An Long",
+    "full_name": "Xã An Long",
+    "full_name_en": "An Long Commune",
+    "type": "xã",
+    "district_code": "722",
+    "codename": "an_long"
+  },
+  {
+    "code": "25870",
+    "name": "An Bình",
+    "name_en": "An Binh",
+    "full_name": "Xã An Bình",
+    "full_name_en": "An Binh Commune",
+    "type": "xã",
+    "district_code": "722",
+    "codename": "an_binh"
+  },
+  {
+    "code": "25873",
+    "name": "Tân Hiệp",
+    "name_en": "Tan Hiep",
+    "full_name": "Xã Tân Hiệp",
+    "full_name_en": "Tan Hiep Commune",
+    "type": "xã",
+    "district_code": "722",
+    "codename": "tan_hiep"
+  },
+  {
+    "code": "25876",
+    "name": "Tam Lập",
+    "name_en": "Tam Lap",
+    "full_name": "Xã Tam Lập",
+    "full_name_en": "Tam Lap Commune",
+    "type": "xã",
+    "district_code": "722",
+    "codename": "tam_lap"
+  },
+  {
+    "code": "25879",
+    "name": "Tân Long",
+    "name_en": "Tan Long",
+    "full_name": "Xã Tân Long",
+    "full_name_en": "Tan Long Commune",
+    "type": "xã",
+    "district_code": "722",
+    "codename": "tan_long"
+  },
+  {
+    "code": "25882",
+    "name": "Vĩnh Hoà",
+    "name_en": "Vinh Hoa",
+    "full_name": "Xã Vĩnh Hoà",
+    "full_name_en": "Vinh Hoa Commune",
+    "type": "xã",
+    "district_code": "722",
+    "codename": "vinh_hoa"
+  },
+  {
+    "code": "25885",
+    "name": "Phước Hoà",
+    "name_en": "Phuoc Hoa",
+    "full_name": "Xã Phước Hoà",
+    "full_name_en": "Phuoc Hoa Commune",
+    "type": "xã",
+    "district_code": "722",
+    "codename": "phuoc_hoa"
+  }
+]

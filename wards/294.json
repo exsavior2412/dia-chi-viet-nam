@@ -1,0 +1,162 @@
+[
+  {
+    "code": "10813",
+    "name": "Thanh Hà",
+    "name_en": "Thanh Ha",
+    "full_name": "Thị trấn Thanh Hà",
+    "full_name_en": "Thanh Ha Township",
+    "type": "thị trấn",
+    "district_code": "294",
+    "codename": "thanh_ha"
+  },
+  {
+    "code": "10816",
+    "name": "Hồng Lạc",
+    "name_en": "Hong Lac",
+    "full_name": "Xã Hồng Lạc",
+    "full_name_en": "Hong Lac Commune",
+    "type": "xã",
+    "district_code": "294",
+    "codename": "hong_lac"
+  },
+  {
+    "code": "10825",
+    "name": "Tân Việt",
+    "name_en": "Tan Viet",
+    "full_name": "Xã Tân Việt",
+    "full_name_en": "Tan Viet Commune",
+    "type": "xã",
+    "district_code": "294",
+    "codename": "tan_viet"
+  },
+  {
+    "code": "10828",
+    "name": "Cẩm Việt",
+    "name_en": "Cam Viet",
+    "full_name": "Xã Cẩm Việt",
+    "full_name_en": "Cam Viet Commune",
+    "type": "xã",
+    "district_code": "294",
+    "codename": "cam_viet"
+  },
+  {
+    "code": "10831",
+    "name": "Thanh An",
+    "name_en": "Thanh An",
+    "full_name": "Xã Thanh An",
+    "full_name_en": "Thanh An Commune",
+    "type": "xã",
+    "district_code": "294",
+    "codename": "thanh_an"
+  },
+  {
+    "code": "10834",
+    "name": "Thanh Lang",
+    "name_en": "Thanh Lang",
+    "full_name": "Xã Thanh Lang",
+    "full_name_en": "Thanh Lang Commune",
+    "type": "xã",
+    "district_code": "294",
+    "codename": "thanh_lang"
+  },
+  {
+    "code": "10840",
+    "name": "Tân An",
+    "name_en": "Tan An",
+    "full_name": "Xã Tân An",
+    "full_name_en": "Tan An Commune",
+    "type": "xã",
+    "district_code": "294",
+    "codename": "tan_an"
+  },
+  {
+    "code": "10843",
+    "name": "Liên Mạc",
+    "name_en": "Lien Mac",
+    "full_name": "Xã Liên Mạc",
+    "full_name_en": "Lien Mac Commune",
+    "type": "xã",
+    "district_code": "294",
+    "codename": "lien_mac"
+  },
+  {
+    "code": "10846",
+    "name": "Thanh Hải",
+    "name_en": "Thanh Hai",
+    "full_name": "Xã Thanh Hải",
+    "full_name_en": "Thanh Hai Commune",
+    "type": "xã",
+    "district_code": "294",
+    "codename": "thanh_hai"
+  },
+  {
+    "code": "10855",
+    "name": "Thanh Xuân",
+    "name_en": "Thanh Xuan",
+    "full_name": "Xã Thanh Xuân",
+    "full_name_en": "Thanh Xuan Commune",
+    "type": "xã",
+    "district_code": "294",
+    "codename": "thanh_xuan"
+  },
+  {
+    "code": "10861",
+    "name": "Thanh Tân",
+    "name_en": "Thanh Tan",
+    "full_name": "Xã Thanh Tân",
+    "full_name_en": "Thanh Tan Commune",
+    "type": "xã",
+    "district_code": "294",
+    "codename": "thanh_tan"
+  },
+  {
+    "code": "10864",
+    "name": "An Phượng",
+    "name_en": "An Phuong",
+    "full_name": "Xã An Phượng",
+    "full_name_en": "An Phuong Commune",
+    "type": "xã",
+    "district_code": "294",
+    "codename": "an_phuong"
+  },
+  {
+    "code": "10867",
+    "name": "Thanh Sơn",
+    "name_en": "Thanh Son",
+    "full_name": "Xã Thanh Sơn",
+    "full_name_en": "Thanh Son Commune",
+    "type": "xã",
+    "district_code": "294",
+    "codename": "thanh_son"
+  },
+  {
+    "code": "10876",
+    "name": "Thanh Quang",
+    "name_en": "Thanh Quang",
+    "full_name": "Xã Thanh Quang",
+    "full_name_en": "Thanh Quang Commune",
+    "type": "xã",
+    "district_code": "294",
+    "codename": "thanh_quang"
+  },
+  {
+    "code": "10879",
+    "name": "Thanh Hồng",
+    "name_en": "Thanh Hong",
+    "full_name": "Xã Thanh Hồng",
+    "full_name_en": "Thanh Hong Commune",
+    "type": "xã",
+    "district_code": "294",
+    "codename": "thanh_hong"
+  },
+  {
+    "code": "10882",
+    "name": "Vĩnh Cường",
+    "name_en": "Vinh Cuong",
+    "full_name": "Xã Vĩnh Cường",
+    "full_name_en": "Vinh Cuong Commune",
+    "type": "xã",
+    "district_code": "294",
+    "codename": "vinh_cuong"
+  }
+]

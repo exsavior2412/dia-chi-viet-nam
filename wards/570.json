@@ -1,0 +1,142 @@
+[
+  {
+    "code": "22435",
+    "name": "Cam Tân",
+    "name_en": "Cam Tan",
+    "full_name": "Xã Cam Tân",
+    "full_name_en": "Cam Tan Commune",
+    "type": "xã",
+    "district_code": "570",
+    "codename": "cam_tan"
+  },
+  {
+    "code": "22438",
+    "name": "Cam Hòa",
+    "name_en": "Cam Hoa",
+    "full_name": "Xã Cam Hòa",
+    "full_name_en": "Cam Hoa Commune",
+    "type": "xã",
+    "district_code": "570",
+    "codename": "cam_hoa"
+  },
+  {
+    "code": "22441",
+    "name": "Cam Hải Đông",
+    "name_en": "Cam Hai Dong",
+    "full_name": "Xã Cam Hải Đông",
+    "full_name_en": "Cam Hai Dong Commune",
+    "type": "xã",
+    "district_code": "570",
+    "codename": "cam_hai_dong"
+  },
+  {
+    "code": "22444",
+    "name": "Cam Hải Tây",
+    "name_en": "Cam Hai Tay",
+    "full_name": "Xã Cam Hải Tây",
+    "full_name_en": "Cam Hai Tay Commune",
+    "type": "xã",
+    "district_code": "570",
+    "codename": "cam_hai_tay"
+  },
+  {
+    "code": "22447",
+    "name": "Sơn Tân",
+    "name_en": "Son Tan",
+    "full_name": "Xã Sơn Tân",
+    "full_name_en": "Son Tan Commune",
+    "type": "xã",
+    "district_code": "570",
+    "codename": "son_tan"
+  },
+  {
+    "code": "22450",
+    "name": "Cam Hiệp Bắc",
+    "name_en": "Cam Hiep Bac",
+    "full_name": "Xã Cam Hiệp Bắc",
+    "full_name_en": "Cam Hiep Bac Commune",
+    "type": "xã",
+    "district_code": "570",
+    "codename": "cam_hiep_bac"
+  },
+  {
+    "code": "22453",
+    "name": "Cam Đức",
+    "name_en": "Cam Duc",
+    "full_name": "Thị trấn Cam Đức",
+    "full_name_en": "Cam Duc Township",
+    "type": "thị trấn",
+    "district_code": "570",
+    "codename": "cam_duc"
+  },
+  {
+    "code": "22456",
+    "name": "Cam Hiệp Nam",
+    "name_en": "Cam Hiep Nam",
+    "full_name": "Xã Cam Hiệp Nam",
+    "full_name_en": "Cam Hiep Nam Commune",
+    "type": "xã",
+    "district_code": "570",
+    "codename": "cam_hiep_nam"
+  },
+  {
+    "code": "22459",
+    "name": "Cam Phước Tây",
+    "name_en": "Cam Phuoc Tay",
+    "full_name": "Xã Cam Phước Tây",
+    "full_name_en": "Cam Phuoc Tay Commune",
+    "type": "xã",
+    "district_code": "570",
+    "codename": "cam_phuoc_tay"
+  },
+  {
+    "code": "22462",
+    "name": "Cam Thành Bắc",
+    "name_en": "Cam Thanh Bac",
+    "full_name": "Xã Cam Thành Bắc",
+    "full_name_en": "Cam Thanh Bac Commune",
+    "type": "xã",
+    "district_code": "570",
+    "codename": "cam_thanh_bac"
+  },
+  {
+    "code": "22465",
+    "name": "Cam An Bắc",
+    "name_en": "Cam An Bac",
+    "full_name": "Xã Cam An Bắc",
+    "full_name_en": "Cam An Bac Commune",
+    "type": "xã",
+    "district_code": "570",
+    "codename": "cam_an_bac"
+  },
+  {
+    "code": "22471",
+    "name": "Cam An Nam",
+    "name_en": "Cam An Nam",
+    "full_name": "Xã Cam An Nam",
+    "full_name_en": "Cam An Nam Commune",
+    "type": "xã",
+    "district_code": "570",
+    "codename": "cam_an_nam"
+  },
+  {
+    "code": "22708",
+    "name": "Suối Cát",
+    "name_en": "Suoi Cat",
+    "full_name": "Xã Suối Cát",
+    "full_name_en": "Suoi Cat Commune",
+    "type": "xã",
+    "district_code": "570",
+    "codename": "suoi_cat"
+  },
+  {
+    "code": "22711",
+    "name": "Suối Tân",
+    "name_en": "Suoi Tan",
+    "full_name": "Xã Suối Tân",
+    "full_name_en": "Suoi Tan Commune",
+    "type": "xã",
+    "district_code": "570",
+    "codename": "suoi_tan"
+  }
+]

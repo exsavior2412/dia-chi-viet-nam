@@ -1,0 +1,272 @@
+[
+  {
+    "code": "05761",
+    "name": "Hùng Sơn",
+    "name_en": "Hung Son",
+    "full_name": "Thị trấn Hùng Sơn",
+    "full_name_en": "Hung Son Township",
+    "type": "thị trấn",
+    "district_code": "171",
+    "codename": "hung_son"
+  },
+  {
+    "code": "05767",
+    "name": "Phúc Lương",
+    "name_en": "Phuc Luong",
+    "full_name": "Xã Phúc Lương",
+    "full_name_en": "Phuc Luong Commune",
+    "type": "xã",
+    "district_code": "171",
+    "codename": "phuc_luong"
+  },
+  {
+    "code": "05770",
+    "name": "Minh Tiến",
+    "name_en": "Minh Tien",
+    "full_name": "Xã Minh Tiến",
+    "full_name_en": "Minh Tien Commune",
+    "type": "xã",
+    "district_code": "171",
+    "codename": "minh_tien"
+  },
+  {
+    "code": "05773",
+    "name": "Yên Lãng",
+    "name_en": "Yen Lang",
+    "full_name": "Xã Yên Lãng",
+    "full_name_en": "Yen Lang Commune",
+    "type": "xã",
+    "district_code": "171",
+    "codename": "yen_lang"
+  },
+  {
+    "code": "05776",
+    "name": "Đức Lương",
+    "name_en": "Duc Luong",
+    "full_name": "Xã Đức Lương",
+    "full_name_en": "Duc Luong Commune",
+    "type": "xã",
+    "district_code": "171",
+    "codename": "duc_luong"
+  },
+  {
+    "code": "05779",
+    "name": "Phú Cường",
+    "name_en": "Phu Cuong",
+    "full_name": "Xã Phú Cường",
+    "full_name_en": "Phu Cuong Commune",
+    "type": "xã",
+    "district_code": "171",
+    "codename": "phu_cuong"
+  },
+  {
+    "code": "05785",
+    "name": "Phú Lạc",
+    "name_en": "Phu Lac",
+    "full_name": "Xã Phú Lạc",
+    "full_name_en": "Phu Lac Commune",
+    "type": "xã",
+    "district_code": "171",
+    "codename": "phu_lac"
+  },
+  {
+    "code": "05788",
+    "name": "Tân Linh",
+    "name_en": "Tan Linh",
+    "full_name": "Xã Tân Linh",
+    "full_name_en": "Tan Linh Commune",
+    "type": "xã",
+    "district_code": "171",
+    "codename": "tan_linh"
+  },
+  {
+    "code": "05791",
+    "name": "Phú Thịnh",
+    "name_en": "Phu Thinh",
+    "full_name": "Xã Phú Thịnh",
+    "full_name_en": "Phu Thinh Commune",
+    "type": "xã",
+    "district_code": "171",
+    "codename": "phu_thinh"
+  },
+  {
+    "code": "05794",
+    "name": "Phục Linh",
+    "name_en": "Phuc Linh",
+    "full_name": "Xã Phục Linh",
+    "full_name_en": "Phuc Linh Commune",
+    "type": "xã",
+    "district_code": "171",
+    "codename": "phuc_linh"
+  },
+  {
+    "code": "05797",
+    "name": "Phú Xuyên",
+    "name_en": "Phu Xuyen",
+    "full_name": "Xã Phú Xuyên",
+    "full_name_en": "Phu Xuyen Commune",
+    "type": "xã",
+    "district_code": "171",
+    "codename": "phu_xuyen"
+  },
+  {
+    "code": "05800",
+    "name": "Bản Ngoại",
+    "name_en": "Ban Ngoai",
+    "full_name": "Xã Bản Ngoại",
+    "full_name_en": "Ban Ngoai Commune",
+    "type": "xã",
+    "district_code": "171",
+    "codename": "ban_ngoai"
+  },
+  {
+    "code": "05803",
+    "name": "Tiên Hội",
+    "name_en": "Tien Hoi",
+    "full_name": "Xã Tiên Hội",
+    "full_name_en": "Tien Hoi Commune",
+    "type": "xã",
+    "district_code": "171",
+    "codename": "tien_hoi"
+  },
+  {
+    "code": "05809",
+    "name": "Cù Vân",
+    "name_en": "Cu Van",
+    "full_name": "Xã Cù Vân",
+    "full_name_en": "Cu Van Commune",
+    "type": "xã",
+    "district_code": "171",
+    "codename": "cu_van"
+  },
+  {
+    "code": "05812",
+    "name": "Hà Thượng",
+    "name_en": "Ha Thuong",
+    "full_name": "Xã Hà Thượng",
+    "full_name_en": "Ha Thuong Commune",
+    "type": "xã",
+    "district_code": "171",
+    "codename": "ha_thuong"
+  },
+  {
+    "code": "05815",
+    "name": "La Bằng",
+    "name_en": "La Bang",
+    "full_name": "Xã La Bằng",
+    "full_name_en": "La Bang Commune",
+    "type": "xã",
+    "district_code": "171",
+    "codename": "la_bang"
+  },
+  {
+    "code": "05818",
+    "name": "Hoàng Nông",
+    "name_en": "Hoang Nong",
+    "full_name": "Xã Hoàng Nông",
+    "full_name_en": "Hoang Nong Commune",
+    "type": "xã",
+    "district_code": "171",
+    "codename": "hoang_nong"
+  },
+  {
+    "code": "05821",
+    "name": "Khôi Kỳ",
+    "name_en": "Khoi Ky",
+    "full_name": "Xã Khôi Kỳ",
+    "full_name_en": "Khoi Ky Commune",
+    "type": "xã",
+    "district_code": "171",
+    "codename": "khoi_ky"
+  },
+  {
+    "code": "05824",
+    "name": "An Khánh",
+    "name_en": "An Khanh",
+    "full_name": "Xã An Khánh",
+    "full_name_en": "An Khanh Commune",
+    "type": "xã",
+    "district_code": "171",
+    "codename": "an_khanh"
+  },
+  {
+    "code": "05827",
+    "name": "Tân Thái",
+    "name_en": "Tan Thai",
+    "full_name": "Xã Tân Thái",
+    "full_name_en": "Tan Thai Commune",
+    "type": "xã",
+    "district_code": "171",
+    "codename": "tan_thai"
+  },
+  {
+    "code": "05830",
+    "name": "Bình Thuận",
+    "name_en": "Binh Thuan",
+    "full_name": "Xã Bình Thuận",
+    "full_name_en": "Binh Thuan Commune",
+    "type": "xã",
+    "district_code": "171",
+    "codename": "binh_thuan"
+  },
+  {
+    "code": "05833",
+    "name": "Lục Ba",
+    "name_en": "Luc Ba",
+    "full_name": "Xã Lục Ba",
+    "full_name_en": "Luc Ba Commune",
+    "type": "xã",
+    "district_code": "171",
+    "codename": "luc_ba"
+  },
+  {
+    "code": "05836",
+    "name": "Mỹ Yên",
+    "name_en": "My Yen",
+    "full_name": "Xã Mỹ Yên",
+    "full_name_en": "My Yen Commune",
+    "type": "xã",
+    "district_code": "171",
+    "codename": "my_yen"
+  },
+  {
+    "code": "05842",
+    "name": "Văn Yên",
+    "name_en": "Van Yen",
+    "full_name": "Xã Văn Yên",
+    "full_name_en": "Van Yen Commune",
+    "type": "xã",
+    "district_code": "171",
+    "codename": "van_yen"
+  },
+  {
+    "code": "05845",
+    "name": "Vạn Phú",
+    "name_en": "Van Phu",
+    "full_name": "Xã Vạn Phú",
+    "full_name_en": "Van Phu Commune",
+    "type": "xã",
+    "district_code": "171",
+    "codename": "van_phu"
+  },
+  {
+    "code": "05848",
+    "name": "Cát Nê",
+    "name_en": "Cat Ne",
+    "full_name": "Xã Cát Nê",
+    "full_name_en": "Cat Ne Commune",
+    "type": "xã",
+    "district_code": "171",
+    "codename": "cat_ne"
+  },
+  {
+    "code": "05851",
+    "name": "Quân Chu",
+    "name_en": "Quan Chu",
+    "full_name": "Thị trấn Quân Chu",
+    "full_name_en": "Quan Chu Township",
+    "type": "thị trấn",
+    "district_code": "171",
+    "codename": "quan_chu"
+  }
+]

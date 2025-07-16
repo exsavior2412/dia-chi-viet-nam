@@ -1,0 +1,322 @@
+[
+  {
+    "code": "17392",
+    "name": "Diễn Lâm",
+    "name_en": "Dien Lam",
+    "full_name": "Xã Diễn Lâm",
+    "full_name_en": "Dien Lam Commune",
+    "type": "xã",
+    "district_code": "425",
+    "codename": "dien_lam"
+  },
+  {
+    "code": "17395",
+    "name": "Diễn Đoài",
+    "name_en": "Dien Doai",
+    "full_name": "Xã Diễn Đoài",
+    "full_name_en": "Dien Doai Commune",
+    "type": "xã",
+    "district_code": "425",
+    "codename": "dien_doai"
+  },
+  {
+    "code": "17398",
+    "name": "Diễn Trường",
+    "name_en": "Dien Truong",
+    "full_name": "Xã Diễn Trường",
+    "full_name_en": "Dien Truong Commune",
+    "type": "xã",
+    "district_code": "425",
+    "codename": "dien_truong"
+  },
+  {
+    "code": "17401",
+    "name": "Diễn Yên",
+    "name_en": "Dien Yen",
+    "full_name": "Xã Diễn Yên",
+    "full_name_en": "Dien Yen Commune",
+    "type": "xã",
+    "district_code": "425",
+    "codename": "dien_yen"
+  },
+  {
+    "code": "17404",
+    "name": "Diễn Hoàng",
+    "name_en": "Dien Hoang",
+    "full_name": "Xã Diễn Hoàng",
+    "full_name_en": "Dien Hoang Commune",
+    "type": "xã",
+    "district_code": "425",
+    "codename": "dien_hoang"
+  },
+  {
+    "code": "17410",
+    "name": "Diễn Mỹ",
+    "name_en": "Dien My",
+    "full_name": "Xã Diễn Mỹ",
+    "full_name_en": "Dien My Commune",
+    "type": "xã",
+    "district_code": "425",
+    "codename": "dien_my"
+  },
+  {
+    "code": "17413",
+    "name": "Diễn Hồng",
+    "name_en": "Dien Hong",
+    "full_name": "Xã Diễn Hồng",
+    "full_name_en": "Dien Hong Commune",
+    "type": "xã",
+    "district_code": "425",
+    "codename": "dien_hong"
+  },
+  {
+    "code": "17416",
+    "name": "Diễn Phong",
+    "name_en": "Dien Phong",
+    "full_name": "Xã Diễn Phong",
+    "full_name_en": "Dien Phong Commune",
+    "type": "xã",
+    "district_code": "425",
+    "codename": "dien_phong"
+  },
+  {
+    "code": "17419",
+    "name": "Hùng Hải",
+    "name_en": "Hung Hai",
+    "full_name": "Xã Hùng Hải",
+    "full_name_en": "Hung Hai Commune",
+    "type": "xã",
+    "district_code": "425",
+    "codename": "hung_hai"
+  },
+  {
+    "code": "17425",
+    "name": "Diễn Liên",
+    "name_en": "Dien Lien",
+    "full_name": "Xã Diễn Liên",
+    "full_name_en": "Dien Lien Commune",
+    "type": "xã",
+    "district_code": "425",
+    "codename": "dien_lien"
+  },
+  {
+    "code": "17428",
+    "name": "Diễn Vạn",
+    "name_en": "Dien Van",
+    "full_name": "Xã Diễn Vạn",
+    "full_name_en": "Dien Van Commune",
+    "type": "xã",
+    "district_code": "425",
+    "codename": "dien_van"
+  },
+  {
+    "code": "17431",
+    "name": "Diễn Kim",
+    "name_en": "Dien Kim",
+    "full_name": "Xã Diễn Kim",
+    "full_name_en": "Dien Kim Commune",
+    "type": "xã",
+    "district_code": "425",
+    "codename": "dien_kim"
+  },
+  {
+    "code": "17434",
+    "name": "Diễn Kỷ",
+    "name_en": "Dien Ky",
+    "full_name": "Xã Diễn Kỷ",
+    "full_name_en": "Dien Ky Commune",
+    "type": "xã",
+    "district_code": "425",
+    "codename": "dien_ky"
+  },
+  {
+    "code": "17437",
+    "name": "Xuân Tháp",
+    "name_en": "Xuan Thap",
+    "full_name": "Xã Xuân Tháp",
+    "full_name_en": "Xuan Thap Commune",
+    "type": "xã",
+    "district_code": "425",
+    "codename": "xuan_thap"
+  },
+  {
+    "code": "17440",
+    "name": "Diễn Thái",
+    "name_en": "Dien Thai",
+    "full_name": "Xã Diễn Thái",
+    "full_name_en": "Dien Thai Commune",
+    "type": "xã",
+    "district_code": "425",
+    "codename": "dien_thai"
+  },
+  {
+    "code": "17443",
+    "name": "Diễn Đồng",
+    "name_en": "Dien Dong",
+    "full_name": "Xã Diễn Đồng",
+    "full_name_en": "Dien Dong Commune",
+    "type": "xã",
+    "district_code": "425",
+    "codename": "dien_dong"
+  },
+  {
+    "code": "17449",
+    "name": "Hạnh Quảng",
+    "name_en": "Hanh Quang",
+    "full_name": "Xã Hạnh Quảng",
+    "full_name_en": "Hanh Quang Commune",
+    "type": "xã",
+    "district_code": "425",
+    "codename": "hanh_quang"
+  },
+  {
+    "code": "17452",
+    "name": "Ngọc Bích",
+    "name_en": "Ngoc Bich",
+    "full_name": "Xã Ngọc Bích",
+    "full_name_en": "Ngoc Bich Commune",
+    "type": "xã",
+    "district_code": "425",
+    "codename": "ngoc_bich"
+  },
+  {
+    "code": "17458",
+    "name": "Diễn Nguyên",
+    "name_en": "Dien Nguyen",
+    "full_name": "Xã Diễn Nguyên",
+    "full_name_en": "Dien Nguyen Commune",
+    "type": "xã",
+    "district_code": "425",
+    "codename": "dien_nguyen"
+  },
+  {
+    "code": "17461",
+    "name": "Diễn Hoa",
+    "name_en": "Dien Hoa",
+    "full_name": "Xã Diễn Hoa",
+    "full_name_en": "Dien Hoa Commune",
+    "type": "xã",
+    "district_code": "425",
+    "codename": "dien_hoa"
+  },
+  {
+    "code": "17464",
+    "name": "Diễn Thành",
+    "name_en": "Dien Thanh",
+    "full_name": "Thị trấn Diễn Thành",
+    "full_name_en": "Dien Thanh Township",
+    "type": "thị trấn",
+    "district_code": "425",
+    "codename": "dien_thanh"
+  },
+  {
+    "code": "17467",
+    "name": "Diễn Phúc",
+    "name_en": "Dien Phuc",
+    "full_name": "Xã Diễn Phúc",
+    "full_name_en": "Dien Phuc Commune",
+    "type": "xã",
+    "district_code": "425",
+    "codename": "dien_phuc"
+  },
+  {
+    "code": "17476",
+    "name": "Diễn Cát",
+    "name_en": "Dien Cat",
+    "full_name": "Xã Diễn Cát",
+    "full_name_en": "Dien Cat Commune",
+    "type": "xã",
+    "district_code": "425",
+    "codename": "dien_cat"
+  },
+  {
+    "code": "17479",
+    "name": "Diễn Thịnh",
+    "name_en": "Dien Thinh",
+    "full_name": "Xã Diễn Thịnh",
+    "full_name_en": "Dien Thinh Commune",
+    "type": "xã",
+    "district_code": "425",
+    "codename": "dien_thinh"
+  },
+  {
+    "code": "17482",
+    "name": "Diễn Tân",
+    "name_en": "Dien Tan",
+    "full_name": "Xã Diễn Tân",
+    "full_name_en": "Dien Tan Commune",
+    "type": "xã",
+    "district_code": "425",
+    "codename": "dien_tan"
+  },
+  {
+    "code": "17485",
+    "name": "Minh Châu",
+    "name_en": "Minh Chau",
+    "full_name": "Xã Minh Châu",
+    "full_name_en": "Minh Chau Commune",
+    "type": "xã",
+    "district_code": "425",
+    "codename": "minh_chau"
+  },
+  {
+    "code": "17488",
+    "name": "Diễn Thọ",
+    "name_en": "Dien Tho",
+    "full_name": "Xã Diễn Thọ",
+    "full_name_en": "Dien Tho Commune",
+    "type": "xã",
+    "district_code": "425",
+    "codename": "dien_tho"
+  },
+  {
+    "code": "17491",
+    "name": "Diễn Lợi",
+    "name_en": "Dien Loi",
+    "full_name": "Xã Diễn Lợi",
+    "full_name_en": "Dien Loi Commune",
+    "type": "xã",
+    "district_code": "425",
+    "codename": "dien_loi"
+  },
+  {
+    "code": "17494",
+    "name": "Diễn Lộc",
+    "name_en": "Dien Loc",
+    "full_name": "Xã Diễn Lộc",
+    "full_name_en": "Dien Loc Commune",
+    "type": "xã",
+    "district_code": "425",
+    "codename": "dien_loc"
+  },
+  {
+    "code": "17497",
+    "name": "Diễn Trung",
+    "name_en": "Dien Trung",
+    "full_name": "Xã Diễn Trung",
+    "full_name_en": "Dien Trung Commune",
+    "type": "xã",
+    "district_code": "425",
+    "codename": "dien_trung"
+  },
+  {
+    "code": "17500",
+    "name": "Diễn An",
+    "name_en": "Dien An",
+    "full_name": "Xã Diễn An",
+    "full_name_en": "Dien An Commune",
+    "type": "xã",
+    "district_code": "425",
+    "codename": "dien_an"
+  },
+  {
+    "code": "17503",
+    "name": "Diễn Phú",
+    "name_en": "Dien Phu",
+    "full_name": "Xã Diễn Phú",
+    "full_name_en": "Dien Phu Commune",
+    "type": "xã",
+    "district_code": "425",
+    "codename": "dien_phu"
+  }
+]

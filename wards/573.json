@@ -1,0 +1,142 @@
+[
+  {
+    "code": "22609",
+    "name": "Khánh Vĩnh",
+    "name_en": "Khanh Vinh",
+    "full_name": "Thị trấn Khánh Vĩnh",
+    "full_name_en": "Khanh Vinh Township",
+    "type": "thị trấn",
+    "district_code": "573",
+    "codename": "khanh_vinh"
+  },
+  {
+    "code": "22612",
+    "name": "Khánh Hiệp",
+    "name_en": "Khanh Hiep",
+    "full_name": "Xã Khánh Hiệp",
+    "full_name_en": "Khanh Hiep Commune",
+    "type": "xã",
+    "district_code": "573",
+    "codename": "khanh_hiep"
+  },
+  {
+    "code": "22615",
+    "name": "Khánh Bình",
+    "name_en": "Khanh Binh",
+    "full_name": "Xã Khánh Bình",
+    "full_name_en": "Khanh Binh Commune",
+    "type": "xã",
+    "district_code": "573",
+    "codename": "khanh_binh"
+  },
+  {
+    "code": "22618",
+    "name": "Khánh Trung",
+    "name_en": "Khanh Trung",
+    "full_name": "Xã Khánh Trung",
+    "full_name_en": "Khanh Trung Commune",
+    "type": "xã",
+    "district_code": "573",
+    "codename": "khanh_trung"
+  },
+  {
+    "code": "22621",
+    "name": "Khánh Đông",
+    "name_en": "Khanh Dong",
+    "full_name": "Xã Khánh Đông",
+    "full_name_en": "Khanh Dong Commune",
+    "type": "xã",
+    "district_code": "573",
+    "codename": "khanh_dong"
+  },
+  {
+    "code": "22624",
+    "name": "Khánh Thượng",
+    "name_en": "Khanh Thuong",
+    "full_name": "Xã Khánh Thượng",
+    "full_name_en": "Khanh Thuong Commune",
+    "type": "xã",
+    "district_code": "573",
+    "codename": "khanh_thuong"
+  },
+  {
+    "code": "22627",
+    "name": "Khánh Nam",
+    "name_en": "Khanh Nam",
+    "full_name": "Xã Khánh Nam",
+    "full_name_en": "Khanh Nam Commune",
+    "type": "xã",
+    "district_code": "573",
+    "codename": "khanh_nam"
+  },
+  {
+    "code": "22630",
+    "name": "Sông Cầu",
+    "name_en": "Song Cau",
+    "full_name": "Xã Sông Cầu",
+    "full_name_en": "Song Cau Commune",
+    "type": "xã",
+    "district_code": "573",
+    "codename": "song_cau"
+  },
+  {
+    "code": "22633",
+    "name": "Giang Ly",
+    "name_en": "Giang Ly",
+    "full_name": "Xã Giang Ly",
+    "full_name_en": "Giang Ly Commune",
+    "type": "xã",
+    "district_code": "573",
+    "codename": "giang_ly"
+  },
+  {
+    "code": "22636",
+    "name": "Cầu Bà",
+    "name_en": "Cau Ba",
+    "full_name": "Xã Cầu Bà",
+    "full_name_en": "Cau Ba Commune",
+    "type": "xã",
+    "district_code": "573",
+    "codename": "cau_ba"
+  },
+  {
+    "code": "22639",
+    "name": "Liên Sang",
+    "name_en": "Lien Sang",
+    "full_name": "Xã Liên Sang",
+    "full_name_en": "Lien Sang Commune",
+    "type": "xã",
+    "district_code": "573",
+    "codename": "lien_sang"
+  },
+  {
+    "code": "22642",
+    "name": "Khánh Thành",
+    "name_en": "Khanh Thanh",
+    "full_name": "Xã Khánh Thành",
+    "full_name_en": "Khanh Thanh Commune",
+    "type": "xã",
+    "district_code": "573",
+    "codename": "khanh_thanh"
+  },
+  {
+    "code": "22645",
+    "name": "Khánh Phú",
+    "name_en": "Khanh Phu",
+    "full_name": "Xã Khánh Phú",
+    "full_name_en": "Khanh Phu Commune",
+    "type": "xã",
+    "district_code": "573",
+    "codename": "khanh_phu"
+  },
+  {
+    "code": "22648",
+    "name": "Sơn Thái",
+    "name_en": "Son Thai",
+    "full_name": "Xã Sơn Thái",
+    "full_name_en": "Son Thai Commune",
+    "type": "xã",
+    "district_code": "573",
+    "codename": "son_thai"
+  }
+]

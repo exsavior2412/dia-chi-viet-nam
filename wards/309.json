@@ -1,0 +1,62 @@
+[
+  {
+    "code": "11683",
+    "name": "Đa Phúc",
+    "name_en": "Da Phuc",
+    "full_name": "Phường Đa Phúc",
+    "full_name_en": "Da Phuc Ward",
+    "type": "phường",
+    "district_code": "309",
+    "codename": "da_phuc"
+  },
+  {
+    "code": "11686",
+    "name": "Hưng Đạo",
+    "name_en": "Hung Dao",
+    "full_name": "Phường Hưng Đạo",
+    "full_name_en": "Hung Dao Ward",
+    "type": "phường",
+    "district_code": "309",
+    "codename": "hung_dao"
+  },
+  {
+    "code": "11689",
+    "name": "Anh Dũng",
+    "name_en": "Anh Dung",
+    "full_name": "Phường Anh Dũng",
+    "full_name_en": "Anh Dung Ward",
+    "type": "phường",
+    "district_code": "309",
+    "codename": "anh_dung"
+  },
+  {
+    "code": "11692",
+    "name": "Hải Thành",
+    "name_en": "Hai Thanh",
+    "full_name": "Phường Hải Thành",
+    "full_name_en": "Hai Thanh Ward",
+    "type": "phường",
+    "district_code": "309",
+    "codename": "hai_thanh"
+  },
+  {
+    "code": "11707",
+    "name": "Hoà Nghĩa",
+    "name_en": "Hoa Nghia",
+    "full_name": "Phường Hoà Nghĩa",
+    "full_name_en": "Hoa Nghia Ward",
+    "type": "phường",
+    "district_code": "309",
+    "codename": "hoa_nghia"
+  },
+  {
+    "code": "11740",
+    "name": "Tân Thành",
+    "name_en": "Tan Thanh",
+    "full_name": "Phường Tân Thành",
+    "full_name_en": "Tan Thanh Ward",
+    "type": "phường",
+    "district_code": "309",
+    "codename": "tan_thanh"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "code": "24538",
+    "name": "Buôn Trấp",
+    "name_en": "Buon Trap",
+    "full_name": "Thị trấn Buôn Trấp",
+    "full_name_en": "Buon Trap Township",
+    "type": "thị trấn",
+    "district_code": "655",
+    "codename": "buon_trap"
+  },
+  {
+    "code": "24556",
+    "name": "Dray Sáp",
+    "name_en": "Dray Sap",
+    "full_name": "Xã Dray Sáp",
+    "full_name_en": "Dray Sap Commune",
+    "type": "xã",
+    "district_code": "655",
+    "codename": "dray_sap"
+  },
+  {
+    "code": "24559",
+    "name": "Ea Na",
+    "name_en": "Ea Na",
+    "full_name": "Xã Ea Na",
+    "full_name_en": "Ea Na Commune",
+    "type": "xã",
+    "district_code": "655",
+    "codename": "ea_na"
+  },
+  {
+    "code": "24565",
+    "name": "Ea Bông",
+    "name_en": "Ea Bong",
+    "full_name": "Xã Ea Bông",
+    "full_name_en": "Ea Bong Commune",
+    "type": "xã",
+    "district_code": "655",
+    "codename": "ea_bong"
+  },
+  {
+    "code": "24568",
+    "name": "Băng A Drênh",
+    "name_en": "Bang A Drenh",
+    "full_name": "Xã Băng A Drênh",
+    "full_name_en": "Bang A Drenh Commune",
+    "type": "xã",
+    "district_code": "655",
+    "codename": "bang_a_drenh"
+  },
+  {
+    "code": "24571",
+    "name": "Dur KMăl",
+    "name_en": "Dur KMal",
+    "full_name": "Xã Dur KMăl",
+    "full_name_en": "Dur KMal Commune",
+    "type": "xã",
+    "district_code": "655",
+    "codename": "dur_kmal"
+  },
+  {
+    "code": "24574",
+    "name": "Bình Hòa",
+    "name_en": "Binh Hoa",
+    "full_name": "Xã Bình Hòa",
+    "full_name_en": "Binh Hoa Commune",
+    "type": "xã",
+    "district_code": "655",
+    "codename": "binh_hoa"
+  },
+  {
+    "code": "24577",
+    "name": "Quảng Điền",
+    "name_en": "Quang Dien",
+    "full_name": "Xã Quảng Điền",
+    "full_name_en": "Quang Dien Commune",
+    "type": "xã",
+    "district_code": "655",
+    "codename": "quang_dien"
+  }
+]

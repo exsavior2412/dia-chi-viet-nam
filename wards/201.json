@@ -1,0 +1,112 @@
+[
+  {
+    "code": "06922",
+    "name": "Quảng Hà",
+    "name_en": "Quang Ha",
+    "full_name": "Thị trấn Quảng Hà",
+    "full_name_en": "Quang Ha Township",
+    "type": "thị trấn",
+    "district_code": "201",
+    "codename": "quang_ha"
+  },
+  {
+    "code": "06925",
+    "name": "Quảng Đức",
+    "name_en": "Quang Duc",
+    "full_name": "Xã Quảng Đức",
+    "full_name_en": "Quang Duc Commune",
+    "type": "xã",
+    "district_code": "201",
+    "codename": "quang_duc"
+  },
+  {
+    "code": "06928",
+    "name": "Quảng Sơn",
+    "name_en": "Quang Son",
+    "full_name": "Xã Quảng Sơn",
+    "full_name_en": "Quang Son Commune",
+    "type": "xã",
+    "district_code": "201",
+    "codename": "quang_son"
+  },
+  {
+    "code": "06931",
+    "name": "Quảng Thành",
+    "name_en": "Quang Thanh",
+    "full_name": "Xã Quảng Thành",
+    "full_name_en": "Quang Thanh Commune",
+    "type": "xã",
+    "district_code": "201",
+    "codename": "quang_thanh"
+  },
+  {
+    "code": "06937",
+    "name": "Quảng Thịnh",
+    "name_en": "Quang Thinh",
+    "full_name": "Xã Quảng Thịnh",
+    "full_name_en": "Quang Thinh Commune",
+    "type": "xã",
+    "district_code": "201",
+    "codename": "quang_thinh"
+  },
+  {
+    "code": "06940",
+    "name": "Quảng Minh",
+    "name_en": "Quang Minh",
+    "full_name": "Xã Quảng Minh",
+    "full_name_en": "Quang Minh Commune",
+    "type": "xã",
+    "district_code": "201",
+    "codename": "quang_minh"
+  },
+  {
+    "code": "06943",
+    "name": "Quảng Chính",
+    "name_en": "Quang Chinh",
+    "full_name": "Xã Quảng Chính",
+    "full_name_en": "Quang Chinh Commune",
+    "type": "xã",
+    "district_code": "201",
+    "codename": "quang_chinh"
+  },
+  {
+    "code": "06946",
+    "name": "Quảng Long",
+    "name_en": "Quang Long",
+    "full_name": "Xã Quảng Long",
+    "full_name_en": "Quang Long Commune",
+    "type": "xã",
+    "district_code": "201",
+    "codename": "quang_long"
+  },
+  {
+    "code": "06949",
+    "name": "Đường Hoa",
+    "name_en": "Duong Hoa",
+    "full_name": "Xã Đường Hoa",
+    "full_name_en": "Duong Hoa Commune",
+    "type": "xã",
+    "district_code": "201",
+    "codename": "duong_hoa"
+  },
+  {
+    "code": "06952",
+    "name": "Quảng Phong",
+    "name_en": "Quang Phong",
+    "full_name": "Xã Quảng Phong",
+    "full_name_en": "Quang Phong Commune",
+    "type": "xã",
+    "district_code": "201",
+    "codename": "quang_phong"
+  },
+  {
+    "code": "06967",
+    "name": "Cái Chiên",
+    "name_en": "Cai Chien",
+    "full_name": "Xã Cái Chiên",
+    "full_name_en": "Cai Chien Commune",
+    "type": "xã",
+    "district_code": "201",
+    "codename": "cai_chien"
+  }
+]

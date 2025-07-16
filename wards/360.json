@@ -1,0 +1,232 @@
+[
+  {
+    "code": "13795",
+    "name": "Lâm",
+    "name_en": "Lam",
+    "full_name": "Thị trấn Lâm",
+    "full_name_en": "Lam Township",
+    "type": "thị trấn",
+    "district_code": "360",
+    "codename": "lam"
+  },
+  {
+    "code": "13801",
+    "name": "Trung Nghĩa",
+    "name_en": "Trung Nghia",
+    "full_name": "Xã Trung Nghĩa",
+    "full_name_en": "Trung Nghia Commune",
+    "type": "xã",
+    "district_code": "360",
+    "codename": "trung_nghia"
+  },
+  {
+    "code": "13807",
+    "name": "Tân Minh",
+    "name_en": "Tan Minh",
+    "full_name": "Xã Tân Minh",
+    "full_name_en": "Tan Minh Commune",
+    "type": "xã",
+    "district_code": "360",
+    "codename": "tan_minh"
+  },
+  {
+    "code": "13810",
+    "name": "Yên Thọ",
+    "name_en": "Yen Tho",
+    "full_name": "Xã Yên Thọ",
+    "full_name_en": "Yen Tho Commune",
+    "type": "xã",
+    "district_code": "360",
+    "codename": "yen_tho"
+  },
+  {
+    "code": "13819",
+    "name": "Phú Hưng",
+    "name_en": "Phu Hung",
+    "full_name": "Xã Phú Hưng",
+    "full_name_en": "Phu Hung Commune",
+    "type": "xã",
+    "district_code": "360",
+    "codename": "phu_hung"
+  },
+  {
+    "code": "13822",
+    "name": "Yên Chính",
+    "name_en": "Yen Chinh",
+    "full_name": "Xã Yên Chính",
+    "full_name_en": "Yen Chinh Commune",
+    "type": "xã",
+    "district_code": "360",
+    "codename": "yen_chinh"
+  },
+  {
+    "code": "13825",
+    "name": "Yên Bình",
+    "name_en": "Yen Binh",
+    "full_name": "Xã Yên Bình",
+    "full_name_en": "Yen Binh Commune",
+    "type": "xã",
+    "district_code": "360",
+    "codename": "yen_binh"
+  },
+  {
+    "code": "13831",
+    "name": "Yên Mỹ",
+    "name_en": "Yen My",
+    "full_name": "Xã Yên Mỹ",
+    "full_name_en": "Yen My Commune",
+    "type": "xã",
+    "district_code": "360",
+    "codename": "yen_my"
+  },
+  {
+    "code": "13834",
+    "name": "Yên Dương",
+    "name_en": "Yen Duong",
+    "full_name": "Xã Yên Dương",
+    "full_name_en": "Yen Duong Commune",
+    "type": "xã",
+    "district_code": "360",
+    "codename": "yen_duong"
+  },
+  {
+    "code": "13843",
+    "name": "Yên Khánh",
+    "name_en": "Yen Khanh",
+    "full_name": "Xã Yên Khánh",
+    "full_name_en": "Yen Khanh Commune",
+    "type": "xã",
+    "district_code": "360",
+    "codename": "yen_khanh"
+  },
+  {
+    "code": "13846",
+    "name": "Yên Phong",
+    "name_en": "Yen Phong",
+    "full_name": "Xã Yên Phong",
+    "full_name_en": "Yen Phong Commune",
+    "type": "xã",
+    "district_code": "360",
+    "codename": "yen_phong"
+  },
+  {
+    "code": "13849",
+    "name": "Yên Ninh",
+    "name_en": "Yen Ninh",
+    "full_name": "Xã Yên Ninh",
+    "full_name_en": "Yen Ninh Commune",
+    "type": "xã",
+    "district_code": "360",
+    "codename": "yen_ninh"
+  },
+  {
+    "code": "13852",
+    "name": "Yên Lương",
+    "name_en": "Yen Luong",
+    "full_name": "Xã Yên Lương",
+    "full_name_en": "Yen Luong Commune",
+    "type": "xã",
+    "district_code": "360",
+    "codename": "yen_luong"
+  },
+  {
+    "code": "13861",
+    "name": "Yên Tiến",
+    "name_en": "Yen Tien",
+    "full_name": "Xã Yên Tiến",
+    "full_name_en": "Yen Tien Commune",
+    "type": "xã",
+    "district_code": "360",
+    "codename": "yen_tien"
+  },
+  {
+    "code": "13864",
+    "name": "Yên Thắng",
+    "name_en": "Yen Thang",
+    "full_name": "Xã Yên Thắng",
+    "full_name_en": "Yen Thang Commune",
+    "type": "xã",
+    "district_code": "360",
+    "codename": "yen_thang"
+  },
+  {
+    "code": "13867",
+    "name": "Yên Phúc",
+    "name_en": "Yen Phuc",
+    "full_name": "Xã Yên Phúc",
+    "full_name_en": "Yen Phuc Commune",
+    "type": "xã",
+    "district_code": "360",
+    "codename": "yen_phuc"
+  },
+  {
+    "code": "13870",
+    "name": "Yên Cường",
+    "name_en": "Yen Cuong",
+    "full_name": "Xã Yên Cường",
+    "full_name_en": "Yen Cuong Commune",
+    "type": "xã",
+    "district_code": "360",
+    "codename": "yen_cuong"
+  },
+  {
+    "code": "13873",
+    "name": "Yên Lộc",
+    "name_en": "Yen Loc",
+    "full_name": "Xã Yên Lộc",
+    "full_name_en": "Yen Loc Commune",
+    "type": "xã",
+    "district_code": "360",
+    "codename": "yen_loc"
+  },
+  {
+    "code": "13876",
+    "name": "Hồng Quang",
+    "name_en": "Hong Quang",
+    "full_name": "Xã Hồng Quang",
+    "full_name_en": "Hong Quang Commune",
+    "type": "xã",
+    "district_code": "360",
+    "codename": "hong_quang"
+  },
+  {
+    "code": "13879",
+    "name": "Yên Đồng",
+    "name_en": "Yen Dong",
+    "full_name": "Xã Yên Đồng",
+    "full_name_en": "Yen Dong Commune",
+    "type": "xã",
+    "district_code": "360",
+    "codename": "yen_dong"
+  },
+  {
+    "code": "13882",
+    "name": "Yên Khang",
+    "name_en": "Yen Khang",
+    "full_name": "Xã Yên Khang",
+    "full_name_en": "Yen Khang Commune",
+    "type": "xã",
+    "district_code": "360",
+    "codename": "yen_khang"
+  },
+  {
+    "code": "13885",
+    "name": "Yên Nhân",
+    "name_en": "Yen Nhan",
+    "full_name": "Xã Yên Nhân",
+    "full_name_en": "Yen Nhan Commune",
+    "type": "xã",
+    "district_code": "360",
+    "codename": "yen_nhan"
+  },
+  {
+    "code": "13888",
+    "name": "Yên Trị",
+    "name_en": "Yen Tri",
+    "full_name": "Xã Yên Trị",
+    "full_name_en": "Yen Tri Commune",
+    "type": "xã",
+    "district_code": "360",
+    "codename": "yen_tri"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "code": "688",
+    "name": "Phước Long",
+    "name_en": "Phuoc Long",
+    "full_name": "Thị xã Phước Long",
+    "full_name_en": "Phuoc Long Town",
+    "type": "thị xã",
+    "province_code": "70",
+    "codename": "phuoc_long"
+  },
+  {
+    "code": "689",
+    "name": "Đồng Xoài",
+    "name_en": "Dong Xoai",
+    "full_name": "Thành phố Đồng Xoài",
+    "full_name_en": "Dong Xoai City",
+    "type": "thành phố",
+    "province_code": "70",
+    "codename": "dong_xoai"
+  },
+  {
+    "code": "690",
+    "name": "Bình Long",
+    "name_en": "Binh Long",
+    "full_name": "Thị xã Bình Long",
+    "full_name_en": "Binh Long Town",
+    "type": "thị xã",
+    "province_code": "70",
+    "codename": "binh_long"
+  },
+  {
+    "code": "691",
+    "name": "Bù Gia Mập",
+    "name_en": "Bu Gia Map",
+    "full_name": "Huyện Bù Gia Mập",
+    "full_name_en": "Bu Gia Map District",
+    "type": "huyện",
+    "province_code": "70",
+    "codename": "bu_gia_map"
+  },
+  {
+    "code": "692",
+    "name": "Lộc Ninh",
+    "name_en": "Loc Ninh",
+    "full_name": "Huyện Lộc Ninh",
+    "full_name_en": "Loc Ninh District",
+    "type": "huyện",
+    "province_code": "70",
+    "codename": "loc_ninh"
+  },
+  {
+    "code": "693",
+    "name": "Bù Đốp",
+    "name_en": "Bu Dop",
+    "full_name": "Huyện Bù Đốp",
+    "full_name_en": "Bu Dop District",
+    "type": "huyện",
+    "province_code": "70",
+    "codename": "bu_dop"
+  },
+  {
+    "code": "694",
+    "name": "Hớn Quản",
+    "name_en": "Hon Quan",
+    "full_name": "Huyện Hớn Quản",
+    "full_name_en": "Hon Quan District",
+    "type": "huyện",
+    "province_code": "70",
+    "codename": "hon_quan"
+  },
+  {
+    "code": "695",
+    "name": "Đồng Phú",
+    "name_en": "Dong Phu",
+    "full_name": "Huyện Đồng Phú",
+    "full_name_en": "Dong Phu District",
+    "type": "huyện",
+    "province_code": "70",
+    "codename": "dong_phu"
+  },
+  {
+    "code": "696",
+    "name": "Bù Đăng",
+    "name_en": "Bu Dang",
+    "full_name": "Huyện Bù Đăng",
+    "full_name_en": "Bu Dang District",
+    "type": "huyện",
+    "province_code": "70",
+    "codename": "bu_dang"
+  },
+  {
+    "code": "697",
+    "name": "Chơn Thành",
+    "name_en": "Chon Thanh",
+    "full_name": "Thị xã Chơn Thành",
+    "full_name_en": "Chon Thanh Town",
+    "type": "thị xã",
+    "province_code": "70",
+    "codename": "chon_thanh"
+  },
+  {
+    "code": "698",
+    "name": "Phú Riềng",
+    "name_en": "Phu Rieng",
+    "full_name": "Huyện Phú Riềng",
+    "full_name_en": "Phu Rieng District",
+    "type": "huyện",
+    "province_code": "70",
+    "codename": "phu_rieng"
+  }
+]

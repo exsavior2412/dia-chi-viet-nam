@@ -1,0 +1,172 @@
+[
+  {
+    "code": "16876",
+    "name": "Thạch Giám",
+    "name_en": "Thach Giam",
+    "full_name": "Thị trấn Thạch Giám",
+    "full_name_en": "Thach Giam Township",
+    "type": "thị trấn",
+    "district_code": "418",
+    "codename": "thach_giam"
+  },
+  {
+    "code": "16879",
+    "name": "Mai Sơn",
+    "name_en": "Mai Son",
+    "full_name": "Xã Mai Sơn",
+    "full_name_en": "Mai Son Commune",
+    "type": "xã",
+    "district_code": "418",
+    "codename": "mai_son"
+  },
+  {
+    "code": "16882",
+    "name": "Nhôn Mai",
+    "name_en": "Nhon Mai",
+    "full_name": "Xã Nhôn Mai",
+    "full_name_en": "Nhon Mai Commune",
+    "type": "xã",
+    "district_code": "418",
+    "codename": "nhon_mai"
+  },
+  {
+    "code": "16885",
+    "name": "Hữu Khuông",
+    "name_en": "Huu Khuong",
+    "full_name": "Xã Hữu Khuông",
+    "full_name_en": "Huu Khuong Commune",
+    "type": "xã",
+    "district_code": "418",
+    "codename": "huu_khuong"
+  },
+  {
+    "code": "16900",
+    "name": "Yên Tĩnh",
+    "name_en": "Yen Tinh",
+    "full_name": "Xã Yên Tĩnh",
+    "full_name_en": "Yen Tinh Commune",
+    "type": "xã",
+    "district_code": "418",
+    "codename": "yen_tinh"
+  },
+  {
+    "code": "16903",
+    "name": "Nga My",
+    "name_en": "Nga My",
+    "full_name": "Xã Nga My",
+    "full_name_en": "Nga My Commune",
+    "type": "xã",
+    "district_code": "418",
+    "codename": "nga_my"
+  },
+  {
+    "code": "16904",
+    "name": "Xiêng My",
+    "name_en": "Xieng My",
+    "full_name": "Xã Xiêng My",
+    "full_name_en": "Xieng My Commune",
+    "type": "xã",
+    "district_code": "418",
+    "codename": "xieng_my"
+  },
+  {
+    "code": "16906",
+    "name": "Lưỡng Minh",
+    "name_en": "Luong Minh",
+    "full_name": "Xã Lưỡng Minh",
+    "full_name_en": "Luong Minh Commune",
+    "type": "xã",
+    "district_code": "418",
+    "codename": "luong_minh"
+  },
+  {
+    "code": "16909",
+    "name": "Yên Hòa",
+    "name_en": "Yen Hoa",
+    "full_name": "Xã Yên Hòa",
+    "full_name_en": "Yen Hoa Commune",
+    "type": "xã",
+    "district_code": "418",
+    "codename": "yen_hoa"
+  },
+  {
+    "code": "16912",
+    "name": "Yên Na",
+    "name_en": "Yen Na",
+    "full_name": "Xã Yên Na",
+    "full_name_en": "Yen Na Commune",
+    "type": "xã",
+    "district_code": "418",
+    "codename": "yen_na"
+  },
+  {
+    "code": "16915",
+    "name": "Lưu Kiền",
+    "name_en": "Luu Kien",
+    "full_name": "Xã Lưu Kiền",
+    "full_name_en": "Luu Kien Commune",
+    "type": "xã",
+    "district_code": "418",
+    "codename": "luu_kien"
+  },
+  {
+    "code": "16921",
+    "name": "Xá Lượng",
+    "name_en": "Xa Luong",
+    "full_name": "Xã Xá Lượng",
+    "full_name_en": "Xa Luong Commune",
+    "type": "xã",
+    "district_code": "418",
+    "codename": "xa_luong"
+  },
+  {
+    "code": "16924",
+    "name": "Tam Thái",
+    "name_en": "Tam Thai",
+    "full_name": "Xã Tam Thái",
+    "full_name_en": "Tam Thai Commune",
+    "type": "xã",
+    "district_code": "418",
+    "codename": "tam_thai"
+  },
+  {
+    "code": "16927",
+    "name": "Tam Đình",
+    "name_en": "Tam Dinh",
+    "full_name": "Xã Tam Đình",
+    "full_name_en": "Tam Dinh Commune",
+    "type": "xã",
+    "district_code": "418",
+    "codename": "tam_dinh"
+  },
+  {
+    "code": "16930",
+    "name": "Yên Thắng",
+    "name_en": "Yen Thang",
+    "full_name": "Xã Yên Thắng",
+    "full_name_en": "Yen Thang Commune",
+    "type": "xã",
+    "district_code": "418",
+    "codename": "yen_thang"
+  },
+  {
+    "code": "16933",
+    "name": "Tam Quang",
+    "name_en": "Tam Quang",
+    "full_name": "Xã Tam Quang",
+    "full_name_en": "Tam Quang Commune",
+    "type": "xã",
+    "district_code": "418",
+    "codename": "tam_quang"
+  },
+  {
+    "code": "16936",
+    "name": "Tam Hợp",
+    "name_en": "Tam Hop",
+    "full_name": "Xã Tam Hợp",
+    "full_name_en": "Tam Hop Commune",
+    "type": "xã",
+    "district_code": "418",
+    "codename": "tam_hop"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "code": "29266",
+    "name": "Càng Long",
+    "name_en": "Cang Long",
+    "full_name": "Thị trấn Càng Long",
+    "full_name_en": "Cang Long Township",
+    "type": "thị trấn",
+    "district_code": "844",
+    "codename": "cang_long"
+  },
+  {
+    "code": "29269",
+    "name": "Mỹ Cẩm",
+    "name_en": "My Cam",
+    "full_name": "Xã Mỹ Cẩm",
+    "full_name_en": "My Cam Commune",
+    "type": "xã",
+    "district_code": "844",
+    "codename": "my_cam"
+  },
+  {
+    "code": "29272",
+    "name": "An Trường A",
+    "name_en": "An Truong A",
+    "full_name": "Xã An Trường A",
+    "full_name_en": "An Truong A Commune",
+    "type": "xã",
+    "district_code": "844",
+    "codename": "an_truong_a"
+  },
+  {
+    "code": "29275",
+    "name": "An Trường",
+    "name_en": "An Truong",
+    "full_name": "Xã An Trường",
+    "full_name_en": "An Truong Commune",
+    "type": "xã",
+    "district_code": "844",
+    "codename": "an_truong"
+  },
+  {
+    "code": "29278",
+    "name": "Huyền Hội",
+    "name_en": "Huyen Hoi",
+    "full_name": "Xã Huyền Hội",
+    "full_name_en": "Huyen Hoi Commune",
+    "type": "xã",
+    "district_code": "844",
+    "codename": "huyen_hoi"
+  },
+  {
+    "code": "29281",
+    "name": "Tân An",
+    "name_en": "Tan An",
+    "full_name": "Xã Tân An",
+    "full_name_en": "Tan An Commune",
+    "type": "xã",
+    "district_code": "844",
+    "codename": "tan_an"
+  },
+  {
+    "code": "29284",
+    "name": "Tân Bình",
+    "name_en": "Tan Binh",
+    "full_name": "Xã Tân Bình",
+    "full_name_en": "Tan Binh Commune",
+    "type": "xã",
+    "district_code": "844",
+    "codename": "tan_binh"
+  },
+  {
+    "code": "29287",
+    "name": "Bình Phú",
+    "name_en": "Binh Phu",
+    "full_name": "Xã Bình Phú",
+    "full_name_en": "Binh Phu Commune",
+    "type": "xã",
+    "district_code": "844",
+    "codename": "binh_phu"
+  },
+  {
+    "code": "29290",
+    "name": "Phương Thạnh",
+    "name_en": "Phuong Thanh",
+    "full_name": "Xã Phương Thạnh",
+    "full_name_en": "Phuong Thanh Commune",
+    "type": "xã",
+    "district_code": "844",
+    "codename": "phuong_thanh"
+  },
+  {
+    "code": "29293",
+    "name": "Đại Phúc",
+    "name_en": "Dai Phuc",
+    "full_name": "Xã Đại Phúc",
+    "full_name_en": "Dai Phuc Commune",
+    "type": "xã",
+    "district_code": "844",
+    "codename": "dai_phuc"
+  },
+  {
+    "code": "29296",
+    "name": "Đại Phước",
+    "name_en": "Dai Phuoc",
+    "full_name": "Xã Đại Phước",
+    "full_name_en": "Dai Phuoc Commune",
+    "type": "xã",
+    "district_code": "844",
+    "codename": "dai_phuoc"
+  },
+  {
+    "code": "29299",
+    "name": "Nhị Long Phú",
+    "name_en": "Nhi Long Phu",
+    "full_name": "Xã Nhị Long Phú",
+    "full_name_en": "Nhi Long Phu Commune",
+    "type": "xã",
+    "district_code": "844",
+    "codename": "nhi_long_phu"
+  },
+  {
+    "code": "29302",
+    "name": "Nhị Long",
+    "name_en": "Nhi Long",
+    "full_name": "Xã Nhị Long",
+    "full_name_en": "Nhi Long Commune",
+    "type": "xã",
+    "district_code": "844",
+    "codename": "nhi_long"
+  },
+  {
+    "code": "29305",
+    "name": "Đức Mỹ",
+    "name_en": "Duc My",
+    "full_name": "Xã Đức Mỹ",
+    "full_name_en": "Duc My Commune",
+    "type": "xã",
+    "district_code": "844",
+    "codename": "duc_my"
+  }
+]

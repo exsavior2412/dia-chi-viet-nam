@@ -1,0 +1,102 @@
+[
+  {
+    "code": "04981",
+    "name": "Ba Hàng Đồi",
+    "name_en": "Ba Hang Doi",
+    "full_name": "Thị trấn Ba Hàng Đồi",
+    "full_name_en": "Ba Hang Doi Township",
+    "type": "thị trấn",
+    "district_code": "159",
+    "codename": "ba_hang_doi"
+  },
+  {
+    "code": "05392",
+    "name": "Chi Nê",
+    "name_en": "Chi Ne",
+    "full_name": "Thị trấn Chi Nê",
+    "full_name_en": "Chi Ne Township",
+    "type": "thị trấn",
+    "district_code": "159",
+    "codename": "chi_ne"
+  },
+  {
+    "code": "05395",
+    "name": "Phú Nghĩa",
+    "name_en": "Phu Nghia",
+    "full_name": "Xã Phú Nghĩa",
+    "full_name_en": "Phu Nghia Commune",
+    "type": "xã",
+    "district_code": "159",
+    "codename": "phu_nghia"
+  },
+  {
+    "code": "05398",
+    "name": "Phú Thành",
+    "name_en": "Phu Thanh",
+    "full_name": "Xã Phú Thành",
+    "full_name_en": "Phu Thanh Commune",
+    "type": "xã",
+    "district_code": "159",
+    "codename": "phu_thanh"
+  },
+  {
+    "code": "05404",
+    "name": "Hưng Thi",
+    "name_en": "Hung Thi",
+    "full_name": "Xã Hưng Thi",
+    "full_name_en": "Hung Thi Commune",
+    "type": "xã",
+    "district_code": "159",
+    "codename": "hung_thi"
+  },
+  {
+    "code": "05413",
+    "name": "Khoan Dụ",
+    "name_en": "Khoan Du",
+    "full_name": "Xã Khoan Dụ",
+    "full_name_en": "Khoan Du Commune",
+    "type": "xã",
+    "district_code": "159",
+    "codename": "khoan_du"
+  },
+  {
+    "code": "05419",
+    "name": "Đồng Tâm",
+    "name_en": "Dong Tam",
+    "full_name": "Xã Đồng Tâm",
+    "full_name_en": "Dong Tam Commune",
+    "type": "xã",
+    "district_code": "159",
+    "codename": "dong_tam"
+  },
+  {
+    "code": "05422",
+    "name": "Yên Bồng",
+    "name_en": "Yen Bong",
+    "full_name": "Xã Yên Bồng",
+    "full_name_en": "Yen Bong Commune",
+    "type": "xã",
+    "district_code": "159",
+    "codename": "yen_bong"
+  },
+  {
+    "code": "05425",
+    "name": "Thống Nhất",
+    "name_en": "Thong Nhat",
+    "full_name": "Xã Thống Nhất",
+    "full_name_en": "Thong Nhat Commune",
+    "type": "xã",
+    "district_code": "159",
+    "codename": "thong_nhat"
+  },
+  {
+    "code": "05428",
+    "name": "An Bình",
+    "name_en": "An Binh",
+    "full_name": "Xã An Bình",
+    "full_name_en": "An Binh Commune",
+    "type": "xã",
+    "district_code": "159",
+    "codename": "an_binh"
+  }
+]

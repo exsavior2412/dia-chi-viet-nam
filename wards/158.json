@@ -1,0 +1,112 @@
+[
+  {
+    "code": "05353",
+    "name": "Hàng Trạm",
+    "name_en": "Hang Tram",
+    "full_name": "Thị trấn Hàng Trạm",
+    "full_name_en": "Hang Tram Township",
+    "type": "thị trấn",
+    "district_code": "158",
+    "codename": "hang_tram"
+  },
+  {
+    "code": "05356",
+    "name": "Lạc Sỹ",
+    "name_en": "Lac Sy",
+    "full_name": "Xã Lạc Sỹ",
+    "full_name_en": "Lac Sy Commune",
+    "type": "xã",
+    "district_code": "158",
+    "codename": "lac_sy"
+  },
+  {
+    "code": "05362",
+    "name": "Lạc Lương",
+    "name_en": "Lac Luong",
+    "full_name": "Xã Lạc Lương",
+    "full_name_en": "Lac Luong Commune",
+    "type": "xã",
+    "district_code": "158",
+    "codename": "lac_luong"
+  },
+  {
+    "code": "05365",
+    "name": "Bảo Hiệu",
+    "name_en": "Bao Hieu",
+    "full_name": "Xã Bảo Hiệu",
+    "full_name_en": "Bao Hieu Commune",
+    "type": "xã",
+    "district_code": "158",
+    "codename": "bao_hieu"
+  },
+  {
+    "code": "05368",
+    "name": "Đa Phúc",
+    "name_en": "Da Phuc",
+    "full_name": "Xã Đa Phúc",
+    "full_name_en": "Da Phuc Commune",
+    "type": "xã",
+    "district_code": "158",
+    "codename": "da_phuc"
+  },
+  {
+    "code": "05371",
+    "name": "Hữu Lợi",
+    "name_en": "Huu Loi",
+    "full_name": "Xã Hữu Lợi",
+    "full_name_en": "Huu Loi Commune",
+    "type": "xã",
+    "district_code": "158",
+    "codename": "huu_loi"
+  },
+  {
+    "code": "05374",
+    "name": "Lạc Thịnh",
+    "name_en": "Lac Thinh",
+    "full_name": "Xã Lạc Thịnh",
+    "full_name_en": "Lac Thinh Commune",
+    "type": "xã",
+    "district_code": "158",
+    "codename": "lac_thinh"
+  },
+  {
+    "code": "05380",
+    "name": "Đoàn Kết",
+    "name_en": "Doan Ket",
+    "full_name": "Xã Đoàn Kết",
+    "full_name_en": "Doan Ket Commune",
+    "type": "xã",
+    "district_code": "158",
+    "codename": "doan_ket"
+  },
+  {
+    "code": "05383",
+    "name": "Phú Lai",
+    "name_en": "Phu Lai",
+    "full_name": "Xã Phú Lai",
+    "full_name_en": "Phu Lai Commune",
+    "type": "xã",
+    "district_code": "158",
+    "codename": "phu_lai"
+  },
+  {
+    "code": "05386",
+    "name": "Yên Trị",
+    "name_en": "Yen Tri",
+    "full_name": "Xã Yên Trị",
+    "full_name_en": "Yen Tri Commune",
+    "type": "xã",
+    "district_code": "158",
+    "codename": "yen_tri"
+  },
+  {
+    "code": "05389",
+    "name": "Ngọc Lương",
+    "name_en": "Ngoc Luong",
+    "full_name": "Xã Ngọc Lương",
+    "full_name_en": "Ngoc Luong Commune",
+    "type": "xã",
+    "district_code": "158",
+    "codename": "ngoc_luong"
+  }
+]

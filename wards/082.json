@@ -1,0 +1,212 @@
+[
+  {
+    "code": "02683",
+    "name": "Bát Xát",
+    "name_en": "Bat Xat",
+    "full_name": "Thị trấn Bát Xát",
+    "full_name_en": "Bat Xat Township",
+    "type": "thị trấn",
+    "district_code": "082",
+    "codename": "bat_xat"
+  },
+  {
+    "code": "02686",
+    "name": "A Mú Sung",
+    "name_en": "A Mu Sung",
+    "full_name": "Xã A Mú Sung",
+    "full_name_en": "A Mu Sung Commune",
+    "type": "xã",
+    "district_code": "082",
+    "codename": "a_mu_sung"
+  },
+  {
+    "code": "02689",
+    "name": "Nậm Chạc",
+    "name_en": "Nam Chac",
+    "full_name": "Xã Nậm Chạc",
+    "full_name_en": "Nam Chac Commune",
+    "type": "xã",
+    "district_code": "082",
+    "codename": "nam_chac"
+  },
+  {
+    "code": "02692",
+    "name": "A Lù",
+    "name_en": "A Lu",
+    "full_name": "Xã A Lù",
+    "full_name_en": "A Lu Commune",
+    "type": "xã",
+    "district_code": "082",
+    "codename": "a_lu"
+  },
+  {
+    "code": "02695",
+    "name": "Trịnh Tường",
+    "name_en": "Trinh Tuong",
+    "full_name": "Xã Trịnh Tường",
+    "full_name_en": "Trinh Tuong Commune",
+    "type": "xã",
+    "district_code": "082",
+    "codename": "trinh_tuong"
+  },
+  {
+    "code": "02701",
+    "name": "Y Tý",
+    "name_en": "Y Ty",
+    "full_name": "Xã Y Tý",
+    "full_name_en": "Y Ty Commune",
+    "type": "xã",
+    "district_code": "082",
+    "codename": "y_ty"
+  },
+  {
+    "code": "02704",
+    "name": "Cốc Mỳ",
+    "name_en": "Coc My",
+    "full_name": "Xã Cốc Mỳ",
+    "full_name_en": "Coc My Commune",
+    "type": "xã",
+    "district_code": "082",
+    "codename": "coc_my"
+  },
+  {
+    "code": "02707",
+    "name": "Dền Sáng",
+    "name_en": "Den Sang",
+    "full_name": "Xã Dền Sáng",
+    "full_name_en": "Den Sang Commune",
+    "type": "xã",
+    "district_code": "082",
+    "codename": "den_sang"
+  },
+  {
+    "code": "02710",
+    "name": "Bản Vược",
+    "name_en": "Ban Vuoc",
+    "full_name": "Xã Bản Vược",
+    "full_name_en": "Ban Vuoc Commune",
+    "type": "xã",
+    "district_code": "082",
+    "codename": "ban_vuoc"
+  },
+  {
+    "code": "02713",
+    "name": "Sàng Ma Sáo",
+    "name_en": "Sang Ma Sao",
+    "full_name": "Xã Sàng Ma Sáo",
+    "full_name_en": "Sang Ma Sao Commune",
+    "type": "xã",
+    "district_code": "082",
+    "codename": "sang_ma_sao"
+  },
+  {
+    "code": "02716",
+    "name": "Bản Qua",
+    "name_en": "Ban Qua",
+    "full_name": "Xã Bản Qua",
+    "full_name_en": "Ban Qua Commune",
+    "type": "xã",
+    "district_code": "082",
+    "codename": "ban_qua"
+  },
+  {
+    "code": "02719",
+    "name": "Mường Vi",
+    "name_en": "Muong Vi",
+    "full_name": "Xã Mường Vi",
+    "full_name_en": "Muong Vi Commune",
+    "type": "xã",
+    "district_code": "082",
+    "codename": "muong_vi"
+  },
+  {
+    "code": "02722",
+    "name": "Dền Thàng",
+    "name_en": "Den Thang",
+    "full_name": "Xã Dền Thàng",
+    "full_name_en": "Den Thang Commune",
+    "type": "xã",
+    "district_code": "082",
+    "codename": "den_thang"
+  },
+  {
+    "code": "02725",
+    "name": "Bản Xèo",
+    "name_en": "Ban Xeo",
+    "full_name": "Xã Bản Xèo",
+    "full_name_en": "Ban Xeo Commune",
+    "type": "xã",
+    "district_code": "082",
+    "codename": "ban_xeo"
+  },
+  {
+    "code": "02728",
+    "name": "Mường Hum",
+    "name_en": "Muong Hum",
+    "full_name": "Xã Mường Hum",
+    "full_name_en": "Muong Hum Commune",
+    "type": "xã",
+    "district_code": "082",
+    "codename": "muong_hum"
+  },
+  {
+    "code": "02731",
+    "name": "Trung Lèng Hồ",
+    "name_en": "Trung Leng Ho",
+    "full_name": "Xã Trung Lèng Hồ",
+    "full_name_en": "Trung Leng Ho Commune",
+    "type": "xã",
+    "district_code": "082",
+    "codename": "trung_leng_ho"
+  },
+  {
+    "code": "02734",
+    "name": "Quang Kim",
+    "name_en": "Quang Kim",
+    "full_name": "Xã Quang Kim",
+    "full_name_en": "Quang Kim Commune",
+    "type": "xã",
+    "district_code": "082",
+    "codename": "quang_kim"
+  },
+  {
+    "code": "02737",
+    "name": "Pa Cheo",
+    "name_en": "Pa Cheo",
+    "full_name": "Xã Pa Cheo",
+    "full_name_en": "Pa Cheo Commune",
+    "type": "xã",
+    "district_code": "082",
+    "codename": "pa_cheo"
+  },
+  {
+    "code": "02740",
+    "name": "Nậm Pung",
+    "name_en": "Nam Pung",
+    "full_name": "Xã Nậm Pung",
+    "full_name_en": "Nam Pung Commune",
+    "type": "xã",
+    "district_code": "082",
+    "codename": "nam_pung"
+  },
+  {
+    "code": "02743",
+    "name": "Phìn Ngan",
+    "name_en": "Phin Ngan",
+    "full_name": "Xã Phìn Ngan",
+    "full_name_en": "Phin Ngan Commune",
+    "type": "xã",
+    "district_code": "082",
+    "codename": "phin_ngan"
+  },
+  {
+    "code": "02749",
+    "name": "Tòng Sành",
+    "name_en": "Tong Sanh",
+    "full_name": "Xã Tòng Sành",
+    "full_name_en": "Tong Sanh Commune",
+    "type": "xã",
+    "district_code": "082",
+    "codename": "tong_sanh"
+  }
+]

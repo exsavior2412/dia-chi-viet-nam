@@ -1,0 +1,82 @@
+[
+  {
+    "code": "31894",
+    "name": "Vĩnh Hưng",
+    "name_en": "Vinh Hung",
+    "full_name": "Xã Vĩnh Hưng",
+    "full_name_en": "Vinh Hung Commune",
+    "type": "xã",
+    "district_code": "958",
+    "codename": "vinh_hung"
+  },
+  {
+    "code": "31897",
+    "name": "Vĩnh Hưng A",
+    "name_en": "Vinh Hung A",
+    "full_name": "Xã Vĩnh Hưng A",
+    "full_name_en": "Vinh Hung A Commune",
+    "type": "xã",
+    "district_code": "958",
+    "codename": "vinh_hung_a"
+  },
+  {
+    "code": "31900",
+    "name": "Châu Hưng",
+    "name_en": "Chau Hung",
+    "full_name": "Thị trấn Châu Hưng",
+    "full_name_en": "Chau Hung Township",
+    "type": "thị trấn",
+    "district_code": "958",
+    "codename": "chau_hung"
+  },
+  {
+    "code": "31903",
+    "name": "Châu Hưng A",
+    "name_en": "Chau Hung A",
+    "full_name": "Xã Châu Hưng A",
+    "full_name_en": "Chau Hung A Commune",
+    "type": "xã",
+    "district_code": "958",
+    "codename": "chau_hung_a"
+  },
+  {
+    "code": "31906",
+    "name": "Hưng Thành",
+    "name_en": "Hung Thanh",
+    "full_name": "Xã Hưng Thành",
+    "full_name_en": "Hung Thanh Commune",
+    "type": "xã",
+    "district_code": "958",
+    "codename": "hung_thanh"
+  },
+  {
+    "code": "31909",
+    "name": "Hưng Hội",
+    "name_en": "Hung Hoi",
+    "full_name": "Xã Hưng Hội",
+    "full_name_en": "Hung Hoi Commune",
+    "type": "xã",
+    "district_code": "958",
+    "codename": "hung_hoi"
+  },
+  {
+    "code": "31912",
+    "name": "Châu Thới",
+    "name_en": "Chau Thoi",
+    "full_name": "Xã Châu Thới",
+    "full_name_en": "Chau Thoi Commune",
+    "type": "xã",
+    "district_code": "958",
+    "codename": "chau_thoi"
+  },
+  {
+    "code": "31921",
+    "name": "Long Thạnh",
+    "name_en": "Long Thanh",
+    "full_name": "Xã Long Thạnh",
+    "full_name_en": "Long Thanh Commune",
+    "type": "xã",
+    "district_code": "958",
+    "codename": "long_thanh"
+  }
+]

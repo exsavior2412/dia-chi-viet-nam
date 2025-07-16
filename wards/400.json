@@ -1,0 +1,222 @@
+[
+  {
+    "code": "16012",
+    "name": "Hậu Lộc",
+    "name_en": "Hau Loc",
+    "full_name": "Thị trấn Hậu Lộc",
+    "full_name_en": "Hau Loc Township",
+    "type": "thị trấn",
+    "district_code": "400",
+    "codename": "hau_loc"
+  },
+  {
+    "code": "16015",
+    "name": "Đồng Lộc",
+    "name_en": "Dong Loc",
+    "full_name": "Xã Đồng Lộc",
+    "full_name_en": "Dong Loc Commune",
+    "type": "xã",
+    "district_code": "400",
+    "codename": "dong_loc"
+  },
+  {
+    "code": "16018",
+    "name": "Đại Lộc",
+    "name_en": "Dai Loc",
+    "full_name": "Xã Đại Lộc",
+    "full_name_en": "Dai Loc Commune",
+    "type": "xã",
+    "district_code": "400",
+    "codename": "dai_loc"
+  },
+  {
+    "code": "16021",
+    "name": "Triệu Lộc",
+    "name_en": "Trieu Loc",
+    "full_name": "Xã Triệu Lộc",
+    "full_name_en": "Trieu Loc Commune",
+    "type": "xã",
+    "district_code": "400",
+    "codename": "trieu_loc"
+  },
+  {
+    "code": "16027",
+    "name": "Tiến Lộc",
+    "name_en": "Tien Loc",
+    "full_name": "Xã Tiến Lộc",
+    "full_name_en": "Tien Loc Commune",
+    "type": "xã",
+    "district_code": "400",
+    "codename": "tien_loc"
+  },
+  {
+    "code": "16030",
+    "name": "Lộc Sơn",
+    "name_en": "Loc Son",
+    "full_name": "Xã Lộc Sơn",
+    "full_name_en": "Loc Son Commune",
+    "type": "xã",
+    "district_code": "400",
+    "codename": "loc_son"
+  },
+  {
+    "code": "16033",
+    "name": "Cầu Lộc",
+    "name_en": "Cau Loc",
+    "full_name": "Xã Cầu Lộc",
+    "full_name_en": "Cau Loc Commune",
+    "type": "xã",
+    "district_code": "400",
+    "codename": "cau_loc"
+  },
+  {
+    "code": "16036",
+    "name": "Thành Lộc",
+    "name_en": "Thanh Loc",
+    "full_name": "Xã Thành Lộc",
+    "full_name_en": "Thanh Loc Commune",
+    "type": "xã",
+    "district_code": "400",
+    "codename": "thanh_loc"
+  },
+  {
+    "code": "16042",
+    "name": "Tuy Lộc",
+    "name_en": "Tuy Loc",
+    "full_name": "Xã Tuy Lộc",
+    "full_name_en": "Tuy Loc Commune",
+    "type": "xã",
+    "district_code": "400",
+    "codename": "tuy_loc"
+  },
+  {
+    "code": "16045",
+    "name": "Mỹ Lộc",
+    "name_en": "My Loc",
+    "full_name": "Xã Mỹ Lộc",
+    "full_name_en": "My Loc Commune",
+    "type": "xã",
+    "district_code": "400",
+    "codename": "my_loc"
+  },
+  {
+    "code": "16048",
+    "name": "Thuần Lộc",
+    "name_en": "Thuan Loc",
+    "full_name": "Xã Thuần Lộc",
+    "full_name_en": "Thuan Loc Commune",
+    "type": "xã",
+    "district_code": "400",
+    "codename": "thuan_loc"
+  },
+  {
+    "code": "16057",
+    "name": "Xuân Lộc",
+    "name_en": "Xuan Loc",
+    "full_name": "Xã Xuân Lộc",
+    "full_name_en": "Xuan Loc Commune",
+    "type": "xã",
+    "district_code": "400",
+    "codename": "xuan_loc"
+  },
+  {
+    "code": "16063",
+    "name": "Hoa Lộc",
+    "name_en": "Hoa Loc",
+    "full_name": "Xã Hoa Lộc",
+    "full_name_en": "Hoa Loc Commune",
+    "type": "xã",
+    "district_code": "400",
+    "codename": "hoa_loc"
+  },
+  {
+    "code": "16066",
+    "name": "Liên Lộc",
+    "name_en": "Lien Loc",
+    "full_name": "Xã Liên Lộc",
+    "full_name_en": "Lien Loc Commune",
+    "type": "xã",
+    "district_code": "400",
+    "codename": "lien_loc"
+  },
+  {
+    "code": "16069",
+    "name": "Quang Lộc",
+    "name_en": "Quang Loc",
+    "full_name": "Xã Quang Lộc",
+    "full_name_en": "Quang Loc Commune",
+    "type": "xã",
+    "district_code": "400",
+    "codename": "quang_loc"
+  },
+  {
+    "code": "16072",
+    "name": "Phú Lộc",
+    "name_en": "Phu Loc",
+    "full_name": "Xã Phú Lộc",
+    "full_name_en": "Phu Loc Commune",
+    "type": "xã",
+    "district_code": "400",
+    "codename": "phu_loc"
+  },
+  {
+    "code": "16075",
+    "name": "Hòa Lộc",
+    "name_en": "Hoa Loc",
+    "full_name": "Xã Hòa Lộc",
+    "full_name_en": "Hoa Loc Commune",
+    "type": "xã",
+    "district_code": "400",
+    "codename": "hoa_loc"
+  },
+  {
+    "code": "16078",
+    "name": "Minh Lộc",
+    "name_en": "Minh Loc",
+    "full_name": "Xã Minh Lộc",
+    "full_name_en": "Minh Loc Commune",
+    "type": "xã",
+    "district_code": "400",
+    "codename": "minh_loc"
+  },
+  {
+    "code": "16081",
+    "name": "Hưng Lộc",
+    "name_en": "Hung Loc",
+    "full_name": "Xã Hưng Lộc",
+    "full_name_en": "Hung Loc Commune",
+    "type": "xã",
+    "district_code": "400",
+    "codename": "hung_loc"
+  },
+  {
+    "code": "16084",
+    "name": "Hải Lộc",
+    "name_en": "Hai Loc",
+    "full_name": "Xã Hải Lộc",
+    "full_name_en": "Hai Loc Commune",
+    "type": "xã",
+    "district_code": "400",
+    "codename": "hai_loc"
+  },
+  {
+    "code": "16087",
+    "name": "Đa Lộc",
+    "name_en": "Da Loc",
+    "full_name": "Xã Đa Lộc",
+    "full_name_en": "Da Loc Commune",
+    "type": "xã",
+    "district_code": "400",
+    "codename": "da_loc"
+  },
+  {
+    "code": "16090",
+    "name": "Ngư Lộc",
+    "name_en": "Ngu Loc",
+    "full_name": "Xã Ngư Lộc",
+    "full_name_en": "Ngu Loc Commune",
+    "type": "xã",
+    "district_code": "400",
+    "codename": "ngu_loc"
+  }
+]

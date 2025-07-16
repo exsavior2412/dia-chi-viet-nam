@@ -1,0 +1,92 @@
+[
+  {
+    "code": "25432",
+    "name": "Hưng Long",
+    "name_en": "Hung Long",
+    "full_name": "Phường Hưng Long",
+    "full_name_en": "Hung Long Ward",
+    "type": "phường",
+    "district_code": "697",
+    "codename": "hung_long"
+  },
+  {
+    "code": "25433",
+    "name": "Thành Tâm",
+    "name_en": "Thanh Tam",
+    "full_name": "Phường Thành Tâm",
+    "full_name_en": "Thanh Tam Ward",
+    "type": "phường",
+    "district_code": "697",
+    "codename": "thanh_tam"
+  },
+  {
+    "code": "25435",
+    "name": "Minh Lập",
+    "name_en": "Minh Lap",
+    "full_name": "Xã Minh Lập",
+    "full_name_en": "Minh Lap Commune",
+    "type": "xã",
+    "district_code": "697",
+    "codename": "minh_lap"
+  },
+  {
+    "code": "25439",
+    "name": "Quang Minh",
+    "name_en": "Quang Minh",
+    "full_name": "Xã Quang Minh",
+    "full_name_en": "Quang Minh Commune",
+    "type": "xã",
+    "district_code": "697",
+    "codename": "quang_minh"
+  },
+  {
+    "code": "25441",
+    "name": "Minh Hưng",
+    "name_en": "Minh Hung",
+    "full_name": "Phường Minh Hưng",
+    "full_name_en": "Minh Hung Ward",
+    "type": "phường",
+    "district_code": "697",
+    "codename": "minh_hung"
+  },
+  {
+    "code": "25444",
+    "name": "Minh Long",
+    "name_en": "Minh Long",
+    "full_name": "Phường Minh Long",
+    "full_name_en": "Minh Long Ward",
+    "type": "phường",
+    "district_code": "697",
+    "codename": "minh_long"
+  },
+  {
+    "code": "25447",
+    "name": "Minh Thành",
+    "name_en": "Minh Thanh",
+    "full_name": "Phường Minh Thành",
+    "full_name_en": "Minh Thanh Ward",
+    "type": "phường",
+    "district_code": "697",
+    "codename": "minh_thanh"
+  },
+  {
+    "code": "25450",
+    "name": "Nha Bích",
+    "name_en": "Nha Bich",
+    "full_name": "Xã Nha Bích",
+    "full_name_en": "Nha Bich Commune",
+    "type": "xã",
+    "district_code": "697",
+    "codename": "nha_bich"
+  },
+  {
+    "code": "25453",
+    "name": "Minh Thắng",
+    "name_en": "Minh Thang",
+    "full_name": "Xã Minh Thắng",
+    "full_name_en": "Minh Thang Commune",
+    "type": "xã",
+    "district_code": "697",
+    "codename": "minh_thang"
+  }
+]

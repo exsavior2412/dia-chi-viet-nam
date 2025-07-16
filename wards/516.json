@@ -1,0 +1,102 @@
+[
+  {
+    "code": "20935",
+    "name": "Trà Leng",
+    "name_en": "Tra Leng",
+    "full_name": "Xã Trà Leng",
+    "full_name_en": "Tra Leng Commune",
+    "type": "xã",
+    "district_code": "516",
+    "codename": "tra_leng"
+  },
+  {
+    "code": "20938",
+    "name": "Trà Dơn",
+    "name_en": "Tra Don",
+    "full_name": "Xã Trà Dơn",
+    "full_name_en": "Tra Don Commune",
+    "type": "xã",
+    "district_code": "516",
+    "codename": "tra_don"
+  },
+  {
+    "code": "20941",
+    "name": "Trà Tập",
+    "name_en": "Tra Tap",
+    "full_name": "Xã Trà Tập",
+    "full_name_en": "Tra Tap Commune",
+    "type": "xã",
+    "district_code": "516",
+    "codename": "tra_tap"
+  },
+  {
+    "code": "20944",
+    "name": "Trà Mai",
+    "name_en": "Tra Mai",
+    "full_name": "Xã Trà Mai",
+    "full_name_en": "Tra Mai Commune",
+    "type": "xã",
+    "district_code": "516",
+    "codename": "tra_mai"
+  },
+  {
+    "code": "20947",
+    "name": "Trà Cang",
+    "name_en": "Tra Cang",
+    "full_name": "Xã Trà Cang",
+    "full_name_en": "Tra Cang Commune",
+    "type": "xã",
+    "district_code": "516",
+    "codename": "tra_cang"
+  },
+  {
+    "code": "20950",
+    "name": "Trà Linh",
+    "name_en": "Tra Linh",
+    "full_name": "Xã Trà Linh",
+    "full_name_en": "Tra Linh Commune",
+    "type": "xã",
+    "district_code": "516",
+    "codename": "tra_linh"
+  },
+  {
+    "code": "20953",
+    "name": "Trà Nam",
+    "name_en": "Tra Nam",
+    "full_name": "Xã Trà Nam",
+    "full_name_en": "Tra Nam Commune",
+    "type": "xã",
+    "district_code": "516",
+    "codename": "tra_nam"
+  },
+  {
+    "code": "20956",
+    "name": "Trà Don",
+    "name_en": "Tra Don",
+    "full_name": "Xã Trà Don",
+    "full_name_en": "Tra Don Commune",
+    "type": "xã",
+    "district_code": "516",
+    "codename": "tra_don"
+  },
+  {
+    "code": "20959",
+    "name": "Trà Vân",
+    "name_en": "Tra Van",
+    "full_name": "Xã Trà Vân",
+    "full_name_en": "Tra Van Commune",
+    "type": "xã",
+    "district_code": "516",
+    "codename": "tra_van"
+  },
+  {
+    "code": "20962",
+    "name": "Trà Vinh",
+    "name_en": "Tra Vinh",
+    "full_name": "Xã Trà Vinh",
+    "full_name_en": "Tra Vinh Commune",
+    "type": "xã",
+    "district_code": "516",
+    "codename": "tra_vinh"
+  }
+]

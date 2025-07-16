@@ -1,0 +1,172 @@
+[
+  {
+    "code": "11239",
+    "name": "Thanh Miện",
+    "name_en": "Thanh Mien",
+    "full_name": "Thị trấn Thanh Miện",
+    "full_name_en": "Thanh Mien Township",
+    "type": "thị trấn",
+    "district_code": "300",
+    "codename": "thanh_mien"
+  },
+  {
+    "code": "11242",
+    "name": "Thanh Tùng",
+    "name_en": "Thanh Tung",
+    "full_name": "Xã Thanh Tùng",
+    "full_name_en": "Thanh Tung Commune",
+    "type": "xã",
+    "district_code": "300",
+    "codename": "thanh_tung"
+  },
+  {
+    "code": "11245",
+    "name": "Phạm Kha",
+    "name_en": "Pham Kha",
+    "full_name": "Xã Phạm Kha",
+    "full_name_en": "Pham Kha Commune",
+    "type": "xã",
+    "district_code": "300",
+    "codename": "pham_kha"
+  },
+  {
+    "code": "11248",
+    "name": "Ngô Quyền",
+    "name_en": "Ngo Quyen",
+    "full_name": "Xã Ngô Quyền",
+    "full_name_en": "Ngo Quyen Commune",
+    "type": "xã",
+    "district_code": "300",
+    "codename": "ngo_quyen"
+  },
+  {
+    "code": "11251",
+    "name": "Đoàn Tùng",
+    "name_en": "Doan Tung",
+    "full_name": "Xã Đoàn Tùng",
+    "full_name_en": "Doan Tung Commune",
+    "type": "xã",
+    "district_code": "300",
+    "codename": "doan_tung"
+  },
+  {
+    "code": "11254",
+    "name": "Hồng Quang",
+    "name_en": "Hong Quang",
+    "full_name": "Xã Hồng Quang",
+    "full_name_en": "Hong Quang Commune",
+    "type": "xã",
+    "district_code": "300",
+    "codename": "hong_quang"
+  },
+  {
+    "code": "11257",
+    "name": "Tân Trào",
+    "name_en": "Tan Trao",
+    "full_name": "Xã Tân Trào",
+    "full_name_en": "Tan Trao Commune",
+    "type": "xã",
+    "district_code": "300",
+    "codename": "tan_trao"
+  },
+  {
+    "code": "11260",
+    "name": "Lam Sơn",
+    "name_en": "Lam Son",
+    "full_name": "Xã Lam Sơn",
+    "full_name_en": "Lam Son Commune",
+    "type": "xã",
+    "district_code": "300",
+    "codename": "lam_son"
+  },
+  {
+    "code": "11263",
+    "name": "Đoàn Kết",
+    "name_en": "Doan Ket",
+    "full_name": "Xã Đoàn Kết",
+    "full_name_en": "Doan Ket Commune",
+    "type": "xã",
+    "district_code": "300",
+    "codename": "doan_ket"
+  },
+  {
+    "code": "11266",
+    "name": "Lê Hồng",
+    "name_en": "Le Hong",
+    "full_name": "Xã Lê Hồng",
+    "full_name_en": "Le Hong Commune",
+    "type": "xã",
+    "district_code": "300",
+    "codename": "le_hong"
+  },
+  {
+    "code": "11269",
+    "name": "Tứ Cường",
+    "name_en": "Tu Cuong",
+    "full_name": "Xã Tứ Cường",
+    "full_name_en": "Tu Cuong Commune",
+    "type": "xã",
+    "district_code": "300",
+    "codename": "tu_cuong"
+  },
+  {
+    "code": "11275",
+    "name": "Ngũ Hùng",
+    "name_en": "Ngu Hung",
+    "full_name": "Xã Ngũ Hùng",
+    "full_name_en": "Ngu Hung Commune",
+    "type": "xã",
+    "district_code": "300",
+    "codename": "ngu_hung"
+  },
+  {
+    "code": "11278",
+    "name": "Cao Thắng",
+    "name_en": "Cao Thang",
+    "full_name": "Xã Cao Thắng",
+    "full_name_en": "Cao Thang Commune",
+    "type": "xã",
+    "district_code": "300",
+    "codename": "cao_thang"
+  },
+  {
+    "code": "11281",
+    "name": "Chi Lăng Bắc",
+    "name_en": "Chi Lang Bac",
+    "full_name": "Xã Chi Lăng Bắc",
+    "full_name_en": "Chi Lang Bac Commune",
+    "type": "xã",
+    "district_code": "300",
+    "codename": "chi_lang_bac"
+  },
+  {
+    "code": "11284",
+    "name": "Chi Lăng Nam",
+    "name_en": "Chi Lang Nam",
+    "full_name": "Xã Chi Lăng Nam",
+    "full_name_en": "Chi Lang Nam Commune",
+    "type": "xã",
+    "district_code": "300",
+    "codename": "chi_lang_nam"
+  },
+  {
+    "code": "11287",
+    "name": "Thanh Giang",
+    "name_en": "Thanh Giang",
+    "full_name": "Xã Thanh Giang",
+    "full_name_en": "Thanh Giang Commune",
+    "type": "xã",
+    "district_code": "300",
+    "codename": "thanh_giang"
+  },
+  {
+    "code": "11293",
+    "name": "Hồng Phong",
+    "name_en": "Hong Phong",
+    "full_name": "Xã Hồng Phong",
+    "full_name_en": "Hong Phong Commune",
+    "type": "xã",
+    "district_code": "300",
+    "codename": "hong_phong"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "code": "22885",
+    "name": "Phước Hà",
+    "name_en": "Phuoc Ha",
+    "full_name": "Xã Phước Hà",
+    "full_name_en": "Phuoc Ha Commune",
+    "type": "xã",
+    "district_code": "589",
+    "codename": "phuoc_ha"
+  },
+  {
+    "code": "22897",
+    "name": "Phước Nam",
+    "name_en": "Phuoc Nam",
+    "full_name": "Xã Phước Nam",
+    "full_name_en": "Phuoc Nam Commune",
+    "type": "xã",
+    "district_code": "589",
+    "codename": "phuoc_nam"
+  },
+  {
+    "code": "22898",
+    "name": "Phước Ninh",
+    "name_en": "Phuoc Ninh",
+    "full_name": "Xã Phước Ninh",
+    "full_name_en": "Phuoc Ninh Commune",
+    "type": "xã",
+    "district_code": "589",
+    "codename": "phuoc_ninh"
+  },
+  {
+    "code": "22900",
+    "name": "Nhị Hà",
+    "name_en": "Nhi Ha",
+    "full_name": "Xã Nhị Hà",
+    "full_name_en": "Nhi Ha Commune",
+    "type": "xã",
+    "district_code": "589",
+    "codename": "nhi_ha"
+  },
+  {
+    "code": "22903",
+    "name": "Phước Dinh",
+    "name_en": "Phuoc Dinh",
+    "full_name": "Xã Phước Dinh",
+    "full_name_en": "Phuoc Dinh Commune",
+    "type": "xã",
+    "district_code": "589",
+    "codename": "phuoc_dinh"
+  },
+  {
+    "code": "22906",
+    "name": "Phước Minh",
+    "name_en": "Phuoc Minh",
+    "full_name": "Xã Phước Minh",
+    "full_name_en": "Phuoc Minh Commune",
+    "type": "xã",
+    "district_code": "589",
+    "codename": "phuoc_minh"
+  },
+  {
+    "code": "22909",
+    "name": "Phước Diêm",
+    "name_en": "Phuoc Diem",
+    "full_name": "Xã Phước Diêm",
+    "full_name_en": "Phuoc Diem Commune",
+    "type": "xã",
+    "district_code": "589",
+    "codename": "phuoc_diem"
+  },
+  {
+    "code": "22910",
+    "name": "Cà Ná",
+    "name_en": "Ca Na",
+    "full_name": "Xã Cà Ná",
+    "full_name_en": "Ca Na Commune",
+    "type": "xã",
+    "district_code": "589",
+    "codename": "ca_na"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "code": "336",
+    "name": "Thái Bình",
+    "name_en": "Thai Binh",
+    "full_name": "Thành phố Thái Bình",
+    "full_name_en": "Thai Binh City",
+    "type": "thành phố",
+    "province_code": "34",
+    "codename": "thai_binh"
+  },
+  {
+    "code": "338",
+    "name": "Quỳnh Phụ",
+    "name_en": "Quynh Phu",
+    "full_name": "Huyện Quỳnh Phụ",
+    "full_name_en": "Quynh Phu District",
+    "type": "huyện",
+    "province_code": "34",
+    "codename": "quynh_phu"
+  },
+  {
+    "code": "339",
+    "name": "Hưng Hà",
+    "name_en": "Hung Ha",
+    "full_name": "Huyện Hưng Hà",
+    "full_name_en": "Hung Ha District",
+    "type": "huyện",
+    "province_code": "34",
+    "codename": "hung_ha"
+  },
+  {
+    "code": "340",
+    "name": "Đông Hưng",
+    "name_en": "Dong Hung",
+    "full_name": "Huyện Đông Hưng",
+    "full_name_en": "Dong Hung District",
+    "type": "huyện",
+    "province_code": "34",
+    "codename": "dong_hung"
+  },
+  {
+    "code": "341",
+    "name": "Thái Thụy",
+    "name_en": "Thai Thuy",
+    "full_name": "Huyện Thái Thụy",
+    "full_name_en": "Thai Thuy District",
+    "type": "huyện",
+    "province_code": "34",
+    "codename": "thai_thuy"
+  },
+  {
+    "code": "342",
+    "name": "Tiền Hải",
+    "name_en": "Tien Hai",
+    "full_name": "Huyện Tiền Hải",
+    "full_name_en": "Tien Hai District",
+    "type": "huyện",
+    "province_code": "34",
+    "codename": "tien_hai"
+  },
+  {
+    "code": "343",
+    "name": "Kiến Xương",
+    "name_en": "Kien Xuong",
+    "full_name": "Huyện Kiến Xương",
+    "full_name_en": "Kien Xuong District",
+    "type": "huyện",
+    "province_code": "34",
+    "codename": "kien_xuong"
+  },
+  {
+    "code": "344",
+    "name": "Vũ Thư",
+    "name_en": "Vu Thu",
+    "full_name": "Huyện Vũ Thư",
+    "full_name_en": "Vu Thu District",
+    "type": "huyện",
+    "province_code": "34",
+    "codename": "vu_thu"
+  }
+]

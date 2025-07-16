@@ -1,0 +1,112 @@
+[
+  {
+    "code": "941",
+    "name": "Sóc Trăng",
+    "name_en": "Soc Trang",
+    "full_name": "Thành phố Sóc Trăng",
+    "full_name_en": "Soc Trang City",
+    "type": "thành phố",
+    "province_code": "94",
+    "codename": "soc_trang"
+  },
+  {
+    "code": "942",
+    "name": "Châu Thành",
+    "name_en": "Chau Thanh",
+    "full_name": "Huyện Châu Thành",
+    "full_name_en": "Chau Thanh District",
+    "type": "huyện",
+    "province_code": "94",
+    "codename": "chau_thanh"
+  },
+  {
+    "code": "943",
+    "name": "Kế Sách",
+    "name_en": "Ke Sach",
+    "full_name": "Huyện Kế Sách",
+    "full_name_en": "Ke Sach District",
+    "type": "huyện",
+    "province_code": "94",
+    "codename": "ke_sach"
+  },
+  {
+    "code": "944",
+    "name": "Mỹ Tú",
+    "name_en": "My Tu",
+    "full_name": "Huyện Mỹ Tú",
+    "full_name_en": "My Tu District",
+    "type": "huyện",
+    "province_code": "94",
+    "codename": "my_tu"
+  },
+  {
+    "code": "945",
+    "name": "Cù Lao Dung",
+    "name_en": "Cu Lao Dung",
+    "full_name": "Huyện Cù Lao Dung",
+    "full_name_en": "Cu Lao Dung District",
+    "type": "huyện",
+    "province_code": "94",
+    "codename": "cu_lao_dung"
+  },
+  {
+    "code": "946",
+    "name": "Long Phú",
+    "name_en": "Long Phu",
+    "full_name": "Huyện Long Phú",
+    "full_name_en": "Long Phu District",
+    "type": "huyện",
+    "province_code": "94",
+    "codename": "long_phu"
+  },
+  {
+    "code": "947",
+    "name": "Mỹ Xuyên",
+    "name_en": "My Xuyen",
+    "full_name": "Huyện Mỹ Xuyên",
+    "full_name_en": "My Xuyen District",
+    "type": "huyện",
+    "province_code": "94",
+    "codename": "my_xuyen"
+  },
+  {
+    "code": "948",
+    "name": "Ngã Năm",
+    "name_en": "Nga Nam",
+    "full_name": "Thị xã Ngã Năm",
+    "full_name_en": "Nga Nam Town",
+    "type": "thị xã",
+    "province_code": "94",
+    "codename": "nga_nam"
+  },
+  {
+    "code": "949",
+    "name": "Thạnh Trị",
+    "name_en": "Thanh Tri",
+    "full_name": "Huyện Thạnh Trị",
+    "full_name_en": "Thanh Tri District",
+    "type": "huyện",
+    "province_code": "94",
+    "codename": "thanh_tri"
+  },
+  {
+    "code": "950",
+    "name": "Vĩnh Châu",
+    "name_en": "Vinh Chau",
+    "full_name": "Thị xã Vĩnh Châu",
+    "full_name_en": "Vinh Chau Town",
+    "type": "thị xã",
+    "province_code": "94",
+    "codename": "vinh_chau"
+  },
+  {
+    "code": "951",
+    "name": "Trần Đề",
+    "name_en": "Tran De",
+    "full_name": "Huyện Trần Đề",
+    "full_name_en": "Tran De District",
+    "type": "huyện",
+    "province_code": "94",
+    "codename": "tran_de"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "code": "00241",
+    "name": "Nguyễn Du",
+    "name_en": "Nguyen Du",
+    "full_name": "Phường Nguyễn Du",
+    "full_name_en": "Nguyen Du Ward",
+    "type": "phường",
+    "district_code": "007",
+    "codename": "nguyen_du"
+  },
+  {
+    "code": "00244",
+    "name": "Bạch Đằng",
+    "name_en": "Bach Dang",
+    "full_name": "Phường Bạch Đằng",
+    "full_name_en": "Bach Dang Ward",
+    "type": "phường",
+    "district_code": "007",
+    "codename": "bach_dang"
+  },
+  {
+    "code": "00247",
+    "name": "Phạm Đình Hổ",
+    "name_en": "Pham Dinh Ho",
+    "full_name": "Phường Phạm Đình Hổ",
+    "full_name_en": "Pham Dinh Ho Ward",
+    "type": "phường",
+    "district_code": "007",
+    "codename": "pham_dinh_ho"
+  },
+  {
+    "code": "00256",
+    "name": "Lê Đại Hành",
+    "name_en": "Le Dai Hanh",
+    "full_name": "Phường Lê Đại Hành",
+    "full_name_en": "Le Dai Hanh Ward",
+    "type": "phường",
+    "district_code": "007",
+    "codename": "le_dai_hanh"
+  },
+  {
+    "code": "00259",
+    "name": "Đồng Nhân",
+    "name_en": "Dong Nhan",
+    "full_name": "Phường Đồng Nhân",
+    "full_name_en": "Dong Nhan Ward",
+    "type": "phường",
+    "district_code": "007",
+    "codename": "dong_nhan"
+  },
+  {
+    "code": "00262",
+    "name": "Phố Huế",
+    "name_en": "Pho Hue",
+    "full_name": "Phường Phố Huế",
+    "full_name_en": "Pho Hue Ward",
+    "type": "phường",
+    "district_code": "007",
+    "codename": "pho_hue"
+  },
+  {
+    "code": "00268",
+    "name": "Thanh Lương",
+    "name_en": "Thanh Luong",
+    "full_name": "Phường Thanh Lương",
+    "full_name_en": "Thanh Luong Ward",
+    "type": "phường",
+    "district_code": "007",
+    "codename": "thanh_luong"
+  },
+  {
+    "code": "00271",
+    "name": "Thanh Nhàn",
+    "name_en": "Thanh Nhan",
+    "full_name": "Phường Thanh Nhàn",
+    "full_name_en": "Thanh Nhan Ward",
+    "type": "phường",
+    "district_code": "007",
+    "codename": "thanh_nhan"
+  },
+  {
+    "code": "00277",
+    "name": "Bách Khoa",
+    "name_en": "Bach Khoa",
+    "full_name": "Phường Bách Khoa",
+    "full_name_en": "Bach Khoa Ward",
+    "type": "phường",
+    "district_code": "007",
+    "codename": "bach_khoa"
+  },
+  {
+    "code": "00280",
+    "name": "Đồng Tâm",
+    "name_en": "Dong Tam",
+    "full_name": "Phường Đồng Tâm",
+    "full_name_en": "Dong Tam Ward",
+    "type": "phường",
+    "district_code": "007",
+    "codename": "dong_tam"
+  },
+  {
+    "code": "00283",
+    "name": "Vĩnh Tuy",
+    "name_en": "Vinh Tuy",
+    "full_name": "Phường Vĩnh Tuy",
+    "full_name_en": "Vinh Tuy Ward",
+    "type": "phường",
+    "district_code": "007",
+    "codename": "vinh_tuy"
+  },
+  {
+    "code": "00289",
+    "name": "Quỳnh Mai",
+    "name_en": "Quynh Mai",
+    "full_name": "Phường Quỳnh Mai",
+    "full_name_en": "Quynh Mai Ward",
+    "type": "phường",
+    "district_code": "007",
+    "codename": "quynh_mai"
+  },
+  {
+    "code": "00292",
+    "name": "Bạch Mai",
+    "name_en": "Bach Mai",
+    "full_name": "Phường Bạch Mai",
+    "full_name_en": "Bach Mai Ward",
+    "type": "phường",
+    "district_code": "007",
+    "codename": "bach_mai"
+  },
+  {
+    "code": "00295",
+    "name": "Minh Khai",
+    "name_en": "Minh Khai",
+    "full_name": "Phường Minh Khai",
+    "full_name_en": "Minh Khai Ward",
+    "type": "phường",
+    "district_code": "007",
+    "codename": "minh_khai"
+  },
+  {
+    "code": "00298",
+    "name": "Trương Định",
+    "name_en": "Truong Dinh",
+    "full_name": "Phường Trương Định",
+    "full_name_en": "Truong Dinh Ward",
+    "type": "phường",
+    "district_code": "007",
+    "codename": "truong_dinh"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "code": "31051",
+    "name": "Vĩnh Thuận",
+    "name_en": "Vinh Thuan",
+    "full_name": "Thị trấn Vĩnh Thuận",
+    "full_name_en": "Vinh Thuan Township",
+    "type": "thị trấn",
+    "district_code": "910",
+    "codename": "vinh_thuan"
+  },
+  {
+    "code": "31060",
+    "name": "Vĩnh Bình Bắc",
+    "name_en": "Vinh Binh Bac",
+    "full_name": "Xã Vĩnh Bình Bắc",
+    "full_name_en": "Vinh Binh Bac Commune",
+    "type": "xã",
+    "district_code": "910",
+    "codename": "vinh_binh_bac"
+  },
+  {
+    "code": "31063",
+    "name": "Vĩnh Bình Nam",
+    "name_en": "Vinh Binh Nam",
+    "full_name": "Xã Vĩnh Bình Nam",
+    "full_name_en": "Vinh Binh Nam Commune",
+    "type": "xã",
+    "district_code": "910",
+    "codename": "vinh_binh_nam"
+  },
+  {
+    "code": "31064",
+    "name": "Bình Minh",
+    "name_en": "Binh Minh",
+    "full_name": "Xã Bình Minh",
+    "full_name_en": "Binh Minh Commune",
+    "type": "xã",
+    "district_code": "910",
+    "codename": "binh_minh"
+  },
+  {
+    "code": "31069",
+    "name": "Vĩnh Thuận",
+    "name_en": "Vinh Thuan",
+    "full_name": "Xã Vĩnh Thuận",
+    "full_name_en": "Vinh Thuan Commune",
+    "type": "xã",
+    "district_code": "910",
+    "codename": "vinh_thuan"
+  },
+  {
+    "code": "31072",
+    "name": "Tân Thuận",
+    "name_en": "Tan Thuan",
+    "full_name": "Xã Tân Thuận",
+    "full_name_en": "Tan Thuan Commune",
+    "type": "xã",
+    "district_code": "910",
+    "codename": "tan_thuan"
+  },
+  {
+    "code": "31074",
+    "name": "Phong Đông",
+    "name_en": "Phong Dong",
+    "full_name": "Xã Phong Đông",
+    "full_name_en": "Phong Dong Commune",
+    "type": "xã",
+    "district_code": "910",
+    "codename": "phong_dong"
+  },
+  {
+    "code": "31075",
+    "name": "Vĩnh Phong",
+    "name_en": "Vinh Phong",
+    "full_name": "Xã Vĩnh Phong",
+    "full_name_en": "Vinh Phong Commune",
+    "type": "xã",
+    "district_code": "910",
+    "codename": "vinh_phong"
+  }
+]

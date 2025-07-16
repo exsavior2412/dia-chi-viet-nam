@@ -1,0 +1,132 @@
+[
+  {
+    "code": "01534",
+    "name": "Minh Long",
+    "name_en": "Minh Long",
+    "full_name": "Xã Minh Long",
+    "full_name_en": "Minh Long Commune",
+    "type": "xã",
+    "district_code": "048",
+    "codename": "minh_long"
+  },
+  {
+    "code": "01537",
+    "name": "Lý Quốc",
+    "name_en": "Ly Quoc",
+    "full_name": "Xã Lý Quốc",
+    "full_name_en": "Ly Quoc Commune",
+    "type": "xã",
+    "district_code": "048",
+    "codename": "ly_quoc"
+  },
+  {
+    "code": "01540",
+    "name": "Thắng Lợi",
+    "name_en": "Thang Loi",
+    "full_name": "Xã Thắng Lợi",
+    "full_name_en": "Thang Loi Commune",
+    "type": "xã",
+    "district_code": "048",
+    "codename": "thang_loi"
+  },
+  {
+    "code": "01543",
+    "name": "Đồng Loan",
+    "name_en": "Dong Loan",
+    "full_name": "Xã Đồng Loan",
+    "full_name_en": "Dong Loan Commune",
+    "type": "xã",
+    "district_code": "048",
+    "codename": "dong_loan"
+  },
+  {
+    "code": "01546",
+    "name": "Đức Quang",
+    "name_en": "Duc Quang",
+    "full_name": "Xã Đức Quang",
+    "full_name_en": "Duc Quang Commune",
+    "type": "xã",
+    "district_code": "048",
+    "codename": "duc_quang"
+  },
+  {
+    "code": "01549",
+    "name": "Kim Loan",
+    "name_en": "Kim Loan",
+    "full_name": "Xã Kim Loan",
+    "full_name_en": "Kim Loan Commune",
+    "type": "xã",
+    "district_code": "048",
+    "codename": "kim_loan"
+  },
+  {
+    "code": "01552",
+    "name": "Quang Long",
+    "name_en": "Quang Long",
+    "full_name": "Xã Quang Long",
+    "full_name_en": "Quang Long Commune",
+    "type": "xã",
+    "district_code": "048",
+    "codename": "quang_long"
+  },
+  {
+    "code": "01555",
+    "name": "An Lạc",
+    "name_en": "An Lac",
+    "full_name": "Xã An Lạc",
+    "full_name_en": "An Lac Commune",
+    "type": "xã",
+    "district_code": "048",
+    "codename": "an_lac"
+  },
+  {
+    "code": "01558",
+    "name": "Thanh Nhật",
+    "name_en": "Thanh Nhat",
+    "full_name": "Thị trấn Thanh Nhật",
+    "full_name_en": "Thanh Nhat Township",
+    "type": "thị trấn",
+    "district_code": "048",
+    "codename": "thanh_nhat"
+  },
+  {
+    "code": "01561",
+    "name": "Vinh Quý",
+    "name_en": "Vinh Quy",
+    "full_name": "Xã Vinh Quý",
+    "full_name_en": "Vinh Quy Commune",
+    "type": "xã",
+    "district_code": "048",
+    "codename": "vinh_quy"
+  },
+  {
+    "code": "01564",
+    "name": "Thống Nhất",
+    "name_en": "Thong Nhat",
+    "full_name": "Xã Thống Nhất",
+    "full_name_en": "Thong Nhat Commune",
+    "type": "xã",
+    "district_code": "048",
+    "codename": "thong_nhat"
+  },
+  {
+    "code": "01567",
+    "name": "Cô Ngân",
+    "name_en": "Co Ngan",
+    "full_name": "Xã Cô Ngân",
+    "full_name_en": "Co Ngan Commune",
+    "type": "xã",
+    "district_code": "048",
+    "codename": "co_ngan"
+  },
+  {
+    "code": "01573",
+    "name": "Thị Hoa",
+    "name_en": "Thi Hoa",
+    "full_name": "Xã Thị Hoa",
+    "full_name_en": "Thi Hoa Commune",
+    "type": "xã",
+    "district_code": "048",
+    "codename": "thi_hoa"
+  }
+]

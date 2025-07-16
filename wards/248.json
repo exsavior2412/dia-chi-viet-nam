@@ -1,0 +1,92 @@
+[
+  {
+    "code": "08908",
+    "name": "Tam Đảo",
+    "name_en": "Tam Dao",
+    "full_name": "Thị trấn Tam Đảo",
+    "full_name_en": "Tam Dao Township",
+    "type": "thị trấn",
+    "district_code": "248",
+    "codename": "tam_dao"
+  },
+  {
+    "code": "08911",
+    "name": "Hợp Châu",
+    "name_en": "Hop Chau",
+    "full_name": "Thị trấn Hợp Châu",
+    "full_name_en": "Hop Chau Township",
+    "type": "thị trấn",
+    "district_code": "248",
+    "codename": "hop_chau"
+  },
+  {
+    "code": "08914",
+    "name": "Đạo Trù",
+    "name_en": "Dao Tru",
+    "full_name": "Xã Đạo Trù",
+    "full_name_en": "Dao Tru Commune",
+    "type": "xã",
+    "district_code": "248",
+    "codename": "dao_tru"
+  },
+  {
+    "code": "08917",
+    "name": "Yên Dương",
+    "name_en": "Yen Duong",
+    "full_name": "Xã Yên Dương",
+    "full_name_en": "Yen Duong Commune",
+    "type": "xã",
+    "district_code": "248",
+    "codename": "yen_duong"
+  },
+  {
+    "code": "08920",
+    "name": "Bồ Lý",
+    "name_en": "Bo Ly",
+    "full_name": "Xã Bồ Lý",
+    "full_name_en": "Bo Ly Commune",
+    "type": "xã",
+    "district_code": "248",
+    "codename": "bo_ly"
+  },
+  {
+    "code": "08923",
+    "name": "Đại Đình",
+    "name_en": "Dai Dinh",
+    "full_name": "Thị trấn Đại Đình",
+    "full_name_en": "Dai Dinh Township",
+    "type": "thị trấn",
+    "district_code": "248",
+    "codename": "dai_dinh"
+  },
+  {
+    "code": "08926",
+    "name": "Tam Quan",
+    "name_en": "Tam Quan",
+    "full_name": "Xã Tam Quan",
+    "full_name_en": "Tam Quan Commune",
+    "type": "xã",
+    "district_code": "248",
+    "codename": "tam_quan"
+  },
+  {
+    "code": "08929",
+    "name": "Hồ Sơn",
+    "name_en": "Ho Son",
+    "full_name": "Xã Hồ Sơn",
+    "full_name_en": "Ho Son Commune",
+    "type": "xã",
+    "district_code": "248",
+    "codename": "ho_son"
+  },
+  {
+    "code": "08932",
+    "name": "Minh Quang",
+    "name_en": "Minh Quang",
+    "full_name": "Xã Minh Quang",
+    "full_name_en": "Minh Quang Commune",
+    "type": "xã",
+    "district_code": "248",
+    "codename": "minh_quang"
+  }
+]

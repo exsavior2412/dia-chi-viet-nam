@@ -1,0 +1,182 @@
+[
+  {
+    "code": "30406",
+    "name": "Phú Mỹ",
+    "name_en": "Phu My",
+    "full_name": "Thị trấn Phú Mỹ",
+    "full_name_en": "Phu My Township",
+    "type": "thị trấn",
+    "district_code": "888",
+    "codename": "phu_my"
+  },
+  {
+    "code": "30409",
+    "name": "Chợ Vàm",
+    "name_en": "Cho Vam",
+    "full_name": "Thị trấn Chợ Vàm",
+    "full_name_en": "Cho Vam Township",
+    "type": "thị trấn",
+    "district_code": "888",
+    "codename": "cho_vam"
+  },
+  {
+    "code": "30415",
+    "name": "Long Hoà",
+    "name_en": "Long Hoa",
+    "full_name": "Xã Long Hoà",
+    "full_name_en": "Long Hoa Commune",
+    "type": "xã",
+    "district_code": "888",
+    "codename": "long_hoa"
+  },
+  {
+    "code": "30418",
+    "name": "Phú Long",
+    "name_en": "Phu Long",
+    "full_name": "Xã Phú Long",
+    "full_name_en": "Phu Long Commune",
+    "type": "xã",
+    "district_code": "888",
+    "codename": "phu_long"
+  },
+  {
+    "code": "30421",
+    "name": "Phú Lâm",
+    "name_en": "Phu Lam",
+    "full_name": "Xã Phú Lâm",
+    "full_name_en": "Phu Lam Commune",
+    "type": "xã",
+    "district_code": "888",
+    "codename": "phu_lam"
+  },
+  {
+    "code": "30424",
+    "name": "Phú Hiệp",
+    "name_en": "Phu Hiep",
+    "full_name": "Xã Phú Hiệp",
+    "full_name_en": "Phu Hiep Commune",
+    "type": "xã",
+    "district_code": "888",
+    "codename": "phu_hiep"
+  },
+  {
+    "code": "30427",
+    "name": "Phú Thạnh",
+    "name_en": "Phu Thanh",
+    "full_name": "Xã Phú Thạnh",
+    "full_name_en": "Phu Thanh Commune",
+    "type": "xã",
+    "district_code": "888",
+    "codename": "phu_thanh"
+  },
+  {
+    "code": "30430",
+    "name": "Hoà Lạc",
+    "name_en": "Hoa Lac",
+    "full_name": "Xã Hoà Lạc",
+    "full_name_en": "Hoa Lac Commune",
+    "type": "xã",
+    "district_code": "888",
+    "codename": "hoa_lac"
+  },
+  {
+    "code": "30433",
+    "name": "Phú Thành",
+    "name_en": "Phu Thanh",
+    "full_name": "Xã Phú Thành",
+    "full_name_en": "Phu Thanh Commune",
+    "type": "xã",
+    "district_code": "888",
+    "codename": "phu_thanh"
+  },
+  {
+    "code": "30436",
+    "name": "Phú An",
+    "name_en": "Phu An",
+    "full_name": "Xã Phú An",
+    "full_name_en": "Phu An Commune",
+    "type": "xã",
+    "district_code": "888",
+    "codename": "phu_an"
+  },
+  {
+    "code": "30439",
+    "name": "Phú Xuân",
+    "name_en": "Phu Xuan",
+    "full_name": "Xã Phú Xuân",
+    "full_name_en": "Phu Xuan Commune",
+    "type": "xã",
+    "district_code": "888",
+    "codename": "phu_xuan"
+  },
+  {
+    "code": "30442",
+    "name": "Hiệp Xương",
+    "name_en": "Hiep Xuong",
+    "full_name": "Xã Hiệp Xương",
+    "full_name_en": "Hiep Xuong Commune",
+    "type": "xã",
+    "district_code": "888",
+    "codename": "hiep_xuong"
+  },
+  {
+    "code": "30445",
+    "name": "Phú Bình",
+    "name_en": "Phu Binh",
+    "full_name": "Xã Phú Bình",
+    "full_name_en": "Phu Binh Commune",
+    "type": "xã",
+    "district_code": "888",
+    "codename": "phu_binh"
+  },
+  {
+    "code": "30448",
+    "name": "Phú Thọ",
+    "name_en": "Phu Tho",
+    "full_name": "Xã Phú Thọ",
+    "full_name_en": "Phu Tho Commune",
+    "type": "xã",
+    "district_code": "888",
+    "codename": "phu_tho"
+  },
+  {
+    "code": "30451",
+    "name": "Phú Hưng",
+    "name_en": "Phu Hung",
+    "full_name": "Xã Phú Hưng",
+    "full_name_en": "Phu Hung Commune",
+    "type": "xã",
+    "district_code": "888",
+    "codename": "phu_hung"
+  },
+  {
+    "code": "30454",
+    "name": "Bình Thạnh Đông",
+    "name_en": "Binh Thanh Dong",
+    "full_name": "Xã Bình Thạnh Đông",
+    "full_name_en": "Binh Thanh Dong Commune",
+    "type": "xã",
+    "district_code": "888",
+    "codename": "binh_thanh_dong"
+  },
+  {
+    "code": "30457",
+    "name": "Tân Hòa",
+    "name_en": "Tan Hoa",
+    "full_name": "Xã Tân Hòa",
+    "full_name_en": "Tan Hoa Commune",
+    "type": "xã",
+    "district_code": "888",
+    "codename": "tan_hoa"
+  },
+  {
+    "code": "30460",
+    "name": "Tân Trung",
+    "name_en": "Tan Trung",
+    "full_name": "Xã Tân Trung",
+    "full_name_en": "Tan Trung Commune",
+    "type": "xã",
+    "district_code": "888",
+    "codename": "tan_trung"
+  }
+]

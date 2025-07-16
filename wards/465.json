@@ -1,0 +1,212 @@
+[
+  {
+    "code": "19429",
+    "name": "Khe Sanh",
+    "name_en": "Khe Sanh",
+    "full_name": "Thị trấn Khe Sanh",
+    "full_name_en": "Khe Sanh Township",
+    "type": "thị trấn",
+    "district_code": "465",
+    "codename": "khe_sanh"
+  },
+  {
+    "code": "19432",
+    "name": "Lao Bảo",
+    "name_en": "Lao Bao",
+    "full_name": "Thị trấn Lao Bảo",
+    "full_name_en": "Lao Bao Township",
+    "type": "thị trấn",
+    "district_code": "465",
+    "codename": "lao_bao"
+  },
+  {
+    "code": "19435",
+    "name": "Hướng Lập",
+    "name_en": "Huong Lap",
+    "full_name": "Xã Hướng Lập",
+    "full_name_en": "Huong Lap Commune",
+    "type": "xã",
+    "district_code": "465",
+    "codename": "huong_lap"
+  },
+  {
+    "code": "19438",
+    "name": "Hướng Việt",
+    "name_en": "Huong Viet",
+    "full_name": "Xã Hướng Việt",
+    "full_name_en": "Huong Viet Commune",
+    "type": "xã",
+    "district_code": "465",
+    "codename": "huong_viet"
+  },
+  {
+    "code": "19441",
+    "name": "Hướng Phùng",
+    "name_en": "Huong Phung",
+    "full_name": "Xã Hướng Phùng",
+    "full_name_en": "Huong Phung Commune",
+    "type": "xã",
+    "district_code": "465",
+    "codename": "huong_phung"
+  },
+  {
+    "code": "19444",
+    "name": "Hướng Sơn",
+    "name_en": "Huong Son",
+    "full_name": "Xã Hướng Sơn",
+    "full_name_en": "Huong Son Commune",
+    "type": "xã",
+    "district_code": "465",
+    "codename": "huong_son"
+  },
+  {
+    "code": "19447",
+    "name": "Hướng Linh",
+    "name_en": "Huong Linh",
+    "full_name": "Xã Hướng Linh",
+    "full_name_en": "Huong Linh Commune",
+    "type": "xã",
+    "district_code": "465",
+    "codename": "huong_linh"
+  },
+  {
+    "code": "19450",
+    "name": "Tân Hợp",
+    "name_en": "Tan Hop",
+    "full_name": "Xã Tân Hợp",
+    "full_name_en": "Tan Hop Commune",
+    "type": "xã",
+    "district_code": "465",
+    "codename": "tan_hop"
+  },
+  {
+    "code": "19453",
+    "name": "Hướng Tân",
+    "name_en": "Huong Tan",
+    "full_name": "Xã Hướng Tân",
+    "full_name_en": "Huong Tan Commune",
+    "type": "xã",
+    "district_code": "465",
+    "codename": "huong_tan"
+  },
+  {
+    "code": "19456",
+    "name": "Tân Thành",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thành",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "465",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "19459",
+    "name": "Tân Long",
+    "name_en": "Tan Long",
+    "full_name": "Xã Tân Long",
+    "full_name_en": "Tan Long Commune",
+    "type": "xã",
+    "district_code": "465",
+    "codename": "tan_long"
+  },
+  {
+    "code": "19462",
+    "name": "Tân Lập",
+    "name_en": "Tan Lap",
+    "full_name": "Xã Tân Lập",
+    "full_name_en": "Tan Lap Commune",
+    "type": "xã",
+    "district_code": "465",
+    "codename": "tan_lap"
+  },
+  {
+    "code": "19465",
+    "name": "Tân Liên",
+    "name_en": "Tan Lien",
+    "full_name": "Xã Tân Liên",
+    "full_name_en": "Tan Lien Commune",
+    "type": "xã",
+    "district_code": "465",
+    "codename": "tan_lien"
+  },
+  {
+    "code": "19468",
+    "name": "Húc",
+    "name_en": "Huc",
+    "full_name": "Xã Húc",
+    "full_name_en": "Huc Commune",
+    "type": "xã",
+    "district_code": "465",
+    "codename": "huc"
+  },
+  {
+    "code": "19471",
+    "name": "Thuận",
+    "name_en": "Thuan",
+    "full_name": "Xã Thuận",
+    "full_name_en": "Thuan Commune",
+    "type": "xã",
+    "district_code": "465",
+    "codename": "thuan"
+  },
+  {
+    "code": "19474",
+    "name": "Hướng Lộc",
+    "name_en": "Huong Loc",
+    "full_name": "Xã Hướng Lộc",
+    "full_name_en": "Huong Loc Commune",
+    "type": "xã",
+    "district_code": "465",
+    "codename": "huong_loc"
+  },
+  {
+    "code": "19477",
+    "name": "Ba Tầng",
+    "name_en": "Ba Tang",
+    "full_name": "Xã Ba Tầng",
+    "full_name_en": "Ba Tang Commune",
+    "type": "xã",
+    "district_code": "465",
+    "codename": "ba_tang"
+  },
+  {
+    "code": "19480",
+    "name": "Thanh",
+    "name_en": "Thanh",
+    "full_name": "Xã Thanh",
+    "full_name_en": "Thanh Commune",
+    "type": "xã",
+    "district_code": "465",
+    "codename": "thanh"
+  },
+  {
+    "code": "19483",
+    "name": "A Dơi",
+    "name_en": "A Doi",
+    "full_name": "Xã A Dơi",
+    "full_name_en": "A Doi Commune",
+    "type": "xã",
+    "district_code": "465",
+    "codename": "a_doi"
+  },
+  {
+    "code": "19489",
+    "name": "Lìa",
+    "name_en": "Lia",
+    "full_name": "Xã Lìa",
+    "full_name_en": "Lia Commune",
+    "type": "xã",
+    "district_code": "465",
+    "codename": "lia"
+  },
+  {
+    "code": "19492",
+    "name": "Xy",
+    "name_en": "Xy",
+    "full_name": "Xã Xy",
+    "full_name_en": "Xy Commune",
+    "type": "xã",
+    "district_code": "465",
+    "codename": "xy"
+  }
+]

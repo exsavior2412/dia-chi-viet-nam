@@ -1,0 +1,172 @@
+[
+  {
+    "code": "24256",
+    "name": "Ea Pốk",
+    "name_en": "Ea Pok",
+    "full_name": "Thị trấn Ea Pốk",
+    "full_name_en": "Ea Pok Township",
+    "type": "thị trấn",
+    "district_code": "648",
+    "codename": "ea_pok"
+  },
+  {
+    "code": "24259",
+    "name": "Quảng Phú",
+    "name_en": "Quang Phu",
+    "full_name": "Thị trấn Quảng Phú",
+    "full_name_en": "Quang Phu Township",
+    "type": "thị trấn",
+    "district_code": "648",
+    "codename": "quang_phu"
+  },
+  {
+    "code": "24262",
+    "name": "Quảng Tiến",
+    "name_en": "Quang Tien",
+    "full_name": "Xã Quảng Tiến",
+    "full_name_en": "Quang Tien Commune",
+    "type": "xã",
+    "district_code": "648",
+    "codename": "quang_tien"
+  },
+  {
+    "code": "24264",
+    "name": "Ea Kuêh",
+    "name_en": "Ea Kueh",
+    "full_name": "Xã Ea Kuêh",
+    "full_name_en": "Ea Kueh Commune",
+    "type": "xã",
+    "district_code": "648",
+    "codename": "ea_kueh"
+  },
+  {
+    "code": "24265",
+    "name": "Ea Kiết",
+    "name_en": "Ea Kiet",
+    "full_name": "Xã Ea Kiết",
+    "full_name_en": "Ea Kiet Commune",
+    "type": "xã",
+    "district_code": "648",
+    "codename": "ea_kiet"
+  },
+  {
+    "code": "24268",
+    "name": "Ea Tar",
+    "name_en": "Ea Tar",
+    "full_name": "Xã Ea Tar",
+    "full_name_en": "Ea Tar Commune",
+    "type": "xã",
+    "district_code": "648",
+    "codename": "ea_tar"
+  },
+  {
+    "code": "24271",
+    "name": "Cư Dliê M'nông",
+    "name_en": "Cu Dlie M'nong",
+    "full_name": "Xã Cư Dliê M'nông",
+    "full_name_en": "Cu Dlie M'nong Commune",
+    "type": "xã",
+    "district_code": "648",
+    "codename": "cu_dlie_mnong"
+  },
+  {
+    "code": "24274",
+    "name": "Ea H'đinh",
+    "name_en": "Ea H'dinh",
+    "full_name": "Xã Ea H'đinh",
+    "full_name_en": "Ea H'dinh Commune",
+    "type": "xã",
+    "district_code": "648",
+    "codename": "ea_hdinh"
+  },
+  {
+    "code": "24277",
+    "name": "Ea Tul",
+    "name_en": "Ea Tul",
+    "full_name": "Xã Ea Tul",
+    "full_name_en": "Ea Tul Commune",
+    "type": "xã",
+    "district_code": "648",
+    "codename": "ea_tul"
+  },
+  {
+    "code": "24280",
+    "name": "Ea KPam",
+    "name_en": "Ea KPam",
+    "full_name": "Xã Ea KPam",
+    "full_name_en": "Ea KPam Commune",
+    "type": "xã",
+    "district_code": "648",
+    "codename": "ea_kpam"
+  },
+  {
+    "code": "24283",
+    "name": "Ea M'DRóh",
+    "name_en": "Ea M'DRoh",
+    "full_name": "Xã Ea M'DRóh",
+    "full_name_en": "Ea M'DRoh Commune",
+    "type": "xã",
+    "district_code": "648",
+    "codename": "ea_mdroh"
+  },
+  {
+    "code": "24286",
+    "name": "Quảng Hiệp",
+    "name_en": "Quang Hiep",
+    "full_name": "Xã Quảng Hiệp",
+    "full_name_en": "Quang Hiep Commune",
+    "type": "xã",
+    "district_code": "648",
+    "codename": "quang_hiep"
+  },
+  {
+    "code": "24289",
+    "name": "Cư M'gar",
+    "name_en": "Cu M'gar",
+    "full_name": "Xã Cư M'gar",
+    "full_name_en": "Cu M'gar Commune",
+    "type": "xã",
+    "district_code": "648",
+    "codename": "cu_mgar"
+  },
+  {
+    "code": "24292",
+    "name": "Ea D'Rơng",
+    "name_en": "Ea D'Rong",
+    "full_name": "Xã Ea D'Rơng",
+    "full_name_en": "Ea D'Rong Commune",
+    "type": "xã",
+    "district_code": "648",
+    "codename": "ea_drong"
+  },
+  {
+    "code": "24295",
+    "name": "Ea M'nang",
+    "name_en": "Ea M'nang",
+    "full_name": "Xã Ea M'nang",
+    "full_name_en": "Ea M'nang Commune",
+    "type": "xã",
+    "district_code": "648",
+    "codename": "ea_mnang"
+  },
+  {
+    "code": "24298",
+    "name": "Cư Suê",
+    "name_en": "Cu Sue",
+    "full_name": "Xã Cư Suê",
+    "full_name_en": "Cu Sue Commune",
+    "type": "xã",
+    "district_code": "648",
+    "codename": "cu_sue"
+  },
+  {
+    "code": "24301",
+    "name": "Cuor Đăng",
+    "name_en": "Cuor Dang",
+    "full_name": "Xã Cuor Đăng",
+    "full_name_en": "Cuor Dang Commune",
+    "type": "xã",
+    "district_code": "648",
+    "codename": "cuor_dang"
+  }
+]

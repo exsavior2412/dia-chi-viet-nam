@@ -1,0 +1,142 @@
+[
+  {
+    "code": "14701",
+    "name": "Yên Thịnh",
+    "name_en": "Yen Thinh",
+    "full_name": "Thị trấn Yên Thịnh",
+    "full_name_en": "Yen Thinh Township",
+    "type": "thị trấn",
+    "district_code": "377",
+    "codename": "yen_thinh"
+  },
+  {
+    "code": "14704",
+    "name": "Khánh Thượng",
+    "name_en": "Khanh Thuong",
+    "full_name": "Xã Khánh Thượng",
+    "full_name_en": "Khanh Thuong Commune",
+    "type": "xã",
+    "district_code": "377",
+    "codename": "khanh_thuong"
+  },
+  {
+    "code": "14707",
+    "name": "Khánh Dương",
+    "name_en": "Khanh Duong",
+    "full_name": "Xã Khánh Dương",
+    "full_name_en": "Khanh Duong Commune",
+    "type": "xã",
+    "district_code": "377",
+    "codename": "khanh_duong"
+  },
+  {
+    "code": "14719",
+    "name": "Yên Phong",
+    "name_en": "Yen Phong",
+    "full_name": "Xã Yên Phong",
+    "full_name_en": "Yen Phong Commune",
+    "type": "xã",
+    "district_code": "377",
+    "codename": "yen_phong"
+  },
+  {
+    "code": "14722",
+    "name": "Yên Hòa",
+    "name_en": "Yen Hoa",
+    "full_name": "Xã Yên Hòa",
+    "full_name_en": "Yen Hoa Commune",
+    "type": "xã",
+    "district_code": "377",
+    "codename": "yen_hoa"
+  },
+  {
+    "code": "14725",
+    "name": "Yên Thắng",
+    "name_en": "Yen Thang",
+    "full_name": "Xã Yên Thắng",
+    "full_name_en": "Yen Thang Commune",
+    "type": "xã",
+    "district_code": "377",
+    "codename": "yen_thang"
+  },
+  {
+    "code": "14728",
+    "name": "Yên Từ",
+    "name_en": "Yen Tu",
+    "full_name": "Xã Yên Từ",
+    "full_name_en": "Yen Tu Commune",
+    "type": "xã",
+    "district_code": "377",
+    "codename": "yen_tu"
+  },
+  {
+    "code": "14734",
+    "name": "Yên Thành",
+    "name_en": "Yen Thanh",
+    "full_name": "Xã Yên Thành",
+    "full_name_en": "Yen Thanh Commune",
+    "type": "xã",
+    "district_code": "377",
+    "codename": "yen_thanh"
+  },
+  {
+    "code": "14737",
+    "name": "Yên Nhân",
+    "name_en": "Yen Nhan",
+    "full_name": "Xã Yên Nhân",
+    "full_name_en": "Yen Nhan Commune",
+    "type": "xã",
+    "district_code": "377",
+    "codename": "yen_nhan"
+  },
+  {
+    "code": "14740",
+    "name": "Yên Mỹ",
+    "name_en": "Yen My",
+    "full_name": "Xã Yên Mỹ",
+    "full_name_en": "Yen My Commune",
+    "type": "xã",
+    "district_code": "377",
+    "codename": "yen_my"
+  },
+  {
+    "code": "14743",
+    "name": "Yên Mạc",
+    "name_en": "Yen Mac",
+    "full_name": "Xã Yên Mạc",
+    "full_name_en": "Yen Mac Commune",
+    "type": "xã",
+    "district_code": "377",
+    "codename": "yen_mac"
+  },
+  {
+    "code": "14746",
+    "name": "Yên Đồng",
+    "name_en": "Yen Dong",
+    "full_name": "Xã Yên Đồng",
+    "full_name_en": "Yen Dong Commune",
+    "type": "xã",
+    "district_code": "377",
+    "codename": "yen_dong"
+  },
+  {
+    "code": "14749",
+    "name": "Yên Thái",
+    "name_en": "Yen Thai",
+    "full_name": "Xã Yên Thái",
+    "full_name_en": "Yen Thai Commune",
+    "type": "xã",
+    "district_code": "377",
+    "codename": "yen_thai"
+  },
+  {
+    "code": "14752",
+    "name": "Yên Lâm",
+    "name_en": "Yen Lam",
+    "full_name": "Xã Yên Lâm",
+    "full_name_en": "Yen Lam Commune",
+    "type": "xã",
+    "district_code": "377",
+    "codename": "yen_lam"
+  }
+]

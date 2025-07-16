@@ -1,0 +1,82 @@
+[
+  {
+    "code": "31732",
+    "name": "1",
+    "name_en": "1",
+    "full_name": "Phường 1",
+    "full_name_en": "Ward 1",
+    "type": "phường",
+    "district_code": "948",
+    "codename": "1"
+  },
+  {
+    "code": "31735",
+    "name": "2",
+    "name_en": "2",
+    "full_name": "Phường 2",
+    "full_name_en": "Ward 2",
+    "type": "phường",
+    "district_code": "948",
+    "codename": "2"
+  },
+  {
+    "code": "31738",
+    "name": "Vĩnh Quới",
+    "name_en": "Vinh Quoi",
+    "full_name": "Xã Vĩnh Quới",
+    "full_name_en": "Vinh Quoi Commune",
+    "type": "xã",
+    "district_code": "948",
+    "codename": "vinh_quoi"
+  },
+  {
+    "code": "31741",
+    "name": "Tân Long",
+    "name_en": "Tan Long",
+    "full_name": "Xã Tân Long",
+    "full_name_en": "Tan Long Commune",
+    "type": "xã",
+    "district_code": "948",
+    "codename": "tan_long"
+  },
+  {
+    "code": "31744",
+    "name": "Long Bình",
+    "name_en": "Long Binh",
+    "full_name": "Xã Long Bình",
+    "full_name_en": "Long Binh Commune",
+    "type": "xã",
+    "district_code": "948",
+    "codename": "long_binh"
+  },
+  {
+    "code": "31747",
+    "name": "3",
+    "name_en": "3",
+    "full_name": "Phường 3",
+    "full_name_en": "Ward 3",
+    "type": "phường",
+    "district_code": "948",
+    "codename": "3"
+  },
+  {
+    "code": "31750",
+    "name": "Mỹ Bình",
+    "name_en": "My Binh",
+    "full_name": "Xã Mỹ Bình",
+    "full_name_en": "My Binh Commune",
+    "type": "xã",
+    "district_code": "948",
+    "codename": "my_binh"
+  },
+  {
+    "code": "31753",
+    "name": "Mỹ Quới",
+    "name_en": "My Quoi",
+    "full_name": "Xã Mỹ Quới",
+    "full_name_en": "My Quoi Commune",
+    "type": "xã",
+    "district_code": "948",
+    "codename": "my_quoi"
+  }
+]

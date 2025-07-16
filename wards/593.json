@@ -1,0 +1,152 @@
+[
+  {
+    "code": "22915",
+    "name": "Mũi Né",
+    "name_en": "Mui Ne",
+    "full_name": "Phường Mũi Né",
+    "full_name_en": "Mui Ne Ward",
+    "type": "phường",
+    "district_code": "593",
+    "codename": "mui_ne"
+  },
+  {
+    "code": "22918",
+    "name": "Hàm Tiến",
+    "name_en": "Ham Tien",
+    "full_name": "Phường Hàm Tiến",
+    "full_name_en": "Ham Tien Ward",
+    "type": "phường",
+    "district_code": "593",
+    "codename": "ham_tien"
+  },
+  {
+    "code": "22921",
+    "name": "Phú Hài",
+    "name_en": "Phu Hai",
+    "full_name": "Phường Phú Hài",
+    "full_name_en": "Phu Hai Ward",
+    "type": "phường",
+    "district_code": "593",
+    "codename": "phu_hai"
+  },
+  {
+    "code": "22924",
+    "name": "Phú Thủy",
+    "name_en": "Phu Thuy",
+    "full_name": "Phường Phú Thủy",
+    "full_name_en": "Phu Thuy Ward",
+    "type": "phường",
+    "district_code": "593",
+    "codename": "phu_thuy"
+  },
+  {
+    "code": "22927",
+    "name": "Phú Tài",
+    "name_en": "Phu Tai",
+    "full_name": "Phường Phú Tài",
+    "full_name_en": "Phu Tai Ward",
+    "type": "phường",
+    "district_code": "593",
+    "codename": "phu_tai"
+  },
+  {
+    "code": "22930",
+    "name": "Phú Trinh",
+    "name_en": "Phu Trinh",
+    "full_name": "Phường Phú Trinh",
+    "full_name_en": "Phu Trinh Ward",
+    "type": "phường",
+    "district_code": "593",
+    "codename": "phu_trinh"
+  },
+  {
+    "code": "22933",
+    "name": "Xuân An",
+    "name_en": "Xuan An",
+    "full_name": "Phường Xuân An",
+    "full_name_en": "Xuan An Ward",
+    "type": "phường",
+    "district_code": "593",
+    "codename": "xuan_an"
+  },
+  {
+    "code": "22936",
+    "name": "Thanh Hải",
+    "name_en": "Thanh Hai",
+    "full_name": "Phường Thanh Hải",
+    "full_name_en": "Thanh Hai Ward",
+    "type": "phường",
+    "district_code": "593",
+    "codename": "thanh_hai"
+  },
+  {
+    "code": "22945",
+    "name": "Lạc Đạo",
+    "name_en": "Lac Dao",
+    "full_name": "Phường Lạc Đạo",
+    "full_name_en": "Lac Dao Ward",
+    "type": "phường",
+    "district_code": "593",
+    "codename": "lac_dao"
+  },
+  {
+    "code": "22951",
+    "name": "Bình Hưng",
+    "name_en": "Binh Hung",
+    "full_name": "Phường Bình Hưng",
+    "full_name_en": "Binh Hung Ward",
+    "type": "phường",
+    "district_code": "593",
+    "codename": "binh_hung"
+  },
+  {
+    "code": "22954",
+    "name": "Đức Long",
+    "name_en": "Duc Long",
+    "full_name": "Phường Đức Long",
+    "full_name_en": "Duc Long Ward",
+    "type": "phường",
+    "district_code": "593",
+    "codename": "duc_long"
+  },
+  {
+    "code": "22957",
+    "name": "Thiện Nghiệp",
+    "name_en": "Thien Nghiep",
+    "full_name": "Xã Thiện Nghiệp",
+    "full_name_en": "Thien Nghiep Commune",
+    "type": "xã",
+    "district_code": "593",
+    "codename": "thien_nghiep"
+  },
+  {
+    "code": "22960",
+    "name": "Phong Nẫm",
+    "name_en": "Phong Nam",
+    "full_name": "Xã Phong Nẫm",
+    "full_name_en": "Phong Nam Commune",
+    "type": "xã",
+    "district_code": "593",
+    "codename": "phong_nam"
+  },
+  {
+    "code": "22963",
+    "name": "Tiến Lợi",
+    "name_en": "Tien Loi",
+    "full_name": "Xã Tiến Lợi",
+    "full_name_en": "Tien Loi Commune",
+    "type": "xã",
+    "district_code": "593",
+    "codename": "tien_loi"
+  },
+  {
+    "code": "22966",
+    "name": "Tiến Thành",
+    "name_en": "Tien Thanh",
+    "full_name": "Xã Tiến Thành",
+    "full_name_en": "Tien Thanh Commune",
+    "type": "xã",
+    "district_code": "593",
+    "codename": "tien_thanh"
+  }
+]

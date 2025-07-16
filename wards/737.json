@@ -1,0 +1,172 @@
+[
+  {
+    "code": "26248",
+    "name": "Trảng Bom",
+    "name_en": "Trang Bom",
+    "full_name": "Thị trấn Trảng Bom",
+    "full_name_en": "Trang Bom Township",
+    "type": "thị trấn",
+    "district_code": "737",
+    "codename": "trang_bom"
+  },
+  {
+    "code": "26251",
+    "name": "Thanh Bình",
+    "name_en": "Thanh Binh",
+    "full_name": "Xã Thanh Bình",
+    "full_name_en": "Thanh Binh Commune",
+    "type": "xã",
+    "district_code": "737",
+    "codename": "thanh_binh"
+  },
+  {
+    "code": "26254",
+    "name": "Cây Gáo",
+    "name_en": "Cay Gao",
+    "full_name": "Xã Cây Gáo",
+    "full_name_en": "Cay Gao Commune",
+    "type": "xã",
+    "district_code": "737",
+    "codename": "cay_gao"
+  },
+  {
+    "code": "26257",
+    "name": "Bàu Hàm",
+    "name_en": "Bau Ham",
+    "full_name": "Xã Bàu Hàm",
+    "full_name_en": "Bau Ham Commune",
+    "type": "xã",
+    "district_code": "737",
+    "codename": "bau_ham"
+  },
+  {
+    "code": "26260",
+    "name": "Sông Thao",
+    "name_en": "Song Thao",
+    "full_name": "Xã Sông Thao",
+    "full_name_en": "Song Thao Commune",
+    "type": "xã",
+    "district_code": "737",
+    "codename": "song_thao"
+  },
+  {
+    "code": "26263",
+    "name": "Sông Trầu",
+    "name_en": "Song Trau",
+    "full_name": "Xã Sông Trầu",
+    "full_name_en": "Song Trau Commune",
+    "type": "xã",
+    "district_code": "737",
+    "codename": "song_trau"
+  },
+  {
+    "code": "26266",
+    "name": "Đông Hoà",
+    "name_en": "Dong Hoa",
+    "full_name": "Xã Đông Hoà",
+    "full_name_en": "Dong Hoa Commune",
+    "type": "xã",
+    "district_code": "737",
+    "codename": "dong_hoa"
+  },
+  {
+    "code": "26269",
+    "name": "Bắc Sơn",
+    "name_en": "Bac Son",
+    "full_name": "Xã Bắc Sơn",
+    "full_name_en": "Bac Son Commune",
+    "type": "xã",
+    "district_code": "737",
+    "codename": "bac_son"
+  },
+  {
+    "code": "26272",
+    "name": "Hố Nai 3",
+    "name_en": "Ho Nai 3",
+    "full_name": "Xã Hố Nai 3",
+    "full_name_en": "Commune Ho Nai 3",
+    "type": "xã",
+    "district_code": "737",
+    "codename": "ho_nai_3"
+  },
+  {
+    "code": "26275",
+    "name": "Tây Hoà",
+    "name_en": "Tay Hoa",
+    "full_name": "Xã Tây Hoà",
+    "full_name_en": "Tay Hoa Commune",
+    "type": "xã",
+    "district_code": "737",
+    "codename": "tay_hoa"
+  },
+  {
+    "code": "26278",
+    "name": "Bình Minh",
+    "name_en": "Binh Minh",
+    "full_name": "Xã Bình Minh",
+    "full_name_en": "Binh Minh Commune",
+    "type": "xã",
+    "district_code": "737",
+    "codename": "binh_minh"
+  },
+  {
+    "code": "26281",
+    "name": "Trung Hoà",
+    "name_en": "Trung Hoa",
+    "full_name": "Xã Trung Hoà",
+    "full_name_en": "Trung Hoa Commune",
+    "type": "xã",
+    "district_code": "737",
+    "codename": "trung_hoa"
+  },
+  {
+    "code": "26284",
+    "name": "Đồi 61",
+    "name_en": "Doi 61",
+    "full_name": "Xã Đồi 61",
+    "full_name_en": "Commune Doi 61",
+    "type": "xã",
+    "district_code": "737",
+    "codename": "doi_61"
+  },
+  {
+    "code": "26287",
+    "name": "Hưng Thịnh",
+    "name_en": "Hung Thinh",
+    "full_name": "Xã Hưng Thịnh",
+    "full_name_en": "Hung Thinh Commune",
+    "type": "xã",
+    "district_code": "737",
+    "codename": "hung_thinh"
+  },
+  {
+    "code": "26290",
+    "name": "Quảng Tiến",
+    "name_en": "Quang Tien",
+    "full_name": "Xã Quảng Tiến",
+    "full_name_en": "Quang Tien Commune",
+    "type": "xã",
+    "district_code": "737",
+    "codename": "quang_tien"
+  },
+  {
+    "code": "26293",
+    "name": "Giang Điền",
+    "name_en": "Giang Dien",
+    "full_name": "Xã Giang Điền",
+    "full_name_en": "Giang Dien Commune",
+    "type": "xã",
+    "district_code": "737",
+    "codename": "giang_dien"
+  },
+  {
+    "code": "26296",
+    "name": "An Viễn",
+    "name_en": "An Vien",
+    "full_name": "Xã An Viễn",
+    "full_name_en": "An Vien Commune",
+    "type": "xã",
+    "district_code": "737",
+    "codename": "an_vien"
+  }
+]

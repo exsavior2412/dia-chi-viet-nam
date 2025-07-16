@@ -1,0 +1,152 @@
+[
+  {
+    "code": "09538",
+    "name": "Quang Trung",
+    "name_en": "Quang Trung",
+    "full_name": "Phường Quang Trung",
+    "full_name_en": "Quang Trung Ward",
+    "type": "phường",
+    "district_code": "268",
+    "codename": "quang_trung"
+  },
+  {
+    "code": "09541",
+    "name": "Mộ Lao",
+    "name_en": "Mo Lao",
+    "full_name": "Phường Mộ Lao",
+    "full_name_en": "Mo Lao Ward",
+    "type": "phường",
+    "district_code": "268",
+    "codename": "mo_lao"
+  },
+  {
+    "code": "09542",
+    "name": "Văn Quán",
+    "name_en": "Van Quan",
+    "full_name": "Phường Văn Quán",
+    "full_name_en": "Van Quan Ward",
+    "type": "phường",
+    "district_code": "268",
+    "codename": "van_quan"
+  },
+  {
+    "code": "09544",
+    "name": "Vạn Phúc",
+    "name_en": "Van Phuc",
+    "full_name": "Phường Vạn Phúc",
+    "full_name_en": "Van Phuc Ward",
+    "type": "phường",
+    "district_code": "268",
+    "codename": "van_phuc"
+  },
+  {
+    "code": "09551",
+    "name": "La Khê",
+    "name_en": "La Khe",
+    "full_name": "Phường La Khê",
+    "full_name_en": "La Khe Ward",
+    "type": "phường",
+    "district_code": "268",
+    "codename": "la_khe"
+  },
+  {
+    "code": "09552",
+    "name": "Phú La",
+    "name_en": "Phu La",
+    "full_name": "Phường Phú La",
+    "full_name_en": "Phu La Ward",
+    "type": "phường",
+    "district_code": "268",
+    "codename": "phu_la"
+  },
+  {
+    "code": "09553",
+    "name": "Phúc La",
+    "name_en": "Phuc La",
+    "full_name": "Phường Phúc La",
+    "full_name_en": "Phuc La Ward",
+    "type": "phường",
+    "district_code": "268",
+    "codename": "phuc_la"
+  },
+  {
+    "code": "09556",
+    "name": "Hà Cầu",
+    "name_en": "Ha Cau",
+    "full_name": "Phường Hà Cầu",
+    "full_name_en": "Ha Cau Ward",
+    "type": "phường",
+    "district_code": "268",
+    "codename": "ha_cau"
+  },
+  {
+    "code": "09562",
+    "name": "Yên Nghĩa",
+    "name_en": "Yen Nghia",
+    "full_name": "Phường Yên Nghĩa",
+    "full_name_en": "Yen Nghia Ward",
+    "type": "phường",
+    "district_code": "268",
+    "codename": "yen_nghia"
+  },
+  {
+    "code": "09565",
+    "name": "Kiến Hưng",
+    "name_en": "Kien Hung",
+    "full_name": "Phường Kiến Hưng",
+    "full_name_en": "Kien Hung Ward",
+    "type": "phường",
+    "district_code": "268",
+    "codename": "kien_hung"
+  },
+  {
+    "code": "09568",
+    "name": "Phú Lãm",
+    "name_en": "Phu Lam",
+    "full_name": "Phường Phú Lãm",
+    "full_name_en": "Phu Lam Ward",
+    "type": "phường",
+    "district_code": "268",
+    "codename": "phu_lam"
+  },
+  {
+    "code": "09571",
+    "name": "Phú Lương",
+    "name_en": "Phu Luong",
+    "full_name": "Phường Phú Lương",
+    "full_name_en": "Phu Luong Ward",
+    "type": "phường",
+    "district_code": "268",
+    "codename": "phu_luong"
+  },
+  {
+    "code": "09886",
+    "name": "Dương Nội",
+    "name_en": "Duong Noi",
+    "full_name": "Phường Dương Nội",
+    "full_name_en": "Duong Noi Ward",
+    "type": "phường",
+    "district_code": "268",
+    "codename": "duong_noi"
+  },
+  {
+    "code": "10117",
+    "name": "Đồng Mai",
+    "name_en": "Dong Mai",
+    "full_name": "Phường Đồng Mai",
+    "full_name_en": "Dong Mai Ward",
+    "type": "phường",
+    "district_code": "268",
+    "codename": "dong_mai"
+  },
+  {
+    "code": "10123",
+    "name": "Biên Giang",
+    "name_en": "Bien Giang",
+    "full_name": "Phường Biên Giang",
+    "full_name_en": "Bien Giang Ward",
+    "type": "phường",
+    "district_code": "268",
+    "codename": "bien_giang"
+  }
+]

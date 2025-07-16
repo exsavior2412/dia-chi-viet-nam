@@ -1,0 +1,102 @@
+[
+  {
+    "code": "27436",
+    "name": "Bình Hưng Hòa",
+    "name_en": "Binh Hung Hoa",
+    "full_name": "Phường Bình Hưng Hòa",
+    "full_name_en": "Binh Hung Hoa Ward",
+    "type": "phường",
+    "district_code": "777",
+    "codename": "binh_hung_hoa"
+  },
+  {
+    "code": "27439",
+    "name": "Bình Hưng Hoà A",
+    "name_en": "Binh Hung Hoa A",
+    "full_name": "Phường Bình Hưng Hoà A",
+    "full_name_en": "Binh Hung Hoa A Ward",
+    "type": "phường",
+    "district_code": "777",
+    "codename": "binh_hung_hoa_a"
+  },
+  {
+    "code": "27442",
+    "name": "Bình Hưng Hoà B",
+    "name_en": "Binh Hung Hoa B",
+    "full_name": "Phường Bình Hưng Hoà B",
+    "full_name_en": "Binh Hung Hoa B Ward",
+    "type": "phường",
+    "district_code": "777",
+    "codename": "binh_hung_hoa_b"
+  },
+  {
+    "code": "27445",
+    "name": "Bình Trị Đông",
+    "name_en": "Binh Tri Dong",
+    "full_name": "Phường Bình Trị Đông",
+    "full_name_en": "Binh Tri Dong Ward",
+    "type": "phường",
+    "district_code": "777",
+    "codename": "binh_tri_dong"
+  },
+  {
+    "code": "27448",
+    "name": "Bình Trị Đông A",
+    "name_en": "Binh Tri Dong A",
+    "full_name": "Phường Bình Trị Đông A",
+    "full_name_en": "Binh Tri Dong A Ward",
+    "type": "phường",
+    "district_code": "777",
+    "codename": "binh_tri_dong_a"
+  },
+  {
+    "code": "27451",
+    "name": "Bình Trị Đông B",
+    "name_en": "Binh Tri Dong B",
+    "full_name": "Phường Bình Trị Đông B",
+    "full_name_en": "Binh Tri Dong B Ward",
+    "type": "phường",
+    "district_code": "777",
+    "codename": "binh_tri_dong_b"
+  },
+  {
+    "code": "27454",
+    "name": "Tân Tạo",
+    "name_en": "Tan Tao",
+    "full_name": "Phường Tân Tạo",
+    "full_name_en": "Tan Tao Ward",
+    "type": "phường",
+    "district_code": "777",
+    "codename": "tan_tao"
+  },
+  {
+    "code": "27457",
+    "name": "Tân Tạo A",
+    "name_en": "Tan Tao A",
+    "full_name": "Phường Tân Tạo A",
+    "full_name_en": "Tan Tao A Ward",
+    "type": "phường",
+    "district_code": "777",
+    "codename": "tan_tao_a"
+  },
+  {
+    "code": "27460",
+    "name": "An Lạc",
+    "name_en": "An Lac",
+    "full_name": "Phường An Lạc",
+    "full_name_en": "An Lac Ward",
+    "type": "phường",
+    "district_code": "777",
+    "codename": "an_lac"
+  },
+  {
+    "code": "27463",
+    "name": "An Lạc A",
+    "name_en": "An Lac A",
+    "full_name": "Phường An Lạc A",
+    "full_name_en": "An Lac A Ward",
+    "type": "phường",
+    "district_code": "777",
+    "codename": "an_lac_a"
+  }
+]

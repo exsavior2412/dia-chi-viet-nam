@@ -1,0 +1,112 @@
+[
+  {
+    "code": "26764",
+    "name": "Thạnh Xuân",
+    "name_en": "Thanh Xuan",
+    "full_name": "Phường Thạnh Xuân",
+    "full_name_en": "Thanh Xuan Ward",
+    "type": "phường",
+    "district_code": "761",
+    "codename": "thanh_xuan"
+  },
+  {
+    "code": "26767",
+    "name": "Thạnh Lộc",
+    "name_en": "Thanh Loc",
+    "full_name": "Phường Thạnh Lộc",
+    "full_name_en": "Thanh Loc Ward",
+    "type": "phường",
+    "district_code": "761",
+    "codename": "thanh_loc"
+  },
+  {
+    "code": "26770",
+    "name": "Hiệp Thành",
+    "name_en": "Hiep Thanh",
+    "full_name": "Phường Hiệp Thành",
+    "full_name_en": "Hiep Thanh Ward",
+    "type": "phường",
+    "district_code": "761",
+    "codename": "hiep_thanh"
+  },
+  {
+    "code": "26773",
+    "name": "Thới An",
+    "name_en": "Thoi An",
+    "full_name": "Phường Thới An",
+    "full_name_en": "Thoi An Ward",
+    "type": "phường",
+    "district_code": "761",
+    "codename": "thoi_an"
+  },
+  {
+    "code": "26776",
+    "name": "Tân Chánh Hiệp",
+    "name_en": "Tan Chanh Hiep",
+    "full_name": "Phường Tân Chánh Hiệp",
+    "full_name_en": "Tan Chanh Hiep Ward",
+    "type": "phường",
+    "district_code": "761",
+    "codename": "tan_chanh_hiep"
+  },
+  {
+    "code": "26779",
+    "name": "An Phú Đông",
+    "name_en": "An Phu Dong",
+    "full_name": "Phường An Phú Đông",
+    "full_name_en": "An Phu Dong Ward",
+    "type": "phường",
+    "district_code": "761",
+    "codename": "an_phu_dong"
+  },
+  {
+    "code": "26782",
+    "name": "Tân Thới Hiệp",
+    "name_en": "Tan Thoi Hiep",
+    "full_name": "Phường Tân Thới Hiệp",
+    "full_name_en": "Tan Thoi Hiep Ward",
+    "type": "phường",
+    "district_code": "761",
+    "codename": "tan_thoi_hiep"
+  },
+  {
+    "code": "26785",
+    "name": "Trung Mỹ Tây",
+    "name_en": "Trung My Tay",
+    "full_name": "Phường Trung Mỹ Tây",
+    "full_name_en": "Trung My Tay Ward",
+    "type": "phường",
+    "district_code": "761",
+    "codename": "trung_my_tay"
+  },
+  {
+    "code": "26787",
+    "name": "Tân Hưng Thuận",
+    "name_en": "Tan Hung Thuan",
+    "full_name": "Phường Tân Hưng Thuận",
+    "full_name_en": "Tan Hung Thuan Ward",
+    "type": "phường",
+    "district_code": "761",
+    "codename": "tan_hung_thuan"
+  },
+  {
+    "code": "26788",
+    "name": "Đông Hưng Thuận",
+    "name_en": "Dong Hung Thuan",
+    "full_name": "Phường Đông Hưng Thuận",
+    "full_name_en": "Dong Hung Thuan Ward",
+    "type": "phường",
+    "district_code": "761",
+    "codename": "dong_hung_thuan"
+  },
+  {
+    "code": "26791",
+    "name": "Tân Thới Nhất",
+    "name_en": "Tan Thoi Nhat",
+    "full_name": "Phường Tân Thới Nhất",
+    "full_name_en": "Tan Thoi Nhat Ward",
+    "type": "phường",
+    "district_code": "761",
+    "codename": "tan_thoi_nhat"
+  }
+]

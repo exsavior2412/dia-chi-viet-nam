@@ -1,0 +1,192 @@
+[
+  {
+    "code": "03253",
+    "name": "Tuần Giáo",
+    "name_en": "Tuan Giao",
+    "full_name": "Thị trấn Tuần Giáo",
+    "full_name_en": "Tuan Giao Township",
+    "type": "thị trấn",
+    "district_code": "099",
+    "codename": "tuan_giao"
+  },
+  {
+    "code": "03259",
+    "name": "Phình Sáng",
+    "name_en": "Phinh Sang",
+    "full_name": "Xã Phình Sáng",
+    "full_name_en": "Phinh Sang Commune",
+    "type": "xã",
+    "district_code": "099",
+    "codename": "phinh_sang"
+  },
+  {
+    "code": "03260",
+    "name": "Rạng Đông",
+    "name_en": "Rang Dong",
+    "full_name": "Xã Rạng Đông",
+    "full_name_en": "Rang Dong Commune",
+    "type": "xã",
+    "district_code": "099",
+    "codename": "rang_dong"
+  },
+  {
+    "code": "03262",
+    "name": "Mùn Chung",
+    "name_en": "Mun Chung",
+    "full_name": "Xã Mùn Chung",
+    "full_name_en": "Mun Chung Commune",
+    "type": "xã",
+    "district_code": "099",
+    "codename": "mun_chung"
+  },
+  {
+    "code": "03263",
+    "name": "Nà Tòng",
+    "name_en": "Na Tong",
+    "full_name": "Xã Nà Tòng",
+    "full_name_en": "Na Tong Commune",
+    "type": "xã",
+    "district_code": "099",
+    "codename": "na_tong"
+  },
+  {
+    "code": "03265",
+    "name": "Ta Ma",
+    "name_en": "Ta Ma",
+    "full_name": "Xã Ta Ma",
+    "full_name_en": "Ta Ma Commune",
+    "type": "xã",
+    "district_code": "099",
+    "codename": "ta_ma"
+  },
+  {
+    "code": "03268",
+    "name": "Mường Mùn",
+    "name_en": "Muong Mun",
+    "full_name": "Xã Mường Mùn",
+    "full_name_en": "Muong Mun Commune",
+    "type": "xã",
+    "district_code": "099",
+    "codename": "muong_mun"
+  },
+  {
+    "code": "03269",
+    "name": "Pú Xi",
+    "name_en": "Pu Xi",
+    "full_name": "Xã Pú Xi",
+    "full_name_en": "Pu Xi Commune",
+    "type": "xã",
+    "district_code": "099",
+    "codename": "pu_xi"
+  },
+  {
+    "code": "03271",
+    "name": "Pú Nhung",
+    "name_en": "Pu Nhung",
+    "full_name": "Xã Pú Nhung",
+    "full_name_en": "Pu Nhung Commune",
+    "type": "xã",
+    "district_code": "099",
+    "codename": "pu_nhung"
+  },
+  {
+    "code": "03274",
+    "name": "Quài Nưa",
+    "name_en": "Quai Nua",
+    "full_name": "Xã Quài Nưa",
+    "full_name_en": "Quai Nua Commune",
+    "type": "xã",
+    "district_code": "099",
+    "codename": "quai_nua"
+  },
+  {
+    "code": "03277",
+    "name": "Mường Thín",
+    "name_en": "Muong Thin",
+    "full_name": "Xã Mường Thín",
+    "full_name_en": "Muong Thin Commune",
+    "type": "xã",
+    "district_code": "099",
+    "codename": "muong_thin"
+  },
+  {
+    "code": "03280",
+    "name": "Tỏa Tình",
+    "name_en": "Toa Tinh",
+    "full_name": "Xã Tỏa Tình",
+    "full_name_en": "Toa Tinh Commune",
+    "type": "xã",
+    "district_code": "099",
+    "codename": "toa_tinh"
+  },
+  {
+    "code": "03283",
+    "name": "Nà Sáy",
+    "name_en": "Na Say",
+    "full_name": "Xã Nà Sáy",
+    "full_name_en": "Na Say Commune",
+    "type": "xã",
+    "district_code": "099",
+    "codename": "na_say"
+  },
+  {
+    "code": "03284",
+    "name": "Mường Khong",
+    "name_en": "Muong Khong",
+    "full_name": "Xã Mường Khong",
+    "full_name_en": "Muong Khong Commune",
+    "type": "xã",
+    "district_code": "099",
+    "codename": "muong_khong"
+  },
+  {
+    "code": "03289",
+    "name": "Quài Cang",
+    "name_en": "Quai Cang",
+    "full_name": "Xã Quài Cang",
+    "full_name_en": "Quai Cang Commune",
+    "type": "xã",
+    "district_code": "099",
+    "codename": "quai_cang"
+  },
+  {
+    "code": "03295",
+    "name": "Quài Tở",
+    "name_en": "Quai To",
+    "full_name": "Xã Quài Tở",
+    "full_name_en": "Quai To Commune",
+    "type": "xã",
+    "district_code": "099",
+    "codename": "quai_to"
+  },
+  {
+    "code": "03298",
+    "name": "Chiềng Sinh",
+    "name_en": "Chieng Sinh",
+    "full_name": "Xã Chiềng Sinh",
+    "full_name_en": "Chieng Sinh Commune",
+    "type": "xã",
+    "district_code": "099",
+    "codename": "chieng_sinh"
+  },
+  {
+    "code": "03299",
+    "name": "Chiềng Đông",
+    "name_en": "Chieng Dong",
+    "full_name": "Xã Chiềng Đông",
+    "full_name_en": "Chieng Dong Commune",
+    "type": "xã",
+    "district_code": "099",
+    "codename": "chieng_dong"
+  },
+  {
+    "code": "03304",
+    "name": "Tênh Phông",
+    "name_en": "Tenh Phong",
+    "full_name": "Xã Tênh Phông",
+    "full_name_en": "Tenh Phong Commune",
+    "type": "xã",
+    "district_code": "099",
+    "codename": "tenh_phong"
+  }
+]

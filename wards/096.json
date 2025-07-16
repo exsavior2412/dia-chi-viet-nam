@@ -1,0 +1,112 @@
+[
+  {
+    "code": "03154",
+    "name": "Sín Thầu",
+    "name_en": "Sin Thau",
+    "full_name": "Xã Sín Thầu",
+    "full_name_en": "Sin Thau Commune",
+    "type": "xã",
+    "district_code": "096",
+    "codename": "sin_thau"
+  },
+  {
+    "code": "03155",
+    "name": "Sen Thượng",
+    "name_en": "Sen Thuong",
+    "full_name": "Xã Sen Thượng",
+    "full_name_en": "Sen Thuong Commune",
+    "type": "xã",
+    "district_code": "096",
+    "codename": "sen_thuong"
+  },
+  {
+    "code": "03157",
+    "name": "Chung Chải",
+    "name_en": "Chung Chai",
+    "full_name": "Xã Chung Chải",
+    "full_name_en": "Chung Chai Commune",
+    "type": "xã",
+    "district_code": "096",
+    "codename": "chung_chai"
+  },
+  {
+    "code": "03158",
+    "name": "Leng Su Sìn",
+    "name_en": "Leng Su Sin",
+    "full_name": "Xã Leng Su Sìn",
+    "full_name_en": "Leng Su Sin Commune",
+    "type": "xã",
+    "district_code": "096",
+    "codename": "leng_su_sin"
+  },
+  {
+    "code": "03159",
+    "name": "Pá Mỳ",
+    "name_en": "Pa My",
+    "full_name": "Xã Pá Mỳ",
+    "full_name_en": "Pa My Commune",
+    "type": "xã",
+    "district_code": "096",
+    "codename": "pa_my"
+  },
+  {
+    "code": "03160",
+    "name": "Mường Nhé",
+    "name_en": "Muong Nhe",
+    "full_name": "Xã Mường Nhé",
+    "full_name_en": "Muong Nhe Commune",
+    "type": "xã",
+    "district_code": "096",
+    "codename": "muong_nhe"
+  },
+  {
+    "code": "03161",
+    "name": "Nậm Vì",
+    "name_en": "Nam Vi",
+    "full_name": "Xã Nậm Vì",
+    "full_name_en": "Nam Vi Commune",
+    "type": "xã",
+    "district_code": "096",
+    "codename": "nam_vi"
+  },
+  {
+    "code": "03162",
+    "name": "Nậm Kè",
+    "name_en": "Nam Ke",
+    "full_name": "Xã Nậm Kè",
+    "full_name_en": "Nam Ke Commune",
+    "type": "xã",
+    "district_code": "096",
+    "codename": "nam_ke"
+  },
+  {
+    "code": "03163",
+    "name": "Mường Toong",
+    "name_en": "Muong Toong",
+    "full_name": "Xã Mường Toong",
+    "full_name_en": "Muong Toong Commune",
+    "type": "xã",
+    "district_code": "096",
+    "codename": "muong_toong"
+  },
+  {
+    "code": "03164",
+    "name": "Quảng Lâm",
+    "name_en": "Quang Lam",
+    "full_name": "Xã Quảng Lâm",
+    "full_name_en": "Quang Lam Commune",
+    "type": "xã",
+    "district_code": "096",
+    "codename": "quang_lam"
+  },
+  {
+    "code": "03177",
+    "name": "Huổi Lếnh",
+    "name_en": "Huoi Lenh",
+    "full_name": "Xã Huổi Lếnh",
+    "full_name_en": "Huoi Lenh Commune",
+    "type": "xã",
+    "district_code": "096",
+    "codename": "huoi_lenh"
+  }
+]

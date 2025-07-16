@@ -1,0 +1,202 @@
+[
+  {
+    "code": "11074",
+    "name": "Tứ Kỳ",
+    "name_en": "Tu Ky",
+    "full_name": "Thị trấn Tứ Kỳ",
+    "full_name_en": "Tu Ky Township",
+    "type": "thị trấn",
+    "district_code": "298",
+    "codename": "tu_ky"
+  },
+  {
+    "code": "11083",
+    "name": "Đại Sơn",
+    "name_en": "Dai Son",
+    "full_name": "Xã Đại Sơn",
+    "full_name_en": "Dai Son Commune",
+    "type": "xã",
+    "district_code": "298",
+    "codename": "dai_son"
+  },
+  {
+    "code": "11086",
+    "name": "Hưng Đạo",
+    "name_en": "Hung Dao",
+    "full_name": "Xã Hưng Đạo",
+    "full_name_en": "Hung Dao Commune",
+    "type": "xã",
+    "district_code": "298",
+    "codename": "hung_dao"
+  },
+  {
+    "code": "11092",
+    "name": "Bình Lăng",
+    "name_en": "Binh Lang",
+    "full_name": "Xã Bình Lăng",
+    "full_name_en": "Binh Lang Commune",
+    "type": "xã",
+    "district_code": "298",
+    "codename": "binh_lang"
+  },
+  {
+    "code": "11095",
+    "name": "Chí Minh",
+    "name_en": "Chi Minh",
+    "full_name": "Xã Chí Minh",
+    "full_name_en": "Chi Minh Commune",
+    "type": "xã",
+    "district_code": "298",
+    "codename": "chi_minh"
+  },
+  {
+    "code": "11098",
+    "name": "Kỳ Sơn",
+    "name_en": "Ky Son",
+    "full_name": "Xã Kỳ Sơn",
+    "full_name_en": "Ky Son Commune",
+    "type": "xã",
+    "district_code": "298",
+    "codename": "ky_son"
+  },
+  {
+    "code": "11101",
+    "name": "Quang Phục",
+    "name_en": "Quang Phuc",
+    "full_name": "Xã Quang Phục",
+    "full_name_en": "Quang Phuc Commune",
+    "type": "xã",
+    "district_code": "298",
+    "codename": "quang_phuc"
+  },
+  {
+    "code": "11113",
+    "name": "Tân Kỳ",
+    "name_en": "Tan Ky",
+    "full_name": "Xã Tân Kỳ",
+    "full_name_en": "Tan Ky Commune",
+    "type": "xã",
+    "district_code": "298",
+    "codename": "tan_ky"
+  },
+  {
+    "code": "11116",
+    "name": "Quang Khải",
+    "name_en": "Quang Khai",
+    "full_name": "Xã Quang Khải",
+    "full_name_en": "Quang Khai Commune",
+    "type": "xã",
+    "district_code": "298",
+    "codename": "quang_khai"
+  },
+  {
+    "code": "11119",
+    "name": "Đại Hợp",
+    "name_en": "Dai Hop",
+    "full_name": "Xã Đại Hợp",
+    "full_name_en": "Dai Hop Commune",
+    "type": "xã",
+    "district_code": "298",
+    "codename": "dai_hop"
+  },
+  {
+    "code": "11122",
+    "name": "Dân An",
+    "name_en": "Dan An",
+    "full_name": "Xã Dân An",
+    "full_name_en": "Dan An Commune",
+    "type": "xã",
+    "district_code": "298",
+    "codename": "dan_an"
+  },
+  {
+    "code": "11125",
+    "name": "An Thanh",
+    "name_en": "An Thanh",
+    "full_name": "Xã An Thanh",
+    "full_name_en": "An Thanh Commune",
+    "type": "xã",
+    "district_code": "298",
+    "codename": "an_thanh"
+  },
+  {
+    "code": "11128",
+    "name": "Minh Đức",
+    "name_en": "Minh Duc",
+    "full_name": "Xã Minh Đức",
+    "full_name_en": "Minh Duc Commune",
+    "type": "xã",
+    "district_code": "298",
+    "codename": "minh_duc"
+  },
+  {
+    "code": "11131",
+    "name": "Văn Tố",
+    "name_en": "Van To",
+    "full_name": "Xã Văn Tố",
+    "full_name_en": "Van To Commune",
+    "type": "xã",
+    "district_code": "298",
+    "codename": "van_to"
+  },
+  {
+    "code": "11134",
+    "name": "Quang Trung",
+    "name_en": "Quang Trung",
+    "full_name": "Xã Quang Trung",
+    "full_name_en": "Quang Trung Commune",
+    "type": "xã",
+    "district_code": "298",
+    "codename": "quang_trung"
+  },
+  {
+    "code": "11140",
+    "name": "Lạc Phượng",
+    "name_en": "Lac Phuong",
+    "full_name": "Xã Lạc Phượng",
+    "full_name_en": "Lac Phuong Commune",
+    "type": "xã",
+    "district_code": "298",
+    "codename": "lac_phuong"
+  },
+  {
+    "code": "11143",
+    "name": "Tiên Động",
+    "name_en": "Tien Dong",
+    "full_name": "Xã Tiên Động",
+    "full_name_en": "Tien Dong Commune",
+    "type": "xã",
+    "district_code": "298",
+    "codename": "tien_dong"
+  },
+  {
+    "code": "11146",
+    "name": "Nguyên Giáp",
+    "name_en": "Nguyen Giap",
+    "full_name": "Xã Nguyên Giáp",
+    "full_name_en": "Nguyen Giap Commune",
+    "type": "xã",
+    "district_code": "298",
+    "codename": "nguyen_giap"
+  },
+  {
+    "code": "11149",
+    "name": "Hà Kỳ",
+    "name_en": "Ha Ky",
+    "full_name": "Xã Hà Kỳ",
+    "full_name_en": "Ha Ky Commune",
+    "type": "xã",
+    "district_code": "298",
+    "codename": "ha_ky"
+  },
+  {
+    "code": "11152",
+    "name": "Hà Thanh",
+    "name_en": "Ha Thanh",
+    "full_name": "Xã Hà Thanh",
+    "full_name_en": "Ha Thanh Commune",
+    "type": "xã",
+    "district_code": "298",
+    "codename": "ha_thanh"
+  }
+]

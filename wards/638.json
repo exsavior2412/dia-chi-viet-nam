@@ -1,0 +1,102 @@
+[
+  {
+    "code": "24043",
+    "name": "Phú Thiện",
+    "name_en": "Phu Thien",
+    "full_name": "Thị trấn Phú Thiện",
+    "full_name_en": "Phu Thien Township",
+    "type": "thị trấn",
+    "district_code": "638",
+    "codename": "phu_thien"
+  },
+  {
+    "code": "24046",
+    "name": "Chư A Thai",
+    "name_en": "Chu A Thai",
+    "full_name": "Xã Chư A Thai",
+    "full_name_en": "Chu A Thai Commune",
+    "type": "xã",
+    "district_code": "638",
+    "codename": "chu_a_thai"
+  },
+  {
+    "code": "24048",
+    "name": "Ayun Hạ",
+    "name_en": "Ayun Ha",
+    "full_name": "Xã Ayun Hạ",
+    "full_name_en": "Ayun Ha Commune",
+    "type": "xã",
+    "district_code": "638",
+    "codename": "ayun_ha"
+  },
+  {
+    "code": "24049",
+    "name": "Ia Ake",
+    "name_en": "Ia Ake",
+    "full_name": "Xã Ia Ake",
+    "full_name_en": "Ia Ake Commune",
+    "type": "xã",
+    "district_code": "638",
+    "codename": "ia_ake"
+  },
+  {
+    "code": "24052",
+    "name": "Ia Sol",
+    "name_en": "Ia Sol",
+    "full_name": "Xã Ia Sol",
+    "full_name_en": "Ia Sol Commune",
+    "type": "xã",
+    "district_code": "638",
+    "codename": "ia_sol"
+  },
+  {
+    "code": "24055",
+    "name": "Ia Piar",
+    "name_en": "Ia Piar",
+    "full_name": "Xã Ia Piar",
+    "full_name_en": "Ia Piar Commune",
+    "type": "xã",
+    "district_code": "638",
+    "codename": "ia_piar"
+  },
+  {
+    "code": "24058",
+    "name": "Ia Peng",
+    "name_en": "Ia Peng",
+    "full_name": "Xã Ia Peng",
+    "full_name_en": "Ia Peng Commune",
+    "type": "xã",
+    "district_code": "638",
+    "codename": "ia_peng"
+  },
+  {
+    "code": "24060",
+    "name": "Chrôh Pơnan",
+    "name_en": "Chroh Ponan",
+    "full_name": "Xã Chrôh Pơnan",
+    "full_name_en": "Chroh Ponan Commune",
+    "type": "xã",
+    "district_code": "638",
+    "codename": "chroh_ponan"
+  },
+  {
+    "code": "24061",
+    "name": "Ia Hiao",
+    "name_en": "Ia Hiao",
+    "full_name": "Xã Ia Hiao",
+    "full_name_en": "Ia Hiao Commune",
+    "type": "xã",
+    "district_code": "638",
+    "codename": "ia_hiao"
+  },
+  {
+    "code": "24067",
+    "name": "Ia Yeng",
+    "name_en": "Ia Yeng",
+    "full_name": "Xã Ia Yeng",
+    "full_name_en": "Ia Yeng Commune",
+    "type": "xã",
+    "district_code": "638",
+    "codename": "ia_yeng"
+  }
+]

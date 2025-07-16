@@ -1,0 +1,122 @@
+[
+  {
+    "code": "08869",
+    "name": "Hợp Hòa",
+    "name_en": "Hop Hoa",
+    "full_name": "Thị trấn Hợp Hòa",
+    "full_name_en": "Hop Hoa Township",
+    "type": "thị trấn",
+    "district_code": "247",
+    "codename": "hop_hoa"
+  },
+  {
+    "code": "08872",
+    "name": "Hoàng Hoa",
+    "name_en": "Hoang Hoa",
+    "full_name": "Xã Hoàng Hoa",
+    "full_name_en": "Hoang Hoa Commune",
+    "type": "xã",
+    "district_code": "247",
+    "codename": "hoang_hoa"
+  },
+  {
+    "code": "08875",
+    "name": "Đồng Tĩnh",
+    "name_en": "Dong Tinh",
+    "full_name": "Xã Đồng Tĩnh",
+    "full_name_en": "Dong Tinh Commune",
+    "type": "xã",
+    "district_code": "247",
+    "codename": "dong_tinh"
+  },
+  {
+    "code": "08878",
+    "name": "Kim Long",
+    "name_en": "Kim Long",
+    "full_name": "Thị trấn Kim Long",
+    "full_name_en": "Kim Long Township",
+    "type": "thị trấn",
+    "district_code": "247",
+    "codename": "kim_long"
+  },
+  {
+    "code": "08881",
+    "name": "Hướng Đạo",
+    "name_en": "Huong Dao",
+    "full_name": "Xã Hướng Đạo",
+    "full_name_en": "Huong Dao Commune",
+    "type": "xã",
+    "district_code": "247",
+    "codename": "huong_dao"
+  },
+  {
+    "code": "08884",
+    "name": "Đạo Tú",
+    "name_en": "Dao Tu",
+    "full_name": "Xã Đạo Tú",
+    "full_name_en": "Dao Tu Commune",
+    "type": "xã",
+    "district_code": "247",
+    "codename": "dao_tu"
+  },
+  {
+    "code": "08887",
+    "name": "An Hòa",
+    "name_en": "An Hoa",
+    "full_name": "Xã An Hòa",
+    "full_name_en": "An Hoa Commune",
+    "type": "xã",
+    "district_code": "247",
+    "codename": "an_hoa"
+  },
+  {
+    "code": "08890",
+    "name": "Thanh Vân",
+    "name_en": "Thanh Van",
+    "full_name": "Xã Thanh Vân",
+    "full_name_en": "Thanh Van Commune",
+    "type": "xã",
+    "district_code": "247",
+    "codename": "thanh_van"
+  },
+  {
+    "code": "08893",
+    "name": "Duy Phiên",
+    "name_en": "Duy Phien",
+    "full_name": "Xã Duy Phiên",
+    "full_name_en": "Duy Phien Commune",
+    "type": "xã",
+    "district_code": "247",
+    "codename": "duy_phien"
+  },
+  {
+    "code": "08896",
+    "name": "Hoàng Đan",
+    "name_en": "Hoang Dan",
+    "full_name": "Xã Hoàng Đan",
+    "full_name_en": "Hoang Dan Commune",
+    "type": "xã",
+    "district_code": "247",
+    "codename": "hoang_dan"
+  },
+  {
+    "code": "08899",
+    "name": "Hoàng Lâu",
+    "name_en": "Hoang Lau",
+    "full_name": "Xã Hoàng Lâu",
+    "full_name_en": "Hoang Lau Commune",
+    "type": "xã",
+    "district_code": "247",
+    "codename": "hoang_lau"
+  },
+  {
+    "code": "08905",
+    "name": "Hội Thịnh",
+    "name_en": "Hoi Thinh",
+    "full_name": "Xã Hội Thịnh",
+    "full_name_en": "Hoi Thinh Commune",
+    "type": "xã",
+    "district_code": "247",
+    "codename": "hoi_thinh"
+  }
+]

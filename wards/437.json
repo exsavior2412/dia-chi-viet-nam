@@ -1,0 +1,62 @@
+[
+  {
+    "code": "18115",
+    "name": "Bắc Hồng",
+    "name_en": "Bac Hong",
+    "full_name": "Phường Bắc Hồng",
+    "full_name_en": "Bac Hong Ward",
+    "type": "phường",
+    "district_code": "437",
+    "codename": "bac_hong"
+  },
+  {
+    "code": "18118",
+    "name": "Nam Hồng",
+    "name_en": "Nam Hong",
+    "full_name": "Phường Nam Hồng",
+    "full_name_en": "Nam Hong Ward",
+    "type": "phường",
+    "district_code": "437",
+    "codename": "nam_hong"
+  },
+  {
+    "code": "18121",
+    "name": "Trung Lương",
+    "name_en": "Trung Luong",
+    "full_name": "Phường Trung Lương",
+    "full_name_en": "Trung Luong Ward",
+    "type": "phường",
+    "district_code": "437",
+    "codename": "trung_luong"
+  },
+  {
+    "code": "18124",
+    "name": "Đức Thuận",
+    "name_en": "Duc Thuan",
+    "full_name": "Phường Đức Thuận",
+    "full_name_en": "Duc Thuan Ward",
+    "type": "phường",
+    "district_code": "437",
+    "codename": "duc_thuan"
+  },
+  {
+    "code": "18127",
+    "name": "Đậu Liêu",
+    "name_en": "Dau Lieu",
+    "full_name": "Phường Đậu Liêu",
+    "full_name_en": "Dau Lieu Ward",
+    "type": "phường",
+    "district_code": "437",
+    "codename": "dau_lieu"
+  },
+  {
+    "code": "18130",
+    "name": "Thuận Lộc",
+    "name_en": "Thuan Loc",
+    "full_name": "Xã Thuận Lộc",
+    "full_name_en": "Thuan Loc Commune",
+    "type": "xã",
+    "district_code": "437",
+    "codename": "thuan_loc"
+  }
+]

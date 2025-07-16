@@ -1,0 +1,252 @@
+[
+  {
+    "code": "17101",
+    "name": "Quỳnh Thắng",
+    "name_en": "Quynh Thang",
+    "full_name": "Xã Quỳnh Thắng",
+    "full_name_en": "Quynh Thang Commune",
+    "type": "xã",
+    "district_code": "421",
+    "codename": "quynh_thang"
+  },
+  {
+    "code": "17119",
+    "name": "Quỳnh Tân",
+    "name_en": "Quynh Tan",
+    "full_name": "Xã Quỳnh Tân",
+    "full_name_en": "Quynh Tan Commune",
+    "type": "xã",
+    "district_code": "421",
+    "codename": "quynh_tan"
+  },
+  {
+    "code": "17122",
+    "name": "Quỳnh Châu",
+    "name_en": "Quynh Chau",
+    "full_name": "Xã Quỳnh Châu",
+    "full_name_en": "Quynh Chau Commune",
+    "type": "xã",
+    "district_code": "421",
+    "codename": "quynh_chau"
+  },
+  {
+    "code": "17140",
+    "name": "Tân Sơn",
+    "name_en": "Tan Son",
+    "full_name": "Xã Tân Sơn",
+    "full_name_en": "Tan Son Commune",
+    "type": "xã",
+    "district_code": "421",
+    "codename": "tan_son"
+  },
+  {
+    "code": "17143",
+    "name": "Quỳnh Văn",
+    "name_en": "Quynh Van",
+    "full_name": "Xã Quỳnh Văn",
+    "full_name_en": "Quynh Van Commune",
+    "type": "xã",
+    "district_code": "421",
+    "codename": "quynh_van"
+  },
+  {
+    "code": "17146",
+    "name": "Ngọc Sơn",
+    "name_en": "Ngoc Son",
+    "full_name": "Xã Ngọc Sơn",
+    "full_name_en": "Ngoc Son Commune",
+    "type": "xã",
+    "district_code": "421",
+    "codename": "ngoc_son"
+  },
+  {
+    "code": "17149",
+    "name": "Quỳnh Tam",
+    "name_en": "Quynh Tam",
+    "full_name": "Xã Quỳnh Tam",
+    "full_name_en": "Quynh Tam Commune",
+    "type": "xã",
+    "district_code": "421",
+    "codename": "quynh_tam"
+  },
+  {
+    "code": "17152",
+    "name": "Quỳnh Sơn",
+    "name_en": "Quynh Son",
+    "full_name": "Xã Quỳnh Sơn",
+    "full_name_en": "Quynh Son Commune",
+    "type": "xã",
+    "district_code": "421",
+    "codename": "quynh_son"
+  },
+  {
+    "code": "17155",
+    "name": "Quỳnh Thạch",
+    "name_en": "Quynh Thach",
+    "full_name": "Xã Quỳnh Thạch",
+    "full_name_en": "Quynh Thach Commune",
+    "type": "xã",
+    "district_code": "421",
+    "codename": "quynh_thach"
+  },
+  {
+    "code": "17158",
+    "name": "Quỳnh Bảng",
+    "name_en": "Quynh Bang",
+    "full_name": "Xã Quỳnh Bảng",
+    "full_name_en": "Quynh Bang Commune",
+    "type": "xã",
+    "district_code": "421",
+    "codename": "quynh_bang"
+  },
+  {
+    "code": "17164",
+    "name": "Quỳnh Thanh",
+    "name_en": "Quynh Thanh",
+    "full_name": "Xã Quỳnh Thanh",
+    "full_name_en": "Quynh Thanh Commune",
+    "type": "xã",
+    "district_code": "421",
+    "codename": "quynh_thanh"
+  },
+  {
+    "code": "17167",
+    "name": "Quỳnh Hậu",
+    "name_en": "Quynh Hau",
+    "full_name": "Xã Quỳnh Hậu",
+    "full_name_en": "Quynh Hau Commune",
+    "type": "xã",
+    "district_code": "421",
+    "codename": "quynh_hau"
+  },
+  {
+    "code": "17170",
+    "name": "Quỳnh Lâm",
+    "name_en": "Quynh Lam",
+    "full_name": "Xã Quỳnh Lâm",
+    "full_name_en": "Quynh Lam Commune",
+    "type": "xã",
+    "district_code": "421",
+    "codename": "quynh_lam"
+  },
+  {
+    "code": "17173",
+    "name": "Quỳnh Đôi",
+    "name_en": "Quynh Doi",
+    "full_name": "Xã Quỳnh Đôi",
+    "full_name_en": "Quynh Doi Commune",
+    "type": "xã",
+    "district_code": "421",
+    "codename": "quynh_doi"
+  },
+  {
+    "code": "17176",
+    "name": "Minh Lương",
+    "name_en": "Minh Luong",
+    "full_name": "Xã Minh Lương",
+    "full_name_en": "Minh Luong Commune",
+    "type": "xã",
+    "district_code": "421",
+    "codename": "minh_luong"
+  },
+  {
+    "code": "17179",
+    "name": "Cầu Giát",
+    "name_en": "Cau Giat",
+    "full_name": "Thị trấn Cầu Giát",
+    "full_name_en": "Cau Giat Township",
+    "type": "thị trấn",
+    "district_code": "421",
+    "codename": "cau_giat"
+  },
+  {
+    "code": "17182",
+    "name": "Quỳnh Yên",
+    "name_en": "Quynh Yen",
+    "full_name": "Xã Quỳnh Yên",
+    "full_name_en": "Quynh Yen Commune",
+    "type": "xã",
+    "district_code": "421",
+    "codename": "quynh_yen"
+  },
+  {
+    "code": "17185",
+    "name": "Bình Sơn",
+    "name_en": "Binh Son",
+    "full_name": "Xã Bình Sơn",
+    "full_name_en": "Binh Son Commune",
+    "type": "xã",
+    "district_code": "421",
+    "codename": "binh_son"
+  },
+  {
+    "code": "17191",
+    "name": "Quỳnh Diễn",
+    "name_en": "Quynh Dien",
+    "full_name": "Xã Quỳnh Diễn",
+    "full_name_en": "Quynh Dien Commune",
+    "type": "xã",
+    "district_code": "421",
+    "codename": "quynh_dien"
+  },
+  {
+    "code": "17197",
+    "name": "Quỳnh Giang",
+    "name_en": "Quynh Giang",
+    "full_name": "Xã Quỳnh Giang",
+    "full_name_en": "Quynh Giang Commune",
+    "type": "xã",
+    "district_code": "421",
+    "codename": "quynh_giang"
+  },
+  {
+    "code": "17206",
+    "name": "An Hòa",
+    "name_en": "An Hoa",
+    "full_name": "Xã An Hòa",
+    "full_name_en": "An Hoa Commune",
+    "type": "xã",
+    "district_code": "421",
+    "codename": "an_hoa"
+  },
+  {
+    "code": "17209",
+    "name": "Phú Nghĩa",
+    "name_en": "Phu Nghia",
+    "full_name": "Xã Phú Nghĩa",
+    "full_name_en": "Phu Nghia Commune",
+    "type": "xã",
+    "district_code": "421",
+    "codename": "phu_nghia"
+  },
+  {
+    "code": "17212",
+    "name": "Văn Hải",
+    "name_en": "Van Hai",
+    "full_name": "Xã Văn Hải",
+    "full_name_en": "Van Hai Commune",
+    "type": "xã",
+    "district_code": "421",
+    "codename": "van_hai"
+  },
+  {
+    "code": "17218",
+    "name": "Thuận Long",
+    "name_en": "Thuan Long",
+    "full_name": "Xã Thuận Long",
+    "full_name_en": "Thuan Long Commune",
+    "type": "xã",
+    "district_code": "421",
+    "codename": "thuan_long"
+  },
+  {
+    "code": "17224",
+    "name": "Tân Thắng",
+    "name_en": "Tan Thang",
+    "full_name": "Xã Tân Thắng",
+    "full_name_en": "Tan Thang Commune",
+    "type": "xã",
+    "district_code": "421",
+    "codename": "tan_thang"
+  }
+]

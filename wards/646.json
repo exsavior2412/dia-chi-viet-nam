@@ -1,0 +1,102 @@
+[
+  {
+    "code": "24211",
+    "name": "Ea Súp",
+    "name_en": "Ea Sup",
+    "full_name": "Thị trấn Ea Súp",
+    "full_name_en": "Ea Sup Township",
+    "type": "thị trấn",
+    "district_code": "646",
+    "codename": "ea_sup"
+  },
+  {
+    "code": "24214",
+    "name": "Ia Lốp",
+    "name_en": "Ia Lop",
+    "full_name": "Xã Ia Lốp",
+    "full_name_en": "Ia Lop Commune",
+    "type": "xã",
+    "district_code": "646",
+    "codename": "ia_lop"
+  },
+  {
+    "code": "24215",
+    "name": "Ia JLơi",
+    "name_en": "Ia JLoi",
+    "full_name": "Xã Ia JLơi",
+    "full_name_en": "Ia JLoi Commune",
+    "type": "xã",
+    "district_code": "646",
+    "codename": "ia_jloi"
+  },
+  {
+    "code": "24217",
+    "name": "Ea Rốk",
+    "name_en": "Ea Rok",
+    "full_name": "Xã Ea Rốk",
+    "full_name_en": "Ea Rok Commune",
+    "type": "xã",
+    "district_code": "646",
+    "codename": "ea_rok"
+  },
+  {
+    "code": "24220",
+    "name": "Ya Tờ Mốt",
+    "name_en": "Ya To Mot",
+    "full_name": "Xã Ya Tờ Mốt",
+    "full_name_en": "Ya To Mot Commune",
+    "type": "xã",
+    "district_code": "646",
+    "codename": "ya_to_mot"
+  },
+  {
+    "code": "24221",
+    "name": "Ia RVê",
+    "name_en": "Ia RVe",
+    "full_name": "Xã Ia RVê",
+    "full_name_en": "Ia RVe Commune",
+    "type": "xã",
+    "district_code": "646",
+    "codename": "ia_rve"
+  },
+  {
+    "code": "24223",
+    "name": "Ea Lê",
+    "name_en": "Ea Le",
+    "full_name": "Xã Ea Lê",
+    "full_name_en": "Ea Le Commune",
+    "type": "xã",
+    "district_code": "646",
+    "codename": "ea_le"
+  },
+  {
+    "code": "24226",
+    "name": "Cư KBang",
+    "name_en": "Cu KBang",
+    "full_name": "Xã Cư KBang",
+    "full_name_en": "Cu KBang Commune",
+    "type": "xã",
+    "district_code": "646",
+    "codename": "cu_kbang"
+  },
+  {
+    "code": "24229",
+    "name": "Ea Bung",
+    "name_en": "Ea Bung",
+    "full_name": "Xã Ea Bung",
+    "full_name_en": "Ea Bung Commune",
+    "type": "xã",
+    "district_code": "646",
+    "codename": "ea_bung"
+  },
+  {
+    "code": "24232",
+    "name": "Cư M'Lan",
+    "name_en": "Cu M'Lan",
+    "full_name": "Xã Cư M'Lan",
+    "full_name_en": "Cu M'Lan Commune",
+    "type": "xã",
+    "district_code": "646",
+    "codename": "cu_mlan"
+  }
+]

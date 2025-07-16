@@ -1,0 +1,82 @@
+[
+  {
+    "code": "05971",
+    "name": "Hoàng Văn Thụ",
+    "name_en": "Hoang Van Thu",
+    "full_name": "Phường Hoàng Văn Thụ",
+    "full_name_en": "Hoang Van Thu Ward",
+    "type": "phường",
+    "district_code": "178",
+    "codename": "hoang_van_thu"
+  },
+  {
+    "code": "05974",
+    "name": "Tam Thanh",
+    "name_en": "Tam Thanh",
+    "full_name": "Phường Tam Thanh",
+    "full_name_en": "Tam Thanh Ward",
+    "type": "phường",
+    "district_code": "178",
+    "codename": "tam_thanh"
+  },
+  {
+    "code": "05977",
+    "name": "Vĩnh Trại",
+    "name_en": "Vinh Trai",
+    "full_name": "Phường Vĩnh Trại",
+    "full_name_en": "Vinh Trai Ward",
+    "type": "phường",
+    "district_code": "178",
+    "codename": "vinh_trai"
+  },
+  {
+    "code": "05980",
+    "name": "Đông Kinh",
+    "name_en": "Dong Kinh",
+    "full_name": "Phường Đông Kinh",
+    "full_name_en": "Dong Kinh Ward",
+    "type": "phường",
+    "district_code": "178",
+    "codename": "dong_kinh"
+  },
+  {
+    "code": "05983",
+    "name": "Chi Lăng",
+    "name_en": "Chi Lang",
+    "full_name": "Phường Chi Lăng",
+    "full_name_en": "Chi Lang Ward",
+    "type": "phường",
+    "district_code": "178",
+    "codename": "chi_lang"
+  },
+  {
+    "code": "05986",
+    "name": "Hoàng Đồng",
+    "name_en": "Hoang Dong",
+    "full_name": "Xã Hoàng Đồng",
+    "full_name_en": "Hoang Dong Commune",
+    "type": "xã",
+    "district_code": "178",
+    "codename": "hoang_dong"
+  },
+  {
+    "code": "05989",
+    "name": "Quảng Lạc",
+    "name_en": "Quang Lac",
+    "full_name": "Xã Quảng Lạc",
+    "full_name_en": "Quang Lac Commune",
+    "type": "xã",
+    "district_code": "178",
+    "codename": "quang_lac"
+  },
+  {
+    "code": "05992",
+    "name": "Mai Pha",
+    "name_en": "Mai Pha",
+    "full_name": "Xã Mai Pha",
+    "full_name_en": "Mai Pha Commune",
+    "type": "xã",
+    "district_code": "178",
+    "codename": "mai_pha"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "code": "31168",
+    "name": "Bình Thủy",
+    "name_en": "Binh Thuy",
+    "full_name": "Phường Bình Thủy",
+    "full_name_en": "Binh Thuy Ward",
+    "type": "phường",
+    "district_code": "918",
+    "codename": "binh_thuy"
+  },
+  {
+    "code": "31169",
+    "name": "Trà An",
+    "name_en": "Tra An",
+    "full_name": "Phường Trà An",
+    "full_name_en": "Tra An Ward",
+    "type": "phường",
+    "district_code": "918",
+    "codename": "tra_an"
+  },
+  {
+    "code": "31171",
+    "name": "Trà Nóc",
+    "name_en": "Tra Noc",
+    "full_name": "Phường Trà Nóc",
+    "full_name_en": "Tra Noc Ward",
+    "type": "phường",
+    "district_code": "918",
+    "codename": "tra_noc"
+  },
+  {
+    "code": "31174",
+    "name": "Thới An Đông",
+    "name_en": "Thoi An Dong",
+    "full_name": "Phường Thới An Đông",
+    "full_name_en": "Thoi An Dong Ward",
+    "type": "phường",
+    "district_code": "918",
+    "codename": "thoi_an_dong"
+  },
+  {
+    "code": "31177",
+    "name": "An Thới",
+    "name_en": "An Thoi",
+    "full_name": "Phường An Thới",
+    "full_name_en": "An Thoi Ward",
+    "type": "phường",
+    "district_code": "918",
+    "codename": "an_thoi"
+  },
+  {
+    "code": "31178",
+    "name": "Bùi Hữu Nghĩa",
+    "name_en": "Bui Huu Nghia",
+    "full_name": "Phường Bùi Hữu Nghĩa",
+    "full_name_en": "Bui Huu Nghia Ward",
+    "type": "phường",
+    "district_code": "918",
+    "codename": "bui_huu_nghia"
+  },
+  {
+    "code": "31180",
+    "name": "Long Hòa",
+    "name_en": "Long Hoa",
+    "full_name": "Phường Long Hòa",
+    "full_name_en": "Long Hoa Ward",
+    "type": "phường",
+    "district_code": "918",
+    "codename": "long_hoa"
+  },
+  {
+    "code": "31183",
+    "name": "Long Tuyền",
+    "name_en": "Long Tuyen",
+    "full_name": "Phường Long Tuyền",
+    "full_name_en": "Long Tuyen Ward",
+    "type": "phường",
+    "district_code": "918",
+    "codename": "long_tuyen"
+  }
+]

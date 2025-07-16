@@ -1,0 +1,142 @@
+[
+  {
+    "code": "10999",
+    "name": "Gia Lộc",
+    "name_en": "Gia Loc",
+    "full_name": "Thị trấn Gia Lộc",
+    "full_name_en": "Gia Loc Township",
+    "type": "thị trấn",
+    "district_code": "297",
+    "codename": "gia_loc"
+  },
+  {
+    "code": "11008",
+    "name": "Thống Nhất",
+    "name_en": "Thong Nhat",
+    "full_name": "Xã Thống Nhất",
+    "full_name_en": "Thong Nhat Commune",
+    "type": "xã",
+    "district_code": "297",
+    "codename": "thong_nhat"
+  },
+  {
+    "code": "11020",
+    "name": "Yết Kiêu",
+    "name_en": "Yet Kieu",
+    "full_name": "Xã Yết Kiêu",
+    "full_name_en": "Yet Kieu Commune",
+    "type": "xã",
+    "district_code": "297",
+    "codename": "yet_kieu"
+  },
+  {
+    "code": "11035",
+    "name": "Gia Phúc",
+    "name_en": "Gia Phuc",
+    "full_name": "Xã Gia Phúc",
+    "full_name_en": "Gia Phuc Commune",
+    "type": "xã",
+    "district_code": "297",
+    "codename": "gia_phuc"
+  },
+  {
+    "code": "11038",
+    "name": "Gia Tiến",
+    "name_en": "Gia Tien",
+    "full_name": "Xã Gia Tiến",
+    "full_name_en": "Gia Tien Commune",
+    "type": "xã",
+    "district_code": "297",
+    "codename": "gia_tien"
+  },
+  {
+    "code": "11041",
+    "name": "Lê Lợi",
+    "name_en": "Le Loi",
+    "full_name": "Xã Lê Lợi",
+    "full_name_en": "Le Loi Commune",
+    "type": "xã",
+    "district_code": "297",
+    "codename": "le_loi"
+  },
+  {
+    "code": "11044",
+    "name": "Toàn Thắng",
+    "name_en": "Toan Thang",
+    "full_name": "Xã Toàn Thắng",
+    "full_name_en": "Toan Thang Commune",
+    "type": "xã",
+    "district_code": "297",
+    "codename": "toan_thang"
+  },
+  {
+    "code": "11047",
+    "name": "Hoàng Diệu",
+    "name_en": "Hoang Dieu",
+    "full_name": "Xã Hoàng Diệu",
+    "full_name_en": "Hoang Dieu Commune",
+    "type": "xã",
+    "district_code": "297",
+    "codename": "hoang_dieu"
+  },
+  {
+    "code": "11050",
+    "name": "Hồng Hưng",
+    "name_en": "Hong Hung",
+    "full_name": "Xã Hồng Hưng",
+    "full_name_en": "Hong Hung Commune",
+    "type": "xã",
+    "district_code": "297",
+    "codename": "hong_hung"
+  },
+  {
+    "code": "11053",
+    "name": "Phạm Trấn",
+    "name_en": "Pham Tran",
+    "full_name": "Xã Phạm Trấn",
+    "full_name_en": "Pham Tran Commune",
+    "type": "xã",
+    "district_code": "297",
+    "codename": "pham_tran"
+  },
+  {
+    "code": "11056",
+    "name": "Đoàn Thượng",
+    "name_en": "Doan Thuong",
+    "full_name": "Xã Đoàn Thượng",
+    "full_name_en": "Doan Thuong Commune",
+    "type": "xã",
+    "district_code": "297",
+    "codename": "doan_thuong"
+  },
+  {
+    "code": "11059",
+    "name": "Thống Kênh",
+    "name_en": "Thong Kenh",
+    "full_name": "Xã Thống Kênh",
+    "full_name_en": "Thong Kenh Commune",
+    "type": "xã",
+    "district_code": "297",
+    "codename": "thong_kenh"
+  },
+  {
+    "code": "11065",
+    "name": "Nhật Quang",
+    "name_en": "Nhat Quang",
+    "full_name": "Xã Nhật Quang",
+    "full_name_en": "Nhat Quang Commune",
+    "type": "xã",
+    "district_code": "297",
+    "codename": "nhat_quang"
+  },
+  {
+    "code": "11071",
+    "name": "Quang Đức",
+    "name_en": "Quang Duc",
+    "full_name": "Xã Quang Đức",
+    "full_name_en": "Quang Duc Commune",
+    "type": "xã",
+    "district_code": "297",
+    "codename": "quang_duc"
+  }
+]

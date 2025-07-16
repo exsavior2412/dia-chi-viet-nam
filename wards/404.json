@@ -1,0 +1,292 @@
+[
+  {
+    "code": "16279",
+    "name": "Nông Cống",
+    "name_en": "Nong Cong",
+    "full_name": "Thị trấn Nông Cống",
+    "full_name_en": "Nong Cong Township",
+    "type": "thị trấn",
+    "district_code": "404",
+    "codename": "nong_cong"
+  },
+  {
+    "code": "16282",
+    "name": "Tân Phúc",
+    "name_en": "Tan Phuc",
+    "full_name": "Xã Tân Phúc",
+    "full_name_en": "Tan Phuc Commune",
+    "type": "xã",
+    "district_code": "404",
+    "codename": "tan_phuc"
+  },
+  {
+    "code": "16285",
+    "name": "Tân Thọ",
+    "name_en": "Tan Tho",
+    "full_name": "Xã Tân Thọ",
+    "full_name_en": "Tan Tho Commune",
+    "type": "xã",
+    "district_code": "404",
+    "codename": "tan_tho"
+  },
+  {
+    "code": "16288",
+    "name": "Hoàng Sơn",
+    "name_en": "Hoang Son",
+    "full_name": "Xã Hoàng Sơn",
+    "full_name_en": "Hoang Son Commune",
+    "type": "xã",
+    "district_code": "404",
+    "codename": "hoang_son"
+  },
+  {
+    "code": "16291",
+    "name": "Tân Khang",
+    "name_en": "Tan Khang",
+    "full_name": "Xã Tân Khang",
+    "full_name_en": "Tan Khang Commune",
+    "type": "xã",
+    "district_code": "404",
+    "codename": "tan_khang"
+  },
+  {
+    "code": "16294",
+    "name": "Hoàng Giang",
+    "name_en": "Hoang Giang",
+    "full_name": "Xã Hoàng Giang",
+    "full_name_en": "Hoang Giang Commune",
+    "type": "xã",
+    "district_code": "404",
+    "codename": "hoang_giang"
+  },
+  {
+    "code": "16297",
+    "name": "Trung Chính",
+    "name_en": "Trung Chinh",
+    "full_name": "Xã Trung Chính",
+    "full_name_en": "Trung Chinh Commune",
+    "type": "xã",
+    "district_code": "404",
+    "codename": "trung_chinh"
+  },
+  {
+    "code": "16303",
+    "name": "Trung Thành",
+    "name_en": "Trung Thanh",
+    "full_name": "Xã Trung Thành",
+    "full_name_en": "Trung Thanh Commune",
+    "type": "xã",
+    "district_code": "404",
+    "codename": "trung_thanh"
+  },
+  {
+    "code": "16309",
+    "name": "Tế Thắng",
+    "name_en": "Te Thang",
+    "full_name": "Xã Tế Thắng",
+    "full_name_en": "Te Thang Commune",
+    "type": "xã",
+    "district_code": "404",
+    "codename": "te_thang"
+  },
+  {
+    "code": "16315",
+    "name": "Tế Lợi",
+    "name_en": "Te Loi",
+    "full_name": "Xã Tế Lợi",
+    "full_name_en": "Te Loi Commune",
+    "type": "xã",
+    "district_code": "404",
+    "codename": "te_loi"
+  },
+  {
+    "code": "16318",
+    "name": "Tế Nông",
+    "name_en": "Te Nong",
+    "full_name": "Xã Tế Nông",
+    "full_name_en": "Te Nong Commune",
+    "type": "xã",
+    "district_code": "404",
+    "codename": "te_nong"
+  },
+  {
+    "code": "16321",
+    "name": "Minh Nghĩa",
+    "name_en": "Minh Nghia",
+    "full_name": "Xã Minh Nghĩa",
+    "full_name_en": "Minh Nghia Commune",
+    "type": "xã",
+    "district_code": "404",
+    "codename": "minh_nghia"
+  },
+  {
+    "code": "16324",
+    "name": "Minh Khôi",
+    "name_en": "Minh Khoi",
+    "full_name": "Xã Minh Khôi",
+    "full_name_en": "Minh Khoi Commune",
+    "type": "xã",
+    "district_code": "404",
+    "codename": "minh_khoi"
+  },
+  {
+    "code": "16327",
+    "name": "Vạn Hòa",
+    "name_en": "Van Hoa",
+    "full_name": "Xã Vạn Hòa",
+    "full_name_en": "Van Hoa Commune",
+    "type": "xã",
+    "district_code": "404",
+    "codename": "van_hoa"
+  },
+  {
+    "code": "16330",
+    "name": "Trường Trung",
+    "name_en": "Truong Trung",
+    "full_name": "Xã Trường Trung",
+    "full_name_en": "Truong Trung Commune",
+    "type": "xã",
+    "district_code": "404",
+    "codename": "truong_trung"
+  },
+  {
+    "code": "16333",
+    "name": "Vạn Thắng",
+    "name_en": "Van Thang",
+    "full_name": "Xã Vạn Thắng",
+    "full_name_en": "Van Thang Commune",
+    "type": "xã",
+    "district_code": "404",
+    "codename": "van_thang"
+  },
+  {
+    "code": "16336",
+    "name": "Trường Giang",
+    "name_en": "Truong Giang",
+    "full_name": "Xã Trường Giang",
+    "full_name_en": "Truong Giang Commune",
+    "type": "xã",
+    "district_code": "404",
+    "codename": "truong_giang"
+  },
+  {
+    "code": "16339",
+    "name": "Vạn Thiện",
+    "name_en": "Van Thien",
+    "full_name": "Xã Vạn Thiện",
+    "full_name_en": "Van Thien Commune",
+    "type": "xã",
+    "district_code": "404",
+    "codename": "van_thien"
+  },
+  {
+    "code": "16342",
+    "name": "Thăng Long",
+    "name_en": "Thang Long",
+    "full_name": "Xã Thăng Long",
+    "full_name_en": "Thang Long Commune",
+    "type": "xã",
+    "district_code": "404",
+    "codename": "thang_long"
+  },
+  {
+    "code": "16345",
+    "name": "Trường Minh",
+    "name_en": "Truong Minh",
+    "full_name": "Xã Trường Minh",
+    "full_name_en": "Truong Minh Commune",
+    "type": "xã",
+    "district_code": "404",
+    "codename": "truong_minh"
+  },
+  {
+    "code": "16348",
+    "name": "Trường Sơn",
+    "name_en": "Truong Son",
+    "full_name": "Xã Trường Sơn",
+    "full_name_en": "Truong Son Commune",
+    "type": "xã",
+    "district_code": "404",
+    "codename": "truong_son"
+  },
+  {
+    "code": "16351",
+    "name": "Thăng Bình",
+    "name_en": "Thang Binh",
+    "full_name": "Xã Thăng Bình",
+    "full_name_en": "Thang Binh Commune",
+    "type": "xã",
+    "district_code": "404",
+    "codename": "thang_binh"
+  },
+  {
+    "code": "16354",
+    "name": "Công Liêm",
+    "name_en": "Cong Liem",
+    "full_name": "Xã Công Liêm",
+    "full_name_en": "Cong Liem Commune",
+    "type": "xã",
+    "district_code": "404",
+    "codename": "cong_liem"
+  },
+  {
+    "code": "16357",
+    "name": "Tượng Văn",
+    "name_en": "Tuong Van",
+    "full_name": "Xã Tượng Văn",
+    "full_name_en": "Tuong Van Commune",
+    "type": "xã",
+    "district_code": "404",
+    "codename": "tuong_van"
+  },
+  {
+    "code": "16360",
+    "name": "Thăng Thọ",
+    "name_en": "Thang Tho",
+    "full_name": "Xã Thăng Thọ",
+    "full_name_en": "Thang Tho Commune",
+    "type": "xã",
+    "district_code": "404",
+    "codename": "thang_tho"
+  },
+  {
+    "code": "16363",
+    "name": "Tượng Lĩnh",
+    "name_en": "Tuong Linh",
+    "full_name": "Xã Tượng Lĩnh",
+    "full_name_en": "Tuong Linh Commune",
+    "type": "xã",
+    "district_code": "404",
+    "codename": "tuong_linh"
+  },
+  {
+    "code": "16366",
+    "name": "Tượng Sơn",
+    "name_en": "Tuong Son",
+    "full_name": "Xã Tượng Sơn",
+    "full_name_en": "Tuong Son Commune",
+    "type": "xã",
+    "district_code": "404",
+    "codename": "tuong_son"
+  },
+  {
+    "code": "16369",
+    "name": "Công Chính",
+    "name_en": "Cong Chinh",
+    "full_name": "Xã Công Chính",
+    "full_name_en": "Cong Chinh Commune",
+    "type": "xã",
+    "district_code": "404",
+    "codename": "cong_chinh"
+  },
+  {
+    "code": "16375",
+    "name": "Yên Mỹ",
+    "name_en": "Yen My",
+    "full_name": "Xã Yên Mỹ",
+    "full_name_en": "Yen My Commune",
+    "type": "xã",
+    "district_code": "404",
+    "codename": "yen_my"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "code": "06994",
+    "name": "Cái Rồng",
+    "name_en": "Cai Rong",
+    "full_name": "Thị trấn Cái Rồng",
+    "full_name_en": "Cai Rong Township",
+    "type": "thị trấn",
+    "district_code": "203",
+    "codename": "cai_rong"
+  },
+  {
+    "code": "06997",
+    "name": "Đài Xuyên",
+    "name_en": "Dai Xuyen",
+    "full_name": "Xã Đài Xuyên",
+    "full_name_en": "Dai Xuyen Commune",
+    "type": "xã",
+    "district_code": "203",
+    "codename": "dai_xuyen"
+  },
+  {
+    "code": "07000",
+    "name": "Bình Dân",
+    "name_en": "Binh Dan",
+    "full_name": "Xã Bình Dân",
+    "full_name_en": "Binh Dan Commune",
+    "type": "xã",
+    "district_code": "203",
+    "codename": "binh_dan"
+  },
+  {
+    "code": "07003",
+    "name": "Vạn Yên",
+    "name_en": "Van Yen",
+    "full_name": "Xã Vạn Yên",
+    "full_name_en": "Van Yen Commune",
+    "type": "xã",
+    "district_code": "203",
+    "codename": "van_yen"
+  },
+  {
+    "code": "07006",
+    "name": "Minh Châu",
+    "name_en": "Minh Chau",
+    "full_name": "Xã Minh Châu",
+    "full_name_en": "Minh Chau Commune",
+    "type": "xã",
+    "district_code": "203",
+    "codename": "minh_chau"
+  },
+  {
+    "code": "07009",
+    "name": "Đoàn Kết",
+    "name_en": "Doan Ket",
+    "full_name": "Xã Đoàn Kết",
+    "full_name_en": "Doan Ket Commune",
+    "type": "xã",
+    "district_code": "203",
+    "codename": "doan_ket"
+  },
+  {
+    "code": "07012",
+    "name": "Hạ Long",
+    "name_en": "Ha Long",
+    "full_name": "Xã Hạ Long",
+    "full_name_en": "Ha Long Commune",
+    "type": "xã",
+    "district_code": "203",
+    "codename": "ha_long"
+  },
+  {
+    "code": "07015",
+    "name": "Đông Xá",
+    "name_en": "Dong Xa",
+    "full_name": "Xã Đông Xá",
+    "full_name_en": "Dong Xa Commune",
+    "type": "xã",
+    "district_code": "203",
+    "codename": "dong_xa"
+  },
+  {
+    "code": "07018",
+    "name": "Bản Sen",
+    "name_en": "Ban Sen",
+    "full_name": "Xã Bản Sen",
+    "full_name_en": "Ban Sen Commune",
+    "type": "xã",
+    "district_code": "203",
+    "codename": "ban_sen"
+  },
+  {
+    "code": "07021",
+    "name": "Thắng Lợi",
+    "name_en": "Thang Loi",
+    "full_name": "Xã Thắng Lợi",
+    "full_name_en": "Thang Loi Commune",
+    "type": "xã",
+    "district_code": "203",
+    "codename": "thang_loi"
+  },
+  {
+    "code": "07024",
+    "name": "Quan Lạn",
+    "name_en": "Quan Lan",
+    "full_name": "Xã Quan Lạn",
+    "full_name_en": "Quan Lan Commune",
+    "type": "xã",
+    "district_code": "203",
+    "codename": "quan_lan"
+  },
+  {
+    "code": "07027",
+    "name": "Ngọc Vừng",
+    "name_en": "Ngoc Vung",
+    "full_name": "Xã Ngọc Vừng",
+    "full_name_en": "Ngoc Vung Commune",
+    "type": "xã",
+    "district_code": "203",
+    "codename": "ngoc_vung"
+  }
+]

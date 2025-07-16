@@ -1,0 +1,112 @@
+[
+  {
+    "code": "29341",
+    "name": "Tiểu Cần",
+    "name_en": "Tieu Can",
+    "full_name": "Thị trấn Tiểu Cần",
+    "full_name_en": "Tieu Can Township",
+    "type": "thị trấn",
+    "district_code": "846",
+    "codename": "tieu_can"
+  },
+  {
+    "code": "29344",
+    "name": "Cầu Quan",
+    "name_en": "Cau Quan",
+    "full_name": "Thị trấn Cầu Quan",
+    "full_name_en": "Cau Quan Township",
+    "type": "thị trấn",
+    "district_code": "846",
+    "codename": "cau_quan"
+  },
+  {
+    "code": "29347",
+    "name": "Phú Cần",
+    "name_en": "Phu Can",
+    "full_name": "Xã Phú Cần",
+    "full_name_en": "Phu Can Commune",
+    "type": "xã",
+    "district_code": "846",
+    "codename": "phu_can"
+  },
+  {
+    "code": "29350",
+    "name": "Hiếu Tử",
+    "name_en": "Hieu Tu",
+    "full_name": "Xã Hiếu Tử",
+    "full_name_en": "Hieu Tu Commune",
+    "type": "xã",
+    "district_code": "846",
+    "codename": "hieu_tu"
+  },
+  {
+    "code": "29353",
+    "name": "Hiếu Trung",
+    "name_en": "Hieu Trung",
+    "full_name": "Xã Hiếu Trung",
+    "full_name_en": "Hieu Trung Commune",
+    "type": "xã",
+    "district_code": "846",
+    "codename": "hieu_trung"
+  },
+  {
+    "code": "29356",
+    "name": "Long Thới",
+    "name_en": "Long Thoi",
+    "full_name": "Xã Long Thới",
+    "full_name_en": "Long Thoi Commune",
+    "type": "xã",
+    "district_code": "846",
+    "codename": "long_thoi"
+  },
+  {
+    "code": "29359",
+    "name": "Hùng Hòa",
+    "name_en": "Hung Hoa",
+    "full_name": "Xã Hùng Hòa",
+    "full_name_en": "Hung Hoa Commune",
+    "type": "xã",
+    "district_code": "846",
+    "codename": "hung_hoa"
+  },
+  {
+    "code": "29362",
+    "name": "Tân Hùng",
+    "name_en": "Tan Hung",
+    "full_name": "Xã Tân Hùng",
+    "full_name_en": "Tan Hung Commune",
+    "type": "xã",
+    "district_code": "846",
+    "codename": "tan_hung"
+  },
+  {
+    "code": "29365",
+    "name": "Tập Ngãi",
+    "name_en": "Tap Ngai",
+    "full_name": "Xã Tập Ngãi",
+    "full_name_en": "Tap Ngai Commune",
+    "type": "xã",
+    "district_code": "846",
+    "codename": "tap_ngai"
+  },
+  {
+    "code": "29368",
+    "name": "Ngãi Hùng",
+    "name_en": "Ngai Hung",
+    "full_name": "Xã Ngãi Hùng",
+    "full_name_en": "Ngai Hung Commune",
+    "type": "xã",
+    "district_code": "846",
+    "codename": "ngai_hung"
+  },
+  {
+    "code": "29371",
+    "name": "Tân Hòa",
+    "name_en": "Tan Hoa",
+    "full_name": "Xã Tân Hòa",
+    "full_name_en": "Tan Hoa Commune",
+    "type": "xã",
+    "district_code": "846",
+    "codename": "tan_hoa"
+  }
+]

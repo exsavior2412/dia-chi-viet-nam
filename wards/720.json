@@ -1,0 +1,122 @@
+[
+  {
+    "code": "25777",
+    "name": "Dầu Tiếng",
+    "name_en": "Dau Tieng",
+    "full_name": "Thị trấn Dầu Tiếng",
+    "full_name_en": "Dau Tieng Township",
+    "type": "thị trấn",
+    "district_code": "720",
+    "codename": "dau_tieng"
+  },
+  {
+    "code": "25780",
+    "name": "Minh Hoà",
+    "name_en": "Minh Hoa",
+    "full_name": "Xã Minh Hoà",
+    "full_name_en": "Minh Hoa Commune",
+    "type": "xã",
+    "district_code": "720",
+    "codename": "minh_hoa"
+  },
+  {
+    "code": "25783",
+    "name": "Minh Thạnh",
+    "name_en": "Minh Thanh",
+    "full_name": "Xã Minh Thạnh",
+    "full_name_en": "Minh Thanh Commune",
+    "type": "xã",
+    "district_code": "720",
+    "codename": "minh_thanh"
+  },
+  {
+    "code": "25786",
+    "name": "Minh Tân",
+    "name_en": "Minh Tan",
+    "full_name": "Xã Minh Tân",
+    "full_name_en": "Minh Tan Commune",
+    "type": "xã",
+    "district_code": "720",
+    "codename": "minh_tan"
+  },
+  {
+    "code": "25789",
+    "name": "Định An",
+    "name_en": "Dinh An",
+    "full_name": "Xã Định An",
+    "full_name_en": "Dinh An Commune",
+    "type": "xã",
+    "district_code": "720",
+    "codename": "dinh_an"
+  },
+  {
+    "code": "25792",
+    "name": "Long Hoà",
+    "name_en": "Long Hoa",
+    "full_name": "Xã Long Hoà",
+    "full_name_en": "Long Hoa Commune",
+    "type": "xã",
+    "district_code": "720",
+    "codename": "long_hoa"
+  },
+  {
+    "code": "25795",
+    "name": "Định Thành",
+    "name_en": "Dinh Thanh",
+    "full_name": "Xã Định Thành",
+    "full_name_en": "Dinh Thanh Commune",
+    "type": "xã",
+    "district_code": "720",
+    "codename": "dinh_thanh"
+  },
+  {
+    "code": "25798",
+    "name": "Định Hiệp",
+    "name_en": "Dinh Hiep",
+    "full_name": "Xã Định Hiệp",
+    "full_name_en": "Dinh Hiep Commune",
+    "type": "xã",
+    "district_code": "720",
+    "codename": "dinh_hiep"
+  },
+  {
+    "code": "25801",
+    "name": "An Lập",
+    "name_en": "An Lap",
+    "full_name": "Xã An Lập",
+    "full_name_en": "An Lap Commune",
+    "type": "xã",
+    "district_code": "720",
+    "codename": "an_lap"
+  },
+  {
+    "code": "25804",
+    "name": "Long Tân",
+    "name_en": "Long Tan",
+    "full_name": "Xã Long Tân",
+    "full_name_en": "Long Tan Commune",
+    "type": "xã",
+    "district_code": "720",
+    "codename": "long_tan"
+  },
+  {
+    "code": "25807",
+    "name": "Thanh An",
+    "name_en": "Thanh An",
+    "full_name": "Xã Thanh An",
+    "full_name_en": "Thanh An Commune",
+    "type": "xã",
+    "district_code": "720",
+    "codename": "thanh_an"
+  },
+  {
+    "code": "25810",
+    "name": "Thanh Tuyền",
+    "name_en": "Thanh Tuyen",
+    "full_name": "Xã Thanh Tuyền",
+    "full_name_en": "Thanh Tuyen Commune",
+    "type": "xã",
+    "district_code": "720",
+    "codename": "thanh_tuyen"
+  }
+]

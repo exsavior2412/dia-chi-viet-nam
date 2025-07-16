@@ -1,0 +1,112 @@
+[
+  {
+    "code": "30952",
+    "name": "Gò Quao",
+    "name_en": "Go Quao",
+    "full_name": "Thị trấn Gò Quao",
+    "full_name_en": "Go Quao Township",
+    "type": "thị trấn",
+    "district_code": "907",
+    "codename": "go_quao"
+  },
+  {
+    "code": "30955",
+    "name": "Vĩnh Hòa Hưng Bắc",
+    "name_en": "Vinh Hoa Hung Bac",
+    "full_name": "Xã Vĩnh Hòa Hưng Bắc",
+    "full_name_en": "Vinh Hoa Hung Bac Commune",
+    "type": "xã",
+    "district_code": "907",
+    "codename": "vinh_hoa_hung_bac"
+  },
+  {
+    "code": "30958",
+    "name": "Định Hòa",
+    "name_en": "Dinh Hoa",
+    "full_name": "Xã Định Hòa",
+    "full_name_en": "Dinh Hoa Commune",
+    "type": "xã",
+    "district_code": "907",
+    "codename": "dinh_hoa"
+  },
+  {
+    "code": "30961",
+    "name": "Thới Quản",
+    "name_en": "Thoi Quan",
+    "full_name": "Xã Thới Quản",
+    "full_name_en": "Thoi Quan Commune",
+    "type": "xã",
+    "district_code": "907",
+    "codename": "thoi_quan"
+  },
+  {
+    "code": "30964",
+    "name": "Định An",
+    "name_en": "Dinh An",
+    "full_name": "Xã Định An",
+    "full_name_en": "Dinh An Commune",
+    "type": "xã",
+    "district_code": "907",
+    "codename": "dinh_an"
+  },
+  {
+    "code": "30967",
+    "name": "Thủy Liễu",
+    "name_en": "Thuy Lieu",
+    "full_name": "Xã Thủy Liễu",
+    "full_name_en": "Thuy Lieu Commune",
+    "type": "xã",
+    "district_code": "907",
+    "codename": "thuy_lieu"
+  },
+  {
+    "code": "30970",
+    "name": "Vĩnh Hòa Hưng Nam",
+    "name_en": "Vinh Hoa Hung Nam",
+    "full_name": "Xã Vĩnh Hòa Hưng Nam",
+    "full_name_en": "Vinh Hoa Hung Nam Commune",
+    "type": "xã",
+    "district_code": "907",
+    "codename": "vinh_hoa_hung_nam"
+  },
+  {
+    "code": "30973",
+    "name": "Vĩnh Phước A",
+    "name_en": "Vinh Phuoc A",
+    "full_name": "Xã Vĩnh Phước A",
+    "full_name_en": "Vinh Phuoc A Commune",
+    "type": "xã",
+    "district_code": "907",
+    "codename": "vinh_phuoc_a"
+  },
+  {
+    "code": "30976",
+    "name": "Vĩnh Phước B",
+    "name_en": "Vinh Phuoc B",
+    "full_name": "Xã Vĩnh Phước B",
+    "full_name_en": "Vinh Phuoc B Commune",
+    "type": "xã",
+    "district_code": "907",
+    "codename": "vinh_phuoc_b"
+  },
+  {
+    "code": "30979",
+    "name": "Vĩnh Tuy",
+    "name_en": "Vinh Tuy",
+    "full_name": "Xã Vĩnh Tuy",
+    "full_name_en": "Vinh Tuy Commune",
+    "type": "xã",
+    "district_code": "907",
+    "codename": "vinh_tuy"
+  },
+  {
+    "code": "30982",
+    "name": "Vĩnh Thắng",
+    "name_en": "Vinh Thang",
+    "full_name": "Xã Vĩnh Thắng",
+    "full_name_en": "Vinh Thang Commune",
+    "type": "xã",
+    "district_code": "907",
+    "codename": "vinh_thang"
+  }
+]

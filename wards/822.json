@@ -1,0 +1,192 @@
+[
+  {
+    "code": "28594",
+    "name": "Chợ Gạo",
+    "name_en": "Cho Gao",
+    "full_name": "Thị trấn Chợ Gạo",
+    "full_name_en": "Cho Gao Township",
+    "type": "thị trấn",
+    "district_code": "822",
+    "codename": "cho_gao"
+  },
+  {
+    "code": "28597",
+    "name": "Trung Hòa",
+    "name_en": "Trung Hoa",
+    "full_name": "Xã Trung Hòa",
+    "full_name_en": "Trung Hoa Commune",
+    "type": "xã",
+    "district_code": "822",
+    "codename": "trung_hoa"
+  },
+  {
+    "code": "28600",
+    "name": "Hòa Tịnh",
+    "name_en": "Hoa Tinh",
+    "full_name": "Xã Hòa Tịnh",
+    "full_name_en": "Hoa Tinh Commune",
+    "type": "xã",
+    "district_code": "822",
+    "codename": "hoa_tinh"
+  },
+  {
+    "code": "28603",
+    "name": "Mỹ Tịnh An",
+    "name_en": "My Tinh An",
+    "full_name": "Xã Mỹ Tịnh An",
+    "full_name_en": "My Tinh An Commune",
+    "type": "xã",
+    "district_code": "822",
+    "codename": "my_tinh_an"
+  },
+  {
+    "code": "28606",
+    "name": "Tân Bình Thạnh",
+    "name_en": "Tan Binh Thanh",
+    "full_name": "Xã Tân Bình Thạnh",
+    "full_name_en": "Tan Binh Thanh Commune",
+    "type": "xã",
+    "district_code": "822",
+    "codename": "tan_binh_thanh"
+  },
+  {
+    "code": "28609",
+    "name": "Phú Kiết",
+    "name_en": "Phu Kiet",
+    "full_name": "Xã Phú Kiết",
+    "full_name_en": "Phu Kiet Commune",
+    "type": "xã",
+    "district_code": "822",
+    "codename": "phu_kiet"
+  },
+  {
+    "code": "28612",
+    "name": "Lương Hòa Lạc",
+    "name_en": "Luong Hoa Lac",
+    "full_name": "Xã Lương Hòa Lạc",
+    "full_name_en": "Luong Hoa Lac Commune",
+    "type": "xã",
+    "district_code": "822",
+    "codename": "luong_hoa_lac"
+  },
+  {
+    "code": "28615",
+    "name": "Thanh Bình",
+    "name_en": "Thanh Binh",
+    "full_name": "Xã Thanh Bình",
+    "full_name_en": "Thanh Binh Commune",
+    "type": "xã",
+    "district_code": "822",
+    "codename": "thanh_binh"
+  },
+  {
+    "code": "28618",
+    "name": "Quơn Long",
+    "name_en": "Quon Long",
+    "full_name": "Xã Quơn Long",
+    "full_name_en": "Quon Long Commune",
+    "type": "xã",
+    "district_code": "822",
+    "codename": "quon_long"
+  },
+  {
+    "code": "28621",
+    "name": "Bình Phục Nhứt",
+    "name_en": "Binh Phuc Nhut",
+    "full_name": "Xã Bình Phục Nhứt",
+    "full_name_en": "Binh Phuc Nhut Commune",
+    "type": "xã",
+    "district_code": "822",
+    "codename": "binh_phuc_nhut"
+  },
+  {
+    "code": "28624",
+    "name": "Đăng Hưng Phước",
+    "name_en": "Dang Hung Phuoc",
+    "full_name": "Xã Đăng Hưng Phước",
+    "full_name_en": "Dang Hung Phuoc Commune",
+    "type": "xã",
+    "district_code": "822",
+    "codename": "dang_hung_phuoc"
+  },
+  {
+    "code": "28627",
+    "name": "Tân Thuận Bình",
+    "name_en": "Tan Thuan Binh",
+    "full_name": "Xã Tân Thuận Bình",
+    "full_name_en": "Tan Thuan Binh Commune",
+    "type": "xã",
+    "district_code": "822",
+    "codename": "tan_thuan_binh"
+  },
+  {
+    "code": "28630",
+    "name": "Song Bình",
+    "name_en": "Song Binh",
+    "full_name": "Xã Song Bình",
+    "full_name_en": "Song Binh Commune",
+    "type": "xã",
+    "district_code": "822",
+    "codename": "song_binh"
+  },
+  {
+    "code": "28633",
+    "name": "Bình Phan",
+    "name_en": "Binh Phan",
+    "full_name": "Xã Bình Phan",
+    "full_name_en": "Binh Phan Commune",
+    "type": "xã",
+    "district_code": "822",
+    "codename": "binh_phan"
+  },
+  {
+    "code": "28636",
+    "name": "Long Bình Điền",
+    "name_en": "Long Binh Dien",
+    "full_name": "Xã Long Bình Điền",
+    "full_name_en": "Long Binh Dien Commune",
+    "type": "xã",
+    "district_code": "822",
+    "codename": "long_binh_dien"
+  },
+  {
+    "code": "28639",
+    "name": "An Thạnh Thủy",
+    "name_en": "An Thanh Thuy",
+    "full_name": "Xã An Thạnh Thủy",
+    "full_name_en": "An Thanh Thuy Commune",
+    "type": "xã",
+    "district_code": "822",
+    "codename": "an_thanh_thuy"
+  },
+  {
+    "code": "28642",
+    "name": "Xuân Đông",
+    "name_en": "Xuan Dong",
+    "full_name": "Xã Xuân Đông",
+    "full_name_en": "Xuan Dong Commune",
+    "type": "xã",
+    "district_code": "822",
+    "codename": "xuan_dong"
+  },
+  {
+    "code": "28645",
+    "name": "Hòa Định",
+    "name_en": "Hoa Dinh",
+    "full_name": "Xã Hòa Định",
+    "full_name_en": "Hoa Dinh Commune",
+    "type": "xã",
+    "district_code": "822",
+    "codename": "hoa_dinh"
+  },
+  {
+    "code": "28648",
+    "name": "Bình Ninh",
+    "name_en": "Binh Ninh",
+    "full_name": "Xã Bình Ninh",
+    "full_name_en": "Binh Ninh Commune",
+    "type": "xã",
+    "district_code": "822",
+    "codename": "binh_ninh"
+  }
+]

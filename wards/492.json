@@ -1,0 +1,92 @@
+[
+  {
+    "code": "20227",
+    "name": "Thanh Bình",
+    "name_en": "Thanh Binh",
+    "full_name": "Phường Thanh Bình",
+    "full_name_en": "Thanh Binh Ward",
+    "type": "phường",
+    "district_code": "492",
+    "codename": "thanh_binh"
+  },
+  {
+    "code": "20230",
+    "name": "Thuận Phước",
+    "name_en": "Thuan Phuoc",
+    "full_name": "Phường Thuận Phước",
+    "full_name_en": "Thuan Phuoc Ward",
+    "type": "phường",
+    "district_code": "492",
+    "codename": "thuan_phuoc"
+  },
+  {
+    "code": "20233",
+    "name": "Thạch Thang",
+    "name_en": "Thach Thang",
+    "full_name": "Phường Thạch Thang",
+    "full_name_en": "Thach Thang Ward",
+    "type": "phường",
+    "district_code": "492",
+    "codename": "thach_thang"
+  },
+  {
+    "code": "20236",
+    "name": "Hải Châu",
+    "name_en": "Hai Chau",
+    "full_name": "Phường Hải Châu",
+    "full_name_en": "Hai Chau Ward",
+    "type": "phường",
+    "district_code": "492",
+    "codename": "hai_chau"
+  },
+  {
+    "code": "20242",
+    "name": "Phước Ninh",
+    "name_en": "Phuoc Ninh",
+    "full_name": "Phường Phước Ninh",
+    "full_name_en": "Phuoc Ninh Ward",
+    "type": "phường",
+    "district_code": "492",
+    "codename": "phuoc_ninh"
+  },
+  {
+    "code": "20245",
+    "name": "Hòa Thuận Tây",
+    "name_en": "Hoa Thuan Tay",
+    "full_name": "Phường Hòa Thuận Tây",
+    "full_name_en": "Hoa Thuan Tay Ward",
+    "type": "phường",
+    "district_code": "492",
+    "codename": "hoa_thuan_tay"
+  },
+  {
+    "code": "20254",
+    "name": "Bình Thuận",
+    "name_en": "Binh Thuan",
+    "full_name": "Phường Bình Thuận",
+    "full_name_en": "Binh Thuan Ward",
+    "type": "phường",
+    "district_code": "492",
+    "codename": "binh_thuan"
+  },
+  {
+    "code": "20257",
+    "name": "Hòa Cường Bắc",
+    "name_en": "Hoa Cuong Bac",
+    "full_name": "Phường Hòa Cường Bắc",
+    "full_name_en": "Hoa Cuong Bac Ward",
+    "type": "phường",
+    "district_code": "492",
+    "codename": "hoa_cuong_bac"
+  },
+  {
+    "code": "20258",
+    "name": "Hòa Cường Nam",
+    "name_en": "Hoa Cuong Nam",
+    "full_name": "Phường Hòa Cường Nam",
+    "full_name_en": "Hoa Cuong Nam Ward",
+    "type": "phường",
+    "district_code": "492",
+    "codename": "hoa_cuong_nam"
+  }
+]

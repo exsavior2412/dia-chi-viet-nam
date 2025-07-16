@@ -1,0 +1,152 @@
+[
+  {
+    "code": "06253",
+    "name": "Văn Quan",
+    "name_en": "Van Quan",
+    "full_name": "Thị trấn Văn Quan",
+    "full_name_en": "Van Quan Township",
+    "type": "thị trấn",
+    "district_code": "184",
+    "codename": "van_quan"
+  },
+  {
+    "code": "06256",
+    "name": "Trấn Ninh",
+    "name_en": "Tran Ninh",
+    "full_name": "Xã Trấn Ninh",
+    "full_name_en": "Tran Ninh Commune",
+    "type": "xã",
+    "district_code": "184",
+    "codename": "tran_ninh"
+  },
+  {
+    "code": "06268",
+    "name": "Liên Hội",
+    "name_en": "Lien Hoi",
+    "full_name": "Xã Liên Hội",
+    "full_name_en": "Lien Hoi Commune",
+    "type": "xã",
+    "district_code": "184",
+    "codename": "lien_hoi"
+  },
+  {
+    "code": "06274",
+    "name": "Hòa Bình",
+    "name_en": "Hoa Binh",
+    "full_name": "Xã Hòa Bình",
+    "full_name_en": "Hoa Binh Commune",
+    "type": "xã",
+    "district_code": "184",
+    "codename": "hoa_binh"
+  },
+  {
+    "code": "06277",
+    "name": "Tú Xuyên",
+    "name_en": "Tu Xuyen",
+    "full_name": "Xã Tú Xuyên",
+    "full_name_en": "Tu Xuyen Commune",
+    "type": "xã",
+    "district_code": "184",
+    "codename": "tu_xuyen"
+  },
+  {
+    "code": "06280",
+    "name": "Điềm He",
+    "name_en": "Diem He",
+    "full_name": "Xã Điềm He",
+    "full_name_en": "Diem He Commune",
+    "type": "xã",
+    "district_code": "184",
+    "codename": "diem_he"
+  },
+  {
+    "code": "06283",
+    "name": "An Sơn",
+    "name_en": "An Son",
+    "full_name": "Xã An Sơn",
+    "full_name_en": "An Son Commune",
+    "type": "xã",
+    "district_code": "184",
+    "codename": "an_son"
+  },
+  {
+    "code": "06286",
+    "name": "Khánh Khê",
+    "name_en": "Khanh Khe",
+    "full_name": "Xã Khánh Khê",
+    "full_name_en": "Khanh Khe Commune",
+    "type": "xã",
+    "district_code": "184",
+    "codename": "khanh_khe"
+  },
+  {
+    "code": "06292",
+    "name": "Lương Năng",
+    "name_en": "Luong Nang",
+    "full_name": "Xã Lương Năng",
+    "full_name_en": "Luong Nang Commune",
+    "type": "xã",
+    "district_code": "184",
+    "codename": "luong_nang"
+  },
+  {
+    "code": "06298",
+    "name": "Bình Phúc",
+    "name_en": "Binh Phuc",
+    "full_name": "Xã Bình Phúc",
+    "full_name_en": "Binh Phuc Commune",
+    "type": "xã",
+    "district_code": "184",
+    "codename": "binh_phuc"
+  },
+  {
+    "code": "06307",
+    "name": "Tân Đoàn",
+    "name_en": "Tan Doan",
+    "full_name": "Xã Tân Đoàn",
+    "full_name_en": "Tan Doan Commune",
+    "type": "xã",
+    "district_code": "184",
+    "codename": "tan_doan"
+  },
+  {
+    "code": "06313",
+    "name": "Tri Lễ",
+    "name_en": "Tri Le",
+    "full_name": "Xã Tri Lễ",
+    "full_name_en": "Tri Le Commune",
+    "type": "xã",
+    "district_code": "184",
+    "codename": "tri_le"
+  },
+  {
+    "code": "06316",
+    "name": "Tràng Phái",
+    "name_en": "Trang Phai",
+    "full_name": "Xã Tràng Phái",
+    "full_name_en": "Trang Phai Commune",
+    "type": "xã",
+    "district_code": "184",
+    "codename": "trang_phai"
+  },
+  {
+    "code": "06319",
+    "name": "Yên Phúc",
+    "name_en": "Yen Phuc",
+    "full_name": "Xã Yên Phúc",
+    "full_name_en": "Yen Phuc Commune",
+    "type": "xã",
+    "district_code": "184",
+    "codename": "yen_phuc"
+  },
+  {
+    "code": "06322",
+    "name": "Hữu Lễ",
+    "name_en": "Huu Le",
+    "full_name": "Xã Hữu Lễ",
+    "full_name_en": "Huu Le Commune",
+    "type": "xã",
+    "district_code": "184",
+    "codename": "huu_le"
+  }
+]

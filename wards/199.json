@@ -1,0 +1,112 @@
+[
+  {
+    "code": "06862",
+    "name": "Tiên Yên",
+    "name_en": "Tien Yen",
+    "full_name": "Thị trấn Tiên Yên",
+    "full_name_en": "Tien Yen Township",
+    "type": "thị trấn",
+    "district_code": "199",
+    "codename": "tien_yen"
+  },
+  {
+    "code": "06865",
+    "name": "Hà Lâu",
+    "name_en": "Ha Lau",
+    "full_name": "Xã Hà Lâu",
+    "full_name_en": "Ha Lau Commune",
+    "type": "xã",
+    "district_code": "199",
+    "codename": "ha_lau"
+  },
+  {
+    "code": "06868",
+    "name": "Đại Dực",
+    "name_en": "Dai Duc",
+    "full_name": "Xã Đại Dực",
+    "full_name_en": "Dai Duc Commune",
+    "type": "xã",
+    "district_code": "199",
+    "codename": "dai_duc"
+  },
+  {
+    "code": "06871",
+    "name": "Phong Dụ",
+    "name_en": "Phong Du",
+    "full_name": "Xã Phong Dụ",
+    "full_name_en": "Phong Du Commune",
+    "type": "xã",
+    "district_code": "199",
+    "codename": "phong_du"
+  },
+  {
+    "code": "06874",
+    "name": "Điền Xá",
+    "name_en": "Dien Xa",
+    "full_name": "Xã Điền Xá",
+    "full_name_en": "Dien Xa Commune",
+    "type": "xã",
+    "district_code": "199",
+    "codename": "dien_xa"
+  },
+  {
+    "code": "06877",
+    "name": "Đông Ngũ",
+    "name_en": "Dong Ngu",
+    "full_name": "Xã Đông Ngũ",
+    "full_name_en": "Dong Ngu Commune",
+    "type": "xã",
+    "district_code": "199",
+    "codename": "dong_ngu"
+  },
+  {
+    "code": "06880",
+    "name": "Yên Than",
+    "name_en": "Yen Than",
+    "full_name": "Xã Yên Than",
+    "full_name_en": "Yen Than Commune",
+    "type": "xã",
+    "district_code": "199",
+    "codename": "yen_than"
+  },
+  {
+    "code": "06883",
+    "name": "Đông Hải",
+    "name_en": "Dong Hai",
+    "full_name": "Xã Đông Hải",
+    "full_name_en": "Dong Hai Commune",
+    "type": "xã",
+    "district_code": "199",
+    "codename": "dong_hai"
+  },
+  {
+    "code": "06886",
+    "name": "Hải Lạng",
+    "name_en": "Hai Lang",
+    "full_name": "Xã Hải Lạng",
+    "full_name_en": "Hai Lang Commune",
+    "type": "xã",
+    "district_code": "199",
+    "codename": "hai_lang"
+  },
+  {
+    "code": "06889",
+    "name": "Tiên Lãng",
+    "name_en": "Tien Lang",
+    "full_name": "Xã Tiên Lãng",
+    "full_name_en": "Tien Lang Commune",
+    "type": "xã",
+    "district_code": "199",
+    "codename": "tien_lang"
+  },
+  {
+    "code": "06892",
+    "name": "Đồng Rui",
+    "name_en": "Dong Rui",
+    "full_name": "Xã Đồng Rui",
+    "full_name_en": "Dong Rui Commune",
+    "type": "xã",
+    "district_code": "199",
+    "codename": "dong_rui"
+  }
+]

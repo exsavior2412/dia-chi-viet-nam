@@ -1,0 +1,102 @@
+[
+  {
+    "code": "11296",
+    "name": "Quán Toan",
+    "name_en": "Quan Toan",
+    "full_name": "Phường Quán Toan",
+    "full_name_en": "Quan Toan Ward",
+    "type": "phường",
+    "district_code": "303",
+    "codename": "quan_toan"
+  },
+  {
+    "code": "11299",
+    "name": "Hùng Vương",
+    "name_en": "Hung Vuong",
+    "full_name": "Phường Hùng Vương",
+    "full_name_en": "Hung Vuong Ward",
+    "type": "phường",
+    "district_code": "303",
+    "codename": "hung_vuong"
+  },
+  {
+    "code": "11302",
+    "name": "Sở Dầu",
+    "name_en": "So Dau",
+    "full_name": "Phường Sở Dầu",
+    "full_name_en": "So Dau Ward",
+    "type": "phường",
+    "district_code": "303",
+    "codename": "so_dau"
+  },
+  {
+    "code": "11305",
+    "name": "Thượng Lý",
+    "name_en": "Thuong Ly",
+    "full_name": "Phường Thượng Lý",
+    "full_name_en": "Thuong Ly Ward",
+    "type": "phường",
+    "district_code": "303",
+    "codename": "thuong_ly"
+  },
+  {
+    "code": "11311",
+    "name": "Minh Khai",
+    "name_en": "Minh Khai",
+    "full_name": "Phường Minh Khai",
+    "full_name_en": "Minh Khai Ward",
+    "type": "phường",
+    "district_code": "303",
+    "codename": "minh_khai"
+  },
+  {
+    "code": "11320",
+    "name": "Hoàng Văn Thụ",
+    "name_en": "Hoang Van Thu",
+    "full_name": "Phường Hoàng Văn Thụ",
+    "full_name_en": "Hoang Van Thu Ward",
+    "type": "phường",
+    "district_code": "303",
+    "codename": "hoang_van_thu"
+  },
+  {
+    "code": "11323",
+    "name": "Phan Bội Châu",
+    "name_en": "Phan Boi Chau",
+    "full_name": "Phường Phan Bội Châu",
+    "full_name_en": "Phan Boi Chau Ward",
+    "type": "phường",
+    "district_code": "303",
+    "codename": "phan_boi_chau"
+  },
+  {
+    "code": "11587",
+    "name": "Đại Bản",
+    "name_en": "Dai Ban",
+    "full_name": "Phường Đại Bản",
+    "full_name_en": "Dai Ban Ward",
+    "type": "phường",
+    "district_code": "303",
+    "codename": "dai_ban"
+  },
+  {
+    "code": "11599",
+    "name": "An Hưng",
+    "name_en": "An Hung",
+    "full_name": "Phường An Hưng",
+    "full_name_en": "An Hung Ward",
+    "type": "phường",
+    "district_code": "303",
+    "codename": "an_hung"
+  },
+  {
+    "code": "11602",
+    "name": "An Hồng",
+    "name_en": "An Hong",
+    "full_name": "Phường An Hồng",
+    "full_name_en": "An Hong Ward",
+    "type": "phường",
+    "district_code": "303",
+    "codename": "an_hong"
+  }
+]

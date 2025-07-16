@@ -1,0 +1,92 @@
+[
+  {
+    "code": "22870",
+    "name": "Phước Dân",
+    "name_en": "Phuoc Dan",
+    "full_name": "Thị trấn Phước Dân",
+    "full_name_en": "Phuoc Dan Township",
+    "type": "thị trấn",
+    "district_code": "587",
+    "codename": "phuoc_dan"
+  },
+  {
+    "code": "22873",
+    "name": "Phước Sơn",
+    "name_en": "Phuoc Son",
+    "full_name": "Xã Phước Sơn",
+    "full_name_en": "Phuoc Son Commune",
+    "type": "xã",
+    "district_code": "587",
+    "codename": "phuoc_son"
+  },
+  {
+    "code": "22876",
+    "name": "Phước Thái",
+    "name_en": "Phuoc Thai",
+    "full_name": "Xã Phước Thái",
+    "full_name_en": "Phuoc Thai Commune",
+    "type": "xã",
+    "district_code": "587",
+    "codename": "phuoc_thai"
+  },
+  {
+    "code": "22879",
+    "name": "Phước Hậu",
+    "name_en": "Phuoc Hau",
+    "full_name": "Xã Phước Hậu",
+    "full_name_en": "Phuoc Hau Commune",
+    "type": "xã",
+    "district_code": "587",
+    "codename": "phuoc_hau"
+  },
+  {
+    "code": "22882",
+    "name": "Phước Thuận",
+    "name_en": "Phuoc Thuan",
+    "full_name": "Xã Phước Thuận",
+    "full_name_en": "Phuoc Thuan Commune",
+    "type": "xã",
+    "district_code": "587",
+    "codename": "phuoc_thuan"
+  },
+  {
+    "code": "22888",
+    "name": "An Hải",
+    "name_en": "An Hai",
+    "full_name": "Xã An Hải",
+    "full_name_en": "An Hai Commune",
+    "type": "xã",
+    "district_code": "587",
+    "codename": "an_hai"
+  },
+  {
+    "code": "22891",
+    "name": "Phước Hữu",
+    "name_en": "Phuoc Huu",
+    "full_name": "Xã Phước Hữu",
+    "full_name_en": "Phuoc Huu Commune",
+    "type": "xã",
+    "district_code": "587",
+    "codename": "phuoc_huu"
+  },
+  {
+    "code": "22894",
+    "name": "Phước Hải",
+    "name_en": "Phuoc Hai",
+    "full_name": "Xã Phước Hải",
+    "full_name_en": "Phuoc Hai Commune",
+    "type": "xã",
+    "district_code": "587",
+    "codename": "phuoc_hai"
+  },
+  {
+    "code": "22912",
+    "name": "Phước Vinh",
+    "name_en": "Phuoc Vinh",
+    "full_name": "Xã Phước Vinh",
+    "full_name_en": "Phuoc Vinh Commune",
+    "type": "xã",
+    "district_code": "587",
+    "codename": "phuoc_vinh"
+  }
+]

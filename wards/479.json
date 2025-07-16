@@ -1,0 +1,102 @@
+[
+  {
+    "code": "19960",
+    "name": "Phú Bài",
+    "name_en": "Phu Bai",
+    "full_name": "Phường Phú Bài",
+    "full_name_en": "Phu Bai Ward",
+    "type": "phường",
+    "district_code": "479",
+    "codename": "phu_bai"
+  },
+  {
+    "code": "19966",
+    "name": "Thủy Thanh",
+    "name_en": "Thuy Thanh",
+    "full_name": "Xã Thủy Thanh",
+    "full_name_en": "Thuy Thanh Commune",
+    "type": "xã",
+    "district_code": "479",
+    "codename": "thuy_thanh"
+  },
+  {
+    "code": "19969",
+    "name": "Thủy Dương",
+    "name_en": "Thuy Duong",
+    "full_name": "Phường Thủy Dương",
+    "full_name_en": "Thuy Duong Ward",
+    "type": "phường",
+    "district_code": "479",
+    "codename": "thuy_duong"
+  },
+  {
+    "code": "19972",
+    "name": "Thủy Phương",
+    "name_en": "Thuy Phuong",
+    "full_name": "Phường Thủy Phương",
+    "full_name_en": "Thuy Phuong Ward",
+    "type": "phường",
+    "district_code": "479",
+    "codename": "thuy_phuong"
+  },
+  {
+    "code": "19975",
+    "name": "Thủy Châu",
+    "name_en": "Thuy Chau",
+    "full_name": "Phường Thủy Châu",
+    "full_name_en": "Thuy Chau Ward",
+    "type": "phường",
+    "district_code": "479",
+    "codename": "thuy_chau"
+  },
+  {
+    "code": "19978",
+    "name": "Thủy Lương",
+    "name_en": "Thuy Luong",
+    "full_name": "Phường Thủy Lương",
+    "full_name_en": "Thuy Luong Ward",
+    "type": "phường",
+    "district_code": "479",
+    "codename": "thuy_luong"
+  },
+  {
+    "code": "19984",
+    "name": "Thủy Tân",
+    "name_en": "Thuy Tan",
+    "full_name": "Xã Thủy Tân",
+    "full_name_en": "Thuy Tan Commune",
+    "type": "xã",
+    "district_code": "479",
+    "codename": "thuy_tan"
+  },
+  {
+    "code": "19987",
+    "name": "Thủy Phù",
+    "name_en": "Thuy Phu",
+    "full_name": "Xã Thủy Phù",
+    "full_name_en": "Thuy Phu Commune",
+    "type": "xã",
+    "district_code": "479",
+    "codename": "thuy_phu"
+  },
+  {
+    "code": "19990",
+    "name": "Phú Sơn",
+    "name_en": "Phu Son",
+    "full_name": "Xã Phú Sơn",
+    "full_name_en": "Phu Son Commune",
+    "type": "xã",
+    "district_code": "479",
+    "codename": "phu_son"
+  },
+  {
+    "code": "19993",
+    "name": "Dương Hòa",
+    "name_en": "Duong Hoa",
+    "full_name": "Xã Dương Hòa",
+    "full_name_en": "Duong Hoa Commune",
+    "type": "xã",
+    "district_code": "479",
+    "codename": "duong_hoa"
+  }
+]

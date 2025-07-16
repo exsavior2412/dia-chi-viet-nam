@@ -1,0 +1,232 @@
+[
+  {
+    "code": "25096",
+    "name": "Đạ M'ri",
+    "name_en": "Da M'ri",
+    "full_name": "Thị trấn Đạ M'ri",
+    "full_name_en": "Da M'ri Township",
+    "type": "thị trấn",
+    "district_code": "682",
+    "codename": "da_mri"
+  },
+  {
+    "code": "25099",
+    "name": "Ma Đa Guôi",
+    "name_en": "Ma Da Guoi",
+    "full_name": "Thị trấn Ma Đa Guôi",
+    "full_name_en": "Ma Da Guoi Township",
+    "type": "thị trấn",
+    "district_code": "682",
+    "codename": "ma_da_guoi"
+  },
+  {
+    "code": "25105",
+    "name": "Hà Lâm",
+    "name_en": "Ha Lam",
+    "full_name": "Xã Hà Lâm",
+    "full_name_en": "Ha Lam Commune",
+    "type": "xã",
+    "district_code": "682",
+    "codename": "ha_lam"
+  },
+  {
+    "code": "25111",
+    "name": "Đạ Oai",
+    "name_en": "Da Oai",
+    "full_name": "Xã Đạ Oai",
+    "full_name_en": "Da Oai Commune",
+    "type": "xã",
+    "district_code": "682",
+    "codename": "da_oai"
+  },
+  {
+    "code": "25114",
+    "name": "Bà Gia",
+    "name_en": "Ba Gia",
+    "full_name": "Xã Bà Gia",
+    "full_name_en": "Ba Gia Commune",
+    "type": "xã",
+    "district_code": "682",
+    "codename": "ba_gia"
+  },
+  {
+    "code": "25117",
+    "name": "Ma Đa Guôi",
+    "name_en": "Ma Da Guoi",
+    "full_name": "Xã Ma Đa Guôi",
+    "full_name_en": "Ma Da Guoi Commune",
+    "type": "xã",
+    "district_code": "682",
+    "codename": "ma_da_guoi"
+  },
+  {
+    "code": "25126",
+    "name": "Đạ Tẻh",
+    "name_en": "Da Teh",
+    "full_name": "Thị trấn Đạ Tẻh",
+    "full_name_en": "Da Teh Township",
+    "type": "thị trấn",
+    "district_code": "682",
+    "codename": "da_teh"
+  },
+  {
+    "code": "25129",
+    "name": "An Nhơn",
+    "name_en": "An Nhon",
+    "full_name": "Xã An Nhơn",
+    "full_name_en": "An Nhon Commune",
+    "type": "xã",
+    "district_code": "682",
+    "codename": "an_nhon"
+  },
+  {
+    "code": "25132",
+    "name": "Quốc Oai",
+    "name_en": "Quoc Oai",
+    "full_name": "Xã Quốc Oai",
+    "full_name_en": "Quoc Oai Commune",
+    "type": "xã",
+    "district_code": "682",
+    "codename": "quoc_oai"
+  },
+  {
+    "code": "25135",
+    "name": "Mỹ Đức",
+    "name_en": "My Duc",
+    "full_name": "Xã Mỹ Đức",
+    "full_name_en": "My Duc Commune",
+    "type": "xã",
+    "district_code": "682",
+    "codename": "my_duc"
+  },
+  {
+    "code": "25138",
+    "name": "Quảng Trị",
+    "name_en": "Quang Tri",
+    "full_name": "Xã Quảng Trị",
+    "full_name_en": "Quang Tri Commune",
+    "type": "xã",
+    "district_code": "682",
+    "codename": "quang_tri"
+  },
+  {
+    "code": "25141",
+    "name": "Đạ Lây",
+    "name_en": "Da Lay",
+    "full_name": "Xã Đạ Lây",
+    "full_name_en": "Da Lay Commune",
+    "type": "xã",
+    "district_code": "682",
+    "codename": "da_lay"
+  },
+  {
+    "code": "25153",
+    "name": "Đạ Kho",
+    "name_en": "Da Kho",
+    "full_name": "Xã Đạ Kho",
+    "full_name_en": "Da Kho Commune",
+    "type": "xã",
+    "district_code": "682",
+    "codename": "da_kho"
+  },
+  {
+    "code": "25156",
+    "name": "Đạ Pal",
+    "name_en": "Da Pal",
+    "full_name": "Xã Đạ Pal",
+    "full_name_en": "Da Pal Commune",
+    "type": "xã",
+    "district_code": "682",
+    "codename": "da_pal"
+  },
+  {
+    "code": "25159",
+    "name": "Cát Tiên",
+    "name_en": "Cat Tien",
+    "full_name": "Thị trấn Cát Tiên",
+    "full_name_en": "Cat Tien Township",
+    "type": "thị trấn",
+    "district_code": "682",
+    "codename": "cat_tien"
+  },
+  {
+    "code": "25162",
+    "name": "Tiên Hoàng",
+    "name_en": "Tien Hoang",
+    "full_name": "Xã Tiên Hoàng",
+    "full_name_en": "Tien Hoang Commune",
+    "type": "xã",
+    "district_code": "682",
+    "codename": "tien_hoang"
+  },
+  {
+    "code": "25165",
+    "name": "Phước Cát 2",
+    "name_en": "Phuoc Cat 2",
+    "full_name": "Xã Phước Cát 2",
+    "full_name_en": "Commune Phuoc Cat 2",
+    "type": "xã",
+    "district_code": "682",
+    "codename": "phuoc_cat_2"
+  },
+  {
+    "code": "25168",
+    "name": "Gia Viễn",
+    "name_en": "Gia Vien",
+    "full_name": "Xã Gia Viễn",
+    "full_name_en": "Gia Vien Commune",
+    "type": "xã",
+    "district_code": "682",
+    "codename": "gia_vien"
+  },
+  {
+    "code": "25171",
+    "name": "Nam Ninh",
+    "name_en": "Nam Ninh",
+    "full_name": "Xã Nam Ninh",
+    "full_name_en": "Nam Ninh Commune",
+    "type": "xã",
+    "district_code": "682",
+    "codename": "nam_ninh"
+  },
+  {
+    "code": "25180",
+    "name": "Phước Cát",
+    "name_en": "Phuoc Cat",
+    "full_name": "Thị trấn Phước Cát",
+    "full_name_en": "Phuoc Cat Township",
+    "type": "thị trấn",
+    "district_code": "682",
+    "codename": "phuoc_cat"
+  },
+  {
+    "code": "25183",
+    "name": "Đức Phổ",
+    "name_en": "Duc Pho",
+    "full_name": "Xã Đức Phổ",
+    "full_name_en": "Duc Pho Commune",
+    "type": "xã",
+    "district_code": "682",
+    "codename": "duc_pho"
+  },
+  {
+    "code": "25189",
+    "name": "Quảng Ngãi",
+    "name_en": "Quang Ngai",
+    "full_name": "Xã Quảng Ngãi",
+    "full_name_en": "Quang Ngai Commune",
+    "type": "xã",
+    "district_code": "682",
+    "codename": "quang_ngai"
+  },
+  {
+    "code": "25192",
+    "name": "Đồng Nai Thượng",
+    "name_en": "Dong Nai Thuong",
+    "full_name": "Xã Đồng Nai Thượng",
+    "full_name_en": "Dong Nai Thuong Commune",
+    "type": "xã",
+    "district_code": "682",
+    "codename": "dong_nai_thuong"
+  }
+]

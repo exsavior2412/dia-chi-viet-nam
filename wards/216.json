@@ -1,0 +1,192 @@
+[
+  {
+    "code": "07306",
+    "name": "Nhã Nam",
+    "name_en": "Nha Nam",
+    "full_name": "Thị trấn Nhã Nam",
+    "full_name_en": "Nha Nam Township",
+    "type": "thị trấn",
+    "district_code": "216",
+    "codename": "nha_nam"
+  },
+  {
+    "code": "07309",
+    "name": "Tân Trung",
+    "name_en": "Tan Trung",
+    "full_name": "Xã Tân Trung",
+    "full_name_en": "Tan Trung Commune",
+    "type": "xã",
+    "district_code": "216",
+    "codename": "tan_trung"
+  },
+  {
+    "code": "07315",
+    "name": "Quang Trung",
+    "name_en": "Quang Trung",
+    "full_name": "Xã Quang Trung",
+    "full_name_en": "Quang Trung Commune",
+    "type": "xã",
+    "district_code": "216",
+    "codename": "quang_trung"
+  },
+  {
+    "code": "07321",
+    "name": "An Dương",
+    "name_en": "An Duong",
+    "full_name": "Xã An Dương",
+    "full_name_en": "An Duong Commune",
+    "type": "xã",
+    "district_code": "216",
+    "codename": "an_duong"
+  },
+  {
+    "code": "07324",
+    "name": "Phúc Hòa",
+    "name_en": "Phuc Hoa",
+    "full_name": "Xã Phúc Hòa",
+    "full_name_en": "Phuc Hoa Commune",
+    "type": "xã",
+    "district_code": "216",
+    "codename": "phuc_hoa"
+  },
+  {
+    "code": "07327",
+    "name": "Liên Sơn",
+    "name_en": "Lien Son",
+    "full_name": "Xã Liên Sơn",
+    "full_name_en": "Lien Son Commune",
+    "type": "xã",
+    "district_code": "216",
+    "codename": "lien_son"
+  },
+  {
+    "code": "07330",
+    "name": "Hợp Đức",
+    "name_en": "Hop Duc",
+    "full_name": "Xã Hợp Đức",
+    "full_name_en": "Hop Duc Commune",
+    "type": "xã",
+    "district_code": "216",
+    "codename": "hop_duc"
+  },
+  {
+    "code": "07333",
+    "name": "Lam Sơn",
+    "name_en": "Lam Son",
+    "full_name": "Xã Lam Sơn",
+    "full_name_en": "Lam Son Commune",
+    "type": "xã",
+    "district_code": "216",
+    "codename": "lam_son"
+  },
+  {
+    "code": "07336",
+    "name": "Cao Xá",
+    "name_en": "Cao Xa",
+    "full_name": "Xã Cao Xá",
+    "full_name_en": "Cao Xa Commune",
+    "type": "xã",
+    "district_code": "216",
+    "codename": "cao_xa"
+  },
+  {
+    "code": "07339",
+    "name": "Cao Thượng",
+    "name_en": "Cao Thuong",
+    "full_name": "Thị trấn Cao Thượng",
+    "full_name_en": "Cao Thuong Township",
+    "type": "thị trấn",
+    "district_code": "216",
+    "codename": "cao_thuong"
+  },
+  {
+    "code": "07342",
+    "name": "Việt Ngọc",
+    "name_en": "Viet Ngoc",
+    "full_name": "Xã Việt Ngọc",
+    "full_name_en": "Viet Ngoc Commune",
+    "type": "xã",
+    "district_code": "216",
+    "codename": "viet_ngoc"
+  },
+  {
+    "code": "07345",
+    "name": "Song Vân",
+    "name_en": "Song Van",
+    "full_name": "Xã Song Vân",
+    "full_name_en": "Song Van Commune",
+    "type": "xã",
+    "district_code": "216",
+    "codename": "song_van"
+  },
+  {
+    "code": "07348",
+    "name": "Ngọc Châu",
+    "name_en": "Ngoc Chau",
+    "full_name": "Xã Ngọc Châu",
+    "full_name_en": "Ngoc Chau Commune",
+    "type": "xã",
+    "district_code": "216",
+    "codename": "ngoc_chau"
+  },
+  {
+    "code": "07351",
+    "name": "Ngọc Vân",
+    "name_en": "Ngoc Van",
+    "full_name": "Xã Ngọc Vân",
+    "full_name_en": "Ngoc Van Commune",
+    "type": "xã",
+    "district_code": "216",
+    "codename": "ngoc_van"
+  },
+  {
+    "code": "07354",
+    "name": "Việt Lập",
+    "name_en": "Viet Lap",
+    "full_name": "Xã Việt Lập",
+    "full_name_en": "Viet Lap Commune",
+    "type": "xã",
+    "district_code": "216",
+    "codename": "viet_lap"
+  },
+  {
+    "code": "07357",
+    "name": "Liên Chung",
+    "name_en": "Lien Chung",
+    "full_name": "Xã Liên Chung",
+    "full_name_en": "Lien Chung Commune",
+    "type": "xã",
+    "district_code": "216",
+    "codename": "lien_chung"
+  },
+  {
+    "code": "07360",
+    "name": "Ngọc Thiện",
+    "name_en": "Ngoc Thien",
+    "full_name": "Xã Ngọc Thiện",
+    "full_name_en": "Ngoc Thien Commune",
+    "type": "xã",
+    "district_code": "216",
+    "codename": "ngoc_thien"
+  },
+  {
+    "code": "07363",
+    "name": "Ngọc Lý",
+    "name_en": "Ngoc Ly",
+    "full_name": "Xã Ngọc Lý",
+    "full_name_en": "Ngoc Ly Commune",
+    "type": "xã",
+    "district_code": "216",
+    "codename": "ngoc_ly"
+  },
+  {
+    "code": "07366",
+    "name": "Quế Nham",
+    "name_en": "Que Nham",
+    "full_name": "Xã Quế Nham",
+    "full_name_en": "Que Nham Commune",
+    "type": "xã",
+    "district_code": "216",
+    "codename": "que_nham"
+  }
+]

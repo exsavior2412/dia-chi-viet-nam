@@ -1,0 +1,262 @@
+[
+  {
+    "code": "16438",
+    "name": "Tân Phong",
+    "name_en": "Tan Phong",
+    "full_name": "Thị trấn Tân Phong",
+    "full_name_en": "Tan Phong Township",
+    "type": "thị trấn",
+    "district_code": "406",
+    "codename": "tan_phong"
+  },
+  {
+    "code": "16447",
+    "name": "Quảng Trạch",
+    "name_en": "Quang Trach",
+    "full_name": "Xã Quảng Trạch",
+    "full_name_en": "Quang Trach Commune",
+    "type": "xã",
+    "district_code": "406",
+    "codename": "quang_trach"
+  },
+  {
+    "code": "16453",
+    "name": "Quảng Đức",
+    "name_en": "Quang Duc",
+    "full_name": "Xã Quảng Đức",
+    "full_name_en": "Quang Duc Commune",
+    "type": "xã",
+    "district_code": "406",
+    "codename": "quang_duc"
+  },
+  {
+    "code": "16456",
+    "name": "Quảng Định",
+    "name_en": "Quang Dinh",
+    "full_name": "Xã Quảng Định",
+    "full_name_en": "Quang Dinh Commune",
+    "type": "xã",
+    "district_code": "406",
+    "codename": "quang_dinh"
+  },
+  {
+    "code": "16462",
+    "name": "Quảng Nhân",
+    "name_en": "Quang Nhan",
+    "full_name": "Xã Quảng Nhân",
+    "full_name_en": "Quang Nhan Commune",
+    "type": "xã",
+    "district_code": "406",
+    "codename": "quang_nhan"
+  },
+  {
+    "code": "16465",
+    "name": "Quảng Ninh",
+    "name_en": "Quang Ninh",
+    "full_name": "Xã Quảng Ninh",
+    "full_name_en": "Quang Ninh Commune",
+    "type": "xã",
+    "district_code": "406",
+    "codename": "quang_ninh"
+  },
+  {
+    "code": "16468",
+    "name": "Quảng Bình",
+    "name_en": "Quang Binh",
+    "full_name": "Xã Quảng Bình",
+    "full_name_en": "Quang Binh Commune",
+    "type": "xã",
+    "district_code": "406",
+    "codename": "quang_binh"
+  },
+  {
+    "code": "16471",
+    "name": "Quảng Hợp",
+    "name_en": "Quang Hop",
+    "full_name": "Xã Quảng Hợp",
+    "full_name_en": "Quang Hop Commune",
+    "type": "xã",
+    "district_code": "406",
+    "codename": "quang_hop"
+  },
+  {
+    "code": "16474",
+    "name": "Quảng Văn",
+    "name_en": "Quang Van",
+    "full_name": "Xã Quảng Văn",
+    "full_name_en": "Quang Van Commune",
+    "type": "xã",
+    "district_code": "406",
+    "codename": "quang_van"
+  },
+  {
+    "code": "16477",
+    "name": "Quảng Long",
+    "name_en": "Quang Long",
+    "full_name": "Xã Quảng Long",
+    "full_name_en": "Quang Long Commune",
+    "type": "xã",
+    "district_code": "406",
+    "codename": "quang_long"
+  },
+  {
+    "code": "16480",
+    "name": "Quảng Yên",
+    "name_en": "Quang Yen",
+    "full_name": "Xã Quảng Yên",
+    "full_name_en": "Quang Yen Commune",
+    "type": "xã",
+    "district_code": "406",
+    "codename": "quang_yen"
+  },
+  {
+    "code": "16483",
+    "name": "Quảng Hòa",
+    "name_en": "Quang Hoa",
+    "full_name": "Xã Quảng Hòa",
+    "full_name_en": "Quang Hoa Commune",
+    "type": "xã",
+    "district_code": "406",
+    "codename": "quang_hoa"
+  },
+  {
+    "code": "16489",
+    "name": "Quảng Khê",
+    "name_en": "Quang Khe",
+    "full_name": "Xã Quảng Khê",
+    "full_name_en": "Quang Khe Commune",
+    "type": "xã",
+    "district_code": "406",
+    "codename": "quang_khe"
+  },
+  {
+    "code": "16492",
+    "name": "Quảng Trung",
+    "name_en": "Quang Trung",
+    "full_name": "Xã Quảng Trung",
+    "full_name_en": "Quang Trung Commune",
+    "type": "xã",
+    "district_code": "406",
+    "codename": "quang_trung"
+  },
+  {
+    "code": "16495",
+    "name": "Quảng Chính",
+    "name_en": "Quang Chinh",
+    "full_name": "Xã Quảng Chính",
+    "full_name_en": "Quang Chinh Commune",
+    "type": "xã",
+    "district_code": "406",
+    "codename": "quang_chinh"
+  },
+  {
+    "code": "16498",
+    "name": "Quảng Ngọc",
+    "name_en": "Quang Ngoc",
+    "full_name": "Xã Quảng Ngọc",
+    "full_name_en": "Quang Ngoc Commune",
+    "type": "xã",
+    "district_code": "406",
+    "codename": "quang_ngoc"
+  },
+  {
+    "code": "16501",
+    "name": "Quảng Trường",
+    "name_en": "Quang Truong",
+    "full_name": "Xã Quảng Trường",
+    "full_name_en": "Quang Truong Commune",
+    "type": "xã",
+    "district_code": "406",
+    "codename": "quang_truong"
+  },
+  {
+    "code": "16510",
+    "name": "Quảng Phúc",
+    "name_en": "Quang Phuc",
+    "full_name": "Xã Quảng Phúc",
+    "full_name_en": "Quang Phuc Commune",
+    "type": "xã",
+    "district_code": "406",
+    "codename": "quang_phuc"
+  },
+  {
+    "code": "16519",
+    "name": "Quảng Giao",
+    "name_en": "Quang Giao",
+    "full_name": "Xã Quảng Giao",
+    "full_name_en": "Quang Giao Commune",
+    "type": "xã",
+    "district_code": "406",
+    "codename": "quang_giao"
+  },
+  {
+    "code": "16540",
+    "name": "Quảng Hải",
+    "name_en": "Quang Hai",
+    "full_name": "Xã Quảng Hải",
+    "full_name_en": "Quang Hai Commune",
+    "type": "xã",
+    "district_code": "406",
+    "codename": "quang_hai"
+  },
+  {
+    "code": "16543",
+    "name": "Quảng Lưu",
+    "name_en": "Quang Luu",
+    "full_name": "Xã Quảng Lưu",
+    "full_name_en": "Quang Luu Commune",
+    "type": "xã",
+    "district_code": "406",
+    "codename": "quang_luu"
+  },
+  {
+    "code": "16546",
+    "name": "Quảng Lộc",
+    "name_en": "Quang Loc",
+    "full_name": "Xã Quảng Lộc",
+    "full_name_en": "Quang Loc Commune",
+    "type": "xã",
+    "district_code": "406",
+    "codename": "quang_loc"
+  },
+  {
+    "code": "16549",
+    "name": "Tiên Trang",
+    "name_en": "Tien Trang",
+    "full_name": "Xã Tiên Trang",
+    "full_name_en": "Tien Trang Commune",
+    "type": "xã",
+    "district_code": "406",
+    "codename": "tien_trang"
+  },
+  {
+    "code": "16552",
+    "name": "Quảng Nham",
+    "name_en": "Quang Nham",
+    "full_name": "Xã Quảng Nham",
+    "full_name_en": "Quang Nham Commune",
+    "type": "xã",
+    "district_code": "406",
+    "codename": "quang_nham"
+  },
+  {
+    "code": "16555",
+    "name": "Quảng Thạch",
+    "name_en": "Quang Thach",
+    "full_name": "Xã Quảng Thạch",
+    "full_name_en": "Quang Thach Commune",
+    "type": "xã",
+    "district_code": "406",
+    "codename": "quang_thach"
+  },
+  {
+    "code": "16558",
+    "name": "Quảng Thái",
+    "name_en": "Quang Thai",
+    "full_name": "Xã Quảng Thái",
+    "full_name_en": "Quang Thai Commune",
+    "type": "xã",
+    "district_code": "406",
+    "codename": "quang_thai"
+  }
+]

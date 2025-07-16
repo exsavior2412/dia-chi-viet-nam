@@ -1,0 +1,102 @@
+[
+  {
+    "code": "01936",
+    "name": "Nà Phặc",
+    "name_en": "Na Phac",
+    "full_name": "Thị trấn Nà Phặc",
+    "full_name_en": "Na Phac Township",
+    "type": "thị trấn",
+    "district_code": "062",
+    "codename": "na_phac"
+  },
+  {
+    "code": "01939",
+    "name": "Thượng Ân",
+    "name_en": "Thuong An",
+    "full_name": "Xã Thượng Ân",
+    "full_name_en": "Thuong An Commune",
+    "type": "xã",
+    "district_code": "062",
+    "codename": "thuong_an"
+  },
+  {
+    "code": "01942",
+    "name": "Bằng Vân",
+    "name_en": "Bang Van",
+    "full_name": "Xã Bằng Vân",
+    "full_name_en": "Bang Van Commune",
+    "type": "xã",
+    "district_code": "062",
+    "codename": "bang_van"
+  },
+  {
+    "code": "01945",
+    "name": "Cốc Đán",
+    "name_en": "Coc Dan",
+    "full_name": "Xã Cốc Đán",
+    "full_name_en": "Coc Dan Commune",
+    "type": "xã",
+    "district_code": "062",
+    "codename": "coc_dan"
+  },
+  {
+    "code": "01948",
+    "name": "Trung Hoà",
+    "name_en": "Trung Hoa",
+    "full_name": "Xã Trung Hoà",
+    "full_name_en": "Trung Hoa Commune",
+    "type": "xã",
+    "district_code": "062",
+    "codename": "trung_hoa"
+  },
+  {
+    "code": "01951",
+    "name": "Đức Vân",
+    "name_en": "Duc Van",
+    "full_name": "Xã Đức Vân",
+    "full_name_en": "Duc Van Commune",
+    "type": "xã",
+    "district_code": "062",
+    "codename": "duc_van"
+  },
+  {
+    "code": "01954",
+    "name": "Vân Tùng",
+    "name_en": "Van Tung",
+    "full_name": "Thị trấn Vân Tùng",
+    "full_name_en": "Van Tung Township",
+    "type": "thị trấn",
+    "district_code": "062",
+    "codename": "van_tung"
+  },
+  {
+    "code": "01957",
+    "name": "Thượng Quan",
+    "name_en": "Thuong Quan",
+    "full_name": "Xã Thượng Quan",
+    "full_name_en": "Thuong Quan Commune",
+    "type": "xã",
+    "district_code": "062",
+    "codename": "thuong_quan"
+  },
+  {
+    "code": "01960",
+    "name": "Hiệp Lực",
+    "name_en": "Hiep Luc",
+    "full_name": "Xã Hiệp Lực",
+    "full_name_en": "Hiep Luc Commune",
+    "type": "xã",
+    "district_code": "062",
+    "codename": "hiep_luc"
+  },
+  {
+    "code": "01963",
+    "name": "Thuần Mang",
+    "name_en": "Thuan Mang",
+    "full_name": "Xã Thuần Mang",
+    "full_name_en": "Thuan Mang Commune",
+    "type": "xã",
+    "district_code": "062",
+    "codename": "thuan_mang"
+  }
+]

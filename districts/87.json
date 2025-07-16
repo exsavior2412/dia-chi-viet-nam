@@ -1,0 +1,122 @@
+[
+  {
+    "code": "866",
+    "name": "Cao Lãnh",
+    "name_en": "Cao Lanh",
+    "full_name": "Thành phố Cao Lãnh",
+    "full_name_en": "Cao Lanh City",
+    "type": "thành phố",
+    "province_code": "87",
+    "codename": "cao_lanh"
+  },
+  {
+    "code": "867",
+    "name": "Sa Đéc",
+    "name_en": "Sa Dec",
+    "full_name": "Thành phố Sa Đéc",
+    "full_name_en": "Sa Dec City",
+    "type": "thành phố",
+    "province_code": "87",
+    "codename": "sa_dec"
+  },
+  {
+    "code": "868",
+    "name": "Hồng Ngự",
+    "name_en": "Hong Ngu",
+    "full_name": "Thành phố Hồng Ngự",
+    "full_name_en": "Hong Ngu City",
+    "type": "thành phố",
+    "province_code": "87",
+    "codename": "hong_ngu"
+  },
+  {
+    "code": "869",
+    "name": "Tân Hồng",
+    "name_en": "Tan Hong",
+    "full_name": "Huyện Tân Hồng",
+    "full_name_en": "Tan Hong District",
+    "type": "huyện",
+    "province_code": "87",
+    "codename": "tan_hong"
+  },
+  {
+    "code": "870",
+    "name": "Hồng Ngự",
+    "name_en": "Hong Ngu",
+    "full_name": "Huyện Hồng Ngự",
+    "full_name_en": "Hong Ngu District",
+    "type": "huyện",
+    "province_code": "87",
+    "codename": "hong_ngu"
+  },
+  {
+    "code": "871",
+    "name": "Tam Nông",
+    "name_en": "Tam Nong",
+    "full_name": "Huyện Tam Nông",
+    "full_name_en": "Tam Nong District",
+    "type": "huyện",
+    "province_code": "87",
+    "codename": "tam_nong"
+  },
+  {
+    "code": "872",
+    "name": "Tháp Mười",
+    "name_en": "Thap Muoi",
+    "full_name": "Huyện Tháp Mười",
+    "full_name_en": "Thap Muoi District",
+    "type": "huyện",
+    "province_code": "87",
+    "codename": "thap_muoi"
+  },
+  {
+    "code": "873",
+    "name": "Cao Lãnh",
+    "name_en": "Cao Lanh",
+    "full_name": "Huyện Cao Lãnh",
+    "full_name_en": "Cao Lanh District",
+    "type": "huyện",
+    "province_code": "87",
+    "codename": "cao_lanh"
+  },
+  {
+    "code": "874",
+    "name": "Thanh Bình",
+    "name_en": "Thanh Binh",
+    "full_name": "Huyện Thanh Bình",
+    "full_name_en": "Thanh Binh District",
+    "type": "huyện",
+    "province_code": "87",
+    "codename": "thanh_binh"
+  },
+  {
+    "code": "875",
+    "name": "Lấp Vò",
+    "name_en": "Lap Vo",
+    "full_name": "Huyện Lấp Vò",
+    "full_name_en": "Lap Vo District",
+    "type": "huyện",
+    "province_code": "87",
+    "codename": "lap_vo"
+  },
+  {
+    "code": "876",
+    "name": "Lai Vung",
+    "name_en": "Lai Vung",
+    "full_name": "Huyện Lai Vung",
+    "full_name_en": "Lai Vung District",
+    "type": "huyện",
+    "province_code": "87",
+    "codename": "lai_vung"
+  },
+  {
+    "code": "877",
+    "name": "Châu Thành",
+    "name_en": "Chau Thanh",
+    "full_name": "Huyện Châu Thành",
+    "full_name_en": "Chau Thanh District",
+    "type": "huyện",
+    "province_code": "87",
+    "codename": "chau_thanh"
+  }
+]

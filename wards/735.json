@@ -1,0 +1,102 @@
+[
+  {
+    "code": "26170",
+    "name": "Vĩnh An",
+    "name_en": "Vinh An",
+    "full_name": "Thị trấn Vĩnh An",
+    "full_name_en": "Vinh An Township",
+    "type": "thị trấn",
+    "district_code": "735",
+    "codename": "vinh_an"
+  },
+  {
+    "code": "26173",
+    "name": "Phú Lý",
+    "name_en": "Phu Ly",
+    "full_name": "Xã Phú Lý",
+    "full_name_en": "Phu Ly Commune",
+    "type": "xã",
+    "district_code": "735",
+    "codename": "phu_ly"
+  },
+  {
+    "code": "26176",
+    "name": "Trị An",
+    "name_en": "Tri An",
+    "full_name": "Xã Trị An",
+    "full_name_en": "Tri An Commune",
+    "type": "xã",
+    "district_code": "735",
+    "codename": "tri_an"
+  },
+  {
+    "code": "26179",
+    "name": "Tân An",
+    "name_en": "Tan An",
+    "full_name": "Xã Tân An",
+    "full_name_en": "Tan An Commune",
+    "type": "xã",
+    "district_code": "735",
+    "codename": "tan_an"
+  },
+  {
+    "code": "26182",
+    "name": "Vĩnh Tân",
+    "name_en": "Vinh Tan",
+    "full_name": "Xã Vĩnh Tân",
+    "full_name_en": "Vinh Tan Commune",
+    "type": "xã",
+    "district_code": "735",
+    "codename": "vinh_tan"
+  },
+  {
+    "code": "26185",
+    "name": "Bình Lợi",
+    "name_en": "Binh Loi",
+    "full_name": "Xã Bình Lợi",
+    "full_name_en": "Binh Loi Commune",
+    "type": "xã",
+    "district_code": "735",
+    "codename": "binh_loi"
+  },
+  {
+    "code": "26188",
+    "name": "Thạnh Phú",
+    "name_en": "Thanh Phu",
+    "full_name": "Xã Thạnh Phú",
+    "full_name_en": "Thanh Phu Commune",
+    "type": "xã",
+    "district_code": "735",
+    "codename": "thanh_phu"
+  },
+  {
+    "code": "26191",
+    "name": "Thiện Tân",
+    "name_en": "Thien Tan",
+    "full_name": "Xã Thiện Tân",
+    "full_name_en": "Thien Tan Commune",
+    "type": "xã",
+    "district_code": "735",
+    "codename": "thien_tan"
+  },
+  {
+    "code": "26194",
+    "name": "Tân Bình",
+    "name_en": "Tan Binh",
+    "full_name": "Xã Tân Bình",
+    "full_name_en": "Tan Binh Commune",
+    "type": "xã",
+    "district_code": "735",
+    "codename": "tan_binh"
+  },
+  {
+    "code": "26200",
+    "name": "Mã Đà",
+    "name_en": "Ma Da",
+    "full_name": "Xã Mã Đà",
+    "full_name_en": "Ma Da Commune",
+    "type": "xã",
+    "district_code": "735",
+    "codename": "ma_da"
+  }
+]

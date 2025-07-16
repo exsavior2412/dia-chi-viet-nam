@@ -1,0 +1,132 @@
+[
+  {
+    "code": "00982",
+    "name": "Minh Sơn",
+    "name_en": "Minh Son",
+    "full_name": "Xã Minh Sơn",
+    "full_name_en": "Minh Son Commune",
+    "type": "xã",
+    "district_code": "031",
+    "codename": "minh_son"
+  },
+  {
+    "code": "00985",
+    "name": "Giáp Trung",
+    "name_en": "Giap Trung",
+    "full_name": "Xã Giáp Trung",
+    "full_name_en": "Giap Trung Commune",
+    "type": "xã",
+    "district_code": "031",
+    "codename": "giap_trung"
+  },
+  {
+    "code": "00988",
+    "name": "Yên Định",
+    "name_en": "Yen Dinh",
+    "full_name": "Xã Yên Định",
+    "full_name_en": "Yen Dinh Commune",
+    "type": "xã",
+    "district_code": "031",
+    "codename": "yen_dinh"
+  },
+  {
+    "code": "00991",
+    "name": "Yên Phú",
+    "name_en": "Yen Phu",
+    "full_name": "Thị trấn Yên Phú",
+    "full_name_en": "Yen Phu Township",
+    "type": "thị trấn",
+    "district_code": "031",
+    "codename": "yen_phu"
+  },
+  {
+    "code": "00994",
+    "name": "Minh Ngọc",
+    "name_en": "Minh Ngoc",
+    "full_name": "Xã Minh Ngọc",
+    "full_name_en": "Minh Ngoc Commune",
+    "type": "xã",
+    "district_code": "031",
+    "codename": "minh_ngoc"
+  },
+  {
+    "code": "00997",
+    "name": "Yên Phong",
+    "name_en": "Yen Phong",
+    "full_name": "Xã Yên Phong",
+    "full_name_en": "Yen Phong Commune",
+    "type": "xã",
+    "district_code": "031",
+    "codename": "yen_phong"
+  },
+  {
+    "code": "01000",
+    "name": "Lạc Nông",
+    "name_en": "Lac Nong",
+    "full_name": "Xã Lạc Nông",
+    "full_name_en": "Lac Nong Commune",
+    "type": "xã",
+    "district_code": "031",
+    "codename": "lac_nong"
+  },
+  {
+    "code": "01003",
+    "name": "Phú Nam",
+    "name_en": "Phu Nam",
+    "full_name": "Xã Phú Nam",
+    "full_name_en": "Phu Nam Commune",
+    "type": "xã",
+    "district_code": "031",
+    "codename": "phu_nam"
+  },
+  {
+    "code": "01006",
+    "name": "Yên Cường",
+    "name_en": "Yen Cuong",
+    "full_name": "Xã Yên Cường",
+    "full_name_en": "Yen Cuong Commune",
+    "type": "xã",
+    "district_code": "031",
+    "codename": "yen_cuong"
+  },
+  {
+    "code": "01009",
+    "name": "Thượng Tân",
+    "name_en": "Thuong Tan",
+    "full_name": "Xã Thượng Tân",
+    "full_name_en": "Thuong Tan Commune",
+    "type": "xã",
+    "district_code": "031",
+    "codename": "thuong_tan"
+  },
+  {
+    "code": "01012",
+    "name": "Đường Âm",
+    "name_en": "Duong Am",
+    "full_name": "Xã Đường Âm",
+    "full_name_en": "Duong Am Commune",
+    "type": "xã",
+    "district_code": "031",
+    "codename": "duong_am"
+  },
+  {
+    "code": "01015",
+    "name": "Đường Hồng",
+    "name_en": "Duong Hong",
+    "full_name": "Xã Đường Hồng",
+    "full_name_en": "Duong Hong Commune",
+    "type": "xã",
+    "district_code": "031",
+    "codename": "duong_hong"
+  },
+  {
+    "code": "01018",
+    "name": "Phiêng Luông",
+    "name_en": "Phieng Luong",
+    "full_name": "Xã Phiêng Luông",
+    "full_name_en": "Phieng Luong Commune",
+    "type": "xã",
+    "district_code": "031",
+    "codename": "phieng_luong"
+  }
+]

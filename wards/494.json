@@ -1,0 +1,42 @@
+[
+  {
+    "code": "20284",
+    "name": "Mỹ An",
+    "name_en": "My An",
+    "full_name": "Phường Mỹ An",
+    "full_name_en": "My An Ward",
+    "type": "phường",
+    "district_code": "494",
+    "codename": "my_an"
+  },
+  {
+    "code": "20285",
+    "name": "Khuê Mỹ",
+    "name_en": "Khue My",
+    "full_name": "Phường Khuê Mỹ",
+    "full_name_en": "Khue My Ward",
+    "type": "phường",
+    "district_code": "494",
+    "codename": "khue_my"
+  },
+  {
+    "code": "20287",
+    "name": "Hoà Quý",
+    "name_en": "Hoa Quy",
+    "full_name": "Phường Hoà Quý",
+    "full_name_en": "Hoa Quy Ward",
+    "type": "phường",
+    "district_code": "494",
+    "codename": "hoa_quy"
+  },
+  {
+    "code": "20290",
+    "name": "Hoà Hải",
+    "name_en": "Hoa Hai",
+    "full_name": "Phường Hoà Hải",
+    "full_name_en": "Hoa Hai Ward",
+    "type": "phường",
+    "district_code": "494",
+    "codename": "hoa_hai"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "code": "10507",
+    "name": "Cẩm Thượng",
+    "name_en": "Cam Thuong",
+    "full_name": "Phường Cẩm Thượng",
+    "full_name_en": "Cam Thuong Ward",
+    "type": "phường",
+    "district_code": "288",
+    "codename": "cam_thuong"
+  },
+  {
+    "code": "10510",
+    "name": "Bình Hàn",
+    "name_en": "Binh Han",
+    "full_name": "Phường Bình Hàn",
+    "full_name_en": "Binh Han Ward",
+    "type": "phường",
+    "district_code": "288",
+    "codename": "binh_han"
+  },
+  {
+    "code": "10513",
+    "name": "Ngọc Châu",
+    "name_en": "Ngoc Chau",
+    "full_name": "Phường Ngọc Châu",
+    "full_name_en": "Ngoc Chau Ward",
+    "type": "phường",
+    "district_code": "288",
+    "codename": "ngoc_chau"
+  },
+  {
+    "code": "10514",
+    "name": "Nhị Châu",
+    "name_en": "Nhi Chau",
+    "full_name": "Phường Nhị Châu",
+    "full_name_en": "Nhi Chau Ward",
+    "type": "phường",
+    "district_code": "288",
+    "codename": "nhi_chau"
+  },
+  {
+    "code": "10516",
+    "name": "Quang Trung",
+    "name_en": "Quang Trung",
+    "full_name": "Phường Quang Trung",
+    "full_name_en": "Quang Trung Ward",
+    "type": "phường",
+    "district_code": "288",
+    "codename": "quang_trung"
+  },
+  {
+    "code": "10519",
+    "name": "Nguyễn Trãi",
+    "name_en": "Nguyen Trai",
+    "full_name": "Phường Nguyễn Trãi",
+    "full_name_en": "Nguyen Trai Ward",
+    "type": "phường",
+    "district_code": "288",
+    "codename": "nguyen_trai"
+  },
+  {
+    "code": "10525",
+    "name": "Trần Hưng Đạo",
+    "name_en": "Tran Hung Dao",
+    "full_name": "Phường Trần Hưng Đạo",
+    "full_name_en": "Tran Hung Dao Ward",
+    "type": "phường",
+    "district_code": "288",
+    "codename": "tran_hung_dao"
+  },
+  {
+    "code": "10528",
+    "name": "Trần Phú",
+    "name_en": "Tran Phu",
+    "full_name": "Phường Trần Phú",
+    "full_name_en": "Tran Phu Ward",
+    "type": "phường",
+    "district_code": "288",
+    "codename": "tran_phu"
+  },
+  {
+    "code": "10531",
+    "name": "Thanh Bình",
+    "name_en": "Thanh Binh",
+    "full_name": "Phường Thanh Bình",
+    "full_name_en": "Thanh Binh Ward",
+    "type": "phường",
+    "district_code": "288",
+    "codename": "thanh_binh"
+  },
+  {
+    "code": "10532",
+    "name": "Tân Bình",
+    "name_en": "Tan Binh",
+    "full_name": "Phường Tân Bình",
+    "full_name_en": "Tan Binh Ward",
+    "type": "phường",
+    "district_code": "288",
+    "codename": "tan_binh"
+  },
+  {
+    "code": "10534",
+    "name": "Lê Thanh Nghị",
+    "name_en": "Le Thanh Nghi",
+    "full_name": "Phường Lê Thanh Nghị",
+    "full_name_en": "Le Thanh Nghi Ward",
+    "type": "phường",
+    "district_code": "288",
+    "codename": "le_thanh_nghi"
+  },
+  {
+    "code": "10537",
+    "name": "Hải Tân",
+    "name_en": "Hai Tan",
+    "full_name": "Phường Hải Tân",
+    "full_name_en": "Hai Tan Ward",
+    "type": "phường",
+    "district_code": "288",
+    "codename": "hai_tan"
+  },
+  {
+    "code": "10540",
+    "name": "Tứ Minh",
+    "name_en": "Tu Minh",
+    "full_name": "Phường Tứ Minh",
+    "full_name_en": "Tu Minh Ward",
+    "type": "phường",
+    "district_code": "288",
+    "codename": "tu_minh"
+  },
+  {
+    "code": "10543",
+    "name": "Việt Hoà",
+    "name_en": "Viet Hoa",
+    "full_name": "Phường Việt Hoà",
+    "full_name_en": "Viet Hoa Ward",
+    "type": "phường",
+    "district_code": "288",
+    "codename": "viet_hoa"
+  },
+  {
+    "code": "10660",
+    "name": "Ái Quốc",
+    "name_en": "Ai Quoc",
+    "full_name": "Phường Ái Quốc",
+    "full_name_en": "Ai Quoc Ward",
+    "type": "phường",
+    "district_code": "288",
+    "codename": "ai_quoc"
+  },
+  {
+    "code": "10663",
+    "name": "An Thượng",
+    "name_en": "An Thuong",
+    "full_name": "Xã An Thượng",
+    "full_name_en": "An Thuong Commune",
+    "type": "xã",
+    "district_code": "288",
+    "codename": "an_thuong"
+  },
+  {
+    "code": "10672",
+    "name": "Nam Đồng",
+    "name_en": "Nam Dong",
+    "full_name": "Phường Nam Đồng",
+    "full_name_en": "Nam Dong Ward",
+    "type": "phường",
+    "district_code": "288",
+    "codename": "nam_dong"
+  },
+  {
+    "code": "10822",
+    "name": "Quyết Thắng",
+    "name_en": "Quyet Thang",
+    "full_name": "Xã Quyết Thắng",
+    "full_name_en": "Quyet Thang Commune",
+    "type": "xã",
+    "district_code": "288",
+    "codename": "quyet_thang"
+  },
+  {
+    "code": "10837",
+    "name": "Tiền Tiến",
+    "name_en": "Tien Tien",
+    "full_name": "Xã Tiền Tiến",
+    "full_name_en": "Tien Tien Commune",
+    "type": "xã",
+    "district_code": "288",
+    "codename": "tien_tien"
+  },
+  {
+    "code": "11002",
+    "name": "Thạch Khôi",
+    "name_en": "Thach Khoi",
+    "full_name": "Phường Thạch Khôi",
+    "full_name_en": "Thach Khoi Ward",
+    "type": "phường",
+    "district_code": "288",
+    "codename": "thach_khoi"
+  },
+  {
+    "code": "11005",
+    "name": "Liên Hồng",
+    "name_en": "Lien Hong",
+    "full_name": "Xã Liên Hồng",
+    "full_name_en": "Lien Hong Commune",
+    "type": "xã",
+    "district_code": "288",
+    "codename": "lien_hong"
+  },
+  {
+    "code": "11011",
+    "name": "Tân Hưng",
+    "name_en": "Tan Hung",
+    "full_name": "Phường Tân Hưng",
+    "full_name_en": "Tan Hung Ward",
+    "type": "phường",
+    "district_code": "288",
+    "codename": "tan_hung"
+  },
+  {
+    "code": "11017",
+    "name": "Gia Xuyên",
+    "name_en": "Gia Xuyen",
+    "full_name": "Xã Gia Xuyên",
+    "full_name_en": "Gia Xuyen Commune",
+    "type": "xã",
+    "district_code": "288",
+    "codename": "gia_xuyen"
+  },
+  {
+    "code": "11077",
+    "name": "Ngọc Sơn",
+    "name_en": "Ngoc Son",
+    "full_name": "Xã Ngọc Sơn",
+    "full_name_en": "Ngoc Son Commune",
+    "type": "xã",
+    "district_code": "288",
+    "codename": "ngoc_son"
+  }
+]

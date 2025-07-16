@@ -1,0 +1,72 @@
+[
+  {
+    "code": "29512",
+    "name": "1",
+    "name_en": "1",
+    "full_name": "Phường 1",
+    "full_name_en": "Ward 1",
+    "type": "phường",
+    "district_code": "851",
+    "codename": "1"
+  },
+  {
+    "code": "29515",
+    "name": "Long Toàn",
+    "name_en": "Long Toan",
+    "full_name": "Xã Long Toàn",
+    "full_name_en": "Long Toan Commune",
+    "type": "xã",
+    "district_code": "851",
+    "codename": "long_toan"
+  },
+  {
+    "code": "29516",
+    "name": "2",
+    "name_en": "2",
+    "full_name": "Phường 2",
+    "full_name_en": "Ward 2",
+    "type": "phường",
+    "district_code": "851",
+    "codename": "2"
+  },
+  {
+    "code": "29518",
+    "name": "Long Hữu",
+    "name_en": "Long Huu",
+    "full_name": "Xã Long Hữu",
+    "full_name_en": "Long Huu Commune",
+    "type": "xã",
+    "district_code": "851",
+    "codename": "long_huu"
+  },
+  {
+    "code": "29524",
+    "name": "Dân Thành",
+    "name_en": "Dan Thanh",
+    "full_name": "Xã Dân Thành",
+    "full_name_en": "Dan Thanh Commune",
+    "type": "xã",
+    "district_code": "851",
+    "codename": "dan_thanh"
+  },
+  {
+    "code": "29527",
+    "name": "Trường Long Hòa",
+    "name_en": "Truong Long Hoa",
+    "full_name": "Xã Trường Long Hòa",
+    "full_name_en": "Truong Long Hoa Commune",
+    "type": "xã",
+    "district_code": "851",
+    "codename": "truong_long_hoa"
+  },
+  {
+    "code": "29539",
+    "name": "Hiệp Thạnh",
+    "name_en": "Hiep Thanh",
+    "full_name": "Xã Hiệp Thạnh",
+    "full_name_en": "Hiep Thanh Commune",
+    "type": "xã",
+    "district_code": "851",
+    "codename": "hiep_thanh"
+  }
+]

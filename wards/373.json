@@ -1,0 +1,182 @@
+[
+  {
+    "code": "14464",
+    "name": "Thịnh Vượng",
+    "name_en": "Thinh Vuong",
+    "full_name": "Thị trấn Thịnh Vượng",
+    "full_name_en": "Thinh Vuong Township",
+    "type": "thị trấn",
+    "district_code": "373",
+    "codename": "thinh_vuong"
+  },
+  {
+    "code": "14467",
+    "name": "Gia Hòa",
+    "name_en": "Gia Hoa",
+    "full_name": "Xã Gia Hòa",
+    "full_name_en": "Gia Hoa Commune",
+    "type": "xã",
+    "district_code": "373",
+    "codename": "gia_hoa"
+  },
+  {
+    "code": "14470",
+    "name": "Gia Hưng",
+    "name_en": "Gia Hung",
+    "full_name": "Xã Gia Hưng",
+    "full_name_en": "Gia Hung Commune",
+    "type": "xã",
+    "district_code": "373",
+    "codename": "gia_hung"
+  },
+  {
+    "code": "14473",
+    "name": "Liên Sơn",
+    "name_en": "Lien Son",
+    "full_name": "Xã Liên Sơn",
+    "full_name_en": "Lien Son Commune",
+    "type": "xã",
+    "district_code": "373",
+    "codename": "lien_son"
+  },
+  {
+    "code": "14476",
+    "name": "Gia Thanh",
+    "name_en": "Gia Thanh",
+    "full_name": "Xã Gia Thanh",
+    "full_name_en": "Gia Thanh Commune",
+    "type": "xã",
+    "district_code": "373",
+    "codename": "gia_thanh"
+  },
+  {
+    "code": "14479",
+    "name": "Gia Vân",
+    "name_en": "Gia Van",
+    "full_name": "Xã Gia Vân",
+    "full_name_en": "Gia Van Commune",
+    "type": "xã",
+    "district_code": "373",
+    "codename": "gia_van"
+  },
+  {
+    "code": "14482",
+    "name": "Gia Phú",
+    "name_en": "Gia Phu",
+    "full_name": "Xã Gia Phú",
+    "full_name_en": "Gia Phu Commune",
+    "type": "xã",
+    "district_code": "373",
+    "codename": "gia_phu"
+  },
+  {
+    "code": "14485",
+    "name": "Gia Xuân",
+    "name_en": "Gia Xuan",
+    "full_name": "Xã Gia Xuân",
+    "full_name_en": "Gia Xuan Commune",
+    "type": "xã",
+    "district_code": "373",
+    "codename": "gia_xuan"
+  },
+  {
+    "code": "14488",
+    "name": "Gia Lập",
+    "name_en": "Gia Lap",
+    "full_name": "Xã Gia Lập",
+    "full_name_en": "Gia Lap Commune",
+    "type": "xã",
+    "district_code": "373",
+    "codename": "gia_lap"
+  },
+  {
+    "code": "14494",
+    "name": "Gia Trấn",
+    "name_en": "Gia Tran",
+    "full_name": "Xã Gia Trấn",
+    "full_name_en": "Gia Tran Commune",
+    "type": "xã",
+    "district_code": "373",
+    "codename": "gia_tran"
+  },
+  {
+    "code": "14500",
+    "name": "Gia Phương",
+    "name_en": "Gia Phuong",
+    "full_name": "Xã Gia Phương",
+    "full_name_en": "Gia Phuong Commune",
+    "type": "xã",
+    "district_code": "373",
+    "codename": "gia_phuong"
+  },
+  {
+    "code": "14503",
+    "name": "Gia Tân",
+    "name_en": "Gia Tan",
+    "full_name": "Xã Gia Tân",
+    "full_name_en": "Gia Tan Commune",
+    "type": "xã",
+    "district_code": "373",
+    "codename": "gia_tan"
+  },
+  {
+    "code": "14506",
+    "name": "Tiến Thắng",
+    "name_en": "Tien Thang",
+    "full_name": "Xã Tiến Thắng",
+    "full_name_en": "Tien Thang Commune",
+    "type": "xã",
+    "district_code": "373",
+    "codename": "tien_thang"
+  },
+  {
+    "code": "14509",
+    "name": "Gia Trung",
+    "name_en": "Gia Trung",
+    "full_name": "Xã Gia Trung",
+    "full_name_en": "Gia Trung Commune",
+    "type": "xã",
+    "district_code": "373",
+    "codename": "gia_trung"
+  },
+  {
+    "code": "14512",
+    "name": "Gia Minh",
+    "name_en": "Gia Minh",
+    "full_name": "Xã Gia Minh",
+    "full_name_en": "Gia Minh Commune",
+    "type": "xã",
+    "district_code": "373",
+    "codename": "gia_minh"
+  },
+  {
+    "code": "14515",
+    "name": "Gia Lạc",
+    "name_en": "Gia Lac",
+    "full_name": "Xã Gia Lạc",
+    "full_name_en": "Gia Lac Commune",
+    "type": "xã",
+    "district_code": "373",
+    "codename": "gia_lac"
+  },
+  {
+    "code": "14521",
+    "name": "Gia Sinh",
+    "name_en": "Gia Sinh",
+    "full_name": "Xã Gia Sinh",
+    "full_name_en": "Gia Sinh Commune",
+    "type": "xã",
+    "district_code": "373",
+    "codename": "gia_sinh"
+  },
+  {
+    "code": "14524",
+    "name": "Gia Phong",
+    "name_en": "Gia Phong",
+    "full_name": "Xã Gia Phong",
+    "full_name_en": "Gia Phong Commune",
+    "type": "xã",
+    "district_code": "373",
+    "codename": "gia_phong"
+  }
+]

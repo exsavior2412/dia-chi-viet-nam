@@ -1,0 +1,92 @@
+[
+  {
+    "code": "25681",
+    "name": "Bến Cầu",
+    "name_en": "Ben Cau",
+    "full_name": "Thị trấn Bến Cầu",
+    "full_name_en": "Ben Cau Township",
+    "type": "thị trấn",
+    "district_code": "711",
+    "codename": "ben_cau"
+  },
+  {
+    "code": "25684",
+    "name": "Long Chữ",
+    "name_en": "Long Chu",
+    "full_name": "Xã Long Chữ",
+    "full_name_en": "Long Chu Commune",
+    "type": "xã",
+    "district_code": "711",
+    "codename": "long_chu"
+  },
+  {
+    "code": "25687",
+    "name": "Long Phước",
+    "name_en": "Long Phuoc",
+    "full_name": "Xã Long Phước",
+    "full_name_en": "Long Phuoc Commune",
+    "type": "xã",
+    "district_code": "711",
+    "codename": "long_phuoc"
+  },
+  {
+    "code": "25690",
+    "name": "Long Giang",
+    "name_en": "Long Giang",
+    "full_name": "Xã Long Giang",
+    "full_name_en": "Long Giang Commune",
+    "type": "xã",
+    "district_code": "711",
+    "codename": "long_giang"
+  },
+  {
+    "code": "25693",
+    "name": "Tiên Thuận",
+    "name_en": "Tien Thuan",
+    "full_name": "Xã Tiên Thuận",
+    "full_name_en": "Tien Thuan Commune",
+    "type": "xã",
+    "district_code": "711",
+    "codename": "tien_thuan"
+  },
+  {
+    "code": "25696",
+    "name": "Long Khánh",
+    "name_en": "Long Khanh",
+    "full_name": "Xã Long Khánh",
+    "full_name_en": "Long Khanh Commune",
+    "type": "xã",
+    "district_code": "711",
+    "codename": "long_khanh"
+  },
+  {
+    "code": "25699",
+    "name": "Lợi Thuận",
+    "name_en": "Loi Thuan",
+    "full_name": "Xã Lợi Thuận",
+    "full_name_en": "Loi Thuan Commune",
+    "type": "xã",
+    "district_code": "711",
+    "codename": "loi_thuan"
+  },
+  {
+    "code": "25702",
+    "name": "Long Thuận",
+    "name_en": "Long Thuan",
+    "full_name": "Xã Long Thuận",
+    "full_name_en": "Long Thuan Commune",
+    "type": "xã",
+    "district_code": "711",
+    "codename": "long_thuan"
+  },
+  {
+    "code": "25705",
+    "name": "An Thạnh",
+    "name_en": "An Thanh",
+    "full_name": "Xã An Thạnh",
+    "full_name_en": "An Thanh Commune",
+    "type": "xã",
+    "district_code": "711",
+    "codename": "an_thanh"
+  }
+]

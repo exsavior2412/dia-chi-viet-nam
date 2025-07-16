@@ -1,0 +1,192 @@
+[
+  {
+    "code": "07816",
+    "name": "Đồng Tiến",
+    "name_en": "Dong Tien",
+    "full_name": "Xã Đồng Tiến",
+    "full_name_en": "Dong Tien Commune",
+    "type": "xã",
+    "district_code": "223",
+    "codename": "dong_tien"
+  },
+  {
+    "code": "07822",
+    "name": "Hoàng Vân",
+    "name_en": "Hoang Van",
+    "full_name": "Xã Hoàng Vân",
+    "full_name_en": "Hoang Van Commune",
+    "type": "xã",
+    "district_code": "223",
+    "codename": "hoang_van"
+  },
+  {
+    "code": "07825",
+    "name": "Toàn Thắng",
+    "name_en": "Toan Thang",
+    "full_name": "Xã Toàn Thắng",
+    "full_name_en": "Toan Thang Commune",
+    "type": "xã",
+    "district_code": "223",
+    "codename": "toan_thang"
+  },
+  {
+    "code": "07831",
+    "name": "Ngọc Sơn",
+    "name_en": "Ngoc Son",
+    "full_name": "Xã Ngọc Sơn",
+    "full_name_en": "Ngoc Son Commune",
+    "type": "xã",
+    "district_code": "223",
+    "codename": "ngoc_son"
+  },
+  {
+    "code": "07840",
+    "name": "Thắng",
+    "name_en": "Thang",
+    "full_name": "Thị trấn Thắng",
+    "full_name_en": "Thang Township",
+    "type": "thị trấn",
+    "district_code": "223",
+    "codename": "thang"
+  },
+  {
+    "code": "07843",
+    "name": "Sơn Thịnh",
+    "name_en": "Son Thinh",
+    "full_name": "Xã Sơn Thịnh",
+    "full_name_en": "Son Thinh Commune",
+    "type": "xã",
+    "district_code": "223",
+    "codename": "son_thinh"
+  },
+  {
+    "code": "07846",
+    "name": "Lương Phong",
+    "name_en": "Luong Phong",
+    "full_name": "Xã Lương Phong",
+    "full_name_en": "Luong Phong Commune",
+    "type": "xã",
+    "district_code": "223",
+    "codename": "luong_phong"
+  },
+  {
+    "code": "07849",
+    "name": "Hùng Thái",
+    "name_en": "Hung Thai",
+    "full_name": "Xã Hùng Thái",
+    "full_name_en": "Hung Thai Commune",
+    "type": "xã",
+    "district_code": "223",
+    "codename": "hung_thai"
+  },
+  {
+    "code": "07855",
+    "name": "Thường Thắng",
+    "name_en": "Thuong Thang",
+    "full_name": "Xã Thường Thắng",
+    "full_name_en": "Thuong Thang Commune",
+    "type": "xã",
+    "district_code": "223",
+    "codename": "thuong_thang"
+  },
+  {
+    "code": "07858",
+    "name": "Hợp Thịnh",
+    "name_en": "Hop Thinh",
+    "full_name": "Xã Hợp Thịnh",
+    "full_name_en": "Hop Thinh Commune",
+    "type": "xã",
+    "district_code": "223",
+    "codename": "hop_thinh"
+  },
+  {
+    "code": "07861",
+    "name": "Danh Thắng",
+    "name_en": "Danh Thang",
+    "full_name": "Xã Danh Thắng",
+    "full_name_en": "Danh Thang Commune",
+    "type": "xã",
+    "district_code": "223",
+    "codename": "danh_thang"
+  },
+  {
+    "code": "07864",
+    "name": "Mai Trung",
+    "name_en": "Mai Trung",
+    "full_name": "Xã Mai Trung",
+    "full_name_en": "Mai Trung Commune",
+    "type": "xã",
+    "district_code": "223",
+    "codename": "mai_trung"
+  },
+  {
+    "code": "07867",
+    "name": "Đoan Bái",
+    "name_en": "Doan Bai",
+    "full_name": "Xã Đoan Bái",
+    "full_name_en": "Doan Bai Commune",
+    "type": "xã",
+    "district_code": "223",
+    "codename": "doan_bai"
+  },
+  {
+    "code": "07870",
+    "name": "Bắc Lý",
+    "name_en": "Bac Ly",
+    "full_name": "Thị trấn Bắc Lý",
+    "full_name_en": "Bac Ly Township",
+    "type": "thị trấn",
+    "district_code": "223",
+    "codename": "bac_ly"
+  },
+  {
+    "code": "07873",
+    "name": "Xuân Cẩm",
+    "name_en": "Xuan Cam",
+    "full_name": "Xã Xuân Cẩm",
+    "full_name_en": "Xuan Cam Commune",
+    "type": "xã",
+    "district_code": "223",
+    "codename": "xuan_cam"
+  },
+  {
+    "code": "07876",
+    "name": "Hương Lâm",
+    "name_en": "Huong Lam",
+    "full_name": "Xã Hương Lâm",
+    "full_name_en": "Huong Lam Commune",
+    "type": "xã",
+    "district_code": "223",
+    "codename": "huong_lam"
+  },
+  {
+    "code": "07879",
+    "name": "Đông Lỗ",
+    "name_en": "Dong Lo",
+    "full_name": "Xã Đông Lỗ",
+    "full_name_en": "Dong Lo Commune",
+    "type": "xã",
+    "district_code": "223",
+    "codename": "dong_lo"
+  },
+  {
+    "code": "07882",
+    "name": "Châu Minh",
+    "name_en": "Chau Minh",
+    "full_name": "Xã Châu Minh",
+    "full_name_en": "Chau Minh Commune",
+    "type": "xã",
+    "district_code": "223",
+    "codename": "chau_minh"
+  },
+  {
+    "code": "07885",
+    "name": "Mai Đình",
+    "name_en": "Mai Dinh",
+    "full_name": "Xã Mai Đình",
+    "full_name_en": "Mai Dinh Commune",
+    "type": "xã",
+    "district_code": "223",
+    "codename": "mai_dinh"
+  }
+]

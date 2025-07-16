@@ -1,0 +1,102 @@
+[
+  {
+    "code": "25240",
+    "name": "Long Bình",
+    "name_en": "Long Binh",
+    "full_name": "Xã Long Bình",
+    "full_name_en": "Long Binh Commune",
+    "type": "xã",
+    "district_code": "698",
+    "codename": "long_binh"
+  },
+  {
+    "code": "25243",
+    "name": "Bình Tân",
+    "name_en": "Binh Tan",
+    "full_name": "Xã Bình Tân",
+    "full_name_en": "Binh Tan Commune",
+    "type": "xã",
+    "district_code": "698",
+    "codename": "binh_tan"
+  },
+  {
+    "code": "25244",
+    "name": "Bình Sơn",
+    "name_en": "Binh Son",
+    "full_name": "Xã Bình Sơn",
+    "full_name_en": "Binh Son Commune",
+    "type": "xã",
+    "district_code": "698",
+    "codename": "binh_son"
+  },
+  {
+    "code": "25246",
+    "name": "Long Hưng",
+    "name_en": "Long Hung",
+    "full_name": "Xã Long Hưng",
+    "full_name_en": "Long Hung Commune",
+    "type": "xã",
+    "district_code": "698",
+    "codename": "long_hung"
+  },
+  {
+    "code": "25250",
+    "name": "Phước Tân",
+    "name_en": "Phuoc Tan",
+    "full_name": "Xã Phước Tân",
+    "full_name_en": "Phuoc Tan Commune",
+    "type": "xã",
+    "district_code": "698",
+    "codename": "phuoc_tan"
+  },
+  {
+    "code": "25252",
+    "name": "Bù Nho",
+    "name_en": "Bu Nho",
+    "full_name": "Xã Bù Nho",
+    "full_name_en": "Bu Nho Commune",
+    "type": "xã",
+    "district_code": "698",
+    "codename": "bu_nho"
+  },
+  {
+    "code": "25255",
+    "name": "Long Hà",
+    "name_en": "Long Ha",
+    "full_name": "Xã Long Hà",
+    "full_name_en": "Long Ha Commune",
+    "type": "xã",
+    "district_code": "698",
+    "codename": "long_ha"
+  },
+  {
+    "code": "25258",
+    "name": "Long Tân",
+    "name_en": "Long Tan",
+    "full_name": "Xã Long Tân",
+    "full_name_en": "Long Tan Commune",
+    "type": "xã",
+    "district_code": "698",
+    "codename": "long_tan"
+  },
+  {
+    "code": "25261",
+    "name": "Phú Trung",
+    "name_en": "Phu Trung",
+    "full_name": "Xã Phú Trung",
+    "full_name_en": "Phu Trung Commune",
+    "type": "xã",
+    "district_code": "698",
+    "codename": "phu_trung"
+  },
+  {
+    "code": "25264",
+    "name": "Phú Riềng",
+    "name_en": "Phu Rieng",
+    "full_name": "Xã Phú Riềng",
+    "full_name_en": "Phu Rieng Commune",
+    "type": "xã",
+    "district_code": "698",
+    "codename": "phu_rieng"
+  }
+]

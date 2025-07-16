@@ -1,0 +1,92 @@
+[
+  {
+    "code": "31078",
+    "name": "Dương Đông",
+    "name_en": "Duong Dong",
+    "full_name": "Phường Dương Đông",
+    "full_name_en": "Duong Dong Ward",
+    "type": "phường",
+    "district_code": "911",
+    "codename": "duong_dong"
+  },
+  {
+    "code": "31081",
+    "name": "An Thới",
+    "name_en": "An Thoi",
+    "full_name": "Phường An Thới",
+    "full_name_en": "An Thoi Ward",
+    "type": "phường",
+    "district_code": "911",
+    "codename": "an_thoi"
+  },
+  {
+    "code": "31084",
+    "name": "Cửa Cạn",
+    "name_en": "Cua Can",
+    "full_name": "Xã Cửa Cạn",
+    "full_name_en": "Cua Can Commune",
+    "type": "xã",
+    "district_code": "911",
+    "codename": "cua_can"
+  },
+  {
+    "code": "31087",
+    "name": "Gành Dầu",
+    "name_en": "Ganh Dau",
+    "full_name": "Xã Gành Dầu",
+    "full_name_en": "Ganh Dau Commune",
+    "type": "xã",
+    "district_code": "911",
+    "codename": "ganh_dau"
+  },
+  {
+    "code": "31090",
+    "name": "Cửa Dương",
+    "name_en": "Cua Duong",
+    "full_name": "Xã Cửa Dương",
+    "full_name_en": "Cua Duong Commune",
+    "type": "xã",
+    "district_code": "911",
+    "codename": "cua_duong"
+  },
+  {
+    "code": "31093",
+    "name": "Hàm Ninh",
+    "name_en": "Ham Ninh",
+    "full_name": "Xã Hàm Ninh",
+    "full_name_en": "Ham Ninh Commune",
+    "type": "xã",
+    "district_code": "911",
+    "codename": "ham_ninh"
+  },
+  {
+    "code": "31096",
+    "name": "Dương Tơ",
+    "name_en": "Duong To",
+    "full_name": "Xã Dương Tơ",
+    "full_name_en": "Duong To Commune",
+    "type": "xã",
+    "district_code": "911",
+    "codename": "duong_to"
+  },
+  {
+    "code": "31102",
+    "name": "Bãi Thơm",
+    "name_en": "Bai Thom",
+    "full_name": "Xã Bãi Thơm",
+    "full_name_en": "Bai Thom Commune",
+    "type": "xã",
+    "district_code": "911",
+    "codename": "bai_thom"
+  },
+  {
+    "code": "31105",
+    "name": "Thổ Châu",
+    "name_en": "Tho Chau",
+    "full_name": "Xã Thổ Châu",
+    "full_name_en": "Tho Chau Commune",
+    "type": "xã",
+    "district_code": "911",
+    "codename": "tho_chau"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "code": "22489",
+    "name": "Vạn Giã",
+    "name_en": "Van Gia",
+    "full_name": "Thị trấn Vạn Giã",
+    "full_name_en": "Van Gia Township",
+    "type": "thị trấn",
+    "district_code": "571",
+    "codename": "van_gia"
+  },
+  {
+    "code": "22492",
+    "name": "Đại Lãnh",
+    "name_en": "Dai Lanh",
+    "full_name": "Xã Đại Lãnh",
+    "full_name_en": "Dai Lanh Commune",
+    "type": "xã",
+    "district_code": "571",
+    "codename": "dai_lanh"
+  },
+  {
+    "code": "22495",
+    "name": "Vạn Phước",
+    "name_en": "Van Phuoc",
+    "full_name": "Xã Vạn Phước",
+    "full_name_en": "Van Phuoc Commune",
+    "type": "xã",
+    "district_code": "571",
+    "codename": "van_phuoc"
+  },
+  {
+    "code": "22498",
+    "name": "Vạn Long",
+    "name_en": "Van Long",
+    "full_name": "Xã Vạn Long",
+    "full_name_en": "Van Long Commune",
+    "type": "xã",
+    "district_code": "571",
+    "codename": "van_long"
+  },
+  {
+    "code": "22501",
+    "name": "Vạn Bình",
+    "name_en": "Van Binh",
+    "full_name": "Xã Vạn Bình",
+    "full_name_en": "Van Binh Commune",
+    "type": "xã",
+    "district_code": "571",
+    "codename": "van_binh"
+  },
+  {
+    "code": "22504",
+    "name": "Vạn Thọ",
+    "name_en": "Van Tho",
+    "full_name": "Xã Vạn Thọ",
+    "full_name_en": "Van Tho Commune",
+    "type": "xã",
+    "district_code": "571",
+    "codename": "van_tho"
+  },
+  {
+    "code": "22507",
+    "name": "Vạn Khánh",
+    "name_en": "Van Khanh",
+    "full_name": "Xã Vạn Khánh",
+    "full_name_en": "Van Khanh Commune",
+    "type": "xã",
+    "district_code": "571",
+    "codename": "van_khanh"
+  },
+  {
+    "code": "22510",
+    "name": "Vạn Phú",
+    "name_en": "Van Phu",
+    "full_name": "Xã Vạn Phú",
+    "full_name_en": "Van Phu Commune",
+    "type": "xã",
+    "district_code": "571",
+    "codename": "van_phu"
+  },
+  {
+    "code": "22513",
+    "name": "Vạn Lương",
+    "name_en": "Van Luong",
+    "full_name": "Xã Vạn Lương",
+    "full_name_en": "Van Luong Commune",
+    "type": "xã",
+    "district_code": "571",
+    "codename": "van_luong"
+  },
+  {
+    "code": "22516",
+    "name": "Vạn Thắng",
+    "name_en": "Van Thang",
+    "full_name": "Xã Vạn Thắng",
+    "full_name_en": "Van Thang Commune",
+    "type": "xã",
+    "district_code": "571",
+    "codename": "van_thang"
+  },
+  {
+    "code": "22519",
+    "name": "Vạn Thạnh",
+    "name_en": "Van Thanh",
+    "full_name": "Xã Vạn Thạnh",
+    "full_name_en": "Van Thanh Commune",
+    "type": "xã",
+    "district_code": "571",
+    "codename": "van_thanh"
+  },
+  {
+    "code": "22522",
+    "name": "Xuân Sơn",
+    "name_en": "Xuan Son",
+    "full_name": "Xã Xuân Sơn",
+    "full_name_en": "Xuan Son Commune",
+    "type": "xã",
+    "district_code": "571",
+    "codename": "xuan_son"
+  },
+  {
+    "code": "22525",
+    "name": "Vạn Hưng",
+    "name_en": "Van Hung",
+    "full_name": "Xã Vạn Hưng",
+    "full_name_en": "Van Hung Commune",
+    "type": "xã",
+    "district_code": "571",
+    "codename": "van_hung"
+  }
+]

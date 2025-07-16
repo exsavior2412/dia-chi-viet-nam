@@ -1,0 +1,202 @@
+[
+  {
+    "code": "23887",
+    "name": "Chư Prông",
+    "name_en": "Chu Prong",
+    "full_name": "Thị trấn Chư Prông",
+    "full_name_en": "Chu Prong Township",
+    "type": "thị trấn",
+    "district_code": "632",
+    "codename": "chu_prong"
+  },
+  {
+    "code": "23888",
+    "name": "Ia Kly",
+    "name_en": "Ia Kly",
+    "full_name": "Xã Ia Kly",
+    "full_name_en": "Ia Kly Commune",
+    "type": "xã",
+    "district_code": "632",
+    "codename": "ia_kly"
+  },
+  {
+    "code": "23890",
+    "name": "Bình Giáo",
+    "name_en": "Binh Giao",
+    "full_name": "Xã Bình Giáo",
+    "full_name_en": "Binh Giao Commune",
+    "type": "xã",
+    "district_code": "632",
+    "codename": "binh_giao"
+  },
+  {
+    "code": "23893",
+    "name": "Ia Drăng",
+    "name_en": "Ia Drang",
+    "full_name": "Xã Ia Drăng",
+    "full_name_en": "Ia Drang Commune",
+    "type": "xã",
+    "district_code": "632",
+    "codename": "ia_drang"
+  },
+  {
+    "code": "23896",
+    "name": "Thăng Hưng",
+    "name_en": "Thang Hung",
+    "full_name": "Xã Thăng Hưng",
+    "full_name_en": "Thang Hung Commune",
+    "type": "xã",
+    "district_code": "632",
+    "codename": "thang_hung"
+  },
+  {
+    "code": "23899",
+    "name": "Bàu Cạn",
+    "name_en": "Bau Can",
+    "full_name": "Xã Bàu Cạn",
+    "full_name_en": "Bau Can Commune",
+    "type": "xã",
+    "district_code": "632",
+    "codename": "bau_can"
+  },
+  {
+    "code": "23902",
+    "name": "Ia Phìn",
+    "name_en": "Ia Phin",
+    "full_name": "Xã Ia Phìn",
+    "full_name_en": "Ia Phin Commune",
+    "type": "xã",
+    "district_code": "632",
+    "codename": "ia_phin"
+  },
+  {
+    "code": "23905",
+    "name": "Ia Băng",
+    "name_en": "Ia Bang",
+    "full_name": "Xã Ia Băng",
+    "full_name_en": "Ia Bang Commune",
+    "type": "xã",
+    "district_code": "632",
+    "codename": "ia_bang"
+  },
+  {
+    "code": "23908",
+    "name": "Ia Tôr",
+    "name_en": "Ia Tor",
+    "full_name": "Xã Ia Tôr",
+    "full_name_en": "Ia Tor Commune",
+    "type": "xã",
+    "district_code": "632",
+    "codename": "ia_tor"
+  },
+  {
+    "code": "23911",
+    "name": "Ia Boòng",
+    "name_en": "Ia Boong",
+    "full_name": "Xã Ia Boòng",
+    "full_name_en": "Ia Boong Commune",
+    "type": "xã",
+    "district_code": "632",
+    "codename": "ia_boong"
+  },
+  {
+    "code": "23914",
+    "name": "Ia O",
+    "name_en": "Ia O",
+    "full_name": "Xã Ia O",
+    "full_name_en": "Ia O Commune",
+    "type": "xã",
+    "district_code": "632",
+    "codename": "ia_o"
+  },
+  {
+    "code": "23917",
+    "name": "Ia Púch",
+    "name_en": "Ia Puch",
+    "full_name": "Xã Ia Púch",
+    "full_name_en": "Ia Puch Commune",
+    "type": "xã",
+    "district_code": "632",
+    "codename": "ia_puch"
+  },
+  {
+    "code": "23920",
+    "name": "Ia Me",
+    "name_en": "Ia Me",
+    "full_name": "Xã Ia Me",
+    "full_name_en": "Ia Me Commune",
+    "type": "xã",
+    "district_code": "632",
+    "codename": "ia_me"
+  },
+  {
+    "code": "23923",
+    "name": "Ia Vê",
+    "name_en": "Ia Ve",
+    "full_name": "Xã Ia Vê",
+    "full_name_en": "Ia Ve Commune",
+    "type": "xã",
+    "district_code": "632",
+    "codename": "ia_ve"
+  },
+  {
+    "code": "23924",
+    "name": "Ia Bang",
+    "name_en": "Ia Bang",
+    "full_name": "Xã Ia Bang",
+    "full_name_en": "Ia Bang Commune",
+    "type": "xã",
+    "district_code": "632",
+    "codename": "ia_bang"
+  },
+  {
+    "code": "23926",
+    "name": "Ia Pia",
+    "name_en": "Ia Pia",
+    "full_name": "Xã Ia Pia",
+    "full_name_en": "Ia Pia Commune",
+    "type": "xã",
+    "district_code": "632",
+    "codename": "ia_pia"
+  },
+  {
+    "code": "23929",
+    "name": "Ia Ga",
+    "name_en": "Ia Ga",
+    "full_name": "Xã Ia Ga",
+    "full_name_en": "Ia Ga Commune",
+    "type": "xã",
+    "district_code": "632",
+    "codename": "ia_ga"
+  },
+  {
+    "code": "23932",
+    "name": "Ia Lâu",
+    "name_en": "Ia Lau",
+    "full_name": "Xã Ia Lâu",
+    "full_name_en": "Ia Lau Commune",
+    "type": "xã",
+    "district_code": "632",
+    "codename": "ia_lau"
+  },
+  {
+    "code": "23935",
+    "name": "Ia Piơr",
+    "name_en": "Ia Pior",
+    "full_name": "Xã Ia Piơr",
+    "full_name_en": "Ia Pior Commune",
+    "type": "xã",
+    "district_code": "632",
+    "codename": "ia_pior"
+  },
+  {
+    "code": "23938",
+    "name": "Ia Mơ",
+    "name_en": "Ia Mo",
+    "full_name": "Xã Ia Mơ",
+    "full_name_en": "Ia Mo Commune",
+    "type": "xã",
+    "district_code": "632",
+    "codename": "ia_mo"
+  }
+]

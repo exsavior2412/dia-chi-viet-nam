@@ -1,0 +1,152 @@
+[
+  {
+    "code": "22408",
+    "name": "Cam Nghĩa",
+    "name_en": "Cam Nghia",
+    "full_name": "Phường Cam Nghĩa",
+    "full_name_en": "Cam Nghia Ward",
+    "type": "phường",
+    "district_code": "569",
+    "codename": "cam_nghia"
+  },
+  {
+    "code": "22411",
+    "name": "Cam Phúc Bắc",
+    "name_en": "Cam Phuc Bac",
+    "full_name": "Phường Cam Phúc Bắc",
+    "full_name_en": "Cam Phuc Bac Ward",
+    "type": "phường",
+    "district_code": "569",
+    "codename": "cam_phuc_bac"
+  },
+  {
+    "code": "22414",
+    "name": "Cam Phúc Nam",
+    "name_en": "Cam Phuc Nam",
+    "full_name": "Phường Cam Phúc Nam",
+    "full_name_en": "Cam Phuc Nam Ward",
+    "type": "phường",
+    "district_code": "569",
+    "codename": "cam_phuc_nam"
+  },
+  {
+    "code": "22417",
+    "name": "Cam Lộc",
+    "name_en": "Cam Loc",
+    "full_name": "Phường Cam Lộc",
+    "full_name_en": "Cam Loc Ward",
+    "type": "phường",
+    "district_code": "569",
+    "codename": "cam_loc"
+  },
+  {
+    "code": "22420",
+    "name": "Cam Phú",
+    "name_en": "Cam Phu",
+    "full_name": "Phường Cam Phú",
+    "full_name_en": "Cam Phu Ward",
+    "type": "phường",
+    "district_code": "569",
+    "codename": "cam_phu"
+  },
+  {
+    "code": "22423",
+    "name": "Ba Ngòi",
+    "name_en": "Ba Ngoi",
+    "full_name": "Phường Ba Ngòi",
+    "full_name_en": "Ba Ngoi Ward",
+    "type": "phường",
+    "district_code": "569",
+    "codename": "ba_ngoi"
+  },
+  {
+    "code": "22426",
+    "name": "Cam Thuận",
+    "name_en": "Cam Thuan",
+    "full_name": "Phường Cam Thuận",
+    "full_name_en": "Cam Thuan Ward",
+    "type": "phường",
+    "district_code": "569",
+    "codename": "cam_thuan"
+  },
+  {
+    "code": "22429",
+    "name": "Cam Lợi",
+    "name_en": "Cam Loi",
+    "full_name": "Phường Cam Lợi",
+    "full_name_en": "Cam Loi Ward",
+    "type": "phường",
+    "district_code": "569",
+    "codename": "cam_loi"
+  },
+  {
+    "code": "22432",
+    "name": "Cam Linh",
+    "name_en": "Cam Linh",
+    "full_name": "Phường Cam Linh",
+    "full_name_en": "Cam Linh Ward",
+    "type": "phường",
+    "district_code": "569",
+    "codename": "cam_linh"
+  },
+  {
+    "code": "22468",
+    "name": "Cam Thành Nam",
+    "name_en": "Cam Thanh Nam",
+    "full_name": "Xã Cam Thành Nam",
+    "full_name_en": "Cam Thanh Nam Commune",
+    "type": "xã",
+    "district_code": "569",
+    "codename": "cam_thanh_nam"
+  },
+  {
+    "code": "22474",
+    "name": "Cam Phước Đông",
+    "name_en": "Cam Phuoc Dong",
+    "full_name": "Xã Cam Phước Đông",
+    "full_name_en": "Cam Phuoc Dong Commune",
+    "type": "xã",
+    "district_code": "569",
+    "codename": "cam_phuoc_dong"
+  },
+  {
+    "code": "22477",
+    "name": "Cam Thịnh Tây",
+    "name_en": "Cam Thinh Tay",
+    "full_name": "Xã Cam Thịnh Tây",
+    "full_name_en": "Cam Thinh Tay Commune",
+    "type": "xã",
+    "district_code": "569",
+    "codename": "cam_thinh_tay"
+  },
+  {
+    "code": "22480",
+    "name": "Cam Thịnh Đông",
+    "name_en": "Cam Thinh Dong",
+    "full_name": "Xã Cam Thịnh Đông",
+    "full_name_en": "Cam Thinh Dong Commune",
+    "type": "xã",
+    "district_code": "569",
+    "codename": "cam_thinh_dong"
+  },
+  {
+    "code": "22483",
+    "name": "Cam Lập",
+    "name_en": "Cam Lap",
+    "full_name": "Xã Cam Lập",
+    "full_name_en": "Cam Lap Commune",
+    "type": "xã",
+    "district_code": "569",
+    "codename": "cam_lap"
+  },
+  {
+    "code": "22486",
+    "name": "Cam Bình",
+    "name_en": "Cam Binh",
+    "full_name": "Xã Cam Bình",
+    "full_name_en": "Cam Binh Commune",
+    "type": "xã",
+    "district_code": "569",
+    "codename": "cam_binh"
+  }
+]

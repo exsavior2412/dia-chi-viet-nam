@@ -1,0 +1,132 @@
+[
+  {
+    "code": "22738",
+    "name": "Đô Vinh",
+    "name_en": "Do Vinh",
+    "full_name": "Phường Đô Vinh",
+    "full_name_en": "Do Vinh Ward",
+    "type": "phường",
+    "district_code": "582",
+    "codename": "do_vinh"
+  },
+  {
+    "code": "22741",
+    "name": "Phước Mỹ",
+    "name_en": "Phuoc My",
+    "full_name": "Phường Phước Mỹ",
+    "full_name_en": "Phuoc My Ward",
+    "type": "phường",
+    "district_code": "582",
+    "codename": "phuoc_my"
+  },
+  {
+    "code": "22744",
+    "name": "Bảo An",
+    "name_en": "Bao An",
+    "full_name": "Phường Bảo An",
+    "full_name_en": "Bao An Ward",
+    "type": "phường",
+    "district_code": "582",
+    "codename": "bao_an"
+  },
+  {
+    "code": "22750",
+    "name": "Phủ Hà",
+    "name_en": "Phu Ha",
+    "full_name": "Phường Phủ Hà",
+    "full_name_en": "Phu Ha Ward",
+    "type": "phường",
+    "district_code": "582",
+    "codename": "phu_ha"
+  },
+  {
+    "code": "22759",
+    "name": "Kinh Dinh",
+    "name_en": "Kinh Dinh",
+    "full_name": "Phường Kinh Dinh",
+    "full_name_en": "Kinh Dinh Ward",
+    "type": "phường",
+    "district_code": "582",
+    "codename": "kinh_dinh"
+  },
+  {
+    "code": "22762",
+    "name": "Đạo Long",
+    "name_en": "Dao Long",
+    "full_name": "Phường Đạo Long",
+    "full_name_en": "Dao Long Ward",
+    "type": "phường",
+    "district_code": "582",
+    "codename": "dao_long"
+  },
+  {
+    "code": "22765",
+    "name": "Đài Sơn",
+    "name_en": "Dai Son",
+    "full_name": "Phường Đài Sơn",
+    "full_name_en": "Dai Son Ward",
+    "type": "phường",
+    "district_code": "582",
+    "codename": "dai_son"
+  },
+  {
+    "code": "22768",
+    "name": "Đông Hải",
+    "name_en": "Dong Hai",
+    "full_name": "Phường Đông Hải",
+    "full_name_en": "Dong Hai Ward",
+    "type": "phường",
+    "district_code": "582",
+    "codename": "dong_hai"
+  },
+  {
+    "code": "22771",
+    "name": "Mỹ Đông",
+    "name_en": "My Dong",
+    "full_name": "Phường Mỹ Đông",
+    "full_name_en": "My Dong Ward",
+    "type": "phường",
+    "district_code": "582",
+    "codename": "my_dong"
+  },
+  {
+    "code": "22774",
+    "name": "Thành Hải",
+    "name_en": "Thanh Hai",
+    "full_name": "Xã Thành Hải",
+    "full_name_en": "Thanh Hai Commune",
+    "type": "xã",
+    "district_code": "582",
+    "codename": "thanh_hai"
+  },
+  {
+    "code": "22777",
+    "name": "Văn Hải",
+    "name_en": "Van Hai",
+    "full_name": "Phường Văn Hải",
+    "full_name_en": "Van Hai Ward",
+    "type": "phường",
+    "district_code": "582",
+    "codename": "van_hai"
+  },
+  {
+    "code": "22779",
+    "name": "Mỹ Bình",
+    "name_en": "My Binh",
+    "full_name": "Phường Mỹ Bình",
+    "full_name_en": "My Binh Ward",
+    "type": "phường",
+    "district_code": "582",
+    "codename": "my_binh"
+  },
+  {
+    "code": "22780",
+    "name": "Mỹ Hải",
+    "name_en": "My Hai",
+    "full_name": "Phường Mỹ Hải",
+    "full_name_en": "My Hai Ward",
+    "type": "phường",
+    "district_code": "582",
+    "codename": "my_hai"
+  }
+]

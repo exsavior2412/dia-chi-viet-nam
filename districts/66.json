@@ -1,0 +1,152 @@
+[
+  {
+    "code": "643",
+    "name": "Buôn Ma Thuột",
+    "name_en": "Buon Ma Thuot",
+    "full_name": "Thành phố Buôn Ma Thuột",
+    "full_name_en": "Buon Ma Thuot City",
+    "type": "thành phố",
+    "province_code": "66",
+    "codename": "buon_ma_thuot"
+  },
+  {
+    "code": "644",
+    "name": "Buôn Hồ",
+    "name_en": "Buon Ho",
+    "full_name": "Thị xã Buôn Hồ",
+    "full_name_en": "Buon Ho Town",
+    "type": "thị xã",
+    "province_code": "66",
+    "codename": "buon_ho"
+  },
+  {
+    "code": "645",
+    "name": "Ea H'leo",
+    "name_en": "Ea H'leo",
+    "full_name": "Huyện Ea H'leo",
+    "full_name_en": "Ea H'leo District",
+    "type": "huyện",
+    "province_code": "66",
+    "codename": "ea_hleo"
+  },
+  {
+    "code": "646",
+    "name": "Ea Súp",
+    "name_en": "Ea Sup",
+    "full_name": "Huyện Ea Súp",
+    "full_name_en": "Ea Sup District",
+    "type": "huyện",
+    "province_code": "66",
+    "codename": "ea_sup"
+  },
+  {
+    "code": "647",
+    "name": "Buôn Đôn",
+    "name_en": "Buon Don",
+    "full_name": "Huyện Buôn Đôn",
+    "full_name_en": "Buon Don District",
+    "type": "huyện",
+    "province_code": "66",
+    "codename": "buon_don"
+  },
+  {
+    "code": "648",
+    "name": "Cư M'gar",
+    "name_en": "Cu M'gar",
+    "full_name": "Huyện Cư M'gar",
+    "full_name_en": "Cu M'gar District",
+    "type": "huyện",
+    "province_code": "66",
+    "codename": "cu_mgar"
+  },
+  {
+    "code": "649",
+    "name": "Krông Búk",
+    "name_en": "Krong Buk",
+    "full_name": "Huyện Krông Búk",
+    "full_name_en": "Krong Buk District",
+    "type": "huyện",
+    "province_code": "66",
+    "codename": "krong_buk"
+  },
+  {
+    "code": "650",
+    "name": "Krông Năng",
+    "name_en": "Krong Nang",
+    "full_name": "Huyện Krông Năng",
+    "full_name_en": "Krong Nang District",
+    "type": "huyện",
+    "province_code": "66",
+    "codename": "krong_nang"
+  },
+  {
+    "code": "651",
+    "name": "Ea Kar",
+    "name_en": "Ea Kar",
+    "full_name": "Huyện Ea Kar",
+    "full_name_en": "Ea Kar District",
+    "type": "huyện",
+    "province_code": "66",
+    "codename": "ea_kar"
+  },
+  {
+    "code": "652",
+    "name": "M'Đrắk",
+    "name_en": "M'Drak",
+    "full_name": "Huyện M'Đrắk",
+    "full_name_en": "M'Drak District",
+    "type": "huyện",
+    "province_code": "66",
+    "codename": "mdrak"
+  },
+  {
+    "code": "653",
+    "name": "Krông Bông",
+    "name_en": "Krong Bong",
+    "full_name": "Huyện Krông Bông",
+    "full_name_en": "Krong Bong District",
+    "type": "huyện",
+    "province_code": "66",
+    "codename": "krong_bong"
+  },
+  {
+    "code": "654",
+    "name": "Krông Pắc",
+    "name_en": "Krong Pac",
+    "full_name": "Huyện Krông Pắc",
+    "full_name_en": "Krong Pac District",
+    "type": "huyện",
+    "province_code": "66",
+    "codename": "krong_pac"
+  },
+  {
+    "code": "655",
+    "name": "Krông A Na",
+    "name_en": "Krong A Na",
+    "full_name": "Huyện Krông A Na",
+    "full_name_en": "Krong A Na District",
+    "type": "huyện",
+    "province_code": "66",
+    "codename": "krong_a_na"
+  },
+  {
+    "code": "656",
+    "name": "Lắk",
+    "name_en": "Lak",
+    "full_name": "Huyện Lắk",
+    "full_name_en": "Lak District",
+    "type": "huyện",
+    "province_code": "66",
+    "codename": "lak"
+  },
+  {
+    "code": "657",
+    "name": "Cư Kuin",
+    "name_en": "Cu Kuin",
+    "full_name": "Huyện Cư Kuin",
+    "full_name_en": "Cu Kuin District",
+    "type": "huyện",
+    "province_code": "66",
+    "codename": "cu_kuin"
+  }
+]

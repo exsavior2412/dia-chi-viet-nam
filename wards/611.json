@@ -1,0 +1,82 @@
+[
+  {
+    "code": "23377",
+    "name": "Plei Kần",
+    "name_en": "Plei Kan",
+    "full_name": "Thị trấn Plei Kần",
+    "full_name_en": "Plei Kan Township",
+    "type": "thị trấn",
+    "district_code": "611",
+    "codename": "plei_kan"
+  },
+  {
+    "code": "23380",
+    "name": "Đắk Ang",
+    "name_en": "Dak Ang",
+    "full_name": "Xã Đắk Ang",
+    "full_name_en": "Dak Ang Commune",
+    "type": "xã",
+    "district_code": "611",
+    "codename": "dak_ang"
+  },
+  {
+    "code": "23383",
+    "name": "Đắk Dục",
+    "name_en": "Dak Duc",
+    "full_name": "Xã Đắk Dục",
+    "full_name_en": "Dak Duc Commune",
+    "type": "xã",
+    "district_code": "611",
+    "codename": "dak_duc"
+  },
+  {
+    "code": "23386",
+    "name": "Đắk Nông",
+    "name_en": "Dak Nong",
+    "full_name": "Xã Đắk Nông",
+    "full_name_en": "Dak Nong Commune",
+    "type": "xã",
+    "district_code": "611",
+    "codename": "dak_nong"
+  },
+  {
+    "code": "23389",
+    "name": "Đắk Xú",
+    "name_en": "Dak Xu",
+    "full_name": "Xã Đắk Xú",
+    "full_name_en": "Dak Xu Commune",
+    "type": "xã",
+    "district_code": "611",
+    "codename": "dak_xu"
+  },
+  {
+    "code": "23392",
+    "name": "Đắk Kan",
+    "name_en": "Dak Kan",
+    "full_name": "Xã Đắk Kan",
+    "full_name_en": "Dak Kan Commune",
+    "type": "xã",
+    "district_code": "611",
+    "codename": "dak_kan"
+  },
+  {
+    "code": "23395",
+    "name": "Bờ Y",
+    "name_en": "Bo Y",
+    "full_name": "Xã Bờ Y",
+    "full_name_en": "Bo Y Commune",
+    "type": "xã",
+    "district_code": "611",
+    "codename": "bo_y"
+  },
+  {
+    "code": "23398",
+    "name": "Sa Loong",
+    "name_en": "Sa Loong",
+    "full_name": "Xã Sa Loong",
+    "full_name_en": "Sa Loong Commune",
+    "type": "xã",
+    "district_code": "611",
+    "codename": "sa_loong"
+  }
+]

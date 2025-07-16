@@ -1,0 +1,122 @@
+[
+  {
+    "code": "29623",
+    "name": "Mỹ An",
+    "name_en": "My An",
+    "full_name": "Xã Mỹ An",
+    "full_name_en": "My An Commune",
+    "type": "xã",
+    "district_code": "858",
+    "codename": "my_an"
+  },
+  {
+    "code": "29626",
+    "name": "Mỹ Phước",
+    "name_en": "My Phuoc",
+    "full_name": "Xã Mỹ Phước",
+    "full_name_en": "My Phuoc Commune",
+    "type": "xã",
+    "district_code": "858",
+    "codename": "my_phuoc"
+  },
+  {
+    "code": "29629",
+    "name": "An Phước",
+    "name_en": "An Phuoc",
+    "full_name": "Xã An Phước",
+    "full_name_en": "An Phuoc Commune",
+    "type": "xã",
+    "district_code": "858",
+    "codename": "an_phuoc"
+  },
+  {
+    "code": "29632",
+    "name": "Nhơn Phú",
+    "name_en": "Nhon Phu",
+    "full_name": "Xã Nhơn Phú",
+    "full_name_en": "Nhon Phu Commune",
+    "type": "xã",
+    "district_code": "858",
+    "codename": "nhon_phu"
+  },
+  {
+    "code": "29635",
+    "name": "Long Mỹ",
+    "name_en": "Long My",
+    "full_name": "Xã Long Mỹ",
+    "full_name_en": "Long My Commune",
+    "type": "xã",
+    "district_code": "858",
+    "codename": "long_my"
+  },
+  {
+    "code": "29638",
+    "name": "Hòa Tịnh",
+    "name_en": "Hoa Tinh",
+    "full_name": "Xã Hòa Tịnh",
+    "full_name_en": "Hoa Tinh Commune",
+    "type": "xã",
+    "district_code": "858",
+    "codename": "hoa_tinh"
+  },
+  {
+    "code": "29641",
+    "name": "Cái Nhum",
+    "name_en": "Cai Nhum",
+    "full_name": "Thị trấn Cái Nhum",
+    "full_name_en": "Cai Nhum Township",
+    "type": "thị trấn",
+    "district_code": "858",
+    "codename": "cai_nhum"
+  },
+  {
+    "code": "29644",
+    "name": "Bình Phước",
+    "name_en": "Binh Phuoc",
+    "full_name": "Xã Bình Phước",
+    "full_name_en": "Binh Phuoc Commune",
+    "type": "xã",
+    "district_code": "858",
+    "codename": "binh_phuoc"
+  },
+  {
+    "code": "29647",
+    "name": "Chánh An",
+    "name_en": "Chanh An",
+    "full_name": "Xã Chánh An",
+    "full_name_en": "Chanh An Commune",
+    "type": "xã",
+    "district_code": "858",
+    "codename": "chanh_an"
+  },
+  {
+    "code": "29650",
+    "name": "Tân An Hội",
+    "name_en": "Tan An Hoi",
+    "full_name": "Xã Tân An Hội",
+    "full_name_en": "Tan An Hoi Commune",
+    "type": "xã",
+    "district_code": "858",
+    "codename": "tan_an_hoi"
+  },
+  {
+    "code": "29653",
+    "name": "Tân Long",
+    "name_en": "Tan Long",
+    "full_name": "Xã Tân Long",
+    "full_name_en": "Tan Long Commune",
+    "type": "xã",
+    "district_code": "858",
+    "codename": "tan_long"
+  },
+  {
+    "code": "29656",
+    "name": "Tân Long Hội",
+    "name_en": "Tan Long Hoi",
+    "full_name": "Xã Tân Long Hội",
+    "full_name_en": "Tan Long Hoi Commune",
+    "type": "xã",
+    "district_code": "858",
+    "codename": "tan_long_hoi"
+  }
+]

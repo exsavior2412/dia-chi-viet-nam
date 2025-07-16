@@ -1,0 +1,142 @@
+[
+  {
+    "code": "03994",
+    "name": "Suối Bàng",
+    "name_en": "Suoi Bang",
+    "full_name": "Xã Suối Bàng",
+    "full_name_en": "Suoi Bang Commune",
+    "type": "xã",
+    "district_code": "128",
+    "codename": "suoi_bang"
+  },
+  {
+    "code": "04006",
+    "name": "Song Khủa",
+    "name_en": "Song Khua",
+    "full_name": "Xã Song Khủa",
+    "full_name_en": "Song Khua Commune",
+    "type": "xã",
+    "district_code": "128",
+    "codename": "song_khua"
+  },
+  {
+    "code": "04009",
+    "name": "Liên Hoà",
+    "name_en": "Lien Hoa",
+    "full_name": "Xã Liên Hoà",
+    "full_name_en": "Lien Hoa Commune",
+    "type": "xã",
+    "district_code": "128",
+    "codename": "lien_hoa"
+  },
+  {
+    "code": "04018",
+    "name": "Tô Múa",
+    "name_en": "To Mua",
+    "full_name": "Xã Tô Múa",
+    "full_name_en": "To Mua Commune",
+    "type": "xã",
+    "district_code": "128",
+    "codename": "to_mua"
+  },
+  {
+    "code": "04021",
+    "name": "Mường Tè",
+    "name_en": "Muong Te",
+    "full_name": "Xã Mường Tè",
+    "full_name_en": "Muong Te Commune",
+    "type": "xã",
+    "district_code": "128",
+    "codename": "muong_te"
+  },
+  {
+    "code": "04036",
+    "name": "Chiềng Khoa",
+    "name_en": "Chieng Khoa",
+    "full_name": "Xã Chiềng Khoa",
+    "full_name_en": "Chieng Khoa Commune",
+    "type": "xã",
+    "district_code": "128",
+    "codename": "chieng_khoa"
+  },
+  {
+    "code": "04039",
+    "name": "Mường Men",
+    "name_en": "Muong Men",
+    "full_name": "Xã Mường Men",
+    "full_name_en": "Muong Men Commune",
+    "type": "xã",
+    "district_code": "128",
+    "codename": "muong_men"
+  },
+  {
+    "code": "04042",
+    "name": "Quang Minh",
+    "name_en": "Quang Minh",
+    "full_name": "Xã Quang Minh",
+    "full_name_en": "Quang Minh Commune",
+    "type": "xã",
+    "district_code": "128",
+    "codename": "quang_minh"
+  },
+  {
+    "code": "04048",
+    "name": "Vân Hồ",
+    "name_en": "Van Ho",
+    "full_name": "Xã Vân Hồ",
+    "full_name_en": "Van Ho Commune",
+    "type": "xã",
+    "district_code": "128",
+    "codename": "van_ho"
+  },
+  {
+    "code": "04051",
+    "name": "Lóng Luông",
+    "name_en": "Long Luong",
+    "full_name": "Xã Lóng Luông",
+    "full_name_en": "Long Luong Commune",
+    "type": "xã",
+    "district_code": "128",
+    "codename": "long_luong"
+  },
+  {
+    "code": "04054",
+    "name": "Chiềng Yên",
+    "name_en": "Chieng Yen",
+    "full_name": "Xã Chiềng Yên",
+    "full_name_en": "Chieng Yen Commune",
+    "type": "xã",
+    "district_code": "128",
+    "codename": "chieng_yen"
+  },
+  {
+    "code": "04056",
+    "name": "Chiềng Xuân",
+    "name_en": "Chieng Xuan",
+    "full_name": "Xã Chiềng Xuân",
+    "full_name_en": "Chieng Xuan Commune",
+    "type": "xã",
+    "district_code": "128",
+    "codename": "chieng_xuan"
+  },
+  {
+    "code": "04057",
+    "name": "Xuân Nha",
+    "name_en": "Xuan Nha",
+    "full_name": "Xã Xuân Nha",
+    "full_name_en": "Xuan Nha Commune",
+    "type": "xã",
+    "district_code": "128",
+    "codename": "xuan_nha"
+  },
+  {
+    "code": "04058",
+    "name": "Tân Xuân",
+    "name_en": "Tan Xuan",
+    "full_name": "Xã Tân Xuân",
+    "full_name_en": "Tan Xuan Commune",
+    "type": "xã",
+    "district_code": "128",
+    "codename": "tan_xuan"
+  }
+]

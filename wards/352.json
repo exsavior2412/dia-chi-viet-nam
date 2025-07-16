@@ -1,0 +1,152 @@
+[
+  {
+    "code": "13501",
+    "name": "Bình Mỹ",
+    "name_en": "Binh My",
+    "full_name": "Thị trấn Bình Mỹ",
+    "full_name_en": "Binh My Township",
+    "type": "thị trấn",
+    "district_code": "352",
+    "codename": "binh_my"
+  },
+  {
+    "code": "13504",
+    "name": "Bình Nghĩa",
+    "name_en": "Binh Nghia",
+    "full_name": "Xã Bình Nghĩa",
+    "full_name_en": "Binh Nghia Commune",
+    "type": "xã",
+    "district_code": "352",
+    "codename": "binh_nghia"
+  },
+  {
+    "code": "13510",
+    "name": "Tràng An",
+    "name_en": "Trang An",
+    "full_name": "Xã Tràng An",
+    "full_name_en": "Trang An Commune",
+    "type": "xã",
+    "district_code": "352",
+    "codename": "trang_an"
+  },
+  {
+    "code": "13516",
+    "name": "Đồng Du",
+    "name_en": "Dong Du",
+    "full_name": "Xã Đồng Du",
+    "full_name_en": "Dong Du Commune",
+    "type": "xã",
+    "district_code": "352",
+    "codename": "dong_du"
+  },
+  {
+    "code": "13519",
+    "name": "Ngọc Lũ",
+    "name_en": "Ngoc Lu",
+    "full_name": "Xã Ngọc Lũ",
+    "full_name_en": "Ngoc Lu Commune",
+    "type": "xã",
+    "district_code": "352",
+    "codename": "ngoc_lu"
+  },
+  {
+    "code": "13525",
+    "name": "Đồn Xá",
+    "name_en": "Don Xa",
+    "full_name": "Xã Đồn Xá",
+    "full_name_en": "Don Xa Commune",
+    "type": "xã",
+    "district_code": "352",
+    "codename": "don_xa"
+  },
+  {
+    "code": "13528",
+    "name": "An Ninh",
+    "name_en": "An Ninh",
+    "full_name": "Xã An Ninh",
+    "full_name_en": "An Ninh Commune",
+    "type": "xã",
+    "district_code": "352",
+    "codename": "an_ninh"
+  },
+  {
+    "code": "13531",
+    "name": "Bồ Đề",
+    "name_en": "Bo De",
+    "full_name": "Xã Bồ Đề",
+    "full_name_en": "Bo De Commune",
+    "type": "xã",
+    "district_code": "352",
+    "codename": "bo_de"
+  },
+  {
+    "code": "13540",
+    "name": "Bình An",
+    "name_en": "Binh An",
+    "full_name": "Xã Bình An",
+    "full_name_en": "Binh An Commune",
+    "type": "xã",
+    "district_code": "352",
+    "codename": "binh_an"
+  },
+  {
+    "code": "13543",
+    "name": "Vũ Bản",
+    "name_en": "Vu Ban",
+    "full_name": "Xã Vũ Bản",
+    "full_name_en": "Vu Ban Commune",
+    "type": "xã",
+    "district_code": "352",
+    "codename": "vu_ban"
+  },
+  {
+    "code": "13546",
+    "name": "Trung Lương",
+    "name_en": "Trung Luong",
+    "full_name": "Xã Trung Lương",
+    "full_name_en": "Trung Luong Commune",
+    "type": "xã",
+    "district_code": "352",
+    "codename": "trung_luong"
+  },
+  {
+    "code": "13552",
+    "name": "An Đổ",
+    "name_en": "An Do",
+    "full_name": "Xã An Đổ",
+    "full_name_en": "An Do Commune",
+    "type": "xã",
+    "district_code": "352",
+    "codename": "an_do"
+  },
+  {
+    "code": "13555",
+    "name": "La Sơn",
+    "name_en": "La Son",
+    "full_name": "Xã La Sơn",
+    "full_name_en": "La Son Commune",
+    "type": "xã",
+    "district_code": "352",
+    "codename": "la_son"
+  },
+  {
+    "code": "13558",
+    "name": "Tiêu Động",
+    "name_en": "Tieu Dong",
+    "full_name": "Xã Tiêu Động",
+    "full_name_en": "Tieu Dong Commune",
+    "type": "xã",
+    "district_code": "352",
+    "codename": "tieu_dong"
+  },
+  {
+    "code": "13561",
+    "name": "An Lão",
+    "name_en": "An Lao",
+    "full_name": "Xã An Lão",
+    "full_name_en": "An Lao Commune",
+    "type": "xã",
+    "district_code": "352",
+    "codename": "an_lao"
+  }
+]

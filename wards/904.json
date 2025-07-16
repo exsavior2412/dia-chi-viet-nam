@@ -1,0 +1,112 @@
+[
+  {
+    "code": "30850",
+    "name": "Tân Hiệp",
+    "name_en": "Tan Hiep",
+    "full_name": "Thị trấn Tân Hiệp",
+    "full_name_en": "Tan Hiep Township",
+    "type": "thị trấn",
+    "district_code": "904",
+    "codename": "tan_hiep"
+  },
+  {
+    "code": "30853",
+    "name": "Tân Hội",
+    "name_en": "Tan Hoi",
+    "full_name": "Xã Tân Hội",
+    "full_name_en": "Tan Hoi Commune",
+    "type": "xã",
+    "district_code": "904",
+    "codename": "tan_hoi"
+  },
+  {
+    "code": "30856",
+    "name": "Tân Thành",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thành",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "904",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "30859",
+    "name": "Tân Hiệp B",
+    "name_en": "Tan Hiep B",
+    "full_name": "Xã Tân Hiệp B",
+    "full_name_en": "Tan Hiep B Commune",
+    "type": "xã",
+    "district_code": "904",
+    "codename": "tan_hiep_b"
+  },
+  {
+    "code": "30860",
+    "name": "Tân Hoà",
+    "name_en": "Tan Hoa",
+    "full_name": "Xã Tân Hoà",
+    "full_name_en": "Tan Hoa Commune",
+    "type": "xã",
+    "district_code": "904",
+    "codename": "tan_hoa"
+  },
+  {
+    "code": "30862",
+    "name": "Thạnh Đông B",
+    "name_en": "Thanh Dong B",
+    "full_name": "Xã Thạnh Đông B",
+    "full_name_en": "Thanh Dong B Commune",
+    "type": "xã",
+    "district_code": "904",
+    "codename": "thanh_dong_b"
+  },
+  {
+    "code": "30865",
+    "name": "Thạnh Đông",
+    "name_en": "Thanh Dong",
+    "full_name": "Xã Thạnh Đông",
+    "full_name_en": "Thanh Dong Commune",
+    "type": "xã",
+    "district_code": "904",
+    "codename": "thanh_dong"
+  },
+  {
+    "code": "30868",
+    "name": "Tân Hiệp A",
+    "name_en": "Tan Hiep A",
+    "full_name": "Xã Tân Hiệp A",
+    "full_name_en": "Tan Hiep A Commune",
+    "type": "xã",
+    "district_code": "904",
+    "codename": "tan_hiep_a"
+  },
+  {
+    "code": "30871",
+    "name": "Tân An",
+    "name_en": "Tan An",
+    "full_name": "Xã Tân An",
+    "full_name_en": "Tan An Commune",
+    "type": "xã",
+    "district_code": "904",
+    "codename": "tan_an"
+  },
+  {
+    "code": "30874",
+    "name": "Thạnh Đông A",
+    "name_en": "Thanh Dong A",
+    "full_name": "Xã Thạnh Đông A",
+    "full_name_en": "Thanh Dong A Commune",
+    "type": "xã",
+    "district_code": "904",
+    "codename": "thanh_dong_a"
+  },
+  {
+    "code": "30877",
+    "name": "Thạnh Trị",
+    "name_en": "Thanh Tri",
+    "full_name": "Xã Thạnh Trị",
+    "full_name_en": "Thanh Tri Commune",
+    "type": "xã",
+    "district_code": "904",
+    "codename": "thanh_tri"
+  }
+]

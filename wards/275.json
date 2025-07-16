@@ -1,0 +1,172 @@
+[
+  {
+    "code": "04939",
+    "name": "Đông Xuân",
+    "name_en": "Dong Xuan",
+    "full_name": "Xã Đông Xuân",
+    "full_name_en": "Dong Xuan Commune",
+    "type": "xã",
+    "district_code": "275",
+    "codename": "dong_xuan"
+  },
+  {
+    "code": "09895",
+    "name": "Quốc Oai",
+    "name_en": "Quoc Oai",
+    "full_name": "Thị trấn Quốc Oai",
+    "full_name_en": "Quoc Oai Township",
+    "type": "thị trấn",
+    "district_code": "275",
+    "codename": "quoc_oai"
+  },
+  {
+    "code": "09898",
+    "name": "Sài Sơn",
+    "name_en": "Sai Son",
+    "full_name": "Xã Sài Sơn",
+    "full_name_en": "Sai Son Commune",
+    "type": "xã",
+    "district_code": "275",
+    "codename": "sai_son"
+  },
+  {
+    "code": "09904",
+    "name": "Phượng Sơn",
+    "name_en": "Phuong Son",
+    "full_name": "Xã Phượng Sơn",
+    "full_name_en": "Phuong Son Commune",
+    "type": "xã",
+    "district_code": "275",
+    "codename": "phuong_son"
+  },
+  {
+    "code": "09907",
+    "name": "Ngọc Liệp",
+    "name_en": "Ngoc Liep",
+    "full_name": "Xã Ngọc Liệp",
+    "full_name_en": "Ngoc Liep Commune",
+    "type": "xã",
+    "district_code": "275",
+    "codename": "ngoc_liep"
+  },
+  {
+    "code": "09910",
+    "name": "Ngọc Mỹ",
+    "name_en": "Ngoc My",
+    "full_name": "Xã Ngọc Mỹ",
+    "full_name_en": "Ngoc My Commune",
+    "type": "xã",
+    "district_code": "275",
+    "codename": "ngoc_my"
+  },
+  {
+    "code": "09916",
+    "name": "Thạch Thán",
+    "name_en": "Thach Than",
+    "full_name": "Xã Thạch Thán",
+    "full_name_en": "Thach Than Commune",
+    "type": "xã",
+    "district_code": "275",
+    "codename": "thach_than"
+  },
+  {
+    "code": "09919",
+    "name": "Đồng Quang",
+    "name_en": "Dong Quang",
+    "full_name": "Xã Đồng Quang",
+    "full_name_en": "Dong Quang Commune",
+    "type": "xã",
+    "district_code": "275",
+    "codename": "dong_quang"
+  },
+  {
+    "code": "09922",
+    "name": "Phú Cát",
+    "name_en": "Phu Cat",
+    "full_name": "Xã Phú Cát",
+    "full_name_en": "Phu Cat Commune",
+    "type": "xã",
+    "district_code": "275",
+    "codename": "phu_cat"
+  },
+  {
+    "code": "09925",
+    "name": "Tuyết Nghĩa",
+    "name_en": "Tuyet Nghia",
+    "full_name": "Xã Tuyết Nghĩa",
+    "full_name_en": "Tuyet Nghia Commune",
+    "type": "xã",
+    "district_code": "275",
+    "codename": "tuyet_nghia"
+  },
+  {
+    "code": "09928",
+    "name": "Liệp Nghĩa",
+    "name_en": "Liep Nghia",
+    "full_name": "Xã Liệp Nghĩa",
+    "full_name_en": "Liep Nghia Commune",
+    "type": "xã",
+    "district_code": "275",
+    "codename": "liep_nghia"
+  },
+  {
+    "code": "09931",
+    "name": "Cộng Hòa",
+    "name_en": "Cong Hoa",
+    "full_name": "Xã Cộng Hòa",
+    "full_name_en": "Cong Hoa Commune",
+    "type": "xã",
+    "district_code": "275",
+    "codename": "cong_hoa"
+  },
+  {
+    "code": "09934",
+    "name": "Hưng Đạo",
+    "name_en": "Hung Dao",
+    "full_name": "Xã Hưng Đạo",
+    "full_name_en": "Hung Dao Commune",
+    "type": "xã",
+    "district_code": "275",
+    "codename": "hung_dao"
+  },
+  {
+    "code": "09940",
+    "name": "Phú Mãn",
+    "name_en": "Phu Man",
+    "full_name": "Xã Phú Mãn",
+    "full_name_en": "Phu Man Commune",
+    "type": "xã",
+    "district_code": "275",
+    "codename": "phu_man"
+  },
+  {
+    "code": "09943",
+    "name": "Cấn Hữu",
+    "name_en": "Can Huu",
+    "full_name": "Xã Cấn Hữu",
+    "full_name_en": "Can Huu Commune",
+    "type": "xã",
+    "district_code": "275",
+    "codename": "can_huu"
+  },
+  {
+    "code": "09949",
+    "name": "Hòa Thạch",
+    "name_en": "Hoa Thach",
+    "full_name": "Xã Hòa Thạch",
+    "full_name_en": "Hoa Thach Commune",
+    "type": "xã",
+    "district_code": "275",
+    "codename": "hoa_thach"
+  },
+  {
+    "code": "09952",
+    "name": "Đông Yên",
+    "name_en": "Dong Yen",
+    "full_name": "Xã Đông Yên",
+    "full_name_en": "Dong Yen Commune",
+    "type": "xã",
+    "district_code": "275",
+    "codename": "dong_yen"
+  }
+]

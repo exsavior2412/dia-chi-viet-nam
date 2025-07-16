@@ -1,0 +1,222 @@
+[
+  {
+    "code": "18409",
+    "name": "Tân Lộc",
+    "name_en": "Tan Loc",
+    "full_name": "Xã Tân Lộc",
+    "full_name_en": "Tan Loc Commune",
+    "type": "xã",
+    "district_code": "445",
+    "codename": "tan_loc"
+  },
+  {
+    "code": "18412",
+    "name": "Hồng Lộc",
+    "name_en": "Hong Loc",
+    "full_name": "Xã Hồng Lộc",
+    "full_name_en": "Hong Loc Commune",
+    "type": "xã",
+    "district_code": "445",
+    "codename": "hong_loc"
+  },
+  {
+    "code": "18421",
+    "name": "Thịnh Lộc",
+    "name_en": "Thinh Loc",
+    "full_name": "Xã Thịnh Lộc",
+    "full_name_en": "Thinh Loc Commune",
+    "type": "xã",
+    "district_code": "445",
+    "codename": "thinh_loc"
+  },
+  {
+    "code": "18430",
+    "name": "Bình An",
+    "name_en": "Binh An",
+    "full_name": "Xã Bình An",
+    "full_name_en": "Binh An Commune",
+    "type": "xã",
+    "district_code": "445",
+    "codename": "binh_an"
+  },
+  {
+    "code": "18457",
+    "name": "Ích Hậu",
+    "name_en": "Ich Hau",
+    "full_name": "Xã Ích Hậu",
+    "full_name_en": "Ich Hau Commune",
+    "type": "xã",
+    "district_code": "445",
+    "codename": "ich_hau"
+  },
+  {
+    "code": "18493",
+    "name": "Phù Lưu",
+    "name_en": "Phu Luu",
+    "full_name": "Xã Phù Lưu",
+    "full_name_en": "Phu Luu Commune",
+    "type": "xã",
+    "district_code": "445",
+    "codename": "phu_luu"
+  },
+  {
+    "code": "18562",
+    "name": "Thạch Hà",
+    "name_en": "Thach Ha",
+    "full_name": "Thị trấn Thạch Hà",
+    "full_name_en": "Thach Ha Township",
+    "type": "thị trấn",
+    "district_code": "445",
+    "codename": "thach_ha"
+  },
+  {
+    "code": "18565",
+    "name": "Ngọc Sơn",
+    "name_en": "Ngoc Son",
+    "full_name": "Xã Ngọc Sơn",
+    "full_name_en": "Ngoc Son Commune",
+    "type": "xã",
+    "district_code": "445",
+    "codename": "ngoc_son"
+  },
+  {
+    "code": "18568",
+    "name": "Lộc Hà",
+    "name_en": "Loc Ha",
+    "full_name": "Thị trấn Lộc Hà",
+    "full_name_en": "Loc Ha Township",
+    "type": "thị trấn",
+    "district_code": "445",
+    "codename": "loc_ha"
+  },
+  {
+    "code": "18577",
+    "name": "Thạch Mỹ",
+    "name_en": "Thach My",
+    "full_name": "Xã Thạch Mỹ",
+    "full_name_en": "Thach My Commune",
+    "type": "xã",
+    "district_code": "445",
+    "codename": "thach_my"
+  },
+  {
+    "code": "18580",
+    "name": "Thạch Kim",
+    "name_en": "Thach Kim",
+    "full_name": "Xã Thạch Kim",
+    "full_name_en": "Thach Kim Commune",
+    "type": "xã",
+    "district_code": "445",
+    "codename": "thach_kim"
+  },
+  {
+    "code": "18583",
+    "name": "Thạch Châu",
+    "name_en": "Thach Chau",
+    "full_name": "Xã Thạch Châu",
+    "full_name_en": "Thach Chau Commune",
+    "type": "xã",
+    "district_code": "445",
+    "codename": "thach_chau"
+  },
+  {
+    "code": "18586",
+    "name": "Thạch Kênh",
+    "name_en": "Thach Kenh",
+    "full_name": "Xã Thạch Kênh",
+    "full_name_en": "Thach Kenh Commune",
+    "type": "xã",
+    "district_code": "445",
+    "codename": "thach_kenh"
+  },
+  {
+    "code": "18589",
+    "name": "Thạch Sơn",
+    "name_en": "Thach Son",
+    "full_name": "Xã Thạch Sơn",
+    "full_name_en": "Thach Son Commune",
+    "type": "xã",
+    "district_code": "445",
+    "codename": "thach_son"
+  },
+  {
+    "code": "18592",
+    "name": "Thạch Liên",
+    "name_en": "Thach Lien",
+    "full_name": "Xã Thạch Liên",
+    "full_name_en": "Thach Lien Commune",
+    "type": "xã",
+    "district_code": "445",
+    "codename": "thach_lien"
+  },
+  {
+    "code": "18601",
+    "name": "Việt Tiến",
+    "name_en": "Viet Tien",
+    "full_name": "Xã Việt Tiến",
+    "full_name_en": "Viet Tien Commune",
+    "type": "xã",
+    "district_code": "445",
+    "codename": "viet_tien"
+  },
+  {
+    "code": "18607",
+    "name": "Thạch Long",
+    "name_en": "Thach Long",
+    "full_name": "Xã Thạch Long",
+    "full_name_en": "Thach Long Commune",
+    "type": "xã",
+    "district_code": "445",
+    "codename": "thach_long"
+  },
+  {
+    "code": "18625",
+    "name": "Thạch Ngọc",
+    "name_en": "Thach Ngoc",
+    "full_name": "Xã Thạch Ngọc",
+    "full_name_en": "Thach Ngoc Commune",
+    "type": "xã",
+    "district_code": "445",
+    "codename": "thach_ngoc"
+  },
+  {
+    "code": "18634",
+    "name": "Lưu Vĩnh Sơn",
+    "name_en": "Luu Vinh Son",
+    "full_name": "Xã Lưu Vĩnh Sơn",
+    "full_name_en": "Luu Vinh Son Commune",
+    "type": "xã",
+    "district_code": "445",
+    "codename": "luu_vinh_son"
+  },
+  {
+    "code": "18658",
+    "name": "Thạch Xuân",
+    "name_en": "Thach Xuan",
+    "full_name": "Xã Thạch Xuân",
+    "full_name_en": "Thach Xuan Commune",
+    "type": "xã",
+    "district_code": "445",
+    "codename": "thach_xuan"
+  },
+  {
+    "code": "18667",
+    "name": "Nam Điền",
+    "name_en": "Nam Dien",
+    "full_name": "Xã Nam Điền",
+    "full_name_en": "Nam Dien Commune",
+    "type": "xã",
+    "district_code": "445",
+    "codename": "nam_dien"
+  },
+  {
+    "code": "18670",
+    "name": "Mai Phụ",
+    "name_en": "Mai Phu",
+    "full_name": "Xã Mai Phụ",
+    "full_name_en": "Mai Phu Commune",
+    "type": "xã",
+    "district_code": "445",
+    "codename": "mai_phu"
+  }
+]

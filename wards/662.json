@@ -1,0 +1,82 @@
+[
+  {
+    "code": "24640",
+    "name": "Ea T'Ling",
+    "name_en": "Ea T'Ling",
+    "full_name": "Thị trấn Ea T'Ling",
+    "full_name_en": "Ea T'Ling Township",
+    "type": "thị trấn",
+    "district_code": "662",
+    "codename": "ea_tling"
+  },
+  {
+    "code": "24643",
+    "name": "Đắk Wil",
+    "name_en": "Dak Wil",
+    "full_name": "Xã Đắk Wil",
+    "full_name_en": "Dak Wil Commune",
+    "type": "xã",
+    "district_code": "662",
+    "codename": "dak_wil"
+  },
+  {
+    "code": "24646",
+    "name": "Ea Pô",
+    "name_en": "Ea Po",
+    "full_name": "Xã Ea Pô",
+    "full_name_en": "Ea Po Commune",
+    "type": "xã",
+    "district_code": "662",
+    "codename": "ea_po"
+  },
+  {
+    "code": "24649",
+    "name": "Nam Dong",
+    "name_en": "Nam Dong",
+    "full_name": "Xã Nam Dong",
+    "full_name_en": "Nam Dong Commune",
+    "type": "xã",
+    "district_code": "662",
+    "codename": "nam_dong"
+  },
+  {
+    "code": "24652",
+    "name": "Đắk DRông",
+    "name_en": "Dak DRong",
+    "full_name": "Xã Đắk DRông",
+    "full_name_en": "Dak DRong Commune",
+    "type": "xã",
+    "district_code": "662",
+    "codename": "dak_drong"
+  },
+  {
+    "code": "24655",
+    "name": "Tâm Thắng",
+    "name_en": "Tam Thang",
+    "full_name": "Xã Tâm Thắng",
+    "full_name_en": "Tam Thang Commune",
+    "type": "xã",
+    "district_code": "662",
+    "codename": "tam_thang"
+  },
+  {
+    "code": "24658",
+    "name": "Cư Knia",
+    "name_en": "Cu Knia",
+    "full_name": "Xã Cư Knia",
+    "full_name_en": "Cu Knia Commune",
+    "type": "xã",
+    "district_code": "662",
+    "codename": "cu_knia"
+  },
+  {
+    "code": "24661",
+    "name": "Trúc Sơn",
+    "name_en": "Truc Son",
+    "full_name": "Xã Trúc Sơn",
+    "full_name_en": "Truc Son Commune",
+    "type": "xã",
+    "district_code": "662",
+    "codename": "truc_son"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "code": "21010",
+    "name": "Lê Hồng Phong",
+    "name_en": "Le Hong Phong",
+    "full_name": "Phường Lê Hồng Phong",
+    "full_name_en": "Le Hong Phong Ward",
+    "type": "phường",
+    "district_code": "522",
+    "codename": "le_hong_phong"
+  },
+  {
+    "code": "21013",
+    "name": "Trần Phú",
+    "name_en": "Tran Phu",
+    "full_name": "Phường Trần Phú",
+    "full_name_en": "Tran Phu Ward",
+    "type": "phường",
+    "district_code": "522",
+    "codename": "tran_phu"
+  },
+  {
+    "code": "21016",
+    "name": "Quảng Phú",
+    "name_en": "Quang Phu",
+    "full_name": "Phường Quảng Phú",
+    "full_name_en": "Quang Phu Ward",
+    "type": "phường",
+    "district_code": "522",
+    "codename": "quang_phu"
+  },
+  {
+    "code": "21019",
+    "name": "Nghĩa Chánh",
+    "name_en": "Nghia Chanh",
+    "full_name": "Phường Nghĩa Chánh",
+    "full_name_en": "Nghia Chanh Ward",
+    "type": "phường",
+    "district_code": "522",
+    "codename": "nghia_chanh"
+  },
+  {
+    "code": "21022",
+    "name": "Trần Hưng Đạo",
+    "name_en": "Tran Hung Dao",
+    "full_name": "Phường Trần Hưng Đạo",
+    "full_name_en": "Tran Hung Dao Ward",
+    "type": "phường",
+    "district_code": "522",
+    "codename": "tran_hung_dao"
+  },
+  {
+    "code": "21025",
+    "name": "Nguyễn Nghiêm",
+    "name_en": "Nguyen Nghiem",
+    "full_name": "Phường Nguyễn Nghiêm",
+    "full_name_en": "Nguyen Nghiem Ward",
+    "type": "phường",
+    "district_code": "522",
+    "codename": "nguyen_nghiem"
+  },
+  {
+    "code": "21028",
+    "name": "Nghĩa Lộ",
+    "name_en": "Nghia Lo",
+    "full_name": "Phường Nghĩa Lộ",
+    "full_name_en": "Nghia Lo Ward",
+    "type": "phường",
+    "district_code": "522",
+    "codename": "nghia_lo"
+  },
+  {
+    "code": "21031",
+    "name": "Chánh Lộ",
+    "name_en": "Chanh Lo",
+    "full_name": "Phường Chánh Lộ",
+    "full_name_en": "Chanh Lo Ward",
+    "type": "phường",
+    "district_code": "522",
+    "codename": "chanh_lo"
+  },
+  {
+    "code": "21034",
+    "name": "Nghĩa Dũng",
+    "name_en": "Nghia Dung",
+    "full_name": "Xã Nghĩa Dũng",
+    "full_name_en": "Nghia Dung Commune",
+    "type": "xã",
+    "district_code": "522",
+    "codename": "nghia_dung"
+  },
+  {
+    "code": "21037",
+    "name": "Nghĩa Dõng",
+    "name_en": "Nghia Dong",
+    "full_name": "Xã Nghĩa Dõng",
+    "full_name_en": "Nghia Dong Commune",
+    "type": "xã",
+    "district_code": "522",
+    "codename": "nghia_dong"
+  },
+  {
+    "code": "21172",
+    "name": "Trương Quang Trọng",
+    "name_en": "Truong Quang Trong",
+    "full_name": "Phường Trương Quang Trọng",
+    "full_name_en": "Truong Quang Trong Ward",
+    "type": "phường",
+    "district_code": "522",
+    "codename": "truong_quang_trong"
+  },
+  {
+    "code": "21187",
+    "name": "Tịnh Hòa",
+    "name_en": "Tinh Hoa",
+    "full_name": "Xã Tịnh Hòa",
+    "full_name_en": "Tinh Hoa Commune",
+    "type": "xã",
+    "district_code": "522",
+    "codename": "tinh_hoa"
+  },
+  {
+    "code": "21190",
+    "name": "Tịnh Kỳ",
+    "name_en": "Tinh Ky",
+    "full_name": "Xã Tịnh Kỳ",
+    "full_name_en": "Tinh Ky Commune",
+    "type": "xã",
+    "district_code": "522",
+    "codename": "tinh_ky"
+  },
+  {
+    "code": "21199",
+    "name": "Tịnh Thiện",
+    "name_en": "Tinh Thien",
+    "full_name": "Xã Tịnh Thiện",
+    "full_name_en": "Tinh Thien Commune",
+    "type": "xã",
+    "district_code": "522",
+    "codename": "tinh_thien"
+  },
+  {
+    "code": "21202",
+    "name": "Tịnh Ấn Đông",
+    "name_en": "Tinh An Dong",
+    "full_name": "Xã Tịnh Ấn Đông",
+    "full_name_en": "Tinh An Dong Commune",
+    "type": "xã",
+    "district_code": "522",
+    "codename": "tinh_an_dong"
+  },
+  {
+    "code": "21208",
+    "name": "Tịnh Châu",
+    "name_en": "Tinh Chau",
+    "full_name": "Xã Tịnh Châu",
+    "full_name_en": "Tinh Chau Commune",
+    "type": "xã",
+    "district_code": "522",
+    "codename": "tinh_chau"
+  },
+  {
+    "code": "21211",
+    "name": "Tịnh Khê",
+    "name_en": "Tinh Khe",
+    "full_name": "Xã Tịnh Khê",
+    "full_name_en": "Tinh Khe Commune",
+    "type": "xã",
+    "district_code": "522",
+    "codename": "tinh_khe"
+  },
+  {
+    "code": "21214",
+    "name": "Tịnh Long",
+    "name_en": "Tinh Long",
+    "full_name": "Xã Tịnh Long",
+    "full_name_en": "Tinh Long Commune",
+    "type": "xã",
+    "district_code": "522",
+    "codename": "tinh_long"
+  },
+  {
+    "code": "21223",
+    "name": "Tịnh Ấn Tây",
+    "name_en": "Tinh An Tay",
+    "full_name": "Xã Tịnh Ấn Tây",
+    "full_name_en": "Tinh An Tay Commune",
+    "type": "xã",
+    "district_code": "522",
+    "codename": "tinh_an_tay"
+  },
+  {
+    "code": "21232",
+    "name": "Tịnh An",
+    "name_en": "Tinh An",
+    "full_name": "Xã Tịnh An",
+    "full_name_en": "Tinh An Commune",
+    "type": "xã",
+    "district_code": "522",
+    "codename": "tinh_an"
+  },
+  {
+    "code": "21256",
+    "name": "Nghĩa Hà",
+    "name_en": "Nghia Ha",
+    "full_name": "Xã Nghĩa Hà",
+    "full_name_en": "Nghia Ha Commune",
+    "type": "xã",
+    "district_code": "522",
+    "codename": "nghia_ha"
+  },
+  {
+    "code": "21262",
+    "name": "An Phú",
+    "name_en": "An Phu",
+    "full_name": "Xã An Phú",
+    "full_name_en": "An Phu Commune",
+    "type": "xã",
+    "district_code": "522",
+    "codename": "an_phu"
+  }
+]

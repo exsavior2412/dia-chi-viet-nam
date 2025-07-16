@@ -1,0 +1,122 @@
+[
+  {
+    "code": "436",
+    "name": "Hà Tĩnh",
+    "name_en": "Ha Tinh",
+    "full_name": "Thành phố Hà Tĩnh",
+    "full_name_en": "Ha Tinh City",
+    "type": "thành phố",
+    "province_code": "42",
+    "codename": "ha_tinh"
+  },
+  {
+    "code": "437",
+    "name": "Hồng Lĩnh",
+    "name_en": "Hong Linh",
+    "full_name": "Thị xã Hồng Lĩnh",
+    "full_name_en": "Hong Linh Town",
+    "type": "thị xã",
+    "province_code": "42",
+    "codename": "hong_linh"
+  },
+  {
+    "code": "439",
+    "name": "Hương Sơn",
+    "name_en": "Huong Son",
+    "full_name": "Huyện Hương Sơn",
+    "full_name_en": "Huong Son District",
+    "type": "huyện",
+    "province_code": "42",
+    "codename": "huong_son"
+  },
+  {
+    "code": "440",
+    "name": "Đức Thọ",
+    "name_en": "Duc Tho",
+    "full_name": "Huyện Đức Thọ",
+    "full_name_en": "Duc Tho District",
+    "type": "huyện",
+    "province_code": "42",
+    "codename": "duc_tho"
+  },
+  {
+    "code": "441",
+    "name": "Vũ Quang",
+    "name_en": "Vu Quang",
+    "full_name": "Huyện Vũ Quang",
+    "full_name_en": "Vu Quang District",
+    "type": "huyện",
+    "province_code": "42",
+    "codename": "vu_quang"
+  },
+  {
+    "code": "442",
+    "name": "Nghi Xuân",
+    "name_en": "Nghi Xuan",
+    "full_name": "Huyện Nghi Xuân",
+    "full_name_en": "Nghi Xuan District",
+    "type": "huyện",
+    "province_code": "42",
+    "codename": "nghi_xuan"
+  },
+  {
+    "code": "443",
+    "name": "Can Lộc",
+    "name_en": "Can Loc",
+    "full_name": "Huyện Can Lộc",
+    "full_name_en": "Can Loc District",
+    "type": "huyện",
+    "province_code": "42",
+    "codename": "can_loc"
+  },
+  {
+    "code": "444",
+    "name": "Hương Khê",
+    "name_en": "Huong Khe",
+    "full_name": "Huyện Hương Khê",
+    "full_name_en": "Huong Khe District",
+    "type": "huyện",
+    "province_code": "42",
+    "codename": "huong_khe"
+  },
+  {
+    "code": "445",
+    "name": "Thạch Hà",
+    "name_en": "Thach Ha",
+    "full_name": "Huyện Thạch Hà",
+    "full_name_en": "Thach Ha District",
+    "type": "huyện",
+    "province_code": "42",
+    "codename": "thach_ha"
+  },
+  {
+    "code": "446",
+    "name": "Cẩm Xuyên",
+    "name_en": "Cam Xuyen",
+    "full_name": "Huyện Cẩm Xuyên",
+    "full_name_en": "Cam Xuyen District",
+    "type": "huyện",
+    "province_code": "42",
+    "codename": "cam_xuyen"
+  },
+  {
+    "code": "447",
+    "name": "Kỳ Anh",
+    "name_en": "Ky Anh",
+    "full_name": "Huyện Kỳ Anh",
+    "full_name_en": "Ky Anh District",
+    "type": "huyện",
+    "province_code": "42",
+    "codename": "ky_anh"
+  },
+  {
+    "code": "449",
+    "name": "Kỳ Anh",
+    "name_en": "Ky Anh",
+    "full_name": "Thị xã Kỳ Anh",
+    "full_name_en": "Ky Anh Town",
+    "type": "thị xã",
+    "province_code": "42",
+    "codename": "ky_anh"
+  }
+]

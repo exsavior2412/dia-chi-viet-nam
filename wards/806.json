@@ -1,0 +1,172 @@
+[
+  {
+    "code": "28108",
+    "name": "Cần Đước",
+    "name_en": "Can Duoc",
+    "full_name": "Thị trấn Cần Đước",
+    "full_name_en": "Can Duoc Township",
+    "type": "thị trấn",
+    "district_code": "806",
+    "codename": "can_duoc"
+  },
+  {
+    "code": "28111",
+    "name": "Long Trạch",
+    "name_en": "Long Trach",
+    "full_name": "Xã Long Trạch",
+    "full_name_en": "Long Trach Commune",
+    "type": "xã",
+    "district_code": "806",
+    "codename": "long_trach"
+  },
+  {
+    "code": "28114",
+    "name": "Long Khê",
+    "name_en": "Long Khe",
+    "full_name": "Xã Long Khê",
+    "full_name_en": "Long Khe Commune",
+    "type": "xã",
+    "district_code": "806",
+    "codename": "long_khe"
+  },
+  {
+    "code": "28117",
+    "name": "Long Định",
+    "name_en": "Long Dinh",
+    "full_name": "Xã Long Định",
+    "full_name_en": "Long Dinh Commune",
+    "type": "xã",
+    "district_code": "806",
+    "codename": "long_dinh"
+  },
+  {
+    "code": "28120",
+    "name": "Phước Vân",
+    "name_en": "Phuoc Van",
+    "full_name": "Xã Phước Vân",
+    "full_name_en": "Phuoc Van Commune",
+    "type": "xã",
+    "district_code": "806",
+    "codename": "phuoc_van"
+  },
+  {
+    "code": "28123",
+    "name": "Long Hòa",
+    "name_en": "Long Hoa",
+    "full_name": "Xã Long Hòa",
+    "full_name_en": "Long Hoa Commune",
+    "type": "xã",
+    "district_code": "806",
+    "codename": "long_hoa"
+  },
+  {
+    "code": "28126",
+    "name": "Long Cang",
+    "name_en": "Long Cang",
+    "full_name": "Xã Long Cang",
+    "full_name_en": "Long Cang Commune",
+    "type": "xã",
+    "district_code": "806",
+    "codename": "long_cang"
+  },
+  {
+    "code": "28129",
+    "name": "Long Sơn",
+    "name_en": "Long Son",
+    "full_name": "Xã Long Sơn",
+    "full_name_en": "Long Son Commune",
+    "type": "xã",
+    "district_code": "806",
+    "codename": "long_son"
+  },
+  {
+    "code": "28132",
+    "name": "Tân Trạch",
+    "name_en": "Tan Trach",
+    "full_name": "Xã Tân Trạch",
+    "full_name_en": "Tan Trach Commune",
+    "type": "xã",
+    "district_code": "806",
+    "codename": "tan_trach"
+  },
+  {
+    "code": "28135",
+    "name": "Mỹ Lệ",
+    "name_en": "My Le",
+    "full_name": "Xã Mỹ Lệ",
+    "full_name_en": "My Le Commune",
+    "type": "xã",
+    "district_code": "806",
+    "codename": "my_le"
+  },
+  {
+    "code": "28138",
+    "name": "Tân Lân",
+    "name_en": "Tan Lan",
+    "full_name": "Xã Tân Lân",
+    "full_name_en": "Tan Lan Commune",
+    "type": "xã",
+    "district_code": "806",
+    "codename": "tan_lan"
+  },
+  {
+    "code": "28141",
+    "name": "Phước Tuy",
+    "name_en": "Phuoc Tuy",
+    "full_name": "Xã Phước Tuy",
+    "full_name_en": "Phuoc Tuy Commune",
+    "type": "xã",
+    "district_code": "806",
+    "codename": "phuoc_tuy"
+  },
+  {
+    "code": "28144",
+    "name": "Long Hựu Đông",
+    "name_en": "Long Huu Dong",
+    "full_name": "Xã Long Hựu Đông",
+    "full_name_en": "Long Huu Dong Commune",
+    "type": "xã",
+    "district_code": "806",
+    "codename": "long_huu_dong"
+  },
+  {
+    "code": "28147",
+    "name": "Tân Ân",
+    "name_en": "Tan An",
+    "full_name": "Xã Tân Ân",
+    "full_name_en": "Tan An Commune",
+    "type": "xã",
+    "district_code": "806",
+    "codename": "tan_an"
+  },
+  {
+    "code": "28150",
+    "name": "Phước Đông",
+    "name_en": "Phuoc Dong",
+    "full_name": "Xã Phước Đông",
+    "full_name_en": "Phuoc Dong Commune",
+    "type": "xã",
+    "district_code": "806",
+    "codename": "phuoc_dong"
+  },
+  {
+    "code": "28153",
+    "name": "Long Hựu Tây",
+    "name_en": "Long Huu Tay",
+    "full_name": "Xã Long Hựu Tây",
+    "full_name_en": "Long Huu Tay Commune",
+    "type": "xã",
+    "district_code": "806",
+    "codename": "long_huu_tay"
+  },
+  {
+    "code": "28156",
+    "name": "Tân Chánh",
+    "name_en": "Tan Chanh",
+    "full_name": "Xã Tân Chánh",
+    "full_name_en": "Tan Chanh Commune",
+    "type": "xã",
+    "district_code": "806",
+    "codename": "tan_chanh"
+  }
+]

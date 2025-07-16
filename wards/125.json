@@ -1,0 +1,222 @@
+[
+  {
+    "code": "04105",
+    "name": "Hát Lót",
+    "name_en": "Hat Lot",
+    "full_name": "Thị trấn Hát Lót",
+    "full_name_en": "Hat Lot Township",
+    "type": "thị trấn",
+    "district_code": "125",
+    "codename": "hat_lot"
+  },
+  {
+    "code": "04108",
+    "name": "Chiềng Sung",
+    "name_en": "Chieng Sung",
+    "full_name": "Xã Chiềng Sung",
+    "full_name_en": "Chieng Sung Commune",
+    "type": "xã",
+    "district_code": "125",
+    "codename": "chieng_sung"
+  },
+  {
+    "code": "04111",
+    "name": "Mường Bằng",
+    "name_en": "Muong Bang",
+    "full_name": "Xã Mường Bằng",
+    "full_name_en": "Muong Bang Commune",
+    "type": "xã",
+    "district_code": "125",
+    "codename": "muong_bang"
+  },
+  {
+    "code": "04114",
+    "name": "Chiềng Chăn",
+    "name_en": "Chieng Chan",
+    "full_name": "Xã Chiềng Chăn",
+    "full_name_en": "Chieng Chan Commune",
+    "type": "xã",
+    "district_code": "125",
+    "codename": "chieng_chan"
+  },
+  {
+    "code": "04117",
+    "name": "Mường Chanh",
+    "name_en": "Muong Chanh",
+    "full_name": "Xã Mường Chanh",
+    "full_name_en": "Muong Chanh Commune",
+    "type": "xã",
+    "district_code": "125",
+    "codename": "muong_chanh"
+  },
+  {
+    "code": "04120",
+    "name": "Chiềng Ban",
+    "name_en": "Chieng Ban",
+    "full_name": "Xã Chiềng Ban",
+    "full_name_en": "Chieng Ban Commune",
+    "type": "xã",
+    "district_code": "125",
+    "codename": "chieng_ban"
+  },
+  {
+    "code": "04123",
+    "name": "Chiềng Mung",
+    "name_en": "Chieng Mung",
+    "full_name": "Xã Chiềng Mung",
+    "full_name_en": "Chieng Mung Commune",
+    "type": "xã",
+    "district_code": "125",
+    "codename": "chieng_mung"
+  },
+  {
+    "code": "04126",
+    "name": "Mường Bon",
+    "name_en": "Muong Bon",
+    "full_name": "Xã Mường Bon",
+    "full_name_en": "Muong Bon Commune",
+    "type": "xã",
+    "district_code": "125",
+    "codename": "muong_bon"
+  },
+  {
+    "code": "04129",
+    "name": "Chiềng Chung",
+    "name_en": "Chieng Chung",
+    "full_name": "Xã Chiềng Chung",
+    "full_name_en": "Chieng Chung Commune",
+    "type": "xã",
+    "district_code": "125",
+    "codename": "chieng_chung"
+  },
+  {
+    "code": "04132",
+    "name": "Chiềng Mai",
+    "name_en": "Chieng Mai",
+    "full_name": "Xã Chiềng Mai",
+    "full_name_en": "Chieng Mai Commune",
+    "type": "xã",
+    "district_code": "125",
+    "codename": "chieng_mai"
+  },
+  {
+    "code": "04135",
+    "name": "Hát Lót",
+    "name_en": "Hat Lot",
+    "full_name": "Xã Hát Lót",
+    "full_name_en": "Hat Lot Commune",
+    "type": "xã",
+    "district_code": "125",
+    "codename": "hat_lot"
+  },
+  {
+    "code": "04136",
+    "name": "Nà Bó",
+    "name_en": "Na Bo",
+    "full_name": "Xã Nà Bó",
+    "full_name_en": "Na Bo Commune",
+    "type": "xã",
+    "district_code": "125",
+    "codename": "na_bo"
+  },
+  {
+    "code": "04138",
+    "name": "Cò Nòi",
+    "name_en": "Co Noi",
+    "full_name": "Xã Cò Nòi",
+    "full_name_en": "Co Noi Commune",
+    "type": "xã",
+    "district_code": "125",
+    "codename": "co_noi"
+  },
+  {
+    "code": "04141",
+    "name": "Chiềng Nơi",
+    "name_en": "Chieng Noi",
+    "full_name": "Xã Chiềng Nơi",
+    "full_name_en": "Chieng Noi Commune",
+    "type": "xã",
+    "district_code": "125",
+    "codename": "chieng_noi"
+  },
+  {
+    "code": "04144",
+    "name": "Phiêng Cằm",
+    "name_en": "Phieng Cam",
+    "full_name": "Xã Phiêng Cằm",
+    "full_name_en": "Phieng Cam Commune",
+    "type": "xã",
+    "district_code": "125",
+    "codename": "phieng_cam"
+  },
+  {
+    "code": "04147",
+    "name": "Chiềng Dong",
+    "name_en": "Chieng Dong",
+    "full_name": "Xã Chiềng Dong",
+    "full_name_en": "Chieng Dong Commune",
+    "type": "xã",
+    "district_code": "125",
+    "codename": "chieng_dong"
+  },
+  {
+    "code": "04150",
+    "name": "Chiềng Kheo",
+    "name_en": "Chieng Kheo",
+    "full_name": "Xã Chiềng Kheo",
+    "full_name_en": "Chieng Kheo Commune",
+    "type": "xã",
+    "district_code": "125",
+    "codename": "chieng_kheo"
+  },
+  {
+    "code": "04153",
+    "name": "Chiềng Ve",
+    "name_en": "Chieng Ve",
+    "full_name": "Xã Chiềng Ve",
+    "full_name_en": "Chieng Ve Commune",
+    "type": "xã",
+    "district_code": "125",
+    "codename": "chieng_ve"
+  },
+  {
+    "code": "04156",
+    "name": "Chiềng Lương",
+    "name_en": "Chieng Luong",
+    "full_name": "Xã Chiềng Lương",
+    "full_name_en": "Chieng Luong Commune",
+    "type": "xã",
+    "district_code": "125",
+    "codename": "chieng_luong"
+  },
+  {
+    "code": "04159",
+    "name": "Phiêng Pằn",
+    "name_en": "Phieng Pan",
+    "full_name": "Xã Phiêng Pằn",
+    "full_name_en": "Phieng Pan Commune",
+    "type": "xã",
+    "district_code": "125",
+    "codename": "phieng_pan"
+  },
+  {
+    "code": "04162",
+    "name": "Nà Ơt",
+    "name_en": "Na Ot",
+    "full_name": "Xã Nà Ơt",
+    "full_name_en": "Na Ot Commune",
+    "type": "xã",
+    "district_code": "125",
+    "codename": "na_ot"
+  },
+  {
+    "code": "04165",
+    "name": "Tà Hộc",
+    "name_en": "Ta Hoc",
+    "full_name": "Xã Tà Hộc",
+    "full_name_en": "Ta Hoc Commune",
+    "type": "xã",
+    "district_code": "125",
+    "codename": "ta_hoc"
+  }
+]

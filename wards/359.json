@@ -1,0 +1,142 @@
+[
+  {
+    "code": "13741",
+    "name": "Gôi",
+    "name_en": "Goi",
+    "full_name": "Thị trấn Gôi",
+    "full_name_en": "Goi Township",
+    "type": "thị trấn",
+    "district_code": "359",
+    "codename": "goi"
+  },
+  {
+    "code": "13747",
+    "name": "Hiển Khánh",
+    "name_en": "Hien Khanh",
+    "full_name": "Xã Hiển Khánh",
+    "full_name_en": "Hien Khanh Commune",
+    "type": "xã",
+    "district_code": "359",
+    "codename": "hien_khanh"
+  },
+  {
+    "code": "13750",
+    "name": "Minh Tân",
+    "name_en": "Minh Tan",
+    "full_name": "Xã Minh Tân",
+    "full_name_en": "Minh Tan Commune",
+    "type": "xã",
+    "district_code": "359",
+    "codename": "minh_tan"
+  },
+  {
+    "code": "13753",
+    "name": "Hợp Hưng",
+    "name_en": "Hop Hung",
+    "full_name": "Xã Hợp Hưng",
+    "full_name_en": "Hop Hung Commune",
+    "type": "xã",
+    "district_code": "359",
+    "codename": "hop_hung"
+  },
+  {
+    "code": "13756",
+    "name": "Đại An",
+    "name_en": "Dai An",
+    "full_name": "Xã Đại An",
+    "full_name_en": "Dai An Commune",
+    "type": "xã",
+    "district_code": "359",
+    "codename": "dai_an"
+  },
+  {
+    "code": "13762",
+    "name": "Cộng Hòa",
+    "name_en": "Cong Hoa",
+    "full_name": "Xã Cộng Hòa",
+    "full_name_en": "Cong Hoa Commune",
+    "type": "xã",
+    "district_code": "359",
+    "codename": "cong_hoa"
+  },
+  {
+    "code": "13765",
+    "name": "Trung Thành",
+    "name_en": "Trung Thanh",
+    "full_name": "Xã Trung Thành",
+    "full_name_en": "Trung Thanh Commune",
+    "type": "xã",
+    "district_code": "359",
+    "codename": "trung_thanh"
+  },
+  {
+    "code": "13768",
+    "name": "Quang Trung",
+    "name_en": "Quang Trung",
+    "full_name": "Xã Quang Trung",
+    "full_name_en": "Quang Trung Commune",
+    "type": "xã",
+    "district_code": "359",
+    "codename": "quang_trung"
+  },
+  {
+    "code": "13777",
+    "name": "Thành Lợi",
+    "name_en": "Thanh Loi",
+    "full_name": "Xã Thành Lợi",
+    "full_name_en": "Thanh Loi Commune",
+    "type": "xã",
+    "district_code": "359",
+    "codename": "thanh_loi"
+  },
+  {
+    "code": "13780",
+    "name": "Kim Thái",
+    "name_en": "Kim Thai",
+    "full_name": "Xã Kim Thái",
+    "full_name_en": "Kim Thai Commune",
+    "type": "xã",
+    "district_code": "359",
+    "codename": "kim_thai"
+  },
+  {
+    "code": "13783",
+    "name": "Liên Minh",
+    "name_en": "Lien Minh",
+    "full_name": "Xã Liên Minh",
+    "full_name_en": "Lien Minh Commune",
+    "type": "xã",
+    "district_code": "359",
+    "codename": "lien_minh"
+  },
+  {
+    "code": "13786",
+    "name": "Đại Thắng",
+    "name_en": "Dai Thang",
+    "full_name": "Xã Đại Thắng",
+    "full_name_en": "Dai Thang Commune",
+    "type": "xã",
+    "district_code": "359",
+    "codename": "dai_thang"
+  },
+  {
+    "code": "13789",
+    "name": "Tam Thanh",
+    "name_en": "Tam Thanh",
+    "full_name": "Xã Tam Thanh",
+    "full_name_en": "Tam Thanh Commune",
+    "type": "xã",
+    "district_code": "359",
+    "codename": "tam_thanh"
+  },
+  {
+    "code": "13792",
+    "name": "Vĩnh Hào",
+    "name_en": "Vinh Hao",
+    "full_name": "Xã Vĩnh Hào",
+    "full_name_en": "Vinh Hao Commune",
+    "type": "xã",
+    "district_code": "359",
+    "codename": "vinh_hao"
+  }
+]

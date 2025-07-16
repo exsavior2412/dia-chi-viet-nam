@@ -1,0 +1,92 @@
+[
+  {
+    "code": "842",
+    "name": "Trà Vinh",
+    "name_en": "Tra Vinh",
+    "full_name": "Thành phố Trà Vinh",
+    "full_name_en": "Tra Vinh City",
+    "type": "thành phố",
+    "province_code": "84",
+    "codename": "tra_vinh"
+  },
+  {
+    "code": "844",
+    "name": "Càng Long",
+    "name_en": "Cang Long",
+    "full_name": "Huyện Càng Long",
+    "full_name_en": "Cang Long District",
+    "type": "huyện",
+    "province_code": "84",
+    "codename": "cang_long"
+  },
+  {
+    "code": "845",
+    "name": "Cầu Kè",
+    "name_en": "Cau Ke",
+    "full_name": "Huyện Cầu Kè",
+    "full_name_en": "Cau Ke District",
+    "type": "huyện",
+    "province_code": "84",
+    "codename": "cau_ke"
+  },
+  {
+    "code": "846",
+    "name": "Tiểu Cần",
+    "name_en": "Tieu Can",
+    "full_name": "Huyện Tiểu Cần",
+    "full_name_en": "Tieu Can District",
+    "type": "huyện",
+    "province_code": "84",
+    "codename": "tieu_can"
+  },
+  {
+    "code": "847",
+    "name": "Châu Thành",
+    "name_en": "Chau Thanh",
+    "full_name": "Huyện Châu Thành",
+    "full_name_en": "Chau Thanh District",
+    "type": "huyện",
+    "province_code": "84",
+    "codename": "chau_thanh"
+  },
+  {
+    "code": "848",
+    "name": "Cầu Ngang",
+    "name_en": "Cau Ngang",
+    "full_name": "Huyện Cầu Ngang",
+    "full_name_en": "Cau Ngang District",
+    "type": "huyện",
+    "province_code": "84",
+    "codename": "cau_ngang"
+  },
+  {
+    "code": "849",
+    "name": "Trà Cú",
+    "name_en": "Tra Cu",
+    "full_name": "Huyện Trà Cú",
+    "full_name_en": "Tra Cu District",
+    "type": "huyện",
+    "province_code": "84",
+    "codename": "tra_cu"
+  },
+  {
+    "code": "850",
+    "name": "Duyên Hải",
+    "name_en": "Duyen Hai",
+    "full_name": "Huyện Duyên Hải",
+    "full_name_en": "Duyen Hai District",
+    "type": "huyện",
+    "province_code": "84",
+    "codename": "duyen_hai"
+  },
+  {
+    "code": "851",
+    "name": "Duyên Hải",
+    "name_en": "Duyen Hai",
+    "full_name": "Thị xã Duyên Hải",
+    "full_name_en": "Duyen Hai Town",
+    "type": "thị xã",
+    "province_code": "84",
+    "codename": "duyen_hai"
+  }
+]

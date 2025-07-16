@@ -1,0 +1,82 @@
+[
+  {
+    "code": "855",
+    "name": "Vĩnh Long",
+    "name_en": "Vinh Long",
+    "full_name": "Thành phố Vĩnh Long",
+    "full_name_en": "Vinh Long City",
+    "type": "thành phố",
+    "province_code": "86",
+    "codename": "vinh_long"
+  },
+  {
+    "code": "857",
+    "name": "Long Hồ",
+    "name_en": "Long Ho",
+    "full_name": "Huyện Long Hồ",
+    "full_name_en": "Long Ho District",
+    "type": "huyện",
+    "province_code": "86",
+    "codename": "long_ho"
+  },
+  {
+    "code": "858",
+    "name": "Mang Thít",
+    "name_en": "Mang Thit",
+    "full_name": "Huyện Mang Thít",
+    "full_name_en": "Mang Thit District",
+    "type": "huyện",
+    "province_code": "86",
+    "codename": "mang_thit"
+  },
+  {
+    "code": "859",
+    "name": "Vũng Liêm",
+    "name_en": "Vung Liem",
+    "full_name": "Huyện Vũng Liêm",
+    "full_name_en": "Vung Liem District",
+    "type": "huyện",
+    "province_code": "86",
+    "codename": "vung_liem"
+  },
+  {
+    "code": "860",
+    "name": "Tam Bình",
+    "name_en": "Tam Binh",
+    "full_name": "Huyện Tam Bình",
+    "full_name_en": "Tam Binh District",
+    "type": "huyện",
+    "province_code": "86",
+    "codename": "tam_binh"
+  },
+  {
+    "code": "861",
+    "name": "Bình Minh",
+    "name_en": "Binh Minh",
+    "full_name": "Thị xã Bình Minh",
+    "full_name_en": "Binh Minh Town",
+    "type": "thị xã",
+    "province_code": "86",
+    "codename": "binh_minh"
+  },
+  {
+    "code": "862",
+    "name": "Trà Ôn",
+    "name_en": "Tra On",
+    "full_name": "Huyện Trà Ôn",
+    "full_name_en": "Tra On District",
+    "type": "huyện",
+    "province_code": "86",
+    "codename": "tra_on"
+  },
+  {
+    "code": "863",
+    "name": "Bình Tân",
+    "name_en": "Binh Tan",
+    "full_name": "Huyện Bình Tân",
+    "full_name_en": "Binh Tan District",
+    "type": "huyện",
+    "province_code": "86",
+    "codename": "binh_tan"
+  }
+]

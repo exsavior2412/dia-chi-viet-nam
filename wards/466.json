@@ -1,0 +1,142 @@
+[
+  {
+    "code": "19495",
+    "name": "Gio Linh",
+    "name_en": "Gio Linh",
+    "full_name": "Thị trấn Gio Linh",
+    "full_name_en": "Gio Linh Township",
+    "type": "thị trấn",
+    "district_code": "466",
+    "codename": "gio_linh"
+  },
+  {
+    "code": "19496",
+    "name": "Cửa Việt",
+    "name_en": "Cua Viet",
+    "full_name": "Thị trấn Cửa Việt",
+    "full_name_en": "Cua Viet Township",
+    "type": "thị trấn",
+    "district_code": "466",
+    "codename": "cua_viet"
+  },
+  {
+    "code": "19498",
+    "name": "Trung Giang",
+    "name_en": "Trung Giang",
+    "full_name": "Xã Trung Giang",
+    "full_name_en": "Trung Giang Commune",
+    "type": "xã",
+    "district_code": "466",
+    "codename": "trung_giang"
+  },
+  {
+    "code": "19501",
+    "name": "Trung Hải",
+    "name_en": "Trung Hai",
+    "full_name": "Xã Trung Hải",
+    "full_name_en": "Trung Hai Commune",
+    "type": "xã",
+    "district_code": "466",
+    "codename": "trung_hai"
+  },
+  {
+    "code": "19504",
+    "name": "Trung Sơn",
+    "name_en": "Trung Son",
+    "full_name": "Xã Trung Sơn",
+    "full_name_en": "Trung Son Commune",
+    "type": "xã",
+    "district_code": "466",
+    "codename": "trung_son"
+  },
+  {
+    "code": "19507",
+    "name": "Phong Bình",
+    "name_en": "Phong Binh",
+    "full_name": "Xã Phong Bình",
+    "full_name_en": "Phong Binh Commune",
+    "type": "xã",
+    "district_code": "466",
+    "codename": "phong_binh"
+  },
+  {
+    "code": "19510",
+    "name": "Gio Mỹ",
+    "name_en": "Gio My",
+    "full_name": "Xã Gio Mỹ",
+    "full_name_en": "Gio My Commune",
+    "type": "xã",
+    "district_code": "466",
+    "codename": "gio_my"
+  },
+  {
+    "code": "19519",
+    "name": "Gio Hải",
+    "name_en": "Gio Hai",
+    "full_name": "Xã Gio Hải",
+    "full_name_en": "Gio Hai Commune",
+    "type": "xã",
+    "district_code": "466",
+    "codename": "gio_hai"
+  },
+  {
+    "code": "19522",
+    "name": "Gio An",
+    "name_en": "Gio An",
+    "full_name": "Xã Gio An",
+    "full_name_en": "Gio An Commune",
+    "type": "xã",
+    "district_code": "466",
+    "codename": "gio_an"
+  },
+  {
+    "code": "19534",
+    "name": "Linh Trường",
+    "name_en": "Linh Truong",
+    "full_name": "Xã Linh Trường",
+    "full_name_en": "Linh Truong Commune",
+    "type": "xã",
+    "district_code": "466",
+    "codename": "linh_truong"
+  },
+  {
+    "code": "19537",
+    "name": "Gio Sơn",
+    "name_en": "Gio Son",
+    "full_name": "Xã Gio Sơn",
+    "full_name_en": "Gio Son Commune",
+    "type": "xã",
+    "district_code": "466",
+    "codename": "gio_son"
+  },
+  {
+    "code": "19543",
+    "name": "Gio Mai",
+    "name_en": "Gio Mai",
+    "full_name": "Xã Gio Mai",
+    "full_name_en": "Gio Mai Commune",
+    "type": "xã",
+    "district_code": "466",
+    "codename": "gio_mai"
+  },
+  {
+    "code": "19546",
+    "name": "Hải Thái",
+    "name_en": "Hai Thai",
+    "full_name": "Xã Hải Thái",
+    "full_name_en": "Hai Thai Commune",
+    "type": "xã",
+    "district_code": "466",
+    "codename": "hai_thai"
+  },
+  {
+    "code": "19552",
+    "name": "Gio Quang",
+    "name_en": "Gio Quang",
+    "full_name": "Xã Gio Quang",
+    "full_name_en": "Gio Quang Commune",
+    "type": "xã",
+    "district_code": "466",
+    "codename": "gio_quang"
+  }
+]

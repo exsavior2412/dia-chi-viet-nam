@@ -1,0 +1,92 @@
+[
+  {
+    "code": "16939",
+    "name": "Hoà Hiếu",
+    "name_en": "Hoa Hieu",
+    "full_name": "Phường Hoà Hiếu",
+    "full_name_en": "Hoa Hieu Ward",
+    "type": "phường",
+    "district_code": "414",
+    "codename": "hoa_hieu"
+  },
+  {
+    "code": "16993",
+    "name": "Quang Phong",
+    "name_en": "Quang Phong",
+    "full_name": "Phường Quang Phong",
+    "full_name_en": "Quang Phong Ward",
+    "type": "phường",
+    "district_code": "414",
+    "codename": "quang_phong"
+  },
+  {
+    "code": "16994",
+    "name": "Quang Tiến",
+    "name_en": "Quang Tien",
+    "full_name": "Phường Quang Tiến",
+    "full_name_en": "Quang Tien Ward",
+    "type": "phường",
+    "district_code": "414",
+    "codename": "quang_tien"
+  },
+  {
+    "code": "17003",
+    "name": "Long Sơn",
+    "name_en": "Long Son",
+    "full_name": "Phường Long Sơn",
+    "full_name_en": "Long Son Ward",
+    "type": "phường",
+    "district_code": "414",
+    "codename": "long_son"
+  },
+  {
+    "code": "17005",
+    "name": "Nghĩa Tiến",
+    "name_en": "Nghia Tien",
+    "full_name": "Xã Nghĩa Tiến",
+    "full_name_en": "Nghia Tien Commune",
+    "type": "xã",
+    "district_code": "414",
+    "codename": "nghia_tien"
+  },
+  {
+    "code": "17008",
+    "name": "Nghĩa Mỹ",
+    "name_en": "Nghia My",
+    "full_name": "Xã Nghĩa Mỹ",
+    "full_name_en": "Nghia My Commune",
+    "type": "xã",
+    "district_code": "414",
+    "codename": "nghia_my"
+  },
+  {
+    "code": "17011",
+    "name": "Tây Hiếu",
+    "name_en": "Tay Hieu",
+    "full_name": "Xã Tây Hiếu",
+    "full_name_en": "Tay Hieu Commune",
+    "type": "xã",
+    "district_code": "414",
+    "codename": "tay_hieu"
+  },
+  {
+    "code": "17014",
+    "name": "Nghĩa Thuận",
+    "name_en": "Nghia Thuan",
+    "full_name": "Xã Nghĩa Thuận",
+    "full_name_en": "Nghia Thuan Commune",
+    "type": "xã",
+    "district_code": "414",
+    "codename": "nghia_thuan"
+  },
+  {
+    "code": "17017",
+    "name": "Đông Hiếu",
+    "name_en": "Dong Hieu",
+    "full_name": "Xã Đông Hiếu",
+    "full_name_en": "Dong Hieu Commune",
+    "type": "xã",
+    "district_code": "414",
+    "codename": "dong_hieu"
+  }
+]

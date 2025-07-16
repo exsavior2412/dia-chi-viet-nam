@@ -1,0 +1,182 @@
+[
+  {
+    "code": "06325",
+    "name": "Bắc Sơn",
+    "name_en": "Bac Son",
+    "full_name": "Thị trấn Bắc Sơn",
+    "full_name_en": "Bac Son Township",
+    "type": "thị trấn",
+    "district_code": "185",
+    "codename": "bac_son"
+  },
+  {
+    "code": "06328",
+    "name": "Long Đống",
+    "name_en": "Long Dong",
+    "full_name": "Xã Long Đống",
+    "full_name_en": "Long Dong Commune",
+    "type": "xã",
+    "district_code": "185",
+    "codename": "long_dong"
+  },
+  {
+    "code": "06331",
+    "name": "Vạn Thủy",
+    "name_en": "Van Thuy",
+    "full_name": "Xã Vạn Thủy",
+    "full_name_en": "Van Thuy Commune",
+    "type": "xã",
+    "district_code": "185",
+    "codename": "van_thuy"
+  },
+  {
+    "code": "06337",
+    "name": "Đồng ý",
+    "name_en": "Dong y",
+    "full_name": "Xã Đồng ý",
+    "full_name_en": "Dong y Commune",
+    "type": "xã",
+    "district_code": "185",
+    "codename": "dong_y"
+  },
+  {
+    "code": "06340",
+    "name": "Tân Tri",
+    "name_en": "Tan Tri",
+    "full_name": "Xã Tân Tri",
+    "full_name_en": "Tan Tri Commune",
+    "type": "xã",
+    "district_code": "185",
+    "codename": "tan_tri"
+  },
+  {
+    "code": "06343",
+    "name": "Bắc Quỳnh",
+    "name_en": "Bac Quynh",
+    "full_name": "Xã Bắc Quỳnh",
+    "full_name_en": "Bac Quynh Commune",
+    "type": "xã",
+    "district_code": "185",
+    "codename": "bac_quynh"
+  },
+  {
+    "code": "06349",
+    "name": "Hưng Vũ",
+    "name_en": "Hung Vu",
+    "full_name": "Xã Hưng Vũ",
+    "full_name_en": "Hung Vu Commune",
+    "type": "xã",
+    "district_code": "185",
+    "codename": "hung_vu"
+  },
+  {
+    "code": "06352",
+    "name": "Tân Lập",
+    "name_en": "Tan Lap",
+    "full_name": "Xã Tân Lập",
+    "full_name_en": "Tan Lap Commune",
+    "type": "xã",
+    "district_code": "185",
+    "codename": "tan_lap"
+  },
+  {
+    "code": "06355",
+    "name": "Vũ Sơn",
+    "name_en": "Vu Son",
+    "full_name": "Xã Vũ Sơn",
+    "full_name_en": "Vu Son Commune",
+    "type": "xã",
+    "district_code": "185",
+    "codename": "vu_son"
+  },
+  {
+    "code": "06358",
+    "name": "Chiêu Vũ",
+    "name_en": "Chieu Vu",
+    "full_name": "Xã Chiêu Vũ",
+    "full_name_en": "Chieu Vu Commune",
+    "type": "xã",
+    "district_code": "185",
+    "codename": "chieu_vu"
+  },
+  {
+    "code": "06361",
+    "name": "Tân Hương",
+    "name_en": "Tan Huong",
+    "full_name": "Xã Tân Hương",
+    "full_name_en": "Tan Huong Commune",
+    "type": "xã",
+    "district_code": "185",
+    "codename": "tan_huong"
+  },
+  {
+    "code": "06364",
+    "name": "Chiến Thắng",
+    "name_en": "Chien Thang",
+    "full_name": "Xã Chiến Thắng",
+    "full_name_en": "Chien Thang Commune",
+    "type": "xã",
+    "district_code": "185",
+    "codename": "chien_thang"
+  },
+  {
+    "code": "06367",
+    "name": "Vũ Lăng",
+    "name_en": "Vu Lang",
+    "full_name": "Xã Vũ Lăng",
+    "full_name_en": "Vu Lang Commune",
+    "type": "xã",
+    "district_code": "185",
+    "codename": "vu_lang"
+  },
+  {
+    "code": "06370",
+    "name": "Trấn Yên",
+    "name_en": "Tran Yen",
+    "full_name": "Xã Trấn Yên",
+    "full_name_en": "Tran Yen Commune",
+    "type": "xã",
+    "district_code": "185",
+    "codename": "tran_yen"
+  },
+  {
+    "code": "06373",
+    "name": "Vũ Lễ",
+    "name_en": "Vu Le",
+    "full_name": "Xã Vũ Lễ",
+    "full_name_en": "Vu Le Commune",
+    "type": "xã",
+    "district_code": "185",
+    "codename": "vu_le"
+  },
+  {
+    "code": "06376",
+    "name": "Nhất Hòa",
+    "name_en": "Nhat Hoa",
+    "full_name": "Xã Nhất Hòa",
+    "full_name_en": "Nhat Hoa Commune",
+    "type": "xã",
+    "district_code": "185",
+    "codename": "nhat_hoa"
+  },
+  {
+    "code": "06379",
+    "name": "Tân Thành",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thành",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "185",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "06382",
+    "name": "Nhất Tiến",
+    "name_en": "Nhat Tien",
+    "full_name": "Xã Nhất Tiến",
+    "full_name_en": "Nhat Tien Commune",
+    "type": "xã",
+    "district_code": "185",
+    "codename": "nhat_tien"
+  }
+]

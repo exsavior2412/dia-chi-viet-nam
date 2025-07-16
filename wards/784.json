@@ -1,0 +1,122 @@
+[
+  {
+    "code": "27559",
+    "name": "Hóc Môn",
+    "name_en": "Hoc Mon",
+    "full_name": "Thị trấn Hóc Môn",
+    "full_name_en": "Hoc Mon Township",
+    "type": "thị trấn",
+    "district_code": "784",
+    "codename": "hoc_mon"
+  },
+  {
+    "code": "27562",
+    "name": "Tân Hiệp",
+    "name_en": "Tan Hiep",
+    "full_name": "Xã Tân Hiệp",
+    "full_name_en": "Tan Hiep Commune",
+    "type": "xã",
+    "district_code": "784",
+    "codename": "tan_hiep"
+  },
+  {
+    "code": "27565",
+    "name": "Nhị Bình",
+    "name_en": "Nhi Binh",
+    "full_name": "Xã Nhị Bình",
+    "full_name_en": "Nhi Binh Commune",
+    "type": "xã",
+    "district_code": "784",
+    "codename": "nhi_binh"
+  },
+  {
+    "code": "27568",
+    "name": "Đông Thạnh",
+    "name_en": "Dong Thanh",
+    "full_name": "Xã Đông Thạnh",
+    "full_name_en": "Dong Thanh Commune",
+    "type": "xã",
+    "district_code": "784",
+    "codename": "dong_thanh"
+  },
+  {
+    "code": "27571",
+    "name": "Tân Thới Nhì",
+    "name_en": "Tan Thoi Nhi",
+    "full_name": "Xã Tân Thới Nhì",
+    "full_name_en": "Tan Thoi Nhi Commune",
+    "type": "xã",
+    "district_code": "784",
+    "codename": "tan_thoi_nhi"
+  },
+  {
+    "code": "27574",
+    "name": "Thới Tam Thôn",
+    "name_en": "Thoi Tam Thon",
+    "full_name": "Xã Thới Tam Thôn",
+    "full_name_en": "Thoi Tam Thon Commune",
+    "type": "xã",
+    "district_code": "784",
+    "codename": "thoi_tam_thon"
+  },
+  {
+    "code": "27577",
+    "name": "Xuân Thới Sơn",
+    "name_en": "Xuan Thoi Son",
+    "full_name": "Xã Xuân Thới Sơn",
+    "full_name_en": "Xuan Thoi Son Commune",
+    "type": "xã",
+    "district_code": "784",
+    "codename": "xuan_thoi_son"
+  },
+  {
+    "code": "27580",
+    "name": "Tân Xuân",
+    "name_en": "Tan Xuan",
+    "full_name": "Xã Tân Xuân",
+    "full_name_en": "Tan Xuan Commune",
+    "type": "xã",
+    "district_code": "784",
+    "codename": "tan_xuan"
+  },
+  {
+    "code": "27583",
+    "name": "Xuân Thới Đông",
+    "name_en": "Xuan Thoi Dong",
+    "full_name": "Xã Xuân Thới Đông",
+    "full_name_en": "Xuan Thoi Dong Commune",
+    "type": "xã",
+    "district_code": "784",
+    "codename": "xuan_thoi_dong"
+  },
+  {
+    "code": "27586",
+    "name": "Trung Chánh",
+    "name_en": "Trung Chanh",
+    "full_name": "Xã Trung Chánh",
+    "full_name_en": "Trung Chanh Commune",
+    "type": "xã",
+    "district_code": "784",
+    "codename": "trung_chanh"
+  },
+  {
+    "code": "27589",
+    "name": "Xuân Thới Thượng",
+    "name_en": "Xuan Thoi Thuong",
+    "full_name": "Xã Xuân Thới Thượng",
+    "full_name_en": "Xuan Thoi Thuong Commune",
+    "type": "xã",
+    "district_code": "784",
+    "codename": "xuan_thoi_thuong"
+  },
+  {
+    "code": "27592",
+    "name": "Bà Điểm",
+    "name_en": "Ba Diem",
+    "full_name": "Xã Bà Điểm",
+    "full_name_en": "Ba Diem Commune",
+    "type": "xã",
+    "district_code": "784",
+    "codename": "ba_diem"
+  }
+]

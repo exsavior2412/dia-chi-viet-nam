@@ -1,0 +1,172 @@
+[
+  {
+    "code": "29461",
+    "name": "Trà Cú",
+    "name_en": "Tra Cu",
+    "full_name": "Thị trấn Trà Cú",
+    "full_name_en": "Tra Cu Township",
+    "type": "thị trấn",
+    "district_code": "849",
+    "codename": "tra_cu"
+  },
+  {
+    "code": "29462",
+    "name": "Định An",
+    "name_en": "Dinh An",
+    "full_name": "Thị trấn Định An",
+    "full_name_en": "Dinh An Township",
+    "type": "thị trấn",
+    "district_code": "849",
+    "codename": "dinh_an"
+  },
+  {
+    "code": "29464",
+    "name": "Phước Hưng",
+    "name_en": "Phuoc Hung",
+    "full_name": "Xã Phước Hưng",
+    "full_name_en": "Phuoc Hung Commune",
+    "type": "xã",
+    "district_code": "849",
+    "codename": "phuoc_hung"
+  },
+  {
+    "code": "29467",
+    "name": "Tập Sơn",
+    "name_en": "Tap Son",
+    "full_name": "Xã Tập Sơn",
+    "full_name_en": "Tap Son Commune",
+    "type": "xã",
+    "district_code": "849",
+    "codename": "tap_son"
+  },
+  {
+    "code": "29470",
+    "name": "Tân Sơn",
+    "name_en": "Tan Son",
+    "full_name": "Xã Tân Sơn",
+    "full_name_en": "Tan Son Commune",
+    "type": "xã",
+    "district_code": "849",
+    "codename": "tan_son"
+  },
+  {
+    "code": "29473",
+    "name": "An Quảng Hữu",
+    "name_en": "An Quang Huu",
+    "full_name": "Xã An Quảng Hữu",
+    "full_name_en": "An Quang Huu Commune",
+    "type": "xã",
+    "district_code": "849",
+    "codename": "an_quang_huu"
+  },
+  {
+    "code": "29476",
+    "name": "Lưu Nghiệp Anh",
+    "name_en": "Luu Nghiep Anh",
+    "full_name": "Xã Lưu Nghiệp Anh",
+    "full_name_en": "Luu Nghiep Anh Commune",
+    "type": "xã",
+    "district_code": "849",
+    "codename": "luu_nghiep_anh"
+  },
+  {
+    "code": "29479",
+    "name": "Ngãi Xuyên",
+    "name_en": "Ngai Xuyen",
+    "full_name": "Xã Ngãi Xuyên",
+    "full_name_en": "Ngai Xuyen Commune",
+    "type": "xã",
+    "district_code": "849",
+    "codename": "ngai_xuyen"
+  },
+  {
+    "code": "29482",
+    "name": "Kim Sơn",
+    "name_en": "Kim Son",
+    "full_name": "Xã Kim Sơn",
+    "full_name_en": "Kim Son Commune",
+    "type": "xã",
+    "district_code": "849",
+    "codename": "kim_son"
+  },
+  {
+    "code": "29485",
+    "name": "Thanh Sơn",
+    "name_en": "Thanh Son",
+    "full_name": "Xã Thanh Sơn",
+    "full_name_en": "Thanh Son Commune",
+    "type": "xã",
+    "district_code": "849",
+    "codename": "thanh_son"
+  },
+  {
+    "code": "29488",
+    "name": "Hàm Giang",
+    "name_en": "Ham Giang",
+    "full_name": "Xã Hàm Giang",
+    "full_name_en": "Ham Giang Commune",
+    "type": "xã",
+    "district_code": "849",
+    "codename": "ham_giang"
+  },
+  {
+    "code": "29489",
+    "name": "Hàm Tân",
+    "name_en": "Ham Tan",
+    "full_name": "Xã Hàm Tân",
+    "full_name_en": "Ham Tan Commune",
+    "type": "xã",
+    "district_code": "849",
+    "codename": "ham_tan"
+  },
+  {
+    "code": "29491",
+    "name": "Đại An",
+    "name_en": "Dai An",
+    "full_name": "Xã Đại An",
+    "full_name_en": "Dai An Commune",
+    "type": "xã",
+    "district_code": "849",
+    "codename": "dai_an"
+  },
+  {
+    "code": "29494",
+    "name": "Định An",
+    "name_en": "Dinh An",
+    "full_name": "Xã Định An",
+    "full_name_en": "Dinh An Commune",
+    "type": "xã",
+    "district_code": "849",
+    "codename": "dinh_an"
+  },
+  {
+    "code": "29503",
+    "name": "Ngọc Biên",
+    "name_en": "Ngoc Bien",
+    "full_name": "Xã Ngọc Biên",
+    "full_name_en": "Ngoc Bien Commune",
+    "type": "xã",
+    "district_code": "849",
+    "codename": "ngoc_bien"
+  },
+  {
+    "code": "29506",
+    "name": "Long Hiệp",
+    "name_en": "Long Hiep",
+    "full_name": "Xã Long Hiệp",
+    "full_name_en": "Long Hiep Commune",
+    "type": "xã",
+    "district_code": "849",
+    "codename": "long_hiep"
+  },
+  {
+    "code": "29509",
+    "name": "Tân Hiệp",
+    "name_en": "Tan Hiep",
+    "full_name": "Xã Tân Hiệp",
+    "full_name_en": "Tan Hiep Commune",
+    "type": "xã",
+    "district_code": "849",
+    "codename": "tan_hiep"
+  }
+]

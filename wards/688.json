@@ -1,0 +1,72 @@
+[
+  {
+    "code": "25216",
+    "name": "Thác Mơ",
+    "name_en": "Thac Mo",
+    "full_name": "Phường Thác Mơ",
+    "full_name_en": "Thac Mo Ward",
+    "type": "phường",
+    "district_code": "688",
+    "codename": "thac_mo"
+  },
+  {
+    "code": "25217",
+    "name": "Long Thủy",
+    "name_en": "Long Thuy",
+    "full_name": "Phường Long Thủy",
+    "full_name_en": "Long Thuy Ward",
+    "type": "phường",
+    "district_code": "688",
+    "codename": "long_thuy"
+  },
+  {
+    "code": "25219",
+    "name": "Phước Bình",
+    "name_en": "Phuoc Binh",
+    "full_name": "Phường Phước Bình",
+    "full_name_en": "Phuoc Binh Ward",
+    "type": "phường",
+    "district_code": "688",
+    "codename": "phuoc_binh"
+  },
+  {
+    "code": "25220",
+    "name": "Long Phước",
+    "name_en": "Long Phuoc",
+    "full_name": "Phường Long Phước",
+    "full_name_en": "Long Phuoc Ward",
+    "type": "phường",
+    "district_code": "688",
+    "codename": "long_phuoc"
+  },
+  {
+    "code": "25237",
+    "name": "Sơn Giang",
+    "name_en": "Son Giang",
+    "full_name": "Phường Sơn Giang",
+    "full_name_en": "Son Giang Ward",
+    "type": "phường",
+    "district_code": "688",
+    "codename": "son_giang"
+  },
+  {
+    "code": "25245",
+    "name": "Long Giang",
+    "name_en": "Long Giang",
+    "full_name": "Xã Long Giang",
+    "full_name_en": "Long Giang Commune",
+    "type": "xã",
+    "district_code": "688",
+    "codename": "long_giang"
+  },
+  {
+    "code": "25249",
+    "name": "Phước Tín",
+    "name_en": "Phuoc Tin",
+    "full_name": "Xã Phước Tín",
+    "full_name_en": "Phuoc Tin Commune",
+    "type": "xã",
+    "district_code": "688",
+    "codename": "phuoc_tin"
+  }
+]

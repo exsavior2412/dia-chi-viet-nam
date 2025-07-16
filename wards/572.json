@@ -1,0 +1,262 @@
+[
+  {
+    "code": "22528",
+    "name": "Ninh Hiệp",
+    "name_en": "Ninh Hiep",
+    "full_name": "Phường Ninh Hiệp",
+    "full_name_en": "Ninh Hiep Ward",
+    "type": "phường",
+    "district_code": "572",
+    "codename": "ninh_hiep"
+  },
+  {
+    "code": "22531",
+    "name": "Ninh Sơn",
+    "name_en": "Ninh Son",
+    "full_name": "Xã Ninh Sơn",
+    "full_name_en": "Ninh Son Commune",
+    "type": "xã",
+    "district_code": "572",
+    "codename": "ninh_son"
+  },
+  {
+    "code": "22534",
+    "name": "Ninh Tây",
+    "name_en": "Ninh Tay",
+    "full_name": "Xã Ninh Tây",
+    "full_name_en": "Ninh Tay Commune",
+    "type": "xã",
+    "district_code": "572",
+    "codename": "ninh_tay"
+  },
+  {
+    "code": "22537",
+    "name": "Ninh Thượng",
+    "name_en": "Ninh Thuong",
+    "full_name": "Xã Ninh Thượng",
+    "full_name_en": "Ninh Thuong Commune",
+    "type": "xã",
+    "district_code": "572",
+    "codename": "ninh_thuong"
+  },
+  {
+    "code": "22540",
+    "name": "Ninh An",
+    "name_en": "Ninh An",
+    "full_name": "Xã Ninh An",
+    "full_name_en": "Ninh An Commune",
+    "type": "xã",
+    "district_code": "572",
+    "codename": "ninh_an"
+  },
+  {
+    "code": "22543",
+    "name": "Ninh Hải",
+    "name_en": "Ninh Hai",
+    "full_name": "Phường Ninh Hải",
+    "full_name_en": "Ninh Hai Ward",
+    "type": "phường",
+    "district_code": "572",
+    "codename": "ninh_hai"
+  },
+  {
+    "code": "22546",
+    "name": "Ninh Thọ",
+    "name_en": "Ninh Tho",
+    "full_name": "Xã Ninh Thọ",
+    "full_name_en": "Ninh Tho Commune",
+    "type": "xã",
+    "district_code": "572",
+    "codename": "ninh_tho"
+  },
+  {
+    "code": "22549",
+    "name": "Ninh Trung",
+    "name_en": "Ninh Trung",
+    "full_name": "Xã Ninh Trung",
+    "full_name_en": "Ninh Trung Commune",
+    "type": "xã",
+    "district_code": "572",
+    "codename": "ninh_trung"
+  },
+  {
+    "code": "22552",
+    "name": "Ninh Sim",
+    "name_en": "Ninh Sim",
+    "full_name": "Xã Ninh Sim",
+    "full_name_en": "Ninh Sim Commune",
+    "type": "xã",
+    "district_code": "572",
+    "codename": "ninh_sim"
+  },
+  {
+    "code": "22555",
+    "name": "Ninh Xuân",
+    "name_en": "Ninh Xuan",
+    "full_name": "Xã Ninh Xuân",
+    "full_name_en": "Ninh Xuan Commune",
+    "type": "xã",
+    "district_code": "572",
+    "codename": "ninh_xuan"
+  },
+  {
+    "code": "22558",
+    "name": "Ninh Thân",
+    "name_en": "Ninh Than",
+    "full_name": "Xã Ninh Thân",
+    "full_name_en": "Ninh Than Commune",
+    "type": "xã",
+    "district_code": "572",
+    "codename": "ninh_than"
+  },
+  {
+    "code": "22561",
+    "name": "Ninh Diêm",
+    "name_en": "Ninh Diem",
+    "full_name": "Phường Ninh Diêm",
+    "full_name_en": "Ninh Diem Ward",
+    "type": "phường",
+    "district_code": "572",
+    "codename": "ninh_diem"
+  },
+  {
+    "code": "22564",
+    "name": "Ninh Đông",
+    "name_en": "Ninh Dong",
+    "full_name": "Xã Ninh Đông",
+    "full_name_en": "Ninh Dong Commune",
+    "type": "xã",
+    "district_code": "572",
+    "codename": "ninh_dong"
+  },
+  {
+    "code": "22567",
+    "name": "Ninh Thủy",
+    "name_en": "Ninh Thuy",
+    "full_name": "Phường Ninh Thủy",
+    "full_name_en": "Ninh Thuy Ward",
+    "type": "phường",
+    "district_code": "572",
+    "codename": "ninh_thuy"
+  },
+  {
+    "code": "22570",
+    "name": "Ninh Đa",
+    "name_en": "Ninh Da",
+    "full_name": "Phường Ninh Đa",
+    "full_name_en": "Ninh Da Ward",
+    "type": "phường",
+    "district_code": "572",
+    "codename": "ninh_da"
+  },
+  {
+    "code": "22573",
+    "name": "Ninh Phụng",
+    "name_en": "Ninh Phung",
+    "full_name": "Xã Ninh Phụng",
+    "full_name_en": "Ninh Phung Commune",
+    "type": "xã",
+    "district_code": "572",
+    "codename": "ninh_phung"
+  },
+  {
+    "code": "22576",
+    "name": "Ninh Bình",
+    "name_en": "Ninh Binh",
+    "full_name": "Xã Ninh Bình",
+    "full_name_en": "Ninh Binh Commune",
+    "type": "xã",
+    "district_code": "572",
+    "codename": "ninh_binh"
+  },
+  {
+    "code": "22582",
+    "name": "Ninh Phú",
+    "name_en": "Ninh Phu",
+    "full_name": "Xã Ninh Phú",
+    "full_name_en": "Ninh Phu Commune",
+    "type": "xã",
+    "district_code": "572",
+    "codename": "ninh_phu"
+  },
+  {
+    "code": "22585",
+    "name": "Ninh Tân",
+    "name_en": "Ninh Tan",
+    "full_name": "Xã Ninh Tân",
+    "full_name_en": "Ninh Tan Commune",
+    "type": "xã",
+    "district_code": "572",
+    "codename": "ninh_tan"
+  },
+  {
+    "code": "22588",
+    "name": "Ninh Quang",
+    "name_en": "Ninh Quang",
+    "full_name": "Xã Ninh Quang",
+    "full_name_en": "Ninh Quang Commune",
+    "type": "xã",
+    "district_code": "572",
+    "codename": "ninh_quang"
+  },
+  {
+    "code": "22591",
+    "name": "Ninh Giang",
+    "name_en": "Ninh Giang",
+    "full_name": "Phường Ninh Giang",
+    "full_name_en": "Ninh Giang Ward",
+    "type": "phường",
+    "district_code": "572",
+    "codename": "ninh_giang"
+  },
+  {
+    "code": "22594",
+    "name": "Ninh Hà",
+    "name_en": "Ninh Ha",
+    "full_name": "Phường Ninh Hà",
+    "full_name_en": "Ninh Ha Ward",
+    "type": "phường",
+    "district_code": "572",
+    "codename": "ninh_ha"
+  },
+  {
+    "code": "22597",
+    "name": "Ninh Hưng",
+    "name_en": "Ninh Hung",
+    "full_name": "Xã Ninh Hưng",
+    "full_name_en": "Ninh Hung Commune",
+    "type": "xã",
+    "district_code": "572",
+    "codename": "ninh_hung"
+  },
+  {
+    "code": "22600",
+    "name": "Ninh Lộc",
+    "name_en": "Ninh Loc",
+    "full_name": "Xã Ninh Lộc",
+    "full_name_en": "Ninh Loc Commune",
+    "type": "xã",
+    "district_code": "572",
+    "codename": "ninh_loc"
+  },
+  {
+    "code": "22603",
+    "name": "Ninh Ích",
+    "name_en": "Ninh Ich",
+    "full_name": "Xã Ninh Ích",
+    "full_name_en": "Ninh Ich Commune",
+    "type": "xã",
+    "district_code": "572",
+    "codename": "ninh_ich"
+  },
+  {
+    "code": "22606",
+    "name": "Ninh Phước",
+    "name_en": "Ninh Phuoc",
+    "full_name": "Xã Ninh Phước",
+    "full_name_en": "Ninh Phuoc Commune",
+    "type": "xã",
+    "district_code": "572",
+    "codename": "ninh_phuoc"
+  }
+]

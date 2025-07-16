@@ -1,0 +1,112 @@
+[
+  {
+    "code": "22081",
+    "name": "La Hai",
+    "name_en": "La Hai",
+    "full_name": "Thị trấn La Hai",
+    "full_name_en": "La Hai Township",
+    "type": "thị trấn",
+    "district_code": "558",
+    "codename": "la_hai"
+  },
+  {
+    "code": "22084",
+    "name": "Đa Lộc",
+    "name_en": "Da Loc",
+    "full_name": "Xã Đa Lộc",
+    "full_name_en": "Da Loc Commune",
+    "type": "xã",
+    "district_code": "558",
+    "codename": "da_loc"
+  },
+  {
+    "code": "22087",
+    "name": "Phú Mỡ",
+    "name_en": "Phu Mo",
+    "full_name": "Xã Phú Mỡ",
+    "full_name_en": "Phu Mo Commune",
+    "type": "xã",
+    "district_code": "558",
+    "codename": "phu_mo"
+  },
+  {
+    "code": "22090",
+    "name": "Xuân Lãnh",
+    "name_en": "Xuan Lanh",
+    "full_name": "Xã Xuân Lãnh",
+    "full_name_en": "Xuan Lanh Commune",
+    "type": "xã",
+    "district_code": "558",
+    "codename": "xuan_lanh"
+  },
+  {
+    "code": "22093",
+    "name": "Xuân Long",
+    "name_en": "Xuan Long",
+    "full_name": "Xã Xuân Long",
+    "full_name_en": "Xuan Long Commune",
+    "type": "xã",
+    "district_code": "558",
+    "codename": "xuan_long"
+  },
+  {
+    "code": "22096",
+    "name": "Xuân Quang 1",
+    "name_en": "Xuan Quang 1",
+    "full_name": "Xã Xuân Quang 1",
+    "full_name_en": "Commune Xuan Quang 1",
+    "type": "xã",
+    "district_code": "558",
+    "codename": "xuan_quang_1"
+  },
+  {
+    "code": "22099",
+    "name": "Xuân Sơn Bắc",
+    "name_en": "Xuan Son Bac",
+    "full_name": "Xã Xuân Sơn Bắc",
+    "full_name_en": "Xuan Son Bac Commune",
+    "type": "xã",
+    "district_code": "558",
+    "codename": "xuan_son_bac"
+  },
+  {
+    "code": "22102",
+    "name": "Xuân Quang 2",
+    "name_en": "Xuan Quang 2",
+    "full_name": "Xã Xuân Quang 2",
+    "full_name_en": "Commune Xuan Quang 2",
+    "type": "xã",
+    "district_code": "558",
+    "codename": "xuan_quang_2"
+  },
+  {
+    "code": "22105",
+    "name": "Xuân Sơn Nam",
+    "name_en": "Xuan Son Nam",
+    "full_name": "Xã Xuân Sơn Nam",
+    "full_name_en": "Xuan Son Nam Commune",
+    "type": "xã",
+    "district_code": "558",
+    "codename": "xuan_son_nam"
+  },
+  {
+    "code": "22108",
+    "name": "Xuân Quang 3",
+    "name_en": "Xuan Quang 3",
+    "full_name": "Xã Xuân Quang 3",
+    "full_name_en": "Commune Xuan Quang 3",
+    "type": "xã",
+    "district_code": "558",
+    "codename": "xuan_quang_3"
+  },
+  {
+    "code": "22111",
+    "name": "Xuân Phước",
+    "name_en": "Xuan Phuoc",
+    "full_name": "Xã Xuân Phước",
+    "full_name_en": "Xuan Phuoc Commune",
+    "type": "xã",
+    "district_code": "558",
+    "codename": "xuan_phuoc"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "21994",
+    "name": "Vân Canh",
+    "name_en": "Van Canh",
+    "full_name": "Thị trấn Vân Canh",
+    "full_name_en": "Van Canh Township",
+    "type": "thị trấn",
+    "district_code": "551",
+    "codename": "van_canh"
+  },
+  {
+    "code": "21997",
+    "name": "Canh Liên",
+    "name_en": "Canh Lien",
+    "full_name": "Xã Canh Liên",
+    "full_name_en": "Canh Lien Commune",
+    "type": "xã",
+    "district_code": "551",
+    "codename": "canh_lien"
+  },
+  {
+    "code": "22000",
+    "name": "Canh Hiệp",
+    "name_en": "Canh Hiep",
+    "full_name": "Xã Canh Hiệp",
+    "full_name_en": "Canh Hiep Commune",
+    "type": "xã",
+    "district_code": "551",
+    "codename": "canh_hiep"
+  },
+  {
+    "code": "22003",
+    "name": "Canh Vinh",
+    "name_en": "Canh Vinh",
+    "full_name": "Xã Canh Vinh",
+    "full_name_en": "Canh Vinh Commune",
+    "type": "xã",
+    "district_code": "551",
+    "codename": "canh_vinh"
+  },
+  {
+    "code": "22006",
+    "name": "Canh Hiển",
+    "name_en": "Canh Hien",
+    "full_name": "Xã Canh Hiển",
+    "full_name_en": "Canh Hien Commune",
+    "type": "xã",
+    "district_code": "551",
+    "codename": "canh_hien"
+  },
+  {
+    "code": "22009",
+    "name": "Canh Thuận",
+    "name_en": "Canh Thuan",
+    "full_name": "Xã Canh Thuận",
+    "full_name_en": "Canh Thuan Commune",
+    "type": "xã",
+    "district_code": "551",
+    "codename": "canh_thuan"
+  },
+  {
+    "code": "22012",
+    "name": "Canh Hòa",
+    "name_en": "Canh Hoa",
+    "full_name": "Xã Canh Hòa",
+    "full_name_en": "Canh Hoa Commune",
+    "type": "xã",
+    "district_code": "551",
+    "codename": "canh_hoa"
+  }
+]

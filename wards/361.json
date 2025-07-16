@@ -1,0 +1,202 @@
+[
+  {
+    "code": "13891",
+    "name": "Liễu Đề",
+    "name_en": "Lieu De",
+    "full_name": "Thị trấn Liễu Đề",
+    "full_name_en": "Lieu De Township",
+    "type": "thị trấn",
+    "district_code": "361",
+    "codename": "lieu_de"
+  },
+  {
+    "code": "13894",
+    "name": "Rạng Đông",
+    "name_en": "Rang Dong",
+    "full_name": "Thị trấn Rạng Đông",
+    "full_name_en": "Rang Dong Township",
+    "type": "thị trấn",
+    "district_code": "361",
+    "codename": "rang_dong"
+  },
+  {
+    "code": "13900",
+    "name": "Đồng Thịnh",
+    "name_en": "Dong Thinh",
+    "full_name": "Xã Đồng Thịnh",
+    "full_name_en": "Dong Thinh Commune",
+    "type": "xã",
+    "district_code": "361",
+    "codename": "dong_thinh"
+  },
+  {
+    "code": "13906",
+    "name": "Nghĩa Thái",
+    "name_en": "Nghia Thai",
+    "full_name": "Xã Nghĩa Thái",
+    "full_name_en": "Nghia Thai Commune",
+    "type": "xã",
+    "district_code": "361",
+    "codename": "nghia_thai"
+  },
+  {
+    "code": "13909",
+    "name": "Hoàng Nam",
+    "name_en": "Hoang Nam",
+    "full_name": "Xã Hoàng Nam",
+    "full_name_en": "Hoang Nam Commune",
+    "type": "xã",
+    "district_code": "361",
+    "codename": "hoang_nam"
+  },
+  {
+    "code": "13912",
+    "name": "Nghĩa Châu",
+    "name_en": "Nghia Chau",
+    "full_name": "Xã Nghĩa Châu",
+    "full_name_en": "Nghia Chau Commune",
+    "type": "xã",
+    "district_code": "361",
+    "codename": "nghia_chau"
+  },
+  {
+    "code": "13915",
+    "name": "Nghĩa Trung",
+    "name_en": "Nghia Trung",
+    "full_name": "Xã Nghĩa Trung",
+    "full_name_en": "Nghia Trung Commune",
+    "type": "xã",
+    "district_code": "361",
+    "codename": "nghia_trung"
+  },
+  {
+    "code": "13918",
+    "name": "Nghĩa Sơn",
+    "name_en": "Nghia Son",
+    "full_name": "Xã Nghĩa Sơn",
+    "full_name_en": "Nghia Son Commune",
+    "type": "xã",
+    "district_code": "361",
+    "codename": "nghia_son"
+  },
+  {
+    "code": "13921",
+    "name": "Nghĩa Lạc",
+    "name_en": "Nghia Lac",
+    "full_name": "Xã Nghĩa Lạc",
+    "full_name_en": "Nghia Lac Commune",
+    "type": "xã",
+    "district_code": "361",
+    "codename": "nghia_lac"
+  },
+  {
+    "code": "13924",
+    "name": "Nghĩa Hồng",
+    "name_en": "Nghia Hong",
+    "full_name": "Xã Nghĩa Hồng",
+    "full_name_en": "Nghia Hong Commune",
+    "type": "xã",
+    "district_code": "361",
+    "codename": "nghia_hong"
+  },
+  {
+    "code": "13927",
+    "name": "Nghĩa Phong",
+    "name_en": "Nghia Phong",
+    "full_name": "Xã Nghĩa Phong",
+    "full_name_en": "Nghia Phong Commune",
+    "type": "xã",
+    "district_code": "361",
+    "codename": "nghia_phong"
+  },
+  {
+    "code": "13930",
+    "name": "Nghĩa Phú",
+    "name_en": "Nghia Phu",
+    "full_name": "Xã Nghĩa Phú",
+    "full_name_en": "Nghia Phu Commune",
+    "type": "xã",
+    "district_code": "361",
+    "codename": "nghia_phu"
+  },
+  {
+    "code": "13939",
+    "name": "Quỹ Nhất",
+    "name_en": "Quy Nhat",
+    "full_name": "Thị trấn Quỹ Nhất",
+    "full_name_en": "Quy Nhat Township",
+    "type": "thị trấn",
+    "district_code": "361",
+    "codename": "quy_nhat"
+  },
+  {
+    "code": "13942",
+    "name": "Nghĩa Hùng",
+    "name_en": "Nghia Hung",
+    "full_name": "Xã Nghĩa Hùng",
+    "full_name_en": "Nghia Hung Commune",
+    "type": "xã",
+    "district_code": "361",
+    "codename": "nghia_hung"
+  },
+  {
+    "code": "13945",
+    "name": "Nghĩa Lâm",
+    "name_en": "Nghia Lam",
+    "full_name": "Xã Nghĩa Lâm",
+    "full_name_en": "Nghia Lam Commune",
+    "type": "xã",
+    "district_code": "361",
+    "codename": "nghia_lam"
+  },
+  {
+    "code": "13948",
+    "name": "Nghĩa Thành",
+    "name_en": "Nghia Thanh",
+    "full_name": "Xã Nghĩa Thành",
+    "full_name_en": "Nghia Thanh Commune",
+    "type": "xã",
+    "district_code": "361",
+    "codename": "nghia_thanh"
+  },
+  {
+    "code": "13951",
+    "name": "Phúc Thắng",
+    "name_en": "Phuc Thang",
+    "full_name": "Xã Phúc Thắng",
+    "full_name_en": "Phuc Thang Commune",
+    "type": "xã",
+    "district_code": "361",
+    "codename": "phuc_thang"
+  },
+  {
+    "code": "13954",
+    "name": "Nghĩa Lợi",
+    "name_en": "Nghia Loi",
+    "full_name": "Xã Nghĩa Lợi",
+    "full_name_en": "Nghia Loi Commune",
+    "type": "xã",
+    "district_code": "361",
+    "codename": "nghia_loi"
+  },
+  {
+    "code": "13957",
+    "name": "Nghĩa Hải",
+    "name_en": "Nghia Hai",
+    "full_name": "Xã Nghĩa Hải",
+    "full_name_en": "Nghia Hai Commune",
+    "type": "xã",
+    "district_code": "361",
+    "codename": "nghia_hai"
+  },
+  {
+    "code": "13963",
+    "name": "Nam Điền",
+    "name_en": "Nam Dien",
+    "full_name": "Xã Nam Điền",
+    "full_name_en": "Nam Dien Commune",
+    "type": "xã",
+    "district_code": "361",
+    "codename": "nam_dien"
+  }
+]

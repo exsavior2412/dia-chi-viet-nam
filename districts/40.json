@@ -1,0 +1,202 @@
+[
+  {
+    "code": "412",
+    "name": "Vinh",
+    "name_en": "Vinh",
+    "full_name": "Thành phố Vinh",
+    "full_name_en": "Vinh City",
+    "type": "thành phố",
+    "province_code": "40",
+    "codename": "vinh"
+  },
+  {
+    "code": "414",
+    "name": "Thái Hoà",
+    "name_en": "Thai Hoa",
+    "full_name": "Thị xã Thái Hoà",
+    "full_name_en": "Thai Hoa Town",
+    "type": "thị xã",
+    "province_code": "40",
+    "codename": "thai_hoa"
+  },
+  {
+    "code": "415",
+    "name": "Quế Phong",
+    "name_en": "Que Phong",
+    "full_name": "Huyện Quế Phong",
+    "full_name_en": "Que Phong District",
+    "type": "huyện",
+    "province_code": "40",
+    "codename": "que_phong"
+  },
+  {
+    "code": "416",
+    "name": "Quỳ Châu",
+    "name_en": "Quy Chau",
+    "full_name": "Huyện Quỳ Châu",
+    "full_name_en": "Quy Chau District",
+    "type": "huyện",
+    "province_code": "40",
+    "codename": "quy_chau"
+  },
+  {
+    "code": "417",
+    "name": "Kỳ Sơn",
+    "name_en": "Ky Son",
+    "full_name": "Huyện Kỳ Sơn",
+    "full_name_en": "Ky Son District",
+    "type": "huyện",
+    "province_code": "40",
+    "codename": "ky_son"
+  },
+  {
+    "code": "418",
+    "name": "Tương Dương",
+    "name_en": "Tuong Duong",
+    "full_name": "Huyện Tương Dương",
+    "full_name_en": "Tuong Duong District",
+    "type": "huyện",
+    "province_code": "40",
+    "codename": "tuong_duong"
+  },
+  {
+    "code": "419",
+    "name": "Nghĩa Đàn",
+    "name_en": "Nghia Dan",
+    "full_name": "Huyện Nghĩa Đàn",
+    "full_name_en": "Nghia Dan District",
+    "type": "huyện",
+    "province_code": "40",
+    "codename": "nghia_dan"
+  },
+  {
+    "code": "420",
+    "name": "Quỳ Hợp",
+    "name_en": "Quy Hop",
+    "full_name": "Huyện Quỳ Hợp",
+    "full_name_en": "Quy Hop District",
+    "type": "huyện",
+    "province_code": "40",
+    "codename": "quy_hop"
+  },
+  {
+    "code": "421",
+    "name": "Quỳnh Lưu",
+    "name_en": "Quynh Luu",
+    "full_name": "Huyện Quỳnh Lưu",
+    "full_name_en": "Quynh Luu District",
+    "type": "huyện",
+    "province_code": "40",
+    "codename": "quynh_luu"
+  },
+  {
+    "code": "422",
+    "name": "Con Cuông",
+    "name_en": "Con Cuong",
+    "full_name": "Huyện Con Cuông",
+    "full_name_en": "Con Cuong District",
+    "type": "huyện",
+    "province_code": "40",
+    "codename": "con_cuong"
+  },
+  {
+    "code": "423",
+    "name": "Tân Kỳ",
+    "name_en": "Tan Ky",
+    "full_name": "Huyện Tân Kỳ",
+    "full_name_en": "Tan Ky District",
+    "type": "huyện",
+    "province_code": "40",
+    "codename": "tan_ky"
+  },
+  {
+    "code": "424",
+    "name": "Anh Sơn",
+    "name_en": "Anh Son",
+    "full_name": "Huyện Anh Sơn",
+    "full_name_en": "Anh Son District",
+    "type": "huyện",
+    "province_code": "40",
+    "codename": "anh_son"
+  },
+  {
+    "code": "425",
+    "name": "Diễn Châu",
+    "name_en": "Dien Chau",
+    "full_name": "Huyện Diễn Châu",
+    "full_name_en": "Dien Chau District",
+    "type": "huyện",
+    "province_code": "40",
+    "codename": "dien_chau"
+  },
+  {
+    "code": "426",
+    "name": "Yên Thành",
+    "name_en": "Yen Thanh",
+    "full_name": "Huyện Yên Thành",
+    "full_name_en": "Yen Thanh District",
+    "type": "huyện",
+    "province_code": "40",
+    "codename": "yen_thanh"
+  },
+  {
+    "code": "427",
+    "name": "Đô Lương",
+    "name_en": "Do Luong",
+    "full_name": "Huyện Đô Lương",
+    "full_name_en": "Do Luong District",
+    "type": "huyện",
+    "province_code": "40",
+    "codename": "do_luong"
+  },
+  {
+    "code": "428",
+    "name": "Thanh Chương",
+    "name_en": "Thanh Chuong",
+    "full_name": "Huyện Thanh Chương",
+    "full_name_en": "Thanh Chuong District",
+    "type": "huyện",
+    "province_code": "40",
+    "codename": "thanh_chuong"
+  },
+  {
+    "code": "429",
+    "name": "Nghi Lộc",
+    "name_en": "Nghi Loc",
+    "full_name": "Huyện Nghi Lộc",
+    "full_name_en": "Nghi Loc District",
+    "type": "huyện",
+    "province_code": "40",
+    "codename": "nghi_loc"
+  },
+  {
+    "code": "430",
+    "name": "Nam Đàn",
+    "name_en": "Nam Dan",
+    "full_name": "Huyện Nam Đàn",
+    "full_name_en": "Nam Dan District",
+    "type": "huyện",
+    "province_code": "40",
+    "codename": "nam_dan"
+  },
+  {
+    "code": "431",
+    "name": "Hưng Nguyên",
+    "name_en": "Hung Nguyen",
+    "full_name": "Huyện Hưng Nguyên",
+    "full_name_en": "Hung Nguyen District",
+    "type": "huyện",
+    "province_code": "40",
+    "codename": "hung_nguyen"
+  },
+  {
+    "code": "432",
+    "name": "Hoàng Mai",
+    "name_en": "Hoang Mai",
+    "full_name": "Thị xã Hoàng Mai",
+    "full_name_en": "Hoang Mai Town",
+    "type": "thị xã",
+    "province_code": "40",
+    "codename": "hoang_mai"
+  }
+]

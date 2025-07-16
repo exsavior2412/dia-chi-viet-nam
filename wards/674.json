@@ -1,0 +1,82 @@
+[
+  {
+    "code": "24853",
+    "name": "Đạ Tông",
+    "name_en": "Da Tong",
+    "full_name": "Xã Đạ Tông",
+    "full_name_en": "Da Tong Commune",
+    "type": "xã",
+    "district_code": "674",
+    "codename": "da_tong"
+  },
+  {
+    "code": "24856",
+    "name": "Đạ Long",
+    "name_en": "Da Long",
+    "full_name": "Xã Đạ Long",
+    "full_name_en": "Da Long Commune",
+    "type": "xã",
+    "district_code": "674",
+    "codename": "da_long"
+  },
+  {
+    "code": "24859",
+    "name": "Đạ M' Rong",
+    "name_en": "Da M' Rong",
+    "full_name": "Xã Đạ M' Rong",
+    "full_name_en": "Da M' Rong Commune",
+    "type": "xã",
+    "district_code": "674",
+    "codename": "da_m_rong"
+  },
+  {
+    "code": "24874",
+    "name": "Liêng Srônh",
+    "name_en": "Lieng Sronh",
+    "full_name": "Xã Liêng Srônh",
+    "full_name_en": "Lieng Sronh Commune",
+    "type": "xã",
+    "district_code": "674",
+    "codename": "lieng_sronh"
+  },
+  {
+    "code": "24875",
+    "name": "Đạ Rsal",
+    "name_en": "Da Rsal",
+    "full_name": "Xã Đạ Rsal",
+    "full_name_en": "Da Rsal Commune",
+    "type": "xã",
+    "district_code": "674",
+    "codename": "da_rsal"
+  },
+  {
+    "code": "24877",
+    "name": "Rô Men",
+    "name_en": "Ro Men",
+    "full_name": "Xã Rô Men",
+    "full_name_en": "Ro Men Commune",
+    "type": "xã",
+    "district_code": "674",
+    "codename": "ro_men"
+  },
+  {
+    "code": "24886",
+    "name": "Phi Liêng",
+    "name_en": "Phi Lieng",
+    "full_name": "Xã Phi Liêng",
+    "full_name_en": "Phi Lieng Commune",
+    "type": "xã",
+    "district_code": "674",
+    "codename": "phi_lieng"
+  },
+  {
+    "code": "24889",
+    "name": "Đạ K' Nàng",
+    "name_en": "Da K' Nang",
+    "full_name": "Xã Đạ K' Nàng",
+    "full_name_en": "Da K' Nang Commune",
+    "type": "xã",
+    "district_code": "674",
+    "codename": "da_k_nang"
+  }
+]

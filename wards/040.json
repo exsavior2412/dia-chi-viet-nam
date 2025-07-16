@@ -1,0 +1,112 @@
+[
+  {
+    "code": "01267",
+    "name": "Sông Hiến",
+    "name_en": "Song Hien",
+    "full_name": "Phường Sông Hiến",
+    "full_name_en": "Song Hien Ward",
+    "type": "phường",
+    "district_code": "040",
+    "codename": "song_hien"
+  },
+  {
+    "code": "01270",
+    "name": "Sông Bằng",
+    "name_en": "Song Bang",
+    "full_name": "Phường Sông Bằng",
+    "full_name_en": "Song Bang Ward",
+    "type": "phường",
+    "district_code": "040",
+    "codename": "song_bang"
+  },
+  {
+    "code": "01273",
+    "name": "Hợp Giang",
+    "name_en": "Hop Giang",
+    "full_name": "Phường Hợp Giang",
+    "full_name_en": "Hop Giang Ward",
+    "type": "phường",
+    "district_code": "040",
+    "codename": "hop_giang"
+  },
+  {
+    "code": "01276",
+    "name": "Tân Giang",
+    "name_en": "Tan Giang",
+    "full_name": "Phường Tân Giang",
+    "full_name_en": "Tan Giang Ward",
+    "type": "phường",
+    "district_code": "040",
+    "codename": "tan_giang"
+  },
+  {
+    "code": "01279",
+    "name": "Ngọc Xuân",
+    "name_en": "Ngoc Xuan",
+    "full_name": "Phường Ngọc Xuân",
+    "full_name_en": "Ngoc Xuan Ward",
+    "type": "phường",
+    "district_code": "040",
+    "codename": "ngoc_xuan"
+  },
+  {
+    "code": "01282",
+    "name": "Đề Thám",
+    "name_en": "De Tham",
+    "full_name": "Phường Đề Thám",
+    "full_name_en": "De Tham Ward",
+    "type": "phường",
+    "district_code": "040",
+    "codename": "de_tham"
+  },
+  {
+    "code": "01285",
+    "name": "Hoà Chung",
+    "name_en": "Hoa Chung",
+    "full_name": "Phường Hoà Chung",
+    "full_name_en": "Hoa Chung Ward",
+    "type": "phường",
+    "district_code": "040",
+    "codename": "hoa_chung"
+  },
+  {
+    "code": "01288",
+    "name": "Duyệt Trung",
+    "name_en": "Duyet Trung",
+    "full_name": "Phường Duyệt Trung",
+    "full_name_en": "Duyet Trung Ward",
+    "type": "phường",
+    "district_code": "040",
+    "codename": "duyet_trung"
+  },
+  {
+    "code": "01693",
+    "name": "Vĩnh Quang",
+    "name_en": "Vinh Quang",
+    "full_name": "Xã Vĩnh Quang",
+    "full_name_en": "Vinh Quang Commune",
+    "type": "xã",
+    "district_code": "040",
+    "codename": "vinh_quang"
+  },
+  {
+    "code": "01705",
+    "name": "Hưng Đạo",
+    "name_en": "Hung Dao",
+    "full_name": "Xã Hưng Đạo",
+    "full_name_en": "Hung Dao Commune",
+    "type": "xã",
+    "district_code": "040",
+    "codename": "hung_dao"
+  },
+  {
+    "code": "01720",
+    "name": "Chu Trinh",
+    "name_en": "Chu Trinh",
+    "full_name": "Xã Chu Trinh",
+    "full_name_en": "Chu Trinh Commune",
+    "type": "xã",
+    "district_code": "040",
+    "codename": "chu_trinh"
+  }
+]

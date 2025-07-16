@@ -1,0 +1,262 @@
+[
+  {
+    "code": "00376",
+    "name": "Sóc Sơn",
+    "name_en": "Soc Son",
+    "full_name": "Thị trấn Sóc Sơn",
+    "full_name_en": "Soc Son Township",
+    "type": "thị trấn",
+    "district_code": "016",
+    "codename": "soc_son"
+  },
+  {
+    "code": "00379",
+    "name": "Bắc Sơn",
+    "name_en": "Bac Son",
+    "full_name": "Xã Bắc Sơn",
+    "full_name_en": "Bac Son Commune",
+    "type": "xã",
+    "district_code": "016",
+    "codename": "bac_son"
+  },
+  {
+    "code": "00382",
+    "name": "Minh Trí",
+    "name_en": "Minh Tri",
+    "full_name": "Xã Minh Trí",
+    "full_name_en": "Minh Tri Commune",
+    "type": "xã",
+    "district_code": "016",
+    "codename": "minh_tri"
+  },
+  {
+    "code": "00385",
+    "name": "Hồng Kỳ",
+    "name_en": "Hong Ky",
+    "full_name": "Xã Hồng Kỳ",
+    "full_name_en": "Hong Ky Commune",
+    "type": "xã",
+    "district_code": "016",
+    "codename": "hong_ky"
+  },
+  {
+    "code": "00388",
+    "name": "Nam Sơn",
+    "name_en": "Nam Son",
+    "full_name": "Xã Nam Sơn",
+    "full_name_en": "Nam Son Commune",
+    "type": "xã",
+    "district_code": "016",
+    "codename": "nam_son"
+  },
+  {
+    "code": "00391",
+    "name": "Trung Giã",
+    "name_en": "Trung Gia",
+    "full_name": "Xã Trung Giã",
+    "full_name_en": "Trung Gia Commune",
+    "type": "xã",
+    "district_code": "016",
+    "codename": "trung_gia"
+  },
+  {
+    "code": "00394",
+    "name": "Tân Hưng",
+    "name_en": "Tan Hung",
+    "full_name": "Xã Tân Hưng",
+    "full_name_en": "Tan Hung Commune",
+    "type": "xã",
+    "district_code": "016",
+    "codename": "tan_hung"
+  },
+  {
+    "code": "00397",
+    "name": "Minh Phú",
+    "name_en": "Minh Phu",
+    "full_name": "Xã Minh Phú",
+    "full_name_en": "Minh Phu Commune",
+    "type": "xã",
+    "district_code": "016",
+    "codename": "minh_phu"
+  },
+  {
+    "code": "00400",
+    "name": "Phù Linh",
+    "name_en": "Phu Linh",
+    "full_name": "Xã Phù Linh",
+    "full_name_en": "Phu Linh Commune",
+    "type": "xã",
+    "district_code": "016",
+    "codename": "phu_linh"
+  },
+  {
+    "code": "00403",
+    "name": "Bắc Phú",
+    "name_en": "Bac Phu",
+    "full_name": "Xã Bắc Phú",
+    "full_name_en": "Bac Phu Commune",
+    "type": "xã",
+    "district_code": "016",
+    "codename": "bac_phu"
+  },
+  {
+    "code": "00406",
+    "name": "Tân Minh",
+    "name_en": "Tan Minh",
+    "full_name": "Xã Tân Minh",
+    "full_name_en": "Tan Minh Commune",
+    "type": "xã",
+    "district_code": "016",
+    "codename": "tan_minh"
+  },
+  {
+    "code": "00409",
+    "name": "Quang Tiến",
+    "name_en": "Quang Tien",
+    "full_name": "Xã Quang Tiến",
+    "full_name_en": "Quang Tien Commune",
+    "type": "xã",
+    "district_code": "016",
+    "codename": "quang_tien"
+  },
+  {
+    "code": "00412",
+    "name": "Hiền Ninh",
+    "name_en": "Hien Ninh",
+    "full_name": "Xã Hiền Ninh",
+    "full_name_en": "Hien Ninh Commune",
+    "type": "xã",
+    "district_code": "016",
+    "codename": "hien_ninh"
+  },
+  {
+    "code": "00415",
+    "name": "Tân Dân",
+    "name_en": "Tan Dan",
+    "full_name": "Xã Tân Dân",
+    "full_name_en": "Tan Dan Commune",
+    "type": "xã",
+    "district_code": "016",
+    "codename": "tan_dan"
+  },
+  {
+    "code": "00418",
+    "name": "Tiên Dược",
+    "name_en": "Tien Duoc",
+    "full_name": "Xã Tiên Dược",
+    "full_name_en": "Tien Duoc Commune",
+    "type": "xã",
+    "district_code": "016",
+    "codename": "tien_duoc"
+  },
+  {
+    "code": "00421",
+    "name": "Việt Long",
+    "name_en": "Viet Long",
+    "full_name": "Xã Việt Long",
+    "full_name_en": "Viet Long Commune",
+    "type": "xã",
+    "district_code": "016",
+    "codename": "viet_long"
+  },
+  {
+    "code": "00424",
+    "name": "Xuân Giang",
+    "name_en": "Xuan Giang",
+    "full_name": "Xã Xuân Giang",
+    "full_name_en": "Xuan Giang Commune",
+    "type": "xã",
+    "district_code": "016",
+    "codename": "xuan_giang"
+  },
+  {
+    "code": "00427",
+    "name": "Mai Đình",
+    "name_en": "Mai Dinh",
+    "full_name": "Xã Mai Đình",
+    "full_name_en": "Mai Dinh Commune",
+    "type": "xã",
+    "district_code": "016",
+    "codename": "mai_dinh"
+  },
+  {
+    "code": "00430",
+    "name": "Đức Hoà",
+    "name_en": "Duc Hoa",
+    "full_name": "Xã Đức Hoà",
+    "full_name_en": "Duc Hoa Commune",
+    "type": "xã",
+    "district_code": "016",
+    "codename": "duc_hoa"
+  },
+  {
+    "code": "00433",
+    "name": "Thanh Xuân",
+    "name_en": "Thanh Xuan",
+    "full_name": "Xã Thanh Xuân",
+    "full_name_en": "Thanh Xuan Commune",
+    "type": "xã",
+    "district_code": "016",
+    "codename": "thanh_xuan"
+  },
+  {
+    "code": "00436",
+    "name": "Đông Xuân",
+    "name_en": "Dong Xuan",
+    "full_name": "Xã Đông Xuân",
+    "full_name_en": "Dong Xuan Commune",
+    "type": "xã",
+    "district_code": "016",
+    "codename": "dong_xuan"
+  },
+  {
+    "code": "00439",
+    "name": "Kim Lũ",
+    "name_en": "Kim Lu",
+    "full_name": "Xã Kim Lũ",
+    "full_name_en": "Kim Lu Commune",
+    "type": "xã",
+    "district_code": "016",
+    "codename": "kim_lu"
+  },
+  {
+    "code": "00442",
+    "name": "Phú Cường",
+    "name_en": "Phu Cuong",
+    "full_name": "Xã Phú Cường",
+    "full_name_en": "Phu Cuong Commune",
+    "type": "xã",
+    "district_code": "016",
+    "codename": "phu_cuong"
+  },
+  {
+    "code": "00445",
+    "name": "Phú Minh",
+    "name_en": "Phu Minh",
+    "full_name": "Xã Phú Minh",
+    "full_name_en": "Phu Minh Commune",
+    "type": "xã",
+    "district_code": "016",
+    "codename": "phu_minh"
+  },
+  {
+    "code": "00448",
+    "name": "Phù Lỗ",
+    "name_en": "Phu Lo",
+    "full_name": "Xã Phù Lỗ",
+    "full_name_en": "Phu Lo Commune",
+    "type": "xã",
+    "district_code": "016",
+    "codename": "phu_lo"
+  },
+  {
+    "code": "00451",
+    "name": "Xuân Thu",
+    "name_en": "Xuan Thu",
+    "full_name": "Xã Xuân Thu",
+    "full_name_en": "Xuan Thu Commune",
+    "type": "xã",
+    "district_code": "016",
+    "codename": "xuan_thu"
+  }
+]

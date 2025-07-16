@@ -1,0 +1,222 @@
+[
+  {
+    "code": "29110",
+    "name": "Ba Tri",
+    "name_en": "Ba Tri",
+    "full_name": "Thị trấn Ba Tri",
+    "full_name_en": "Ba Tri Township",
+    "type": "thị trấn",
+    "district_code": "836",
+    "codename": "ba_tri"
+  },
+  {
+    "code": "29116",
+    "name": "Mỹ Hòa",
+    "name_en": "My Hoa",
+    "full_name": "Xã Mỹ Hòa",
+    "full_name_en": "My Hoa Commune",
+    "type": "xã",
+    "district_code": "836",
+    "codename": "my_hoa"
+  },
+  {
+    "code": "29119",
+    "name": "Tân Xuân",
+    "name_en": "Tan Xuan",
+    "full_name": "Xã Tân Xuân",
+    "full_name_en": "Tan Xuan Commune",
+    "type": "xã",
+    "district_code": "836",
+    "codename": "tan_xuan"
+  },
+  {
+    "code": "29122",
+    "name": "Mỹ Chánh",
+    "name_en": "My Chanh",
+    "full_name": "Xã Mỹ Chánh",
+    "full_name_en": "My Chanh Commune",
+    "type": "xã",
+    "district_code": "836",
+    "codename": "my_chanh"
+  },
+  {
+    "code": "29125",
+    "name": "Bảo Thạnh",
+    "name_en": "Bao Thanh",
+    "full_name": "Xã Bảo Thạnh",
+    "full_name_en": "Bao Thanh Commune",
+    "type": "xã",
+    "district_code": "836",
+    "codename": "bao_thanh"
+  },
+  {
+    "code": "29128",
+    "name": "An Phú Trung",
+    "name_en": "An Phu Trung",
+    "full_name": "Xã An Phú Trung",
+    "full_name_en": "An Phu Trung Commune",
+    "type": "xã",
+    "district_code": "836",
+    "codename": "an_phu_trung"
+  },
+  {
+    "code": "29131",
+    "name": "Mỹ Thạnh",
+    "name_en": "My Thanh",
+    "full_name": "Xã Mỹ Thạnh",
+    "full_name_en": "My Thanh Commune",
+    "type": "xã",
+    "district_code": "836",
+    "codename": "my_thanh"
+  },
+  {
+    "code": "29134",
+    "name": "Mỹ Nhơn",
+    "name_en": "My Nhon",
+    "full_name": "Xã Mỹ Nhơn",
+    "full_name_en": "My Nhon Commune",
+    "type": "xã",
+    "district_code": "836",
+    "codename": "my_nhon"
+  },
+  {
+    "code": "29137",
+    "name": "Phước Ngãi",
+    "name_en": "Phuoc Ngai",
+    "full_name": "Xã Phước Ngãi",
+    "full_name_en": "Phuoc Ngai Commune",
+    "type": "xã",
+    "district_code": "836",
+    "codename": "phuoc_ngai"
+  },
+  {
+    "code": "29143",
+    "name": "An Ngãi Trung",
+    "name_en": "An Ngai Trung",
+    "full_name": "Xã An Ngãi Trung",
+    "full_name_en": "An Ngai Trung Commune",
+    "type": "xã",
+    "district_code": "836",
+    "codename": "an_ngai_trung"
+  },
+  {
+    "code": "29146",
+    "name": "Phú Lễ",
+    "name_en": "Phu Le",
+    "full_name": "Xã Phú Lễ",
+    "full_name_en": "Phu Le Commune",
+    "type": "xã",
+    "district_code": "836",
+    "codename": "phu_le"
+  },
+  {
+    "code": "29149",
+    "name": "An Bình Tây",
+    "name_en": "An Binh Tay",
+    "full_name": "Xã An Bình Tây",
+    "full_name_en": "An Binh Tay Commune",
+    "type": "xã",
+    "district_code": "836",
+    "codename": "an_binh_tay"
+  },
+  {
+    "code": "29152",
+    "name": "Bảo Thuận",
+    "name_en": "Bao Thuan",
+    "full_name": "Xã Bảo Thuận",
+    "full_name_en": "Bao Thuan Commune",
+    "type": "xã",
+    "district_code": "836",
+    "codename": "bao_thuan"
+  },
+  {
+    "code": "29155",
+    "name": "Tân Hưng",
+    "name_en": "Tan Hung",
+    "full_name": "Xã Tân Hưng",
+    "full_name_en": "Tan Hung Commune",
+    "type": "xã",
+    "district_code": "836",
+    "codename": "tan_hung"
+  },
+  {
+    "code": "29158",
+    "name": "An Ngãi Tây",
+    "name_en": "An Ngai Tay",
+    "full_name": "Xã An Ngãi Tây",
+    "full_name_en": "An Ngai Tay Commune",
+    "type": "xã",
+    "district_code": "836",
+    "codename": "an_ngai_tay"
+  },
+  {
+    "code": "29161",
+    "name": "An Hiệp",
+    "name_en": "An Hiep",
+    "full_name": "Xã An Hiệp",
+    "full_name_en": "An Hiep Commune",
+    "type": "xã",
+    "district_code": "836",
+    "codename": "an_hiep"
+  },
+  {
+    "code": "29164",
+    "name": "Vĩnh Hòa",
+    "name_en": "Vinh Hoa",
+    "full_name": "Xã Vĩnh Hòa",
+    "full_name_en": "Vinh Hoa Commune",
+    "type": "xã",
+    "district_code": "836",
+    "codename": "vinh_hoa"
+  },
+  {
+    "code": "29167",
+    "name": "Tân Thủy",
+    "name_en": "Tan Thuy",
+    "full_name": "Xã Tân Thủy",
+    "full_name_en": "Tan Thuy Commune",
+    "type": "xã",
+    "district_code": "836",
+    "codename": "tan_thuy"
+  },
+  {
+    "code": "29170",
+    "name": "Vĩnh An",
+    "name_en": "Vinh An",
+    "full_name": "Xã Vĩnh An",
+    "full_name_en": "Vinh An Commune",
+    "type": "xã",
+    "district_code": "836",
+    "codename": "vinh_an"
+  },
+  {
+    "code": "29173",
+    "name": "An Đức",
+    "name_en": "An Duc",
+    "full_name": "Xã An Đức",
+    "full_name_en": "An Duc Commune",
+    "type": "xã",
+    "district_code": "836",
+    "codename": "an_duc"
+  },
+  {
+    "code": "29176",
+    "name": "An Hòa Tây",
+    "name_en": "An Hoa Tay",
+    "full_name": "Xã An Hòa Tây",
+    "full_name_en": "An Hoa Tay Commune",
+    "type": "xã",
+    "district_code": "836",
+    "codename": "an_hoa_tay"
+  },
+  {
+    "code": "29179",
+    "name": "Tiệm Tôm",
+    "name_en": "Tiem Tom",
+    "full_name": "Thị trấn Tiệm Tôm",
+    "full_name_en": "Tiem Tom Township",
+    "type": "thị trấn",
+    "district_code": "836",
+    "codename": "tiem_tom"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "code": "20206",
+    "name": "Thanh Khê Tây",
+    "name_en": "Thanh Khe Tay",
+    "full_name": "Phường Thanh Khê Tây",
+    "full_name_en": "Thanh Khe Tay Ward",
+    "type": "phường",
+    "district_code": "491",
+    "codename": "thanh_khe_tay"
+  },
+  {
+    "code": "20207",
+    "name": "Thanh Khê Đông",
+    "name_en": "Thanh Khe Dong",
+    "full_name": "Phường Thanh Khê Đông",
+    "full_name_en": "Thanh Khe Dong Ward",
+    "type": "phường",
+    "district_code": "491",
+    "codename": "thanh_khe_dong"
+  },
+  {
+    "code": "20209",
+    "name": "Xuân Hà",
+    "name_en": "Xuan Ha",
+    "full_name": "Phường Xuân Hà",
+    "full_name_en": "Xuan Ha Ward",
+    "type": "phường",
+    "district_code": "491",
+    "codename": "xuan_ha"
+  },
+  {
+    "code": "20215",
+    "name": "Chính Gián",
+    "name_en": "Chinh Gian",
+    "full_name": "Phường Chính Gián",
+    "full_name_en": "Chinh Gian Ward",
+    "type": "phường",
+    "district_code": "491",
+    "codename": "chinh_gian"
+  },
+  {
+    "code": "20218",
+    "name": "Thạc Gián",
+    "name_en": "Thac Gian",
+    "full_name": "Phường Thạc Gián",
+    "full_name_en": "Thac Gian Ward",
+    "type": "phường",
+    "district_code": "491",
+    "codename": "thac_gian"
+  },
+  {
+    "code": "20224",
+    "name": "An Khê",
+    "name_en": "An Khe",
+    "full_name": "Phường An Khê",
+    "full_name_en": "An Khe Ward",
+    "type": "phường",
+    "district_code": "491",
+    "codename": "an_khe"
+  }
+]

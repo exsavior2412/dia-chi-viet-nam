@@ -1,0 +1,202 @@
+[
+  {
+    "code": "07888",
+    "name": "Dữu Lâu",
+    "name_en": "Duu Lau",
+    "full_name": "Phường Dữu Lâu",
+    "full_name_en": "Duu Lau Ward",
+    "type": "phường",
+    "district_code": "227",
+    "codename": "duu_lau"
+  },
+  {
+    "code": "07894",
+    "name": "Nông Trang",
+    "name_en": "Nong Trang",
+    "full_name": "Phường Nông Trang",
+    "full_name_en": "Nong Trang Ward",
+    "type": "phường",
+    "district_code": "227",
+    "codename": "nong_trang"
+  },
+  {
+    "code": "07897",
+    "name": "Tân Dân",
+    "name_en": "Tan Dan",
+    "full_name": "Phường Tân Dân",
+    "full_name_en": "Tan Dan Ward",
+    "type": "phường",
+    "district_code": "227",
+    "codename": "tan_dan"
+  },
+  {
+    "code": "07900",
+    "name": "Gia Cẩm",
+    "name_en": "Gia Cam",
+    "full_name": "Phường Gia Cẩm",
+    "full_name_en": "Gia Cam Ward",
+    "type": "phường",
+    "district_code": "227",
+    "codename": "gia_cam"
+  },
+  {
+    "code": "07903",
+    "name": "Tiên Cát",
+    "name_en": "Tien Cat",
+    "full_name": "Phường Tiên Cát",
+    "full_name_en": "Tien Cat Ward",
+    "type": "phường",
+    "district_code": "227",
+    "codename": "tien_cat"
+  },
+  {
+    "code": "07906",
+    "name": "Thọ Sơn",
+    "name_en": "Tho Son",
+    "full_name": "Phường Thọ Sơn",
+    "full_name_en": "Tho Son Ward",
+    "type": "phường",
+    "district_code": "227",
+    "codename": "tho_son"
+  },
+  {
+    "code": "07909",
+    "name": "Thanh Miếu",
+    "name_en": "Thanh Mieu",
+    "full_name": "Phường Thanh Miếu",
+    "full_name_en": "Thanh Mieu Ward",
+    "type": "phường",
+    "district_code": "227",
+    "codename": "thanh_mieu"
+  },
+  {
+    "code": "07912",
+    "name": "Bạch Hạc",
+    "name_en": "Bach Hac",
+    "full_name": "Phường Bạch Hạc",
+    "full_name_en": "Bach Hac Ward",
+    "type": "phường",
+    "district_code": "227",
+    "codename": "bach_hac"
+  },
+  {
+    "code": "07918",
+    "name": "Vân Phú",
+    "name_en": "Van Phu",
+    "full_name": "Phường Vân Phú",
+    "full_name_en": "Van Phu Ward",
+    "type": "phường",
+    "district_code": "227",
+    "codename": "van_phu"
+  },
+  {
+    "code": "07921",
+    "name": "Phượng Lâu",
+    "name_en": "Phuong Lau",
+    "full_name": "Xã Phượng Lâu",
+    "full_name_en": "Phuong Lau Commune",
+    "type": "xã",
+    "district_code": "227",
+    "codename": "phuong_lau"
+  },
+  {
+    "code": "07924",
+    "name": "Thụy Vân",
+    "name_en": "Thuy Van",
+    "full_name": "Xã Thụy Vân",
+    "full_name_en": "Thuy Van Commune",
+    "type": "xã",
+    "district_code": "227",
+    "codename": "thuy_van"
+  },
+  {
+    "code": "07927",
+    "name": "Minh Phương",
+    "name_en": "Minh Phuong",
+    "full_name": "Phường Minh Phương",
+    "full_name_en": "Minh Phuong Ward",
+    "type": "phường",
+    "district_code": "227",
+    "codename": "minh_phuong"
+  },
+  {
+    "code": "07930",
+    "name": "Trưng Vương",
+    "name_en": "Trung Vuong",
+    "full_name": "Xã Trưng Vương",
+    "full_name_en": "Trung Vuong Commune",
+    "type": "xã",
+    "district_code": "227",
+    "codename": "trung_vuong"
+  },
+  {
+    "code": "07933",
+    "name": "Minh Nông",
+    "name_en": "Minh Nong",
+    "full_name": "Phường Minh Nông",
+    "full_name_en": "Minh Nong Ward",
+    "type": "phường",
+    "district_code": "227",
+    "codename": "minh_nong"
+  },
+  {
+    "code": "07936",
+    "name": "Sông Lô",
+    "name_en": "Song Lo",
+    "full_name": "Xã Sông Lô",
+    "full_name_en": "Song Lo Commune",
+    "type": "xã",
+    "district_code": "227",
+    "codename": "song_lo"
+  },
+  {
+    "code": "08281",
+    "name": "Kim Đức",
+    "name_en": "Kim Duc",
+    "full_name": "Xã Kim Đức",
+    "full_name_en": "Kim Duc Commune",
+    "type": "xã",
+    "district_code": "227",
+    "codename": "kim_duc"
+  },
+  {
+    "code": "08287",
+    "name": "Hùng Lô",
+    "name_en": "Hung Lo",
+    "full_name": "Xã Hùng Lô",
+    "full_name_en": "Hung Lo Commune",
+    "type": "xã",
+    "district_code": "227",
+    "codename": "hung_lo"
+  },
+  {
+    "code": "08503",
+    "name": "Hy Cương",
+    "name_en": "Hy Cuong",
+    "full_name": "Xã Hy Cương",
+    "full_name_en": "Hy Cuong Commune",
+    "type": "xã",
+    "district_code": "227",
+    "codename": "hy_cuong"
+  },
+  {
+    "code": "08506",
+    "name": "Chu Hóa",
+    "name_en": "Chu Hoa",
+    "full_name": "Xã Chu Hóa",
+    "full_name_en": "Chu Hoa Commune",
+    "type": "xã",
+    "district_code": "227",
+    "codename": "chu_hoa"
+  },
+  {
+    "code": "08515",
+    "name": "Thanh Đình",
+    "name_en": "Thanh Dinh",
+    "full_name": "Xã Thanh Đình",
+    "full_name_en": "Thanh Dinh Commune",
+    "type": "xã",
+    "district_code": "227",
+    "codename": "thanh_dinh"
+  }
+]

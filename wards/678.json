@@ -1,0 +1,152 @@
+[
+  {
+    "code": "24958",
+    "name": "Liên Nghĩa",
+    "name_en": "Lien Nghia",
+    "full_name": "Thị trấn Liên Nghĩa",
+    "full_name_en": "Lien Nghia Township",
+    "type": "thị trấn",
+    "district_code": "678",
+    "codename": "lien_nghia"
+  },
+  {
+    "code": "24961",
+    "name": "Hiệp An",
+    "name_en": "Hiep An",
+    "full_name": "Xã Hiệp An",
+    "full_name_en": "Hiep An Commune",
+    "type": "xã",
+    "district_code": "678",
+    "codename": "hiep_an"
+  },
+  {
+    "code": "24964",
+    "name": "Liên Hiệp",
+    "name_en": "Lien Hiep",
+    "full_name": "Xã Liên Hiệp",
+    "full_name_en": "Lien Hiep Commune",
+    "type": "xã",
+    "district_code": "678",
+    "codename": "lien_hiep"
+  },
+  {
+    "code": "24967",
+    "name": "Hiệp Thạnh",
+    "name_en": "Hiep Thanh",
+    "full_name": "Xã Hiệp Thạnh",
+    "full_name_en": "Hiep Thanh Commune",
+    "type": "xã",
+    "district_code": "678",
+    "codename": "hiep_thanh"
+  },
+  {
+    "code": "24970",
+    "name": "Bình Thạnh",
+    "name_en": "Binh Thanh",
+    "full_name": "Xã Bình Thạnh",
+    "full_name_en": "Binh Thanh Commune",
+    "type": "xã",
+    "district_code": "678",
+    "codename": "binh_thanh"
+  },
+  {
+    "code": "24973",
+    "name": "N'Thol Hạ",
+    "name_en": "N'Thol Ha",
+    "full_name": "Xã N'Thol Hạ",
+    "full_name_en": "N'Thol Ha Commune",
+    "type": "xã",
+    "district_code": "678",
+    "codename": "nthol_ha"
+  },
+  {
+    "code": "24976",
+    "name": "Tân Hội",
+    "name_en": "Tan Hoi",
+    "full_name": "Xã Tân Hội",
+    "full_name_en": "Tan Hoi Commune",
+    "type": "xã",
+    "district_code": "678",
+    "codename": "tan_hoi"
+  },
+  {
+    "code": "24979",
+    "name": "Tân Thành",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thành",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "678",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "24982",
+    "name": "Phú Hội",
+    "name_en": "Phu Hoi",
+    "full_name": "Xã Phú Hội",
+    "full_name_en": "Phu Hoi Commune",
+    "type": "xã",
+    "district_code": "678",
+    "codename": "phu_hoi"
+  },
+  {
+    "code": "24985",
+    "name": "Ninh Gia",
+    "name_en": "Ninh Gia",
+    "full_name": "Xã Ninh Gia",
+    "full_name_en": "Ninh Gia Commune",
+    "type": "xã",
+    "district_code": "678",
+    "codename": "ninh_gia"
+  },
+  {
+    "code": "24988",
+    "name": "Tà Năng",
+    "name_en": "Ta Nang",
+    "full_name": "Xã Tà Năng",
+    "full_name_en": "Ta Nang Commune",
+    "type": "xã",
+    "district_code": "678",
+    "codename": "ta_nang"
+  },
+  {
+    "code": "24989",
+    "name": "Đa Quyn",
+    "name_en": "Da Quyn",
+    "full_name": "Xã Đa Quyn",
+    "full_name_en": "Da Quyn Commune",
+    "type": "xã",
+    "district_code": "678",
+    "codename": "da_quyn"
+  },
+  {
+    "code": "24991",
+    "name": "Tà Hine",
+    "name_en": "Ta Hine",
+    "full_name": "Xã Tà Hine",
+    "full_name_en": "Ta Hine Commune",
+    "type": "xã",
+    "district_code": "678",
+    "codename": "ta_hine"
+  },
+  {
+    "code": "24994",
+    "name": "Đà Loan",
+    "name_en": "Da Loan",
+    "full_name": "Xã Đà Loan",
+    "full_name_en": "Da Loan Commune",
+    "type": "xã",
+    "district_code": "678",
+    "codename": "da_loan"
+  },
+  {
+    "code": "24997",
+    "name": "Ninh Loan",
+    "name_en": "Ninh Loan",
+    "full_name": "Xã Ninh Loan",
+    "full_name_en": "Ninh Loan Commune",
+    "type": "xã",
+    "district_code": "678",
+    "codename": "ninh_loan"
+  }
+]

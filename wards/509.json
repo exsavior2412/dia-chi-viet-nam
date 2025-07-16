@@ -1,0 +1,182 @@
+[
+  {
+    "code": "20641",
+    "name": "Đông Phú",
+    "name_en": "Dong Phu",
+    "full_name": "Thị trấn Đông Phú",
+    "full_name_en": "Dong Phu Township",
+    "type": "thị trấn",
+    "district_code": "509",
+    "codename": "dong_phu"
+  },
+  {
+    "code": "20644",
+    "name": "Quế Xuân 1",
+    "name_en": "Que Xuan 1",
+    "full_name": "Xã Quế Xuân 1",
+    "full_name_en": "Commune Que Xuan 1",
+    "type": "xã",
+    "district_code": "509",
+    "codename": "que_xuan_1"
+  },
+  {
+    "code": "20647",
+    "name": "Quế Xuân 2",
+    "name_en": "Que Xuan 2",
+    "full_name": "Xã Quế Xuân 2",
+    "full_name_en": "Commune Que Xuan 2",
+    "type": "xã",
+    "district_code": "509",
+    "codename": "que_xuan_2"
+  },
+  {
+    "code": "20650",
+    "name": "Quế Phú",
+    "name_en": "Que Phu",
+    "full_name": "Xã Quế Phú",
+    "full_name_en": "Que Phu Commune",
+    "type": "xã",
+    "district_code": "509",
+    "codename": "que_phu"
+  },
+  {
+    "code": "20651",
+    "name": "Hương An",
+    "name_en": "Huong An",
+    "full_name": "Thị trấn Hương An",
+    "full_name_en": "Huong An Township",
+    "type": "thị trấn",
+    "district_code": "509",
+    "codename": "huong_an"
+  },
+  {
+    "code": "20656",
+    "name": "Trung Phước",
+    "name_en": "Trung Phuoc",
+    "full_name": "Thị trấn Trung Phước",
+    "full_name_en": "Trung Phuoc Township",
+    "type": "thị trấn",
+    "district_code": "509",
+    "codename": "trung_phuoc"
+  },
+  {
+    "code": "20659",
+    "name": "Quế Hiệp",
+    "name_en": "Que Hiep",
+    "full_name": "Xã Quế Hiệp",
+    "full_name_en": "Que Hiep Commune",
+    "type": "xã",
+    "district_code": "509",
+    "codename": "que_hiep"
+  },
+  {
+    "code": "20662",
+    "name": "Quế Thuận",
+    "name_en": "Que Thuan",
+    "full_name": "Xã Quế Thuận",
+    "full_name_en": "Que Thuan Commune",
+    "type": "xã",
+    "district_code": "509",
+    "codename": "que_thuan"
+  },
+  {
+    "code": "20665",
+    "name": "Quế Mỹ",
+    "name_en": "Que My",
+    "full_name": "Xã Quế Mỹ",
+    "full_name_en": "Que My Commune",
+    "type": "xã",
+    "district_code": "509",
+    "codename": "que_my"
+  },
+  {
+    "code": "20668",
+    "name": "Ninh Phước",
+    "name_en": "Ninh Phuoc",
+    "full_name": "Xã Ninh Phước",
+    "full_name_en": "Ninh Phuoc Commune",
+    "type": "xã",
+    "district_code": "509",
+    "codename": "ninh_phuoc"
+  },
+  {
+    "code": "20669",
+    "name": "Phước Ninh",
+    "name_en": "Phuoc Ninh",
+    "full_name": "Xã Phước Ninh",
+    "full_name_en": "Phuoc Ninh Commune",
+    "type": "xã",
+    "district_code": "509",
+    "codename": "phuoc_ninh"
+  },
+  {
+    "code": "20671",
+    "name": "Quế Lộc",
+    "name_en": "Que Loc",
+    "full_name": "Xã Quế Lộc",
+    "full_name_en": "Que Loc Commune",
+    "type": "xã",
+    "district_code": "509",
+    "codename": "que_loc"
+  },
+  {
+    "code": "20677",
+    "name": "Quế Long",
+    "name_en": "Que Long",
+    "full_name": "Xã Quế Long",
+    "full_name_en": "Que Long Commune",
+    "type": "xã",
+    "district_code": "509",
+    "codename": "que_long"
+  },
+  {
+    "code": "20680",
+    "name": "Quế Châu",
+    "name_en": "Que Chau",
+    "full_name": "Xã Quế Châu",
+    "full_name_en": "Que Chau Commune",
+    "type": "xã",
+    "district_code": "509",
+    "codename": "que_chau"
+  },
+  {
+    "code": "20683",
+    "name": "Quế Phong",
+    "name_en": "Que Phong",
+    "full_name": "Xã Quế Phong",
+    "full_name_en": "Que Phong Commune",
+    "type": "xã",
+    "district_code": "509",
+    "codename": "que_phong"
+  },
+  {
+    "code": "20686",
+    "name": "Quế An",
+    "name_en": "Que An",
+    "full_name": "Xã Quế An",
+    "full_name_en": "Que An Commune",
+    "type": "xã",
+    "district_code": "509",
+    "codename": "que_an"
+  },
+  {
+    "code": "20689",
+    "name": "Quế Minh",
+    "name_en": "Que Minh",
+    "full_name": "Xã Quế Minh",
+    "full_name_en": "Que Minh Commune",
+    "type": "xã",
+    "district_code": "509",
+    "codename": "que_minh"
+  },
+  {
+    "code": "20692",
+    "name": "Quế Lâm",
+    "name_en": "Que Lam",
+    "full_name": "Xã Quế Lâm",
+    "full_name_en": "Que Lam Commune",
+    "type": "xã",
+    "district_code": "509",
+    "codename": "que_lam"
+  }
+]

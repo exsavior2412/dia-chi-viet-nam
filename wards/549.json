@@ -1,0 +1,152 @@
+[
+  {
+    "code": "21907",
+    "name": "Bình Định",
+    "name_en": "Binh Dinh",
+    "full_name": "Phường Bình Định",
+    "full_name_en": "Binh Dinh Ward",
+    "type": "phường",
+    "district_code": "549",
+    "codename": "binh_dinh"
+  },
+  {
+    "code": "21910",
+    "name": "Đập Đá",
+    "name_en": "Dap Da",
+    "full_name": "Phường Đập Đá",
+    "full_name_en": "Dap Da Ward",
+    "type": "phường",
+    "district_code": "549",
+    "codename": "dap_da"
+  },
+  {
+    "code": "21913",
+    "name": "Nhơn Mỹ",
+    "name_en": "Nhon My",
+    "full_name": "Xã Nhơn Mỹ",
+    "full_name_en": "Nhon My Commune",
+    "type": "xã",
+    "district_code": "549",
+    "codename": "nhon_my"
+  },
+  {
+    "code": "21916",
+    "name": "Nhơn Thành",
+    "name_en": "Nhon Thanh",
+    "full_name": "Phường Nhơn Thành",
+    "full_name_en": "Nhon Thanh Ward",
+    "type": "phường",
+    "district_code": "549",
+    "codename": "nhon_thanh"
+  },
+  {
+    "code": "21919",
+    "name": "Nhơn Hạnh",
+    "name_en": "Nhon Hanh",
+    "full_name": "Xã Nhơn Hạnh",
+    "full_name_en": "Nhon Hanh Commune",
+    "type": "xã",
+    "district_code": "549",
+    "codename": "nhon_hanh"
+  },
+  {
+    "code": "21922",
+    "name": "Nhơn Hậu",
+    "name_en": "Nhon Hau",
+    "full_name": "Xã Nhơn Hậu",
+    "full_name_en": "Nhon Hau Commune",
+    "type": "xã",
+    "district_code": "549",
+    "codename": "nhon_hau"
+  },
+  {
+    "code": "21925",
+    "name": "Nhơn Phong",
+    "name_en": "Nhon Phong",
+    "full_name": "Xã Nhơn Phong",
+    "full_name_en": "Nhon Phong Commune",
+    "type": "xã",
+    "district_code": "549",
+    "codename": "nhon_phong"
+  },
+  {
+    "code": "21928",
+    "name": "Nhơn An",
+    "name_en": "Nhon An",
+    "full_name": "Xã Nhơn An",
+    "full_name_en": "Nhon An Commune",
+    "type": "xã",
+    "district_code": "549",
+    "codename": "nhon_an"
+  },
+  {
+    "code": "21931",
+    "name": "Nhơn Phúc",
+    "name_en": "Nhon Phuc",
+    "full_name": "Xã Nhơn Phúc",
+    "full_name_en": "Nhon Phuc Commune",
+    "type": "xã",
+    "district_code": "549",
+    "codename": "nhon_phuc"
+  },
+  {
+    "code": "21934",
+    "name": "Nhơn Hưng",
+    "name_en": "Nhon Hung",
+    "full_name": "Phường Nhơn Hưng",
+    "full_name_en": "Nhon Hung Ward",
+    "type": "phường",
+    "district_code": "549",
+    "codename": "nhon_hung"
+  },
+  {
+    "code": "21937",
+    "name": "Nhơn Khánh",
+    "name_en": "Nhon Khanh",
+    "full_name": "Xã Nhơn Khánh",
+    "full_name_en": "Nhon Khanh Commune",
+    "type": "xã",
+    "district_code": "549",
+    "codename": "nhon_khanh"
+  },
+  {
+    "code": "21940",
+    "name": "Nhơn Lộc",
+    "name_en": "Nhon Loc",
+    "full_name": "Xã Nhơn Lộc",
+    "full_name_en": "Nhon Loc Commune",
+    "type": "xã",
+    "district_code": "549",
+    "codename": "nhon_loc"
+  },
+  {
+    "code": "21943",
+    "name": "Nhơn Hoà",
+    "name_en": "Nhon Hoa",
+    "full_name": "Phường Nhơn Hoà",
+    "full_name_en": "Nhon Hoa Ward",
+    "type": "phường",
+    "district_code": "549",
+    "codename": "nhon_hoa"
+  },
+  {
+    "code": "21946",
+    "name": "Nhơn Tân",
+    "name_en": "Nhon Tan",
+    "full_name": "Xã Nhơn Tân",
+    "full_name_en": "Nhon Tan Commune",
+    "type": "xã",
+    "district_code": "549",
+    "codename": "nhon_tan"
+  },
+  {
+    "code": "21949",
+    "name": "Nhơn Thọ",
+    "name_en": "Nhon Tho",
+    "full_name": "Xã Nhơn Thọ",
+    "full_name_en": "Nhon Tho Commune",
+    "type": "xã",
+    "district_code": "549",
+    "codename": "nhon_tho"
+  }
+]

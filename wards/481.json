@@ -1,0 +1,182 @@
+[
+  {
+    "code": "20044",
+    "name": "A Lưới",
+    "name_en": "A Luoi",
+    "full_name": "Thị trấn A Lưới",
+    "full_name_en": "A Luoi Township",
+    "type": "thị trấn",
+    "district_code": "481",
+    "codename": "a_luoi"
+  },
+  {
+    "code": "20047",
+    "name": "Hồng Vân",
+    "name_en": "Hong Van",
+    "full_name": "Xã Hồng Vân",
+    "full_name_en": "Hong Van Commune",
+    "type": "xã",
+    "district_code": "481",
+    "codename": "hong_van"
+  },
+  {
+    "code": "20050",
+    "name": "Hồng Hạ",
+    "name_en": "Hong Ha",
+    "full_name": "Xã Hồng Hạ",
+    "full_name_en": "Hong Ha Commune",
+    "type": "xã",
+    "district_code": "481",
+    "codename": "hong_ha"
+  },
+  {
+    "code": "20053",
+    "name": "Hồng Kim",
+    "name_en": "Hong Kim",
+    "full_name": "Xã Hồng Kim",
+    "full_name_en": "Hong Kim Commune",
+    "type": "xã",
+    "district_code": "481",
+    "codename": "hong_kim"
+  },
+  {
+    "code": "20056",
+    "name": "Trung Sơn",
+    "name_en": "Trung Son",
+    "full_name": "Xã Trung Sơn",
+    "full_name_en": "Trung Son Commune",
+    "type": "xã",
+    "district_code": "481",
+    "codename": "trung_son"
+  },
+  {
+    "code": "20059",
+    "name": "Hương Nguyên",
+    "name_en": "Huong Nguyen",
+    "full_name": "Xã Hương Nguyên",
+    "full_name_en": "Huong Nguyen Commune",
+    "type": "xã",
+    "district_code": "481",
+    "codename": "huong_nguyen"
+  },
+  {
+    "code": "20065",
+    "name": "Hồng Bắc",
+    "name_en": "Hong Bac",
+    "full_name": "Xã Hồng Bắc",
+    "full_name_en": "Hong Bac Commune",
+    "type": "xã",
+    "district_code": "481",
+    "codename": "hong_bac"
+  },
+  {
+    "code": "20068",
+    "name": "A Ngo",
+    "name_en": "A Ngo",
+    "full_name": "Xã A Ngo",
+    "full_name_en": "A Ngo Commune",
+    "type": "xã",
+    "district_code": "481",
+    "codename": "a_ngo"
+  },
+  {
+    "code": "20071",
+    "name": "Sơn Thủy",
+    "name_en": "Son Thuy",
+    "full_name": "Xã Sơn Thủy",
+    "full_name_en": "Son Thuy Commune",
+    "type": "xã",
+    "district_code": "481",
+    "codename": "son_thuy"
+  },
+  {
+    "code": "20074",
+    "name": "Phú Vinh",
+    "name_en": "Phu Vinh",
+    "full_name": "Xã Phú Vinh",
+    "full_name_en": "Phu Vinh Commune",
+    "type": "xã",
+    "district_code": "481",
+    "codename": "phu_vinh"
+  },
+  {
+    "code": "20080",
+    "name": "Hương Phong",
+    "name_en": "Huong Phong",
+    "full_name": "Xã Hương Phong",
+    "full_name_en": "Huong Phong Commune",
+    "type": "xã",
+    "district_code": "481",
+    "codename": "huong_phong"
+  },
+  {
+    "code": "20083",
+    "name": "Quảng Nhâm",
+    "name_en": "Quang Nham",
+    "full_name": "Xã Quảng Nhâm",
+    "full_name_en": "Quang Nham Commune",
+    "type": "xã",
+    "district_code": "481",
+    "codename": "quang_nham"
+  },
+  {
+    "code": "20086",
+    "name": "Hồng Thượng",
+    "name_en": "Hong Thuong",
+    "full_name": "Xã Hồng Thượng",
+    "full_name_en": "Hong Thuong Commune",
+    "type": "xã",
+    "district_code": "481",
+    "codename": "hong_thuong"
+  },
+  {
+    "code": "20089",
+    "name": "Hồng Thái",
+    "name_en": "Hong Thai",
+    "full_name": "Xã Hồng Thái",
+    "full_name_en": "Hong Thai Commune",
+    "type": "xã",
+    "district_code": "481",
+    "codename": "hong_thai"
+  },
+  {
+    "code": "20095",
+    "name": "A Roàng",
+    "name_en": "A Roang",
+    "full_name": "Xã A Roàng",
+    "full_name_en": "A Roang Commune",
+    "type": "xã",
+    "district_code": "481",
+    "codename": "a_roang"
+  },
+  {
+    "code": "20098",
+    "name": "Đông Sơn",
+    "name_en": "Dong Son",
+    "full_name": "Xã Đông Sơn",
+    "full_name_en": "Dong Son Commune",
+    "type": "xã",
+    "district_code": "481",
+    "codename": "dong_son"
+  },
+  {
+    "code": "20101",
+    "name": "Lâm Đớt",
+    "name_en": "Lam Dot",
+    "full_name": "Xã Lâm Đớt",
+    "full_name_en": "Lam Dot Commune",
+    "type": "xã",
+    "district_code": "481",
+    "codename": "lam_dot"
+  },
+  {
+    "code": "20104",
+    "name": "Hồng Thủy",
+    "name_en": "Hong Thuy",
+    "full_name": "Xã Hồng Thủy",
+    "full_name_en": "Hong Thuy Commune",
+    "type": "xã",
+    "district_code": "481",
+    "codename": "hong_thuy"
+  }
+]

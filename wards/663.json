@@ -1,0 +1,102 @@
+[
+  {
+    "code": "24664",
+    "name": "Đắk Mil",
+    "name_en": "Dak Mil",
+    "full_name": "Thị trấn Đắk Mil",
+    "full_name_en": "Dak Mil Township",
+    "type": "thị trấn",
+    "district_code": "663",
+    "codename": "dak_mil"
+  },
+  {
+    "code": "24667",
+    "name": "Đắk Lao",
+    "name_en": "Dak Lao",
+    "full_name": "Xã Đắk Lao",
+    "full_name_en": "Dak Lao Commune",
+    "type": "xã",
+    "district_code": "663",
+    "codename": "dak_lao"
+  },
+  {
+    "code": "24670",
+    "name": "Đắk R'La",
+    "name_en": "Dak R'La",
+    "full_name": "Xã Đắk R'La",
+    "full_name_en": "Dak R'La Commune",
+    "type": "xã",
+    "district_code": "663",
+    "codename": "dak_rla"
+  },
+  {
+    "code": "24673",
+    "name": "Đắk Gằn",
+    "name_en": "Dak Gan",
+    "full_name": "Xã Đắk Gằn",
+    "full_name_en": "Dak Gan Commune",
+    "type": "xã",
+    "district_code": "663",
+    "codename": "dak_gan"
+  },
+  {
+    "code": "24676",
+    "name": "Đức Mạnh",
+    "name_en": "Duc Manh",
+    "full_name": "Xã Đức Mạnh",
+    "full_name_en": "Duc Manh Commune",
+    "type": "xã",
+    "district_code": "663",
+    "codename": "duc_manh"
+  },
+  {
+    "code": "24677",
+    "name": "Đắk N'Drót",
+    "name_en": "Dak N'Drot",
+    "full_name": "Xã Đắk N'Drót",
+    "full_name_en": "Dak N'Drot Commune",
+    "type": "xã",
+    "district_code": "663",
+    "codename": "dak_ndrot"
+  },
+  {
+    "code": "24678",
+    "name": "Long Sơn",
+    "name_en": "Long Son",
+    "full_name": "Xã Long Sơn",
+    "full_name_en": "Long Son Commune",
+    "type": "xã",
+    "district_code": "663",
+    "codename": "long_son"
+  },
+  {
+    "code": "24679",
+    "name": "Đắk Sắk",
+    "name_en": "Dak Sak",
+    "full_name": "Xã Đắk Sắk",
+    "full_name_en": "Dak Sak Commune",
+    "type": "xã",
+    "district_code": "663",
+    "codename": "dak_sak"
+  },
+  {
+    "code": "24682",
+    "name": "Thuận An",
+    "name_en": "Thuan An",
+    "full_name": "Xã Thuận An",
+    "full_name_en": "Thuan An Commune",
+    "type": "xã",
+    "district_code": "663",
+    "codename": "thuan_an"
+  },
+  {
+    "code": "24685",
+    "name": "Đức Minh",
+    "name_en": "Duc Minh",
+    "full_name": "Xã Đức Minh",
+    "full_name_en": "Duc Minh Commune",
+    "type": "xã",
+    "district_code": "663",
+    "codename": "duc_minh"
+  }
+]

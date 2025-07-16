@@ -1,0 +1,222 @@
+[
+  {
+    "code": "05539",
+    "name": "Linh Thông",
+    "name_en": "Linh Thong",
+    "full_name": "Xã Linh Thông",
+    "full_name_en": "Linh Thong Commune",
+    "type": "xã",
+    "district_code": "167",
+    "codename": "linh_thong"
+  },
+  {
+    "code": "05542",
+    "name": "Lam Vỹ",
+    "name_en": "Lam Vy",
+    "full_name": "Xã Lam Vỹ",
+    "full_name_en": "Lam Vy Commune",
+    "type": "xã",
+    "district_code": "167",
+    "codename": "lam_vy"
+  },
+  {
+    "code": "05545",
+    "name": "Quy Kỳ",
+    "name_en": "Quy Ky",
+    "full_name": "Xã Quy Kỳ",
+    "full_name_en": "Quy Ky Commune",
+    "type": "xã",
+    "district_code": "167",
+    "codename": "quy_ky"
+  },
+  {
+    "code": "05548",
+    "name": "Tân Thịnh",
+    "name_en": "Tan Thinh",
+    "full_name": "Xã Tân Thịnh",
+    "full_name_en": "Tan Thinh Commune",
+    "type": "xã",
+    "district_code": "167",
+    "codename": "tan_thinh"
+  },
+  {
+    "code": "05551",
+    "name": "Kim Phượng",
+    "name_en": "Kim Phuong",
+    "full_name": "Xã Kim Phượng",
+    "full_name_en": "Kim Phuong Commune",
+    "type": "xã",
+    "district_code": "167",
+    "codename": "kim_phuong"
+  },
+  {
+    "code": "05554",
+    "name": "Bảo Linh",
+    "name_en": "Bao Linh",
+    "full_name": "Xã Bảo Linh",
+    "full_name_en": "Bao Linh Commune",
+    "type": "xã",
+    "district_code": "167",
+    "codename": "bao_linh"
+  },
+  {
+    "code": "05560",
+    "name": "Phúc Chu",
+    "name_en": "Phuc Chu",
+    "full_name": "Xã Phúc Chu",
+    "full_name_en": "Phuc Chu Commune",
+    "type": "xã",
+    "district_code": "167",
+    "codename": "phuc_chu"
+  },
+  {
+    "code": "05563",
+    "name": "Tân Dương",
+    "name_en": "Tan Duong",
+    "full_name": "Xã Tân Dương",
+    "full_name_en": "Tan Duong Commune",
+    "type": "xã",
+    "district_code": "167",
+    "codename": "tan_duong"
+  },
+  {
+    "code": "05566",
+    "name": "Phượng Tiến",
+    "name_en": "Phuong Tien",
+    "full_name": "Xã Phượng Tiến",
+    "full_name_en": "Phuong Tien Commune",
+    "type": "xã",
+    "district_code": "167",
+    "codename": "phuong_tien"
+  },
+  {
+    "code": "05569",
+    "name": "Chợ Chu",
+    "name_en": "Cho Chu",
+    "full_name": "Thị trấn Chợ Chu",
+    "full_name_en": "Cho Chu Township",
+    "type": "thị trấn",
+    "district_code": "167",
+    "codename": "cho_chu"
+  },
+  {
+    "code": "05572",
+    "name": "Đồng Thịnh",
+    "name_en": "Dong Thinh",
+    "full_name": "Xã Đồng Thịnh",
+    "full_name_en": "Dong Thinh Commune",
+    "type": "xã",
+    "district_code": "167",
+    "codename": "dong_thinh"
+  },
+  {
+    "code": "05575",
+    "name": "Định Biên",
+    "name_en": "Dinh Bien",
+    "full_name": "Xã Định Biên",
+    "full_name_en": "Dinh Bien Commune",
+    "type": "xã",
+    "district_code": "167",
+    "codename": "dinh_bien"
+  },
+  {
+    "code": "05578",
+    "name": "Thanh Định",
+    "name_en": "Thanh Dinh",
+    "full_name": "Xã Thanh Định",
+    "full_name_en": "Thanh Dinh Commune",
+    "type": "xã",
+    "district_code": "167",
+    "codename": "thanh_dinh"
+  },
+  {
+    "code": "05581",
+    "name": "Trung Hội",
+    "name_en": "Trung Hoi",
+    "full_name": "Xã Trung Hội",
+    "full_name_en": "Trung Hoi Commune",
+    "type": "xã",
+    "district_code": "167",
+    "codename": "trung_hoi"
+  },
+  {
+    "code": "05584",
+    "name": "Trung Lương",
+    "name_en": "Trung Luong",
+    "full_name": "Xã Trung Lương",
+    "full_name_en": "Trung Luong Commune",
+    "type": "xã",
+    "district_code": "167",
+    "codename": "trung_luong"
+  },
+  {
+    "code": "05587",
+    "name": "Bình Yên",
+    "name_en": "Binh Yen",
+    "full_name": "Xã Bình Yên",
+    "full_name_en": "Binh Yen Commune",
+    "type": "xã",
+    "district_code": "167",
+    "codename": "binh_yen"
+  },
+  {
+    "code": "05590",
+    "name": "Điềm Mặc",
+    "name_en": "Diem Mac",
+    "full_name": "Xã Điềm Mặc",
+    "full_name_en": "Diem Mac Commune",
+    "type": "xã",
+    "district_code": "167",
+    "codename": "diem_mac"
+  },
+  {
+    "code": "05593",
+    "name": "Phú Tiến",
+    "name_en": "Phu Tien",
+    "full_name": "Xã Phú Tiến",
+    "full_name_en": "Phu Tien Commune",
+    "type": "xã",
+    "district_code": "167",
+    "codename": "phu_tien"
+  },
+  {
+    "code": "05596",
+    "name": "Bộc Nhiêu",
+    "name_en": "Boc Nhieu",
+    "full_name": "Xã Bộc Nhiêu",
+    "full_name_en": "Boc Nhieu Commune",
+    "type": "xã",
+    "district_code": "167",
+    "codename": "boc_nhieu"
+  },
+  {
+    "code": "05599",
+    "name": "Sơn Phú",
+    "name_en": "Son Phu",
+    "full_name": "Xã Sơn Phú",
+    "full_name_en": "Son Phu Commune",
+    "type": "xã",
+    "district_code": "167",
+    "codename": "son_phu"
+  },
+  {
+    "code": "05602",
+    "name": "Phú Đình",
+    "name_en": "Phu Dinh",
+    "full_name": "Xã Phú Đình",
+    "full_name_en": "Phu Dinh Commune",
+    "type": "xã",
+    "district_code": "167",
+    "codename": "phu_dinh"
+  },
+  {
+    "code": "05605",
+    "name": "Bình Thành",
+    "name_en": "Binh Thanh",
+    "full_name": "Xã Bình Thành",
+    "full_name_en": "Binh Thanh Commune",
+    "type": "xã",
+    "district_code": "167",
+    "codename": "binh_thanh"
+  }
+]

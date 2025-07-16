@@ -1,0 +1,312 @@
+[
+  {
+    "code": "07201",
+    "name": "Thọ Xương",
+    "name_en": "Tho Xuong",
+    "full_name": "Phường Thọ Xương",
+    "full_name_en": "Tho Xuong Ward",
+    "type": "phường",
+    "district_code": "213",
+    "codename": "tho_xuong"
+  },
+  {
+    "code": "07207",
+    "name": "Ngô Quyền",
+    "name_en": "Ngo Quyen",
+    "full_name": "Phường Ngô Quyền",
+    "full_name_en": "Ngo Quyen Ward",
+    "type": "phường",
+    "district_code": "213",
+    "codename": "ngo_quyen"
+  },
+  {
+    "code": "07210",
+    "name": "Hoàng Văn Thụ",
+    "name_en": "Hoang Van Thu",
+    "full_name": "Phường Hoàng Văn Thụ",
+    "full_name_en": "Hoang Van Thu Ward",
+    "type": "phường",
+    "district_code": "213",
+    "codename": "hoang_van_thu"
+  },
+  {
+    "code": "07213",
+    "name": "Trần Phú",
+    "name_en": "Tran Phu",
+    "full_name": "Phường Trần Phú",
+    "full_name_en": "Tran Phu Ward",
+    "type": "phường",
+    "district_code": "213",
+    "codename": "tran_phu"
+  },
+  {
+    "code": "07216",
+    "name": "Mỹ Độ",
+    "name_en": "My Do",
+    "full_name": "Phường Mỹ Độ",
+    "full_name_en": "My Do Ward",
+    "type": "phường",
+    "district_code": "213",
+    "codename": "my_do"
+  },
+  {
+    "code": "07222",
+    "name": "Song Mai",
+    "name_en": "Song Mai",
+    "full_name": "Phường Song Mai",
+    "full_name_en": "Song Mai Ward",
+    "type": "phường",
+    "district_code": "213",
+    "codename": "song_mai"
+  },
+  {
+    "code": "07225",
+    "name": "Xương Giang",
+    "name_en": "Xuong Giang",
+    "full_name": "Phường Xương Giang",
+    "full_name_en": "Xuong Giang Ward",
+    "type": "phường",
+    "district_code": "213",
+    "codename": "xuong_giang"
+  },
+  {
+    "code": "07228",
+    "name": "Đa Mai",
+    "name_en": "Da Mai",
+    "full_name": "Phường Đa Mai",
+    "full_name_en": "Da Mai Ward",
+    "type": "phường",
+    "district_code": "213",
+    "codename": "da_mai"
+  },
+  {
+    "code": "07231",
+    "name": "Dĩnh Kế",
+    "name_en": "Dinh Ke",
+    "full_name": "Phường Dĩnh Kế",
+    "full_name_en": "Dinh Ke Ward",
+    "type": "phường",
+    "district_code": "213",
+    "codename": "dinh_ke"
+  },
+  {
+    "code": "07441",
+    "name": "Dĩnh Trì",
+    "name_en": "Dinh Tri",
+    "full_name": "Phường Dĩnh Trì",
+    "full_name_en": "Dinh Tri Ward",
+    "type": "phường",
+    "district_code": "213",
+    "codename": "dinh_tri"
+  },
+  {
+    "code": "07681",
+    "name": "Nham Biền",
+    "name_en": "Nham Bien",
+    "full_name": "Phường Nham Biền",
+    "full_name_en": "Nham Bien Ward",
+    "type": "phường",
+    "district_code": "213",
+    "codename": "nham_bien"
+  },
+  {
+    "code": "07682",
+    "name": "Tân An",
+    "name_en": "Tan An",
+    "full_name": "Phường Tân An",
+    "full_name_en": "Tan An Ward",
+    "type": "phường",
+    "district_code": "213",
+    "codename": "tan_an"
+  },
+  {
+    "code": "07687",
+    "name": "Tân Mỹ",
+    "name_en": "Tan My",
+    "full_name": "Phường Tân Mỹ",
+    "full_name_en": "Tan My Ward",
+    "type": "phường",
+    "district_code": "213",
+    "codename": "tan_my"
+  },
+  {
+    "code": "07690",
+    "name": "Hương Gián",
+    "name_en": "Huong Gian",
+    "full_name": "Phường Hương Gián",
+    "full_name_en": "Huong Gian Ward",
+    "type": "phường",
+    "district_code": "213",
+    "codename": "huong_gian"
+  },
+  {
+    "code": "07696",
+    "name": "Đồng Sơn",
+    "name_en": "Dong Son",
+    "full_name": "Phường Đồng Sơn",
+    "full_name_en": "Dong Son Ward",
+    "type": "phường",
+    "district_code": "213",
+    "codename": "dong_son"
+  },
+  {
+    "code": "07699",
+    "name": "Tân Tiến",
+    "name_en": "Tan Tien",
+    "full_name": "Phường Tân Tiến",
+    "full_name_en": "Tan Tien Ward",
+    "type": "phường",
+    "district_code": "213",
+    "codename": "tan_tien"
+  },
+  {
+    "code": "07702",
+    "name": "Quỳnh Sơn",
+    "name_en": "Quynh Son",
+    "full_name": "Xã Quỳnh Sơn",
+    "full_name_en": "Quynh Son Commune",
+    "type": "xã",
+    "district_code": "213",
+    "codename": "quynh_son"
+  },
+  {
+    "code": "07705",
+    "name": "Song Khê",
+    "name_en": "Song Khe",
+    "full_name": "Phường Song Khê",
+    "full_name_en": "Song Khe Ward",
+    "type": "phường",
+    "district_code": "213",
+    "codename": "song_khe"
+  },
+  {
+    "code": "07708",
+    "name": "Nội Hoàng",
+    "name_en": "Noi Hoang",
+    "full_name": "Phường Nội Hoàng",
+    "full_name_en": "Noi Hoang Ward",
+    "type": "phường",
+    "district_code": "213",
+    "codename": "noi_hoang"
+  },
+  {
+    "code": "07711",
+    "name": "Tiền Phong",
+    "name_en": "Tien Phong",
+    "full_name": "Phường Tiền Phong",
+    "full_name_en": "Tien Phong Ward",
+    "type": "phường",
+    "district_code": "213",
+    "codename": "tien_phong"
+  },
+  {
+    "code": "07714",
+    "name": "Xuân Phú",
+    "name_en": "Xuan Phu",
+    "full_name": "Xã Xuân Phú",
+    "full_name_en": "Xuan Phu Commune",
+    "type": "xã",
+    "district_code": "213",
+    "codename": "xuan_phu"
+  },
+  {
+    "code": "07717",
+    "name": "Tân Liễu",
+    "name_en": "Tan Lieu",
+    "full_name": "Phường Tân Liễu",
+    "full_name_en": "Tan Lieu Ward",
+    "type": "phường",
+    "district_code": "213",
+    "codename": "tan_lieu"
+  },
+  {
+    "code": "07720",
+    "name": "Trí Yên",
+    "name_en": "Tri Yen",
+    "full_name": "Xã Trí Yên",
+    "full_name_en": "Tri Yen Commune",
+    "type": "xã",
+    "district_code": "213",
+    "codename": "tri_yen"
+  },
+  {
+    "code": "07723",
+    "name": "Lãng Sơn",
+    "name_en": "Lang Son",
+    "full_name": "Xã Lãng Sơn",
+    "full_name_en": "Lang Son Commune",
+    "type": "xã",
+    "district_code": "213",
+    "codename": "lang_son"
+  },
+  {
+    "code": "07726",
+    "name": "Yên Lư",
+    "name_en": "Yen Lu",
+    "full_name": "Xã Yên Lư",
+    "full_name_en": "Yen Lu Commune",
+    "type": "xã",
+    "district_code": "213",
+    "codename": "yen_lu"
+  },
+  {
+    "code": "07729",
+    "name": "Tiến Dũng",
+    "name_en": "Tien Dung",
+    "full_name": "Xã Tiến Dũng",
+    "full_name_en": "Tien Dung Commune",
+    "type": "xã",
+    "district_code": "213",
+    "codename": "tien_dung"
+  },
+  {
+    "code": "07735",
+    "name": "Đức Giang",
+    "name_en": "Duc Giang",
+    "full_name": "Xã Đức Giang",
+    "full_name_en": "Duc Giang Commune",
+    "type": "xã",
+    "district_code": "213",
+    "codename": "duc_giang"
+  },
+  {
+    "code": "07738",
+    "name": "Cảnh Thụy",
+    "name_en": "Canh Thuy",
+    "full_name": "Phường Cảnh Thụy",
+    "full_name_en": "Canh Thuy Ward",
+    "type": "phường",
+    "district_code": "213",
+    "codename": "canh_thuy"
+  },
+  {
+    "code": "07741",
+    "name": "Tư Mại",
+    "name_en": "Tu Mai",
+    "full_name": "Xã Tư Mại",
+    "full_name_en": "Tu Mai Commune",
+    "type": "xã",
+    "district_code": "213",
+    "codename": "tu_mai"
+  },
+  {
+    "code": "07747",
+    "name": "Đồng Việt",
+    "name_en": "Dong Viet",
+    "full_name": "Xã Đồng Việt",
+    "full_name_en": "Dong Viet Commune",
+    "type": "xã",
+    "district_code": "213",
+    "codename": "dong_viet"
+  },
+  {
+    "code": "07750",
+    "name": "Đồng Phúc",
+    "name_en": "Dong Phuc",
+    "full_name": "Xã Đồng Phúc",
+    "full_name_en": "Dong Phuc Commune",
+    "type": "xã",
+    "district_code": "213",
+    "codename": "dong_phuc"
+  }
+]

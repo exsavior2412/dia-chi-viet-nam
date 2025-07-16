@@ -1,0 +1,62 @@
+[
+  {
+    "code": "11455",
+    "name": "Ngọc Xuyên",
+    "name_en": "Ngoc Xuyen",
+    "full_name": "Phường Ngọc Xuyên",
+    "full_name_en": "Ngoc Xuyen Ward",
+    "type": "phường",
+    "district_code": "308",
+    "codename": "ngoc_xuyen"
+  },
+  {
+    "code": "11458",
+    "name": "Hải Sơn",
+    "name_en": "Hai Son",
+    "full_name": "Phường Hải Sơn",
+    "full_name_en": "Hai Son Ward",
+    "type": "phường",
+    "district_code": "308",
+    "codename": "hai_son"
+  },
+  {
+    "code": "11461",
+    "name": "Vạn Hương",
+    "name_en": "Van Huong",
+    "full_name": "Phường Vạn Hương",
+    "full_name_en": "Van Huong Ward",
+    "type": "phường",
+    "district_code": "308",
+    "codename": "van_huong"
+  },
+  {
+    "code": "11465",
+    "name": "Minh Đức",
+    "name_en": "Minh Duc",
+    "full_name": "Phường Minh Đức",
+    "full_name_en": "Minh Duc Ward",
+    "type": "phường",
+    "district_code": "308",
+    "codename": "minh_duc"
+  },
+  {
+    "code": "11467",
+    "name": "Bàng La",
+    "name_en": "Bang La",
+    "full_name": "Phường Bàng La",
+    "full_name_en": "Bang La Ward",
+    "type": "phường",
+    "district_code": "308",
+    "codename": "bang_la"
+  },
+  {
+    "code": "11737",
+    "name": "Hợp Đức",
+    "name_en": "Hop Duc",
+    "full_name": "Phường Hợp Đức",
+    "full_name_en": "Hop Duc Ward",
+    "type": "phường",
+    "district_code": "308",
+    "codename": "hop_duc"
+  }
+]

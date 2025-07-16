@@ -1,0 +1,292 @@
+[
+  {
+    "code": "13075",
+    "name": "Kiến Xương",
+    "name_en": "Kien Xuong",
+    "full_name": "Thị trấn Kiến Xương",
+    "full_name_en": "Kien Xuong Township",
+    "type": "thị trấn",
+    "district_code": "343",
+    "codename": "kien_xuong"
+  },
+  {
+    "code": "13078",
+    "name": "Trà Giang",
+    "name_en": "Tra Giang",
+    "full_name": "Xã Trà Giang",
+    "full_name_en": "Tra Giang Commune",
+    "type": "xã",
+    "district_code": "343",
+    "codename": "tra_giang"
+  },
+  {
+    "code": "13081",
+    "name": "Quốc Tuấn",
+    "name_en": "Quoc Tuan",
+    "full_name": "Xã Quốc Tuấn",
+    "full_name_en": "Quoc Tuan Commune",
+    "type": "xã",
+    "district_code": "343",
+    "codename": "quoc_tuan"
+  },
+  {
+    "code": "13087",
+    "name": "An Bình",
+    "name_en": "An Binh",
+    "full_name": "Xã An Bình",
+    "full_name_en": "An Binh Commune",
+    "type": "xã",
+    "district_code": "343",
+    "codename": "an_binh"
+  },
+  {
+    "code": "13090",
+    "name": "Tây Sơn",
+    "name_en": "Tay Son",
+    "full_name": "Xã Tây Sơn",
+    "full_name_en": "Tay Son Commune",
+    "type": "xã",
+    "district_code": "343",
+    "codename": "tay_son"
+  },
+  {
+    "code": "13093",
+    "name": "Hồng Thái",
+    "name_en": "Hong Thai",
+    "full_name": "Xã Hồng Thái",
+    "full_name_en": "Hong Thai Commune",
+    "type": "xã",
+    "district_code": "343",
+    "codename": "hong_thai"
+  },
+  {
+    "code": "13096",
+    "name": "Bình Nguyên",
+    "name_en": "Binh Nguyen",
+    "full_name": "Xã Bình Nguyên",
+    "full_name_en": "Binh Nguyen Commune",
+    "type": "xã",
+    "district_code": "343",
+    "codename": "binh_nguyen"
+  },
+  {
+    "code": "13102",
+    "name": "Lê Lợi",
+    "name_en": "Le Loi",
+    "full_name": "Xã Lê Lợi",
+    "full_name_en": "Le Loi Commune",
+    "type": "xã",
+    "district_code": "343",
+    "codename": "le_loi"
+  },
+  {
+    "code": "13111",
+    "name": "Vũ Lễ",
+    "name_en": "Vu Le",
+    "full_name": "Xã Vũ Lễ",
+    "full_name_en": "Vu Le Commune",
+    "type": "xã",
+    "district_code": "343",
+    "codename": "vu_le"
+  },
+  {
+    "code": "13114",
+    "name": "Thanh Tân",
+    "name_en": "Thanh Tan",
+    "full_name": "Xã Thanh Tân",
+    "full_name_en": "Thanh Tan Commune",
+    "type": "xã",
+    "district_code": "343",
+    "codename": "thanh_tan"
+  },
+  {
+    "code": "13120",
+    "name": "Thống Nhất",
+    "name_en": "Thong Nhat",
+    "full_name": "Xã Thống Nhất",
+    "full_name_en": "Thong Nhat Commune",
+    "type": "xã",
+    "district_code": "343",
+    "codename": "thong_nhat"
+  },
+  {
+    "code": "13126",
+    "name": "Vũ Ninh",
+    "name_en": "Vu Ninh",
+    "full_name": "Xã Vũ Ninh",
+    "full_name_en": "Vu Ninh Commune",
+    "type": "xã",
+    "district_code": "343",
+    "codename": "vu_ninh"
+  },
+  {
+    "code": "13129",
+    "name": "Vũ An",
+    "name_en": "Vu An",
+    "full_name": "Xã Vũ An",
+    "full_name_en": "Vu An Commune",
+    "type": "xã",
+    "district_code": "343",
+    "codename": "vu_an"
+  },
+  {
+    "code": "13132",
+    "name": "Quang Lịch",
+    "name_en": "Quang Lich",
+    "full_name": "Xã Quang Lịch",
+    "full_name_en": "Quang Lich Commune",
+    "type": "xã",
+    "district_code": "343",
+    "codename": "quang_lich"
+  },
+  {
+    "code": "13135",
+    "name": "Hòa Bình",
+    "name_en": "Hoa Binh",
+    "full_name": "Xã Hòa Bình",
+    "full_name_en": "Hoa Binh Commune",
+    "type": "xã",
+    "district_code": "343",
+    "codename": "hoa_binh"
+  },
+  {
+    "code": "13138",
+    "name": "Bình Minh",
+    "name_en": "Binh Minh",
+    "full_name": "Xã Bình Minh",
+    "full_name_en": "Binh Minh Commune",
+    "type": "xã",
+    "district_code": "343",
+    "codename": "binh_minh"
+  },
+  {
+    "code": "13141",
+    "name": "Vũ Quí",
+    "name_en": "Vu Qui",
+    "full_name": "Xã Vũ Quí",
+    "full_name_en": "Vu Qui Commune",
+    "type": "xã",
+    "district_code": "343",
+    "codename": "vu_qui"
+  },
+  {
+    "code": "13144",
+    "name": "Quang Bình",
+    "name_en": "Quang Binh",
+    "full_name": "Xã Quang Bình",
+    "full_name_en": "Quang Binh Commune",
+    "type": "xã",
+    "district_code": "343",
+    "codename": "quang_binh"
+  },
+  {
+    "code": "13150",
+    "name": "Vũ Trung",
+    "name_en": "Vu Trung",
+    "full_name": "Xã Vũ Trung",
+    "full_name_en": "Vu Trung Commune",
+    "type": "xã",
+    "district_code": "343",
+    "codename": "vu_trung"
+  },
+  {
+    "code": "13156",
+    "name": "Vũ Công",
+    "name_en": "Vu Cong",
+    "full_name": "Xã Vũ Công",
+    "full_name_en": "Vu Cong Commune",
+    "type": "xã",
+    "district_code": "343",
+    "codename": "vu_cong"
+  },
+  {
+    "code": "13159",
+    "name": "Hồng Vũ",
+    "name_en": "Hong Vu",
+    "full_name": "Xã Hồng Vũ",
+    "full_name_en": "Hong Vu Commune",
+    "type": "xã",
+    "district_code": "343",
+    "codename": "hong_vu"
+  },
+  {
+    "code": "13162",
+    "name": "Quang Minh",
+    "name_en": "Quang Minh",
+    "full_name": "Xã Quang Minh",
+    "full_name_en": "Quang Minh Commune",
+    "type": "xã",
+    "district_code": "343",
+    "codename": "quang_minh"
+  },
+  {
+    "code": "13165",
+    "name": "Quang Trung",
+    "name_en": "Quang Trung",
+    "full_name": "Xã Quang Trung",
+    "full_name_en": "Quang Trung Commune",
+    "type": "xã",
+    "district_code": "343",
+    "codename": "quang_trung"
+  },
+  {
+    "code": "13171",
+    "name": "Minh Quang",
+    "name_en": "Minh Quang",
+    "full_name": "Xã Minh Quang",
+    "full_name_en": "Minh Quang Commune",
+    "type": "xã",
+    "district_code": "343",
+    "codename": "minh_quang"
+  },
+  {
+    "code": "13177",
+    "name": "Minh Tân",
+    "name_en": "Minh Tan",
+    "full_name": "Xã Minh Tân",
+    "full_name_en": "Minh Tan Commune",
+    "type": "xã",
+    "district_code": "343",
+    "codename": "minh_tan"
+  },
+  {
+    "code": "13180",
+    "name": "Nam Bình",
+    "name_en": "Nam Binh",
+    "full_name": "Xã Nam Bình",
+    "full_name_en": "Nam Binh Commune",
+    "type": "xã",
+    "district_code": "343",
+    "codename": "nam_binh"
+  },
+  {
+    "code": "13183",
+    "name": "Bình Thanh",
+    "name_en": "Binh Thanh",
+    "full_name": "Xã Bình Thanh",
+    "full_name_en": "Binh Thanh Commune",
+    "type": "xã",
+    "district_code": "343",
+    "codename": "binh_thanh"
+  },
+  {
+    "code": "13186",
+    "name": "Bình Định",
+    "name_en": "Binh Dinh",
+    "full_name": "Xã Bình Định",
+    "full_name_en": "Binh Dinh Commune",
+    "type": "xã",
+    "district_code": "343",
+    "codename": "binh_dinh"
+  },
+  {
+    "code": "13189",
+    "name": "Hồng Tiến",
+    "name_en": "Hong Tien",
+    "full_name": "Xã Hồng Tiến",
+    "full_name_en": "Hong Tien Commune",
+    "type": "xã",
+    "district_code": "343",
+    "codename": "hong_tien"
+  }
+]

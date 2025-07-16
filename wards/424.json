@@ -1,0 +1,192 @@
+[
+  {
+    "code": "17329",
+    "name": "Kim Nhan",
+    "name_en": "Kim Nhan",
+    "full_name": "Thị trấn Kim Nhan",
+    "full_name_en": "Kim Nhan Township",
+    "type": "thị trấn",
+    "district_code": "424",
+    "codename": "kim_nhan"
+  },
+  {
+    "code": "17332",
+    "name": "Thọ Sơn",
+    "name_en": "Tho Son",
+    "full_name": "Xã Thọ Sơn",
+    "full_name_en": "Tho Son Commune",
+    "type": "xã",
+    "district_code": "424",
+    "codename": "tho_son"
+  },
+  {
+    "code": "17335",
+    "name": "Thành Sơn",
+    "name_en": "Thanh Son",
+    "full_name": "Xã Thành Sơn",
+    "full_name_en": "Thanh Son Commune",
+    "type": "xã",
+    "district_code": "424",
+    "codename": "thanh_son"
+  },
+  {
+    "code": "17338",
+    "name": "Bình Sơn",
+    "name_en": "Binh Son",
+    "full_name": "Xã Bình Sơn",
+    "full_name_en": "Binh Son Commune",
+    "type": "xã",
+    "district_code": "424",
+    "codename": "binh_son"
+  },
+  {
+    "code": "17344",
+    "name": "Tam Đỉnh",
+    "name_en": "Tam Dinh",
+    "full_name": "Xã Tam Đỉnh",
+    "full_name_en": "Tam Dinh Commune",
+    "type": "xã",
+    "district_code": "424",
+    "codename": "tam_dinh"
+  },
+  {
+    "code": "17347",
+    "name": "Hùng Sơn",
+    "name_en": "Hung Son",
+    "full_name": "Xã Hùng Sơn",
+    "full_name_en": "Hung Son Commune",
+    "type": "xã",
+    "district_code": "424",
+    "codename": "hung_son"
+  },
+  {
+    "code": "17350",
+    "name": "Cẩm Sơn",
+    "name_en": "Cam Son",
+    "full_name": "Xã Cẩm Sơn",
+    "full_name_en": "Cam Son Commune",
+    "type": "xã",
+    "district_code": "424",
+    "codename": "cam_son"
+  },
+  {
+    "code": "17353",
+    "name": "Đức Sơn",
+    "name_en": "Duc Son",
+    "full_name": "Xã Đức Sơn",
+    "full_name_en": "Duc Son Commune",
+    "type": "xã",
+    "district_code": "424",
+    "codename": "duc_son"
+  },
+  {
+    "code": "17356",
+    "name": "Tường Sơn",
+    "name_en": "Tuong Son",
+    "full_name": "Xã Tường Sơn",
+    "full_name_en": "Tuong Son Commune",
+    "type": "xã",
+    "district_code": "424",
+    "codename": "tuong_son"
+  },
+  {
+    "code": "17357",
+    "name": "Hoa Sơn",
+    "name_en": "Hoa Son",
+    "full_name": "Xã Hoa Sơn",
+    "full_name_en": "Hoa Son Commune",
+    "type": "xã",
+    "district_code": "424",
+    "codename": "hoa_son"
+  },
+  {
+    "code": "17359",
+    "name": "Tào Sơn",
+    "name_en": "Tao Son",
+    "full_name": "Xã Tào Sơn",
+    "full_name_en": "Tao Son Commune",
+    "type": "xã",
+    "district_code": "424",
+    "codename": "tao_son"
+  },
+  {
+    "code": "17362",
+    "name": "Vĩnh Sơn",
+    "name_en": "Vinh Son",
+    "full_name": "Xã Vĩnh Sơn",
+    "full_name_en": "Vinh Son Commune",
+    "type": "xã",
+    "district_code": "424",
+    "codename": "vinh_son"
+  },
+  {
+    "code": "17365",
+    "name": "Lạng Sơn",
+    "name_en": "Lang Son",
+    "full_name": "Xã Lạng Sơn",
+    "full_name_en": "Lang Son Commune",
+    "type": "xã",
+    "district_code": "424",
+    "codename": "lang_son"
+  },
+  {
+    "code": "17368",
+    "name": "Hội Sơn",
+    "name_en": "Hoi Son",
+    "full_name": "Xã Hội Sơn",
+    "full_name_en": "Hoi Son Commune",
+    "type": "xã",
+    "district_code": "424",
+    "codename": "hoi_son"
+  },
+  {
+    "code": "17374",
+    "name": "Phúc Sơn",
+    "name_en": "Phuc Son",
+    "full_name": "Xã Phúc Sơn",
+    "full_name_en": "Phuc Son Commune",
+    "type": "xã",
+    "district_code": "424",
+    "codename": "phuc_son"
+  },
+  {
+    "code": "17377",
+    "name": "Long Sơn",
+    "name_en": "Long Son",
+    "full_name": "Xã Long Sơn",
+    "full_name_en": "Long Son Commune",
+    "type": "xã",
+    "district_code": "424",
+    "codename": "long_son"
+  },
+  {
+    "code": "17380",
+    "name": "Khai Sơn",
+    "name_en": "Khai Son",
+    "full_name": "Xã Khai Sơn",
+    "full_name_en": "Khai Son Commune",
+    "type": "xã",
+    "district_code": "424",
+    "codename": "khai_son"
+  },
+  {
+    "code": "17383",
+    "name": "Lĩnh Sơn",
+    "name_en": "Linh Son",
+    "full_name": "Xã Lĩnh Sơn",
+    "full_name_en": "Linh Son Commune",
+    "type": "xã",
+    "district_code": "424",
+    "codename": "linh_son"
+  },
+  {
+    "code": "17386",
+    "name": "Cao Sơn",
+    "name_en": "Cao Son",
+    "full_name": "Xã Cao Sơn",
+    "full_name_en": "Cao Son Commune",
+    "type": "xã",
+    "district_code": "424",
+    "codename": "cao_son"
+  }
+]

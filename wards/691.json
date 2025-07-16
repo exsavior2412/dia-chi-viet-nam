@@ -1,0 +1,82 @@
+[
+  {
+    "code": "25222",
+    "name": "Bù Gia Mập",
+    "name_en": "Bu Gia Map",
+    "full_name": "Xã Bù Gia Mập",
+    "full_name_en": "Bu Gia Map Commune",
+    "type": "xã",
+    "district_code": "691",
+    "codename": "bu_gia_map"
+  },
+  {
+    "code": "25225",
+    "name": "Đak Ơ",
+    "name_en": "Dak O",
+    "full_name": "Xã Đak Ơ",
+    "full_name_en": "Dak O Commune",
+    "type": "xã",
+    "district_code": "691",
+    "codename": "dak_o"
+  },
+  {
+    "code": "25228",
+    "name": "Đức Hạnh",
+    "name_en": "Duc Hanh",
+    "full_name": "Xã Đức Hạnh",
+    "full_name_en": "Duc Hanh Commune",
+    "type": "xã",
+    "district_code": "691",
+    "codename": "duc_hanh"
+  },
+  {
+    "code": "25229",
+    "name": "Phú Văn",
+    "name_en": "Phu Van",
+    "full_name": "Xã Phú Văn",
+    "full_name_en": "Phu Van Commune",
+    "type": "xã",
+    "district_code": "691",
+    "codename": "phu_van"
+  },
+  {
+    "code": "25231",
+    "name": "Đa Kia",
+    "name_en": "Da Kia",
+    "full_name": "Xã Đa Kia",
+    "full_name_en": "Da Kia Commune",
+    "type": "xã",
+    "district_code": "691",
+    "codename": "da_kia"
+  },
+  {
+    "code": "25232",
+    "name": "Phước Minh",
+    "name_en": "Phuoc Minh",
+    "full_name": "Xã Phước Minh",
+    "full_name_en": "Phuoc Minh Commune",
+    "type": "xã",
+    "district_code": "691",
+    "codename": "phuoc_minh"
+  },
+  {
+    "code": "25234",
+    "name": "Bình Thắng",
+    "name_en": "Binh Thang",
+    "full_name": "Xã Bình Thắng",
+    "full_name_en": "Binh Thang Commune",
+    "type": "xã",
+    "district_code": "691",
+    "codename": "binh_thang"
+  },
+  {
+    "code": "25267",
+    "name": "Phú Nghĩa",
+    "name_en": "Phu Nghia",
+    "full_name": "Xã Phú Nghĩa",
+    "full_name_en": "Phu Nghia Commune",
+    "type": "xã",
+    "district_code": "691",
+    "codename": "phu_nghia"
+  }
+]

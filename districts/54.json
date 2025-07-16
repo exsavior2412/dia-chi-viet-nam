@@ -1,0 +1,92 @@
+[
+  {
+    "code": "555",
+    "name": "Tuy Hoà",
+    "name_en": "Tuy Hoa",
+    "full_name": "Thành phố Tuy Hoà",
+    "full_name_en": "Tuy Hoa City",
+    "type": "thành phố",
+    "province_code": "54",
+    "codename": "tuy_hoa"
+  },
+  {
+    "code": "557",
+    "name": "Sông Cầu",
+    "name_en": "Song Cau",
+    "full_name": "Thị xã Sông Cầu",
+    "full_name_en": "Song Cau Town",
+    "type": "thị xã",
+    "province_code": "54",
+    "codename": "song_cau"
+  },
+  {
+    "code": "558",
+    "name": "Đồng Xuân",
+    "name_en": "Dong Xuan",
+    "full_name": "Huyện Đồng Xuân",
+    "full_name_en": "Dong Xuan District",
+    "type": "huyện",
+    "province_code": "54",
+    "codename": "dong_xuan"
+  },
+  {
+    "code": "559",
+    "name": "Tuy An",
+    "name_en": "Tuy An",
+    "full_name": "Huyện Tuy An",
+    "full_name_en": "Tuy An District",
+    "type": "huyện",
+    "province_code": "54",
+    "codename": "tuy_an"
+  },
+  {
+    "code": "560",
+    "name": "Sơn Hòa",
+    "name_en": "Son Hoa",
+    "full_name": "Huyện Sơn Hòa",
+    "full_name_en": "Son Hoa District",
+    "type": "huyện",
+    "province_code": "54",
+    "codename": "son_hoa"
+  },
+  {
+    "code": "561",
+    "name": "Sông Hinh",
+    "name_en": "Song Hinh",
+    "full_name": "Huyện Sông Hinh",
+    "full_name_en": "Song Hinh District",
+    "type": "huyện",
+    "province_code": "54",
+    "codename": "song_hinh"
+  },
+  {
+    "code": "562",
+    "name": "Tây Hoà",
+    "name_en": "Tay Hoa",
+    "full_name": "Huyện Tây Hoà",
+    "full_name_en": "Tay Hoa District",
+    "type": "huyện",
+    "province_code": "54",
+    "codename": "tay_hoa"
+  },
+  {
+    "code": "563",
+    "name": "Phú Hoà",
+    "name_en": "Phu Hoa",
+    "full_name": "Huyện Phú Hoà",
+    "full_name_en": "Phu Hoa District",
+    "type": "huyện",
+    "province_code": "54",
+    "codename": "phu_hoa"
+  },
+  {
+    "code": "564",
+    "name": "Đông Hòa",
+    "name_en": "Dong Hoa",
+    "full_name": "Thị xã Đông Hòa",
+    "full_name_en": "Dong Hoa Town",
+    "type": "thị xã",
+    "province_code": "54",
+    "codename": "dong_hoa"
+  }
+]

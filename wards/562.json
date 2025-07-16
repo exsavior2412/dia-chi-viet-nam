@@ -1,0 +1,112 @@
+[
+  {
+    "code": "22249",
+    "name": "Sơn Thành Tây",
+    "name_en": "Son Thanh Tay",
+    "full_name": "Xã Sơn Thành Tây",
+    "full_name_en": "Son Thanh Tay Commune",
+    "type": "xã",
+    "district_code": "562",
+    "codename": "son_thanh_tay"
+  },
+  {
+    "code": "22250",
+    "name": "Sơn Thành Đông",
+    "name_en": "Son Thanh Dong",
+    "full_name": "Xã Sơn Thành Đông",
+    "full_name_en": "Son Thanh Dong Commune",
+    "type": "xã",
+    "district_code": "562",
+    "codename": "son_thanh_dong"
+  },
+  {
+    "code": "22252",
+    "name": "Hòa Bình 1",
+    "name_en": "Hoa Binh 1",
+    "full_name": "Xã Hòa Bình 1",
+    "full_name_en": "Commune Hoa Binh 1",
+    "type": "xã",
+    "district_code": "562",
+    "codename": "hoa_binh_1"
+  },
+  {
+    "code": "22255",
+    "name": "Phú Thứ",
+    "name_en": "Phu Thu",
+    "full_name": "Thị trấn Phú Thứ",
+    "full_name_en": "Phu Thu Township",
+    "type": "thị trấn",
+    "district_code": "562",
+    "codename": "phu_thu"
+  },
+  {
+    "code": "22264",
+    "name": "Hòa Phong",
+    "name_en": "Hoa Phong",
+    "full_name": "Xã Hòa Phong",
+    "full_name_en": "Hoa Phong Commune",
+    "type": "xã",
+    "district_code": "562",
+    "codename": "hoa_phong"
+  },
+  {
+    "code": "22270",
+    "name": "Hòa Phú",
+    "name_en": "Hoa Phu",
+    "full_name": "Xã Hòa Phú",
+    "full_name_en": "Hoa Phu Commune",
+    "type": "xã",
+    "district_code": "562",
+    "codename": "hoa_phu"
+  },
+  {
+    "code": "22273",
+    "name": "Hòa Tân Tây",
+    "name_en": "Hoa Tan Tay",
+    "full_name": "Xã Hòa Tân Tây",
+    "full_name_en": "Hoa Tan Tay Commune",
+    "type": "xã",
+    "district_code": "562",
+    "codename": "hoa_tan_tay"
+  },
+  {
+    "code": "22276",
+    "name": "Hòa Đồng",
+    "name_en": "Hoa Dong",
+    "full_name": "Xã Hòa Đồng",
+    "full_name_en": "Hoa Dong Commune",
+    "type": "xã",
+    "district_code": "562",
+    "codename": "hoa_dong"
+  },
+  {
+    "code": "22285",
+    "name": "Hòa Mỹ Đông",
+    "name_en": "Hoa My Dong",
+    "full_name": "Xã Hòa Mỹ Đông",
+    "full_name_en": "Hoa My Dong Commune",
+    "type": "xã",
+    "district_code": "562",
+    "codename": "hoa_my_dong"
+  },
+  {
+    "code": "22288",
+    "name": "Hòa Mỹ Tây",
+    "name_en": "Hoa My Tay",
+    "full_name": "Xã Hòa Mỹ Tây",
+    "full_name_en": "Hoa My Tay Commune",
+    "type": "xã",
+    "district_code": "562",
+    "codename": "hoa_my_tay"
+  },
+  {
+    "code": "22294",
+    "name": "Hòa Thịnh",
+    "name_en": "Hoa Thinh",
+    "full_name": "Xã Hòa Thịnh",
+    "full_name_en": "Hoa Thinh Commune",
+    "type": "xã",
+    "district_code": "562",
+    "codename": "hoa_thinh"
+  }
+]

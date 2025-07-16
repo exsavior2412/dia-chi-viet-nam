@@ -1,0 +1,42 @@
+[
+  {
+    "code": "31108",
+    "name": "Hòn Tre",
+    "name_en": "Hon Tre",
+    "full_name": "Xã Hòn Tre",
+    "full_name_en": "Hon Tre Commune",
+    "type": "xã",
+    "district_code": "912",
+    "codename": "hon_tre"
+  },
+  {
+    "code": "31111",
+    "name": "Lại Sơn",
+    "name_en": "Lai Son",
+    "full_name": "Xã Lại Sơn",
+    "full_name_en": "Lai Son Commune",
+    "type": "xã",
+    "district_code": "912",
+    "codename": "lai_son"
+  },
+  {
+    "code": "31114",
+    "name": "An Sơn",
+    "name_en": "An Son",
+    "full_name": "Xã An Sơn",
+    "full_name_en": "An Son Commune",
+    "type": "xã",
+    "district_code": "912",
+    "codename": "an_son"
+  },
+  {
+    "code": "31115",
+    "name": "Nam Du",
+    "name_en": "Nam Du",
+    "full_name": "Xã Nam Du",
+    "full_name_en": "Nam Du Commune",
+    "type": "xã",
+    "district_code": "912",
+    "codename": "nam_du"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "code": "31342",
+    "name": "Một Ngàn",
+    "name_en": "Mot Ngan",
+    "full_name": "Thị trấn Một Ngàn",
+    "full_name_en": "Mot Ngan Township",
+    "type": "thị trấn",
+    "district_code": "932",
+    "codename": "mot_ngan"
+  },
+  {
+    "code": "31345",
+    "name": "Tân Hoà",
+    "name_en": "Tan Hoa",
+    "full_name": "Xã Tân Hoà",
+    "full_name_en": "Tan Hoa Commune",
+    "type": "xã",
+    "district_code": "932",
+    "codename": "tan_hoa"
+  },
+  {
+    "code": "31346",
+    "name": "Bảy Ngàn",
+    "name_en": "Bay Ngan",
+    "full_name": "Thị trấn Bảy Ngàn",
+    "full_name_en": "Bay Ngan Township",
+    "type": "thị trấn",
+    "district_code": "932",
+    "codename": "bay_ngan"
+  },
+  {
+    "code": "31348",
+    "name": "Trường Long Tây",
+    "name_en": "Truong Long Tay",
+    "full_name": "Xã Trường Long Tây",
+    "full_name_en": "Truong Long Tay Commune",
+    "type": "xã",
+    "district_code": "932",
+    "codename": "truong_long_tay"
+  },
+  {
+    "code": "31351",
+    "name": "Trường Long A",
+    "name_en": "Truong Long A",
+    "full_name": "Xã Trường Long A",
+    "full_name_en": "Truong Long A Commune",
+    "type": "xã",
+    "district_code": "932",
+    "codename": "truong_long_a"
+  },
+  {
+    "code": "31357",
+    "name": "Nhơn Nghĩa A",
+    "name_en": "Nhon Nghia A",
+    "full_name": "Xã Nhơn Nghĩa A",
+    "full_name_en": "Nhon Nghia A Commune",
+    "type": "xã",
+    "district_code": "932",
+    "codename": "nhon_nghia_a"
+  },
+  {
+    "code": "31359",
+    "name": "Rạch Gòi",
+    "name_en": "Rach Goi",
+    "full_name": "Thị trấn Rạch Gòi",
+    "full_name_en": "Rach Goi Township",
+    "type": "thị trấn",
+    "district_code": "932",
+    "codename": "rach_goi"
+  },
+  {
+    "code": "31360",
+    "name": "Thạnh Xuân",
+    "name_en": "Thanh Xuan",
+    "full_name": "Xã Thạnh Xuân",
+    "full_name_en": "Thanh Xuan Commune",
+    "type": "xã",
+    "district_code": "932",
+    "codename": "thanh_xuan"
+  },
+  {
+    "code": "31362",
+    "name": "Cái Tắc",
+    "name_en": "Cai Tac",
+    "full_name": "Thị trấn Cái Tắc",
+    "full_name_en": "Cai Tac Township",
+    "type": "thị trấn",
+    "district_code": "932",
+    "codename": "cai_tac"
+  },
+  {
+    "code": "31363",
+    "name": "Tân Phú Thạnh",
+    "name_en": "Tan Phu Thanh",
+    "full_name": "Xã Tân Phú Thạnh",
+    "full_name_en": "Tan Phu Thanh Commune",
+    "type": "xã",
+    "district_code": "932",
+    "codename": "tan_phu_thanh"
+  }
+]

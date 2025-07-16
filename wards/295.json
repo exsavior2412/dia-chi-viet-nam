@@ -1,0 +1,152 @@
+[
+  {
+    "code": "10888",
+    "name": "Cẩm Giang",
+    "name_en": "Cam Giang",
+    "full_name": "Thị trấn Cẩm Giang",
+    "full_name_en": "Cam Giang Township",
+    "type": "thị trấn",
+    "district_code": "295",
+    "codename": "cam_giang"
+  },
+  {
+    "code": "10891",
+    "name": "Lai Cách",
+    "name_en": "Lai Cach",
+    "full_name": "Thị trấn Lai Cách",
+    "full_name_en": "Lai Cach Township",
+    "type": "thị trấn",
+    "district_code": "295",
+    "codename": "lai_cach"
+  },
+  {
+    "code": "10894",
+    "name": "Cẩm Hưng",
+    "name_en": "Cam Hung",
+    "full_name": "Xã Cẩm Hưng",
+    "full_name_en": "Cam Hung Commune",
+    "type": "xã",
+    "district_code": "295",
+    "codename": "cam_hung"
+  },
+  {
+    "code": "10897",
+    "name": "Cẩm Hoàng",
+    "name_en": "Cam Hoang",
+    "full_name": "Xã Cẩm Hoàng",
+    "full_name_en": "Cam Hoang Commune",
+    "type": "xã",
+    "district_code": "295",
+    "codename": "cam_hoang"
+  },
+  {
+    "code": "10900",
+    "name": "Cẩm Văn",
+    "name_en": "Cam Van",
+    "full_name": "Xã Cẩm Văn",
+    "full_name_en": "Cam Van Commune",
+    "type": "xã",
+    "district_code": "295",
+    "codename": "cam_van"
+  },
+  {
+    "code": "10903",
+    "name": "Ngọc Liên",
+    "name_en": "Ngoc Lien",
+    "full_name": "Xã Ngọc Liên",
+    "full_name_en": "Ngoc Lien Commune",
+    "type": "xã",
+    "district_code": "295",
+    "codename": "ngoc_lien"
+  },
+  {
+    "code": "10909",
+    "name": "Cẩm Vũ",
+    "name_en": "Cam Vu",
+    "full_name": "Xã Cẩm Vũ",
+    "full_name_en": "Cam Vu Commune",
+    "type": "xã",
+    "district_code": "295",
+    "codename": "cam_vu"
+  },
+  {
+    "code": "10912",
+    "name": "Đức Chính",
+    "name_en": "Duc Chinh",
+    "full_name": "Xã Đức Chính",
+    "full_name_en": "Duc Chinh Commune",
+    "type": "xã",
+    "district_code": "295",
+    "codename": "duc_chinh"
+  },
+  {
+    "code": "10918",
+    "name": "Định Sơn",
+    "name_en": "Dinh Son",
+    "full_name": "Xã Định Sơn",
+    "full_name_en": "Dinh Son Commune",
+    "type": "xã",
+    "district_code": "295",
+    "codename": "dinh_son"
+  },
+  {
+    "code": "10924",
+    "name": "Lương Điền",
+    "name_en": "Luong Dien",
+    "full_name": "Xã Lương Điền",
+    "full_name_en": "Luong Dien Commune",
+    "type": "xã",
+    "district_code": "295",
+    "codename": "luong_dien"
+  },
+  {
+    "code": "10927",
+    "name": "Cao An",
+    "name_en": "Cao An",
+    "full_name": "Xã Cao An",
+    "full_name_en": "Cao An Commune",
+    "type": "xã",
+    "district_code": "295",
+    "codename": "cao_an"
+  },
+  {
+    "code": "10930",
+    "name": "Tân Trường",
+    "name_en": "Tan Truong",
+    "full_name": "Xã Tân Trường",
+    "full_name_en": "Tan Truong Commune",
+    "type": "xã",
+    "district_code": "295",
+    "codename": "tan_truong"
+  },
+  {
+    "code": "10933",
+    "name": "Phúc Điền",
+    "name_en": "Phuc Dien",
+    "full_name": "Xã Phúc Điền",
+    "full_name_en": "Phuc Dien Commune",
+    "type": "xã",
+    "district_code": "295",
+    "codename": "phuc_dien"
+  },
+  {
+    "code": "10939",
+    "name": "Cẩm Đông",
+    "name_en": "Cam Dong",
+    "full_name": "Xã Cẩm Đông",
+    "full_name_en": "Cam Dong Commune",
+    "type": "xã",
+    "district_code": "295",
+    "codename": "cam_dong"
+  },
+  {
+    "code": "10942",
+    "name": "Cẩm Đoài",
+    "name_en": "Cam Doai",
+    "full_name": "Xã Cẩm Đoài",
+    "full_name_en": "Cam Doai Commune",
+    "type": "xã",
+    "district_code": "295",
+    "codename": "cam_doai"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "code": "256",
+    "name": "Bắc Ninh",
+    "name_en": "Bac Ninh",
+    "full_name": "Thành phố Bắc Ninh",
+    "full_name_en": "Bac Ninh City",
+    "type": "thành phố",
+    "province_code": "27",
+    "codename": "bac_ninh"
+  },
+  {
+    "code": "258",
+    "name": "Yên Phong",
+    "name_en": "Yen Phong",
+    "full_name": "Huyện Yên Phong",
+    "full_name_en": "Yen Phong District",
+    "type": "huyện",
+    "province_code": "27",
+    "codename": "yen_phong"
+  },
+  {
+    "code": "259",
+    "name": "Quế Võ",
+    "name_en": "Que Vo",
+    "full_name": "Thị xã Quế Võ",
+    "full_name_en": "Que Vo Town",
+    "type": "thị xã",
+    "province_code": "27",
+    "codename": "que_vo"
+  },
+  {
+    "code": "260",
+    "name": "Tiên Du",
+    "name_en": "Tien Du",
+    "full_name": "Huyện Tiên Du",
+    "full_name_en": "Tien Du District",
+    "type": "huyện",
+    "province_code": "27",
+    "codename": "tien_du"
+  },
+  {
+    "code": "261",
+    "name": "Từ Sơn",
+    "name_en": "Tu Son",
+    "full_name": "Thành phố Từ Sơn",
+    "full_name_en": "Tu Son City",
+    "type": "thành phố",
+    "province_code": "27",
+    "codename": "tu_son"
+  },
+  {
+    "code": "262",
+    "name": "Thuận Thành",
+    "name_en": "Thuan Thanh",
+    "full_name": "Thị xã Thuận Thành",
+    "full_name_en": "Thuan Thanh Town",
+    "type": "thị xã",
+    "province_code": "27",
+    "codename": "thuan_thanh"
+  },
+  {
+    "code": "263",
+    "name": "Gia Bình",
+    "name_en": "Gia Binh",
+    "full_name": "Huyện Gia Bình",
+    "full_name_en": "Gia Binh District",
+    "type": "huyện",
+    "province_code": "27",
+    "codename": "gia_binh"
+  },
+  {
+    "code": "264",
+    "name": "Lương Tài",
+    "name_en": "Luong Tai",
+    "full_name": "Huyện Lương Tài",
+    "full_name_en": "Luong Tai District",
+    "type": "huyện",
+    "province_code": "27",
+    "codename": "luong_tai"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "code": "20364",
+    "name": "Phú Thịnh",
+    "name_en": "Phu Thinh",
+    "full_name": "Thị trấn Phú Thịnh",
+    "full_name_en": "Phu Thinh Township",
+    "type": "thị trấn",
+    "district_code": "518",
+    "codename": "phu_thinh"
+  },
+  {
+    "code": "20365",
+    "name": "Tam Thành",
+    "name_en": "Tam Thanh",
+    "full_name": "Xã Tam Thành",
+    "full_name_en": "Tam Thanh Commune",
+    "type": "xã",
+    "district_code": "518",
+    "codename": "tam_thanh"
+  },
+  {
+    "code": "20368",
+    "name": "Tam An",
+    "name_en": "Tam An",
+    "full_name": "Xã Tam An",
+    "full_name_en": "Tam An Commune",
+    "type": "xã",
+    "district_code": "518",
+    "codename": "tam_an"
+  },
+  {
+    "code": "20374",
+    "name": "Tam Đàn",
+    "name_en": "Tam Dan",
+    "full_name": "Xã Tam Đàn",
+    "full_name_en": "Tam Dan Commune",
+    "type": "xã",
+    "district_code": "518",
+    "codename": "tam_dan"
+  },
+  {
+    "code": "20377",
+    "name": "Tam Lộc",
+    "name_en": "Tam Loc",
+    "full_name": "Xã Tam Lộc",
+    "full_name_en": "Tam Loc Commune",
+    "type": "xã",
+    "district_code": "518",
+    "codename": "tam_loc"
+  },
+  {
+    "code": "20380",
+    "name": "Tam Phước",
+    "name_en": "Tam Phuoc",
+    "full_name": "Xã Tam Phước",
+    "full_name_en": "Tam Phuoc Commune",
+    "type": "xã",
+    "district_code": "518",
+    "codename": "tam_phuoc"
+  },
+  {
+    "code": "20386",
+    "name": "Tam Thái",
+    "name_en": "Tam Thai",
+    "full_name": "Xã Tam Thái",
+    "full_name_en": "Tam Thai Commune",
+    "type": "xã",
+    "district_code": "518",
+    "codename": "tam_thai"
+  },
+  {
+    "code": "20387",
+    "name": "Tam Đại",
+    "name_en": "Tam Dai",
+    "full_name": "Xã Tam Đại",
+    "full_name_en": "Tam Dai Commune",
+    "type": "xã",
+    "district_code": "518",
+    "codename": "tam_dai"
+  },
+  {
+    "code": "20392",
+    "name": "Tam Dân",
+    "name_en": "Tam Dan",
+    "full_name": "Xã Tam Dân",
+    "full_name_en": "Tam Dan Commune",
+    "type": "xã",
+    "district_code": "518",
+    "codename": "tam_dan"
+  },
+  {
+    "code": "20395",
+    "name": "Tam Lãnh",
+    "name_en": "Tam Lanh",
+    "full_name": "Xã Tam Lãnh",
+    "full_name_en": "Tam Lanh Commune",
+    "type": "xã",
+    "district_code": "518",
+    "codename": "tam_lanh"
+  }
+]

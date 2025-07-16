@@ -1,0 +1,112 @@
+[
+  {
+    "code": "23500",
+    "name": "Đắk Hà",
+    "name_en": "Dak Ha",
+    "full_name": "Thị trấn Đắk Hà",
+    "full_name_en": "Dak Ha Township",
+    "type": "thị trấn",
+    "district_code": "615",
+    "codename": "dak_ha"
+  },
+  {
+    "code": "23503",
+    "name": "Đắk PXi",
+    "name_en": "Dak PXi",
+    "full_name": "Xã Đắk PXi",
+    "full_name_en": "Dak PXi Commune",
+    "type": "xã",
+    "district_code": "615",
+    "codename": "dak_pxi"
+  },
+  {
+    "code": "23504",
+    "name": "Đăk Long",
+    "name_en": "Dak Long",
+    "full_name": "Xã Đăk Long",
+    "full_name_en": "Dak Long Commune",
+    "type": "xã",
+    "district_code": "615",
+    "codename": "dak_long"
+  },
+  {
+    "code": "23506",
+    "name": "Đắk HRing",
+    "name_en": "Dak HRing",
+    "full_name": "Xã Đắk HRing",
+    "full_name_en": "Dak HRing Commune",
+    "type": "xã",
+    "district_code": "615",
+    "codename": "dak_hring"
+  },
+  {
+    "code": "23509",
+    "name": "Đắk Ui",
+    "name_en": "Dak Ui",
+    "full_name": "Xã Đắk Ui",
+    "full_name_en": "Dak Ui Commune",
+    "type": "xã",
+    "district_code": "615",
+    "codename": "dak_ui"
+  },
+  {
+    "code": "23510",
+    "name": "Đăk Ngọk",
+    "name_en": "Dak Ngok",
+    "full_name": "Xã Đăk Ngọk",
+    "full_name_en": "Dak Ngok Commune",
+    "type": "xã",
+    "district_code": "615",
+    "codename": "dak_ngok"
+  },
+  {
+    "code": "23512",
+    "name": "Đắk Mar",
+    "name_en": "Dak Mar",
+    "full_name": "Xã Đắk Mar",
+    "full_name_en": "Dak Mar Commune",
+    "type": "xã",
+    "district_code": "615",
+    "codename": "dak_mar"
+  },
+  {
+    "code": "23515",
+    "name": "Ngok Wang",
+    "name_en": "Ngok Wang",
+    "full_name": "Xã Ngok Wang",
+    "full_name_en": "Ngok Wang Commune",
+    "type": "xã",
+    "district_code": "615",
+    "codename": "ngok_wang"
+  },
+  {
+    "code": "23518",
+    "name": "Ngok Réo",
+    "name_en": "Ngok Reo",
+    "full_name": "Xã Ngok Réo",
+    "full_name_en": "Ngok Reo Commune",
+    "type": "xã",
+    "district_code": "615",
+    "codename": "ngok_reo"
+  },
+  {
+    "code": "23521",
+    "name": "Hà Mòn",
+    "name_en": "Ha Mon",
+    "full_name": "Xã Hà Mòn",
+    "full_name_en": "Ha Mon Commune",
+    "type": "xã",
+    "district_code": "615",
+    "codename": "ha_mon"
+  },
+  {
+    "code": "23524",
+    "name": "Đắk La",
+    "name_en": "Dak La",
+    "full_name": "Xã Đắk La",
+    "full_name_en": "Dak La Commune",
+    "type": "xã",
+    "district_code": "615",
+    "codename": "dak_la"
+  }
+]

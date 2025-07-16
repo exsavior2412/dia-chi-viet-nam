@@ -1,0 +1,92 @@
+[
+  {
+    "code": "29902",
+    "name": "3",
+    "name_en": "3",
+    "full_name": "Phường 3",
+    "full_name_en": "Ward 3",
+    "type": "phường",
+    "district_code": "867",
+    "codename": "3"
+  },
+  {
+    "code": "29905",
+    "name": "1",
+    "name_en": "1",
+    "full_name": "Phường 1",
+    "full_name_en": "Ward 1",
+    "type": "phường",
+    "district_code": "867",
+    "codename": "1"
+  },
+  {
+    "code": "29908",
+    "name": "4",
+    "name_en": "4",
+    "full_name": "Phường 4",
+    "full_name_en": "Ward 4",
+    "type": "phường",
+    "district_code": "867",
+    "codename": "4"
+  },
+  {
+    "code": "29911",
+    "name": "2",
+    "name_en": "2",
+    "full_name": "Phường 2",
+    "full_name_en": "Ward 2",
+    "type": "phường",
+    "district_code": "867",
+    "codename": "2"
+  },
+  {
+    "code": "29914",
+    "name": "Tân Khánh Đông",
+    "name_en": "Tan Khanh Dong",
+    "full_name": "Xã Tân Khánh Đông",
+    "full_name_en": "Tan Khanh Dong Commune",
+    "type": "xã",
+    "district_code": "867",
+    "codename": "tan_khanh_dong"
+  },
+  {
+    "code": "29917",
+    "name": "Tân Quy Đông",
+    "name_en": "Tan Quy Dong",
+    "full_name": "Phường Tân Quy Đông",
+    "full_name_en": "Tan Quy Dong Ward",
+    "type": "phường",
+    "district_code": "867",
+    "codename": "tan_quy_dong"
+  },
+  {
+    "code": "29919",
+    "name": "An Hoà",
+    "name_en": "An Hoa",
+    "full_name": "Phường An Hoà",
+    "full_name_en": "An Hoa Ward",
+    "type": "phường",
+    "district_code": "867",
+    "codename": "an_hoa"
+  },
+  {
+    "code": "29920",
+    "name": "Tân Quy Tây",
+    "name_en": "Tan Quy Tay",
+    "full_name": "Xã Tân Quy Tây",
+    "full_name_en": "Tan Quy Tay Commune",
+    "type": "xã",
+    "district_code": "867",
+    "codename": "tan_quy_tay"
+  },
+  {
+    "code": "29923",
+    "name": "Tân Phú Đông",
+    "name_en": "Tan Phu Dong",
+    "full_name": "Xã Tân Phú Đông",
+    "full_name_en": "Tan Phu Dong Commune",
+    "type": "xã",
+    "district_code": "867",
+    "codename": "tan_phu_dong"
+  }
+]

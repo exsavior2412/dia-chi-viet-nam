@@ -1,0 +1,82 @@
+[
+  {
+    "code": "31615",
+    "name": "Cù Lao Dung",
+    "name_en": "Cu Lao Dung",
+    "full_name": "Thị trấn Cù Lao Dung",
+    "full_name_en": "Cu Lao Dung Township",
+    "type": "thị trấn",
+    "district_code": "945",
+    "codename": "cu_lao_dung"
+  },
+  {
+    "code": "31618",
+    "name": "An Thạnh 1",
+    "name_en": "An Thanh 1",
+    "full_name": "Xã An Thạnh 1",
+    "full_name_en": "Commune An Thanh 1",
+    "type": "xã",
+    "district_code": "945",
+    "codename": "an_thanh_1"
+  },
+  {
+    "code": "31621",
+    "name": "An Thạnh Tây",
+    "name_en": "An Thanh Tay",
+    "full_name": "Xã An Thạnh Tây",
+    "full_name_en": "An Thanh Tay Commune",
+    "type": "xã",
+    "district_code": "945",
+    "codename": "an_thanh_tay"
+  },
+  {
+    "code": "31624",
+    "name": "An Thạnh Đông",
+    "name_en": "An Thanh Dong",
+    "full_name": "Xã An Thạnh Đông",
+    "full_name_en": "An Thanh Dong Commune",
+    "type": "xã",
+    "district_code": "945",
+    "codename": "an_thanh_dong"
+  },
+  {
+    "code": "31627",
+    "name": "Đại Ân 1",
+    "name_en": "Dai An 1",
+    "full_name": "Xã Đại Ân 1",
+    "full_name_en": "Commune Dai An 1",
+    "type": "xã",
+    "district_code": "945",
+    "codename": "dai_an_1"
+  },
+  {
+    "code": "31630",
+    "name": "An Thạnh 2",
+    "name_en": "An Thanh 2",
+    "full_name": "Xã An Thạnh 2",
+    "full_name_en": "Commune An Thanh 2",
+    "type": "xã",
+    "district_code": "945",
+    "codename": "an_thanh_2"
+  },
+  {
+    "code": "31633",
+    "name": "An Thạnh 3",
+    "name_en": "An Thanh 3",
+    "full_name": "Xã An Thạnh 3",
+    "full_name_en": "Commune An Thanh 3",
+    "type": "xã",
+    "district_code": "945",
+    "codename": "an_thanh_3"
+  },
+  {
+    "code": "31636",
+    "name": "An Thạnh Nam",
+    "name_en": "An Thanh Nam",
+    "full_name": "Xã An Thạnh Nam",
+    "full_name_en": "An Thanh Nam Commune",
+    "type": "xã",
+    "district_code": "945",
+    "codename": "an_thanh_nam"
+  }
+]

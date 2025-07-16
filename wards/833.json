@@ -1,0 +1,162 @@
+[
+  {
+    "code": "28903",
+    "name": "Mỏ Cày",
+    "name_en": "Mo Cay",
+    "full_name": "Thị trấn Mỏ Cày",
+    "full_name_en": "Mo Cay Township",
+    "type": "thị trấn",
+    "district_code": "833",
+    "codename": "mo_cay"
+  },
+  {
+    "code": "28930",
+    "name": "Định Thủy",
+    "name_en": "Dinh Thuy",
+    "full_name": "Xã Định Thủy",
+    "full_name_en": "Dinh Thuy Commune",
+    "type": "xã",
+    "district_code": "833",
+    "codename": "dinh_thuy"
+  },
+  {
+    "code": "28939",
+    "name": "Đa Phước Hội",
+    "name_en": "Da Phuoc Hoi",
+    "full_name": "Xã Đa Phước Hội",
+    "full_name_en": "Da Phuoc Hoi Commune",
+    "type": "xã",
+    "district_code": "833",
+    "codename": "da_phuoc_hoi"
+  },
+  {
+    "code": "28940",
+    "name": "Tân Hội",
+    "name_en": "Tan Hoi",
+    "full_name": "Xã Tân Hội",
+    "full_name_en": "Tan Hoi Commune",
+    "type": "xã",
+    "district_code": "833",
+    "codename": "tan_hoi"
+  },
+  {
+    "code": "28942",
+    "name": "Phước Hiệp",
+    "name_en": "Phuoc Hiep",
+    "full_name": "Xã Phước Hiệp",
+    "full_name_en": "Phuoc Hiep Commune",
+    "type": "xã",
+    "district_code": "833",
+    "codename": "phuoc_hiep"
+  },
+  {
+    "code": "28945",
+    "name": "Bình Khánh",
+    "name_en": "Binh Khanh",
+    "full_name": "Xã Bình Khánh",
+    "full_name_en": "Binh Khanh Commune",
+    "type": "xã",
+    "district_code": "833",
+    "codename": "binh_khanh"
+  },
+  {
+    "code": "28951",
+    "name": "An Thạnh",
+    "name_en": "An Thanh",
+    "full_name": "Xã An Thạnh",
+    "full_name_en": "An Thanh Commune",
+    "type": "xã",
+    "district_code": "833",
+    "codename": "an_thanh"
+  },
+  {
+    "code": "28957",
+    "name": "An Định",
+    "name_en": "An Dinh",
+    "full_name": "Xã An Định",
+    "full_name_en": "An Dinh Commune",
+    "type": "xã",
+    "district_code": "833",
+    "codename": "an_dinh"
+  },
+  {
+    "code": "28960",
+    "name": "Thành Thới B",
+    "name_en": "Thanh Thoi B",
+    "full_name": "Xã Thành Thới B",
+    "full_name_en": "Thanh Thoi B Commune",
+    "type": "xã",
+    "district_code": "833",
+    "codename": "thanh_thoi_b"
+  },
+  {
+    "code": "28963",
+    "name": "Tân Trung",
+    "name_en": "Tan Trung",
+    "full_name": "Xã Tân Trung",
+    "full_name_en": "Tan Trung Commune",
+    "type": "xã",
+    "district_code": "833",
+    "codename": "tan_trung"
+  },
+  {
+    "code": "28966",
+    "name": "An Thới",
+    "name_en": "An Thoi",
+    "full_name": "Xã An Thới",
+    "full_name_en": "An Thoi Commune",
+    "type": "xã",
+    "district_code": "833",
+    "codename": "an_thoi"
+  },
+  {
+    "code": "28969",
+    "name": "Thành Thới A",
+    "name_en": "Thanh Thoi A",
+    "full_name": "Xã Thành Thới A",
+    "full_name_en": "Thanh Thoi A Commune",
+    "type": "xã",
+    "district_code": "833",
+    "codename": "thanh_thoi_a"
+  },
+  {
+    "code": "28972",
+    "name": "Minh Đức",
+    "name_en": "Minh Duc",
+    "full_name": "Xã Minh Đức",
+    "full_name_en": "Minh Duc Commune",
+    "type": "xã",
+    "district_code": "833",
+    "codename": "minh_duc"
+  },
+  {
+    "code": "28975",
+    "name": "Ngãi Đăng",
+    "name_en": "Ngai Dang",
+    "full_name": "Xã Ngãi Đăng",
+    "full_name_en": "Ngai Dang Commune",
+    "type": "xã",
+    "district_code": "833",
+    "codename": "ngai_dang"
+  },
+  {
+    "code": "28978",
+    "name": "Cẩm Sơn",
+    "name_en": "Cam Son",
+    "full_name": "Xã Cẩm Sơn",
+    "full_name_en": "Cam Son Commune",
+    "type": "xã",
+    "district_code": "833",
+    "codename": "cam_son"
+  },
+  {
+    "code": "28981",
+    "name": "Hương Mỹ",
+    "name_en": "Huong My",
+    "full_name": "Xã Hương Mỹ",
+    "full_name_en": "Huong My Commune",
+    "type": "xã",
+    "district_code": "833",
+    "codename": "huong_my"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "code": "916",
+    "name": "Ninh Kiều",
+    "name_en": "Ninh Kieu",
+    "full_name": "Quận Ninh Kiều",
+    "full_name_en": "Ninh Kieu District",
+    "type": "quận",
+    "province_code": "92",
+    "codename": "ninh_kieu"
+  },
+  {
+    "code": "917",
+    "name": "Ô Môn",
+    "name_en": "O Mon",
+    "full_name": "Quận Ô Môn",
+    "full_name_en": "O Mon District",
+    "type": "quận",
+    "province_code": "92",
+    "codename": "o_mon"
+  },
+  {
+    "code": "918",
+    "name": "Bình Thuỷ",
+    "name_en": "Binh Thuy",
+    "full_name": "Quận Bình Thuỷ",
+    "full_name_en": "Binh Thuy District",
+    "type": "quận",
+    "province_code": "92",
+    "codename": "binh_thuy"
+  },
+  {
+    "code": "919",
+    "name": "Cái Răng",
+    "name_en": "Cai Rang",
+    "full_name": "Quận Cái Răng",
+    "full_name_en": "Cai Rang District",
+    "type": "quận",
+    "province_code": "92",
+    "codename": "cai_rang"
+  },
+  {
+    "code": "923",
+    "name": "Thốt Nốt",
+    "name_en": "Thot Not",
+    "full_name": "Quận Thốt Nốt",
+    "full_name_en": "Thot Not District",
+    "type": "quận",
+    "province_code": "92",
+    "codename": "thot_not"
+  },
+  {
+    "code": "924",
+    "name": "Vĩnh Thạnh",
+    "name_en": "Vinh Thanh",
+    "full_name": "Huyện Vĩnh Thạnh",
+    "full_name_en": "Vinh Thanh District",
+    "type": "huyện",
+    "province_code": "92",
+    "codename": "vinh_thanh"
+  },
+  {
+    "code": "925",
+    "name": "Cờ Đỏ",
+    "name_en": "Co Do",
+    "full_name": "Huyện Cờ Đỏ",
+    "full_name_en": "Co Do District",
+    "type": "huyện",
+    "province_code": "92",
+    "codename": "co_do"
+  },
+  {
+    "code": "926",
+    "name": "Phong Điền",
+    "name_en": "Phong Dien",
+    "full_name": "Huyện Phong Điền",
+    "full_name_en": "Phong Dien District",
+    "type": "huyện",
+    "province_code": "92",
+    "codename": "phong_dien"
+  },
+  {
+    "code": "927",
+    "name": "Thới Lai",
+    "name_en": "Thoi Lai",
+    "full_name": "Huyện Thới Lai",
+    "full_name_en": "Thoi Lai District",
+    "type": "huyện",
+    "province_code": "92",
+    "codename": "thoi_lai"
+  }
+]

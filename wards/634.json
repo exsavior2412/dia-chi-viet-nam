@@ -1,0 +1,82 @@
+[
+  {
+    "code": "23989",
+    "name": "Hà Tam",
+    "name_en": "Ha Tam",
+    "full_name": "Xã Hà Tam",
+    "full_name_en": "Ha Tam Commune",
+    "type": "xã",
+    "district_code": "634",
+    "codename": "ha_tam"
+  },
+  {
+    "code": "23992",
+    "name": "An Thành",
+    "name_en": "An Thanh",
+    "full_name": "Xã An Thành",
+    "full_name_en": "An Thanh Commune",
+    "type": "xã",
+    "district_code": "634",
+    "codename": "an_thanh"
+  },
+  {
+    "code": "23995",
+    "name": "Đak Pơ",
+    "name_en": "Dak Po",
+    "full_name": "Thị trấn Đak Pơ",
+    "full_name_en": "Dak Po Township",
+    "type": "thị trấn",
+    "district_code": "634",
+    "codename": "dak_po"
+  },
+  {
+    "code": "23998",
+    "name": "Yang Bắc",
+    "name_en": "Yang Bac",
+    "full_name": "Xã Yang Bắc",
+    "full_name_en": "Yang Bac Commune",
+    "type": "xã",
+    "district_code": "634",
+    "codename": "yang_bac"
+  },
+  {
+    "code": "24001",
+    "name": "Cư An",
+    "name_en": "Cu An",
+    "full_name": "Xã Cư An",
+    "full_name_en": "Cu An Commune",
+    "type": "xã",
+    "district_code": "634",
+    "codename": "cu_an"
+  },
+  {
+    "code": "24004",
+    "name": "Tân An",
+    "name_en": "Tan An",
+    "full_name": "Xã Tân An",
+    "full_name_en": "Tan An Commune",
+    "type": "xã",
+    "district_code": "634",
+    "codename": "tan_an"
+  },
+  {
+    "code": "24007",
+    "name": "Phú An",
+    "name_en": "Phu An",
+    "full_name": "Xã Phú An",
+    "full_name_en": "Phu An Commune",
+    "type": "xã",
+    "district_code": "634",
+    "codename": "phu_an"
+  },
+  {
+    "code": "24010",
+    "name": "Ya Hội",
+    "name_en": "Ya Hoi",
+    "full_name": "Xã Ya Hội",
+    "full_name_en": "Ya Hoi Commune",
+    "type": "xã",
+    "district_code": "634",
+    "codename": "ya_hoi"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "code": "20599",
+    "name": "Nam Phước",
+    "name_en": "Nam Phuoc",
+    "full_name": "Thị trấn Nam Phước",
+    "full_name_en": "Nam Phuoc Township",
+    "type": "thị trấn",
+    "district_code": "508",
+    "codename": "nam_phuoc"
+  },
+  {
+    "code": "20605",
+    "name": "Duy Phú",
+    "name_en": "Duy Phu",
+    "full_name": "Xã Duy Phú",
+    "full_name_en": "Duy Phu Commune",
+    "type": "xã",
+    "district_code": "508",
+    "codename": "duy_phu"
+  },
+  {
+    "code": "20608",
+    "name": "Duy Tân",
+    "name_en": "Duy Tan",
+    "full_name": "Xã Duy Tân",
+    "full_name_en": "Duy Tan Commune",
+    "type": "xã",
+    "district_code": "508",
+    "codename": "duy_tan"
+  },
+  {
+    "code": "20611",
+    "name": "Duy Hòa",
+    "name_en": "Duy Hoa",
+    "full_name": "Xã Duy Hòa",
+    "full_name_en": "Duy Hoa Commune",
+    "type": "xã",
+    "district_code": "508",
+    "codename": "duy_hoa"
+  },
+  {
+    "code": "20614",
+    "name": "Duy Châu",
+    "name_en": "Duy Chau",
+    "full_name": "Xã Duy Châu",
+    "full_name_en": "Duy Chau Commune",
+    "type": "xã",
+    "district_code": "508",
+    "codename": "duy_chau"
+  },
+  {
+    "code": "20617",
+    "name": "Duy Trinh",
+    "name_en": "Duy Trinh",
+    "full_name": "Xã Duy Trinh",
+    "full_name_en": "Duy Trinh Commune",
+    "type": "xã",
+    "district_code": "508",
+    "codename": "duy_trinh"
+  },
+  {
+    "code": "20620",
+    "name": "Duy Sơn",
+    "name_en": "Duy Son",
+    "full_name": "Xã Duy Sơn",
+    "full_name_en": "Duy Son Commune",
+    "type": "xã",
+    "district_code": "508",
+    "codename": "duy_son"
+  },
+  {
+    "code": "20623",
+    "name": "Duy Trung",
+    "name_en": "Duy Trung",
+    "full_name": "Xã Duy Trung",
+    "full_name_en": "Duy Trung Commune",
+    "type": "xã",
+    "district_code": "508",
+    "codename": "duy_trung"
+  },
+  {
+    "code": "20626",
+    "name": "Duy Phước",
+    "name_en": "Duy Phuoc",
+    "full_name": "Xã Duy Phước",
+    "full_name_en": "Duy Phuoc Commune",
+    "type": "xã",
+    "district_code": "508",
+    "codename": "duy_phuoc"
+  },
+  {
+    "code": "20629",
+    "name": "Duy Thành",
+    "name_en": "Duy Thanh",
+    "full_name": "Xã Duy Thành",
+    "full_name_en": "Duy Thanh Commune",
+    "type": "xã",
+    "district_code": "508",
+    "codename": "duy_thanh"
+  },
+  {
+    "code": "20632",
+    "name": "Duy Vinh",
+    "name_en": "Duy Vinh",
+    "full_name": "Xã Duy Vinh",
+    "full_name_en": "Duy Vinh Commune",
+    "type": "xã",
+    "district_code": "508",
+    "codename": "duy_vinh"
+  },
+  {
+    "code": "20635",
+    "name": "Duy Nghĩa",
+    "name_en": "Duy Nghia",
+    "full_name": "Xã Duy Nghĩa",
+    "full_name_en": "Duy Nghia Commune",
+    "type": "xã",
+    "district_code": "508",
+    "codename": "duy_nghia"
+  },
+  {
+    "code": "20638",
+    "name": "Duy Hải",
+    "name_en": "Duy Hai",
+    "full_name": "Xã Duy Hải",
+    "full_name_en": "Duy Hai Commune",
+    "type": "xã",
+    "district_code": "508",
+    "codename": "duy_hai"
+  }
+]

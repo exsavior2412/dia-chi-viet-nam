@@ -1,0 +1,212 @@
+[
+  {
+    "code": "13636",
+    "name": "Vị Xuyên",
+    "name_en": "Vi Xuyen",
+    "full_name": "Phường Vị Xuyên",
+    "full_name_en": "Vi Xuyen Ward",
+    "type": "phường",
+    "district_code": "356",
+    "codename": "vi_xuyen"
+  },
+  {
+    "code": "13657",
+    "name": "Trường Thi",
+    "name_en": "Truong Thi",
+    "full_name": "Phường Trường Thi",
+    "full_name_en": "Truong Thi Ward",
+    "type": "phường",
+    "district_code": "356",
+    "codename": "truong_thi"
+  },
+  {
+    "code": "13666",
+    "name": "Trần Hưng Đạo",
+    "name_en": "Tran Hung Dao",
+    "full_name": "Phường Trần Hưng Đạo",
+    "full_name_en": "Tran Hung Dao Ward",
+    "type": "phường",
+    "district_code": "356",
+    "codename": "tran_hung_dao"
+  },
+  {
+    "code": "13669",
+    "name": "Cửa Bắc",
+    "name_en": "Cua Bac",
+    "full_name": "Phường Cửa Bắc",
+    "full_name_en": "Cua Bac Ward",
+    "type": "phường",
+    "district_code": "356",
+    "codename": "cua_bac"
+  },
+  {
+    "code": "13678",
+    "name": "Năng Tĩnh",
+    "name_en": "Nang Tinh",
+    "full_name": "Phường Năng Tĩnh",
+    "full_name_en": "Nang Tinh Ward",
+    "type": "phường",
+    "district_code": "356",
+    "codename": "nang_tinh"
+  },
+  {
+    "code": "13681",
+    "name": "Quang Trung",
+    "name_en": "Quang Trung",
+    "full_name": "Phường Quang Trung",
+    "full_name_en": "Quang Trung Ward",
+    "type": "phường",
+    "district_code": "356",
+    "codename": "quang_trung"
+  },
+  {
+    "code": "13684",
+    "name": "Lộc Hạ",
+    "name_en": "Loc Ha",
+    "full_name": "Phường Lộc Hạ",
+    "full_name_en": "Loc Ha Ward",
+    "type": "phường",
+    "district_code": "356",
+    "codename": "loc_ha"
+  },
+  {
+    "code": "13687",
+    "name": "Lộc Vượng",
+    "name_en": "Loc Vuong",
+    "full_name": "Phường Lộc Vượng",
+    "full_name_en": "Loc Vuong Ward",
+    "type": "phường",
+    "district_code": "356",
+    "codename": "loc_vuong"
+  },
+  {
+    "code": "13690",
+    "name": "Cửa Nam",
+    "name_en": "Cua Nam",
+    "full_name": "Phường Cửa Nam",
+    "full_name_en": "Cua Nam Ward",
+    "type": "phường",
+    "district_code": "356",
+    "codename": "cua_nam"
+  },
+  {
+    "code": "13693",
+    "name": "Lộc Hòa",
+    "name_en": "Loc Hoa",
+    "full_name": "Phường Lộc Hòa",
+    "full_name_en": "Loc Hoa Ward",
+    "type": "phường",
+    "district_code": "356",
+    "codename": "loc_hoa"
+  },
+  {
+    "code": "13696",
+    "name": "Nam Phong",
+    "name_en": "Nam Phong",
+    "full_name": "Phường Nam Phong",
+    "full_name_en": "Nam Phong Ward",
+    "type": "phường",
+    "district_code": "356",
+    "codename": "nam_phong"
+  },
+  {
+    "code": "13699",
+    "name": "Mỹ Xá",
+    "name_en": "My Xa",
+    "full_name": "Phường Mỹ Xá",
+    "full_name_en": "My Xa Ward",
+    "type": "phường",
+    "district_code": "356",
+    "codename": "my_xa"
+  },
+  {
+    "code": "13705",
+    "name": "Nam Vân",
+    "name_en": "Nam Van",
+    "full_name": "Phường Nam Vân",
+    "full_name_en": "Nam Van Ward",
+    "type": "phường",
+    "district_code": "356",
+    "codename": "nam_van"
+  },
+  {
+    "code": "13708",
+    "name": "Hưng Lộc",
+    "name_en": "Hung Loc",
+    "full_name": "Phường Hưng Lộc",
+    "full_name_en": "Hung Loc Ward",
+    "type": "phường",
+    "district_code": "356",
+    "codename": "hung_loc"
+  },
+  {
+    "code": "13711",
+    "name": "Mỹ Hà",
+    "name_en": "My Ha",
+    "full_name": "Xã Mỹ Hà",
+    "full_name_en": "My Ha Commune",
+    "type": "xã",
+    "district_code": "356",
+    "codename": "my_ha"
+  },
+  {
+    "code": "13717",
+    "name": "Mỹ Thắng",
+    "name_en": "My Thang",
+    "full_name": "Xã Mỹ Thắng",
+    "full_name_en": "My Thang Commune",
+    "type": "xã",
+    "district_code": "356",
+    "codename": "my_thang"
+  },
+  {
+    "code": "13720",
+    "name": "Mỹ Trung",
+    "name_en": "My Trung",
+    "full_name": "Xã Mỹ Trung",
+    "full_name_en": "My Trung Commune",
+    "type": "xã",
+    "district_code": "356",
+    "codename": "my_trung"
+  },
+  {
+    "code": "13723",
+    "name": "Mỹ Tân",
+    "name_en": "My Tan",
+    "full_name": "Xã Mỹ Tân",
+    "full_name_en": "My Tan Commune",
+    "type": "xã",
+    "district_code": "356",
+    "codename": "my_tan"
+  },
+  {
+    "code": "13726",
+    "name": "Mỹ Phúc",
+    "name_en": "My Phuc",
+    "full_name": "Xã Mỹ Phúc",
+    "full_name_en": "My Phuc Commune",
+    "type": "xã",
+    "district_code": "356",
+    "codename": "my_phuc"
+  },
+  {
+    "code": "13732",
+    "name": "Mỹ Thuận",
+    "name_en": "My Thuan",
+    "full_name": "Xã Mỹ Thuận",
+    "full_name_en": "My Thuan Commune",
+    "type": "xã",
+    "district_code": "356",
+    "codename": "my_thuan"
+  },
+  {
+    "code": "13735",
+    "name": "Mỹ Lộc",
+    "name_en": "My Loc",
+    "full_name": "Xã Mỹ Lộc",
+    "full_name_en": "My Loc Commune",
+    "type": "xã",
+    "district_code": "356",
+    "codename": "my_loc"
+  }
+]

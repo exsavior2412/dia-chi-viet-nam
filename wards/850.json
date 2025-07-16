@@ -1,0 +1,72 @@
+[
+  {
+    "code": "29497",
+    "name": "Đôn Xuân",
+    "name_en": "Don Xuan",
+    "full_name": "Xã Đôn Xuân",
+    "full_name_en": "Don Xuan Commune",
+    "type": "xã",
+    "district_code": "850",
+    "codename": "don_xuan"
+  },
+  {
+    "code": "29500",
+    "name": "Đôn Châu",
+    "name_en": "Don Chau",
+    "full_name": "Xã Đôn Châu",
+    "full_name_en": "Don Chau Commune",
+    "type": "xã",
+    "district_code": "850",
+    "codename": "don_chau"
+  },
+  {
+    "code": "29513",
+    "name": "Long Thành",
+    "name_en": "Long Thanh",
+    "full_name": "Thị trấn Long Thành",
+    "full_name_en": "Long Thanh Township",
+    "type": "thị trấn",
+    "district_code": "850",
+    "codename": "long_thanh"
+  },
+  {
+    "code": "29521",
+    "name": "Long Khánh",
+    "name_en": "Long Khanh",
+    "full_name": "Xã Long Khánh",
+    "full_name_en": "Long Khanh Commune",
+    "type": "xã",
+    "district_code": "850",
+    "codename": "long_khanh"
+  },
+  {
+    "code": "29530",
+    "name": "Ngũ Lạc",
+    "name_en": "Ngu Lac",
+    "full_name": "Xã Ngũ Lạc",
+    "full_name_en": "Ngu Lac Commune",
+    "type": "xã",
+    "district_code": "850",
+    "codename": "ngu_lac"
+  },
+  {
+    "code": "29533",
+    "name": "Long Vĩnh",
+    "name_en": "Long Vinh",
+    "full_name": "Xã Long Vĩnh",
+    "full_name_en": "Long Vinh Commune",
+    "type": "xã",
+    "district_code": "850",
+    "codename": "long_vinh"
+  },
+  {
+    "code": "29536",
+    "name": "Đông Hải",
+    "name_en": "Dong Hai",
+    "full_name": "Xã Đông Hải",
+    "full_name_en": "Dong Hai Commune",
+    "type": "xã",
+    "district_code": "850",
+    "codename": "dong_hai"
+  }
+]

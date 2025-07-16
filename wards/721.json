@@ -1,0 +1,82 @@
+[
+  {
+    "code": "25813",
+    "name": "Mỹ Phước",
+    "name_en": "My Phuoc",
+    "full_name": "Phường Mỹ Phước",
+    "full_name_en": "My Phuoc Ward",
+    "type": "phường",
+    "district_code": "721",
+    "codename": "my_phuoc"
+  },
+  {
+    "code": "25837",
+    "name": "Chánh Phú Hòa",
+    "name_en": "Chanh Phu Hoa",
+    "full_name": "Phường Chánh Phú Hòa",
+    "full_name_en": "Chanh Phu Hoa Ward",
+    "type": "phường",
+    "district_code": "721",
+    "codename": "chanh_phu_hoa"
+  },
+  {
+    "code": "25840",
+    "name": "An Điền",
+    "name_en": "An Dien",
+    "full_name": "Phường An Điền",
+    "full_name_en": "An Dien Ward",
+    "type": "phường",
+    "district_code": "721",
+    "codename": "an_dien"
+  },
+  {
+    "code": "25843",
+    "name": "An Tây",
+    "name_en": "An Tay",
+    "full_name": "Phường An Tây",
+    "full_name_en": "An Tay Ward",
+    "type": "phường",
+    "district_code": "721",
+    "codename": "an_tay"
+  },
+  {
+    "code": "25846",
+    "name": "Thới Hòa",
+    "name_en": "Thoi Hoa",
+    "full_name": "Phường Thới Hòa",
+    "full_name_en": "Thoi Hoa Ward",
+    "type": "phường",
+    "district_code": "721",
+    "codename": "thoi_hoa"
+  },
+  {
+    "code": "25849",
+    "name": "Hòa Lợi",
+    "name_en": "Hoa Loi",
+    "full_name": "Phường Hòa Lợi",
+    "full_name_en": "Hoa Loi Ward",
+    "type": "phường",
+    "district_code": "721",
+    "codename": "hoa_loi"
+  },
+  {
+    "code": "25852",
+    "name": "Tân Định",
+    "name_en": "Tan Dinh",
+    "full_name": "Phường Tân Định",
+    "full_name_en": "Tan Dinh Ward",
+    "type": "phường",
+    "district_code": "721",
+    "codename": "tan_dinh"
+  },
+  {
+    "code": "25855",
+    "name": "Phú An",
+    "name_en": "Phu An",
+    "full_name": "Xã Phú An",
+    "full_name_en": "Phu An Commune",
+    "type": "xã",
+    "district_code": "721",
+    "codename": "phu_an"
+  }
+]

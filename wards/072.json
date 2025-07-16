@@ -1,0 +1,122 @@
+[
+  {
+    "code": "02221",
+    "name": "Na Hang",
+    "name_en": "Na Hang",
+    "full_name": "Thị trấn Na Hang",
+    "full_name_en": "Na Hang Township",
+    "type": "thị trấn",
+    "district_code": "072",
+    "codename": "na_hang"
+  },
+  {
+    "code": "02227",
+    "name": "Sinh Long",
+    "name_en": "Sinh Long",
+    "full_name": "Xã Sinh Long",
+    "full_name_en": "Sinh Long Commune",
+    "type": "xã",
+    "district_code": "072",
+    "codename": "sinh_long"
+  },
+  {
+    "code": "02230",
+    "name": "Thượng Giáp",
+    "name_en": "Thuong Giap",
+    "full_name": "Xã Thượng Giáp",
+    "full_name_en": "Thuong Giap Commune",
+    "type": "xã",
+    "district_code": "072",
+    "codename": "thuong_giap"
+  },
+  {
+    "code": "02239",
+    "name": "Thượng Nông",
+    "name_en": "Thuong Nong",
+    "full_name": "Xã Thượng Nông",
+    "full_name_en": "Thuong Nong Commune",
+    "type": "xã",
+    "district_code": "072",
+    "codename": "thuong_nong"
+  },
+  {
+    "code": "02245",
+    "name": "Côn Lôn",
+    "name_en": "Con Lon",
+    "full_name": "Xã Côn Lôn",
+    "full_name_en": "Con Lon Commune",
+    "type": "xã",
+    "district_code": "072",
+    "codename": "con_lon"
+  },
+  {
+    "code": "02248",
+    "name": "Yên Hoa",
+    "name_en": "Yen Hoa",
+    "full_name": "Xã Yên Hoa",
+    "full_name_en": "Yen Hoa Commune",
+    "type": "xã",
+    "district_code": "072",
+    "codename": "yen_hoa"
+  },
+  {
+    "code": "02254",
+    "name": "Hồng Thái",
+    "name_en": "Hong Thai",
+    "full_name": "Xã Hồng Thái",
+    "full_name_en": "Hong Thai Commune",
+    "type": "xã",
+    "district_code": "072",
+    "codename": "hong_thai"
+  },
+  {
+    "code": "02260",
+    "name": "Đà Vị",
+    "name_en": "Da Vi",
+    "full_name": "Xã Đà Vị",
+    "full_name_en": "Da Vi Commune",
+    "type": "xã",
+    "district_code": "072",
+    "codename": "da_vi"
+  },
+  {
+    "code": "02263",
+    "name": "Khau Tinh",
+    "name_en": "Khau Tinh",
+    "full_name": "Xã Khau Tinh",
+    "full_name_en": "Khau Tinh Commune",
+    "type": "xã",
+    "district_code": "072",
+    "codename": "khau_tinh"
+  },
+  {
+    "code": "02275",
+    "name": "Sơn Phú",
+    "name_en": "Son Phu",
+    "full_name": "Xã Sơn Phú",
+    "full_name_en": "Son Phu Commune",
+    "type": "xã",
+    "district_code": "072",
+    "codename": "son_phu"
+  },
+  {
+    "code": "02281",
+    "name": "Năng Khả",
+    "name_en": "Nang Kha",
+    "full_name": "Xã Năng Khả",
+    "full_name_en": "Nang Kha Commune",
+    "type": "xã",
+    "district_code": "072",
+    "codename": "nang_kha"
+  },
+  {
+    "code": "02284",
+    "name": "Thanh Tương",
+    "name_en": "Thanh Tuong",
+    "full_name": "Xã Thanh Tương",
+    "full_name_en": "Thanh Tuong Commune",
+    "type": "xã",
+    "district_code": "072",
+    "codename": "thanh_tuong"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "code": "18754",
+    "name": "Hưng Trí",
+    "name_en": "Hung Tri",
+    "full_name": "Phường Hưng Trí",
+    "full_name_en": "Hung Tri Ward",
+    "type": "phường",
+    "district_code": "449",
+    "codename": "hung_tri"
+  },
+  {
+    "code": "18781",
+    "name": "Kỳ Ninh",
+    "name_en": "Ky Ninh",
+    "full_name": "Phường Kỳ Ninh",
+    "full_name_en": "Ky Ninh Ward",
+    "type": "phường",
+    "district_code": "449",
+    "codename": "ky_ninh"
+  },
+  {
+    "code": "18796",
+    "name": "Kỳ Lợi",
+    "name_en": "Ky Loi",
+    "full_name": "Xã Kỳ Lợi",
+    "full_name_en": "Ky Loi Commune",
+    "type": "xã",
+    "district_code": "449",
+    "codename": "ky_loi"
+  },
+  {
+    "code": "18808",
+    "name": "Kỳ Hà",
+    "name_en": "Ky Ha",
+    "full_name": "Xã Kỳ Hà",
+    "full_name_en": "Ky Ha Commune",
+    "type": "xã",
+    "district_code": "449",
+    "codename": "ky_ha"
+  },
+  {
+    "code": "18820",
+    "name": "Kỳ Trinh",
+    "name_en": "Ky Trinh",
+    "full_name": "Phường Kỳ Trinh",
+    "full_name_en": "Ky Trinh Ward",
+    "type": "phường",
+    "district_code": "449",
+    "codename": "ky_trinh"
+  },
+  {
+    "code": "18823",
+    "name": "Kỳ Thịnh",
+    "name_en": "Ky Thinh",
+    "full_name": "Phường Kỳ Thịnh",
+    "full_name_en": "Ky Thinh Ward",
+    "type": "phường",
+    "district_code": "449",
+    "codename": "ky_thinh"
+  },
+  {
+    "code": "18829",
+    "name": "Kỳ Hoa",
+    "name_en": "Ky Hoa",
+    "full_name": "Xã Kỳ Hoa",
+    "full_name_en": "Ky Hoa Commune",
+    "type": "xã",
+    "district_code": "449",
+    "codename": "ky_hoa"
+  },
+  {
+    "code": "18832",
+    "name": "Kỳ Phương",
+    "name_en": "Ky Phuong",
+    "full_name": "Phường Kỳ Phương",
+    "full_name_en": "Ky Phuong Ward",
+    "type": "phường",
+    "district_code": "449",
+    "codename": "ky_phuong"
+  },
+  {
+    "code": "18835",
+    "name": "Kỳ Long",
+    "name_en": "Ky Long",
+    "full_name": "Phường Kỳ Long",
+    "full_name_en": "Ky Long Ward",
+    "type": "phường",
+    "district_code": "449",
+    "codename": "ky_long"
+  },
+  {
+    "code": "18841",
+    "name": "Kỳ Liên",
+    "name_en": "Ky Lien",
+    "full_name": "Phường Kỳ Liên",
+    "full_name_en": "Ky Lien Ward",
+    "type": "phường",
+    "district_code": "449",
+    "codename": "ky_lien"
+  },
+  {
+    "code": "18847",
+    "name": "Kỳ Nam",
+    "name_en": "Ky Nam",
+    "full_name": "Phường Kỳ Nam",
+    "full_name_en": "Ky Nam Ward",
+    "type": "phường",
+    "district_code": "449",
+    "codename": "ky_nam"
+  }
+]

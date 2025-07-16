@@ -1,0 +1,92 @@
+[
+  {
+    "code": "31207",
+    "name": "Thốt Nốt",
+    "name_en": "Thot Not",
+    "full_name": "Phường Thốt Nốt",
+    "full_name_en": "Thot Not Ward",
+    "type": "phường",
+    "district_code": "923",
+    "codename": "thot_not"
+  },
+  {
+    "code": "31210",
+    "name": "Thới Thuận",
+    "name_en": "Thoi Thuan",
+    "full_name": "Phường Thới Thuận",
+    "full_name_en": "Thoi Thuan Ward",
+    "type": "phường",
+    "district_code": "923",
+    "codename": "thoi_thuan"
+  },
+  {
+    "code": "31212",
+    "name": "Thuận An",
+    "name_en": "Thuan An",
+    "full_name": "Phường Thuận An",
+    "full_name_en": "Thuan An Ward",
+    "type": "phường",
+    "district_code": "923",
+    "codename": "thuan_an"
+  },
+  {
+    "code": "31213",
+    "name": "Tân Lộc",
+    "name_en": "Tan Loc",
+    "full_name": "Phường Tân Lộc",
+    "full_name_en": "Tan Loc Ward",
+    "type": "phường",
+    "district_code": "923",
+    "codename": "tan_loc"
+  },
+  {
+    "code": "31216",
+    "name": "Trung Nhứt",
+    "name_en": "Trung Nhut",
+    "full_name": "Phường Trung Nhứt",
+    "full_name_en": "Trung Nhut Ward",
+    "type": "phường",
+    "district_code": "923",
+    "codename": "trung_nhut"
+  },
+  {
+    "code": "31217",
+    "name": "Thạnh Hoà",
+    "name_en": "Thanh Hoa",
+    "full_name": "Phường Thạnh Hoà",
+    "full_name_en": "Thanh Hoa Ward",
+    "type": "phường",
+    "district_code": "923",
+    "codename": "thanh_hoa"
+  },
+  {
+    "code": "31219",
+    "name": "Trung Kiên",
+    "name_en": "Trung Kien",
+    "full_name": "Phường Trung Kiên",
+    "full_name_en": "Trung Kien Ward",
+    "type": "phường",
+    "district_code": "923",
+    "codename": "trung_kien"
+  },
+  {
+    "code": "31227",
+    "name": "Tân Hưng",
+    "name_en": "Tan Hung",
+    "full_name": "Phường Tân Hưng",
+    "full_name_en": "Tan Hung Ward",
+    "type": "phường",
+    "district_code": "923",
+    "codename": "tan_hung"
+  },
+  {
+    "code": "31228",
+    "name": "Thuận Hưng",
+    "name_en": "Thuan Hung",
+    "full_name": "Phường Thuận Hưng",
+    "full_name_en": "Thuan Hung Ward",
+    "type": "phường",
+    "district_code": "923",
+    "codename": "thuan_hung"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "code": "24041",
+    "name": "Cheo Reo",
+    "name_en": "Cheo Reo",
+    "full_name": "Phường Cheo Reo",
+    "full_name_en": "Cheo Reo Ward",
+    "type": "phường",
+    "district_code": "624",
+    "codename": "cheo_reo"
+  },
+  {
+    "code": "24042",
+    "name": "Hòa Bình",
+    "name_en": "Hoa Binh",
+    "full_name": "Phường Hòa Bình",
+    "full_name_en": "Hoa Binh Ward",
+    "type": "phường",
+    "district_code": "624",
+    "codename": "hoa_binh"
+  },
+  {
+    "code": "24044",
+    "name": "Đoàn Kết",
+    "name_en": "Doan Ket",
+    "full_name": "Phường Đoàn Kết",
+    "full_name_en": "Doan Ket Ward",
+    "type": "phường",
+    "district_code": "624",
+    "codename": "doan_ket"
+  },
+  {
+    "code": "24045",
+    "name": "Sông Bờ",
+    "name_en": "Song Bo",
+    "full_name": "Phường Sông Bờ",
+    "full_name_en": "Song Bo Ward",
+    "type": "phường",
+    "district_code": "624",
+    "codename": "song_bo"
+  },
+  {
+    "code": "24064",
+    "name": "Ia RBol",
+    "name_en": "Ia RBol",
+    "full_name": "Xã Ia RBol",
+    "full_name_en": "Ia RBol Commune",
+    "type": "xã",
+    "district_code": "624",
+    "codename": "ia_rbol"
+  },
+  {
+    "code": "24065",
+    "name": "Chư Băh",
+    "name_en": "Chu Bah",
+    "full_name": "Xã Chư Băh",
+    "full_name_en": "Chu Bah Commune",
+    "type": "xã",
+    "district_code": "624",
+    "codename": "chu_bah"
+  },
+  {
+    "code": "24070",
+    "name": "Ia RTô",
+    "name_en": "Ia RTo",
+    "full_name": "Xã Ia RTô",
+    "full_name_en": "Ia RTo Commune",
+    "type": "xã",
+    "district_code": "624",
+    "codename": "ia_rto"
+  },
+  {
+    "code": "24073",
+    "name": "Ia Sao",
+    "name_en": "Ia Sao",
+    "full_name": "Xã Ia Sao",
+    "full_name_en": "Ia Sao Commune",
+    "type": "xã",
+    "district_code": "624",
+    "codename": "ia_sao"
+  }
+]

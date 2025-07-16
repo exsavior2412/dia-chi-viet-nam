@@ -1,0 +1,242 @@
+[
+  {
+    "code": "00703",
+    "name": "Kim Thạch",
+    "name_en": "Kim Thach",
+    "full_name": "Xã Kim Thạch",
+    "full_name_en": "Kim Thach Commune",
+    "type": "xã",
+    "district_code": "030",
+    "codename": "kim_thach"
+  },
+  {
+    "code": "00706",
+    "name": "Phú Linh",
+    "name_en": "Phu Linh",
+    "full_name": "Xã Phú Linh",
+    "full_name_en": "Phu Linh Commune",
+    "type": "xã",
+    "district_code": "030",
+    "codename": "phu_linh"
+  },
+  {
+    "code": "00709",
+    "name": "Kim Linh",
+    "name_en": "Kim Linh",
+    "full_name": "Xã Kim Linh",
+    "full_name_en": "Kim Linh Commune",
+    "type": "xã",
+    "district_code": "030",
+    "codename": "kim_linh"
+  },
+  {
+    "code": "00913",
+    "name": "Vị Xuyên",
+    "name_en": "Vi Xuyen",
+    "full_name": "Thị trấn Vị Xuyên",
+    "full_name_en": "Vi Xuyen Township",
+    "type": "thị trấn",
+    "district_code": "030",
+    "codename": "vi_xuyen"
+  },
+  {
+    "code": "00916",
+    "name": "Nông Trường Việt Lâm",
+    "name_en": "Nong Truong Viet Lam",
+    "full_name": "Thị trấn Nông Trường Việt Lâm",
+    "full_name_en": "Nong Truong Viet Lam Township",
+    "type": "thị trấn",
+    "district_code": "030",
+    "codename": "nong_truong_viet_lam"
+  },
+  {
+    "code": "00919",
+    "name": "Minh Tân",
+    "name_en": "Minh Tan",
+    "full_name": "Xã Minh Tân",
+    "full_name_en": "Minh Tan Commune",
+    "type": "xã",
+    "district_code": "030",
+    "codename": "minh_tan"
+  },
+  {
+    "code": "00922",
+    "name": "Thuận Hoà",
+    "name_en": "Thuan Hoa",
+    "full_name": "Xã Thuận Hoà",
+    "full_name_en": "Thuan Hoa Commune",
+    "type": "xã",
+    "district_code": "030",
+    "codename": "thuan_hoa"
+  },
+  {
+    "code": "00925",
+    "name": "Tùng Bá",
+    "name_en": "Tung Ba",
+    "full_name": "Xã Tùng Bá",
+    "full_name_en": "Tung Ba Commune",
+    "type": "xã",
+    "district_code": "030",
+    "codename": "tung_ba"
+  },
+  {
+    "code": "00928",
+    "name": "Thanh Thủy",
+    "name_en": "Thanh Thuy",
+    "full_name": "Xã Thanh Thủy",
+    "full_name_en": "Thanh Thuy Commune",
+    "type": "xã",
+    "district_code": "030",
+    "codename": "thanh_thuy"
+  },
+  {
+    "code": "00931",
+    "name": "Thanh Đức",
+    "name_en": "Thanh Duc",
+    "full_name": "Xã Thanh Đức",
+    "full_name_en": "Thanh Duc Commune",
+    "type": "xã",
+    "district_code": "030",
+    "codename": "thanh_duc"
+  },
+  {
+    "code": "00934",
+    "name": "Phong Quang",
+    "name_en": "Phong Quang",
+    "full_name": "Xã Phong Quang",
+    "full_name_en": "Phong Quang Commune",
+    "type": "xã",
+    "district_code": "030",
+    "codename": "phong_quang"
+  },
+  {
+    "code": "00937",
+    "name": "Xín Chải",
+    "name_en": "Xin Chai",
+    "full_name": "Xã Xín Chải",
+    "full_name_en": "Xin Chai Commune",
+    "type": "xã",
+    "district_code": "030",
+    "codename": "xin_chai"
+  },
+  {
+    "code": "00940",
+    "name": "Phương Tiến",
+    "name_en": "Phuong Tien",
+    "full_name": "Xã Phương Tiến",
+    "full_name_en": "Phuong Tien Commune",
+    "type": "xã",
+    "district_code": "030",
+    "codename": "phuong_tien"
+  },
+  {
+    "code": "00943",
+    "name": "Lao Chải",
+    "name_en": "Lao Chai",
+    "full_name": "Xã Lao Chải",
+    "full_name_en": "Lao Chai Commune",
+    "type": "xã",
+    "district_code": "030",
+    "codename": "lao_chai"
+  },
+  {
+    "code": "00952",
+    "name": "Cao Bồ",
+    "name_en": "Cao Bo",
+    "full_name": "Xã Cao Bồ",
+    "full_name_en": "Cao Bo Commune",
+    "type": "xã",
+    "district_code": "030",
+    "codename": "cao_bo"
+  },
+  {
+    "code": "00955",
+    "name": "Đạo Đức",
+    "name_en": "Dao Duc",
+    "full_name": "Xã Đạo Đức",
+    "full_name_en": "Dao Duc Commune",
+    "type": "xã",
+    "district_code": "030",
+    "codename": "dao_duc"
+  },
+  {
+    "code": "00958",
+    "name": "Thượng Sơn",
+    "name_en": "Thuong Son",
+    "full_name": "Xã Thượng Sơn",
+    "full_name_en": "Thuong Son Commune",
+    "type": "xã",
+    "district_code": "030",
+    "codename": "thuong_son"
+  },
+  {
+    "code": "00961",
+    "name": "Linh Hồ",
+    "name_en": "Linh Ho",
+    "full_name": "Xã Linh Hồ",
+    "full_name_en": "Linh Ho Commune",
+    "type": "xã",
+    "district_code": "030",
+    "codename": "linh_ho"
+  },
+  {
+    "code": "00964",
+    "name": "Quảng Ngần",
+    "name_en": "Quang Ngan",
+    "full_name": "Xã Quảng Ngần",
+    "full_name_en": "Quang Ngan Commune",
+    "type": "xã",
+    "district_code": "030",
+    "codename": "quang_ngan"
+  },
+  {
+    "code": "00967",
+    "name": "Việt Lâm",
+    "name_en": "Viet Lam",
+    "full_name": "Xã Việt Lâm",
+    "full_name_en": "Viet Lam Commune",
+    "type": "xã",
+    "district_code": "030",
+    "codename": "viet_lam"
+  },
+  {
+    "code": "00970",
+    "name": "Ngọc Linh",
+    "name_en": "Ngoc Linh",
+    "full_name": "Xã Ngọc Linh",
+    "full_name_en": "Ngoc Linh Commune",
+    "type": "xã",
+    "district_code": "030",
+    "codename": "ngoc_linh"
+  },
+  {
+    "code": "00973",
+    "name": "Ngọc Minh",
+    "name_en": "Ngoc Minh",
+    "full_name": "Xã Ngọc Minh",
+    "full_name_en": "Ngoc Minh Commune",
+    "type": "xã",
+    "district_code": "030",
+    "codename": "ngoc_minh"
+  },
+  {
+    "code": "00976",
+    "name": "Bạch Ngọc",
+    "name_en": "Bach Ngoc",
+    "full_name": "Xã Bạch Ngọc",
+    "full_name_en": "Bach Ngoc Commune",
+    "type": "xã",
+    "district_code": "030",
+    "codename": "bach_ngoc"
+  },
+  {
+    "code": "00979",
+    "name": "Trung Thành",
+    "name_en": "Trung Thanh",
+    "full_name": "Xã Trung Thành",
+    "full_name_en": "Trung Thanh Commune",
+    "type": "xã",
+    "district_code": "030",
+    "codename": "trung_thanh"
+  }
+]

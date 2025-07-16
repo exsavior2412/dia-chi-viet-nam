@@ -1,0 +1,142 @@
+[
+  {
+    "code": "14089",
+    "name": "Xuân Trường",
+    "name_en": "Xuan Truong",
+    "full_name": "Thị trấn Xuân Trường",
+    "full_name_en": "Xuan Truong Township",
+    "type": "thị trấn",
+    "district_code": "364",
+    "codename": "xuan_truong"
+  },
+  {
+    "code": "14092",
+    "name": "Xuân Châu",
+    "name_en": "Xuan Chau",
+    "full_name": "Xã Xuân Châu",
+    "full_name_en": "Xuan Chau Commune",
+    "type": "xã",
+    "district_code": "364",
+    "codename": "xuan_chau"
+  },
+  {
+    "code": "14095",
+    "name": "Xuân Hồng",
+    "name_en": "Xuan Hong",
+    "full_name": "Xã Xuân Hồng",
+    "full_name_en": "Xuan Hong Commune",
+    "type": "xã",
+    "district_code": "364",
+    "codename": "xuan_hong"
+  },
+  {
+    "code": "14098",
+    "name": "Xuân Thành",
+    "name_en": "Xuan Thanh",
+    "full_name": "Xã Xuân Thành",
+    "full_name_en": "Xuan Thanh Commune",
+    "type": "xã",
+    "district_code": "364",
+    "codename": "xuan_thanh"
+  },
+  {
+    "code": "14101",
+    "name": "Xuân Thượng",
+    "name_en": "Xuan Thuong",
+    "full_name": "Xã Xuân Thượng",
+    "full_name_en": "Xuan Thuong Commune",
+    "type": "xã",
+    "district_code": "364",
+    "codename": "xuan_thuong"
+  },
+  {
+    "code": "14104",
+    "name": "Xuân Giang",
+    "name_en": "Xuan Giang",
+    "full_name": "Xã Xuân Giang",
+    "full_name_en": "Xuan Giang Commune",
+    "type": "xã",
+    "district_code": "364",
+    "codename": "xuan_giang"
+  },
+  {
+    "code": "14110",
+    "name": "Xuân Tân",
+    "name_en": "Xuan Tan",
+    "full_name": "Xã Xuân Tân",
+    "full_name_en": "Xuan Tan Commune",
+    "type": "xã",
+    "district_code": "364",
+    "codename": "xuan_tan"
+  },
+  {
+    "code": "14116",
+    "name": "Xuân Ngọc",
+    "name_en": "Xuan Ngoc",
+    "full_name": "Xã Xuân Ngọc",
+    "full_name_en": "Xuan Ngoc Commune",
+    "type": "xã",
+    "district_code": "364",
+    "codename": "xuan_ngoc"
+  },
+  {
+    "code": "14122",
+    "name": "Trà Lũ",
+    "name_en": "Tra Lu",
+    "full_name": "Xã Trà Lũ",
+    "full_name_en": "Tra Lu Commune",
+    "type": "xã",
+    "district_code": "364",
+    "codename": "tra_lu"
+  },
+  {
+    "code": "14125",
+    "name": "Thọ Nghiệp",
+    "name_en": "Tho Nghiep",
+    "full_name": "Xã Thọ Nghiệp",
+    "full_name_en": "Tho Nghiep Commune",
+    "type": "xã",
+    "district_code": "364",
+    "codename": "tho_nghiep"
+  },
+  {
+    "code": "14128",
+    "name": "Xuân Phú",
+    "name_en": "Xuan Phu",
+    "full_name": "Xã Xuân Phú",
+    "full_name_en": "Xuan Phu Commune",
+    "type": "xã",
+    "district_code": "364",
+    "codename": "xuan_phu"
+  },
+  {
+    "code": "14134",
+    "name": "Xuân Vinh",
+    "name_en": "Xuan Vinh",
+    "full_name": "Xã Xuân Vinh",
+    "full_name_en": "Xuan Vinh Commune",
+    "type": "xã",
+    "district_code": "364",
+    "codename": "xuan_vinh"
+  },
+  {
+    "code": "14143",
+    "name": "Xuân Ninh",
+    "name_en": "Xuan Ninh",
+    "full_name": "Xã Xuân Ninh",
+    "full_name_en": "Xuan Ninh Commune",
+    "type": "xã",
+    "district_code": "364",
+    "codename": "xuan_ninh"
+  },
+  {
+    "code": "14146",
+    "name": "Xuân Phúc",
+    "name_en": "Xuan Phuc",
+    "full_name": "Xã Xuân Phúc",
+    "full_name_en": "Xuan Phuc Commune",
+    "type": "xã",
+    "district_code": "364",
+    "codename": "xuan_phuc"
+  }
+]

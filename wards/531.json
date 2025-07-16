@@ -1,0 +1,52 @@
+[
+  {
+    "code": "21349",
+    "name": "Long Sơn",
+    "name_en": "Long Son",
+    "full_name": "Xã Long Sơn",
+    "full_name_en": "Long Son Commune",
+    "type": "xã",
+    "district_code": "531",
+    "codename": "long_son"
+  },
+  {
+    "code": "21352",
+    "name": "Long Mai",
+    "name_en": "Long Mai",
+    "full_name": "Xã Long Mai",
+    "full_name_en": "Long Mai Commune",
+    "type": "xã",
+    "district_code": "531",
+    "codename": "long_mai"
+  },
+  {
+    "code": "21355",
+    "name": "Thanh An",
+    "name_en": "Thanh An",
+    "full_name": "Xã Thanh An",
+    "full_name_en": "Thanh An Commune",
+    "type": "xã",
+    "district_code": "531",
+    "codename": "thanh_an"
+  },
+  {
+    "code": "21358",
+    "name": "Long Môn",
+    "name_en": "Long Mon",
+    "full_name": "Xã Long Môn",
+    "full_name_en": "Long Mon Commune",
+    "type": "xã",
+    "district_code": "531",
+    "codename": "long_mon"
+  },
+  {
+    "code": "21361",
+    "name": "Long Hiệp",
+    "name_en": "Long Hiep",
+    "full_name": "Xã Long Hiệp",
+    "full_name_en": "Long Hiep Commune",
+    "type": "xã",
+    "district_code": "531",
+    "codename": "long_hiep"
+  }
+]

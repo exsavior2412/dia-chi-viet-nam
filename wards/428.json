@@ -1,0 +1,292 @@
+[
+  {
+    "code": "17713",
+    "name": "Dùng",
+    "name_en": "Dung",
+    "full_name": "Thị trấn Dùng",
+    "full_name_en": "Dung Township",
+    "type": "thị trấn",
+    "district_code": "428",
+    "codename": "dung"
+  },
+  {
+    "code": "17716",
+    "name": "Cát Văn",
+    "name_en": "Cat Van",
+    "full_name": "Xã Cát Văn",
+    "full_name_en": "Cat Van Commune",
+    "type": "xã",
+    "district_code": "428",
+    "codename": "cat_van"
+  },
+  {
+    "code": "17719",
+    "name": "Minh Sơn",
+    "name_en": "Minh Son",
+    "full_name": "Xã Minh Sơn",
+    "full_name_en": "Minh Son Commune",
+    "type": "xã",
+    "district_code": "428",
+    "codename": "minh_son"
+  },
+  {
+    "code": "17722",
+    "name": "Hạnh Lâm",
+    "name_en": "Hanh Lam",
+    "full_name": "Xã Hạnh Lâm",
+    "full_name_en": "Hanh Lam Commune",
+    "type": "xã",
+    "district_code": "428",
+    "codename": "hanh_lam"
+  },
+  {
+    "code": "17723",
+    "name": "Thanh Sơn",
+    "name_en": "Thanh Son",
+    "full_name": "Xã Thanh Sơn",
+    "full_name_en": "Thanh Son Commune",
+    "type": "xã",
+    "district_code": "428",
+    "codename": "thanh_son"
+  },
+  {
+    "code": "17728",
+    "name": "Phong Thịnh",
+    "name_en": "Phong Thinh",
+    "full_name": "Xã Phong Thịnh",
+    "full_name_en": "Phong Thinh Commune",
+    "type": "xã",
+    "district_code": "428",
+    "codename": "phong_thinh"
+  },
+  {
+    "code": "17731",
+    "name": "Thanh Phong",
+    "name_en": "Thanh Phong",
+    "full_name": "Xã Thanh Phong",
+    "full_name_en": "Thanh Phong Commune",
+    "type": "xã",
+    "district_code": "428",
+    "codename": "thanh_phong"
+  },
+  {
+    "code": "17734",
+    "name": "Thanh Mỹ",
+    "name_en": "Thanh My",
+    "full_name": "Xã Thanh Mỹ",
+    "full_name_en": "Thanh My Commune",
+    "type": "xã",
+    "district_code": "428",
+    "codename": "thanh_my"
+  },
+  {
+    "code": "17737",
+    "name": "Thanh Tiên",
+    "name_en": "Thanh Tien",
+    "full_name": "Xã Thanh Tiên",
+    "full_name_en": "Thanh Tien Commune",
+    "type": "xã",
+    "district_code": "428",
+    "codename": "thanh_tien"
+  },
+  {
+    "code": "17743",
+    "name": "Thanh Liên",
+    "name_en": "Thanh Lien",
+    "full_name": "Xã Thanh Liên",
+    "full_name_en": "Thanh Lien Commune",
+    "type": "xã",
+    "district_code": "428",
+    "codename": "thanh_lien"
+  },
+  {
+    "code": "17749",
+    "name": "Đại Đồng",
+    "name_en": "Dai Dong",
+    "full_name": "Xã Đại Đồng",
+    "full_name_en": "Dai Dong Commune",
+    "type": "xã",
+    "district_code": "428",
+    "codename": "dai_dong"
+  },
+  {
+    "code": "17755",
+    "name": "Thanh Ngọc",
+    "name_en": "Thanh Ngoc",
+    "full_name": "Xã Thanh Ngọc",
+    "full_name_en": "Thanh Ngoc Commune",
+    "type": "xã",
+    "district_code": "428",
+    "codename": "thanh_ngoc"
+  },
+  {
+    "code": "17758",
+    "name": "Thanh Hương",
+    "name_en": "Thanh Huong",
+    "full_name": "Xã Thanh Hương",
+    "full_name_en": "Thanh Huong Commune",
+    "type": "xã",
+    "district_code": "428",
+    "codename": "thanh_huong"
+  },
+  {
+    "code": "17759",
+    "name": "Ngọc Lâm",
+    "name_en": "Ngoc Lam",
+    "full_name": "Xã Ngọc Lâm",
+    "full_name_en": "Ngoc Lam Commune",
+    "type": "xã",
+    "district_code": "428",
+    "codename": "ngoc_lam"
+  },
+  {
+    "code": "17764",
+    "name": "Đồng Văn",
+    "name_en": "Dong Van",
+    "full_name": "Xã Đồng Văn",
+    "full_name_en": "Dong Van Commune",
+    "type": "xã",
+    "district_code": "428",
+    "codename": "dong_van"
+  },
+  {
+    "code": "17767",
+    "name": "Ngọc Sơn",
+    "name_en": "Ngoc Son",
+    "full_name": "Xã Ngọc Sơn",
+    "full_name_en": "Ngoc Son Commune",
+    "type": "xã",
+    "district_code": "428",
+    "codename": "ngoc_son"
+  },
+  {
+    "code": "17770",
+    "name": "Thanh Thịnh",
+    "name_en": "Thanh Thinh",
+    "full_name": "Xã Thanh Thịnh",
+    "full_name_en": "Thanh Thinh Commune",
+    "type": "xã",
+    "district_code": "428",
+    "codename": "thanh_thinh"
+  },
+  {
+    "code": "17773",
+    "name": "Thanh An",
+    "name_en": "Thanh An",
+    "full_name": "Xã Thanh An",
+    "full_name_en": "Thanh An Commune",
+    "type": "xã",
+    "district_code": "428",
+    "codename": "thanh_an"
+  },
+  {
+    "code": "17776",
+    "name": "Thanh Quả",
+    "name_en": "Thanh Qua",
+    "full_name": "Xã Thanh Quả",
+    "full_name_en": "Thanh Qua Commune",
+    "type": "xã",
+    "district_code": "428",
+    "codename": "thanh_qua"
+  },
+  {
+    "code": "17779",
+    "name": "Xuân Dương",
+    "name_en": "Xuan Duong",
+    "full_name": "Xã Xuân Dương",
+    "full_name_en": "Xuan Duong Commune",
+    "type": "xã",
+    "district_code": "428",
+    "codename": "xuan_duong"
+  },
+  {
+    "code": "17785",
+    "name": "Minh Tiến",
+    "name_en": "Minh Tien",
+    "full_name": "Xã Minh Tiến",
+    "full_name_en": "Minh Tien Commune",
+    "type": "xã",
+    "district_code": "428",
+    "codename": "minh_tien"
+  },
+  {
+    "code": "17791",
+    "name": "Kim Bảng",
+    "name_en": "Kim Bang",
+    "full_name": "Xã Kim Bảng",
+    "full_name_en": "Kim Bang Commune",
+    "type": "xã",
+    "district_code": "428",
+    "codename": "kim_bang"
+  },
+  {
+    "code": "17797",
+    "name": "Thanh Thủy",
+    "name_en": "Thanh Thuy",
+    "full_name": "Xã Thanh Thủy",
+    "full_name_en": "Thanh Thuy Commune",
+    "type": "xã",
+    "district_code": "428",
+    "codename": "thanh_thuy"
+  },
+  {
+    "code": "17806",
+    "name": "Thanh Hà",
+    "name_en": "Thanh Ha",
+    "full_name": "Xã Thanh Hà",
+    "full_name_en": "Thanh Ha Commune",
+    "type": "xã",
+    "district_code": "428",
+    "codename": "thanh_ha"
+  },
+  {
+    "code": "17812",
+    "name": "Thanh Tùng",
+    "name_en": "Thanh Tung",
+    "full_name": "Xã Thanh Tùng",
+    "full_name_en": "Thanh Tung Commune",
+    "type": "xã",
+    "district_code": "428",
+    "codename": "thanh_tung"
+  },
+  {
+    "code": "17815",
+    "name": "Thanh Lâm",
+    "name_en": "Thanh Lam",
+    "full_name": "Xã Thanh Lâm",
+    "full_name_en": "Thanh Lam Commune",
+    "type": "xã",
+    "district_code": "428",
+    "codename": "thanh_lam"
+  },
+  {
+    "code": "17818",
+    "name": "Mai Giang",
+    "name_en": "Mai Giang",
+    "full_name": "Xã Mai Giang",
+    "full_name_en": "Mai Giang Commune",
+    "type": "xã",
+    "district_code": "428",
+    "codename": "mai_giang"
+  },
+  {
+    "code": "17821",
+    "name": "Thanh Xuân",
+    "name_en": "Thanh Xuan",
+    "full_name": "Xã Thanh Xuân",
+    "full_name_en": "Thanh Xuan Commune",
+    "type": "xã",
+    "district_code": "428",
+    "codename": "thanh_xuan"
+  },
+  {
+    "code": "17824",
+    "name": "Thanh Đức",
+    "name_en": "Thanh Duc",
+    "full_name": "Xã Thanh Đức",
+    "full_name_en": "Thanh Duc Commune",
+    "type": "xã",
+    "district_code": "428",
+    "codename": "thanh_duc"
+  }
+]

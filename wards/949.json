@@ -1,0 +1,102 @@
+[
+  {
+    "code": "31756",
+    "name": "Phú Lộc",
+    "name_en": "Phu Loc",
+    "full_name": "Thị trấn Phú Lộc",
+    "full_name_en": "Phu Loc Township",
+    "type": "thị trấn",
+    "district_code": "949",
+    "codename": "phu_loc"
+  },
+  {
+    "code": "31757",
+    "name": "Hưng Lợi",
+    "name_en": "Hung Loi",
+    "full_name": "Thị trấn Hưng Lợi",
+    "full_name_en": "Hung Loi Township",
+    "type": "thị trấn",
+    "district_code": "949",
+    "codename": "hung_loi"
+  },
+  {
+    "code": "31759",
+    "name": "Lâm Tân",
+    "name_en": "Lam Tan",
+    "full_name": "Xã Lâm Tân",
+    "full_name_en": "Lam Tan Commune",
+    "type": "xã",
+    "district_code": "949",
+    "codename": "lam_tan"
+  },
+  {
+    "code": "31762",
+    "name": "Thạnh Tân",
+    "name_en": "Thanh Tan",
+    "full_name": "Xã Thạnh Tân",
+    "full_name_en": "Thanh Tan Commune",
+    "type": "xã",
+    "district_code": "949",
+    "codename": "thanh_tan"
+  },
+  {
+    "code": "31765",
+    "name": "Lâm Kiết",
+    "name_en": "Lam Kiet",
+    "full_name": "Xã Lâm Kiết",
+    "full_name_en": "Lam Kiet Commune",
+    "type": "xã",
+    "district_code": "949",
+    "codename": "lam_kiet"
+  },
+  {
+    "code": "31768",
+    "name": "Tuân Tức",
+    "name_en": "Tuan Tuc",
+    "full_name": "Xã Tuân Tức",
+    "full_name_en": "Tuan Tuc Commune",
+    "type": "xã",
+    "district_code": "949",
+    "codename": "tuan_tuc"
+  },
+  {
+    "code": "31771",
+    "name": "Vĩnh Thành",
+    "name_en": "Vinh Thanh",
+    "full_name": "Xã Vĩnh Thành",
+    "full_name_en": "Vinh Thanh Commune",
+    "type": "xã",
+    "district_code": "949",
+    "codename": "vinh_thanh"
+  },
+  {
+    "code": "31774",
+    "name": "Thạnh Trị",
+    "name_en": "Thanh Tri",
+    "full_name": "Xã Thạnh Trị",
+    "full_name_en": "Thanh Tri Commune",
+    "type": "xã",
+    "district_code": "949",
+    "codename": "thanh_tri"
+  },
+  {
+    "code": "31777",
+    "name": "Vĩnh Lợi",
+    "name_en": "Vinh Loi",
+    "full_name": "Xã Vĩnh Lợi",
+    "full_name_en": "Vinh Loi Commune",
+    "type": "xã",
+    "district_code": "949",
+    "codename": "vinh_loi"
+  },
+  {
+    "code": "31780",
+    "name": "Châu Hưng",
+    "name_en": "Chau Hung",
+    "full_name": "Xã Châu Hưng",
+    "full_name_en": "Chau Hung Commune",
+    "type": "xã",
+    "district_code": "949",
+    "codename": "chau_hung"
+  }
+]

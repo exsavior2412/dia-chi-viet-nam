@@ -1,0 +1,72 @@
+[
+  {
+    "code": "24235",
+    "name": "Krông Na",
+    "name_en": "Krong Na",
+    "full_name": "Xã Krông Na",
+    "full_name_en": "Krong Na Commune",
+    "type": "xã",
+    "district_code": "647",
+    "codename": "krong_na"
+  },
+  {
+    "code": "24238",
+    "name": "Ea Huar",
+    "name_en": "Ea Huar",
+    "full_name": "Xã Ea Huar",
+    "full_name_en": "Ea Huar Commune",
+    "type": "xã",
+    "district_code": "647",
+    "codename": "ea_huar"
+  },
+  {
+    "code": "24241",
+    "name": "Ea Wer",
+    "name_en": "Ea Wer",
+    "full_name": "Xã Ea Wer",
+    "full_name_en": "Ea Wer Commune",
+    "type": "xã",
+    "district_code": "647",
+    "codename": "ea_wer"
+  },
+  {
+    "code": "24244",
+    "name": "Tân Hoà",
+    "name_en": "Tan Hoa",
+    "full_name": "Xã Tân Hoà",
+    "full_name_en": "Tan Hoa Commune",
+    "type": "xã",
+    "district_code": "647",
+    "codename": "tan_hoa"
+  },
+  {
+    "code": "24247",
+    "name": "Cuôr KNia",
+    "name_en": "Cuor KNia",
+    "full_name": "Xã Cuôr KNia",
+    "full_name_en": "Cuor KNia Commune",
+    "type": "xã",
+    "district_code": "647",
+    "codename": "cuor_knia"
+  },
+  {
+    "code": "24250",
+    "name": "Ea Bar",
+    "name_en": "Ea Bar",
+    "full_name": "Xã Ea Bar",
+    "full_name_en": "Ea Bar Commune",
+    "type": "xã",
+    "district_code": "647",
+    "codename": "ea_bar"
+  },
+  {
+    "code": "24253",
+    "name": "Ea Nuôl",
+    "name_en": "Ea Nuol",
+    "full_name": "Xã Ea Nuôl",
+    "full_name_en": "Ea Nuol Commune",
+    "type": "xã",
+    "district_code": "647",
+    "codename": "ea_nuol"
+  }
+]

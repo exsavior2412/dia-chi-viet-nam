@@ -1,0 +1,172 @@
+[
+  {
+    "code": "01321",
+    "name": "Bảo Lạc",
+    "name_en": "Bao Lac",
+    "full_name": "Thị trấn Bảo Lạc",
+    "full_name_en": "Bao Lac Township",
+    "type": "thị trấn",
+    "district_code": "043",
+    "codename": "bao_lac"
+  },
+  {
+    "code": "01324",
+    "name": "Cốc Pàng",
+    "name_en": "Coc Pang",
+    "full_name": "Xã Cốc Pàng",
+    "full_name_en": "Coc Pang Commune",
+    "type": "xã",
+    "district_code": "043",
+    "codename": "coc_pang"
+  },
+  {
+    "code": "01327",
+    "name": "Thượng Hà",
+    "name_en": "Thuong Ha",
+    "full_name": "Xã Thượng Hà",
+    "full_name_en": "Thuong Ha Commune",
+    "type": "xã",
+    "district_code": "043",
+    "codename": "thuong_ha"
+  },
+  {
+    "code": "01330",
+    "name": "Cô Ba",
+    "name_en": "Co Ba",
+    "full_name": "Xã Cô Ba",
+    "full_name_en": "Co Ba Commune",
+    "type": "xã",
+    "district_code": "043",
+    "codename": "co_ba"
+  },
+  {
+    "code": "01333",
+    "name": "Bảo Toàn",
+    "name_en": "Bao Toan",
+    "full_name": "Xã Bảo Toàn",
+    "full_name_en": "Bao Toan Commune",
+    "type": "xã",
+    "district_code": "043",
+    "codename": "bao_toan"
+  },
+  {
+    "code": "01336",
+    "name": "Khánh Xuân",
+    "name_en": "Khanh Xuan",
+    "full_name": "Xã Khánh Xuân",
+    "full_name_en": "Khanh Xuan Commune",
+    "type": "xã",
+    "district_code": "043",
+    "codename": "khanh_xuan"
+  },
+  {
+    "code": "01339",
+    "name": "Xuân Trường",
+    "name_en": "Xuan Truong",
+    "full_name": "Xã Xuân Trường",
+    "full_name_en": "Xuan Truong Commune",
+    "type": "xã",
+    "district_code": "043",
+    "codename": "xuan_truong"
+  },
+  {
+    "code": "01342",
+    "name": "Hồng Trị",
+    "name_en": "Hong Tri",
+    "full_name": "Xã Hồng Trị",
+    "full_name_en": "Hong Tri Commune",
+    "type": "xã",
+    "district_code": "043",
+    "codename": "hong_tri"
+  },
+  {
+    "code": "01343",
+    "name": "Kim Cúc",
+    "name_en": "Kim Cuc",
+    "full_name": "Xã Kim Cúc",
+    "full_name_en": "Kim Cuc Commune",
+    "type": "xã",
+    "district_code": "043",
+    "codename": "kim_cuc"
+  },
+  {
+    "code": "01345",
+    "name": "Phan Thanh",
+    "name_en": "Phan Thanh",
+    "full_name": "Xã Phan Thanh",
+    "full_name_en": "Phan Thanh Commune",
+    "type": "xã",
+    "district_code": "043",
+    "codename": "phan_thanh"
+  },
+  {
+    "code": "01348",
+    "name": "Hồng An",
+    "name_en": "Hong An",
+    "full_name": "Xã Hồng An",
+    "full_name_en": "Hong An Commune",
+    "type": "xã",
+    "district_code": "043",
+    "codename": "hong_an"
+  },
+  {
+    "code": "01351",
+    "name": "Hưng Đạo",
+    "name_en": "Hung Dao",
+    "full_name": "Xã Hưng Đạo",
+    "full_name_en": "Hung Dao Commune",
+    "type": "xã",
+    "district_code": "043",
+    "codename": "hung_dao"
+  },
+  {
+    "code": "01352",
+    "name": "Hưng Thịnh",
+    "name_en": "Hung Thinh",
+    "full_name": "Xã Hưng Thịnh",
+    "full_name_en": "Hung Thinh Commune",
+    "type": "xã",
+    "district_code": "043",
+    "codename": "hung_thinh"
+  },
+  {
+    "code": "01354",
+    "name": "Huy Giáp",
+    "name_en": "Huy Giap",
+    "full_name": "Xã Huy Giáp",
+    "full_name_en": "Huy Giap Commune",
+    "type": "xã",
+    "district_code": "043",
+    "codename": "huy_giap"
+  },
+  {
+    "code": "01357",
+    "name": "Đình Phùng",
+    "name_en": "Dinh Phung",
+    "full_name": "Xã Đình Phùng",
+    "full_name_en": "Dinh Phung Commune",
+    "type": "xã",
+    "district_code": "043",
+    "codename": "dinh_phung"
+  },
+  {
+    "code": "01359",
+    "name": "Sơn Lập",
+    "name_en": "Son Lap",
+    "full_name": "Xã Sơn Lập",
+    "full_name_en": "Son Lap Commune",
+    "type": "xã",
+    "district_code": "043",
+    "codename": "son_lap"
+  },
+  {
+    "code": "01360",
+    "name": "Sơn Lộ",
+    "name_en": "Son Lo",
+    "full_name": "Xã Sơn Lộ",
+    "full_name_en": "Son Lo Commune",
+    "type": "xã",
+    "district_code": "043",
+    "codename": "son_lo"
+  }
+]

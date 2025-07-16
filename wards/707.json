@@ -1,0 +1,112 @@
+[
+  {
+    "code": "25552",
+    "name": "Dương Minh Châu",
+    "name_en": "Duong Minh Chau",
+    "full_name": "Thị trấn Dương Minh Châu",
+    "full_name_en": "Duong Minh Chau Township",
+    "type": "thị trấn",
+    "district_code": "707",
+    "codename": "duong_minh_chau"
+  },
+  {
+    "code": "25555",
+    "name": "Suối Đá",
+    "name_en": "Suoi Da",
+    "full_name": "Xã Suối Đá",
+    "full_name_en": "Suoi Da Commune",
+    "type": "xã",
+    "district_code": "707",
+    "codename": "suoi_da"
+  },
+  {
+    "code": "25558",
+    "name": "Phan",
+    "name_en": "Phan",
+    "full_name": "Xã Phan",
+    "full_name_en": "Phan Commune",
+    "type": "xã",
+    "district_code": "707",
+    "codename": "phan"
+  },
+  {
+    "code": "25561",
+    "name": "Phước Ninh",
+    "name_en": "Phuoc Ninh",
+    "full_name": "Xã Phước Ninh",
+    "full_name_en": "Phuoc Ninh Commune",
+    "type": "xã",
+    "district_code": "707",
+    "codename": "phuoc_ninh"
+  },
+  {
+    "code": "25564",
+    "name": "Phước Minh",
+    "name_en": "Phuoc Minh",
+    "full_name": "Xã Phước Minh",
+    "full_name_en": "Phuoc Minh Commune",
+    "type": "xã",
+    "district_code": "707",
+    "codename": "phuoc_minh"
+  },
+  {
+    "code": "25567",
+    "name": "Bàu Năng",
+    "name_en": "Bau Nang",
+    "full_name": "Xã Bàu Năng",
+    "full_name_en": "Bau Nang Commune",
+    "type": "xã",
+    "district_code": "707",
+    "codename": "bau_nang"
+  },
+  {
+    "code": "25570",
+    "name": "Chà Là",
+    "name_en": "Cha La",
+    "full_name": "Xã Chà Là",
+    "full_name_en": "Cha La Commune",
+    "type": "xã",
+    "district_code": "707",
+    "codename": "cha_la"
+  },
+  {
+    "code": "25573",
+    "name": "Cầu Khởi",
+    "name_en": "Cau Khoi",
+    "full_name": "Xã Cầu Khởi",
+    "full_name_en": "Cau Khoi Commune",
+    "type": "xã",
+    "district_code": "707",
+    "codename": "cau_khoi"
+  },
+  {
+    "code": "25576",
+    "name": "Bến Củi",
+    "name_en": "Ben Cui",
+    "full_name": "Xã Bến Củi",
+    "full_name_en": "Ben Cui Commune",
+    "type": "xã",
+    "district_code": "707",
+    "codename": "ben_cui"
+  },
+  {
+    "code": "25579",
+    "name": "Lộc Ninh",
+    "name_en": "Loc Ninh",
+    "full_name": "Xã Lộc Ninh",
+    "full_name_en": "Loc Ninh Commune",
+    "type": "xã",
+    "district_code": "707",
+    "codename": "loc_ninh"
+  },
+  {
+    "code": "25582",
+    "name": "Truông Mít",
+    "name_en": "Truong Mit",
+    "full_name": "Xã Truông Mít",
+    "full_name_en": "Truong Mit Commune",
+    "type": "xã",
+    "district_code": "707",
+    "codename": "truong_mit"
+  }
+]

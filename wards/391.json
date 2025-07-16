@@ -1,0 +1,242 @@
+[
+  {
+    "code": "15187",
+    "name": "Kim Tân",
+    "name_en": "Kim Tan",
+    "full_name": "Thị trấn Kim Tân",
+    "full_name_en": "Kim Tan Township",
+    "type": "thị trấn",
+    "district_code": "391",
+    "codename": "kim_tan"
+  },
+  {
+    "code": "15190",
+    "name": "Vân Du",
+    "name_en": "Van Du",
+    "full_name": "Thị trấn Vân Du",
+    "full_name_en": "Van Du Township",
+    "type": "thị trấn",
+    "district_code": "391",
+    "codename": "van_du"
+  },
+  {
+    "code": "15196",
+    "name": "Thạch Lâm",
+    "name_en": "Thach Lam",
+    "full_name": "Xã Thạch Lâm",
+    "full_name_en": "Thach Lam Commune",
+    "type": "xã",
+    "district_code": "391",
+    "codename": "thach_lam"
+  },
+  {
+    "code": "15199",
+    "name": "Thạch Quảng",
+    "name_en": "Thach Quang",
+    "full_name": "Xã Thạch Quảng",
+    "full_name_en": "Thach Quang Commune",
+    "type": "xã",
+    "district_code": "391",
+    "codename": "thach_quang"
+  },
+  {
+    "code": "15202",
+    "name": "Thạch Tượng",
+    "name_en": "Thach Tuong",
+    "full_name": "Xã Thạch Tượng",
+    "full_name_en": "Thach Tuong Commune",
+    "type": "xã",
+    "district_code": "391",
+    "codename": "thach_tuong"
+  },
+  {
+    "code": "15205",
+    "name": "Thạch Cẩm",
+    "name_en": "Thach Cam",
+    "full_name": "Xã Thạch Cẩm",
+    "full_name_en": "Thach Cam Commune",
+    "type": "xã",
+    "district_code": "391",
+    "codename": "thach_cam"
+  },
+  {
+    "code": "15208",
+    "name": "Thạch Sơn",
+    "name_en": "Thach Son",
+    "full_name": "Xã Thạch Sơn",
+    "full_name_en": "Thach Son Commune",
+    "type": "xã",
+    "district_code": "391",
+    "codename": "thach_son"
+  },
+  {
+    "code": "15211",
+    "name": "Thạch Bình",
+    "name_en": "Thach Binh",
+    "full_name": "Xã Thạch Bình",
+    "full_name_en": "Thach Binh Commune",
+    "type": "xã",
+    "district_code": "391",
+    "codename": "thach_binh"
+  },
+  {
+    "code": "15214",
+    "name": "Thạch Định",
+    "name_en": "Thach Dinh",
+    "full_name": "Xã Thạch Định",
+    "full_name_en": "Thach Dinh Commune",
+    "type": "xã",
+    "district_code": "391",
+    "codename": "thach_dinh"
+  },
+  {
+    "code": "15220",
+    "name": "Thạch Long",
+    "name_en": "Thach Long",
+    "full_name": "Xã Thạch Long",
+    "full_name_en": "Thach Long Commune",
+    "type": "xã",
+    "district_code": "391",
+    "codename": "thach_long"
+  },
+  {
+    "code": "15223",
+    "name": "Thành Mỹ",
+    "name_en": "Thanh My",
+    "full_name": "Xã Thành Mỹ",
+    "full_name_en": "Thanh My Commune",
+    "type": "xã",
+    "district_code": "391",
+    "codename": "thanh_my"
+  },
+  {
+    "code": "15226",
+    "name": "Thành Yên",
+    "name_en": "Thanh Yen",
+    "full_name": "Xã Thành Yên",
+    "full_name_en": "Thanh Yen Commune",
+    "type": "xã",
+    "district_code": "391",
+    "codename": "thanh_yen"
+  },
+  {
+    "code": "15229",
+    "name": "Thành Vinh",
+    "name_en": "Thanh Vinh",
+    "full_name": "Xã Thành Vinh",
+    "full_name_en": "Thanh Vinh Commune",
+    "type": "xã",
+    "district_code": "391",
+    "codename": "thanh_vinh"
+  },
+  {
+    "code": "15232",
+    "name": "Thành Minh",
+    "name_en": "Thanh Minh",
+    "full_name": "Xã Thành Minh",
+    "full_name_en": "Thanh Minh Commune",
+    "type": "xã",
+    "district_code": "391",
+    "codename": "thanh_minh"
+  },
+  {
+    "code": "15235",
+    "name": "Thành Công",
+    "name_en": "Thanh Cong",
+    "full_name": "Xã Thành Công",
+    "full_name_en": "Thanh Cong Commune",
+    "type": "xã",
+    "district_code": "391",
+    "codename": "thanh_cong"
+  },
+  {
+    "code": "15238",
+    "name": "Thành Tân",
+    "name_en": "Thanh Tan",
+    "full_name": "Xã Thành Tân",
+    "full_name_en": "Thanh Tan Commune",
+    "type": "xã",
+    "district_code": "391",
+    "codename": "thanh_tan"
+  },
+  {
+    "code": "15241",
+    "name": "Thành Trực",
+    "name_en": "Thanh Truc",
+    "full_name": "Xã Thành Trực",
+    "full_name_en": "Thanh Truc Commune",
+    "type": "xã",
+    "district_code": "391",
+    "codename": "thanh_truc"
+  },
+  {
+    "code": "15247",
+    "name": "Thành Tâm",
+    "name_en": "Thanh Tam",
+    "full_name": "Xã Thành Tâm",
+    "full_name_en": "Thanh Tam Commune",
+    "type": "xã",
+    "district_code": "391",
+    "codename": "thanh_tam"
+  },
+  {
+    "code": "15250",
+    "name": "Thành An",
+    "name_en": "Thanh An",
+    "full_name": "Xã Thành An",
+    "full_name_en": "Thanh An Commune",
+    "type": "xã",
+    "district_code": "391",
+    "codename": "thanh_an"
+  },
+  {
+    "code": "15253",
+    "name": "Thành Thọ",
+    "name_en": "Thanh Tho",
+    "full_name": "Xã Thành Thọ",
+    "full_name_en": "Thanh Tho Commune",
+    "type": "xã",
+    "district_code": "391",
+    "codename": "thanh_tho"
+  },
+  {
+    "code": "15256",
+    "name": "Thành Tiến",
+    "name_en": "Thanh Tien",
+    "full_name": "Xã Thành Tiến",
+    "full_name_en": "Thanh Tien Commune",
+    "type": "xã",
+    "district_code": "391",
+    "codename": "thanh_tien"
+  },
+  {
+    "code": "15259",
+    "name": "Thành Long",
+    "name_en": "Thanh Long",
+    "full_name": "Xã Thành Long",
+    "full_name_en": "Thanh Long Commune",
+    "type": "xã",
+    "district_code": "391",
+    "codename": "thanh_long"
+  },
+  {
+    "code": "15265",
+    "name": "Thành Hưng",
+    "name_en": "Thanh Hung",
+    "full_name": "Xã Thành Hưng",
+    "full_name_en": "Thanh Hung Commune",
+    "type": "xã",
+    "district_code": "391",
+    "codename": "thanh_hung"
+  },
+  {
+    "code": "15268",
+    "name": "Ngọc Trạo",
+    "name_en": "Ngoc Trao",
+    "full_name": "Xã Ngọc Trạo",
+    "full_name_en": "Ngoc Trao Commune",
+    "type": "xã",
+    "district_code": "391",
+    "codename": "ngoc_trao"
+  }
+]

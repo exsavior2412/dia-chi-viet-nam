@@ -1,0 +1,152 @@
+[
+  {
+    "code": "19681",
+    "name": "Diên Sanh",
+    "name_en": "Dien Sanh",
+    "full_name": "Thị trấn Diên Sanh",
+    "full_name_en": "Dien Sanh Township",
+    "type": "thị trấn",
+    "district_code": "470",
+    "codename": "dien_sanh"
+  },
+  {
+    "code": "19684",
+    "name": "Hải An",
+    "name_en": "Hai An",
+    "full_name": "Xã Hải An",
+    "full_name_en": "Hai An Commune",
+    "type": "xã",
+    "district_code": "470",
+    "codename": "hai_an"
+  },
+  {
+    "code": "19687",
+    "name": "Hải Bình",
+    "name_en": "Hai Binh",
+    "full_name": "Xã Hải Bình",
+    "full_name_en": "Hai Binh Commune",
+    "type": "xã",
+    "district_code": "470",
+    "codename": "hai_binh"
+  },
+  {
+    "code": "19693",
+    "name": "Hải Quy",
+    "name_en": "Hai Quy",
+    "full_name": "Xã Hải Quy",
+    "full_name_en": "Hai Quy Commune",
+    "type": "xã",
+    "district_code": "470",
+    "codename": "hai_quy"
+  },
+  {
+    "code": "19699",
+    "name": "Hải Hưng",
+    "name_en": "Hai Hung",
+    "full_name": "Xã Hải Hưng",
+    "full_name_en": "Hai Hung Commune",
+    "type": "xã",
+    "district_code": "470",
+    "codename": "hai_hung"
+  },
+  {
+    "code": "19702",
+    "name": "Hải Phú",
+    "name_en": "Hai Phu",
+    "full_name": "Xã Hải Phú",
+    "full_name_en": "Hai Phu Commune",
+    "type": "xã",
+    "district_code": "470",
+    "codename": "hai_phu"
+  },
+  {
+    "code": "19708",
+    "name": "Hải Thượng",
+    "name_en": "Hai Thuong",
+    "full_name": "Xã Hải Thượng",
+    "full_name_en": "Hai Thuong Commune",
+    "type": "xã",
+    "district_code": "470",
+    "codename": "hai_thuong"
+  },
+  {
+    "code": "19711",
+    "name": "Hải Dương",
+    "name_en": "Hai Duong",
+    "full_name": "Xã Hải Dương",
+    "full_name_en": "Hai Duong Commune",
+    "type": "xã",
+    "district_code": "470",
+    "codename": "hai_duong"
+  },
+  {
+    "code": "19714",
+    "name": "Hải Định",
+    "name_en": "Hai Dinh",
+    "full_name": "Xã Hải Định",
+    "full_name_en": "Hai Dinh Commune",
+    "type": "xã",
+    "district_code": "470",
+    "codename": "hai_dinh"
+  },
+  {
+    "code": "19717",
+    "name": "Hải Lâm",
+    "name_en": "Hai Lam",
+    "full_name": "Xã Hải Lâm",
+    "full_name_en": "Hai Lam Commune",
+    "type": "xã",
+    "district_code": "470",
+    "codename": "hai_lam"
+  },
+  {
+    "code": "19726",
+    "name": "Hải Phong",
+    "name_en": "Hai Phong",
+    "full_name": "Xã Hải Phong",
+    "full_name_en": "Hai Phong Commune",
+    "type": "xã",
+    "district_code": "470",
+    "codename": "hai_phong"
+  },
+  {
+    "code": "19729",
+    "name": "Hải Trường",
+    "name_en": "Hai Truong",
+    "full_name": "Xã Hải Trường",
+    "full_name_en": "Hai Truong Commune",
+    "type": "xã",
+    "district_code": "470",
+    "codename": "hai_truong"
+  },
+  {
+    "code": "19735",
+    "name": "Hải Sơn",
+    "name_en": "Hai Son",
+    "full_name": "Xã Hải Sơn",
+    "full_name_en": "Hai Son Commune",
+    "type": "xã",
+    "district_code": "470",
+    "codename": "hai_son"
+  },
+  {
+    "code": "19738",
+    "name": "Hải Chánh",
+    "name_en": "Hai Chanh",
+    "full_name": "Xã Hải Chánh",
+    "full_name_en": "Hai Chanh Commune",
+    "type": "xã",
+    "district_code": "470",
+    "codename": "hai_chanh"
+  },
+  {
+    "code": "19741",
+    "name": "Hải Khê",
+    "name_en": "Hai Khe",
+    "full_name": "Xã Hải Khê",
+    "full_name_en": "Hai Khe Commune",
+    "type": "xã",
+    "district_code": "470",
+    "codename": "hai_khe"
+  }
+]

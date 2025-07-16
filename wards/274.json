@@ -1,0 +1,202 @@
+[
+  {
+    "code": "09832",
+    "name": "Trạm Trôi",
+    "name_en": "Tram Troi",
+    "full_name": "Thị trấn Trạm Trôi",
+    "full_name_en": "Tram Troi Township",
+    "type": "thị trấn",
+    "district_code": "274",
+    "codename": "tram_troi"
+  },
+  {
+    "code": "09835",
+    "name": "Đức Thượng",
+    "name_en": "Duc Thuong",
+    "full_name": "Xã Đức Thượng",
+    "full_name_en": "Duc Thuong Commune",
+    "type": "xã",
+    "district_code": "274",
+    "codename": "duc_thuong"
+  },
+  {
+    "code": "09838",
+    "name": "Minh Khai",
+    "name_en": "Minh Khai",
+    "full_name": "Xã Minh Khai",
+    "full_name_en": "Minh Khai Commune",
+    "type": "xã",
+    "district_code": "274",
+    "codename": "minh_khai"
+  },
+  {
+    "code": "09841",
+    "name": "Dương Liễu",
+    "name_en": "Duong Lieu",
+    "full_name": "Xã Dương Liễu",
+    "full_name_en": "Duong Lieu Commune",
+    "type": "xã",
+    "district_code": "274",
+    "codename": "duong_lieu"
+  },
+  {
+    "code": "09844",
+    "name": "Di Trạch",
+    "name_en": "Di Trach",
+    "full_name": "Xã Di Trạch",
+    "full_name_en": "Di Trach Commune",
+    "type": "xã",
+    "district_code": "274",
+    "codename": "di_trach"
+  },
+  {
+    "code": "09847",
+    "name": "Đức Giang",
+    "name_en": "Duc Giang",
+    "full_name": "Xã Đức Giang",
+    "full_name_en": "Duc Giang Commune",
+    "type": "xã",
+    "district_code": "274",
+    "codename": "duc_giang"
+  },
+  {
+    "code": "09850",
+    "name": "Cát Quế",
+    "name_en": "Cat Que",
+    "full_name": "Xã Cát Quế",
+    "full_name_en": "Cat Que Commune",
+    "type": "xã",
+    "district_code": "274",
+    "codename": "cat_que"
+  },
+  {
+    "code": "09853",
+    "name": "Kim Chung",
+    "name_en": "Kim Chung",
+    "full_name": "Xã Kim Chung",
+    "full_name_en": "Kim Chung Commune",
+    "type": "xã",
+    "district_code": "274",
+    "codename": "kim_chung"
+  },
+  {
+    "code": "09856",
+    "name": "Yên Sở",
+    "name_en": "Yen So",
+    "full_name": "Xã Yên Sở",
+    "full_name_en": "Yen So Commune",
+    "type": "xã",
+    "district_code": "274",
+    "codename": "yen_so"
+  },
+  {
+    "code": "09859",
+    "name": "Sơn Đồng",
+    "name_en": "Son Dong",
+    "full_name": "Xã Sơn Đồng",
+    "full_name_en": "Son Dong Commune",
+    "type": "xã",
+    "district_code": "274",
+    "codename": "son_dong"
+  },
+  {
+    "code": "09862",
+    "name": "Vân Canh",
+    "name_en": "Van Canh",
+    "full_name": "Xã Vân Canh",
+    "full_name_en": "Van Canh Commune",
+    "type": "xã",
+    "district_code": "274",
+    "codename": "van_canh"
+  },
+  {
+    "code": "09865",
+    "name": "Đắc Sở",
+    "name_en": "Dac So",
+    "full_name": "Xã Đắc Sở",
+    "full_name_en": "Dac So Commune",
+    "type": "xã",
+    "district_code": "274",
+    "codename": "dac_so"
+  },
+  {
+    "code": "09868",
+    "name": "Lại Yên",
+    "name_en": "Lai Yen",
+    "full_name": "Xã Lại Yên",
+    "full_name_en": "Lai Yen Commune",
+    "type": "xã",
+    "district_code": "274",
+    "codename": "lai_yen"
+  },
+  {
+    "code": "09871",
+    "name": "Tiền Yên",
+    "name_en": "Tien Yen",
+    "full_name": "Xã Tiền Yên",
+    "full_name_en": "Tien Yen Commune",
+    "type": "xã",
+    "district_code": "274",
+    "codename": "tien_yen"
+  },
+  {
+    "code": "09874",
+    "name": "Song Phương",
+    "name_en": "Song Phuong",
+    "full_name": "Xã Song Phương",
+    "full_name_en": "Song Phuong Commune",
+    "type": "xã",
+    "district_code": "274",
+    "codename": "song_phuong"
+  },
+  {
+    "code": "09877",
+    "name": "An Khánh",
+    "name_en": "An Khanh",
+    "full_name": "Xã An Khánh",
+    "full_name_en": "An Khanh Commune",
+    "type": "xã",
+    "district_code": "274",
+    "codename": "an_khanh"
+  },
+  {
+    "code": "09880",
+    "name": "An Thượng",
+    "name_en": "An Thuong",
+    "full_name": "Xã An Thượng",
+    "full_name_en": "An Thuong Commune",
+    "type": "xã",
+    "district_code": "274",
+    "codename": "an_thuong"
+  },
+  {
+    "code": "09883",
+    "name": "Vân Côn",
+    "name_en": "Van Con",
+    "full_name": "Xã Vân Côn",
+    "full_name_en": "Van Con Commune",
+    "type": "xã",
+    "district_code": "274",
+    "codename": "van_con"
+  },
+  {
+    "code": "09889",
+    "name": "La Phù",
+    "name_en": "La Phu",
+    "full_name": "Xã La Phù",
+    "full_name_en": "La Phu Commune",
+    "type": "xã",
+    "district_code": "274",
+    "codename": "la_phu"
+  },
+  {
+    "code": "09892",
+    "name": "Đông La",
+    "name_en": "Dong La",
+    "full_name": "Xã Đông La",
+    "full_name_en": "Dong La Commune",
+    "type": "xã",
+    "district_code": "274",
+    "codename": "dong_la"
+  }
+]

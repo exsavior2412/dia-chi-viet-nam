@@ -1,0 +1,142 @@
+[
+  {
+    "code": "22165",
+    "name": "Củng Sơn",
+    "name_en": "Cung Son",
+    "full_name": "Thị trấn Củng Sơn",
+    "full_name_en": "Cung Son Township",
+    "type": "thị trấn",
+    "district_code": "560",
+    "codename": "cung_son"
+  },
+  {
+    "code": "22168",
+    "name": "Phước Tân",
+    "name_en": "Phuoc Tan",
+    "full_name": "Xã Phước Tân",
+    "full_name_en": "Phuoc Tan Commune",
+    "type": "xã",
+    "district_code": "560",
+    "codename": "phuoc_tan"
+  },
+  {
+    "code": "22171",
+    "name": "Sơn Hội",
+    "name_en": "Son Hoi",
+    "full_name": "Xã Sơn Hội",
+    "full_name_en": "Son Hoi Commune",
+    "type": "xã",
+    "district_code": "560",
+    "codename": "son_hoi"
+  },
+  {
+    "code": "22174",
+    "name": "Sơn Định",
+    "name_en": "Son Dinh",
+    "full_name": "Xã Sơn Định",
+    "full_name_en": "Son Dinh Commune",
+    "type": "xã",
+    "district_code": "560",
+    "codename": "son_dinh"
+  },
+  {
+    "code": "22177",
+    "name": "Sơn Long",
+    "name_en": "Son Long",
+    "full_name": "Xã Sơn Long",
+    "full_name_en": "Son Long Commune",
+    "type": "xã",
+    "district_code": "560",
+    "codename": "son_long"
+  },
+  {
+    "code": "22180",
+    "name": "Cà Lúi",
+    "name_en": "Ca Lui",
+    "full_name": "Xã Cà Lúi",
+    "full_name_en": "Ca Lui Commune",
+    "type": "xã",
+    "district_code": "560",
+    "codename": "ca_lui"
+  },
+  {
+    "code": "22183",
+    "name": "Sơn Phước",
+    "name_en": "Son Phuoc",
+    "full_name": "Xã Sơn Phước",
+    "full_name_en": "Son Phuoc Commune",
+    "type": "xã",
+    "district_code": "560",
+    "codename": "son_phuoc"
+  },
+  {
+    "code": "22186",
+    "name": "Sơn Xuân",
+    "name_en": "Son Xuan",
+    "full_name": "Xã Sơn Xuân",
+    "full_name_en": "Son Xuan Commune",
+    "type": "xã",
+    "district_code": "560",
+    "codename": "son_xuan"
+  },
+  {
+    "code": "22189",
+    "name": "Sơn Nguyên",
+    "name_en": "Son Nguyen",
+    "full_name": "Xã Sơn Nguyên",
+    "full_name_en": "Son Nguyen Commune",
+    "type": "xã",
+    "district_code": "560",
+    "codename": "son_nguyen"
+  },
+  {
+    "code": "22192",
+    "name": "Eachà Rang",
+    "name_en": "Eacha Rang",
+    "full_name": "Xã Eachà Rang",
+    "full_name_en": "Eacha Rang Commune",
+    "type": "xã",
+    "district_code": "560",
+    "codename": "eacha_rang"
+  },
+  {
+    "code": "22195",
+    "name": "Krông Pa",
+    "name_en": "Krong Pa",
+    "full_name": "Xã Krông Pa",
+    "full_name_en": "Krong Pa Commune",
+    "type": "xã",
+    "district_code": "560",
+    "codename": "krong_pa"
+  },
+  {
+    "code": "22198",
+    "name": "Suối Bạc",
+    "name_en": "Suoi Bac",
+    "full_name": "Xã Suối Bạc",
+    "full_name_en": "Suoi Bac Commune",
+    "type": "xã",
+    "district_code": "560",
+    "codename": "suoi_bac"
+  },
+  {
+    "code": "22201",
+    "name": "Sơn Hà",
+    "name_en": "Son Ha",
+    "full_name": "Xã Sơn Hà",
+    "full_name_en": "Son Ha Commune",
+    "type": "xã",
+    "district_code": "560",
+    "codename": "son_ha"
+  },
+  {
+    "code": "22204",
+    "name": "Suối Trai",
+    "name_en": "Suoi Trai",
+    "full_name": "Xã Suối Trai",
+    "full_name_en": "Suoi Trai Commune",
+    "type": "xã",
+    "district_code": "560",
+    "codename": "suoi_trai"
+  }
+]

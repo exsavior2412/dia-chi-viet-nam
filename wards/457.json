@@ -1,0 +1,262 @@
+[
+  {
+    "code": "19246",
+    "name": "NT Lệ Ninh",
+    "name_en": "NT Le Ninh",
+    "full_name": "Thị trấn NT Lệ Ninh",
+    "full_name_en": "NT Le Ninh Township",
+    "type": "thị trấn",
+    "district_code": "457",
+    "codename": "nt_le_ninh"
+  },
+  {
+    "code": "19249",
+    "name": "Kiến Giang",
+    "name_en": "Kien Giang",
+    "full_name": "Thị trấn Kiến Giang",
+    "full_name_en": "Kien Giang Township",
+    "type": "thị trấn",
+    "district_code": "457",
+    "codename": "kien_giang"
+  },
+  {
+    "code": "19252",
+    "name": "Hồng Thủy",
+    "name_en": "Hong Thuy",
+    "full_name": "Xã Hồng Thủy",
+    "full_name_en": "Hong Thuy Commune",
+    "type": "xã",
+    "district_code": "457",
+    "codename": "hong_thuy"
+  },
+  {
+    "code": "19255",
+    "name": "Ngư Thủy Bắc",
+    "name_en": "Ngu Thuy Bac",
+    "full_name": "Xã Ngư Thủy Bắc",
+    "full_name_en": "Ngu Thuy Bac Commune",
+    "type": "xã",
+    "district_code": "457",
+    "codename": "ngu_thuy_bac"
+  },
+  {
+    "code": "19258",
+    "name": "Hoa Thủy",
+    "name_en": "Hoa Thuy",
+    "full_name": "Xã Hoa Thủy",
+    "full_name_en": "Hoa Thuy Commune",
+    "type": "xã",
+    "district_code": "457",
+    "codename": "hoa_thuy"
+  },
+  {
+    "code": "19261",
+    "name": "Thanh Thủy",
+    "name_en": "Thanh Thuy",
+    "full_name": "Xã Thanh Thủy",
+    "full_name_en": "Thanh Thuy Commune",
+    "type": "xã",
+    "district_code": "457",
+    "codename": "thanh_thuy"
+  },
+  {
+    "code": "19264",
+    "name": "An Thủy",
+    "name_en": "An Thuy",
+    "full_name": "Xã An Thủy",
+    "full_name_en": "An Thuy Commune",
+    "type": "xã",
+    "district_code": "457",
+    "codename": "an_thuy"
+  },
+  {
+    "code": "19267",
+    "name": "Phong Thủy",
+    "name_en": "Phong Thuy",
+    "full_name": "Xã Phong Thủy",
+    "full_name_en": "Phong Thuy Commune",
+    "type": "xã",
+    "district_code": "457",
+    "codename": "phong_thuy"
+  },
+  {
+    "code": "19270",
+    "name": "Cam Thủy",
+    "name_en": "Cam Thuy",
+    "full_name": "Xã Cam Thủy",
+    "full_name_en": "Cam Thuy Commune",
+    "type": "xã",
+    "district_code": "457",
+    "codename": "cam_thuy"
+  },
+  {
+    "code": "19273",
+    "name": "Ngân Thủy",
+    "name_en": "Ngan Thuy",
+    "full_name": "Xã Ngân Thủy",
+    "full_name_en": "Ngan Thuy Commune",
+    "type": "xã",
+    "district_code": "457",
+    "codename": "ngan_thuy"
+  },
+  {
+    "code": "19276",
+    "name": "Sơn Thủy",
+    "name_en": "Son Thuy",
+    "full_name": "Xã Sơn Thủy",
+    "full_name_en": "Son Thuy Commune",
+    "type": "xã",
+    "district_code": "457",
+    "codename": "son_thuy"
+  },
+  {
+    "code": "19279",
+    "name": "Lộc Thủy",
+    "name_en": "Loc Thuy",
+    "full_name": "Xã Lộc Thủy",
+    "full_name_en": "Loc Thuy Commune",
+    "type": "xã",
+    "district_code": "457",
+    "codename": "loc_thuy"
+  },
+  {
+    "code": "19285",
+    "name": "Liên Thủy",
+    "name_en": "Lien Thuy",
+    "full_name": "Xã Liên Thủy",
+    "full_name_en": "Lien Thuy Commune",
+    "type": "xã",
+    "district_code": "457",
+    "codename": "lien_thuy"
+  },
+  {
+    "code": "19288",
+    "name": "Hưng Thủy",
+    "name_en": "Hung Thuy",
+    "full_name": "Xã Hưng Thủy",
+    "full_name_en": "Hung Thuy Commune",
+    "type": "xã",
+    "district_code": "457",
+    "codename": "hung_thuy"
+  },
+  {
+    "code": "19291",
+    "name": "Dương Thủy",
+    "name_en": "Duong Thuy",
+    "full_name": "Xã Dương Thủy",
+    "full_name_en": "Duong Thuy Commune",
+    "type": "xã",
+    "district_code": "457",
+    "codename": "duong_thuy"
+  },
+  {
+    "code": "19294",
+    "name": "Tân Thủy",
+    "name_en": "Tan Thuy",
+    "full_name": "Xã Tân Thủy",
+    "full_name_en": "Tan Thuy Commune",
+    "type": "xã",
+    "district_code": "457",
+    "codename": "tan_thuy"
+  },
+  {
+    "code": "19297",
+    "name": "Phú Thủy",
+    "name_en": "Phu Thuy",
+    "full_name": "Xã Phú Thủy",
+    "full_name_en": "Phu Thuy Commune",
+    "type": "xã",
+    "district_code": "457",
+    "codename": "phu_thuy"
+  },
+  {
+    "code": "19300",
+    "name": "Xuân Thủy",
+    "name_en": "Xuan Thuy",
+    "full_name": "Xã Xuân Thủy",
+    "full_name_en": "Xuan Thuy Commune",
+    "type": "xã",
+    "district_code": "457",
+    "codename": "xuan_thuy"
+  },
+  {
+    "code": "19303",
+    "name": "Mỹ Thủy",
+    "name_en": "My Thuy",
+    "full_name": "Xã Mỹ Thủy",
+    "full_name_en": "My Thuy Commune",
+    "type": "xã",
+    "district_code": "457",
+    "codename": "my_thuy"
+  },
+  {
+    "code": "19306",
+    "name": "Ngư Thủy",
+    "name_en": "Ngu Thuy",
+    "full_name": "Xã Ngư Thủy",
+    "full_name_en": "Ngu Thuy Commune",
+    "type": "xã",
+    "district_code": "457",
+    "codename": "ngu_thuy"
+  },
+  {
+    "code": "19309",
+    "name": "Mai Thủy",
+    "name_en": "Mai Thuy",
+    "full_name": "Xã Mai Thủy",
+    "full_name_en": "Mai Thuy Commune",
+    "type": "xã",
+    "district_code": "457",
+    "codename": "mai_thuy"
+  },
+  {
+    "code": "19312",
+    "name": "Sen Thủy",
+    "name_en": "Sen Thuy",
+    "full_name": "Xã Sen Thủy",
+    "full_name_en": "Sen Thuy Commune",
+    "type": "xã",
+    "district_code": "457",
+    "codename": "sen_thuy"
+  },
+  {
+    "code": "19315",
+    "name": "Thái Thủy",
+    "name_en": "Thai Thuy",
+    "full_name": "Xã Thái Thủy",
+    "full_name_en": "Thai Thuy Commune",
+    "type": "xã",
+    "district_code": "457",
+    "codename": "thai_thuy"
+  },
+  {
+    "code": "19318",
+    "name": "Kim Thủy",
+    "name_en": "Kim Thuy",
+    "full_name": "Xã Kim Thủy",
+    "full_name_en": "Kim Thuy Commune",
+    "type": "xã",
+    "district_code": "457",
+    "codename": "kim_thuy"
+  },
+  {
+    "code": "19321",
+    "name": "Trường Thủy",
+    "name_en": "Truong Thuy",
+    "full_name": "Xã Trường Thủy",
+    "full_name_en": "Truong Thuy Commune",
+    "type": "xã",
+    "district_code": "457",
+    "codename": "truong_thuy"
+  },
+  {
+    "code": "19327",
+    "name": "Lâm Thủy",
+    "name_en": "Lam Thuy",
+    "full_name": "Xã Lâm Thủy",
+    "full_name_en": "Lam Thuy Commune",
+    "type": "xã",
+    "district_code": "457",
+    "codename": "lam_thuy"
+  }
+]

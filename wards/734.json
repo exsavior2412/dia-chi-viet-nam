@@ -1,0 +1,162 @@
+[
+  {
+    "code": "26116",
+    "name": "Tân Phú",
+    "name_en": "Tan Phu",
+    "full_name": "Thị trấn Tân Phú",
+    "full_name_en": "Tan Phu Township",
+    "type": "thị trấn",
+    "district_code": "734",
+    "codename": "tan_phu"
+  },
+  {
+    "code": "26119",
+    "name": "Dak Lua",
+    "name_en": "Dak Lua",
+    "full_name": "Xã Dak Lua",
+    "full_name_en": "Dak Lua Commune",
+    "type": "xã",
+    "district_code": "734",
+    "codename": "dak_lua"
+  },
+  {
+    "code": "26122",
+    "name": "Nam Cát Tiên",
+    "name_en": "Nam Cat Tien",
+    "full_name": "Xã Nam Cát Tiên",
+    "full_name_en": "Nam Cat Tien Commune",
+    "type": "xã",
+    "district_code": "734",
+    "codename": "nam_cat_tien"
+  },
+  {
+    "code": "26125",
+    "name": "Phú An",
+    "name_en": "Phu An",
+    "full_name": "Xã Phú An",
+    "full_name_en": "Phu An Commune",
+    "type": "xã",
+    "district_code": "734",
+    "codename": "phu_an"
+  },
+  {
+    "code": "26131",
+    "name": "Tà Lài",
+    "name_en": "Ta Lai",
+    "full_name": "Xã Tà Lài",
+    "full_name_en": "Ta Lai Commune",
+    "type": "xã",
+    "district_code": "734",
+    "codename": "ta_lai"
+  },
+  {
+    "code": "26134",
+    "name": "Phú Lập",
+    "name_en": "Phu Lap",
+    "full_name": "Xã Phú Lập",
+    "full_name_en": "Phu Lap Commune",
+    "type": "xã",
+    "district_code": "734",
+    "codename": "phu_lap"
+  },
+  {
+    "code": "26140",
+    "name": "Phú Thịnh",
+    "name_en": "Phu Thinh",
+    "full_name": "Xã Phú Thịnh",
+    "full_name_en": "Phu Thinh Commune",
+    "type": "xã",
+    "district_code": "734",
+    "codename": "phu_thinh"
+  },
+  {
+    "code": "26143",
+    "name": "Thanh Sơn",
+    "name_en": "Thanh Son",
+    "full_name": "Xã Thanh Sơn",
+    "full_name_en": "Thanh Son Commune",
+    "type": "xã",
+    "district_code": "734",
+    "codename": "thanh_son"
+  },
+  {
+    "code": "26146",
+    "name": "Phú Sơn",
+    "name_en": "Phu Son",
+    "full_name": "Xã Phú Sơn",
+    "full_name_en": "Phu Son Commune",
+    "type": "xã",
+    "district_code": "734",
+    "codename": "phu_son"
+  },
+  {
+    "code": "26149",
+    "name": "Phú Xuân",
+    "name_en": "Phu Xuan",
+    "full_name": "Xã Phú Xuân",
+    "full_name_en": "Phu Xuan Commune",
+    "type": "xã",
+    "district_code": "734",
+    "codename": "phu_xuan"
+  },
+  {
+    "code": "26152",
+    "name": "Phú Lộc",
+    "name_en": "Phu Loc",
+    "full_name": "Xã Phú Lộc",
+    "full_name_en": "Phu Loc Commune",
+    "type": "xã",
+    "district_code": "734",
+    "codename": "phu_loc"
+  },
+  {
+    "code": "26155",
+    "name": "Phú Lâm",
+    "name_en": "Phu Lam",
+    "full_name": "Xã Phú Lâm",
+    "full_name_en": "Phu Lam Commune",
+    "type": "xã",
+    "district_code": "734",
+    "codename": "phu_lam"
+  },
+  {
+    "code": "26158",
+    "name": "Phú Bình",
+    "name_en": "Phu Binh",
+    "full_name": "Xã Phú Bình",
+    "full_name_en": "Phu Binh Commune",
+    "type": "xã",
+    "district_code": "734",
+    "codename": "phu_binh"
+  },
+  {
+    "code": "26161",
+    "name": "Phú Thanh",
+    "name_en": "Phu Thanh",
+    "full_name": "Xã Phú Thanh",
+    "full_name_en": "Phu Thanh Commune",
+    "type": "xã",
+    "district_code": "734",
+    "codename": "phu_thanh"
+  },
+  {
+    "code": "26164",
+    "name": "Trà Cổ",
+    "name_en": "Tra Co",
+    "full_name": "Xã Trà Cổ",
+    "full_name_en": "Tra Co Commune",
+    "type": "xã",
+    "district_code": "734",
+    "codename": "tra_co"
+  },
+  {
+    "code": "26167",
+    "name": "Phú Điền",
+    "name_en": "Phu Dien",
+    "full_name": "Xã Phú Điền",
+    "full_name_en": "Phu Dien Commune",
+    "type": "xã",
+    "district_code": "734",
+    "codename": "phu_dien"
+  }
+]

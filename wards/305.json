@@ -1,0 +1,72 @@
+[
+  {
+    "code": "11371",
+    "name": "An Biên",
+    "name_en": "An Bien",
+    "full_name": "Phường An Biên",
+    "full_name_en": "An Bien Ward",
+    "type": "phường",
+    "district_code": "305",
+    "codename": "an_bien"
+  },
+  {
+    "code": "11383",
+    "name": "Trần Nguyên Hãn",
+    "name_en": "Tran Nguyen Han",
+    "full_name": "Phường Trần Nguyên Hãn",
+    "full_name_en": "Tran Nguyen Han Ward",
+    "type": "phường",
+    "district_code": "305",
+    "codename": "tran_nguyen_han"
+  },
+  {
+    "code": "11395",
+    "name": "Hàng Kênh",
+    "name_en": "Hang Kenh",
+    "full_name": "Phường Hàng Kênh",
+    "full_name_en": "Hang Kenh Ward",
+    "type": "phường",
+    "district_code": "305",
+    "codename": "hang_kenh"
+  },
+  {
+    "code": "11401",
+    "name": "An Dương",
+    "name_en": "An Duong",
+    "full_name": "Phường An Dương",
+    "full_name_en": "An Duong Ward",
+    "type": "phường",
+    "district_code": "305",
+    "codename": "an_duong"
+  },
+  {
+    "code": "11404",
+    "name": "Dư Hàng Kênh",
+    "name_en": "Du Hang Kenh",
+    "full_name": "Phường Dư Hàng Kênh",
+    "full_name_en": "Du Hang Kenh Ward",
+    "type": "phường",
+    "district_code": "305",
+    "codename": "du_hang_kenh"
+  },
+  {
+    "code": "11405",
+    "name": "Kênh Dương",
+    "name_en": "Kenh Duong",
+    "full_name": "Phường Kênh Dương",
+    "full_name_en": "Kenh Duong Ward",
+    "type": "phường",
+    "district_code": "305",
+    "codename": "kenh_duong"
+  },
+  {
+    "code": "11407",
+    "name": "Vĩnh Niệm",
+    "name_en": "Vinh Niem",
+    "full_name": "Phường Vĩnh Niệm",
+    "full_name_en": "Vinh Niem Ward",
+    "type": "phường",
+    "district_code": "305",
+    "codename": "vinh_niem"
+  }
+]

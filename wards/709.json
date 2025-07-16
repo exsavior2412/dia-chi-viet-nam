@@ -1,0 +1,82 @@
+[
+  {
+    "code": "25630",
+    "name": "Long Hoa",
+    "name_en": "Long Hoa",
+    "full_name": "Phường Long Hoa",
+    "full_name_en": "Long Hoa Ward",
+    "type": "phường",
+    "district_code": "709",
+    "codename": "long_hoa"
+  },
+  {
+    "code": "25633",
+    "name": "Hiệp Tân",
+    "name_en": "Hiep Tan",
+    "full_name": "Phường Hiệp Tân",
+    "full_name_en": "Hiep Tan Ward",
+    "type": "phường",
+    "district_code": "709",
+    "codename": "hiep_tan"
+  },
+  {
+    "code": "25636",
+    "name": "Long Thành Bắc",
+    "name_en": "Long Thanh Bac",
+    "full_name": "Phường Long Thành Bắc",
+    "full_name_en": "Long Thanh Bac Ward",
+    "type": "phường",
+    "district_code": "709",
+    "codename": "long_thanh_bac"
+  },
+  {
+    "code": "25639",
+    "name": "Trường Hòa",
+    "name_en": "Truong Hoa",
+    "full_name": "Xã Trường Hòa",
+    "full_name_en": "Truong Hoa Commune",
+    "type": "xã",
+    "district_code": "709",
+    "codename": "truong_hoa"
+  },
+  {
+    "code": "25642",
+    "name": "Trường Đông",
+    "name_en": "Truong Dong",
+    "full_name": "Xã Trường Đông",
+    "full_name_en": "Truong Dong Commune",
+    "type": "xã",
+    "district_code": "709",
+    "codename": "truong_dong"
+  },
+  {
+    "code": "25645",
+    "name": "Long Thành Trung",
+    "name_en": "Long Thanh Trung",
+    "full_name": "Phường Long Thành Trung",
+    "full_name_en": "Long Thanh Trung Ward",
+    "type": "phường",
+    "district_code": "709",
+    "codename": "long_thanh_trung"
+  },
+  {
+    "code": "25648",
+    "name": "Trường Tây",
+    "name_en": "Truong Tay",
+    "full_name": "Xã Trường Tây",
+    "full_name_en": "Truong Tay Commune",
+    "type": "xã",
+    "district_code": "709",
+    "codename": "truong_tay"
+  },
+  {
+    "code": "25651",
+    "name": "Long Thành Nam",
+    "name_en": "Long Thanh Nam",
+    "full_name": "Xã Long Thành Nam",
+    "full_name_en": "Long Thanh Nam Commune",
+    "type": "xã",
+    "district_code": "709",
+    "codename": "long_thanh_nam"
+  }
+]

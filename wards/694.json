@@ -1,0 +1,132 @@
+[
+  {
+    "code": "25327",
+    "name": "Thanh An",
+    "name_en": "Thanh An",
+    "full_name": "Xã Thanh An",
+    "full_name_en": "Thanh An Commune",
+    "type": "xã",
+    "district_code": "694",
+    "codename": "thanh_an"
+  },
+  {
+    "code": "25330",
+    "name": "An Khương",
+    "name_en": "An Khuong",
+    "full_name": "Xã An Khương",
+    "full_name_en": "An Khuong Commune",
+    "type": "xã",
+    "district_code": "694",
+    "codename": "an_khuong"
+  },
+  {
+    "code": "25339",
+    "name": "An Phú",
+    "name_en": "An Phu",
+    "full_name": "Xã An Phú",
+    "full_name_en": "An Phu Commune",
+    "type": "xã",
+    "district_code": "694",
+    "codename": "an_phu"
+  },
+  {
+    "code": "25342",
+    "name": "Tân Lợi",
+    "name_en": "Tan Loi",
+    "full_name": "Xã Tân Lợi",
+    "full_name_en": "Tan Loi Commune",
+    "type": "xã",
+    "district_code": "694",
+    "codename": "tan_loi"
+  },
+  {
+    "code": "25345",
+    "name": "Tân Hưng",
+    "name_en": "Tan Hung",
+    "full_name": "Xã Tân Hưng",
+    "full_name_en": "Tan Hung Commune",
+    "type": "xã",
+    "district_code": "694",
+    "codename": "tan_hung"
+  },
+  {
+    "code": "25348",
+    "name": "Minh Đức",
+    "name_en": "Minh Duc",
+    "full_name": "Xã Minh Đức",
+    "full_name_en": "Minh Duc Commune",
+    "type": "xã",
+    "district_code": "694",
+    "codename": "minh_duc"
+  },
+  {
+    "code": "25349",
+    "name": "Minh Tâm",
+    "name_en": "Minh Tam",
+    "full_name": "Xã Minh Tâm",
+    "full_name_en": "Minh Tam Commune",
+    "type": "xã",
+    "district_code": "694",
+    "codename": "minh_tam"
+  },
+  {
+    "code": "25351",
+    "name": "Phước An",
+    "name_en": "Phuoc An",
+    "full_name": "Xã Phước An",
+    "full_name_en": "Phuoc An Commune",
+    "type": "xã",
+    "district_code": "694",
+    "codename": "phuoc_an"
+  },
+  {
+    "code": "25354",
+    "name": "Thanh Bình",
+    "name_en": "Thanh Binh",
+    "full_name": "Xã Thanh Bình",
+    "full_name_en": "Thanh Binh Commune",
+    "type": "xã",
+    "district_code": "694",
+    "codename": "thanh_binh"
+  },
+  {
+    "code": "25357",
+    "name": "Tân Khai",
+    "name_en": "Tan Khai",
+    "full_name": "Thị trấn Tân Khai",
+    "full_name_en": "Tan Khai Township",
+    "type": "thị trấn",
+    "district_code": "694",
+    "codename": "tan_khai"
+  },
+  {
+    "code": "25360",
+    "name": "Đồng Nơ",
+    "name_en": "Dong No",
+    "full_name": "Xã Đồng Nơ",
+    "full_name_en": "Dong No Commune",
+    "type": "xã",
+    "district_code": "694",
+    "codename": "dong_no"
+  },
+  {
+    "code": "25361",
+    "name": "Tân Hiệp",
+    "name_en": "Tan Hiep",
+    "full_name": "Xã Tân Hiệp",
+    "full_name_en": "Tan Hiep Commune",
+    "type": "xã",
+    "district_code": "694",
+    "codename": "tan_hiep"
+  },
+  {
+    "code": "25438",
+    "name": "Tân Quan",
+    "name_en": "Tan Quan",
+    "full_name": "Xã Tân Quan",
+    "full_name_en": "Tan Quan Commune",
+    "type": "xã",
+    "district_code": "694",
+    "codename": "tan_quan"
+  }
+]

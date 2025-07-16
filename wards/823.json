@@ -1,0 +1,132 @@
+[
+  {
+    "code": "28651",
+    "name": "Vĩnh Bình",
+    "name_en": "Vinh Binh",
+    "full_name": "Thị trấn Vĩnh Bình",
+    "full_name_en": "Vinh Binh Township",
+    "type": "thị trấn",
+    "district_code": "823",
+    "codename": "vinh_binh"
+  },
+  {
+    "code": "28654",
+    "name": "Đồng Sơn",
+    "name_en": "Dong Son",
+    "full_name": "Xã Đồng Sơn",
+    "full_name_en": "Dong Son Commune",
+    "type": "xã",
+    "district_code": "823",
+    "codename": "dong_son"
+  },
+  {
+    "code": "28657",
+    "name": "Bình Phú",
+    "name_en": "Binh Phu",
+    "full_name": "Xã Bình Phú",
+    "full_name_en": "Binh Phu Commune",
+    "type": "xã",
+    "district_code": "823",
+    "codename": "binh_phu"
+  },
+  {
+    "code": "28660",
+    "name": "Đồng Thạnh",
+    "name_en": "Dong Thanh",
+    "full_name": "Xã Đồng Thạnh",
+    "full_name_en": "Dong Thanh Commune",
+    "type": "xã",
+    "district_code": "823",
+    "codename": "dong_thanh"
+  },
+  {
+    "code": "28663",
+    "name": "Thành Công",
+    "name_en": "Thanh Cong",
+    "full_name": "Xã Thành Công",
+    "full_name_en": "Thanh Cong Commune",
+    "type": "xã",
+    "district_code": "823",
+    "codename": "thanh_cong"
+  },
+  {
+    "code": "28666",
+    "name": "Bình Nhì",
+    "name_en": "Binh Nhi",
+    "full_name": "Xã Bình Nhì",
+    "full_name_en": "Binh Nhi Commune",
+    "type": "xã",
+    "district_code": "823",
+    "codename": "binh_nhi"
+  },
+  {
+    "code": "28669",
+    "name": "Yên Luông",
+    "name_en": "Yen Luong",
+    "full_name": "Xã Yên Luông",
+    "full_name_en": "Yen Luong Commune",
+    "type": "xã",
+    "district_code": "823",
+    "codename": "yen_luong"
+  },
+  {
+    "code": "28672",
+    "name": "Thạnh Trị",
+    "name_en": "Thanh Tri",
+    "full_name": "Xã Thạnh Trị",
+    "full_name_en": "Thanh Tri Commune",
+    "type": "xã",
+    "district_code": "823",
+    "codename": "thanh_tri"
+  },
+  {
+    "code": "28675",
+    "name": "Thạnh Nhựt",
+    "name_en": "Thanh Nhut",
+    "full_name": "Xã Thạnh Nhựt",
+    "full_name_en": "Thanh Nhut Commune",
+    "type": "xã",
+    "district_code": "823",
+    "codename": "thanh_nhut"
+  },
+  {
+    "code": "28678",
+    "name": "Long Vĩnh",
+    "name_en": "Long Vinh",
+    "full_name": "Xã Long Vĩnh",
+    "full_name_en": "Long Vinh Commune",
+    "type": "xã",
+    "district_code": "823",
+    "codename": "long_vinh"
+  },
+  {
+    "code": "28681",
+    "name": "Bình Tân",
+    "name_en": "Binh Tan",
+    "full_name": "Xã Bình Tân",
+    "full_name_en": "Binh Tan Commune",
+    "type": "xã",
+    "district_code": "823",
+    "codename": "binh_tan"
+  },
+  {
+    "code": "28684",
+    "name": "Vĩnh Hựu",
+    "name_en": "Vinh Huu",
+    "full_name": "Xã Vĩnh Hựu",
+    "full_name_en": "Vinh Huu Commune",
+    "type": "xã",
+    "district_code": "823",
+    "codename": "vinh_huu"
+  },
+  {
+    "code": "28687",
+    "name": "Long Bình",
+    "name_en": "Long Binh",
+    "full_name": "Xã Long Bình",
+    "full_name_en": "Long Binh Commune",
+    "type": "xã",
+    "district_code": "823",
+    "codename": "long_binh"
+  }
+]

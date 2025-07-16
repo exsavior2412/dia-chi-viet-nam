@@ -1,0 +1,102 @@
+[
+  {
+    "code": "27397",
+    "name": "Rạch Ông",
+    "name_en": "Rach Ong",
+    "full_name": "Phường Rạch Ông",
+    "full_name_en": "Rach Ong Ward",
+    "type": "phường",
+    "district_code": "776",
+    "codename": "rach_ong"
+  },
+  {
+    "code": "27403",
+    "name": "Hưng Phú",
+    "name_en": "Hung Phu",
+    "full_name": "Phường Hưng Phú",
+    "full_name_en": "Hung Phu Ward",
+    "type": "phường",
+    "district_code": "776",
+    "codename": "hung_phu"
+  },
+  {
+    "code": "27409",
+    "name": "4",
+    "name_en": "4",
+    "full_name": "Phường 4",
+    "full_name_en": "Ward 4",
+    "type": "phường",
+    "district_code": "776",
+    "codename": "4"
+  },
+  {
+    "code": "27415",
+    "name": "Xóm Củi",
+    "name_en": "Xom Cui",
+    "full_name": "Phường Xóm Củi",
+    "full_name_en": "Xom Cui Ward",
+    "type": "phường",
+    "district_code": "776",
+    "codename": "xom_cui"
+  },
+  {
+    "code": "27418",
+    "name": "5",
+    "name_en": "5",
+    "full_name": "Phường 5",
+    "full_name_en": "Ward 5",
+    "type": "phường",
+    "district_code": "776",
+    "codename": "5"
+  },
+  {
+    "code": "27421",
+    "name": "14",
+    "name_en": "14",
+    "full_name": "Phường 14",
+    "full_name_en": "Ward 14",
+    "type": "phường",
+    "district_code": "776",
+    "codename": "14"
+  },
+  {
+    "code": "27424",
+    "name": "6",
+    "name_en": "6",
+    "full_name": "Phường 6",
+    "full_name_en": "Ward 6",
+    "type": "phường",
+    "district_code": "776",
+    "codename": "6"
+  },
+  {
+    "code": "27427",
+    "name": "15",
+    "name_en": "15",
+    "full_name": "Phường 15",
+    "full_name_en": "Ward 15",
+    "type": "phường",
+    "district_code": "776",
+    "codename": "15"
+  },
+  {
+    "code": "27430",
+    "name": "16",
+    "name_en": "16",
+    "full_name": "Phường 16",
+    "full_name_en": "Ward 16",
+    "type": "phường",
+    "district_code": "776",
+    "codename": "16"
+  },
+  {
+    "code": "27433",
+    "name": "7",
+    "name_en": "7",
+    "full_name": "Phường 7",
+    "full_name_en": "Ward 7",
+    "type": "phường",
+    "district_code": "776",
+    "codename": "7"
+  }
+]

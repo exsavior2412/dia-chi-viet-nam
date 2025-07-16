@@ -1,0 +1,202 @@
+[
+  {
+    "code": "09247",
+    "name": "Phố Mới",
+    "name_en": "Pho Moi",
+    "full_name": "Phường Phố Mới",
+    "full_name_en": "Pho Moi Ward",
+    "type": "phường",
+    "district_code": "259",
+    "codename": "pho_moi"
+  },
+  {
+    "code": "09250",
+    "name": "Việt Thống",
+    "name_en": "Viet Thong",
+    "full_name": "Xã Việt Thống",
+    "full_name_en": "Viet Thong Commune",
+    "type": "xã",
+    "district_code": "259",
+    "codename": "viet_thong"
+  },
+  {
+    "code": "09253",
+    "name": "Đại Xuân",
+    "name_en": "Dai Xuan",
+    "full_name": "Phường Đại Xuân",
+    "full_name_en": "Dai Xuan Ward",
+    "type": "phường",
+    "district_code": "259",
+    "codename": "dai_xuan"
+  },
+  {
+    "code": "09259",
+    "name": "Nhân Hòa",
+    "name_en": "Nhan Hoa",
+    "full_name": "Phường Nhân Hòa",
+    "full_name_en": "Nhan Hoa Ward",
+    "type": "phường",
+    "district_code": "259",
+    "codename": "nhan_hoa"
+  },
+  {
+    "code": "09262",
+    "name": "Bằng An",
+    "name_en": "Bang An",
+    "full_name": "Phường Bằng An",
+    "full_name_en": "Bang An Ward",
+    "type": "phường",
+    "district_code": "259",
+    "codename": "bang_an"
+  },
+  {
+    "code": "09265",
+    "name": "Phương Liễu",
+    "name_en": "Phuong Lieu",
+    "full_name": "Phường Phương Liễu",
+    "full_name_en": "Phuong Lieu Ward",
+    "type": "phường",
+    "district_code": "259",
+    "codename": "phuong_lieu"
+  },
+  {
+    "code": "09268",
+    "name": "Quế Tân",
+    "name_en": "Que Tan",
+    "full_name": "Phường Quế Tân",
+    "full_name_en": "Que Tan Ward",
+    "type": "phường",
+    "district_code": "259",
+    "codename": "que_tan"
+  },
+  {
+    "code": "09274",
+    "name": "Phù Lương",
+    "name_en": "Phu Luong",
+    "full_name": "Phường Phù Lương",
+    "full_name_en": "Phu Luong Ward",
+    "type": "phường",
+    "district_code": "259",
+    "codename": "phu_luong"
+  },
+  {
+    "code": "09277",
+    "name": "Phù Lãng",
+    "name_en": "Phu Lang",
+    "full_name": "Xã Phù Lãng",
+    "full_name_en": "Phu Lang Commune",
+    "type": "xã",
+    "district_code": "259",
+    "codename": "phu_lang"
+  },
+  {
+    "code": "09280",
+    "name": "Phượng Mao",
+    "name_en": "Phuong Mao",
+    "full_name": "Phường Phượng Mao",
+    "full_name_en": "Phuong Mao Ward",
+    "type": "phường",
+    "district_code": "259",
+    "codename": "phuong_mao"
+  },
+  {
+    "code": "09283",
+    "name": "Việt Hùng",
+    "name_en": "Viet Hung",
+    "full_name": "Phường Việt Hùng",
+    "full_name_en": "Viet Hung Ward",
+    "type": "phường",
+    "district_code": "259",
+    "codename": "viet_hung"
+  },
+  {
+    "code": "09289",
+    "name": "Ngọc Xá",
+    "name_en": "Ngoc Xa",
+    "full_name": "Xã Ngọc Xá",
+    "full_name_en": "Ngoc Xa Commune",
+    "type": "xã",
+    "district_code": "259",
+    "codename": "ngoc_xa"
+  },
+  {
+    "code": "09292",
+    "name": "Châu Phong",
+    "name_en": "Chau Phong",
+    "full_name": "Xã Châu Phong",
+    "full_name_en": "Chau Phong Commune",
+    "type": "xã",
+    "district_code": "259",
+    "codename": "chau_phong"
+  },
+  {
+    "code": "09295",
+    "name": "Bồng Lai",
+    "name_en": "Bong Lai",
+    "full_name": "Phường Bồng Lai",
+    "full_name_en": "Bong Lai Ward",
+    "type": "phường",
+    "district_code": "259",
+    "codename": "bong_lai"
+  },
+  {
+    "code": "09298",
+    "name": "Cách Bi",
+    "name_en": "Cach Bi",
+    "full_name": "Phường Cách Bi",
+    "full_name_en": "Cach Bi Ward",
+    "type": "phường",
+    "district_code": "259",
+    "codename": "cach_bi"
+  },
+  {
+    "code": "09301",
+    "name": "Đào Viên",
+    "name_en": "Dao Vien",
+    "full_name": "Xã Đào Viên",
+    "full_name_en": "Dao Vien Commune",
+    "type": "xã",
+    "district_code": "259",
+    "codename": "dao_vien"
+  },
+  {
+    "code": "09304",
+    "name": "Yên Giả",
+    "name_en": "Yen Gia",
+    "full_name": "Xã Yên Giả",
+    "full_name_en": "Yen Gia Commune",
+    "type": "xã",
+    "district_code": "259",
+    "codename": "yen_gia"
+  },
+  {
+    "code": "09307",
+    "name": "Mộ Đạo",
+    "name_en": "Mo Dao",
+    "full_name": "Xã Mộ Đạo",
+    "full_name_en": "Mo Dao Commune",
+    "type": "xã",
+    "district_code": "259",
+    "codename": "mo_dao"
+  },
+  {
+    "code": "09310",
+    "name": "Đức Long",
+    "name_en": "Duc Long",
+    "full_name": "Xã Đức Long",
+    "full_name_en": "Duc Long Commune",
+    "type": "xã",
+    "district_code": "259",
+    "codename": "duc_long"
+  },
+  {
+    "code": "09313",
+    "name": "Chi Lăng",
+    "name_en": "Chi Lang",
+    "full_name": "Xã Chi Lăng",
+    "full_name_en": "Chi Lang Commune",
+    "type": "xã",
+    "district_code": "259",
+    "codename": "chi_lang"
+  }
+]

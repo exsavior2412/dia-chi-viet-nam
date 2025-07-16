@@ -1,0 +1,112 @@
+[
+  {
+    "code": "23404",
+    "name": "Ngọc Lây",
+    "name_en": "Ngoc Lay",
+    "full_name": "Xã Ngọc Lây",
+    "full_name_en": "Ngoc Lay Commune",
+    "type": "xã",
+    "district_code": "617",
+    "codename": "ngoc_lay"
+  },
+  {
+    "code": "23407",
+    "name": "Đắk Na",
+    "name_en": "Dak Na",
+    "full_name": "Xã Đắk Na",
+    "full_name_en": "Dak Na Commune",
+    "type": "xã",
+    "district_code": "617",
+    "codename": "dak_na"
+  },
+  {
+    "code": "23410",
+    "name": "Măng Ri",
+    "name_en": "Mang Ri",
+    "full_name": "Xã Măng Ri",
+    "full_name_en": "Mang Ri Commune",
+    "type": "xã",
+    "district_code": "617",
+    "codename": "mang_ri"
+  },
+  {
+    "code": "23413",
+    "name": "Ngọc Yêu",
+    "name_en": "Ngoc Yeu",
+    "full_name": "Xã Ngọc Yêu",
+    "full_name_en": "Ngoc Yeu Commune",
+    "type": "xã",
+    "district_code": "617",
+    "codename": "ngoc_yeu"
+  },
+  {
+    "code": "23416",
+    "name": "Đắk Sao",
+    "name_en": "Dak Sao",
+    "full_name": "Xã Đắk Sao",
+    "full_name_en": "Dak Sao Commune",
+    "type": "xã",
+    "district_code": "617",
+    "codename": "dak_sao"
+  },
+  {
+    "code": "23417",
+    "name": "Đắk Rơ Ông",
+    "name_en": "Dak Ro Ong",
+    "full_name": "Xã Đắk Rơ Ông",
+    "full_name_en": "Dak Ro Ong Commune",
+    "type": "xã",
+    "district_code": "617",
+    "codename": "dak_ro_ong"
+  },
+  {
+    "code": "23419",
+    "name": "Đắk Tờ Kan",
+    "name_en": "Dak To Kan",
+    "full_name": "Xã Đắk Tờ Kan",
+    "full_name_en": "Dak To Kan Commune",
+    "type": "xã",
+    "district_code": "617",
+    "codename": "dak_to_kan"
+  },
+  {
+    "code": "23422",
+    "name": "Tu Mơ Rông",
+    "name_en": "Tu Mo Rong",
+    "full_name": "Xã Tu Mơ Rông",
+    "full_name_en": "Tu Mo Rong Commune",
+    "type": "xã",
+    "district_code": "617",
+    "codename": "tu_mo_rong"
+  },
+  {
+    "code": "23425",
+    "name": "Đắk Hà",
+    "name_en": "Dak Ha",
+    "full_name": "Xã Đắk Hà",
+    "full_name_en": "Dak Ha Commune",
+    "type": "xã",
+    "district_code": "617",
+    "codename": "dak_ha"
+  },
+  {
+    "code": "23446",
+    "name": "Tê Xăng",
+    "name_en": "Te Xang",
+    "full_name": "Xã Tê Xăng",
+    "full_name_en": "Te Xang Commune",
+    "type": "xã",
+    "district_code": "617",
+    "codename": "te_xang"
+  },
+  {
+    "code": "23449",
+    "name": "Văn Xuôi",
+    "name_en": "Van Xuoi",
+    "full_name": "Xã Văn Xuôi",
+    "full_name_en": "Van Xuoi Commune",
+    "type": "xã",
+    "district_code": "617",
+    "codename": "van_xuoi"
+  }
+]

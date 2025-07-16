@@ -1,0 +1,242 @@
+[
+  {
+    "code": "01021",
+    "name": "Vinh Quang",
+    "name_en": "Vinh Quang",
+    "full_name": "Thị trấn Vinh Quang",
+    "full_name_en": "Vinh Quang Township",
+    "type": "thị trấn",
+    "district_code": "032",
+    "codename": "vinh_quang"
+  },
+  {
+    "code": "01024",
+    "name": "Bản Máy",
+    "name_en": "Ban May",
+    "full_name": "Xã Bản Máy",
+    "full_name_en": "Ban May Commune",
+    "type": "xã",
+    "district_code": "032",
+    "codename": "ban_may"
+  },
+  {
+    "code": "01027",
+    "name": "Thàng Tín",
+    "name_en": "Thang Tin",
+    "full_name": "Xã Thàng Tín",
+    "full_name_en": "Thang Tin Commune",
+    "type": "xã",
+    "district_code": "032",
+    "codename": "thang_tin"
+  },
+  {
+    "code": "01030",
+    "name": "Thèn Chu Phìn",
+    "name_en": "Then Chu Phin",
+    "full_name": "Xã Thèn Chu Phìn",
+    "full_name_en": "Then Chu Phin Commune",
+    "type": "xã",
+    "district_code": "032",
+    "codename": "then_chu_phin"
+  },
+  {
+    "code": "01033",
+    "name": "Pố Lồ",
+    "name_en": "Po Lo",
+    "full_name": "Xã Pố Lồ",
+    "full_name_en": "Po Lo Commune",
+    "type": "xã",
+    "district_code": "032",
+    "codename": "po_lo"
+  },
+  {
+    "code": "01036",
+    "name": "Bản Phùng",
+    "name_en": "Ban Phung",
+    "full_name": "Xã Bản Phùng",
+    "full_name_en": "Ban Phung Commune",
+    "type": "xã",
+    "district_code": "032",
+    "codename": "ban_phung"
+  },
+  {
+    "code": "01039",
+    "name": "Túng Sán",
+    "name_en": "Tung San",
+    "full_name": "Xã Túng Sán",
+    "full_name_en": "Tung San Commune",
+    "type": "xã",
+    "district_code": "032",
+    "codename": "tung_san"
+  },
+  {
+    "code": "01042",
+    "name": "Chiến Phố",
+    "name_en": "Chien Pho",
+    "full_name": "Xã Chiến Phố",
+    "full_name_en": "Chien Pho Commune",
+    "type": "xã",
+    "district_code": "032",
+    "codename": "chien_pho"
+  },
+  {
+    "code": "01045",
+    "name": "Đản Ván",
+    "name_en": "Dan Van",
+    "full_name": "Xã Đản Ván",
+    "full_name_en": "Dan Van Commune",
+    "type": "xã",
+    "district_code": "032",
+    "codename": "dan_van"
+  },
+  {
+    "code": "01048",
+    "name": "Tụ Nhân",
+    "name_en": "Tu Nhan",
+    "full_name": "Xã Tụ Nhân",
+    "full_name_en": "Tu Nhan Commune",
+    "type": "xã",
+    "district_code": "032",
+    "codename": "tu_nhan"
+  },
+  {
+    "code": "01051",
+    "name": "Tân Tiến",
+    "name_en": "Tan Tien",
+    "full_name": "Xã Tân Tiến",
+    "full_name_en": "Tan Tien Commune",
+    "type": "xã",
+    "district_code": "032",
+    "codename": "tan_tien"
+  },
+  {
+    "code": "01054",
+    "name": "Nàng Đôn",
+    "name_en": "Nang Don",
+    "full_name": "Xã Nàng Đôn",
+    "full_name_en": "Nang Don Commune",
+    "type": "xã",
+    "district_code": "032",
+    "codename": "nang_don"
+  },
+  {
+    "code": "01057",
+    "name": "Pờ Ly Ngài",
+    "name_en": "Po Ly Ngai",
+    "full_name": "Xã Pờ Ly Ngài",
+    "full_name_en": "Po Ly Ngai Commune",
+    "type": "xã",
+    "district_code": "032",
+    "codename": "po_ly_ngai"
+  },
+  {
+    "code": "01060",
+    "name": "Sán Xả Hồ",
+    "name_en": "San Xa Ho",
+    "full_name": "Xã Sán Xả Hồ",
+    "full_name_en": "San Xa Ho Commune",
+    "type": "xã",
+    "district_code": "032",
+    "codename": "san_xa_ho"
+  },
+  {
+    "code": "01063",
+    "name": "Bản Luốc",
+    "name_en": "Ban Luoc",
+    "full_name": "Xã Bản Luốc",
+    "full_name_en": "Ban Luoc Commune",
+    "type": "xã",
+    "district_code": "032",
+    "codename": "ban_luoc"
+  },
+  {
+    "code": "01066",
+    "name": "Ngàm Đăng Vài",
+    "name_en": "Ngam Dang Vai",
+    "full_name": "Xã Ngàm Đăng Vài",
+    "full_name_en": "Ngam Dang Vai Commune",
+    "type": "xã",
+    "district_code": "032",
+    "codename": "ngam_dang_vai"
+  },
+  {
+    "code": "01069",
+    "name": "Bản Nhùng",
+    "name_en": "Ban Nhung",
+    "full_name": "Xã Bản Nhùng",
+    "full_name_en": "Ban Nhung Commune",
+    "type": "xã",
+    "district_code": "032",
+    "codename": "ban_nhung"
+  },
+  {
+    "code": "01072",
+    "name": "Tả Sử Choóng",
+    "name_en": "Ta Su Choong",
+    "full_name": "Xã Tả Sử Choóng",
+    "full_name_en": "Ta Su Choong Commune",
+    "type": "xã",
+    "district_code": "032",
+    "codename": "ta_su_choong"
+  },
+  {
+    "code": "01075",
+    "name": "Nậm Dịch",
+    "name_en": "Nam Dich",
+    "full_name": "Xã Nậm Dịch",
+    "full_name_en": "Nam Dich Commune",
+    "type": "xã",
+    "district_code": "032",
+    "codename": "nam_dich"
+  },
+  {
+    "code": "01081",
+    "name": "Hồ Thầu",
+    "name_en": "Ho Thau",
+    "full_name": "Xã Hồ Thầu",
+    "full_name_en": "Ho Thau Commune",
+    "type": "xã",
+    "district_code": "032",
+    "codename": "ho_thau"
+  },
+  {
+    "code": "01084",
+    "name": "Nam Sơn",
+    "name_en": "Nam Son",
+    "full_name": "Xã Nam Sơn",
+    "full_name_en": "Nam Son Commune",
+    "type": "xã",
+    "district_code": "032",
+    "codename": "nam_son"
+  },
+  {
+    "code": "01087",
+    "name": "Nậm Tỵ",
+    "name_en": "Nam Ty",
+    "full_name": "Xã Nậm Tỵ",
+    "full_name_en": "Nam Ty Commune",
+    "type": "xã",
+    "district_code": "032",
+    "codename": "nam_ty"
+  },
+  {
+    "code": "01090",
+    "name": "Thông Nguyên",
+    "name_en": "Thong Nguyen",
+    "full_name": "Xã Thông Nguyên",
+    "full_name_en": "Thong Nguyen Commune",
+    "type": "xã",
+    "district_code": "032",
+    "codename": "thong_nguyen"
+  },
+  {
+    "code": "01093",
+    "name": "Nậm Khòa",
+    "name_en": "Nam Khoa",
+    "full_name": "Xã Nậm Khòa",
+    "full_name_en": "Nam Khoa Commune",
+    "type": "xã",
+    "district_code": "032",
+    "codename": "nam_khoa"
+  }
+]

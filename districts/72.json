@@ -1,0 +1,92 @@
+[
+  {
+    "code": "703",
+    "name": "Tây Ninh",
+    "name_en": "Tay Ninh",
+    "full_name": "Thành phố Tây Ninh",
+    "full_name_en": "Tay Ninh City",
+    "type": "thành phố",
+    "province_code": "72",
+    "codename": "tay_ninh"
+  },
+  {
+    "code": "705",
+    "name": "Tân Biên",
+    "name_en": "Tan Bien",
+    "full_name": "Huyện Tân Biên",
+    "full_name_en": "Tan Bien District",
+    "type": "huyện",
+    "province_code": "72",
+    "codename": "tan_bien"
+  },
+  {
+    "code": "706",
+    "name": "Tân Châu",
+    "name_en": "Tan Chau",
+    "full_name": "Huyện Tân Châu",
+    "full_name_en": "Tan Chau District",
+    "type": "huyện",
+    "province_code": "72",
+    "codename": "tan_chau"
+  },
+  {
+    "code": "707",
+    "name": "Dương Minh Châu",
+    "name_en": "Duong Minh Chau",
+    "full_name": "Huyện Dương Minh Châu",
+    "full_name_en": "Duong Minh Chau District",
+    "type": "huyện",
+    "province_code": "72",
+    "codename": "duong_minh_chau"
+  },
+  {
+    "code": "708",
+    "name": "Châu Thành",
+    "name_en": "Chau Thanh",
+    "full_name": "Huyện Châu Thành",
+    "full_name_en": "Chau Thanh District",
+    "type": "huyện",
+    "province_code": "72",
+    "codename": "chau_thanh"
+  },
+  {
+    "code": "709",
+    "name": "Hòa Thành",
+    "name_en": "Hoa Thanh",
+    "full_name": "Thị xã Hòa Thành",
+    "full_name_en": "Hoa Thanh Town",
+    "type": "thị xã",
+    "province_code": "72",
+    "codename": "hoa_thanh"
+  },
+  {
+    "code": "710",
+    "name": "Gò Dầu",
+    "name_en": "Go Dau",
+    "full_name": "Huyện Gò Dầu",
+    "full_name_en": "Go Dau District",
+    "type": "huyện",
+    "province_code": "72",
+    "codename": "go_dau"
+  },
+  {
+    "code": "711",
+    "name": "Bến Cầu",
+    "name_en": "Ben Cau",
+    "full_name": "Huyện Bến Cầu",
+    "full_name_en": "Ben Cau District",
+    "type": "huyện",
+    "province_code": "72",
+    "codename": "ben_cau"
+  },
+  {
+    "code": "712",
+    "name": "Trảng Bàng",
+    "name_en": "Trang Bang",
+    "full_name": "Thị xã Trảng Bàng",
+    "full_name_en": "Trang Bang Town",
+    "type": "thị xã",
+    "province_code": "72",
+    "codename": "trang_bang"
+  }
+]

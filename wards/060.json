@@ -1,0 +1,102 @@
+[
+  {
+    "code": "01858",
+    "name": "Bằng Thành",
+    "name_en": "Bang Thanh",
+    "full_name": "Xã Bằng Thành",
+    "full_name_en": "Bang Thanh Commune",
+    "type": "xã",
+    "district_code": "060",
+    "codename": "bang_thanh"
+  },
+  {
+    "code": "01861",
+    "name": "Nhạn Môn",
+    "name_en": "Nhan Mon",
+    "full_name": "Xã Nhạn Môn",
+    "full_name_en": "Nhan Mon Commune",
+    "type": "xã",
+    "district_code": "060",
+    "codename": "nhan_mon"
+  },
+  {
+    "code": "01864",
+    "name": "Bộc Bố",
+    "name_en": "Boc Bo",
+    "full_name": "Xã Bộc Bố",
+    "full_name_en": "Boc Bo Commune",
+    "type": "xã",
+    "district_code": "060",
+    "codename": "boc_bo"
+  },
+  {
+    "code": "01867",
+    "name": "Công Bằng",
+    "name_en": "Cong Bang",
+    "full_name": "Xã Công Bằng",
+    "full_name_en": "Cong Bang Commune",
+    "type": "xã",
+    "district_code": "060",
+    "codename": "cong_bang"
+  },
+  {
+    "code": "01870",
+    "name": "Giáo Hiệu",
+    "name_en": "Giao Hieu",
+    "full_name": "Xã Giáo Hiệu",
+    "full_name_en": "Giao Hieu Commune",
+    "type": "xã",
+    "district_code": "060",
+    "codename": "giao_hieu"
+  },
+  {
+    "code": "01873",
+    "name": "Xuân La",
+    "name_en": "Xuan La",
+    "full_name": "Xã Xuân La",
+    "full_name_en": "Xuan La Commune",
+    "type": "xã",
+    "district_code": "060",
+    "codename": "xuan_la"
+  },
+  {
+    "code": "01876",
+    "name": "An Thắng",
+    "name_en": "An Thang",
+    "full_name": "Xã An Thắng",
+    "full_name_en": "An Thang Commune",
+    "type": "xã",
+    "district_code": "060",
+    "codename": "an_thang"
+  },
+  {
+    "code": "01879",
+    "name": "Cổ Linh",
+    "name_en": "Co Linh",
+    "full_name": "Xã Cổ Linh",
+    "full_name_en": "Co Linh Commune",
+    "type": "xã",
+    "district_code": "060",
+    "codename": "co_linh"
+  },
+  {
+    "code": "01882",
+    "name": "Nghiên Loan",
+    "name_en": "Nghien Loan",
+    "full_name": "Xã Nghiên Loan",
+    "full_name_en": "Nghien Loan Commune",
+    "type": "xã",
+    "district_code": "060",
+    "codename": "nghien_loan"
+  },
+  {
+    "code": "01885",
+    "name": "Cao Tân",
+    "name_en": "Cao Tan",
+    "full_name": "Xã Cao Tân",
+    "full_name_en": "Cao Tan Commune",
+    "type": "xã",
+    "district_code": "060",
+    "codename": "cao_tan"
+  }
+]

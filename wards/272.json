@@ -1,0 +1,182 @@
+[
+  {
+    "code": "09715",
+    "name": "Phúc Thọ",
+    "name_en": "Phuc Tho",
+    "full_name": "Thị trấn Phúc Thọ",
+    "full_name_en": "Phuc Tho Township",
+    "type": "thị trấn",
+    "district_code": "272",
+    "codename": "phuc_tho"
+  },
+  {
+    "code": "09721",
+    "name": "Vân Phúc",
+    "name_en": "Van Phuc",
+    "full_name": "Xã Vân Phúc",
+    "full_name_en": "Van Phuc Commune",
+    "type": "xã",
+    "district_code": "272",
+    "codename": "van_phuc"
+  },
+  {
+    "code": "09724",
+    "name": "Nam Hà",
+    "name_en": "Nam Ha",
+    "full_name": "Xã Nam Hà",
+    "full_name_en": "Nam Ha Commune",
+    "type": "xã",
+    "district_code": "272",
+    "codename": "nam_ha"
+  },
+  {
+    "code": "09727",
+    "name": "Xuân Đình",
+    "name_en": "Xuan Dinh",
+    "full_name": "Xã Xuân Đình",
+    "full_name_en": "Xuan Dinh Commune",
+    "type": "xã",
+    "district_code": "272",
+    "codename": "xuan_dinh"
+  },
+  {
+    "code": "09733",
+    "name": "Sen Phương",
+    "name_en": "Sen Phuong",
+    "full_name": "Xã Sen Phương",
+    "full_name_en": "Sen Phuong Commune",
+    "type": "xã",
+    "district_code": "272",
+    "codename": "sen_phuong"
+  },
+  {
+    "code": "09739",
+    "name": "Võng Xuyên",
+    "name_en": "Vong Xuyen",
+    "full_name": "Xã Võng Xuyên",
+    "full_name_en": "Vong Xuyen Commune",
+    "type": "xã",
+    "district_code": "272",
+    "codename": "vong_xuyen"
+  },
+  {
+    "code": "09742",
+    "name": "Tích Lộc",
+    "name_en": "Tich Loc",
+    "full_name": "Xã Tích Lộc",
+    "full_name_en": "Tich Loc Commune",
+    "type": "xã",
+    "district_code": "272",
+    "codename": "tich_loc"
+  },
+  {
+    "code": "09745",
+    "name": "Long Thượng",
+    "name_en": "Long Thuong",
+    "full_name": "Xã Long Thượng",
+    "full_name_en": "Long Thuong Commune",
+    "type": "xã",
+    "district_code": "272",
+    "codename": "long_thuong"
+  },
+  {
+    "code": "09751",
+    "name": "Hát Môn",
+    "name_en": "Hat Mon",
+    "full_name": "Xã Hát Môn",
+    "full_name_en": "Hat Mon Commune",
+    "type": "xã",
+    "district_code": "272",
+    "codename": "hat_mon"
+  },
+  {
+    "code": "09757",
+    "name": "Thanh Đa",
+    "name_en": "Thanh Da",
+    "full_name": "Xã Thanh Đa",
+    "full_name_en": "Thanh Da Commune",
+    "type": "xã",
+    "district_code": "272",
+    "codename": "thanh_da"
+  },
+  {
+    "code": "09760",
+    "name": "Trạch Mỹ Lộc",
+    "name_en": "Trach My Loc",
+    "full_name": "Xã Trạch Mỹ Lộc",
+    "full_name_en": "Trach My Loc Commune",
+    "type": "xã",
+    "district_code": "272",
+    "codename": "trach_my_loc"
+  },
+  {
+    "code": "09763",
+    "name": "Phúc Hòa",
+    "name_en": "Phuc Hoa",
+    "full_name": "Xã Phúc Hòa",
+    "full_name_en": "Phuc Hoa Commune",
+    "type": "xã",
+    "district_code": "272",
+    "codename": "phuc_hoa"
+  },
+  {
+    "code": "09766",
+    "name": "Ngọc Tảo",
+    "name_en": "Ngoc Tao",
+    "full_name": "Xã Ngọc Tảo",
+    "full_name_en": "Ngoc Tao Commune",
+    "type": "xã",
+    "district_code": "272",
+    "codename": "ngoc_tao"
+  },
+  {
+    "code": "09769",
+    "name": "Phụng Thượng",
+    "name_en": "Phung Thuong",
+    "full_name": "Xã Phụng Thượng",
+    "full_name_en": "Phung Thuong Commune",
+    "type": "xã",
+    "district_code": "272",
+    "codename": "phung_thuong"
+  },
+  {
+    "code": "09772",
+    "name": "Tam Thuấn",
+    "name_en": "Tam Thuan",
+    "full_name": "Xã Tam Thuấn",
+    "full_name_en": "Tam Thuan Commune",
+    "type": "xã",
+    "district_code": "272",
+    "codename": "tam_thuan"
+  },
+  {
+    "code": "09775",
+    "name": "Tam Hiệp",
+    "name_en": "Tam Hiep",
+    "full_name": "Xã Tam Hiệp",
+    "full_name_en": "Tam Hiep Commune",
+    "type": "xã",
+    "district_code": "272",
+    "codename": "tam_hiep"
+  },
+  {
+    "code": "09778",
+    "name": "Hiệp Thuận",
+    "name_en": "Hiep Thuan",
+    "full_name": "Xã Hiệp Thuận",
+    "full_name_en": "Hiep Thuan Commune",
+    "type": "xã",
+    "district_code": "272",
+    "codename": "hiep_thuan"
+  },
+  {
+    "code": "09781",
+    "name": "Liên Hiệp",
+    "name_en": "Lien Hiep",
+    "full_name": "Xã Liên Hiệp",
+    "full_name_en": "Lien Hiep Commune",
+    "type": "xã",
+    "district_code": "272",
+    "codename": "lien_hiep"
+  }
+]

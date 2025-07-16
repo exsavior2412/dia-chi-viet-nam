@@ -1,0 +1,92 @@
+[
+  {
+    "code": "21331",
+    "name": "Sơn Bua",
+    "name_en": "Son Bua",
+    "full_name": "Xã Sơn Bua",
+    "full_name_en": "Son Bua Commune",
+    "type": "xã",
+    "district_code": "530",
+    "codename": "son_bua"
+  },
+  {
+    "code": "21334",
+    "name": "Sơn Mùa",
+    "name_en": "Son Mua",
+    "full_name": "Xã Sơn Mùa",
+    "full_name_en": "Son Mua Commune",
+    "type": "xã",
+    "district_code": "530",
+    "codename": "son_mua"
+  },
+  {
+    "code": "21335",
+    "name": "Sơn Liên",
+    "name_en": "Son Lien",
+    "full_name": "Xã Sơn Liên",
+    "full_name_en": "Son Lien Commune",
+    "type": "xã",
+    "district_code": "530",
+    "codename": "son_lien"
+  },
+  {
+    "code": "21337",
+    "name": "Sơn Tân",
+    "name_en": "Son Tan",
+    "full_name": "Xã Sơn Tân",
+    "full_name_en": "Son Tan Commune",
+    "type": "xã",
+    "district_code": "530",
+    "codename": "son_tan"
+  },
+  {
+    "code": "21338",
+    "name": "Sơn Màu",
+    "name_en": "Son Mau",
+    "full_name": "Xã Sơn Màu",
+    "full_name_en": "Son Mau Commune",
+    "type": "xã",
+    "district_code": "530",
+    "codename": "son_mau"
+  },
+  {
+    "code": "21340",
+    "name": "Sơn Dung",
+    "name_en": "Son Dung",
+    "full_name": "Xã Sơn Dung",
+    "full_name_en": "Son Dung Commune",
+    "type": "xã",
+    "district_code": "530",
+    "codename": "son_dung"
+  },
+  {
+    "code": "21341",
+    "name": "Sơn Long",
+    "name_en": "Son Long",
+    "full_name": "Xã Sơn Long",
+    "full_name_en": "Son Long Commune",
+    "type": "xã",
+    "district_code": "530",
+    "codename": "son_long"
+  },
+  {
+    "code": "21343",
+    "name": "Sơn Tinh",
+    "name_en": "Son Tinh",
+    "full_name": "Xã Sơn Tinh",
+    "full_name_en": "Son Tinh Commune",
+    "type": "xã",
+    "district_code": "530",
+    "codename": "son_tinh"
+  },
+  {
+    "code": "21346",
+    "name": "Sơn Lập",
+    "name_en": "Son Lap",
+    "full_name": "Xã Sơn Lập",
+    "full_name_en": "Son Lap Commune",
+    "type": "xã",
+    "district_code": "530",
+    "codename": "son_lap"
+  }
+]

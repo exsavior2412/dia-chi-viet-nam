@@ -1,0 +1,82 @@
+[
+  {
+    "code": "22810",
+    "name": "Tân Sơn",
+    "name_en": "Tan Son",
+    "full_name": "Thị trấn Tân Sơn",
+    "full_name_en": "Tan Son Township",
+    "type": "thị trấn",
+    "district_code": "585",
+    "codename": "tan_son"
+  },
+  {
+    "code": "22813",
+    "name": "Lâm Sơn",
+    "name_en": "Lam Son",
+    "full_name": "Xã Lâm Sơn",
+    "full_name_en": "Lam Son Commune",
+    "type": "xã",
+    "district_code": "585",
+    "codename": "lam_son"
+  },
+  {
+    "code": "22816",
+    "name": "Lương Sơn",
+    "name_en": "Luong Son",
+    "full_name": "Xã Lương Sơn",
+    "full_name_en": "Luong Son Commune",
+    "type": "xã",
+    "district_code": "585",
+    "codename": "luong_son"
+  },
+  {
+    "code": "22819",
+    "name": "Quảng Sơn",
+    "name_en": "Quang Son",
+    "full_name": "Xã Quảng Sơn",
+    "full_name_en": "Quang Son Commune",
+    "type": "xã",
+    "district_code": "585",
+    "codename": "quang_son"
+  },
+  {
+    "code": "22822",
+    "name": "Mỹ Sơn",
+    "name_en": "My Son",
+    "full_name": "Xã Mỹ Sơn",
+    "full_name_en": "My Son Commune",
+    "type": "xã",
+    "district_code": "585",
+    "codename": "my_son"
+  },
+  {
+    "code": "22825",
+    "name": "Hòa Sơn",
+    "name_en": "Hoa Son",
+    "full_name": "Xã Hòa Sơn",
+    "full_name_en": "Hoa Son Commune",
+    "type": "xã",
+    "district_code": "585",
+    "codename": "hoa_son"
+  },
+  {
+    "code": "22828",
+    "name": "Ma Nới",
+    "name_en": "Ma Noi",
+    "full_name": "Xã Ma Nới",
+    "full_name_en": "Ma Noi Commune",
+    "type": "xã",
+    "district_code": "585",
+    "codename": "ma_noi"
+  },
+  {
+    "code": "22831",
+    "name": "Nhơn Sơn",
+    "name_en": "Nhon Son",
+    "full_name": "Xã Nhơn Sơn",
+    "full_name_en": "Nhon Son Commune",
+    "type": "xã",
+    "district_code": "585",
+    "codename": "nhon_son"
+  }
+]

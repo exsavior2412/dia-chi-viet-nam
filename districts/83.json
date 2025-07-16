@@ -1,0 +1,92 @@
+[
+  {
+    "code": "829",
+    "name": "Bến Tre",
+    "name_en": "Ben Tre",
+    "full_name": "Thành phố Bến Tre",
+    "full_name_en": "Ben Tre City",
+    "type": "thành phố",
+    "province_code": "83",
+    "codename": "ben_tre"
+  },
+  {
+    "code": "831",
+    "name": "Châu Thành",
+    "name_en": "Chau Thanh",
+    "full_name": "Huyện Châu Thành",
+    "full_name_en": "Chau Thanh District",
+    "type": "huyện",
+    "province_code": "83",
+    "codename": "chau_thanh"
+  },
+  {
+    "code": "832",
+    "name": "Chợ Lách",
+    "name_en": "Cho Lach",
+    "full_name": "Huyện Chợ Lách",
+    "full_name_en": "Cho Lach District",
+    "type": "huyện",
+    "province_code": "83",
+    "codename": "cho_lach"
+  },
+  {
+    "code": "833",
+    "name": "Mỏ Cày Nam",
+    "name_en": "Mo Cay Nam",
+    "full_name": "Huyện Mỏ Cày Nam",
+    "full_name_en": "Mo Cay Nam District",
+    "type": "huyện",
+    "province_code": "83",
+    "codename": "mo_cay_nam"
+  },
+  {
+    "code": "834",
+    "name": "Giồng Trôm",
+    "name_en": "Giong Trom",
+    "full_name": "Huyện Giồng Trôm",
+    "full_name_en": "Giong Trom District",
+    "type": "huyện",
+    "province_code": "83",
+    "codename": "giong_trom"
+  },
+  {
+    "code": "835",
+    "name": "Bình Đại",
+    "name_en": "Binh Dai",
+    "full_name": "Huyện Bình Đại",
+    "full_name_en": "Binh Dai District",
+    "type": "huyện",
+    "province_code": "83",
+    "codename": "binh_dai"
+  },
+  {
+    "code": "836",
+    "name": "Ba Tri",
+    "name_en": "Ba Tri",
+    "full_name": "Huyện Ba Tri",
+    "full_name_en": "Ba Tri District",
+    "type": "huyện",
+    "province_code": "83",
+    "codename": "ba_tri"
+  },
+  {
+    "code": "837",
+    "name": "Thạnh Phú",
+    "name_en": "Thanh Phu",
+    "full_name": "Huyện Thạnh Phú",
+    "full_name_en": "Thanh Phu District",
+    "type": "huyện",
+    "province_code": "83",
+    "codename": "thanh_phu"
+  },
+  {
+    "code": "838",
+    "name": "Mỏ Cày Bắc",
+    "name_en": "Mo Cay Bac",
+    "full_name": "Huyện Mỏ Cày Bắc",
+    "full_name_en": "Mo Cay Bac District",
+    "type": "huyện",
+    "province_code": "83",
+    "codename": "mo_cay_bac"
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "code": "19777",
+    "name": "Vỹ Dạ",
+    "name_en": "Vy Da",
+    "full_name": "Phường Vỹ Dạ",
+    "full_name_en": "Vy Da Ward",
+    "type": "phường",
+    "district_code": "474",
+    "codename": "vy_da"
+  },
+  {
+    "code": "19780",
+    "name": "Phường Đúc",
+    "name_en": "Phuong Duc",
+    "full_name": "Phường Phường Đúc",
+    "full_name_en": "Phuong Duc Ward",
+    "type": "phường",
+    "district_code": "474",
+    "codename": "phuong_duc"
+  },
+  {
+    "code": "19783",
+    "name": "Vĩnh Ninh",
+    "name_en": "Vinh Ninh",
+    "full_name": "Phường Vĩnh Ninh",
+    "full_name_en": "Vinh Ninh Ward",
+    "type": "phường",
+    "district_code": "474",
+    "codename": "vinh_ninh"
+  },
+  {
+    "code": "19786",
+    "name": "Phú Hội",
+    "name_en": "Phu Hoi",
+    "full_name": "Phường Phú Hội",
+    "full_name_en": "Phu Hoi Ward",
+    "type": "phường",
+    "district_code": "474",
+    "codename": "phu_hoi"
+  },
+  {
+    "code": "19789",
+    "name": "Phú Nhuận",
+    "name_en": "Phu Nhuan",
+    "full_name": "Phường Phú Nhuận",
+    "full_name_en": "Phu Nhuan Ward",
+    "type": "phường",
+    "district_code": "474",
+    "codename": "phu_nhuan"
+  },
+  {
+    "code": "19792",
+    "name": "Xuân Phú",
+    "name_en": "Xuan Phu",
+    "full_name": "Phường Xuân Phú",
+    "full_name_en": "Xuan Phu Ward",
+    "type": "phường",
+    "district_code": "474",
+    "codename": "xuan_phu"
+  },
+  {
+    "code": "19795",
+    "name": "Trường An",
+    "name_en": "Truong An",
+    "full_name": "Phường Trường An",
+    "full_name_en": "Truong An Ward",
+    "type": "phường",
+    "district_code": "474",
+    "codename": "truong_an"
+  },
+  {
+    "code": "19798",
+    "name": "Phước Vĩnh",
+    "name_en": "Phuoc Vinh",
+    "full_name": "Phường Phước Vĩnh",
+    "full_name_en": "Phuoc Vinh Ward",
+    "type": "phường",
+    "district_code": "474",
+    "codename": "phuoc_vinh"
+  },
+  {
+    "code": "19801",
+    "name": "An Cựu",
+    "name_en": "An Cuu",
+    "full_name": "Phường An Cựu",
+    "full_name_en": "An Cuu Ward",
+    "type": "phường",
+    "district_code": "474",
+    "codename": "an_cuu"
+  },
+  {
+    "code": "19807",
+    "name": "Thuỷ Biều",
+    "name_en": "Thuy Bieu",
+    "full_name": "Phường Thuỷ Biều",
+    "full_name_en": "Thuy Bieu Ward",
+    "type": "phường",
+    "district_code": "474",
+    "codename": "thuy_bieu"
+  },
+  {
+    "code": "19813",
+    "name": "Thuỷ Xuân",
+    "name_en": "Thuy Xuan",
+    "full_name": "Phường Thuỷ Xuân",
+    "full_name_en": "Thuy Xuan Ward",
+    "type": "phường",
+    "district_code": "474",
+    "codename": "thuy_xuan"
+  },
+  {
+    "code": "19815",
+    "name": "An Đông",
+    "name_en": "An Dong",
+    "full_name": "Phường An Đông",
+    "full_name_en": "An Dong Ward",
+    "type": "phường",
+    "district_code": "474",
+    "codename": "an_dong"
+  },
+  {
+    "code": "19816",
+    "name": "An Tây",
+    "name_en": "An Tay",
+    "full_name": "Phường An Tây",
+    "full_name_en": "An Tay Ward",
+    "type": "phường",
+    "district_code": "474",
+    "codename": "an_tay"
+  },
+  {
+    "code": "19900",
+    "name": "Thuận An",
+    "name_en": "Thuan An",
+    "full_name": "Phường Thuận An",
+    "full_name_en": "Thuan An Ward",
+    "type": "phường",
+    "district_code": "474",
+    "codename": "thuan_an"
+  },
+  {
+    "code": "19909",
+    "name": "Dương Nỗ",
+    "name_en": "Duong No",
+    "full_name": "Phường Dương Nỗ",
+    "full_name_en": "Duong No Ward",
+    "type": "phường",
+    "district_code": "474",
+    "codename": "duong_no"
+  },
+  {
+    "code": "19930",
+    "name": "Phú Thượng",
+    "name_en": "Phu Thuong",
+    "full_name": "Phường Phú Thượng",
+    "full_name_en": "Phu Thuong Ward",
+    "type": "phường",
+    "district_code": "474",
+    "codename": "phu_thuong"
+  },
+  {
+    "code": "19963",
+    "name": "Thủy Vân",
+    "name_en": "Thuy Van",
+    "full_name": "Phường Thủy Vân",
+    "full_name_en": "Thuy Van Ward",
+    "type": "phường",
+    "district_code": "474",
+    "codename": "thuy_van"
+  },
+  {
+    "code": "19981",
+    "name": "Thủy Bằng",
+    "name_en": "Thuy Bang",
+    "full_name": "Phường Thủy Bằng",
+    "full_name_en": "Thuy Bang Ward",
+    "type": "phường",
+    "district_code": "474",
+    "codename": "thuy_bang"
+  },
+  {
+    "code": "20002",
+    "name": "Hương Phong",
+    "name_en": "Huong Phong",
+    "full_name": "Phường Hương Phong",
+    "full_name_en": "Huong Phong Ward",
+    "type": "phường",
+    "district_code": "474",
+    "codename": "huong_phong"
+  }
+]

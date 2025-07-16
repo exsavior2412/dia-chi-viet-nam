@@ -1,0 +1,122 @@
+[
+  {
+    "code": "24688",
+    "name": "Đắk Mâm",
+    "name_en": "Dak Mam",
+    "full_name": "Thị trấn Đắk Mâm",
+    "full_name_en": "Dak Mam Township",
+    "type": "thị trấn",
+    "district_code": "664",
+    "codename": "dak_mam"
+  },
+  {
+    "code": "24691",
+    "name": "Đắk Sôr",
+    "name_en": "Dak Sor",
+    "full_name": "Xã Đắk Sôr",
+    "full_name_en": "Dak Sor Commune",
+    "type": "xã",
+    "district_code": "664",
+    "codename": "dak_sor"
+  },
+  {
+    "code": "24692",
+    "name": "Nam Xuân",
+    "name_en": "Nam Xuan",
+    "full_name": "Xã Nam Xuân",
+    "full_name_en": "Nam Xuan Commune",
+    "type": "xã",
+    "district_code": "664",
+    "codename": "nam_xuan"
+  },
+  {
+    "code": "24694",
+    "name": "Buôn Choah",
+    "name_en": "Buon Choah",
+    "full_name": "Xã Buôn Choah",
+    "full_name_en": "Buon Choah Commune",
+    "type": "xã",
+    "district_code": "664",
+    "codename": "buon_choah"
+  },
+  {
+    "code": "24697",
+    "name": "Nam Đà",
+    "name_en": "Nam Da",
+    "full_name": "Xã Nam Đà",
+    "full_name_en": "Nam Da Commune",
+    "type": "xã",
+    "district_code": "664",
+    "codename": "nam_da"
+  },
+  {
+    "code": "24699",
+    "name": "Tân Thành",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thành",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "664",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "24700",
+    "name": "Đắk Drô",
+    "name_en": "Dak Dro",
+    "full_name": "Xã Đắk Drô",
+    "full_name_en": "Dak Dro Commune",
+    "type": "xã",
+    "district_code": "664",
+    "codename": "dak_dro"
+  },
+  {
+    "code": "24703",
+    "name": "Nâm Nung",
+    "name_en": "Nam Nung",
+    "full_name": "Xã Nâm Nung",
+    "full_name_en": "Nam Nung Commune",
+    "type": "xã",
+    "district_code": "664",
+    "codename": "nam_nung"
+  },
+  {
+    "code": "24706",
+    "name": "Đức Xuyên",
+    "name_en": "Duc Xuyen",
+    "full_name": "Xã Đức Xuyên",
+    "full_name_en": "Duc Xuyen Commune",
+    "type": "xã",
+    "district_code": "664",
+    "codename": "duc_xuyen"
+  },
+  {
+    "code": "24709",
+    "name": "Đắk Nang",
+    "name_en": "Dak Nang",
+    "full_name": "Xã Đắk Nang",
+    "full_name_en": "Dak Nang Commune",
+    "type": "xã",
+    "district_code": "664",
+    "codename": "dak_nang"
+  },
+  {
+    "code": "24712",
+    "name": "Quảng Phú",
+    "name_en": "Quang Phu",
+    "full_name": "Xã Quảng Phú",
+    "full_name_en": "Quang Phu Commune",
+    "type": "xã",
+    "district_code": "664",
+    "codename": "quang_phu"
+  },
+  {
+    "code": "24715",
+    "name": "Nâm N'Đir",
+    "name_en": "Nam N'Dir",
+    "full_name": "Xã Nâm N'Đir",
+    "full_name_en": "Nam N'Dir Commune",
+    "type": "xã",
+    "district_code": "664",
+    "codename": "nam_ndir"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "code": "09454",
+    "name": "Gia Bình",
+    "name_en": "Gia Binh",
+    "full_name": "Thị trấn Gia Bình",
+    "full_name_en": "Gia Binh Township",
+    "type": "thị trấn",
+    "district_code": "263",
+    "codename": "gia_binh"
+  },
+  {
+    "code": "09457",
+    "name": "Vạn Ninh",
+    "name_en": "Van Ninh",
+    "full_name": "Xã Vạn Ninh",
+    "full_name_en": "Van Ninh Commune",
+    "type": "xã",
+    "district_code": "263",
+    "codename": "van_ninh"
+  },
+  {
+    "code": "09460",
+    "name": "Thái Bảo",
+    "name_en": "Thai Bao",
+    "full_name": "Xã Thái Bảo",
+    "full_name_en": "Thai Bao Commune",
+    "type": "xã",
+    "district_code": "263",
+    "codename": "thai_bao"
+  },
+  {
+    "code": "09463",
+    "name": "Giang Sơn",
+    "name_en": "Giang Son",
+    "full_name": "Xã Giang Sơn",
+    "full_name_en": "Giang Son Commune",
+    "type": "xã",
+    "district_code": "263",
+    "codename": "giang_son"
+  },
+  {
+    "code": "09466",
+    "name": "Cao Đức",
+    "name_en": "Cao Duc",
+    "full_name": "Xã Cao Đức",
+    "full_name_en": "Cao Duc Commune",
+    "type": "xã",
+    "district_code": "263",
+    "codename": "cao_duc"
+  },
+  {
+    "code": "09469",
+    "name": "Đại Lai",
+    "name_en": "Dai Lai",
+    "full_name": "Xã Đại Lai",
+    "full_name_en": "Dai Lai Commune",
+    "type": "xã",
+    "district_code": "263",
+    "codename": "dai_lai"
+  },
+  {
+    "code": "09472",
+    "name": "Song Giang",
+    "name_en": "Song Giang",
+    "full_name": "Xã Song Giang",
+    "full_name_en": "Song Giang Commune",
+    "type": "xã",
+    "district_code": "263",
+    "codename": "song_giang"
+  },
+  {
+    "code": "09475",
+    "name": "Bình Dương",
+    "name_en": "Binh Duong",
+    "full_name": "Xã Bình Dương",
+    "full_name_en": "Binh Duong Commune",
+    "type": "xã",
+    "district_code": "263",
+    "codename": "binh_duong"
+  },
+  {
+    "code": "09478",
+    "name": "Lãng Ngâm",
+    "name_en": "Lang Ngam",
+    "full_name": "Xã Lãng Ngâm",
+    "full_name_en": "Lang Ngam Commune",
+    "type": "xã",
+    "district_code": "263",
+    "codename": "lang_ngam"
+  },
+  {
+    "code": "09481",
+    "name": "Nhân Thắng",
+    "name_en": "Nhan Thang",
+    "full_name": "Thị trấn Nhân Thắng",
+    "full_name_en": "Nhan Thang Township",
+    "type": "thị trấn",
+    "district_code": "263",
+    "codename": "nhan_thang"
+  },
+  {
+    "code": "09484",
+    "name": "Xuân Lai",
+    "name_en": "Xuan Lai",
+    "full_name": "Xã Xuân Lai",
+    "full_name_en": "Xuan Lai Commune",
+    "type": "xã",
+    "district_code": "263",
+    "codename": "xuan_lai"
+  },
+  {
+    "code": "09487",
+    "name": "Đông Cứu",
+    "name_en": "Dong Cuu",
+    "full_name": "Xã Đông Cứu",
+    "full_name_en": "Dong Cuu Commune",
+    "type": "xã",
+    "district_code": "263",
+    "codename": "dong_cuu"
+  },
+  {
+    "code": "09490",
+    "name": "Đại Bái",
+    "name_en": "Dai Bai",
+    "full_name": "Xã Đại Bái",
+    "full_name_en": "Dai Bai Commune",
+    "type": "xã",
+    "district_code": "263",
+    "codename": "dai_bai"
+  },
+  {
+    "code": "09493",
+    "name": "Quỳnh Phú",
+    "name_en": "Quynh Phu",
+    "full_name": "Xã Quỳnh Phú",
+    "full_name_en": "Quynh Phu Commune",
+    "type": "xã",
+    "district_code": "263",
+    "codename": "quynh_phu"
+  }
+]

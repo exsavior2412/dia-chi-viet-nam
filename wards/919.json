@@ -1,0 +1,72 @@
+[
+  {
+    "code": "31186",
+    "name": "Lê Bình",
+    "name_en": "Le Binh",
+    "full_name": "Phường Lê Bình",
+    "full_name_en": "Le Binh Ward",
+    "type": "phường",
+    "district_code": "919",
+    "codename": "le_binh"
+  },
+  {
+    "code": "31189",
+    "name": "Hưng Phú",
+    "name_en": "Hung Phu",
+    "full_name": "Phường Hưng Phú",
+    "full_name_en": "Hung Phu Ward",
+    "type": "phường",
+    "district_code": "919",
+    "codename": "hung_phu"
+  },
+  {
+    "code": "31192",
+    "name": "Hưng Thạnh",
+    "name_en": "Hung Thanh",
+    "full_name": "Phường Hưng Thạnh",
+    "full_name_en": "Hung Thanh Ward",
+    "type": "phường",
+    "district_code": "919",
+    "codename": "hung_thanh"
+  },
+  {
+    "code": "31195",
+    "name": "Ba Láng",
+    "name_en": "Ba Lang",
+    "full_name": "Phường Ba Láng",
+    "full_name_en": "Ba Lang Ward",
+    "type": "phường",
+    "district_code": "919",
+    "codename": "ba_lang"
+  },
+  {
+    "code": "31198",
+    "name": "Thường Thạnh",
+    "name_en": "Thuong Thanh",
+    "full_name": "Phường Thường Thạnh",
+    "full_name_en": "Thuong Thanh Ward",
+    "type": "phường",
+    "district_code": "919",
+    "codename": "thuong_thanh"
+  },
+  {
+    "code": "31201",
+    "name": "Phú Thứ",
+    "name_en": "Phu Thu",
+    "full_name": "Phường Phú Thứ",
+    "full_name_en": "Phu Thu Ward",
+    "type": "phường",
+    "district_code": "919",
+    "codename": "phu_thu"
+  },
+  {
+    "code": "31204",
+    "name": "Tân Phú",
+    "name_en": "Tan Phu",
+    "full_name": "Phường Tân Phú",
+    "full_name_en": "Tan Phu Ward",
+    "type": "phường",
+    "district_code": "919",
+    "codename": "tan_phu"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "code": "22327",
+    "name": "Vĩnh Hòa",
+    "name_en": "Vinh Hoa",
+    "full_name": "Phường Vĩnh Hòa",
+    "full_name_en": "Vinh Hoa Ward",
+    "type": "phường",
+    "district_code": "568",
+    "codename": "vinh_hoa"
+  },
+  {
+    "code": "22330",
+    "name": "Vĩnh Hải",
+    "name_en": "Vinh Hai",
+    "full_name": "Phường Vĩnh Hải",
+    "full_name_en": "Vinh Hai Ward",
+    "type": "phường",
+    "district_code": "568",
+    "codename": "vinh_hai"
+  },
+  {
+    "code": "22333",
+    "name": "Vĩnh Phước",
+    "name_en": "Vinh Phuoc",
+    "full_name": "Phường Vĩnh Phước",
+    "full_name_en": "Vinh Phuoc Ward",
+    "type": "phường",
+    "district_code": "568",
+    "codename": "vinh_phuoc"
+  },
+  {
+    "code": "22336",
+    "name": "Ngọc Hiệp",
+    "name_en": "Ngoc Hiep",
+    "full_name": "Phường Ngọc Hiệp",
+    "full_name_en": "Ngoc Hiep Ward",
+    "type": "phường",
+    "district_code": "568",
+    "codename": "ngoc_hiep"
+  },
+  {
+    "code": "22339",
+    "name": "Vĩnh Thọ",
+    "name_en": "Vinh Tho",
+    "full_name": "Phường Vĩnh Thọ",
+    "full_name_en": "Vinh Tho Ward",
+    "type": "phường",
+    "district_code": "568",
+    "codename": "vinh_tho"
+  },
+  {
+    "code": "22348",
+    "name": "Vạn Thạnh",
+    "name_en": "Van Thanh",
+    "full_name": "Phường Vạn Thạnh",
+    "full_name_en": "Van Thanh Ward",
+    "type": "phường",
+    "district_code": "568",
+    "codename": "van_thanh"
+  },
+  {
+    "code": "22351",
+    "name": "Phương Sài",
+    "name_en": "Phuong Sai",
+    "full_name": "Phường Phương Sài",
+    "full_name_en": "Phuong Sai Ward",
+    "type": "phường",
+    "district_code": "568",
+    "codename": "phuong_sai"
+  },
+  {
+    "code": "22357",
+    "name": "Phước Hải",
+    "name_en": "Phuoc Hai",
+    "full_name": "Phường Phước Hải",
+    "full_name_en": "Phuoc Hai Ward",
+    "type": "phường",
+    "district_code": "568",
+    "codename": "phuoc_hai"
+  },
+  {
+    "code": "22363",
+    "name": "Lộc Thọ",
+    "name_en": "Loc Tho",
+    "full_name": "Phường Lộc Thọ",
+    "full_name_en": "Loc Tho Ward",
+    "type": "phường",
+    "district_code": "568",
+    "codename": "loc_tho"
+  },
+  {
+    "code": "22366",
+    "name": "Tân Tiến",
+    "name_en": "Tan Tien",
+    "full_name": "Phường Tân Tiến",
+    "full_name_en": "Tan Tien Ward",
+    "type": "phường",
+    "district_code": "568",
+    "codename": "tan_tien"
+  },
+  {
+    "code": "22372",
+    "name": "Phước Hòa",
+    "name_en": "Phuoc Hoa",
+    "full_name": "Phường Phước Hòa",
+    "full_name_en": "Phuoc Hoa Ward",
+    "type": "phường",
+    "district_code": "568",
+    "codename": "phuoc_hoa"
+  },
+  {
+    "code": "22375",
+    "name": "Vĩnh Nguyên",
+    "name_en": "Vinh Nguyen",
+    "full_name": "Phường Vĩnh Nguyên",
+    "full_name_en": "Vinh Nguyen Ward",
+    "type": "phường",
+    "district_code": "568",
+    "codename": "vinh_nguyen"
+  },
+  {
+    "code": "22378",
+    "name": "Phước Long",
+    "name_en": "Phuoc Long",
+    "full_name": "Phường Phước Long",
+    "full_name_en": "Phuoc Long Ward",
+    "type": "phường",
+    "district_code": "568",
+    "codename": "phuoc_long"
+  },
+  {
+    "code": "22381",
+    "name": "Vĩnh Trường",
+    "name_en": "Vinh Truong",
+    "full_name": "Phường Vĩnh Trường",
+    "full_name_en": "Vinh Truong Ward",
+    "type": "phường",
+    "district_code": "568",
+    "codename": "vinh_truong"
+  },
+  {
+    "code": "22384",
+    "name": "Vĩnh Lương",
+    "name_en": "Vinh Luong",
+    "full_name": "Xã Vĩnh Lương",
+    "full_name_en": "Vinh Luong Commune",
+    "type": "xã",
+    "district_code": "568",
+    "codename": "vinh_luong"
+  },
+  {
+    "code": "22387",
+    "name": "Vĩnh Phương",
+    "name_en": "Vinh Phuong",
+    "full_name": "Xã Vĩnh Phương",
+    "full_name_en": "Vinh Phuong Commune",
+    "type": "xã",
+    "district_code": "568",
+    "codename": "vinh_phuong"
+  },
+  {
+    "code": "22390",
+    "name": "Vĩnh Ngọc",
+    "name_en": "Vinh Ngoc",
+    "full_name": "Xã Vĩnh Ngọc",
+    "full_name_en": "Vinh Ngoc Commune",
+    "type": "xã",
+    "district_code": "568",
+    "codename": "vinh_ngoc"
+  },
+  {
+    "code": "22393",
+    "name": "Vĩnh Thạnh",
+    "name_en": "Vinh Thanh",
+    "full_name": "Xã Vĩnh Thạnh",
+    "full_name_en": "Vinh Thanh Commune",
+    "type": "xã",
+    "district_code": "568",
+    "codename": "vinh_thanh"
+  },
+  {
+    "code": "22396",
+    "name": "Vĩnh Trung",
+    "name_en": "Vinh Trung",
+    "full_name": "Xã Vĩnh Trung",
+    "full_name_en": "Vinh Trung Commune",
+    "type": "xã",
+    "district_code": "568",
+    "codename": "vinh_trung"
+  },
+  {
+    "code": "22399",
+    "name": "Vĩnh Hiệp",
+    "name_en": "Vinh Hiep",
+    "full_name": "Xã Vĩnh Hiệp",
+    "full_name_en": "Vinh Hiep Commune",
+    "type": "xã",
+    "district_code": "568",
+    "codename": "vinh_hiep"
+  },
+  {
+    "code": "22402",
+    "name": "Vĩnh Thái",
+    "name_en": "Vinh Thai",
+    "full_name": "Xã Vĩnh Thái",
+    "full_name_en": "Vinh Thai Commune",
+    "type": "xã",
+    "district_code": "568",
+    "codename": "vinh_thai"
+  },
+  {
+    "code": "22405",
+    "name": "Phước Đồng",
+    "name_en": "Phuoc Dong",
+    "full_name": "Xã Phước Đồng",
+    "full_name_en": "Phuoc Dong Commune",
+    "type": "xã",
+    "district_code": "568",
+    "codename": "phuoc_dong"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "code": "31018",
+    "name": "Thứ Mười Một",
+    "name_en": "Thu Muoi Mot",
+    "full_name": "Thị trấn Thứ Mười Một",
+    "full_name_en": "Thu Muoi Mot Township",
+    "type": "thị trấn",
+    "district_code": "909",
+    "codename": "thu_muoi_mot"
+  },
+  {
+    "code": "31021",
+    "name": "Thuận Hoà",
+    "name_en": "Thuan Hoa",
+    "full_name": "Xã Thuận Hoà",
+    "full_name_en": "Thuan Hoa Commune",
+    "type": "xã",
+    "district_code": "909",
+    "codename": "thuan_hoa"
+  },
+  {
+    "code": "31024",
+    "name": "Đông Hòa",
+    "name_en": "Dong Hoa",
+    "full_name": "Xã Đông Hòa",
+    "full_name_en": "Dong Hoa Commune",
+    "type": "xã",
+    "district_code": "909",
+    "codename": "dong_hoa"
+  },
+  {
+    "code": "31030",
+    "name": "Đông Thạnh",
+    "name_en": "Dong Thanh",
+    "full_name": "Xã Đông Thạnh",
+    "full_name_en": "Dong Thanh Commune",
+    "type": "xã",
+    "district_code": "909",
+    "codename": "dong_thanh"
+  },
+  {
+    "code": "31031",
+    "name": "Tân Thạnh",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thạnh",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "909",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "31033",
+    "name": "Đông Hưng",
+    "name_en": "Dong Hung",
+    "full_name": "Xã Đông Hưng",
+    "full_name_en": "Dong Hung Commune",
+    "type": "xã",
+    "district_code": "909",
+    "codename": "dong_hung"
+  },
+  {
+    "code": "31036",
+    "name": "Đông Hưng A",
+    "name_en": "Dong Hung A",
+    "full_name": "Xã Đông Hưng A",
+    "full_name_en": "Dong Hung A Commune",
+    "type": "xã",
+    "district_code": "909",
+    "codename": "dong_hung_a"
+  },
+  {
+    "code": "31039",
+    "name": "Đông Hưng B",
+    "name_en": "Dong Hung B",
+    "full_name": "Xã Đông Hưng B",
+    "full_name_en": "Dong Hung B Commune",
+    "type": "xã",
+    "district_code": "909",
+    "codename": "dong_hung_b"
+  },
+  {
+    "code": "31042",
+    "name": "Vân Khánh",
+    "name_en": "Van Khanh",
+    "full_name": "Xã Vân Khánh",
+    "full_name_en": "Van Khanh Commune",
+    "type": "xã",
+    "district_code": "909",
+    "codename": "van_khanh"
+  },
+  {
+    "code": "31045",
+    "name": "Vân Khánh Đông",
+    "name_en": "Van Khanh Dong",
+    "full_name": "Xã Vân Khánh Đông",
+    "full_name_en": "Van Khanh Dong Commune",
+    "type": "xã",
+    "district_code": "909",
+    "codename": "van_khanh_dong"
+  },
+  {
+    "code": "31048",
+    "name": "Vân Khánh Tây",
+    "name_en": "Van Khanh Tay",
+    "full_name": "Xã Vân Khánh Tây",
+    "full_name_en": "Van Khanh Tay Commune",
+    "type": "xã",
+    "district_code": "909",
+    "codename": "van_khanh_tay"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "code": "24769",
+    "name": "7",
+    "name_en": "7",
+    "full_name": "Phường 7",
+    "full_name_en": "Ward 7",
+    "type": "phường",
+    "district_code": "672",
+    "codename": "7"
+  },
+  {
+    "code": "24772",
+    "name": "8",
+    "name_en": "8",
+    "full_name": "Phường 8",
+    "full_name_en": "Ward 8",
+    "type": "phường",
+    "district_code": "672",
+    "codename": "8"
+  },
+  {
+    "code": "24775",
+    "name": "12",
+    "name_en": "12",
+    "full_name": "Phường 12",
+    "full_name_en": "Ward 12",
+    "type": "phường",
+    "district_code": "672",
+    "codename": "12"
+  },
+  {
+    "code": "24778",
+    "name": "9",
+    "name_en": "9",
+    "full_name": "Phường 9",
+    "full_name_en": "Ward 9",
+    "type": "phường",
+    "district_code": "672",
+    "codename": "9"
+  },
+  {
+    "code": "24781",
+    "name": "2",
+    "name_en": "2",
+    "full_name": "Phường 2",
+    "full_name_en": "Ward 2",
+    "type": "phường",
+    "district_code": "672",
+    "codename": "2"
+  },
+  {
+    "code": "24784",
+    "name": "1",
+    "name_en": "1",
+    "full_name": "Phường 1",
+    "full_name_en": "Ward 1",
+    "type": "phường",
+    "district_code": "672",
+    "codename": "1"
+  },
+  {
+    "code": "24787",
+    "name": "6",
+    "name_en": "6",
+    "full_name": "Phường 6",
+    "full_name_en": "Ward 6",
+    "type": "phường",
+    "district_code": "672",
+    "codename": "6"
+  },
+  {
+    "code": "24790",
+    "name": "5",
+    "name_en": "5",
+    "full_name": "Phường 5",
+    "full_name_en": "Ward 5",
+    "type": "phường",
+    "district_code": "672",
+    "codename": "5"
+  },
+  {
+    "code": "24793",
+    "name": "4",
+    "name_en": "4",
+    "full_name": "Phường 4",
+    "full_name_en": "Ward 4",
+    "type": "phường",
+    "district_code": "672",
+    "codename": "4"
+  },
+  {
+    "code": "24796",
+    "name": "10",
+    "name_en": "10",
+    "full_name": "Phường 10",
+    "full_name_en": "Ward 10",
+    "type": "phường",
+    "district_code": "672",
+    "codename": "10"
+  },
+  {
+    "code": "24799",
+    "name": "11",
+    "name_en": "11",
+    "full_name": "Phường 11",
+    "full_name_en": "Ward 11",
+    "type": "phường",
+    "district_code": "672",
+    "codename": "11"
+  },
+  {
+    "code": "24802",
+    "name": "3",
+    "name_en": "3",
+    "full_name": "Phường 3",
+    "full_name_en": "Ward 3",
+    "type": "phường",
+    "district_code": "672",
+    "codename": "3"
+  },
+  {
+    "code": "24805",
+    "name": "Xuân Thọ",
+    "name_en": "Xuan Tho",
+    "full_name": "Xã Xuân Thọ",
+    "full_name_en": "Xuan Tho Commune",
+    "type": "xã",
+    "district_code": "672",
+    "codename": "xuan_tho"
+  },
+  {
+    "code": "24808",
+    "name": "Tà Nung",
+    "name_en": "Ta Nung",
+    "full_name": "Xã Tà Nung",
+    "full_name_en": "Ta Nung Commune",
+    "type": "xã",
+    "district_code": "672",
+    "codename": "ta_nung"
+  },
+  {
+    "code": "24810",
+    "name": "Trạm Hành",
+    "name_en": "Tram Hanh",
+    "full_name": "Xã Trạm Hành",
+    "full_name_en": "Tram Hanh Commune",
+    "type": "xã",
+    "district_code": "672",
+    "codename": "tram_hanh"
+  },
+  {
+    "code": "24811",
+    "name": "Xuân Trường",
+    "name_en": "Xuan Truong",
+    "full_name": "Xã Xuân Trường",
+    "full_name_en": "Xuan Truong Commune",
+    "type": "xã",
+    "district_code": "672",
+    "codename": "xuan_truong"
+  }
+]

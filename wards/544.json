@@ -1,0 +1,152 @@
+[
+  {
+    "code": "21688",
+    "name": "Tăng Bạt Hổ",
+    "name_en": "Tang Bat Ho",
+    "full_name": "Thị trấn Tăng Bạt Hổ",
+    "full_name_en": "Tang Bat Ho Township",
+    "type": "thị trấn",
+    "district_code": "544",
+    "codename": "tang_bat_ho"
+  },
+  {
+    "code": "21690",
+    "name": "Ân Hảo Tây",
+    "name_en": "An Hao Tay",
+    "full_name": "Xã Ân Hảo Tây",
+    "full_name_en": "An Hao Tay Commune",
+    "type": "xã",
+    "district_code": "544",
+    "codename": "an_hao_tay"
+  },
+  {
+    "code": "21691",
+    "name": "Ân Hảo Đông",
+    "name_en": "An Hao Dong",
+    "full_name": "Xã Ân Hảo Đông",
+    "full_name_en": "An Hao Dong Commune",
+    "type": "xã",
+    "district_code": "544",
+    "codename": "an_hao_dong"
+  },
+  {
+    "code": "21694",
+    "name": "Ân Sơn",
+    "name_en": "An Son",
+    "full_name": "Xã Ân Sơn",
+    "full_name_en": "An Son Commune",
+    "type": "xã",
+    "district_code": "544",
+    "codename": "an_son"
+  },
+  {
+    "code": "21697",
+    "name": "Ân Mỹ",
+    "name_en": "An My",
+    "full_name": "Xã Ân Mỹ",
+    "full_name_en": "An My Commune",
+    "type": "xã",
+    "district_code": "544",
+    "codename": "an_my"
+  },
+  {
+    "code": "21700",
+    "name": "Đak Mang",
+    "name_en": "Dak Mang",
+    "full_name": "Xã Đak Mang",
+    "full_name_en": "Dak Mang Commune",
+    "type": "xã",
+    "district_code": "544",
+    "codename": "dak_mang"
+  },
+  {
+    "code": "21703",
+    "name": "Ân Tín",
+    "name_en": "An Tin",
+    "full_name": "Xã Ân Tín",
+    "full_name_en": "An Tin Commune",
+    "type": "xã",
+    "district_code": "544",
+    "codename": "an_tin"
+  },
+  {
+    "code": "21706",
+    "name": "Ân Thạnh",
+    "name_en": "An Thanh",
+    "full_name": "Xã Ân Thạnh",
+    "full_name_en": "An Thanh Commune",
+    "type": "xã",
+    "district_code": "544",
+    "codename": "an_thanh"
+  },
+  {
+    "code": "21709",
+    "name": "Ân Phong",
+    "name_en": "An Phong",
+    "full_name": "Xã Ân Phong",
+    "full_name_en": "An Phong Commune",
+    "type": "xã",
+    "district_code": "544",
+    "codename": "an_phong"
+  },
+  {
+    "code": "21712",
+    "name": "Ân Đức",
+    "name_en": "An Duc",
+    "full_name": "Xã Ân Đức",
+    "full_name_en": "An Duc Commune",
+    "type": "xã",
+    "district_code": "544",
+    "codename": "an_duc"
+  },
+  {
+    "code": "21715",
+    "name": "Ân Hữu",
+    "name_en": "An Huu",
+    "full_name": "Xã Ân Hữu",
+    "full_name_en": "An Huu Commune",
+    "type": "xã",
+    "district_code": "544",
+    "codename": "an_huu"
+  },
+  {
+    "code": "21718",
+    "name": "Bok Tới",
+    "name_en": "Bok Toi",
+    "full_name": "Xã Bok Tới",
+    "full_name_en": "Bok Toi Commune",
+    "type": "xã",
+    "district_code": "544",
+    "codename": "bok_toi"
+  },
+  {
+    "code": "21721",
+    "name": "Ân Tường Tây",
+    "name_en": "An Tuong Tay",
+    "full_name": "Xã Ân Tường Tây",
+    "full_name_en": "An Tuong Tay Commune",
+    "type": "xã",
+    "district_code": "544",
+    "codename": "an_tuong_tay"
+  },
+  {
+    "code": "21724",
+    "name": "Ân Tường Đông",
+    "name_en": "An Tuong Dong",
+    "full_name": "Xã Ân Tường Đông",
+    "full_name_en": "An Tuong Dong Commune",
+    "type": "xã",
+    "district_code": "544",
+    "codename": "an_tuong_dong"
+  },
+  {
+    "code": "21727",
+    "name": "Ân Nghĩa",
+    "name_en": "An Nghia",
+    "full_name": "Xã Ân Nghĩa",
+    "full_name_en": "An Nghia Commune",
+    "type": "xã",
+    "district_code": "544",
+    "codename": "an_nghia"
+  }
+]

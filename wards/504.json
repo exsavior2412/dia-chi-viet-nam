@@ -1,0 +1,102 @@
+[
+  {
+    "code": "20437",
+    "name": "Ch'ơm",
+    "name_en": "Ch'om",
+    "full_name": "Xã Ch'ơm",
+    "full_name_en": "Ch'om Commune",
+    "type": "xã",
+    "district_code": "504",
+    "codename": "chom"
+  },
+  {
+    "code": "20440",
+    "name": "Ga Ri",
+    "name_en": "Ga Ri",
+    "full_name": "Xã Ga Ri",
+    "full_name_en": "Ga Ri Commune",
+    "type": "xã",
+    "district_code": "504",
+    "codename": "ga_ri"
+  },
+  {
+    "code": "20443",
+    "name": "A Xan",
+    "name_en": "A Xan",
+    "full_name": "Xã A Xan",
+    "full_name_en": "A Xan Commune",
+    "type": "xã",
+    "district_code": "504",
+    "codename": "a_xan"
+  },
+  {
+    "code": "20446",
+    "name": "Tr'Hy",
+    "name_en": "Tr'Hy",
+    "full_name": "Xã Tr'Hy",
+    "full_name_en": "Tr'Hy Commune",
+    "type": "xã",
+    "district_code": "504",
+    "codename": "trhy"
+  },
+  {
+    "code": "20449",
+    "name": "Lăng",
+    "name_en": "Lang",
+    "full_name": "Xã Lăng",
+    "full_name_en": "Lang Commune",
+    "type": "xã",
+    "district_code": "504",
+    "codename": "lang"
+  },
+  {
+    "code": "20452",
+    "name": "A Nông",
+    "name_en": "A Nong",
+    "full_name": "Xã A Nông",
+    "full_name_en": "A Nong Commune",
+    "type": "xã",
+    "district_code": "504",
+    "codename": "a_nong"
+  },
+  {
+    "code": "20455",
+    "name": "A Tiêng",
+    "name_en": "A Tieng",
+    "full_name": "Xã A Tiêng",
+    "full_name_en": "A Tieng Commune",
+    "type": "xã",
+    "district_code": "504",
+    "codename": "a_tieng"
+  },
+  {
+    "code": "20458",
+    "name": "Bha Lê",
+    "name_en": "Bha Le",
+    "full_name": "Xã Bha Lê",
+    "full_name_en": "Bha Le Commune",
+    "type": "xã",
+    "district_code": "504",
+    "codename": "bha_le"
+  },
+  {
+    "code": "20461",
+    "name": "A Vương",
+    "name_en": "A Vuong",
+    "full_name": "Xã A Vương",
+    "full_name_en": "A Vuong Commune",
+    "type": "xã",
+    "district_code": "504",
+    "codename": "a_vuong"
+  },
+  {
+    "code": "20464",
+    "name": "Dang",
+    "name_en": "Dang",
+    "full_name": "Xã Dang",
+    "full_name_en": "Dang Commune",
+    "type": "xã",
+    "district_code": "504",
+    "codename": "dang"
+  }
+]

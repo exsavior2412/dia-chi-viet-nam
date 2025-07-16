@@ -1,0 +1,152 @@
+[
+  {
+    "code": "02200",
+    "name": "Phan Thiết",
+    "name_en": "Phan Thiet",
+    "full_name": "Phường Phan Thiết",
+    "full_name_en": "Phan Thiet Ward",
+    "type": "phường",
+    "district_code": "070",
+    "codename": "phan_thiet"
+  },
+  {
+    "code": "02203",
+    "name": "Minh Xuân",
+    "name_en": "Minh Xuan",
+    "full_name": "Phường Minh Xuân",
+    "full_name_en": "Minh Xuan Ward",
+    "type": "phường",
+    "district_code": "070",
+    "codename": "minh_xuan"
+  },
+  {
+    "code": "02206",
+    "name": "Tân Quang",
+    "name_en": "Tan Quang",
+    "full_name": "Phường Tân Quang",
+    "full_name_en": "Tan Quang Ward",
+    "type": "phường",
+    "district_code": "070",
+    "codename": "tan_quang"
+  },
+  {
+    "code": "02209",
+    "name": "Tràng Đà",
+    "name_en": "Trang Da",
+    "full_name": "Xã Tràng Đà",
+    "full_name_en": "Trang Da Commune",
+    "type": "xã",
+    "district_code": "070",
+    "codename": "trang_da"
+  },
+  {
+    "code": "02212",
+    "name": "Nông Tiến",
+    "name_en": "Nong Tien",
+    "full_name": "Phường Nông Tiến",
+    "full_name_en": "Nong Tien Ward",
+    "type": "phường",
+    "district_code": "070",
+    "codename": "nong_tien"
+  },
+  {
+    "code": "02215",
+    "name": "Ỷ La",
+    "name_en": "Y La",
+    "full_name": "Phường Ỷ La",
+    "full_name_en": "Y La Ward",
+    "type": "phường",
+    "district_code": "070",
+    "codename": "y_la"
+  },
+  {
+    "code": "02216",
+    "name": "Tân Hà",
+    "name_en": "Tan Ha",
+    "full_name": "Phường Tân Hà",
+    "full_name_en": "Tan Ha Ward",
+    "type": "phường",
+    "district_code": "070",
+    "codename": "tan_ha"
+  },
+  {
+    "code": "02218",
+    "name": "Hưng Thành",
+    "name_en": "Hung Thanh",
+    "full_name": "Phường Hưng Thành",
+    "full_name_en": "Hung Thanh Ward",
+    "type": "phường",
+    "district_code": "070",
+    "codename": "hung_thanh"
+  },
+  {
+    "code": "02497",
+    "name": "Kim Phú",
+    "name_en": "Kim Phu",
+    "full_name": "Xã Kim Phú",
+    "full_name_en": "Kim Phu Commune",
+    "type": "xã",
+    "district_code": "070",
+    "codename": "kim_phu"
+  },
+  {
+    "code": "02503",
+    "name": "An Khang",
+    "name_en": "An Khang",
+    "full_name": "Xã An Khang",
+    "full_name_en": "An Khang Commune",
+    "type": "xã",
+    "district_code": "070",
+    "codename": "an_khang"
+  },
+  {
+    "code": "02509",
+    "name": "Mỹ Lâm",
+    "name_en": "My Lam",
+    "full_name": "Phường Mỹ Lâm",
+    "full_name_en": "My Lam Ward",
+    "type": "phường",
+    "district_code": "070",
+    "codename": "my_lam"
+  },
+  {
+    "code": "02512",
+    "name": "An Tường",
+    "name_en": "An Tuong",
+    "full_name": "Phường An Tường",
+    "full_name_en": "An Tuong Ward",
+    "type": "phường",
+    "district_code": "070",
+    "codename": "an_tuong"
+  },
+  {
+    "code": "02515",
+    "name": "Lưỡng Vượng",
+    "name_en": "Luong Vuong",
+    "full_name": "Xã Lưỡng Vượng",
+    "full_name_en": "Luong Vuong Commune",
+    "type": "xã",
+    "district_code": "070",
+    "codename": "luong_vuong"
+  },
+  {
+    "code": "02521",
+    "name": "Thái Long",
+    "name_en": "Thai Long",
+    "full_name": "Xã Thái Long",
+    "full_name_en": "Thai Long Commune",
+    "type": "xã",
+    "district_code": "070",
+    "codename": "thai_long"
+  },
+  {
+    "code": "02524",
+    "name": "Đội Cấn",
+    "name_en": "Doi Can",
+    "full_name": "Phường Đội Cấn",
+    "full_name_en": "Doi Can Ward",
+    "type": "phường",
+    "district_code": "070",
+    "codename": "doi_can"
+  }
+]

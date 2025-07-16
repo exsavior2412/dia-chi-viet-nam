@@ -1,0 +1,72 @@
+[
+  {
+    "code": "25308",
+    "name": "Thanh Bình",
+    "name_en": "Thanh Binh",
+    "full_name": "Thị trấn Thanh Bình",
+    "full_name_en": "Thanh Binh Township",
+    "type": "thị trấn",
+    "district_code": "693",
+    "codename": "thanh_binh"
+  },
+  {
+    "code": "25309",
+    "name": "Hưng Phước",
+    "name_en": "Hung Phuoc",
+    "full_name": "Xã Hưng Phước",
+    "full_name_en": "Hung Phuoc Commune",
+    "type": "xã",
+    "district_code": "693",
+    "codename": "hung_phuoc"
+  },
+  {
+    "code": "25310",
+    "name": "Phước Thiện",
+    "name_en": "Phuoc Thien",
+    "full_name": "Xã Phước Thiện",
+    "full_name_en": "Phuoc Thien Commune",
+    "type": "xã",
+    "district_code": "693",
+    "codename": "phuoc_thien"
+  },
+  {
+    "code": "25312",
+    "name": "Thiện Hưng",
+    "name_en": "Thien Hung",
+    "full_name": "Xã Thiện Hưng",
+    "full_name_en": "Thien Hung Commune",
+    "type": "xã",
+    "district_code": "693",
+    "codename": "thien_hung"
+  },
+  {
+    "code": "25315",
+    "name": "Thanh Hòa",
+    "name_en": "Thanh Hoa",
+    "full_name": "Xã Thanh Hòa",
+    "full_name_en": "Thanh Hoa Commune",
+    "type": "xã",
+    "district_code": "693",
+    "codename": "thanh_hoa"
+  },
+  {
+    "code": "25318",
+    "name": "Tân Thành",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thành",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "693",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "25321",
+    "name": "Tân Tiến",
+    "name_en": "Tan Tien",
+    "full_name": "Xã Tân Tiến",
+    "full_name_en": "Tan Tien Commune",
+    "type": "xã",
+    "district_code": "693",
+    "codename": "tan_tien"
+  }
+]

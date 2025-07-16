@@ -1,0 +1,172 @@
+[
+  {
+    "code": "08545",
+    "name": "Thu Cúc",
+    "name_en": "Thu Cuc",
+    "full_name": "Xã Thu Cúc",
+    "full_name_en": "Thu Cuc Commune",
+    "type": "xã",
+    "district_code": "240",
+    "codename": "thu_cuc"
+  },
+  {
+    "code": "08548",
+    "name": "Thạch Kiệt",
+    "name_en": "Thach Kiet",
+    "full_name": "Xã Thạch Kiệt",
+    "full_name_en": "Thach Kiet Commune",
+    "type": "xã",
+    "district_code": "240",
+    "codename": "thach_kiet"
+  },
+  {
+    "code": "08551",
+    "name": "Thu Ngạc",
+    "name_en": "Thu Ngac",
+    "full_name": "Xã Thu Ngạc",
+    "full_name_en": "Thu Ngac Commune",
+    "type": "xã",
+    "district_code": "240",
+    "codename": "thu_ngac"
+  },
+  {
+    "code": "08554",
+    "name": "Kiệt Sơn",
+    "name_en": "Kiet Son",
+    "full_name": "Xã Kiệt Sơn",
+    "full_name_en": "Kiet Son Commune",
+    "type": "xã",
+    "district_code": "240",
+    "codename": "kiet_son"
+  },
+  {
+    "code": "08557",
+    "name": "Đồng Sơn",
+    "name_en": "Dong Son",
+    "full_name": "Xã Đồng Sơn",
+    "full_name_en": "Dong Son Commune",
+    "type": "xã",
+    "district_code": "240",
+    "codename": "dong_son"
+  },
+  {
+    "code": "08560",
+    "name": "Lai Đồng",
+    "name_en": "Lai Dong",
+    "full_name": "Xã Lai Đồng",
+    "full_name_en": "Lai Dong Commune",
+    "type": "xã",
+    "district_code": "240",
+    "codename": "lai_dong"
+  },
+  {
+    "code": "08566",
+    "name": "Tân Phú",
+    "name_en": "Tan Phu",
+    "full_name": "Thị trấn Tân Phú",
+    "full_name_en": "Tan Phu Township",
+    "type": "thị trấn",
+    "district_code": "240",
+    "codename": "tan_phu"
+  },
+  {
+    "code": "08569",
+    "name": "Mỹ Thuận",
+    "name_en": "My Thuan",
+    "full_name": "Xã Mỹ Thuận",
+    "full_name_en": "My Thuan Commune",
+    "type": "xã",
+    "district_code": "240",
+    "codename": "my_thuan"
+  },
+  {
+    "code": "08578",
+    "name": "Tân Sơn",
+    "name_en": "Tan Son",
+    "full_name": "Xã Tân Sơn",
+    "full_name_en": "Tan Son Commune",
+    "type": "xã",
+    "district_code": "240",
+    "codename": "tan_son"
+  },
+  {
+    "code": "08590",
+    "name": "Xuân Đài",
+    "name_en": "Xuan Dai",
+    "full_name": "Xã Xuân Đài",
+    "full_name_en": "Xuan Dai Commune",
+    "type": "xã",
+    "district_code": "240",
+    "codename": "xuan_dai"
+  },
+  {
+    "code": "08593",
+    "name": "Minh Đài",
+    "name_en": "Minh Dai",
+    "full_name": "Xã Minh Đài",
+    "full_name_en": "Minh Dai Commune",
+    "type": "xã",
+    "district_code": "240",
+    "codename": "minh_dai"
+  },
+  {
+    "code": "08596",
+    "name": "Văn Luông",
+    "name_en": "Van Luong",
+    "full_name": "Xã Văn Luông",
+    "full_name_en": "Van Luong Commune",
+    "type": "xã",
+    "district_code": "240",
+    "codename": "van_luong"
+  },
+  {
+    "code": "08599",
+    "name": "Xuân Sơn",
+    "name_en": "Xuan Son",
+    "full_name": "Xã Xuân Sơn",
+    "full_name_en": "Xuan Son Commune",
+    "type": "xã",
+    "district_code": "240",
+    "codename": "xuan_son"
+  },
+  {
+    "code": "08608",
+    "name": "Long Cốc",
+    "name_en": "Long Coc",
+    "full_name": "Xã Long Cốc",
+    "full_name_en": "Long Coc Commune",
+    "type": "xã",
+    "district_code": "240",
+    "codename": "long_coc"
+  },
+  {
+    "code": "08617",
+    "name": "Kim Thượng",
+    "name_en": "Kim Thuong",
+    "full_name": "Xã Kim Thượng",
+    "full_name_en": "Kim Thuong Commune",
+    "type": "xã",
+    "district_code": "240",
+    "codename": "kim_thuong"
+  },
+  {
+    "code": "08620",
+    "name": "Tam Thanh",
+    "name_en": "Tam Thanh",
+    "full_name": "Xã Tam Thanh",
+    "full_name_en": "Tam Thanh Commune",
+    "type": "xã",
+    "district_code": "240",
+    "codename": "tam_thanh"
+  },
+  {
+    "code": "08626",
+    "name": "Vinh Tiền",
+    "name_en": "Vinh Tien",
+    "full_name": "Xã Vinh Tiền",
+    "full_name_en": "Vinh Tien Commune",
+    "type": "xã",
+    "district_code": "240",
+    "codename": "vinh_tien"
+  }
+]

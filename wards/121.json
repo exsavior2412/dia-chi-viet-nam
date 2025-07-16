@@ -1,0 +1,162 @@
+[
+  {
+    "code": "03856",
+    "name": "Bắc Yên",
+    "name_en": "Bac Yen",
+    "full_name": "Thị trấn Bắc Yên",
+    "full_name_en": "Bac Yen Township",
+    "type": "thị trấn",
+    "district_code": "121",
+    "codename": "bac_yen"
+  },
+  {
+    "code": "03859",
+    "name": "Phiêng Ban",
+    "name_en": "Phieng Ban",
+    "full_name": "Xã Phiêng Ban",
+    "full_name_en": "Phieng Ban Commune",
+    "type": "xã",
+    "district_code": "121",
+    "codename": "phieng_ban"
+  },
+  {
+    "code": "03862",
+    "name": "Hang Chú",
+    "name_en": "Hang Chu",
+    "full_name": "Xã Hang Chú",
+    "full_name_en": "Hang Chu Commune",
+    "type": "xã",
+    "district_code": "121",
+    "codename": "hang_chu"
+  },
+  {
+    "code": "03865",
+    "name": "Xím Vàng",
+    "name_en": "Xim Vang",
+    "full_name": "Xã Xím Vàng",
+    "full_name_en": "Xim Vang Commune",
+    "type": "xã",
+    "district_code": "121",
+    "codename": "xim_vang"
+  },
+  {
+    "code": "03868",
+    "name": "Tà Xùa",
+    "name_en": "Ta Xua",
+    "full_name": "Xã Tà Xùa",
+    "full_name_en": "Ta Xua Commune",
+    "type": "xã",
+    "district_code": "121",
+    "codename": "ta_xua"
+  },
+  {
+    "code": "03869",
+    "name": "Háng Đồng",
+    "name_en": "Hang Dong",
+    "full_name": "Xã Háng Đồng",
+    "full_name_en": "Hang Dong Commune",
+    "type": "xã",
+    "district_code": "121",
+    "codename": "hang_dong"
+  },
+  {
+    "code": "03871",
+    "name": "Pắc Ngà",
+    "name_en": "Pac Nga",
+    "full_name": "Xã Pắc Ngà",
+    "full_name_en": "Pac Nga Commune",
+    "type": "xã",
+    "district_code": "121",
+    "codename": "pac_nga"
+  },
+  {
+    "code": "03874",
+    "name": "Làng Chếu",
+    "name_en": "Lang Cheu",
+    "full_name": "Xã Làng Chếu",
+    "full_name_en": "Lang Cheu Commune",
+    "type": "xã",
+    "district_code": "121",
+    "codename": "lang_cheu"
+  },
+  {
+    "code": "03877",
+    "name": "Chim Vàn",
+    "name_en": "Chim Van",
+    "full_name": "Xã Chim Vàn",
+    "full_name_en": "Chim Van Commune",
+    "type": "xã",
+    "district_code": "121",
+    "codename": "chim_van"
+  },
+  {
+    "code": "03880",
+    "name": "Mường Khoa",
+    "name_en": "Muong Khoa",
+    "full_name": "Xã Mường Khoa",
+    "full_name_en": "Muong Khoa Commune",
+    "type": "xã",
+    "district_code": "121",
+    "codename": "muong_khoa"
+  },
+  {
+    "code": "03883",
+    "name": "Song Pe",
+    "name_en": "Song Pe",
+    "full_name": "Xã Song Pe",
+    "full_name_en": "Song Pe Commune",
+    "type": "xã",
+    "district_code": "121",
+    "codename": "song_pe"
+  },
+  {
+    "code": "03886",
+    "name": "Hồng Ngài",
+    "name_en": "Hong Ngai",
+    "full_name": "Xã Hồng Ngài",
+    "full_name_en": "Hong Ngai Commune",
+    "type": "xã",
+    "district_code": "121",
+    "codename": "hong_ngai"
+  },
+  {
+    "code": "03889",
+    "name": "Tạ Khoa",
+    "name_en": "Ta Khoa",
+    "full_name": "Xã Tạ Khoa",
+    "full_name_en": "Ta Khoa Commune",
+    "type": "xã",
+    "district_code": "121",
+    "codename": "ta_khoa"
+  },
+  {
+    "code": "03890",
+    "name": "Hua Nhàn",
+    "name_en": "Hua Nhan",
+    "full_name": "Xã Hua Nhàn",
+    "full_name_en": "Hua Nhan Commune",
+    "type": "xã",
+    "district_code": "121",
+    "codename": "hua_nhan"
+  },
+  {
+    "code": "03892",
+    "name": "Phiêng Côn",
+    "name_en": "Phieng Con",
+    "full_name": "Xã Phiêng Côn",
+    "full_name_en": "Phieng Con Commune",
+    "type": "xã",
+    "district_code": "121",
+    "codename": "phieng_con"
+  },
+  {
+    "code": "03895",
+    "name": "Chiềng Sại",
+    "name_en": "Chieng Sai",
+    "full_name": "Xã Chiềng Sại",
+    "full_name_en": "Chieng Sai Commune",
+    "type": "xã",
+    "district_code": "121",
+    "codename": "chieng_sai"
+  }
+]

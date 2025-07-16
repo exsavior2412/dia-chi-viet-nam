@@ -1,0 +1,72 @@
+[
+  {
+    "code": "31153",
+    "name": "Châu Văn Liêm",
+    "name_en": "Chau Van Liem",
+    "full_name": "Phường Châu Văn Liêm",
+    "full_name_en": "Chau Van Liem Ward",
+    "type": "phường",
+    "district_code": "917",
+    "codename": "chau_van_liem"
+  },
+  {
+    "code": "31154",
+    "name": "Thới Hòa",
+    "name_en": "Thoi Hoa",
+    "full_name": "Phường Thới Hòa",
+    "full_name_en": "Thoi Hoa Ward",
+    "type": "phường",
+    "district_code": "917",
+    "codename": "thoi_hoa"
+  },
+  {
+    "code": "31156",
+    "name": "Thới Long",
+    "name_en": "Thoi Long",
+    "full_name": "Phường Thới Long",
+    "full_name_en": "Thoi Long Ward",
+    "type": "phường",
+    "district_code": "917",
+    "codename": "thoi_long"
+  },
+  {
+    "code": "31157",
+    "name": "Long Hưng",
+    "name_en": "Long Hung",
+    "full_name": "Phường Long Hưng",
+    "full_name_en": "Long Hung Ward",
+    "type": "phường",
+    "district_code": "917",
+    "codename": "long_hung"
+  },
+  {
+    "code": "31159",
+    "name": "Thới An",
+    "name_en": "Thoi An",
+    "full_name": "Phường Thới An",
+    "full_name_en": "Thoi An Ward",
+    "type": "phường",
+    "district_code": "917",
+    "codename": "thoi_an"
+  },
+  {
+    "code": "31162",
+    "name": "Phước Thới",
+    "name_en": "Phuoc Thoi",
+    "full_name": "Phường Phước Thới",
+    "full_name_en": "Phuoc Thoi Ward",
+    "type": "phường",
+    "district_code": "917",
+    "codename": "phuoc_thoi"
+  },
+  {
+    "code": "31165",
+    "name": "Trường Lạc",
+    "name_en": "Truong Lac",
+    "full_name": "Phường Trường Lạc",
+    "full_name_en": "Truong Lac Ward",
+    "type": "phường",
+    "district_code": "917",
+    "codename": "truong_lac"
+  }
+]

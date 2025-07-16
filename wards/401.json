@@ -1,0 +1,232 @@
+[
+  {
+    "code": "16093",
+    "name": "Nga Sơn",
+    "name_en": "Nga Son",
+    "full_name": "Thị trấn Nga Sơn",
+    "full_name_en": "Nga Son Township",
+    "type": "thị trấn",
+    "district_code": "401",
+    "codename": "nga_son"
+  },
+  {
+    "code": "16096",
+    "name": "Ba Đình",
+    "name_en": "Ba Dinh",
+    "full_name": "Xã Ba Đình",
+    "full_name_en": "Ba Dinh Commune",
+    "type": "xã",
+    "district_code": "401",
+    "codename": "ba_dinh"
+  },
+  {
+    "code": "16099",
+    "name": "Nga Vịnh",
+    "name_en": "Nga Vinh",
+    "full_name": "Xã Nga Vịnh",
+    "full_name_en": "Nga Vinh Commune",
+    "type": "xã",
+    "district_code": "401",
+    "codename": "nga_vinh"
+  },
+  {
+    "code": "16102",
+    "name": "Nga Văn",
+    "name_en": "Nga Van",
+    "full_name": "Xã Nga Văn",
+    "full_name_en": "Nga Van Commune",
+    "type": "xã",
+    "district_code": "401",
+    "codename": "nga_van"
+  },
+  {
+    "code": "16105",
+    "name": "Nga Thiện",
+    "name_en": "Nga Thien",
+    "full_name": "Xã Nga Thiện",
+    "full_name_en": "Nga Thien Commune",
+    "type": "xã",
+    "district_code": "401",
+    "codename": "nga_thien"
+  },
+  {
+    "code": "16108",
+    "name": "Nga Tiến",
+    "name_en": "Nga Tien",
+    "full_name": "Xã Nga Tiến",
+    "full_name_en": "Nga Tien Commune",
+    "type": "xã",
+    "district_code": "401",
+    "codename": "nga_tien"
+  },
+  {
+    "code": "16114",
+    "name": "Nga Phượng",
+    "name_en": "Nga Phuong",
+    "full_name": "Xã Nga Phượng",
+    "full_name_en": "Nga Phuong Commune",
+    "type": "xã",
+    "district_code": "401",
+    "codename": "nga_phuong"
+  },
+  {
+    "code": "16120",
+    "name": "Nga Hiệp",
+    "name_en": "Nga Hiep",
+    "full_name": "Xã Nga Hiệp",
+    "full_name_en": "Nga Hiep Commune",
+    "type": "xã",
+    "district_code": "401",
+    "codename": "nga_hiep"
+  },
+  {
+    "code": "16123",
+    "name": "Nga Thanh",
+    "name_en": "Nga Thanh",
+    "full_name": "Xã Nga Thanh",
+    "full_name_en": "Nga Thanh Commune",
+    "type": "xã",
+    "district_code": "401",
+    "codename": "nga_thanh"
+  },
+  {
+    "code": "16132",
+    "name": "Nga Yên",
+    "name_en": "Nga Yen",
+    "full_name": "Xã Nga Yên",
+    "full_name_en": "Nga Yen Commune",
+    "type": "xã",
+    "district_code": "401",
+    "codename": "nga_yen"
+  },
+  {
+    "code": "16135",
+    "name": "Nga Giáp",
+    "name_en": "Nga Giap",
+    "full_name": "Xã Nga Giáp",
+    "full_name_en": "Nga Giap Commune",
+    "type": "xã",
+    "district_code": "401",
+    "codename": "nga_giap"
+  },
+  {
+    "code": "16138",
+    "name": "Nga Hải",
+    "name_en": "Nga Hai",
+    "full_name": "Xã Nga Hải",
+    "full_name_en": "Nga Hai Commune",
+    "type": "xã",
+    "district_code": "401",
+    "codename": "nga_hai"
+  },
+  {
+    "code": "16141",
+    "name": "Nga Thành",
+    "name_en": "Nga Thanh",
+    "full_name": "Xã Nga Thành",
+    "full_name_en": "Nga Thanh Commune",
+    "type": "xã",
+    "district_code": "401",
+    "codename": "nga_thanh"
+  },
+  {
+    "code": "16144",
+    "name": "Nga An",
+    "name_en": "Nga An",
+    "full_name": "Xã Nga An",
+    "full_name_en": "Nga An Commune",
+    "type": "xã",
+    "district_code": "401",
+    "codename": "nga_an"
+  },
+  {
+    "code": "16147",
+    "name": "Nga Phú",
+    "name_en": "Nga Phu",
+    "full_name": "Xã Nga Phú",
+    "full_name_en": "Nga Phu Commune",
+    "type": "xã",
+    "district_code": "401",
+    "codename": "nga_phu"
+  },
+  {
+    "code": "16150",
+    "name": "Nga Điền",
+    "name_en": "Nga Dien",
+    "full_name": "Xã Nga Điền",
+    "full_name_en": "Nga Dien Commune",
+    "type": "xã",
+    "district_code": "401",
+    "codename": "nga_dien"
+  },
+  {
+    "code": "16153",
+    "name": "Nga Tân",
+    "name_en": "Nga Tan",
+    "full_name": "Xã Nga Tân",
+    "full_name_en": "Nga Tan Commune",
+    "type": "xã",
+    "district_code": "401",
+    "codename": "nga_tan"
+  },
+  {
+    "code": "16156",
+    "name": "Nga Thủy",
+    "name_en": "Nga Thuy",
+    "full_name": "Xã Nga Thủy",
+    "full_name_en": "Nga Thuy Commune",
+    "type": "xã",
+    "district_code": "401",
+    "codename": "nga_thuy"
+  },
+  {
+    "code": "16159",
+    "name": "Nga Liên",
+    "name_en": "Nga Lien",
+    "full_name": "Xã Nga Liên",
+    "full_name_en": "Nga Lien Commune",
+    "type": "xã",
+    "district_code": "401",
+    "codename": "nga_lien"
+  },
+  {
+    "code": "16162",
+    "name": "Nga Thái",
+    "name_en": "Nga Thai",
+    "full_name": "Xã Nga Thái",
+    "full_name_en": "Nga Thai Commune",
+    "type": "xã",
+    "district_code": "401",
+    "codename": "nga_thai"
+  },
+  {
+    "code": "16165",
+    "name": "Nga Thạch",
+    "name_en": "Nga Thach",
+    "full_name": "Xã Nga Thạch",
+    "full_name_en": "Nga Thach Commune",
+    "type": "xã",
+    "district_code": "401",
+    "codename": "nga_thach"
+  },
+  {
+    "code": "16168",
+    "name": "Nga Thắng",
+    "name_en": "Nga Thang",
+    "full_name": "Xã Nga Thắng",
+    "full_name_en": "Nga Thang Commune",
+    "type": "xã",
+    "district_code": "401",
+    "codename": "nga_thang"
+  },
+  {
+    "code": "16171",
+    "name": "Nga Trường",
+    "name_en": "Nga Truong",
+    "full_name": "Xã Nga Trường",
+    "full_name_en": "Nga Truong Commune",
+    "type": "xã",
+    "district_code": "401",
+    "codename": "nga_truong"
+  }
+]

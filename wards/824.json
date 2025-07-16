@@ -1,0 +1,132 @@
+[
+  {
+    "code": "28702",
+    "name": "Tân Hòa",
+    "name_en": "Tan Hoa",
+    "full_name": "Thị trấn Tân Hòa",
+    "full_name_en": "Tan Hoa Township",
+    "type": "thị trấn",
+    "district_code": "824",
+    "codename": "tan_hoa"
+  },
+  {
+    "code": "28705",
+    "name": "Tăng Hoà",
+    "name_en": "Tang Hoa",
+    "full_name": "Xã Tăng Hoà",
+    "full_name_en": "Tang Hoa Commune",
+    "type": "xã",
+    "district_code": "824",
+    "codename": "tang_hoa"
+  },
+  {
+    "code": "28711",
+    "name": "Tân Phước",
+    "name_en": "Tan Phuoc",
+    "full_name": "Xã Tân Phước",
+    "full_name_en": "Tan Phuoc Commune",
+    "type": "xã",
+    "district_code": "824",
+    "codename": "tan_phuoc"
+  },
+  {
+    "code": "28714",
+    "name": "Gia Thuận",
+    "name_en": "Gia Thuan",
+    "full_name": "Xã Gia Thuận",
+    "full_name_en": "Gia Thuan Commune",
+    "type": "xã",
+    "district_code": "824",
+    "codename": "gia_thuan"
+  },
+  {
+    "code": "28720",
+    "name": "Vàm Láng",
+    "name_en": "Vam Lang",
+    "full_name": "Thị trấn Vàm Láng",
+    "full_name_en": "Vam Lang Township",
+    "type": "thị trấn",
+    "district_code": "824",
+    "codename": "vam_lang"
+  },
+  {
+    "code": "28723",
+    "name": "Tân Tây",
+    "name_en": "Tan Tay",
+    "full_name": "Xã Tân Tây",
+    "full_name_en": "Tan Tay Commune",
+    "type": "xã",
+    "district_code": "824",
+    "codename": "tan_tay"
+  },
+  {
+    "code": "28726",
+    "name": "Kiểng Phước",
+    "name_en": "Kieng Phuoc",
+    "full_name": "Xã Kiểng Phước",
+    "full_name_en": "Kieng Phuoc Commune",
+    "type": "xã",
+    "district_code": "824",
+    "codename": "kieng_phuoc"
+  },
+  {
+    "code": "28732",
+    "name": "Tân Đông",
+    "name_en": "Tan Dong",
+    "full_name": "Xã Tân Đông",
+    "full_name_en": "Tan Dong Commune",
+    "type": "xã",
+    "district_code": "824",
+    "codename": "tan_dong"
+  },
+  {
+    "code": "28735",
+    "name": "Bình Ân",
+    "name_en": "Binh An",
+    "full_name": "Xã Bình Ân",
+    "full_name_en": "Binh An Commune",
+    "type": "xã",
+    "district_code": "824",
+    "codename": "binh_an"
+  },
+  {
+    "code": "28738",
+    "name": "Tân Điền",
+    "name_en": "Tan Dien",
+    "full_name": "Xã Tân Điền",
+    "full_name_en": "Tan Dien Commune",
+    "type": "xã",
+    "district_code": "824",
+    "codename": "tan_dien"
+  },
+  {
+    "code": "28741",
+    "name": "Bình Nghị",
+    "name_en": "Binh Nghi",
+    "full_name": "Xã Bình Nghị",
+    "full_name_en": "Binh Nghi Commune",
+    "type": "xã",
+    "district_code": "824",
+    "codename": "binh_nghi"
+  },
+  {
+    "code": "28744",
+    "name": "Phước Trung",
+    "name_en": "Phuoc Trung",
+    "full_name": "Xã Phước Trung",
+    "full_name_en": "Phuoc Trung Commune",
+    "type": "xã",
+    "district_code": "824",
+    "codename": "phuoc_trung"
+  },
+  {
+    "code": "28747",
+    "name": "Tân Thành",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thành",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "824",
+    "codename": "tan_thanh"
+  }
+]

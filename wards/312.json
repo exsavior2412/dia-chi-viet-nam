@@ -1,0 +1,102 @@
+[
+  {
+    "code": "11581",
+    "name": "Lê Lợi",
+    "name_en": "Le Loi",
+    "full_name": "Phường Lê Lợi",
+    "full_name_en": "Le Loi Ward",
+    "type": "phường",
+    "district_code": "312",
+    "codename": "le_loi"
+  },
+  {
+    "code": "11584",
+    "name": "Lê Thiện",
+    "name_en": "Le Thien",
+    "full_name": "Phường Lê Thiện",
+    "full_name_en": "Le Thien Ward",
+    "type": "phường",
+    "district_code": "312",
+    "codename": "le_thien"
+  },
+  {
+    "code": "11590",
+    "name": "An Hoà",
+    "name_en": "An Hoa",
+    "full_name": "Phường An Hoà",
+    "full_name_en": "An Hoa Ward",
+    "type": "phường",
+    "district_code": "312",
+    "codename": "an_hoa"
+  },
+  {
+    "code": "11593",
+    "name": "Hồng Phong",
+    "name_en": "Hong Phong",
+    "full_name": "Phường Hồng Phong",
+    "full_name_en": "Hong Phong Ward",
+    "type": "phường",
+    "district_code": "312",
+    "codename": "hong_phong"
+  },
+  {
+    "code": "11596",
+    "name": "Tân Tiến",
+    "name_en": "Tan Tien",
+    "full_name": "Phường Tân Tiến",
+    "full_name_en": "Tan Tien Ward",
+    "type": "phường",
+    "district_code": "312",
+    "codename": "tan_tien"
+  },
+  {
+    "code": "11608",
+    "name": "Nam Sơn",
+    "name_en": "Nam Son",
+    "full_name": "Phường Nam Sơn",
+    "full_name_en": "Nam Son Ward",
+    "type": "phường",
+    "district_code": "312",
+    "codename": "nam_son"
+  },
+  {
+    "code": "11614",
+    "name": "An Hải",
+    "name_en": "An Hai",
+    "full_name": "Phường An Hải",
+    "full_name_en": "An Hai Ward",
+    "type": "phường",
+    "district_code": "312",
+    "codename": "an_hai"
+  },
+  {
+    "code": "11617",
+    "name": "Đồng Thái",
+    "name_en": "Dong Thai",
+    "full_name": "Phường Đồng Thái",
+    "full_name_en": "Dong Thai Ward",
+    "type": "phường",
+    "district_code": "312",
+    "codename": "dong_thai"
+  },
+  {
+    "code": "11623",
+    "name": "An Đồng",
+    "name_en": "An Dong",
+    "full_name": "Phường An Đồng",
+    "full_name_en": "An Dong Ward",
+    "type": "phường",
+    "district_code": "312",
+    "codename": "an_dong"
+  },
+  {
+    "code": "11626",
+    "name": "Hồng Thái",
+    "name_en": "Hong Thai",
+    "full_name": "Phường Hồng Thái",
+    "full_name_en": "Hong Thai Ward",
+    "type": "phường",
+    "district_code": "312",
+    "codename": "hong_thai"
+  }
+]

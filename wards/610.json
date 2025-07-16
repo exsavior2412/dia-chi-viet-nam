@@ -1,0 +1,122 @@
+[
+  {
+    "code": "23341",
+    "name": "Đắk Glei",
+    "name_en": "Dak Glei",
+    "full_name": "Thị trấn Đắk Glei",
+    "full_name_en": "Dak Glei Township",
+    "type": "thị trấn",
+    "district_code": "610",
+    "codename": "dak_glei"
+  },
+  {
+    "code": "23344",
+    "name": "Đắk Blô",
+    "name_en": "Dak Blo",
+    "full_name": "Xã Đắk Blô",
+    "full_name_en": "Dak Blo Commune",
+    "type": "xã",
+    "district_code": "610",
+    "codename": "dak_blo"
+  },
+  {
+    "code": "23347",
+    "name": "Đắk Man",
+    "name_en": "Dak Man",
+    "full_name": "Xã Đắk Man",
+    "full_name_en": "Dak Man Commune",
+    "type": "xã",
+    "district_code": "610",
+    "codename": "dak_man"
+  },
+  {
+    "code": "23350",
+    "name": "Đắk Nhoong",
+    "name_en": "Dak Nhoong",
+    "full_name": "Xã Đắk Nhoong",
+    "full_name_en": "Dak Nhoong Commune",
+    "type": "xã",
+    "district_code": "610",
+    "codename": "dak_nhoong"
+  },
+  {
+    "code": "23353",
+    "name": "Đắk Pék",
+    "name_en": "Dak Pek",
+    "full_name": "Xã Đắk Pék",
+    "full_name_en": "Dak Pek Commune",
+    "type": "xã",
+    "district_code": "610",
+    "codename": "dak_pek"
+  },
+  {
+    "code": "23356",
+    "name": "Đắk Choong",
+    "name_en": "Dak Choong",
+    "full_name": "Xã Đắk Choong",
+    "full_name_en": "Dak Choong Commune",
+    "type": "xã",
+    "district_code": "610",
+    "codename": "dak_choong"
+  },
+  {
+    "code": "23359",
+    "name": "Xốp",
+    "name_en": "Xop",
+    "full_name": "Xã Xốp",
+    "full_name_en": "Xop Commune",
+    "type": "xã",
+    "district_code": "610",
+    "codename": "xop"
+  },
+  {
+    "code": "23362",
+    "name": "Mường Hoong",
+    "name_en": "Muong Hoong",
+    "full_name": "Xã Mường Hoong",
+    "full_name_en": "Muong Hoong Commune",
+    "type": "xã",
+    "district_code": "610",
+    "codename": "muong_hoong"
+  },
+  {
+    "code": "23365",
+    "name": "Ngọc Linh",
+    "name_en": "Ngoc Linh",
+    "full_name": "Xã Ngọc Linh",
+    "full_name_en": "Ngoc Linh Commune",
+    "type": "xã",
+    "district_code": "610",
+    "codename": "ngoc_linh"
+  },
+  {
+    "code": "23368",
+    "name": "Đắk Long",
+    "name_en": "Dak Long",
+    "full_name": "Xã Đắk Long",
+    "full_name_en": "Dak Long Commune",
+    "type": "xã",
+    "district_code": "610",
+    "codename": "dak_long"
+  },
+  {
+    "code": "23371",
+    "name": "Đắk KRoong",
+    "name_en": "Dak KRoong",
+    "full_name": "Xã Đắk KRoong",
+    "full_name_en": "Dak KRoong Commune",
+    "type": "xã",
+    "district_code": "610",
+    "codename": "dak_kroong"
+  },
+  {
+    "code": "23374",
+    "name": "Đắk Môn",
+    "name_en": "Dak Mon",
+    "full_name": "Xã Đắk Môn",
+    "full_name_en": "Dak Mon Commune",
+    "type": "xã",
+    "district_code": "610",
+    "codename": "dak_mon"
+  }
+]

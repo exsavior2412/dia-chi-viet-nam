@@ -1,0 +1,152 @@
+[
+  {
+    "code": "22114",
+    "name": "Chí Thạnh",
+    "name_en": "Chi Thanh",
+    "full_name": "Thị trấn Chí Thạnh",
+    "full_name_en": "Chi Thanh Township",
+    "type": "thị trấn",
+    "district_code": "559",
+    "codename": "chi_thanh"
+  },
+  {
+    "code": "22117",
+    "name": "An Dân",
+    "name_en": "An Dan",
+    "full_name": "Xã An Dân",
+    "full_name_en": "An Dan Commune",
+    "type": "xã",
+    "district_code": "559",
+    "codename": "an_dan"
+  },
+  {
+    "code": "22120",
+    "name": "An Ninh Tây",
+    "name_en": "An Ninh Tay",
+    "full_name": "Xã An Ninh Tây",
+    "full_name_en": "An Ninh Tay Commune",
+    "type": "xã",
+    "district_code": "559",
+    "codename": "an_ninh_tay"
+  },
+  {
+    "code": "22123",
+    "name": "An Ninh Đông",
+    "name_en": "An Ninh Dong",
+    "full_name": "Xã An Ninh Đông",
+    "full_name_en": "An Ninh Dong Commune",
+    "type": "xã",
+    "district_code": "559",
+    "codename": "an_ninh_dong"
+  },
+  {
+    "code": "22126",
+    "name": "An Thạch",
+    "name_en": "An Thach",
+    "full_name": "Xã An Thạch",
+    "full_name_en": "An Thach Commune",
+    "type": "xã",
+    "district_code": "559",
+    "codename": "an_thach"
+  },
+  {
+    "code": "22129",
+    "name": "An Định",
+    "name_en": "An Dinh",
+    "full_name": "Xã An Định",
+    "full_name_en": "An Dinh Commune",
+    "type": "xã",
+    "district_code": "559",
+    "codename": "an_dinh"
+  },
+  {
+    "code": "22132",
+    "name": "An Nghiệp",
+    "name_en": "An Nghiep",
+    "full_name": "Xã An Nghiệp",
+    "full_name_en": "An Nghiep Commune",
+    "type": "xã",
+    "district_code": "559",
+    "codename": "an_nghiep"
+  },
+  {
+    "code": "22138",
+    "name": "An Cư",
+    "name_en": "An Cu",
+    "full_name": "Xã An Cư",
+    "full_name_en": "An Cu Commune",
+    "type": "xã",
+    "district_code": "559",
+    "codename": "an_cu"
+  },
+  {
+    "code": "22141",
+    "name": "An Xuân",
+    "name_en": "An Xuan",
+    "full_name": "Xã An Xuân",
+    "full_name_en": "An Xuan Commune",
+    "type": "xã",
+    "district_code": "559",
+    "codename": "an_xuan"
+  },
+  {
+    "code": "22144",
+    "name": "An Lĩnh",
+    "name_en": "An Linh",
+    "full_name": "Xã An Lĩnh",
+    "full_name_en": "An Linh Commune",
+    "type": "xã",
+    "district_code": "559",
+    "codename": "an_linh"
+  },
+  {
+    "code": "22147",
+    "name": "An Hòa Hải",
+    "name_en": "An Hoa Hai",
+    "full_name": "Xã An Hòa Hải",
+    "full_name_en": "An Hoa Hai Commune",
+    "type": "xã",
+    "district_code": "559",
+    "codename": "an_hoa_hai"
+  },
+  {
+    "code": "22150",
+    "name": "An Hiệp",
+    "name_en": "An Hiep",
+    "full_name": "Xã An Hiệp",
+    "full_name_en": "An Hiep Commune",
+    "type": "xã",
+    "district_code": "559",
+    "codename": "an_hiep"
+  },
+  {
+    "code": "22153",
+    "name": "An Mỹ",
+    "name_en": "An My",
+    "full_name": "Xã An Mỹ",
+    "full_name_en": "An My Commune",
+    "type": "xã",
+    "district_code": "559",
+    "codename": "an_my"
+  },
+  {
+    "code": "22156",
+    "name": "An Chấn",
+    "name_en": "An Chan",
+    "full_name": "Xã An Chấn",
+    "full_name_en": "An Chan Commune",
+    "type": "xã",
+    "district_code": "559",
+    "codename": "an_chan"
+  },
+  {
+    "code": "22159",
+    "name": "An Thọ",
+    "name_en": "An Tho",
+    "full_name": "Xã An Thọ",
+    "full_name_en": "An Tho Commune",
+    "type": "xã",
+    "district_code": "559",
+    "codename": "an_tho"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "code": "132",
+    "name": "Yên Bái",
+    "name_en": "Yen Bai",
+    "full_name": "Thành phố Yên Bái",
+    "full_name_en": "Yen Bai City",
+    "type": "thành phố",
+    "province_code": "15",
+    "codename": "yen_bai"
+  },
+  {
+    "code": "133",
+    "name": "Nghĩa Lộ",
+    "name_en": "Nghia Lo",
+    "full_name": "Thị xã Nghĩa Lộ",
+    "full_name_en": "Nghia Lo Town",
+    "type": "thị xã",
+    "province_code": "15",
+    "codename": "nghia_lo"
+  },
+  {
+    "code": "135",
+    "name": "Lục Yên",
+    "name_en": "Luc Yen",
+    "full_name": "Huyện Lục Yên",
+    "full_name_en": "Luc Yen District",
+    "type": "huyện",
+    "province_code": "15",
+    "codename": "luc_yen"
+  },
+  {
+    "code": "136",
+    "name": "Văn Yên",
+    "name_en": "Van Yen",
+    "full_name": "Huyện Văn Yên",
+    "full_name_en": "Van Yen District",
+    "type": "huyện",
+    "province_code": "15",
+    "codename": "van_yen"
+  },
+  {
+    "code": "137",
+    "name": "Mù Căng Chải",
+    "name_en": "Mu Cang Chai",
+    "full_name": "Huyện Mù Căng Chải",
+    "full_name_en": "Mu Cang Chai District",
+    "type": "huyện",
+    "province_code": "15",
+    "codename": "mu_cang_chai"
+  },
+  {
+    "code": "138",
+    "name": "Trấn Yên",
+    "name_en": "Tran Yen",
+    "full_name": "Huyện Trấn Yên",
+    "full_name_en": "Tran Yen District",
+    "type": "huyện",
+    "province_code": "15",
+    "codename": "tran_yen"
+  },
+  {
+    "code": "139",
+    "name": "Trạm Tấu",
+    "name_en": "Tram Tau",
+    "full_name": "Huyện Trạm Tấu",
+    "full_name_en": "Tram Tau District",
+    "type": "huyện",
+    "province_code": "15",
+    "codename": "tram_tau"
+  },
+  {
+    "code": "140",
+    "name": "Văn Chấn",
+    "name_en": "Van Chan",
+    "full_name": "Huyện Văn Chấn",
+    "full_name_en": "Van Chan District",
+    "type": "huyện",
+    "province_code": "15",
+    "codename": "van_chan"
+  },
+  {
+    "code": "141",
+    "name": "Yên Bình",
+    "name_en": "Yen Binh",
+    "full_name": "Huyện Yên Bình",
+    "full_name_en": "Yen Binh District",
+    "type": "huyện",
+    "province_code": "15",
+    "codename": "yen_binh"
+  }
+]

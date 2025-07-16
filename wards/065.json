@@ -1,0 +1,142 @@
+[
+  {
+    "code": "02086",
+    "name": "Đồng Tâm",
+    "name_en": "Dong Tam",
+    "full_name": "Thị trấn Đồng Tâm",
+    "full_name_en": "Dong Tam Township",
+    "type": "thị trấn",
+    "district_code": "065",
+    "codename": "dong_tam"
+  },
+  {
+    "code": "02089",
+    "name": "Tân Sơn",
+    "name_en": "Tan Son",
+    "full_name": "Xã Tân Sơn",
+    "full_name_en": "Tan Son Commune",
+    "type": "xã",
+    "district_code": "065",
+    "codename": "tan_son"
+  },
+  {
+    "code": "02092",
+    "name": "Thanh Vận",
+    "name_en": "Thanh Van",
+    "full_name": "Xã Thanh Vận",
+    "full_name_en": "Thanh Van Commune",
+    "type": "xã",
+    "district_code": "065",
+    "codename": "thanh_van"
+  },
+  {
+    "code": "02095",
+    "name": "Mai Lạp",
+    "name_en": "Mai Lap",
+    "full_name": "Xã Mai Lạp",
+    "full_name_en": "Mai Lap Commune",
+    "type": "xã",
+    "district_code": "065",
+    "codename": "mai_lap"
+  },
+  {
+    "code": "02098",
+    "name": "Hoà Mục",
+    "name_en": "Hoa Muc",
+    "full_name": "Xã Hoà Mục",
+    "full_name_en": "Hoa Muc Commune",
+    "type": "xã",
+    "district_code": "065",
+    "codename": "hoa_muc"
+  },
+  {
+    "code": "02101",
+    "name": "Thanh Mai",
+    "name_en": "Thanh Mai",
+    "full_name": "Xã Thanh Mai",
+    "full_name_en": "Thanh Mai Commune",
+    "type": "xã",
+    "district_code": "065",
+    "codename": "thanh_mai"
+  },
+  {
+    "code": "02104",
+    "name": "Cao Kỳ",
+    "name_en": "Cao Ky",
+    "full_name": "Xã Cao Kỳ",
+    "full_name_en": "Cao Ky Commune",
+    "type": "xã",
+    "district_code": "065",
+    "codename": "cao_ky"
+  },
+  {
+    "code": "02107",
+    "name": "Nông Hạ",
+    "name_en": "Nong Ha",
+    "full_name": "Xã Nông Hạ",
+    "full_name_en": "Nong Ha Commune",
+    "type": "xã",
+    "district_code": "065",
+    "codename": "nong_ha"
+  },
+  {
+    "code": "02110",
+    "name": "Yên Cư",
+    "name_en": "Yen Cu",
+    "full_name": "Xã Yên Cư",
+    "full_name_en": "Yen Cu Commune",
+    "type": "xã",
+    "district_code": "065",
+    "codename": "yen_cu"
+  },
+  {
+    "code": "02113",
+    "name": "Thanh Thịnh",
+    "name_en": "Thanh Thinh",
+    "full_name": "Xã Thanh Thịnh",
+    "full_name_en": "Thanh Thinh Commune",
+    "type": "xã",
+    "district_code": "065",
+    "codename": "thanh_thinh"
+  },
+  {
+    "code": "02116",
+    "name": "Yên Hân",
+    "name_en": "Yen Han",
+    "full_name": "Xã Yên Hân",
+    "full_name_en": "Yen Han Commune",
+    "type": "xã",
+    "district_code": "065",
+    "codename": "yen_han"
+  },
+  {
+    "code": "02122",
+    "name": "Như Cố",
+    "name_en": "Nhu Co",
+    "full_name": "Xã Như Cố",
+    "full_name_en": "Nhu Co Commune",
+    "type": "xã",
+    "district_code": "065",
+    "codename": "nhu_co"
+  },
+  {
+    "code": "02125",
+    "name": "Bình Văn",
+    "name_en": "Binh Van",
+    "full_name": "Xã Bình Văn",
+    "full_name_en": "Binh Van Commune",
+    "type": "xã",
+    "district_code": "065",
+    "codename": "binh_van"
+  },
+  {
+    "code": "02131",
+    "name": "Quảng Chu",
+    "name_en": "Quang Chu",
+    "full_name": "Xã Quảng Chu",
+    "full_name_en": "Quang Chu Commune",
+    "type": "xã",
+    "district_code": "065",
+    "codename": "quang_chu"
+  }
+]

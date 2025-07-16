@@ -1,0 +1,192 @@
+[
+  {
+    "code": "00712",
+    "name": "Phó Bảng",
+    "name_en": "Pho Bang",
+    "full_name": "Thị trấn Phó Bảng",
+    "full_name_en": "Pho Bang Township",
+    "type": "thị trấn",
+    "district_code": "026",
+    "codename": "pho_bang"
+  },
+  {
+    "code": "00715",
+    "name": "Lũng Cú",
+    "name_en": "Lung Cu",
+    "full_name": "Xã Lũng Cú",
+    "full_name_en": "Lung Cu Commune",
+    "type": "xã",
+    "district_code": "026",
+    "codename": "lung_cu"
+  },
+  {
+    "code": "00718",
+    "name": "Má Lé",
+    "name_en": "Ma Le",
+    "full_name": "Xã Má Lé",
+    "full_name_en": "Ma Le Commune",
+    "type": "xã",
+    "district_code": "026",
+    "codename": "ma_le"
+  },
+  {
+    "code": "00721",
+    "name": "Đồng Văn",
+    "name_en": "Dong Van",
+    "full_name": "Thị trấn Đồng Văn",
+    "full_name_en": "Dong Van Township",
+    "type": "thị trấn",
+    "district_code": "026",
+    "codename": "dong_van"
+  },
+  {
+    "code": "00724",
+    "name": "Lũng Táo",
+    "name_en": "Lung Tao",
+    "full_name": "Xã Lũng Táo",
+    "full_name_en": "Lung Tao Commune",
+    "type": "xã",
+    "district_code": "026",
+    "codename": "lung_tao"
+  },
+  {
+    "code": "00727",
+    "name": "Phố Là",
+    "name_en": "Pho La",
+    "full_name": "Xã Phố Là",
+    "full_name_en": "Pho La Commune",
+    "type": "xã",
+    "district_code": "026",
+    "codename": "pho_la"
+  },
+  {
+    "code": "00730",
+    "name": "Thài Phìn Tủng",
+    "name_en": "Thai Phin Tung",
+    "full_name": "Xã Thài Phìn Tủng",
+    "full_name_en": "Thai Phin Tung Commune",
+    "type": "xã",
+    "district_code": "026",
+    "codename": "thai_phin_tung"
+  },
+  {
+    "code": "00733",
+    "name": "Sủng Là",
+    "name_en": "Sung La",
+    "full_name": "Xã Sủng Là",
+    "full_name_en": "Sung La Commune",
+    "type": "xã",
+    "district_code": "026",
+    "codename": "sung_la"
+  },
+  {
+    "code": "00736",
+    "name": "Xà Phìn",
+    "name_en": "Xa Phin",
+    "full_name": "Xã Xà Phìn",
+    "full_name_en": "Xa Phin Commune",
+    "type": "xã",
+    "district_code": "026",
+    "codename": "xa_phin"
+  },
+  {
+    "code": "00739",
+    "name": "Tả Phìn",
+    "name_en": "Ta Phin",
+    "full_name": "Xã Tả Phìn",
+    "full_name_en": "Ta Phin Commune",
+    "type": "xã",
+    "district_code": "026",
+    "codename": "ta_phin"
+  },
+  {
+    "code": "00742",
+    "name": "Tả Lủng",
+    "name_en": "Ta Lung",
+    "full_name": "Xã Tả Lủng",
+    "full_name_en": "Ta Lung Commune",
+    "type": "xã",
+    "district_code": "026",
+    "codename": "ta_lung"
+  },
+  {
+    "code": "00745",
+    "name": "Phố Cáo",
+    "name_en": "Pho Cao",
+    "full_name": "Xã Phố Cáo",
+    "full_name_en": "Pho Cao Commune",
+    "type": "xã",
+    "district_code": "026",
+    "codename": "pho_cao"
+  },
+  {
+    "code": "00748",
+    "name": "Sính Lủng",
+    "name_en": "Sinh Lung",
+    "full_name": "Xã Sính Lủng",
+    "full_name_en": "Sinh Lung Commune",
+    "type": "xã",
+    "district_code": "026",
+    "codename": "sinh_lung"
+  },
+  {
+    "code": "00751",
+    "name": "Sảng Tủng",
+    "name_en": "Sang Tung",
+    "full_name": "Xã Sảng Tủng",
+    "full_name_en": "Sang Tung Commune",
+    "type": "xã",
+    "district_code": "026",
+    "codename": "sang_tung"
+  },
+  {
+    "code": "00754",
+    "name": "Lũng Thầu",
+    "name_en": "Lung Thau",
+    "full_name": "Xã Lũng Thầu",
+    "full_name_en": "Lung Thau Commune",
+    "type": "xã",
+    "district_code": "026",
+    "codename": "lung_thau"
+  },
+  {
+    "code": "00757",
+    "name": "Hố Quáng Phìn",
+    "name_en": "Ho Quang Phin",
+    "full_name": "Xã Hố Quáng Phìn",
+    "full_name_en": "Ho Quang Phin Commune",
+    "type": "xã",
+    "district_code": "026",
+    "codename": "ho_quang_phin"
+  },
+  {
+    "code": "00760",
+    "name": "Vần Chải",
+    "name_en": "Van Chai",
+    "full_name": "Xã Vần Chải",
+    "full_name_en": "Van Chai Commune",
+    "type": "xã",
+    "district_code": "026",
+    "codename": "van_chai"
+  },
+  {
+    "code": "00763",
+    "name": "Lũng Phìn",
+    "name_en": "Lung Phin",
+    "full_name": "Xã Lũng Phìn",
+    "full_name_en": "Lung Phin Commune",
+    "type": "xã",
+    "district_code": "026",
+    "codename": "lung_phin"
+  },
+  {
+    "code": "00766",
+    "name": "Sủng Trái",
+    "name_en": "Sung Trai",
+    "full_name": "Xã Sủng Trái",
+    "full_name_en": "Sung Trai Commune",
+    "type": "xã",
+    "district_code": "026",
+    "codename": "sung_trai"
+  }
+]

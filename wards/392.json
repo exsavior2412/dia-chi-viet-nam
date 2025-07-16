@@ -1,0 +1,192 @@
+[
+  {
+    "code": "15271",
+    "name": "Hà Trung",
+    "name_en": "Ha Trung",
+    "full_name": "Thị trấn Hà Trung",
+    "full_name_en": "Ha Trung Township",
+    "type": "thị trấn",
+    "district_code": "392",
+    "codename": "ha_trung"
+  },
+  {
+    "code": "15274",
+    "name": "Hà Long",
+    "name_en": "Ha Long",
+    "full_name": "Thị trấn Hà Long",
+    "full_name_en": "Ha Long Township",
+    "type": "thị trấn",
+    "district_code": "392",
+    "codename": "ha_long"
+  },
+  {
+    "code": "15277",
+    "name": "Hà Vinh",
+    "name_en": "Ha Vinh",
+    "full_name": "Xã Hà Vinh",
+    "full_name_en": "Ha Vinh Commune",
+    "type": "xã",
+    "district_code": "392",
+    "codename": "ha_vinh"
+  },
+  {
+    "code": "15280",
+    "name": "Hà Bắc",
+    "name_en": "Ha Bac",
+    "full_name": "Xã Hà Bắc",
+    "full_name_en": "Ha Bac Commune",
+    "type": "xã",
+    "district_code": "392",
+    "codename": "ha_bac"
+  },
+  {
+    "code": "15283",
+    "name": "Hoạt Giang",
+    "name_en": "Hoat Giang",
+    "full_name": "Xã Hoạt Giang",
+    "full_name_en": "Hoat Giang Commune",
+    "type": "xã",
+    "district_code": "392",
+    "codename": "hoat_giang"
+  },
+  {
+    "code": "15286",
+    "name": "Yên Dương",
+    "name_en": "Yen Duong",
+    "full_name": "Xã Yên Dương",
+    "full_name_en": "Yen Duong Commune",
+    "type": "xã",
+    "district_code": "392",
+    "codename": "yen_duong"
+  },
+  {
+    "code": "15292",
+    "name": "Hà Giang",
+    "name_en": "Ha Giang",
+    "full_name": "Xã Hà Giang",
+    "full_name_en": "Ha Giang Commune",
+    "type": "xã",
+    "district_code": "392",
+    "codename": "ha_giang"
+  },
+  {
+    "code": "15298",
+    "name": "Lĩnh Toại",
+    "name_en": "Linh Toai",
+    "full_name": "Xã Lĩnh Toại",
+    "full_name_en": "Linh Toai Commune",
+    "type": "xã",
+    "district_code": "392",
+    "codename": "linh_toai"
+  },
+  {
+    "code": "15304",
+    "name": "Hà Ngọc",
+    "name_en": "Ha Ngoc",
+    "full_name": "Xã Hà Ngọc",
+    "full_name_en": "Ha Ngoc Commune",
+    "type": "xã",
+    "district_code": "392",
+    "codename": "ha_ngoc"
+  },
+  {
+    "code": "15307",
+    "name": "Yến Sơn",
+    "name_en": "Yen Son",
+    "full_name": "Xã Yến Sơn",
+    "full_name_en": "Yen Son Commune",
+    "type": "xã",
+    "district_code": "392",
+    "codename": "yen_son"
+  },
+  {
+    "code": "15313",
+    "name": "Hà Sơn",
+    "name_en": "Ha Son",
+    "full_name": "Xã Hà Sơn",
+    "full_name_en": "Ha Son Commune",
+    "type": "xã",
+    "district_code": "392",
+    "codename": "ha_son"
+  },
+  {
+    "code": "15316",
+    "name": "Hà Lĩnh",
+    "name_en": "Ha Linh",
+    "full_name": "Thị trấn Hà Lĩnh",
+    "full_name_en": "Ha Linh Township",
+    "type": "thị trấn",
+    "district_code": "392",
+    "codename": "ha_linh"
+  },
+  {
+    "code": "15319",
+    "name": "Hà Đông",
+    "name_en": "Ha Dong",
+    "full_name": "Xã Hà Đông",
+    "full_name_en": "Ha Dong Commune",
+    "type": "xã",
+    "district_code": "392",
+    "codename": "ha_dong"
+  },
+  {
+    "code": "15322",
+    "name": "Hà Tân",
+    "name_en": "Ha Tan",
+    "full_name": "Xã Hà Tân",
+    "full_name_en": "Ha Tan Commune",
+    "type": "xã",
+    "district_code": "392",
+    "codename": "ha_tan"
+  },
+  {
+    "code": "15325",
+    "name": "Hà Tiến",
+    "name_en": "Ha Tien",
+    "full_name": "Xã Hà Tiến",
+    "full_name_en": "Ha Tien Commune",
+    "type": "xã",
+    "district_code": "392",
+    "codename": "ha_tien"
+  },
+  {
+    "code": "15328",
+    "name": "Hà Bình",
+    "name_en": "Ha Binh",
+    "full_name": "Xã Hà Bình",
+    "full_name_en": "Ha Binh Commune",
+    "type": "xã",
+    "district_code": "392",
+    "codename": "ha_binh"
+  },
+  {
+    "code": "15331",
+    "name": "Thái Lai",
+    "name_en": "Thai Lai",
+    "full_name": "Xã Thái Lai",
+    "full_name_en": "Thai Lai Commune",
+    "type": "xã",
+    "district_code": "392",
+    "codename": "thai_lai"
+  },
+  {
+    "code": "15334",
+    "name": "Hà Châu",
+    "name_en": "Ha Chau",
+    "full_name": "Xã Hà Châu",
+    "full_name_en": "Ha Chau Commune",
+    "type": "xã",
+    "district_code": "392",
+    "codename": "ha_chau"
+  },
+  {
+    "code": "15343",
+    "name": "Hà Hải",
+    "name_en": "Ha Hai",
+    "full_name": "Xã Hà Hải",
+    "full_name_en": "Ha Hai Commune",
+    "type": "xã",
+    "district_code": "392",
+    "codename": "ha_hai"
+  }
+]

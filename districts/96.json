@@ -1,0 +1,92 @@
+[
+  {
+    "code": "964",
+    "name": "Cà Mau",
+    "name_en": "Ca Mau",
+    "full_name": "Thành phố Cà Mau",
+    "full_name_en": "Ca Mau City",
+    "type": "thành phố",
+    "province_code": "96",
+    "codename": "ca_mau"
+  },
+  {
+    "code": "966",
+    "name": "U Minh",
+    "name_en": "U Minh",
+    "full_name": "Huyện U Minh",
+    "full_name_en": "U Minh District",
+    "type": "huyện",
+    "province_code": "96",
+    "codename": "u_minh"
+  },
+  {
+    "code": "967",
+    "name": "Thới Bình",
+    "name_en": "Thoi Binh",
+    "full_name": "Huyện Thới Bình",
+    "full_name_en": "Thoi Binh District",
+    "type": "huyện",
+    "province_code": "96",
+    "codename": "thoi_binh"
+  },
+  {
+    "code": "968",
+    "name": "Trần Văn Thời",
+    "name_en": "Tran Van Thoi",
+    "full_name": "Huyện Trần Văn Thời",
+    "full_name_en": "Tran Van Thoi District",
+    "type": "huyện",
+    "province_code": "96",
+    "codename": "tran_van_thoi"
+  },
+  {
+    "code": "969",
+    "name": "Cái Nước",
+    "name_en": "Cai Nuoc",
+    "full_name": "Huyện Cái Nước",
+    "full_name_en": "Cai Nuoc District",
+    "type": "huyện",
+    "province_code": "96",
+    "codename": "cai_nuoc"
+  },
+  {
+    "code": "970",
+    "name": "Đầm Dơi",
+    "name_en": "Dam Doi",
+    "full_name": "Huyện Đầm Dơi",
+    "full_name_en": "Dam Doi District",
+    "type": "huyện",
+    "province_code": "96",
+    "codename": "dam_doi"
+  },
+  {
+    "code": "971",
+    "name": "Năm Căn",
+    "name_en": "Nam Can",
+    "full_name": "Huyện Năm Căn",
+    "full_name_en": "Nam Can District",
+    "type": "huyện",
+    "province_code": "96",
+    "codename": "nam_can"
+  },
+  {
+    "code": "972",
+    "name": "Phú Tân",
+    "name_en": "Phu Tan",
+    "full_name": "Huyện Phú Tân",
+    "full_name_en": "Phu Tan District",
+    "type": "huyện",
+    "province_code": "96",
+    "codename": "phu_tan"
+  },
+  {
+    "code": "973",
+    "name": "Ngọc Hiển",
+    "name_en": "Ngoc Hien",
+    "full_name": "Huyện Ngọc Hiển",
+    "full_name_en": "Ngoc Hien District",
+    "type": "huyện",
+    "province_code": "96",
+    "codename": "ngoc_hien"
+  }
+]

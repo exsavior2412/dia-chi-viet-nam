@@ -1,0 +1,252 @@
+[
+  {
+    "code": "28360",
+    "name": "Cái Bè",
+    "name_en": "Cai Be",
+    "full_name": "Thị trấn Cái Bè",
+    "full_name_en": "Cai Be Township",
+    "type": "thị trấn",
+    "district_code": "819",
+    "codename": "cai_be"
+  },
+  {
+    "code": "28363",
+    "name": "Hậu Mỹ Bắc B",
+    "name_en": "Hau My Bac B",
+    "full_name": "Xã Hậu Mỹ Bắc B",
+    "full_name_en": "Hau My Bac B Commune",
+    "type": "xã",
+    "district_code": "819",
+    "codename": "hau_my_bac_b"
+  },
+  {
+    "code": "28366",
+    "name": "Hậu Mỹ Bắc A",
+    "name_en": "Hau My Bac A",
+    "full_name": "Xã Hậu Mỹ Bắc A",
+    "full_name_en": "Hau My Bac A Commune",
+    "type": "xã",
+    "district_code": "819",
+    "codename": "hau_my_bac_a"
+  },
+  {
+    "code": "28369",
+    "name": "Mỹ Trung",
+    "name_en": "My Trung",
+    "full_name": "Xã Mỹ Trung",
+    "full_name_en": "My Trung Commune",
+    "type": "xã",
+    "district_code": "819",
+    "codename": "my_trung"
+  },
+  {
+    "code": "28372",
+    "name": "Hậu Mỹ Trinh",
+    "name_en": "Hau My Trinh",
+    "full_name": "Xã Hậu Mỹ Trinh",
+    "full_name_en": "Hau My Trinh Commune",
+    "type": "xã",
+    "district_code": "819",
+    "codename": "hau_my_trinh"
+  },
+  {
+    "code": "28375",
+    "name": "Hậu Mỹ Phú",
+    "name_en": "Hau My Phu",
+    "full_name": "Xã Hậu Mỹ Phú",
+    "full_name_en": "Hau My Phu Commune",
+    "type": "xã",
+    "district_code": "819",
+    "codename": "hau_my_phu"
+  },
+  {
+    "code": "28378",
+    "name": "Mỹ Tân",
+    "name_en": "My Tan",
+    "full_name": "Xã Mỹ Tân",
+    "full_name_en": "My Tan Commune",
+    "type": "xã",
+    "district_code": "819",
+    "codename": "my_tan"
+  },
+  {
+    "code": "28381",
+    "name": "Mỹ Lợi B",
+    "name_en": "My Loi B",
+    "full_name": "Xã Mỹ Lợi B",
+    "full_name_en": "My Loi B Commune",
+    "type": "xã",
+    "district_code": "819",
+    "codename": "my_loi_b"
+  },
+  {
+    "code": "28384",
+    "name": "Thiện Trung",
+    "name_en": "Thien Trung",
+    "full_name": "Xã Thiện Trung",
+    "full_name_en": "Thien Trung Commune",
+    "type": "xã",
+    "district_code": "819",
+    "codename": "thien_trung"
+  },
+  {
+    "code": "28387",
+    "name": "Mỹ Hội",
+    "name_en": "My Hoi",
+    "full_name": "Xã Mỹ Hội",
+    "full_name_en": "My Hoi Commune",
+    "type": "xã",
+    "district_code": "819",
+    "codename": "my_hoi"
+  },
+  {
+    "code": "28390",
+    "name": "An Cư",
+    "name_en": "An Cu",
+    "full_name": "Xã An Cư",
+    "full_name_en": "An Cu Commune",
+    "type": "xã",
+    "district_code": "819",
+    "codename": "an_cu"
+  },
+  {
+    "code": "28393",
+    "name": "Hậu Thành",
+    "name_en": "Hau Thanh",
+    "full_name": "Xã Hậu Thành",
+    "full_name_en": "Hau Thanh Commune",
+    "type": "xã",
+    "district_code": "819",
+    "codename": "hau_thanh"
+  },
+  {
+    "code": "28396",
+    "name": "Mỹ Lợi A",
+    "name_en": "My Loi A",
+    "full_name": "Xã Mỹ Lợi A",
+    "full_name_en": "My Loi A Commune",
+    "type": "xã",
+    "district_code": "819",
+    "codename": "my_loi_a"
+  },
+  {
+    "code": "28399",
+    "name": "Hòa Khánh",
+    "name_en": "Hoa Khanh",
+    "full_name": "Xã Hòa Khánh",
+    "full_name_en": "Hoa Khanh Commune",
+    "type": "xã",
+    "district_code": "819",
+    "codename": "hoa_khanh"
+  },
+  {
+    "code": "28402",
+    "name": "Thiện Trí",
+    "name_en": "Thien Tri",
+    "full_name": "Xã Thiện Trí",
+    "full_name_en": "Thien Tri Commune",
+    "type": "xã",
+    "district_code": "819",
+    "codename": "thien_tri"
+  },
+  {
+    "code": "28405",
+    "name": "Mỹ Đức Đông",
+    "name_en": "My Duc Dong",
+    "full_name": "Xã Mỹ Đức Đông",
+    "full_name_en": "My Duc Dong Commune",
+    "type": "xã",
+    "district_code": "819",
+    "codename": "my_duc_dong"
+  },
+  {
+    "code": "28408",
+    "name": "Mỹ Đức Tây",
+    "name_en": "My Duc Tay",
+    "full_name": "Xã Mỹ Đức Tây",
+    "full_name_en": "My Duc Tay Commune",
+    "type": "xã",
+    "district_code": "819",
+    "codename": "my_duc_tay"
+  },
+  {
+    "code": "28411",
+    "name": "Đông Hòa Hiệp",
+    "name_en": "Dong Hoa Hiep",
+    "full_name": "Xã Đông Hòa Hiệp",
+    "full_name_en": "Dong Hoa Hiep Commune",
+    "type": "xã",
+    "district_code": "819",
+    "codename": "dong_hoa_hiep"
+  },
+  {
+    "code": "28414",
+    "name": "An Thái Đông",
+    "name_en": "An Thai Dong",
+    "full_name": "Xã An Thái Đông",
+    "full_name_en": "An Thai Dong Commune",
+    "type": "xã",
+    "district_code": "819",
+    "codename": "an_thai_dong"
+  },
+  {
+    "code": "28417",
+    "name": "Tân Hưng",
+    "name_en": "Tan Hung",
+    "full_name": "Xã Tân Hưng",
+    "full_name_en": "Tan Hung Commune",
+    "type": "xã",
+    "district_code": "819",
+    "codename": "tan_hung"
+  },
+  {
+    "code": "28420",
+    "name": "Mỹ Lương",
+    "name_en": "My Luong",
+    "full_name": "Xã Mỹ Lương",
+    "full_name_en": "My Luong Commune",
+    "type": "xã",
+    "district_code": "819",
+    "codename": "my_luong"
+  },
+  {
+    "code": "28423",
+    "name": "Tân Thanh",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thanh",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "819",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "28426",
+    "name": "An Thái Trung",
+    "name_en": "An Thai Trung",
+    "full_name": "Xã An Thái Trung",
+    "full_name_en": "An Thai Trung Commune",
+    "type": "xã",
+    "district_code": "819",
+    "codename": "an_thai_trung"
+  },
+  {
+    "code": "28429",
+    "name": "An Hữu",
+    "name_en": "An Huu",
+    "full_name": "Xã An Hữu",
+    "full_name_en": "An Huu Commune",
+    "type": "xã",
+    "district_code": "819",
+    "codename": "an_huu"
+  },
+  {
+    "code": "28432",
+    "name": "Hòa Hưng",
+    "name_en": "Hoa Hung",
+    "full_name": "Xã Hòa Hưng",
+    "full_name_en": "Hoa Hung Commune",
+    "type": "xã",
+    "district_code": "819",
+    "codename": "hoa_hung"
+  }
+]

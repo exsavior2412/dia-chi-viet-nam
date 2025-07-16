@@ -1,0 +1,222 @@
+[
+  {
+    "code": "03055",
+    "name": "Khánh Yên",
+    "name_en": "Khanh Yen",
+    "full_name": "Thị trấn Khánh Yên",
+    "full_name_en": "Khanh Yen Township",
+    "type": "thị trấn",
+    "district_code": "089",
+    "codename": "khanh_yen"
+  },
+  {
+    "code": "03061",
+    "name": "Võ Lao",
+    "name_en": "Vo Lao",
+    "full_name": "Xã Võ Lao",
+    "full_name_en": "Vo Lao Commune",
+    "type": "xã",
+    "district_code": "089",
+    "codename": "vo_lao"
+  },
+  {
+    "code": "03064",
+    "name": "Sơn Thuỷ",
+    "name_en": "Son Thuy",
+    "full_name": "Xã Sơn Thuỷ",
+    "full_name_en": "Son Thuy Commune",
+    "type": "xã",
+    "district_code": "089",
+    "codename": "son_thuy"
+  },
+  {
+    "code": "03067",
+    "name": "Nậm Mả",
+    "name_en": "Nam Ma",
+    "full_name": "Xã Nậm Mả",
+    "full_name_en": "Nam Ma Commune",
+    "type": "xã",
+    "district_code": "089",
+    "codename": "nam_ma"
+  },
+  {
+    "code": "03070",
+    "name": "Tân Thượng",
+    "name_en": "Tan Thuong",
+    "full_name": "Xã Tân Thượng",
+    "full_name_en": "Tan Thuong Commune",
+    "type": "xã",
+    "district_code": "089",
+    "codename": "tan_thuong"
+  },
+  {
+    "code": "03073",
+    "name": "Nậm Rạng",
+    "name_en": "Nam Rang",
+    "full_name": "Xã Nậm Rạng",
+    "full_name_en": "Nam Rang Commune",
+    "type": "xã",
+    "district_code": "089",
+    "codename": "nam_rang"
+  },
+  {
+    "code": "03076",
+    "name": "Nậm Chầy",
+    "name_en": "Nam Chay",
+    "full_name": "Xã Nậm Chầy",
+    "full_name_en": "Nam Chay Commune",
+    "type": "xã",
+    "district_code": "089",
+    "codename": "nam_chay"
+  },
+  {
+    "code": "03079",
+    "name": "Tân An",
+    "name_en": "Tan An",
+    "full_name": "Xã Tân An",
+    "full_name_en": "Tan An Commune",
+    "type": "xã",
+    "district_code": "089",
+    "codename": "tan_an"
+  },
+  {
+    "code": "03082",
+    "name": "Khánh Yên Thượng",
+    "name_en": "Khanh Yen Thuong",
+    "full_name": "Xã Khánh Yên Thượng",
+    "full_name_en": "Khanh Yen Thuong Commune",
+    "type": "xã",
+    "district_code": "089",
+    "codename": "khanh_yen_thuong"
+  },
+  {
+    "code": "03085",
+    "name": "Nậm Xé",
+    "name_en": "Nam Xe",
+    "full_name": "Xã Nậm Xé",
+    "full_name_en": "Nam Xe Commune",
+    "type": "xã",
+    "district_code": "089",
+    "codename": "nam_xe"
+  },
+  {
+    "code": "03088",
+    "name": "Dần Thàng",
+    "name_en": "Dan Thang",
+    "full_name": "Xã Dần Thàng",
+    "full_name_en": "Dan Thang Commune",
+    "type": "xã",
+    "district_code": "089",
+    "codename": "dan_thang"
+  },
+  {
+    "code": "03091",
+    "name": "Chiềng Ken",
+    "name_en": "Chieng Ken",
+    "full_name": "Xã Chiềng Ken",
+    "full_name_en": "Chieng Ken Commune",
+    "type": "xã",
+    "district_code": "089",
+    "codename": "chieng_ken"
+  },
+  {
+    "code": "03094",
+    "name": "Làng Giàng",
+    "name_en": "Lang Giang",
+    "full_name": "Xã Làng Giàng",
+    "full_name_en": "Lang Giang Commune",
+    "type": "xã",
+    "district_code": "089",
+    "codename": "lang_giang"
+  },
+  {
+    "code": "03097",
+    "name": "Hoà Mạc",
+    "name_en": "Hoa Mac",
+    "full_name": "Xã Hoà Mạc",
+    "full_name_en": "Hoa Mac Commune",
+    "type": "xã",
+    "district_code": "089",
+    "codename": "hoa_mac"
+  },
+  {
+    "code": "03100",
+    "name": "Khánh Yên Trung",
+    "name_en": "Khanh Yen Trung",
+    "full_name": "Xã Khánh Yên Trung",
+    "full_name_en": "Khanh Yen Trung Commune",
+    "type": "xã",
+    "district_code": "089",
+    "codename": "khanh_yen_trung"
+  },
+  {
+    "code": "03103",
+    "name": "Khánh Yên Hạ",
+    "name_en": "Khanh Yen Ha",
+    "full_name": "Xã Khánh Yên Hạ",
+    "full_name_en": "Khanh Yen Ha Commune",
+    "type": "xã",
+    "district_code": "089",
+    "codename": "khanh_yen_ha"
+  },
+  {
+    "code": "03106",
+    "name": "Dương Quỳ",
+    "name_en": "Duong Quy",
+    "full_name": "Xã Dương Quỳ",
+    "full_name_en": "Duong Quy Commune",
+    "type": "xã",
+    "district_code": "089",
+    "codename": "duong_quy"
+  },
+  {
+    "code": "03109",
+    "name": "Nậm Tha",
+    "name_en": "Nam Tha",
+    "full_name": "Xã Nậm Tha",
+    "full_name_en": "Nam Tha Commune",
+    "type": "xã",
+    "district_code": "089",
+    "codename": "nam_tha"
+  },
+  {
+    "code": "03112",
+    "name": "Minh Lương",
+    "name_en": "Minh Luong",
+    "full_name": "Xã Minh Lương",
+    "full_name_en": "Minh Luong Commune",
+    "type": "xã",
+    "district_code": "089",
+    "codename": "minh_luong"
+  },
+  {
+    "code": "03115",
+    "name": "Thẩm Dương",
+    "name_en": "Tham Duong",
+    "full_name": "Xã Thẩm Dương",
+    "full_name_en": "Tham Duong Commune",
+    "type": "xã",
+    "district_code": "089",
+    "codename": "tham_duong"
+  },
+  {
+    "code": "03118",
+    "name": "Liêm Phú",
+    "name_en": "Liem Phu",
+    "full_name": "Xã Liêm Phú",
+    "full_name_en": "Liem Phu Commune",
+    "type": "xã",
+    "district_code": "089",
+    "codename": "liem_phu"
+  },
+  {
+    "code": "03121",
+    "name": "Nậm Xây",
+    "name_en": "Nam Xay",
+    "full_name": "Xã Nậm Xây",
+    "full_name_en": "Nam Xay Commune",
+    "type": "xã",
+    "district_code": "089",
+    "codename": "nam_xay"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "27796",
+    "name": "Bình Hòa Tây",
+    "name_en": "Binh Hoa Tay",
+    "full_name": "Xã Bình Hòa Tây",
+    "full_name_en": "Binh Hoa Tay Commune",
+    "type": "xã",
+    "district_code": "798",
+    "codename": "binh_hoa_tay"
+  },
+  {
+    "code": "27802",
+    "name": "Bình Thạnh",
+    "name_en": "Binh Thanh",
+    "full_name": "Xã Bình Thạnh",
+    "full_name_en": "Binh Thanh Commune",
+    "type": "xã",
+    "district_code": "798",
+    "codename": "binh_thanh"
+  },
+  {
+    "code": "27808",
+    "name": "Bình Hòa Trung",
+    "name_en": "Binh Hoa Trung",
+    "full_name": "Xã Bình Hòa Trung",
+    "full_name_en": "Binh Hoa Trung Commune",
+    "type": "xã",
+    "district_code": "798",
+    "codename": "binh_hoa_trung"
+  },
+  {
+    "code": "27811",
+    "name": "Bình Hòa Đông",
+    "name_en": "Binh Hoa Dong",
+    "full_name": "Xã Bình Hòa Đông",
+    "full_name_en": "Binh Hoa Dong Commune",
+    "type": "xã",
+    "district_code": "798",
+    "codename": "binh_hoa_dong"
+  },
+  {
+    "code": "27814",
+    "name": "Bình Phong Thạnh",
+    "name_en": "Binh Phong Thanh",
+    "full_name": "Thị trấn Bình Phong Thạnh",
+    "full_name_en": "Binh Phong Thanh Township",
+    "type": "thị trấn",
+    "district_code": "798",
+    "codename": "binh_phong_thanh"
+  },
+  {
+    "code": "27820",
+    "name": "Tân Lập",
+    "name_en": "Tan Lap",
+    "full_name": "Xã Tân Lập",
+    "full_name_en": "Tan Lap Commune",
+    "type": "xã",
+    "district_code": "798",
+    "codename": "tan_lap"
+  },
+  {
+    "code": "27823",
+    "name": "Tân Thành",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thành",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "798",
+    "codename": "tan_thanh"
+  }
+]

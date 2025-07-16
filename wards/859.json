@@ -1,0 +1,202 @@
+[
+  {
+    "code": "29659",
+    "name": "Vũng Liêm",
+    "name_en": "Vung Liem",
+    "full_name": "Thị trấn Vũng Liêm",
+    "full_name_en": "Vung Liem Township",
+    "type": "thị trấn",
+    "district_code": "859",
+    "codename": "vung_liem"
+  },
+  {
+    "code": "29662",
+    "name": "Tân Quới Trung",
+    "name_en": "Tan Quoi Trung",
+    "full_name": "Xã Tân Quới Trung",
+    "full_name_en": "Tan Quoi Trung Commune",
+    "type": "xã",
+    "district_code": "859",
+    "codename": "tan_quoi_trung"
+  },
+  {
+    "code": "29665",
+    "name": "Quới Thiện",
+    "name_en": "Quoi Thien",
+    "full_name": "Xã Quới Thiện",
+    "full_name_en": "Quoi Thien Commune",
+    "type": "xã",
+    "district_code": "859",
+    "codename": "quoi_thien"
+  },
+  {
+    "code": "29668",
+    "name": "Quới An",
+    "name_en": "Quoi An",
+    "full_name": "Xã Quới An",
+    "full_name_en": "Quoi An Commune",
+    "type": "xã",
+    "district_code": "859",
+    "codename": "quoi_an"
+  },
+  {
+    "code": "29671",
+    "name": "Trung Chánh",
+    "name_en": "Trung Chanh",
+    "full_name": "Xã Trung Chánh",
+    "full_name_en": "Trung Chanh Commune",
+    "type": "xã",
+    "district_code": "859",
+    "codename": "trung_chanh"
+  },
+  {
+    "code": "29674",
+    "name": "Tân An Luông",
+    "name_en": "Tan An Luong",
+    "full_name": "Xã Tân An Luông",
+    "full_name_en": "Tan An Luong Commune",
+    "type": "xã",
+    "district_code": "859",
+    "codename": "tan_an_luong"
+  },
+  {
+    "code": "29677",
+    "name": "Thanh Bình",
+    "name_en": "Thanh Binh",
+    "full_name": "Xã Thanh Bình",
+    "full_name_en": "Thanh Binh Commune",
+    "type": "xã",
+    "district_code": "859",
+    "codename": "thanh_binh"
+  },
+  {
+    "code": "29680",
+    "name": "Trung Thành Tây",
+    "name_en": "Trung Thanh Tay",
+    "full_name": "Xã Trung Thành Tây",
+    "full_name_en": "Trung Thanh Tay Commune",
+    "type": "xã",
+    "district_code": "859",
+    "codename": "trung_thanh_tay"
+  },
+  {
+    "code": "29683",
+    "name": "Trung Hiệp",
+    "name_en": "Trung Hiep",
+    "full_name": "Xã Trung Hiệp",
+    "full_name_en": "Trung Hiep Commune",
+    "type": "xã",
+    "district_code": "859",
+    "codename": "trung_hiep"
+  },
+  {
+    "code": "29686",
+    "name": "Hiếu Phụng",
+    "name_en": "Hieu Phung",
+    "full_name": "Xã Hiếu Phụng",
+    "full_name_en": "Hieu Phung Commune",
+    "type": "xã",
+    "district_code": "859",
+    "codename": "hieu_phung"
+  },
+  {
+    "code": "29689",
+    "name": "Trung Thành Đông",
+    "name_en": "Trung Thanh Dong",
+    "full_name": "Xã Trung Thành Đông",
+    "full_name_en": "Trung Thanh Dong Commune",
+    "type": "xã",
+    "district_code": "859",
+    "codename": "trung_thanh_dong"
+  },
+  {
+    "code": "29692",
+    "name": "Trung Thành",
+    "name_en": "Trung Thanh",
+    "full_name": "Xã Trung Thành",
+    "full_name_en": "Trung Thanh Commune",
+    "type": "xã",
+    "district_code": "859",
+    "codename": "trung_thanh"
+  },
+  {
+    "code": "29695",
+    "name": "Trung Hiếu",
+    "name_en": "Trung Hieu",
+    "full_name": "Xã Trung Hiếu",
+    "full_name_en": "Trung Hieu Commune",
+    "type": "xã",
+    "district_code": "859",
+    "codename": "trung_hieu"
+  },
+  {
+    "code": "29698",
+    "name": "Trung Ngãi",
+    "name_en": "Trung Ngai",
+    "full_name": "Xã Trung Ngãi",
+    "full_name_en": "Trung Ngai Commune",
+    "type": "xã",
+    "district_code": "859",
+    "codename": "trung_ngai"
+  },
+  {
+    "code": "29701",
+    "name": "Hiếu Thuận",
+    "name_en": "Hieu Thuan",
+    "full_name": "Xã Hiếu Thuận",
+    "full_name_en": "Hieu Thuan Commune",
+    "type": "xã",
+    "district_code": "859",
+    "codename": "hieu_thuan"
+  },
+  {
+    "code": "29704",
+    "name": "Trung Nghĩa",
+    "name_en": "Trung Nghia",
+    "full_name": "Xã Trung Nghĩa",
+    "full_name_en": "Trung Nghia Commune",
+    "type": "xã",
+    "district_code": "859",
+    "codename": "trung_nghia"
+  },
+  {
+    "code": "29707",
+    "name": "Trung An",
+    "name_en": "Trung An",
+    "full_name": "Xã Trung An",
+    "full_name_en": "Trung An Commune",
+    "type": "xã",
+    "district_code": "859",
+    "codename": "trung_an"
+  },
+  {
+    "code": "29710",
+    "name": "Hiếu Nhơn",
+    "name_en": "Hieu Nhon",
+    "full_name": "Xã Hiếu Nhơn",
+    "full_name_en": "Hieu Nhon Commune",
+    "type": "xã",
+    "district_code": "859",
+    "codename": "hieu_nhon"
+  },
+  {
+    "code": "29713",
+    "name": "Hiếu Thành",
+    "name_en": "Hieu Thanh",
+    "full_name": "Xã Hiếu Thành",
+    "full_name_en": "Hieu Thanh Commune",
+    "type": "xã",
+    "district_code": "859",
+    "codename": "hieu_thanh"
+  },
+  {
+    "code": "29716",
+    "name": "Hiếu Nghĩa",
+    "name_en": "Hieu Nghia",
+    "full_name": "Xã Hiếu Nghĩa",
+    "full_name_en": "Hieu Nghia Commune",
+    "type": "xã",
+    "district_code": "859",
+    "codename": "hieu_nghia"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "30766",
+    "name": "Tô Châu",
+    "name_en": "To Chau",
+    "full_name": "Phường Tô Châu",
+    "full_name_en": "To Chau Ward",
+    "type": "phường",
+    "district_code": "900",
+    "codename": "to_chau"
+  },
+  {
+    "code": "30769",
+    "name": "Đông Hồ",
+    "name_en": "Dong Ho",
+    "full_name": "Phường Đông Hồ",
+    "full_name_en": "Dong Ho Ward",
+    "type": "phường",
+    "district_code": "900",
+    "codename": "dong_ho"
+  },
+  {
+    "code": "30772",
+    "name": "Bình San",
+    "name_en": "Binh San",
+    "full_name": "Phường Bình San",
+    "full_name_en": "Binh San Ward",
+    "type": "phường",
+    "district_code": "900",
+    "codename": "binh_san"
+  },
+  {
+    "code": "30775",
+    "name": "Pháo Đài",
+    "name_en": "Phao Dai",
+    "full_name": "Phường Pháo Đài",
+    "full_name_en": "Phao Dai Ward",
+    "type": "phường",
+    "district_code": "900",
+    "codename": "phao_dai"
+  },
+  {
+    "code": "30778",
+    "name": "Mỹ Đức",
+    "name_en": "My Duc",
+    "full_name": "Phường Mỹ Đức",
+    "full_name_en": "My Duc Ward",
+    "type": "phường",
+    "district_code": "900",
+    "codename": "my_duc"
+  },
+  {
+    "code": "30781",
+    "name": "Tiên Hải",
+    "name_en": "Tien Hai",
+    "full_name": "Xã Tiên Hải",
+    "full_name_en": "Tien Hai Commune",
+    "type": "xã",
+    "district_code": "900",
+    "codename": "tien_hai"
+  },
+  {
+    "code": "30784",
+    "name": "Thuận Yên",
+    "name_en": "Thuan Yen",
+    "full_name": "Xã Thuận Yên",
+    "full_name_en": "Thuan Yen Commune",
+    "type": "xã",
+    "district_code": "900",
+    "codename": "thuan_yen"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "code": "30791",
+    "name": "Vĩnh Phú",
+    "name_en": "Vinh Phu",
+    "full_name": "Xã Vĩnh Phú",
+    "full_name_en": "Vinh Phu Commune",
+    "type": "xã",
+    "district_code": "914",
+    "codename": "vinh_phu"
+  },
+  {
+    "code": "30793",
+    "name": "Vĩnh Điều",
+    "name_en": "Vinh Dieu",
+    "full_name": "Xã Vĩnh Điều",
+    "full_name_en": "Vinh Dieu Commune",
+    "type": "xã",
+    "district_code": "914",
+    "codename": "vinh_dieu"
+  },
+  {
+    "code": "30796",
+    "name": "Tân Khánh Hòa",
+    "name_en": "Tan Khanh Hoa",
+    "full_name": "Xã Tân Khánh Hòa",
+    "full_name_en": "Tan Khanh Hoa Commune",
+    "type": "xã",
+    "district_code": "914",
+    "codename": "tan_khanh_hoa"
+  },
+  {
+    "code": "30797",
+    "name": "Phú Lợi",
+    "name_en": "Phu Loi",
+    "full_name": "Xã Phú Lợi",
+    "full_name_en": "Phu Loi Commune",
+    "type": "xã",
+    "district_code": "914",
+    "codename": "phu_loi"
+  },
+  {
+    "code": "30799",
+    "name": "Phú Mỹ",
+    "name_en": "Phu My",
+    "full_name": "Xã Phú Mỹ",
+    "full_name_en": "Phu My Commune",
+    "type": "xã",
+    "district_code": "914",
+    "codename": "phu_my"
+  }
+]

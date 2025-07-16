@@ -1,0 +1,82 @@
+[
+  {
+    "code": "29236",
+    "name": "4",
+    "name_en": "4",
+    "full_name": "Phường 4",
+    "full_name_en": "Ward 4",
+    "type": "phường",
+    "district_code": "842",
+    "codename": "4"
+  },
+  {
+    "code": "29239",
+    "name": "1",
+    "name_en": "1",
+    "full_name": "Phường 1",
+    "full_name_en": "Ward 1",
+    "type": "phường",
+    "district_code": "842",
+    "codename": "1"
+  },
+  {
+    "code": "29242",
+    "name": "3",
+    "name_en": "3",
+    "full_name": "Phường 3",
+    "full_name_en": "Ward 3",
+    "type": "phường",
+    "district_code": "842",
+    "codename": "3"
+  },
+  {
+    "code": "29248",
+    "name": "5",
+    "name_en": "5",
+    "full_name": "Phường 5",
+    "full_name_en": "Ward 5",
+    "type": "phường",
+    "district_code": "842",
+    "codename": "5"
+  },
+  {
+    "code": "29254",
+    "name": "7",
+    "name_en": "7",
+    "full_name": "Phường 7",
+    "full_name_en": "Ward 7",
+    "type": "phường",
+    "district_code": "842",
+    "codename": "7"
+  },
+  {
+    "code": "29257",
+    "name": "8",
+    "name_en": "8",
+    "full_name": "Phường 8",
+    "full_name_en": "Ward 8",
+    "type": "phường",
+    "district_code": "842",
+    "codename": "8"
+  },
+  {
+    "code": "29260",
+    "name": "9",
+    "name_en": "9",
+    "full_name": "Phường 9",
+    "full_name_en": "Ward 9",
+    "type": "phường",
+    "district_code": "842",
+    "codename": "9"
+  },
+  {
+    "code": "29263",
+    "name": "Long Đức",
+    "name_en": "Long Duc",
+    "full_name": "Xã Long Đức",
+    "full_name_en": "Long Duc Commune",
+    "type": "xã",
+    "district_code": "842",
+    "codename": "long_duc"
+  }
+]

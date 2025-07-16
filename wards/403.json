@@ -1,0 +1,142 @@
+[
+  {
+    "code": "16228",
+    "name": "Bến Sung",
+    "name_en": "Ben Sung",
+    "full_name": "Thị trấn Bến Sung",
+    "full_name_en": "Ben Sung Township",
+    "type": "thị trấn",
+    "district_code": "403",
+    "codename": "ben_sung"
+  },
+  {
+    "code": "16231",
+    "name": "Cán Khê",
+    "name_en": "Can Khe",
+    "full_name": "Xã Cán Khê",
+    "full_name_en": "Can Khe Commune",
+    "type": "xã",
+    "district_code": "403",
+    "codename": "can_khe"
+  },
+  {
+    "code": "16234",
+    "name": "Xuân Du",
+    "name_en": "Xuan Du",
+    "full_name": "Xã Xuân Du",
+    "full_name_en": "Xuan Du Commune",
+    "type": "xã",
+    "district_code": "403",
+    "codename": "xuan_du"
+  },
+  {
+    "code": "16240",
+    "name": "Phượng Nghi",
+    "name_en": "Phuong Nghi",
+    "full_name": "Xã Phượng Nghi",
+    "full_name_en": "Phuong Nghi Commune",
+    "type": "xã",
+    "district_code": "403",
+    "codename": "phuong_nghi"
+  },
+  {
+    "code": "16243",
+    "name": "Mậu Lâm",
+    "name_en": "Mau Lam",
+    "full_name": "Xã Mậu Lâm",
+    "full_name_en": "Mau Lam Commune",
+    "type": "xã",
+    "district_code": "403",
+    "codename": "mau_lam"
+  },
+  {
+    "code": "16246",
+    "name": "Xuân Khang",
+    "name_en": "Xuan Khang",
+    "full_name": "Xã Xuân Khang",
+    "full_name_en": "Xuan Khang Commune",
+    "type": "xã",
+    "district_code": "403",
+    "codename": "xuan_khang"
+  },
+  {
+    "code": "16249",
+    "name": "Phú Nhuận",
+    "name_en": "Phu Nhuan",
+    "full_name": "Xã Phú Nhuận",
+    "full_name_en": "Phu Nhuan Commune",
+    "type": "xã",
+    "district_code": "403",
+    "codename": "phu_nhuan"
+  },
+  {
+    "code": "16252",
+    "name": "Hải Long",
+    "name_en": "Hai Long",
+    "full_name": "Xã Hải Long",
+    "full_name_en": "Hai Long Commune",
+    "type": "xã",
+    "district_code": "403",
+    "codename": "hai_long"
+  },
+  {
+    "code": "16258",
+    "name": "Xuân Thái",
+    "name_en": "Xuan Thai",
+    "full_name": "Xã Xuân Thái",
+    "full_name_en": "Xuan Thai Commune",
+    "type": "xã",
+    "district_code": "403",
+    "codename": "xuan_thai"
+  },
+  {
+    "code": "16261",
+    "name": "Xuân Phúc",
+    "name_en": "Xuan Phuc",
+    "full_name": "Xã Xuân Phúc",
+    "full_name_en": "Xuan Phuc Commune",
+    "type": "xã",
+    "district_code": "403",
+    "codename": "xuan_phuc"
+  },
+  {
+    "code": "16264",
+    "name": "Yên Thọ",
+    "name_en": "Yen Tho",
+    "full_name": "Xã Yên Thọ",
+    "full_name_en": "Yen Tho Commune",
+    "type": "xã",
+    "district_code": "403",
+    "codename": "yen_tho"
+  },
+  {
+    "code": "16267",
+    "name": "Yên Lạc",
+    "name_en": "Yen Lac",
+    "full_name": "Xã Yên Lạc",
+    "full_name_en": "Yen Lac Commune",
+    "type": "xã",
+    "district_code": "403",
+    "codename": "yen_lac"
+  },
+  {
+    "code": "16273",
+    "name": "Thanh Tân",
+    "name_en": "Thanh Tan",
+    "full_name": "Xã Thanh Tân",
+    "full_name_en": "Thanh Tan Commune",
+    "type": "xã",
+    "district_code": "403",
+    "codename": "thanh_tan"
+  },
+  {
+    "code": "16276",
+    "name": "Thanh Kỳ",
+    "name_en": "Thanh Ky",
+    "full_name": "Xã Thanh Kỳ",
+    "full_name_en": "Thanh Ky Commune",
+    "type": "xã",
+    "district_code": "403",
+    "codename": "thanh_ky"
+  }
+]

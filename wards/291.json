@@ -1,0 +1,152 @@
+[
+  {
+    "code": "10606",
+    "name": "Nam Sách",
+    "name_en": "Nam Sach",
+    "full_name": "Thị trấn Nam Sách",
+    "full_name_en": "Nam Sach Township",
+    "type": "thị trấn",
+    "district_code": "291",
+    "codename": "nam_sach"
+  },
+  {
+    "code": "10609",
+    "name": "Nam Hưng",
+    "name_en": "Nam Hung",
+    "full_name": "Xã Nam Hưng",
+    "full_name_en": "Nam Hung Commune",
+    "type": "xã",
+    "district_code": "291",
+    "codename": "nam_hung"
+  },
+  {
+    "code": "10612",
+    "name": "Nam Tân",
+    "name_en": "Nam Tan",
+    "full_name": "Xã Nam Tân",
+    "full_name_en": "Nam Tan Commune",
+    "type": "xã",
+    "district_code": "291",
+    "codename": "nam_tan"
+  },
+  {
+    "code": "10615",
+    "name": "Hợp Tiến",
+    "name_en": "Hop Tien",
+    "full_name": "Xã Hợp Tiến",
+    "full_name_en": "Hop Tien Commune",
+    "type": "xã",
+    "district_code": "291",
+    "codename": "hop_tien"
+  },
+  {
+    "code": "10618",
+    "name": "Hiệp Cát",
+    "name_en": "Hiep Cat",
+    "full_name": "Xã Hiệp Cát",
+    "full_name_en": "Hiep Cat Commune",
+    "type": "xã",
+    "district_code": "291",
+    "codename": "hiep_cat"
+  },
+  {
+    "code": "10621",
+    "name": "Quốc Tuấn",
+    "name_en": "Quoc Tuan",
+    "full_name": "Xã Quốc Tuấn",
+    "full_name_en": "Quoc Tuan Commune",
+    "type": "xã",
+    "district_code": "291",
+    "codename": "quoc_tuan"
+  },
+  {
+    "code": "10630",
+    "name": "An Bình",
+    "name_en": "An Binh",
+    "full_name": "Xã An Bình",
+    "full_name_en": "An Binh Commune",
+    "type": "xã",
+    "district_code": "291",
+    "codename": "an_binh"
+  },
+  {
+    "code": "10633",
+    "name": "Trần Phú",
+    "name_en": "Tran Phu",
+    "full_name": "Xã Trần Phú",
+    "full_name_en": "Tran Phu Commune",
+    "type": "xã",
+    "district_code": "291",
+    "codename": "tran_phu"
+  },
+  {
+    "code": "10636",
+    "name": "An Sơn",
+    "name_en": "An Son",
+    "full_name": "Xã An Sơn",
+    "full_name_en": "An Son Commune",
+    "type": "xã",
+    "district_code": "291",
+    "codename": "an_son"
+  },
+  {
+    "code": "10639",
+    "name": "Cộng Hòa",
+    "name_en": "Cong Hoa",
+    "full_name": "Xã Cộng Hòa",
+    "full_name_en": "Cong Hoa Commune",
+    "type": "xã",
+    "district_code": "291",
+    "codename": "cong_hoa"
+  },
+  {
+    "code": "10642",
+    "name": "Thái Tân",
+    "name_en": "Thai Tan",
+    "full_name": "Xã Thái Tân",
+    "full_name_en": "Thai Tan Commune",
+    "type": "xã",
+    "district_code": "291",
+    "codename": "thai_tan"
+  },
+  {
+    "code": "10645",
+    "name": "An Phú",
+    "name_en": "An Phu",
+    "full_name": "Xã An Phú",
+    "full_name_en": "An Phu Commune",
+    "type": "xã",
+    "district_code": "291",
+    "codename": "an_phu"
+  },
+  {
+    "code": "10654",
+    "name": "Hồng Phong",
+    "name_en": "Hong Phong",
+    "full_name": "Xã Hồng Phong",
+    "full_name_en": "Hong Phong Commune",
+    "type": "xã",
+    "district_code": "291",
+    "codename": "hong_phong"
+  },
+  {
+    "code": "10657",
+    "name": "Đồng Lạc",
+    "name_en": "Dong Lac",
+    "full_name": "Xã Đồng Lạc",
+    "full_name_en": "Dong Lac Commune",
+    "type": "xã",
+    "district_code": "291",
+    "codename": "dong_lac"
+  },
+  {
+    "code": "10666",
+    "name": "Minh Tân",
+    "name_en": "Minh Tan",
+    "full_name": "Xã Minh Tân",
+    "full_name_en": "Minh Tan Commune",
+    "type": "xã",
+    "district_code": "291",
+    "codename": "minh_tan"
+  }
+]

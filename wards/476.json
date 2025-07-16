@@ -1,0 +1,122 @@
+[
+  {
+    "code": "19819",
+    "name": "Phong Thu",
+    "name_en": "Phong Thu",
+    "full_name": "Phường Phong Thu",
+    "full_name_en": "Phong Thu Ward",
+    "type": "phường",
+    "district_code": "476",
+    "codename": "phong_thu"
+  },
+  {
+    "code": "19825",
+    "name": "Phong Thạnh",
+    "name_en": "Phong Thanh",
+    "full_name": "Xã Phong Thạnh",
+    "full_name_en": "Phong Thanh Commune",
+    "type": "xã",
+    "district_code": "476",
+    "codename": "phong_thanh"
+  },
+  {
+    "code": "19828",
+    "name": "Phong Phú",
+    "name_en": "Phong Phu",
+    "full_name": "Phường Phong Phú",
+    "full_name_en": "Phong Phu Ward",
+    "type": "phường",
+    "district_code": "476",
+    "codename": "phong_phu"
+  },
+  {
+    "code": "19831",
+    "name": "Phong Bình",
+    "name_en": "Phong Binh",
+    "full_name": "Xã Phong Bình",
+    "full_name_en": "Phong Binh Commune",
+    "type": "xã",
+    "district_code": "476",
+    "codename": "phong_binh"
+  },
+  {
+    "code": "19837",
+    "name": "Phong Chương",
+    "name_en": "Phong Chuong",
+    "full_name": "Xã Phong Chương",
+    "full_name_en": "Phong Chuong Commune",
+    "type": "xã",
+    "district_code": "476",
+    "codename": "phong_chuong"
+  },
+  {
+    "code": "19843",
+    "name": "Phong Hải",
+    "name_en": "Phong Hai",
+    "full_name": "Phường Phong Hải",
+    "full_name_en": "Phong Hai Ward",
+    "type": "phường",
+    "district_code": "476",
+    "codename": "phong_hai"
+  },
+  {
+    "code": "19846",
+    "name": "Phong Hòa",
+    "name_en": "Phong Hoa",
+    "full_name": "Phường Phong Hòa",
+    "full_name_en": "Phong Hoa Ward",
+    "type": "phường",
+    "district_code": "476",
+    "codename": "phong_hoa"
+  },
+  {
+    "code": "19852",
+    "name": "Phong Hiền",
+    "name_en": "Phong Hien",
+    "full_name": "Phường Phong Hiền",
+    "full_name_en": "Phong Hien Ward",
+    "type": "phường",
+    "district_code": "476",
+    "codename": "phong_hien"
+  },
+  {
+    "code": "19855",
+    "name": "Phong Mỹ",
+    "name_en": "Phong My",
+    "full_name": "Xã Phong Mỹ",
+    "full_name_en": "Phong My Commune",
+    "type": "xã",
+    "district_code": "476",
+    "codename": "phong_my"
+  },
+  {
+    "code": "19858",
+    "name": "Phong An",
+    "name_en": "Phong An",
+    "full_name": "Phường Phong An",
+    "full_name_en": "Phong An Ward",
+    "type": "phường",
+    "district_code": "476",
+    "codename": "phong_an"
+  },
+  {
+    "code": "19861",
+    "name": "Phong Xuân",
+    "name_en": "Phong Xuan",
+    "full_name": "Xã Phong Xuân",
+    "full_name_en": "Phong Xuan Commune",
+    "type": "xã",
+    "district_code": "476",
+    "codename": "phong_xuan"
+  },
+  {
+    "code": "19864",
+    "name": "Phong Sơn",
+    "name_en": "Phong Son",
+    "full_name": "Xã Phong Sơn",
+    "full_name_en": "Phong Son Commune",
+    "type": "xã",
+    "district_code": "476",
+    "codename": "phong_son"
+  }
+]

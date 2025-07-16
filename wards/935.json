@@ -1,0 +1,102 @@
+[
+  {
+    "code": "31441",
+    "name": "Nàng Mau",
+    "name_en": "Nang Mau",
+    "full_name": "Thị trấn Nàng Mau",
+    "full_name_en": "Nang Mau Township",
+    "type": "thị trấn",
+    "district_code": "935",
+    "codename": "nang_mau"
+  },
+  {
+    "code": "31444",
+    "name": "Vị Trung",
+    "name_en": "Vi Trung",
+    "full_name": "Xã Vị Trung",
+    "full_name_en": "Vi Trung Commune",
+    "type": "xã",
+    "district_code": "935",
+    "codename": "vi_trung"
+  },
+  {
+    "code": "31447",
+    "name": "Vị Thuỷ",
+    "name_en": "Vi Thuy",
+    "full_name": "Xã Vị Thuỷ",
+    "full_name_en": "Vi Thuy Commune",
+    "type": "xã",
+    "district_code": "935",
+    "codename": "vi_thuy"
+  },
+  {
+    "code": "31450",
+    "name": "Vị Thắng",
+    "name_en": "Vi Thang",
+    "full_name": "Xã Vị Thắng",
+    "full_name_en": "Vi Thang Commune",
+    "type": "xã",
+    "district_code": "935",
+    "codename": "vi_thang"
+  },
+  {
+    "code": "31453",
+    "name": "Vĩnh Thuận Tây",
+    "name_en": "Vinh Thuan Tay",
+    "full_name": "Xã Vĩnh Thuận Tây",
+    "full_name_en": "Vinh Thuan Tay Commune",
+    "type": "xã",
+    "district_code": "935",
+    "codename": "vinh_thuan_tay"
+  },
+  {
+    "code": "31456",
+    "name": "Vĩnh Trung",
+    "name_en": "Vinh Trung",
+    "full_name": "Xã Vĩnh Trung",
+    "full_name_en": "Vinh Trung Commune",
+    "type": "xã",
+    "district_code": "935",
+    "codename": "vinh_trung"
+  },
+  {
+    "code": "31459",
+    "name": "Vĩnh Tường",
+    "name_en": "Vinh Tuong",
+    "full_name": "Xã Vĩnh Tường",
+    "full_name_en": "Vinh Tuong Commune",
+    "type": "xã",
+    "district_code": "935",
+    "codename": "vinh_tuong"
+  },
+  {
+    "code": "31462",
+    "name": "Vị Đông",
+    "name_en": "Vi Dong",
+    "full_name": "Xã Vị Đông",
+    "full_name_en": "Vi Dong Commune",
+    "type": "xã",
+    "district_code": "935",
+    "codename": "vi_dong"
+  },
+  {
+    "code": "31465",
+    "name": "Vị Thanh",
+    "name_en": "Vi Thanh",
+    "full_name": "Xã Vị Thanh",
+    "full_name_en": "Vi Thanh Commune",
+    "type": "xã",
+    "district_code": "935",
+    "codename": "vi_thanh"
+  },
+  {
+    "code": "31468",
+    "name": "Vị Bình",
+    "name_en": "Vi Binh",
+    "full_name": "Xã Vị Bình",
+    "full_name_en": "Vi Binh Commune",
+    "type": "xã",
+    "district_code": "935",
+    "codename": "vi_binh"
+  }
+]

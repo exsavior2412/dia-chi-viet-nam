@@ -1,0 +1,162 @@
+[
+  {
+    "code": "21115",
+    "name": "Trà Xuân",
+    "name_en": "Tra Xuan",
+    "full_name": "Thị trấn Trà Xuân",
+    "full_name_en": "Tra Xuan Township",
+    "type": "thị trấn",
+    "district_code": "525",
+    "codename": "tra_xuan"
+  },
+  {
+    "code": "21118",
+    "name": "Trà Giang",
+    "name_en": "Tra Giang",
+    "full_name": "Xã Trà Giang",
+    "full_name_en": "Tra Giang Commune",
+    "type": "xã",
+    "district_code": "525",
+    "codename": "tra_giang"
+  },
+  {
+    "code": "21121",
+    "name": "Trà Thủy",
+    "name_en": "Tra Thuy",
+    "full_name": "Xã Trà Thủy",
+    "full_name_en": "Tra Thuy Commune",
+    "type": "xã",
+    "district_code": "525",
+    "codename": "tra_thuy"
+  },
+  {
+    "code": "21124",
+    "name": "Trà Hiệp",
+    "name_en": "Tra Hiep",
+    "full_name": "Xã Trà Hiệp",
+    "full_name_en": "Tra Hiep Commune",
+    "type": "xã",
+    "district_code": "525",
+    "codename": "tra_hiep"
+  },
+  {
+    "code": "21127",
+    "name": "Trà Bình",
+    "name_en": "Tra Binh",
+    "full_name": "Xã Trà Bình",
+    "full_name_en": "Tra Binh Commune",
+    "type": "xã",
+    "district_code": "525",
+    "codename": "tra_binh"
+  },
+  {
+    "code": "21130",
+    "name": "Trà Phú",
+    "name_en": "Tra Phu",
+    "full_name": "Xã Trà Phú",
+    "full_name_en": "Tra Phu Commune",
+    "type": "xã",
+    "district_code": "525",
+    "codename": "tra_phu"
+  },
+  {
+    "code": "21133",
+    "name": "Trà Lâm",
+    "name_en": "Tra Lam",
+    "full_name": "Xã Trà Lâm",
+    "full_name_en": "Tra Lam Commune",
+    "type": "xã",
+    "district_code": "525",
+    "codename": "tra_lam"
+  },
+  {
+    "code": "21136",
+    "name": "Trà Tân",
+    "name_en": "Tra Tan",
+    "full_name": "Xã Trà Tân",
+    "full_name_en": "Tra Tan Commune",
+    "type": "xã",
+    "district_code": "525",
+    "codename": "tra_tan"
+  },
+  {
+    "code": "21139",
+    "name": "Trà Sơn",
+    "name_en": "Tra Son",
+    "full_name": "Xã Trà Sơn",
+    "full_name_en": "Tra Son Commune",
+    "type": "xã",
+    "district_code": "525",
+    "codename": "tra_son"
+  },
+  {
+    "code": "21142",
+    "name": "Trà Bùi",
+    "name_en": "Tra Bui",
+    "full_name": "Xã Trà Bùi",
+    "full_name_en": "Tra Bui Commune",
+    "type": "xã",
+    "district_code": "525",
+    "codename": "tra_bui"
+  },
+  {
+    "code": "21145",
+    "name": "Trà Thanh",
+    "name_en": "Tra Thanh",
+    "full_name": "Xã Trà Thanh",
+    "full_name_en": "Tra Thanh Commune",
+    "type": "xã",
+    "district_code": "525",
+    "codename": "tra_thanh"
+  },
+  {
+    "code": "21148",
+    "name": "Sơn Trà",
+    "name_en": "Son Tra",
+    "full_name": "Xã Sơn Trà",
+    "full_name_en": "Son Tra Commune",
+    "type": "xã",
+    "district_code": "525",
+    "codename": "son_tra"
+  },
+  {
+    "code": "21154",
+    "name": "Trà Phong",
+    "name_en": "Tra Phong",
+    "full_name": "Xã Trà Phong",
+    "full_name_en": "Tra Phong Commune",
+    "type": "xã",
+    "district_code": "525",
+    "codename": "tra_phong"
+  },
+  {
+    "code": "21157",
+    "name": "Hương Trà",
+    "name_en": "Huong Tra",
+    "full_name": "Xã Hương Trà",
+    "full_name_en": "Huong Tra Commune",
+    "type": "xã",
+    "district_code": "525",
+    "codename": "huong_tra"
+  },
+  {
+    "code": "21163",
+    "name": "Trà Xinh",
+    "name_en": "Tra Xinh",
+    "full_name": "Xã Trà Xinh",
+    "full_name_en": "Tra Xinh Commune",
+    "type": "xã",
+    "district_code": "525",
+    "codename": "tra_xinh"
+  },
+  {
+    "code": "21166",
+    "name": "Trà Tây",
+    "name_en": "Tra Tay",
+    "full_name": "Xã Trà Tây",
+    "full_name_en": "Tra Tay Commune",
+    "type": "xã",
+    "district_code": "525",
+    "codename": "tra_tay"
+  }
+]

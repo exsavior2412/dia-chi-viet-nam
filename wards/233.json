@@ -1,0 +1,172 @@
+[
+  {
+    "code": "08230",
+    "name": "Phong Châu",
+    "name_en": "Phong Chau",
+    "full_name": "Thị trấn Phong Châu",
+    "full_name_en": "Phong Chau Township",
+    "type": "thị trấn",
+    "district_code": "233",
+    "codename": "phong_chau"
+  },
+  {
+    "code": "08233",
+    "name": "Phú Mỹ",
+    "name_en": "Phu My",
+    "full_name": "Xã Phú Mỹ",
+    "full_name_en": "Phu My Commune",
+    "type": "xã",
+    "district_code": "233",
+    "codename": "phu_my"
+  },
+  {
+    "code": "08234",
+    "name": "Lệ Mỹ",
+    "name_en": "Le My",
+    "full_name": "Xã Lệ Mỹ",
+    "full_name_en": "Le My Commune",
+    "type": "xã",
+    "district_code": "233",
+    "codename": "le_my"
+  },
+  {
+    "code": "08236",
+    "name": "Liên Hoa",
+    "name_en": "Lien Hoa",
+    "full_name": "Xã Liên Hoa",
+    "full_name_en": "Lien Hoa Commune",
+    "type": "xã",
+    "district_code": "233",
+    "codename": "lien_hoa"
+  },
+  {
+    "code": "08239",
+    "name": "Trạm Thản",
+    "name_en": "Tram Than",
+    "full_name": "Xã Trạm Thản",
+    "full_name_en": "Tram Than Commune",
+    "type": "xã",
+    "district_code": "233",
+    "codename": "tram_than"
+  },
+  {
+    "code": "08242",
+    "name": "Trị Quận",
+    "name_en": "Tri Quan",
+    "full_name": "Xã Trị Quận",
+    "full_name_en": "Tri Quan Commune",
+    "type": "xã",
+    "district_code": "233",
+    "codename": "tri_quan"
+  },
+  {
+    "code": "08245",
+    "name": "Trung Giáp",
+    "name_en": "Trung Giap",
+    "full_name": "Xã Trung Giáp",
+    "full_name_en": "Trung Giap Commune",
+    "type": "xã",
+    "district_code": "233",
+    "codename": "trung_giap"
+  },
+  {
+    "code": "08248",
+    "name": "Tiên Phú",
+    "name_en": "Tien Phu",
+    "full_name": "Xã Tiên Phú",
+    "full_name_en": "Tien Phu Commune",
+    "type": "xã",
+    "district_code": "233",
+    "codename": "tien_phu"
+  },
+  {
+    "code": "08251",
+    "name": "Hạ Giáp",
+    "name_en": "Ha Giap",
+    "full_name": "Xã Hạ Giáp",
+    "full_name_en": "Ha Giap Commune",
+    "type": "xã",
+    "district_code": "233",
+    "codename": "ha_giap"
+  },
+  {
+    "code": "08254",
+    "name": "Bảo Thanh",
+    "name_en": "Bao Thanh",
+    "full_name": "Xã Bảo Thanh",
+    "full_name_en": "Bao Thanh Commune",
+    "type": "xã",
+    "district_code": "233",
+    "codename": "bao_thanh"
+  },
+  {
+    "code": "08257",
+    "name": "Phú Lộc",
+    "name_en": "Phu Loc",
+    "full_name": "Xã Phú Lộc",
+    "full_name_en": "Phu Loc Commune",
+    "type": "xã",
+    "district_code": "233",
+    "codename": "phu_loc"
+  },
+  {
+    "code": "08260",
+    "name": "Gia Thanh",
+    "name_en": "Gia Thanh",
+    "full_name": "Xã Gia Thanh",
+    "full_name_en": "Gia Thanh Commune",
+    "type": "xã",
+    "district_code": "233",
+    "codename": "gia_thanh"
+  },
+  {
+    "code": "08263",
+    "name": "Tiên Du",
+    "name_en": "Tien Du",
+    "full_name": "Xã Tiên Du",
+    "full_name_en": "Tien Du Commune",
+    "type": "xã",
+    "district_code": "233",
+    "codename": "tien_du"
+  },
+  {
+    "code": "08266",
+    "name": "Phú Nham",
+    "name_en": "Phu Nham",
+    "full_name": "Xã Phú Nham",
+    "full_name_en": "Phu Nham Commune",
+    "type": "xã",
+    "district_code": "233",
+    "codename": "phu_nham"
+  },
+  {
+    "code": "08272",
+    "name": "An Đạo",
+    "name_en": "An Dao",
+    "full_name": "Xã An Đạo",
+    "full_name_en": "An Dao Commune",
+    "type": "xã",
+    "district_code": "233",
+    "codename": "an_dao"
+  },
+  {
+    "code": "08275",
+    "name": "Bình Phú",
+    "name_en": "Binh Phu",
+    "full_name": "Xã Bình Phú",
+    "full_name_en": "Binh Phu Commune",
+    "type": "xã",
+    "district_code": "233",
+    "codename": "binh_phu"
+  },
+  {
+    "code": "08278",
+    "name": "Phù Ninh",
+    "name_en": "Phu Ninh",
+    "full_name": "Xã Phù Ninh",
+    "full_name_en": "Phu Ninh Commune",
+    "type": "xã",
+    "district_code": "233",
+    "codename": "phu_ninh"
+  }
+]

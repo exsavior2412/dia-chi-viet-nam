@@ -1,0 +1,112 @@
+[
+  {
+    "code": "27898",
+    "name": "Đông Thành",
+    "name_en": "Dong Thanh",
+    "full_name": "Thị trấn Đông Thành",
+    "full_name_en": "Dong Thanh Township",
+    "type": "thị trấn",
+    "district_code": "801",
+    "codename": "dong_thanh"
+  },
+  {
+    "code": "27901",
+    "name": "Mỹ Quý Đông",
+    "name_en": "My Quy Dong",
+    "full_name": "Xã Mỹ Quý Đông",
+    "full_name_en": "My Quy Dong Commune",
+    "type": "xã",
+    "district_code": "801",
+    "codename": "my_quy_dong"
+  },
+  {
+    "code": "27904",
+    "name": "Mỹ Thạnh Bắc",
+    "name_en": "My Thanh Bac",
+    "full_name": "Xã Mỹ Thạnh Bắc",
+    "full_name_en": "My Thanh Bac Commune",
+    "type": "xã",
+    "district_code": "801",
+    "codename": "my_thanh_bac"
+  },
+  {
+    "code": "27907",
+    "name": "Mỹ Quý Tây",
+    "name_en": "My Quy Tay",
+    "full_name": "Xã Mỹ Quý Tây",
+    "full_name_en": "My Quy Tay Commune",
+    "type": "xã",
+    "district_code": "801",
+    "codename": "my_quy_tay"
+  },
+  {
+    "code": "27910",
+    "name": "Mỹ Thạnh Tây",
+    "name_en": "My Thanh Tay",
+    "full_name": "Xã Mỹ Thạnh Tây",
+    "full_name_en": "My Thanh Tay Commune",
+    "type": "xã",
+    "district_code": "801",
+    "codename": "my_thanh_tay"
+  },
+  {
+    "code": "27913",
+    "name": "Mỹ Thạnh Đông",
+    "name_en": "My Thanh Dong",
+    "full_name": "Xã Mỹ Thạnh Đông",
+    "full_name_en": "My Thanh Dong Commune",
+    "type": "xã",
+    "district_code": "801",
+    "codename": "my_thanh_dong"
+  },
+  {
+    "code": "27916",
+    "name": "Bình Thành",
+    "name_en": "Binh Thanh",
+    "full_name": "Xã Bình Thành",
+    "full_name_en": "Binh Thanh Commune",
+    "type": "xã",
+    "district_code": "801",
+    "codename": "binh_thanh"
+  },
+  {
+    "code": "27919",
+    "name": "Bình Hòa Bắc",
+    "name_en": "Binh Hoa Bac",
+    "full_name": "Xã Bình Hòa Bắc",
+    "full_name_en": "Binh Hoa Bac Commune",
+    "type": "xã",
+    "district_code": "801",
+    "codename": "binh_hoa_bac"
+  },
+  {
+    "code": "27922",
+    "name": "Bình Hòa Hưng",
+    "name_en": "Binh Hoa Hung",
+    "full_name": "Xã Bình Hòa Hưng",
+    "full_name_en": "Binh Hoa Hung Commune",
+    "type": "xã",
+    "district_code": "801",
+    "codename": "binh_hoa_hung"
+  },
+  {
+    "code": "27925",
+    "name": "Bình Hòa Nam",
+    "name_en": "Binh Hoa Nam",
+    "full_name": "Xã Bình Hòa Nam",
+    "full_name_en": "Binh Hoa Nam Commune",
+    "type": "xã",
+    "district_code": "801",
+    "codename": "binh_hoa_nam"
+  },
+  {
+    "code": "27928",
+    "name": "Mỹ Bình",
+    "name_en": "My Binh",
+    "full_name": "Xã Mỹ Bình",
+    "full_name_en": "My Binh Commune",
+    "type": "xã",
+    "district_code": "801",
+    "codename": "my_binh"
+  }
+]

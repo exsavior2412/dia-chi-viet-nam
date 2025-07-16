@@ -1,0 +1,172 @@
+[
+  {
+    "code": "21550",
+    "name": "Nhơn Bình",
+    "name_en": "Nhon Binh",
+    "full_name": "Phường Nhơn Bình",
+    "full_name_en": "Nhon Binh Ward",
+    "type": "phường",
+    "district_code": "540",
+    "codename": "nhon_binh"
+  },
+  {
+    "code": "21553",
+    "name": "Nhơn Phú",
+    "name_en": "Nhon Phu",
+    "full_name": "Phường Nhơn Phú",
+    "full_name_en": "Nhon Phu Ward",
+    "type": "phường",
+    "district_code": "540",
+    "codename": "nhon_phu"
+  },
+  {
+    "code": "21556",
+    "name": "Đống Đa",
+    "name_en": "Dong Da",
+    "full_name": "Phường Đống Đa",
+    "full_name_en": "Dong Da Ward",
+    "type": "phường",
+    "district_code": "540",
+    "codename": "dong_da"
+  },
+  {
+    "code": "21559",
+    "name": "Trần Quang Diệu",
+    "name_en": "Tran Quang Dieu",
+    "full_name": "Phường Trần Quang Diệu",
+    "full_name_en": "Tran Quang Dieu Ward",
+    "type": "phường",
+    "district_code": "540",
+    "codename": "tran_quang_dieu"
+  },
+  {
+    "code": "21562",
+    "name": "Hải Cảng",
+    "name_en": "Hai Cang",
+    "full_name": "Phường Hải Cảng",
+    "full_name_en": "Hai Cang Ward",
+    "type": "phường",
+    "district_code": "540",
+    "codename": "hai_cang"
+  },
+  {
+    "code": "21565",
+    "name": "Quang Trung",
+    "name_en": "Quang Trung",
+    "full_name": "Phường Quang Trung",
+    "full_name_en": "Quang Trung Ward",
+    "type": "phường",
+    "district_code": "540",
+    "codename": "quang_trung"
+  },
+  {
+    "code": "21577",
+    "name": "Ngô Mây",
+    "name_en": "Ngo May",
+    "full_name": "Phường Ngô Mây",
+    "full_name_en": "Ngo May Ward",
+    "type": "phường",
+    "district_code": "540",
+    "codename": "ngo_may"
+  },
+  {
+    "code": "21580",
+    "name": "Trần Phú",
+    "name_en": "Tran Phu",
+    "full_name": "Phường Trần Phú",
+    "full_name_en": "Tran Phu Ward",
+    "type": "phường",
+    "district_code": "540",
+    "codename": "tran_phu"
+  },
+  {
+    "code": "21583",
+    "name": "Thị Nại",
+    "name_en": "Thi Nai",
+    "full_name": "Phường Thị Nại",
+    "full_name_en": "Thi Nai Ward",
+    "type": "phường",
+    "district_code": "540",
+    "codename": "thi_nai"
+  },
+  {
+    "code": "21589",
+    "name": "Bùi Thị Xuân",
+    "name_en": "Bui Thi Xuan",
+    "full_name": "Phường Bùi Thị Xuân",
+    "full_name_en": "Bui Thi Xuan Ward",
+    "type": "phường",
+    "district_code": "540",
+    "codename": "bui_thi_xuan"
+  },
+  {
+    "code": "21592",
+    "name": "Nguyễn Văn Cừ",
+    "name_en": "Nguyen Van Cu",
+    "full_name": "Phường Nguyễn Văn Cừ",
+    "full_name_en": "Nguyen Van Cu Ward",
+    "type": "phường",
+    "district_code": "540",
+    "codename": "nguyen_van_cu"
+  },
+  {
+    "code": "21595",
+    "name": "Ghềnh Ráng",
+    "name_en": "Ghenh Rang",
+    "full_name": "Phường Ghềnh Ráng",
+    "full_name_en": "Ghenh Rang Ward",
+    "type": "phường",
+    "district_code": "540",
+    "codename": "ghenh_rang"
+  },
+  {
+    "code": "21598",
+    "name": "Nhơn Lý",
+    "name_en": "Nhon Ly",
+    "full_name": "Xã Nhơn Lý",
+    "full_name_en": "Nhon Ly Commune",
+    "type": "xã",
+    "district_code": "540",
+    "codename": "nhon_ly"
+  },
+  {
+    "code": "21601",
+    "name": "Nhơn Hội",
+    "name_en": "Nhon Hoi",
+    "full_name": "Xã Nhơn Hội",
+    "full_name_en": "Nhon Hoi Commune",
+    "type": "xã",
+    "district_code": "540",
+    "codename": "nhon_hoi"
+  },
+  {
+    "code": "21604",
+    "name": "Nhơn Hải",
+    "name_en": "Nhon Hai",
+    "full_name": "Xã Nhơn Hải",
+    "full_name_en": "Nhon Hai Commune",
+    "type": "xã",
+    "district_code": "540",
+    "codename": "nhon_hai"
+  },
+  {
+    "code": "21607",
+    "name": "Nhơn Châu",
+    "name_en": "Nhon Chau",
+    "full_name": "Xã Nhơn Châu",
+    "full_name_en": "Nhon Chau Commune",
+    "type": "xã",
+    "district_code": "540",
+    "codename": "nhon_chau"
+  },
+  {
+    "code": "21991",
+    "name": "Phước Mỹ",
+    "name_en": "Phuoc My",
+    "full_name": "Xã Phước Mỹ",
+    "full_name_en": "Phuoc My Commune",
+    "type": "xã",
+    "district_code": "540",
+    "codename": "phuoc_my"
+  }
+]

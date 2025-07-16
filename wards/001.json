@@ -1,0 +1,132 @@
+[
+  {
+    "code": "00001",
+    "name": "Phúc Xá",
+    "name_en": "Phuc Xa",
+    "full_name": "Phường Phúc Xá",
+    "full_name_en": "Phuc Xa Ward",
+    "type": "phường",
+    "district_code": "001",
+    "codename": "phuc_xa"
+  },
+  {
+    "code": "00004",
+    "name": "Trúc Bạch",
+    "name_en": "Truc Bach",
+    "full_name": "Phường Trúc Bạch",
+    "full_name_en": "Truc Bach Ward",
+    "type": "phường",
+    "district_code": "001",
+    "codename": "truc_bach"
+  },
+  {
+    "code": "00006",
+    "name": "Vĩnh Phúc",
+    "name_en": "Vinh Phuc",
+    "full_name": "Phường Vĩnh Phúc",
+    "full_name_en": "Vinh Phuc Ward",
+    "type": "phường",
+    "district_code": "001",
+    "codename": "vinh_phuc"
+  },
+  {
+    "code": "00007",
+    "name": "Cống Vị",
+    "name_en": "Cong Vi",
+    "full_name": "Phường Cống Vị",
+    "full_name_en": "Cong Vi Ward",
+    "type": "phường",
+    "district_code": "001",
+    "codename": "cong_vi"
+  },
+  {
+    "code": "00008",
+    "name": "Liễu Giai",
+    "name_en": "Lieu Giai",
+    "full_name": "Phường Liễu Giai",
+    "full_name_en": "Lieu Giai Ward",
+    "type": "phường",
+    "district_code": "001",
+    "codename": "lieu_giai"
+  },
+  {
+    "code": "00013",
+    "name": "Quán Thánh",
+    "name_en": "Quan Thanh",
+    "full_name": "Phường Quán Thánh",
+    "full_name_en": "Quan Thanh Ward",
+    "type": "phường",
+    "district_code": "001",
+    "codename": "quan_thanh"
+  },
+  {
+    "code": "00016",
+    "name": "Ngọc Hà",
+    "name_en": "Ngoc Ha",
+    "full_name": "Phường Ngọc Hà",
+    "full_name_en": "Ngoc Ha Ward",
+    "type": "phường",
+    "district_code": "001",
+    "codename": "ngoc_ha"
+  },
+  {
+    "code": "00019",
+    "name": "Điện Biên",
+    "name_en": "Dien Bien",
+    "full_name": "Phường Điện Biên",
+    "full_name_en": "Dien Bien Ward",
+    "type": "phường",
+    "district_code": "001",
+    "codename": "dien_bien"
+  },
+  {
+    "code": "00022",
+    "name": "Đội Cấn",
+    "name_en": "Doi Can",
+    "full_name": "Phường Đội Cấn",
+    "full_name_en": "Doi Can Ward",
+    "type": "phường",
+    "district_code": "001",
+    "codename": "doi_can"
+  },
+  {
+    "code": "00025",
+    "name": "Ngọc Khánh",
+    "name_en": "Ngoc Khanh",
+    "full_name": "Phường Ngọc Khánh",
+    "full_name_en": "Ngoc Khanh Ward",
+    "type": "phường",
+    "district_code": "001",
+    "codename": "ngoc_khanh"
+  },
+  {
+    "code": "00028",
+    "name": "Kim Mã",
+    "name_en": "Kim Ma",
+    "full_name": "Phường Kim Mã",
+    "full_name_en": "Kim Ma Ward",
+    "type": "phường",
+    "district_code": "001",
+    "codename": "kim_ma"
+  },
+  {
+    "code": "00031",
+    "name": "Giảng Võ",
+    "name_en": "Giang Vo",
+    "full_name": "Phường Giảng Võ",
+    "full_name_en": "Giang Vo Ward",
+    "type": "phường",
+    "district_code": "001",
+    "codename": "giang_vo"
+  },
+  {
+    "code": "00034",
+    "name": "Thành Công",
+    "name_en": "Thanh Cong",
+    "full_name": "Phường Thành Công",
+    "full_name_en": "Thanh Cong Ward",
+    "type": "phường",
+    "district_code": "001",
+    "codename": "thanh_cong"
+  }
+]

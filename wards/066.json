@@ -1,0 +1,172 @@
+[
+  {
+    "code": "02137",
+    "name": "Văn Vũ",
+    "name_en": "Van Vu",
+    "full_name": "Xã Văn Vũ",
+    "full_name_en": "Van Vu Commune",
+    "type": "xã",
+    "district_code": "066",
+    "codename": "van_vu"
+  },
+  {
+    "code": "02140",
+    "name": "Văn Lang",
+    "name_en": "Van Lang",
+    "full_name": "Xã Văn Lang",
+    "full_name_en": "Van Lang Commune",
+    "type": "xã",
+    "district_code": "066",
+    "codename": "van_lang"
+  },
+  {
+    "code": "02143",
+    "name": "Lương Thượng",
+    "name_en": "Luong Thuong",
+    "full_name": "Xã Lương Thượng",
+    "full_name_en": "Luong Thuong Commune",
+    "type": "xã",
+    "district_code": "066",
+    "codename": "luong_thuong"
+  },
+  {
+    "code": "02146",
+    "name": "Kim Hỷ",
+    "name_en": "Kim Hy",
+    "full_name": "Xã Kim Hỷ",
+    "full_name_en": "Kim Hy Commune",
+    "type": "xã",
+    "district_code": "066",
+    "codename": "kim_hy"
+  },
+  {
+    "code": "02152",
+    "name": "Cường Lợi",
+    "name_en": "Cuong Loi",
+    "full_name": "Xã Cường Lợi",
+    "full_name_en": "Cuong Loi Commune",
+    "type": "xã",
+    "district_code": "066",
+    "codename": "cuong_loi"
+  },
+  {
+    "code": "02155",
+    "name": "Yến Lạc",
+    "name_en": "Yen Lac",
+    "full_name": "Thị trấn Yến Lạc",
+    "full_name_en": "Yen Lac Township",
+    "type": "thị trấn",
+    "district_code": "066",
+    "codename": "yen_lac"
+  },
+  {
+    "code": "02158",
+    "name": "Kim Lư",
+    "name_en": "Kim Lu",
+    "full_name": "Xã Kim Lư",
+    "full_name_en": "Kim Lu Commune",
+    "type": "xã",
+    "district_code": "066",
+    "codename": "kim_lu"
+  },
+  {
+    "code": "02161",
+    "name": "Sơn Thành",
+    "name_en": "Son Thanh",
+    "full_name": "Xã Sơn Thành",
+    "full_name_en": "Son Thanh Commune",
+    "type": "xã",
+    "district_code": "066",
+    "codename": "son_thanh"
+  },
+  {
+    "code": "02170",
+    "name": "Văn Minh",
+    "name_en": "Van Minh",
+    "full_name": "Xã Văn Minh",
+    "full_name_en": "Van Minh Commune",
+    "type": "xã",
+    "district_code": "066",
+    "codename": "van_minh"
+  },
+  {
+    "code": "02173",
+    "name": "Côn Minh",
+    "name_en": "Con Minh",
+    "full_name": "Xã Côn Minh",
+    "full_name_en": "Con Minh Commune",
+    "type": "xã",
+    "district_code": "066",
+    "codename": "con_minh"
+  },
+  {
+    "code": "02176",
+    "name": "Cư Lễ",
+    "name_en": "Cu Le",
+    "full_name": "Xã Cư Lễ",
+    "full_name_en": "Cu Le Commune",
+    "type": "xã",
+    "district_code": "066",
+    "codename": "cu_le"
+  },
+  {
+    "code": "02179",
+    "name": "Trần Phú",
+    "name_en": "Tran Phu",
+    "full_name": "Xã Trần Phú",
+    "full_name_en": "Tran Phu Commune",
+    "type": "xã",
+    "district_code": "066",
+    "codename": "tran_phu"
+  },
+  {
+    "code": "02185",
+    "name": "Quang Phong",
+    "name_en": "Quang Phong",
+    "full_name": "Xã Quang Phong",
+    "full_name_en": "Quang Phong Commune",
+    "type": "xã",
+    "district_code": "066",
+    "codename": "quang_phong"
+  },
+  {
+    "code": "02188",
+    "name": "Dương Sơn",
+    "name_en": "Duong Son",
+    "full_name": "Xã Dương Sơn",
+    "full_name_en": "Duong Son Commune",
+    "type": "xã",
+    "district_code": "066",
+    "codename": "duong_son"
+  },
+  {
+    "code": "02191",
+    "name": "Xuân Dương",
+    "name_en": "Xuan Duong",
+    "full_name": "Xã Xuân Dương",
+    "full_name_en": "Xuan Duong Commune",
+    "type": "xã",
+    "district_code": "066",
+    "codename": "xuan_duong"
+  },
+  {
+    "code": "02194",
+    "name": "Đổng Xá",
+    "name_en": "Dong Xa",
+    "full_name": "Xã Đổng Xá",
+    "full_name_en": "Dong Xa Commune",
+    "type": "xã",
+    "district_code": "066",
+    "codename": "dong_xa"
+  },
+  {
+    "code": "02197",
+    "name": "Liêm Thuỷ",
+    "name_en": "Liem Thuy",
+    "full_name": "Xã Liêm Thuỷ",
+    "full_name_en": "Liem Thuy Commune",
+    "type": "xã",
+    "district_code": "066",
+    "codename": "liem_thuy"
+  }
+]

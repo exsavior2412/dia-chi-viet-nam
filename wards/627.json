@@ -1,0 +1,142 @@
+[
+  {
+    "code": "23722",
+    "name": "Phú Hòa",
+    "name_en": "Phu Hoa",
+    "full_name": "Thị trấn Phú Hòa",
+    "full_name_en": "Phu Hoa Township",
+    "type": "thị trấn",
+    "district_code": "627",
+    "codename": "phu_hoa"
+  },
+  {
+    "code": "23725",
+    "name": "Hà Tây",
+    "name_en": "Ha Tay",
+    "full_name": "Xã Hà Tây",
+    "full_name_en": "Ha Tay Commune",
+    "type": "xã",
+    "district_code": "627",
+    "codename": "ha_tay"
+  },
+  {
+    "code": "23728",
+    "name": "Ia Khươl",
+    "name_en": "Ia Khuol",
+    "full_name": "Xã Ia Khươl",
+    "full_name_en": "Ia Khuol Commune",
+    "type": "xã",
+    "district_code": "627",
+    "codename": "ia_khuol"
+  },
+  {
+    "code": "23731",
+    "name": "Ia Phí",
+    "name_en": "Ia Phi",
+    "full_name": "Xã Ia Phí",
+    "full_name_en": "Ia Phi Commune",
+    "type": "xã",
+    "district_code": "627",
+    "codename": "ia_phi"
+  },
+  {
+    "code": "23734",
+    "name": "Ia Ly",
+    "name_en": "Ia Ly",
+    "full_name": "Thị trấn Ia Ly",
+    "full_name_en": "Ia Ly Township",
+    "type": "thị trấn",
+    "district_code": "627",
+    "codename": "ia_ly"
+  },
+  {
+    "code": "23737",
+    "name": "Ia Mơ Nông",
+    "name_en": "Ia Mo Nong",
+    "full_name": "Xã Ia Mơ Nông",
+    "full_name_en": "Ia Mo Nong Commune",
+    "type": "xã",
+    "district_code": "627",
+    "codename": "ia_mo_nong"
+  },
+  {
+    "code": "23738",
+    "name": "Ia Kreng",
+    "name_en": "Ia Kreng",
+    "full_name": "Xã Ia Kreng",
+    "full_name_en": "Ia Kreng Commune",
+    "type": "xã",
+    "district_code": "627",
+    "codename": "ia_kreng"
+  },
+  {
+    "code": "23740",
+    "name": "Đăk Tơ Ver",
+    "name_en": "Dak To Ver",
+    "full_name": "Xã Đăk Tơ Ver",
+    "full_name_en": "Dak To Ver Commune",
+    "type": "xã",
+    "district_code": "627",
+    "codename": "dak_to_ver"
+  },
+  {
+    "code": "23743",
+    "name": "Hòa Phú",
+    "name_en": "Hoa Phu",
+    "full_name": "Xã Hòa Phú",
+    "full_name_en": "Hoa Phu Commune",
+    "type": "xã",
+    "district_code": "627",
+    "codename": "hoa_phu"
+  },
+  {
+    "code": "23746",
+    "name": "Chư Đăng Ya",
+    "name_en": "Chu Dang Ya",
+    "full_name": "Xã Chư Đăng Ya",
+    "full_name_en": "Chu Dang Ya Commune",
+    "type": "xã",
+    "district_code": "627",
+    "codename": "chu_dang_ya"
+  },
+  {
+    "code": "23749",
+    "name": "Ia Ka",
+    "name_en": "Ia Ka",
+    "full_name": "Xã Ia Ka",
+    "full_name_en": "Ia Ka Commune",
+    "type": "xã",
+    "district_code": "627",
+    "codename": "ia_ka"
+  },
+  {
+    "code": "23752",
+    "name": "Ia Nhin",
+    "name_en": "Ia Nhin",
+    "full_name": "Xã Ia Nhin",
+    "full_name_en": "Ia Nhin Commune",
+    "type": "xã",
+    "district_code": "627",
+    "codename": "ia_nhin"
+  },
+  {
+    "code": "23755",
+    "name": "Nghĩa Hòa",
+    "name_en": "Nghia Hoa",
+    "full_name": "Xã Nghĩa Hòa",
+    "full_name_en": "Nghia Hoa Commune",
+    "type": "xã",
+    "district_code": "627",
+    "codename": "nghia_hoa"
+  },
+  {
+    "code": "23761",
+    "name": "Nghĩa Hưng",
+    "name_en": "Nghia Hung",
+    "full_name": "Xã Nghĩa Hưng",
+    "full_name_en": "Nghia Hung Commune",
+    "type": "xã",
+    "district_code": "627",
+    "codename": "nghia_hung"
+  }
+]

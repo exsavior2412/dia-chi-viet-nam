@@ -1,0 +1,92 @@
+[
+  {
+    "code": "31471",
+    "name": "Thuận An",
+    "name_en": "Thuan An",
+    "full_name": "Phường Thuận An",
+    "full_name_en": "Thuan An Ward",
+    "type": "phường",
+    "district_code": "937",
+    "codename": "thuan_an"
+  },
+  {
+    "code": "31472",
+    "name": "Trà Lồng",
+    "name_en": "Tra Long",
+    "full_name": "Phường Trà Lồng",
+    "full_name_en": "Tra Long Ward",
+    "type": "phường",
+    "district_code": "937",
+    "codename": "tra_long"
+  },
+  {
+    "code": "31473",
+    "name": "Bình Thạnh",
+    "name_en": "Binh Thanh",
+    "full_name": "Phường Bình Thạnh",
+    "full_name_en": "Binh Thanh Ward",
+    "type": "phường",
+    "district_code": "937",
+    "codename": "binh_thanh"
+  },
+  {
+    "code": "31474",
+    "name": "Long Bình",
+    "name_en": "Long Binh",
+    "full_name": "Xã Long Bình",
+    "full_name_en": "Long Binh Commune",
+    "type": "xã",
+    "district_code": "937",
+    "codename": "long_binh"
+  },
+  {
+    "code": "31475",
+    "name": "Vĩnh Tường",
+    "name_en": "Vinh Tuong",
+    "full_name": "Phường Vĩnh Tường",
+    "full_name_en": "Vinh Tuong Ward",
+    "type": "phường",
+    "district_code": "937",
+    "codename": "vinh_tuong"
+  },
+  {
+    "code": "31477",
+    "name": "Long Trị",
+    "name_en": "Long Tri",
+    "full_name": "Xã Long Trị",
+    "full_name_en": "Long Tri Commune",
+    "type": "xã",
+    "district_code": "937",
+    "codename": "long_tri"
+  },
+  {
+    "code": "31478",
+    "name": "Long Trị A",
+    "name_en": "Long Tri A",
+    "full_name": "Xã Long Trị A",
+    "full_name_en": "Long Tri A Commune",
+    "type": "xã",
+    "district_code": "937",
+    "codename": "long_tri_a"
+  },
+  {
+    "code": "31480",
+    "name": "Long Phú",
+    "name_en": "Long Phu",
+    "full_name": "Xã Long Phú",
+    "full_name_en": "Long Phu Commune",
+    "type": "xã",
+    "district_code": "937",
+    "codename": "long_phu"
+  },
+  {
+    "code": "31481",
+    "name": "Tân Phú",
+    "name_en": "Tan Phu",
+    "full_name": "Xã Tân Phú",
+    "full_name_en": "Tan Phu Commune",
+    "type": "xã",
+    "district_code": "937",
+    "codename": "tan_phu"
+  }
+]

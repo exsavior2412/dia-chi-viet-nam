@@ -1,0 +1,212 @@
+[
+  {
+    "code": "27496",
+    "name": "Củ Chi",
+    "name_en": "Cu Chi",
+    "full_name": "Thị trấn Củ Chi",
+    "full_name_en": "Cu Chi Township",
+    "type": "thị trấn",
+    "district_code": "783",
+    "codename": "cu_chi"
+  },
+  {
+    "code": "27499",
+    "name": "Phú Mỹ Hưng",
+    "name_en": "Phu My Hung",
+    "full_name": "Xã Phú Mỹ Hưng",
+    "full_name_en": "Phu My Hung Commune",
+    "type": "xã",
+    "district_code": "783",
+    "codename": "phu_my_hung"
+  },
+  {
+    "code": "27502",
+    "name": "An Phú",
+    "name_en": "An Phu",
+    "full_name": "Xã An Phú",
+    "full_name_en": "An Phu Commune",
+    "type": "xã",
+    "district_code": "783",
+    "codename": "an_phu"
+  },
+  {
+    "code": "27505",
+    "name": "Trung Lập Thượng",
+    "name_en": "Trung Lap Thuong",
+    "full_name": "Xã Trung Lập Thượng",
+    "full_name_en": "Trung Lap Thuong Commune",
+    "type": "xã",
+    "district_code": "783",
+    "codename": "trung_lap_thuong"
+  },
+  {
+    "code": "27508",
+    "name": "An Nhơn Tây",
+    "name_en": "An Nhon Tay",
+    "full_name": "Xã An Nhơn Tây",
+    "full_name_en": "An Nhon Tay Commune",
+    "type": "xã",
+    "district_code": "783",
+    "codename": "an_nhon_tay"
+  },
+  {
+    "code": "27511",
+    "name": "Nhuận Đức",
+    "name_en": "Nhuan Duc",
+    "full_name": "Xã Nhuận Đức",
+    "full_name_en": "Nhuan Duc Commune",
+    "type": "xã",
+    "district_code": "783",
+    "codename": "nhuan_duc"
+  },
+  {
+    "code": "27514",
+    "name": "Phạm Văn Cội",
+    "name_en": "Pham Van Coi",
+    "full_name": "Xã Phạm Văn Cội",
+    "full_name_en": "Pham Van Coi Commune",
+    "type": "xã",
+    "district_code": "783",
+    "codename": "pham_van_coi"
+  },
+  {
+    "code": "27517",
+    "name": "Phú Hòa Đông",
+    "name_en": "Phu Hoa Dong",
+    "full_name": "Xã Phú Hòa Đông",
+    "full_name_en": "Phu Hoa Dong Commune",
+    "type": "xã",
+    "district_code": "783",
+    "codename": "phu_hoa_dong"
+  },
+  {
+    "code": "27520",
+    "name": "Trung Lập Hạ",
+    "name_en": "Trung Lap Ha",
+    "full_name": "Xã Trung Lập Hạ",
+    "full_name_en": "Trung Lap Ha Commune",
+    "type": "xã",
+    "district_code": "783",
+    "codename": "trung_lap_ha"
+  },
+  {
+    "code": "27523",
+    "name": "Trung An",
+    "name_en": "Trung An",
+    "full_name": "Xã Trung An",
+    "full_name_en": "Trung An Commune",
+    "type": "xã",
+    "district_code": "783",
+    "codename": "trung_an"
+  },
+  {
+    "code": "27526",
+    "name": "Phước Thạnh",
+    "name_en": "Phuoc Thanh",
+    "full_name": "Xã Phước Thạnh",
+    "full_name_en": "Phuoc Thanh Commune",
+    "type": "xã",
+    "district_code": "783",
+    "codename": "phuoc_thanh"
+  },
+  {
+    "code": "27529",
+    "name": "Phước Hiệp",
+    "name_en": "Phuoc Hiep",
+    "full_name": "Xã Phước Hiệp",
+    "full_name_en": "Phuoc Hiep Commune",
+    "type": "xã",
+    "district_code": "783",
+    "codename": "phuoc_hiep"
+  },
+  {
+    "code": "27532",
+    "name": "Tân An Hội",
+    "name_en": "Tan An Hoi",
+    "full_name": "Xã Tân An Hội",
+    "full_name_en": "Tan An Hoi Commune",
+    "type": "xã",
+    "district_code": "783",
+    "codename": "tan_an_hoi"
+  },
+  {
+    "code": "27535",
+    "name": "Phước Vĩnh An",
+    "name_en": "Phuoc Vinh An",
+    "full_name": "Xã Phước Vĩnh An",
+    "full_name_en": "Phuoc Vinh An Commune",
+    "type": "xã",
+    "district_code": "783",
+    "codename": "phuoc_vinh_an"
+  },
+  {
+    "code": "27538",
+    "name": "Thái Mỹ",
+    "name_en": "Thai My",
+    "full_name": "Xã Thái Mỹ",
+    "full_name_en": "Thai My Commune",
+    "type": "xã",
+    "district_code": "783",
+    "codename": "thai_my"
+  },
+  {
+    "code": "27541",
+    "name": "Tân Thạnh Tây",
+    "name_en": "Tan Thanh Tay",
+    "full_name": "Xã Tân Thạnh Tây",
+    "full_name_en": "Tan Thanh Tay Commune",
+    "type": "xã",
+    "district_code": "783",
+    "codename": "tan_thanh_tay"
+  },
+  {
+    "code": "27544",
+    "name": "Hòa Phú",
+    "name_en": "Hoa Phu",
+    "full_name": "Xã Hòa Phú",
+    "full_name_en": "Hoa Phu Commune",
+    "type": "xã",
+    "district_code": "783",
+    "codename": "hoa_phu"
+  },
+  {
+    "code": "27547",
+    "name": "Tân Thạnh Đông",
+    "name_en": "Tan Thanh Dong",
+    "full_name": "Xã Tân Thạnh Đông",
+    "full_name_en": "Tan Thanh Dong Commune",
+    "type": "xã",
+    "district_code": "783",
+    "codename": "tan_thanh_dong"
+  },
+  {
+    "code": "27550",
+    "name": "Bình Mỹ",
+    "name_en": "Binh My",
+    "full_name": "Xã Bình Mỹ",
+    "full_name_en": "Binh My Commune",
+    "type": "xã",
+    "district_code": "783",
+    "codename": "binh_my"
+  },
+  {
+    "code": "27553",
+    "name": "Tân Phú Trung",
+    "name_en": "Tan Phu Trung",
+    "full_name": "Xã Tân Phú Trung",
+    "full_name_en": "Tan Phu Trung Commune",
+    "type": "xã",
+    "district_code": "783",
+    "codename": "tan_phu_trung"
+  },
+  {
+    "code": "27556",
+    "name": "Tân Thông Hội",
+    "name_en": "Tan Thong Hoi",
+    "full_name": "Xã Tân Thông Hội",
+    "full_name_en": "Tan Thong Hoi Commune",
+    "type": "xã",
+    "district_code": "783",
+    "codename": "tan_thong_hoi"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "code": "23557",
+    "name": "Yên Đỗ",
+    "name_en": "Yen Do",
+    "full_name": "Phường Yên Đỗ",
+    "full_name_en": "Yen Do Ward",
+    "type": "phường",
+    "district_code": "622",
+    "codename": "yen_do"
+  },
+  {
+    "code": "23560",
+    "name": "Diên Hồng",
+    "name_en": "Dien Hong",
+    "full_name": "Phường Diên Hồng",
+    "full_name_en": "Dien Hong Ward",
+    "type": "phường",
+    "district_code": "622",
+    "codename": "dien_hong"
+  },
+  {
+    "code": "23563",
+    "name": "Ia Kring",
+    "name_en": "Ia Kring",
+    "full_name": "Phường Ia Kring",
+    "full_name_en": "Ia Kring Ward",
+    "type": "phường",
+    "district_code": "622",
+    "codename": "ia_kring"
+  },
+  {
+    "code": "23566",
+    "name": "Hội Thương",
+    "name_en": "Hoi Thuong",
+    "full_name": "Phường Hội Thương",
+    "full_name_en": "Hoi Thuong Ward",
+    "type": "phường",
+    "district_code": "622",
+    "codename": "hoi_thuong"
+  },
+  {
+    "code": "23569",
+    "name": "Hội Phú",
+    "name_en": "Hoi Phu",
+    "full_name": "Phường Hội Phú",
+    "full_name_en": "Hoi Phu Ward",
+    "type": "phường",
+    "district_code": "622",
+    "codename": "hoi_phu"
+  },
+  {
+    "code": "23570",
+    "name": "Phù Đổng",
+    "name_en": "Phu Dong",
+    "full_name": "Phường Phù Đổng",
+    "full_name_en": "Phu Dong Ward",
+    "type": "phường",
+    "district_code": "622",
+    "codename": "phu_dong"
+  },
+  {
+    "code": "23572",
+    "name": "Hoa Lư",
+    "name_en": "Hoa Lu",
+    "full_name": "Phường Hoa Lư",
+    "full_name_en": "Hoa Lu Ward",
+    "type": "phường",
+    "district_code": "622",
+    "codename": "hoa_lu"
+  },
+  {
+    "code": "23575",
+    "name": "Tây Sơn",
+    "name_en": "Tay Son",
+    "full_name": "Phường Tây Sơn",
+    "full_name_en": "Tay Son Ward",
+    "type": "phường",
+    "district_code": "622",
+    "codename": "tay_son"
+  },
+  {
+    "code": "23578",
+    "name": "Thống Nhất",
+    "name_en": "Thong Nhat",
+    "full_name": "Phường Thống Nhất",
+    "full_name_en": "Thong Nhat Ward",
+    "type": "phường",
+    "district_code": "622",
+    "codename": "thong_nhat"
+  },
+  {
+    "code": "23579",
+    "name": "Đống Đa",
+    "name_en": "Dong Da",
+    "full_name": "Phường Đống Đa",
+    "full_name_en": "Dong Da Ward",
+    "type": "phường",
+    "district_code": "622",
+    "codename": "dong_da"
+  },
+  {
+    "code": "23581",
+    "name": "Trà Bá",
+    "name_en": "Tra Ba",
+    "full_name": "Phường Trà Bá",
+    "full_name_en": "Tra Ba Ward",
+    "type": "phường",
+    "district_code": "622",
+    "codename": "tra_ba"
+  },
+  {
+    "code": "23582",
+    "name": "Thắng Lợi",
+    "name_en": "Thang Loi",
+    "full_name": "Phường Thắng Lợi",
+    "full_name_en": "Thang Loi Ward",
+    "type": "phường",
+    "district_code": "622",
+    "codename": "thang_loi"
+  },
+  {
+    "code": "23584",
+    "name": "Yên Thế",
+    "name_en": "Yen The",
+    "full_name": "Phường Yên Thế",
+    "full_name_en": "Yen The Ward",
+    "type": "phường",
+    "district_code": "622",
+    "codename": "yen_the"
+  },
+  {
+    "code": "23586",
+    "name": "Chi Lăng",
+    "name_en": "Chi Lang",
+    "full_name": "Phường Chi Lăng",
+    "full_name_en": "Chi Lang Ward",
+    "type": "phường",
+    "district_code": "622",
+    "codename": "chi_lang"
+  },
+  {
+    "code": "23590",
+    "name": "Biển Hồ",
+    "name_en": "Bien Ho",
+    "full_name": "Xã Biển Hồ",
+    "full_name_en": "Bien Ho Commune",
+    "type": "xã",
+    "district_code": "622",
+    "codename": "bien_ho"
+  },
+  {
+    "code": "23596",
+    "name": "Trà Đa",
+    "name_en": "Tra Da",
+    "full_name": "Xã Trà Đa",
+    "full_name_en": "Tra Da Commune",
+    "type": "xã",
+    "district_code": "622",
+    "codename": "tra_da"
+  },
+  {
+    "code": "23599",
+    "name": "Chư Á",
+    "name_en": "Chu A",
+    "full_name": "Xã Chư Á",
+    "full_name_en": "Chu A Commune",
+    "type": "xã",
+    "district_code": "622",
+    "codename": "chu_a"
+  },
+  {
+    "code": "23602",
+    "name": "An Phú",
+    "name_en": "An Phu",
+    "full_name": "Xã An Phú",
+    "full_name_en": "An Phu Commune",
+    "type": "xã",
+    "district_code": "622",
+    "codename": "an_phu"
+  },
+  {
+    "code": "23605",
+    "name": "Diên Phú",
+    "name_en": "Dien Phu",
+    "full_name": "Xã Diên Phú",
+    "full_name_en": "Dien Phu Commune",
+    "type": "xã",
+    "district_code": "622",
+    "codename": "dien_phu"
+  },
+  {
+    "code": "23608",
+    "name": "Ia Kênh",
+    "name_en": "Ia Kenh",
+    "full_name": "Xã Ia Kênh",
+    "full_name_en": "Ia Kenh Commune",
+    "type": "xã",
+    "district_code": "622",
+    "codename": "ia_kenh"
+  },
+  {
+    "code": "23611",
+    "name": "Gào",
+    "name_en": "Gao",
+    "full_name": "Xã Gào",
+    "full_name_en": "Gao Commune",
+    "type": "xã",
+    "district_code": "622",
+    "codename": "gao"
+  }
+]

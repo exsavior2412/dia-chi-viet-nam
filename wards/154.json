@@ -1,0 +1,102 @@
+[
+  {
+    "code": "05089",
+    "name": "Cao Phong",
+    "name_en": "Cao Phong",
+    "full_name": "Thị trấn Cao Phong",
+    "full_name_en": "Cao Phong Township",
+    "type": "thị trấn",
+    "district_code": "154",
+    "codename": "cao_phong"
+  },
+  {
+    "code": "05092",
+    "name": "Bình Thanh",
+    "name_en": "Binh Thanh",
+    "full_name": "Xã Bình Thanh",
+    "full_name_en": "Binh Thanh Commune",
+    "type": "xã",
+    "district_code": "154",
+    "codename": "binh_thanh"
+  },
+  {
+    "code": "05095",
+    "name": "Thung Nai",
+    "name_en": "Thung Nai",
+    "full_name": "Xã Thung Nai",
+    "full_name_en": "Thung Nai Commune",
+    "type": "xã",
+    "district_code": "154",
+    "codename": "thung_nai"
+  },
+  {
+    "code": "05098",
+    "name": "Bắc Phong",
+    "name_en": "Bac Phong",
+    "full_name": "Xã Bắc Phong",
+    "full_name_en": "Bac Phong Commune",
+    "type": "xã",
+    "district_code": "154",
+    "codename": "bac_phong"
+  },
+  {
+    "code": "05101",
+    "name": "Thu Phong",
+    "name_en": "Thu Phong",
+    "full_name": "Xã Thu Phong",
+    "full_name_en": "Thu Phong Commune",
+    "type": "xã",
+    "district_code": "154",
+    "codename": "thu_phong"
+  },
+  {
+    "code": "05104",
+    "name": "Hợp Phong",
+    "name_en": "Hop Phong",
+    "full_name": "Xã Hợp Phong",
+    "full_name_en": "Hop Phong Commune",
+    "type": "xã",
+    "district_code": "154",
+    "codename": "hop_phong"
+  },
+  {
+    "code": "05110",
+    "name": "Tây Phong",
+    "name_en": "Tay Phong",
+    "full_name": "Xã Tây Phong",
+    "full_name_en": "Tay Phong Commune",
+    "type": "xã",
+    "district_code": "154",
+    "codename": "tay_phong"
+  },
+  {
+    "code": "05116",
+    "name": "Dũng Phong",
+    "name_en": "Dung Phong",
+    "full_name": "Xã Dũng Phong",
+    "full_name_en": "Dung Phong Commune",
+    "type": "xã",
+    "district_code": "154",
+    "codename": "dung_phong"
+  },
+  {
+    "code": "05119",
+    "name": "Nam Phong",
+    "name_en": "Nam Phong",
+    "full_name": "Xã Nam Phong",
+    "full_name_en": "Nam Phong Commune",
+    "type": "xã",
+    "district_code": "154",
+    "codename": "nam_phong"
+  },
+  {
+    "code": "05125",
+    "name": "Thạch Yên",
+    "name_en": "Thach Yen",
+    "full_name": "Xã Thạch Yên",
+    "full_name_en": "Thach Yen Commune",
+    "type": "xã",
+    "district_code": "154",
+    "codename": "thach_yen"
+  }
+]

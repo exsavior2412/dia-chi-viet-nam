@@ -1,0 +1,142 @@
+[
+  {
+    "code": "04249",
+    "name": "Yên Thịnh",
+    "name_en": "Yen Thinh",
+    "full_name": "Phường Yên Thịnh",
+    "full_name_en": "Yen Thinh Ward",
+    "type": "phường",
+    "district_code": "132",
+    "codename": "yen_thinh"
+  },
+  {
+    "code": "04252",
+    "name": "Yên Ninh",
+    "name_en": "Yen Ninh",
+    "full_name": "Phường Yên Ninh",
+    "full_name_en": "Yen Ninh Ward",
+    "type": "phường",
+    "district_code": "132",
+    "codename": "yen_ninh"
+  },
+  {
+    "code": "04255",
+    "name": "Minh Tân",
+    "name_en": "Minh Tan",
+    "full_name": "Phường Minh Tân",
+    "full_name_en": "Minh Tan Ward",
+    "type": "phường",
+    "district_code": "132",
+    "codename": "minh_tan"
+  },
+  {
+    "code": "04258",
+    "name": "Nguyễn Thái Học",
+    "name_en": "Nguyen Thai Hoc",
+    "full_name": "Phường Nguyễn Thái Học",
+    "full_name_en": "Nguyen Thai Hoc Ward",
+    "type": "phường",
+    "district_code": "132",
+    "codename": "nguyen_thai_hoc"
+  },
+  {
+    "code": "04261",
+    "name": "Đồng Tâm",
+    "name_en": "Dong Tam",
+    "full_name": "Phường Đồng Tâm",
+    "full_name_en": "Dong Tam Ward",
+    "type": "phường",
+    "district_code": "132",
+    "codename": "dong_tam"
+  },
+  {
+    "code": "04264",
+    "name": "Hồng Hà",
+    "name_en": "Hong Ha",
+    "full_name": "Phường Hồng Hà",
+    "full_name_en": "Hong Ha Ward",
+    "type": "phường",
+    "district_code": "132",
+    "codename": "hong_ha"
+  },
+  {
+    "code": "04270",
+    "name": "Minh Bảo",
+    "name_en": "Minh Bao",
+    "full_name": "Xã Minh Bảo",
+    "full_name_en": "Minh Bao Commune",
+    "type": "xã",
+    "district_code": "132",
+    "codename": "minh_bao"
+  },
+  {
+    "code": "04273",
+    "name": "Nam Cường",
+    "name_en": "Nam Cuong",
+    "full_name": "Phường Nam Cường",
+    "full_name_en": "Nam Cuong Ward",
+    "type": "phường",
+    "district_code": "132",
+    "codename": "nam_cuong"
+  },
+  {
+    "code": "04276",
+    "name": "Tuy Lộc",
+    "name_en": "Tuy Loc",
+    "full_name": "Xã Tuy Lộc",
+    "full_name_en": "Tuy Loc Commune",
+    "type": "xã",
+    "district_code": "132",
+    "codename": "tuy_loc"
+  },
+  {
+    "code": "04279",
+    "name": "Tân Thịnh",
+    "name_en": "Tan Thinh",
+    "full_name": "Xã Tân Thịnh",
+    "full_name_en": "Tan Thinh Commune",
+    "type": "xã",
+    "district_code": "132",
+    "codename": "tan_thinh"
+  },
+  {
+    "code": "04540",
+    "name": "Âu Lâu",
+    "name_en": "Au Lau",
+    "full_name": "Xã Âu Lâu",
+    "full_name_en": "Au Lau Commune",
+    "type": "xã",
+    "district_code": "132",
+    "codename": "au_lau"
+  },
+  {
+    "code": "04543",
+    "name": "Giới Phiên",
+    "name_en": "Gioi Phien",
+    "full_name": "Xã Giới Phiên",
+    "full_name_en": "Gioi Phien Commune",
+    "type": "xã",
+    "district_code": "132",
+    "codename": "gioi_phien"
+  },
+  {
+    "code": "04546",
+    "name": "Hợp Minh",
+    "name_en": "Hop Minh",
+    "full_name": "Phường Hợp Minh",
+    "full_name_en": "Hop Minh Ward",
+    "type": "phường",
+    "district_code": "132",
+    "codename": "hop_minh"
+  },
+  {
+    "code": "04558",
+    "name": "Văn Phú",
+    "name_en": "Van Phu",
+    "full_name": "Xã Văn Phú",
+    "full_name_en": "Van Phu Commune",
+    "type": "xã",
+    "district_code": "132",
+    "codename": "van_phu"
+  }
+]

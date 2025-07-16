@@ -1,0 +1,152 @@
+[
+  {
+    "code": "18001",
+    "name": "Hưng Nguyên",
+    "name_en": "Hung Nguyen",
+    "full_name": "Thị trấn Hưng Nguyên",
+    "full_name_en": "Hung Nguyen Township",
+    "type": "thị trấn",
+    "district_code": "431",
+    "codename": "hung_nguyen"
+  },
+  {
+    "code": "18004",
+    "name": "Hưng Trung",
+    "name_en": "Hung Trung",
+    "full_name": "Xã Hưng Trung",
+    "full_name_en": "Hung Trung Commune",
+    "type": "xã",
+    "district_code": "431",
+    "codename": "hung_trung"
+  },
+  {
+    "code": "18007",
+    "name": "Hưng Yên",
+    "name_en": "Hung Yen",
+    "full_name": "Xã Hưng Yên",
+    "full_name_en": "Hung Yen Commune",
+    "type": "xã",
+    "district_code": "431",
+    "codename": "hung_yen"
+  },
+  {
+    "code": "18008",
+    "name": "Hưng Yên Bắc",
+    "name_en": "Hung Yen Bac",
+    "full_name": "Xã Hưng Yên Bắc",
+    "full_name_en": "Hung Yen Bac Commune",
+    "type": "xã",
+    "district_code": "431",
+    "codename": "hung_yen_bac"
+  },
+  {
+    "code": "18010",
+    "name": "Hưng Tây",
+    "name_en": "Hung Tay",
+    "full_name": "Xã Hưng Tây",
+    "full_name_en": "Hung Tay Commune",
+    "type": "xã",
+    "district_code": "431",
+    "codename": "hung_tay"
+  },
+  {
+    "code": "18016",
+    "name": "Hưng Đạo",
+    "name_en": "Hung Dao",
+    "full_name": "Xã Hưng Đạo",
+    "full_name_en": "Hung Dao Commune",
+    "type": "xã",
+    "district_code": "431",
+    "codename": "hung_dao"
+  },
+  {
+    "code": "18022",
+    "name": "Thịnh Mỹ",
+    "name_en": "Thinh My",
+    "full_name": "Xã Thịnh Mỹ",
+    "full_name_en": "Thinh My Commune",
+    "type": "xã",
+    "district_code": "431",
+    "codename": "thinh_my"
+  },
+  {
+    "code": "18025",
+    "name": "Hưng Lĩnh",
+    "name_en": "Hung Linh",
+    "full_name": "Xã Hưng Lĩnh",
+    "full_name_en": "Hung Linh Commune",
+    "type": "xã",
+    "district_code": "431",
+    "codename": "hung_linh"
+  },
+  {
+    "code": "18028",
+    "name": "Thông Tân",
+    "name_en": "Thong Tan",
+    "full_name": "Xã Thông Tân",
+    "full_name_en": "Thong Tan Commune",
+    "type": "xã",
+    "district_code": "431",
+    "codename": "thong_tan"
+  },
+  {
+    "code": "18037",
+    "name": "Hưng Nghĩa",
+    "name_en": "Hung Nghia",
+    "full_name": "Xã Hưng Nghĩa",
+    "full_name_en": "Hung Nghia Commune",
+    "type": "xã",
+    "district_code": "431",
+    "codename": "hung_nghia"
+  },
+  {
+    "code": "18040",
+    "name": "Phúc Lợi",
+    "name_en": "Phuc Loi",
+    "full_name": "Xã Phúc Lợi",
+    "full_name_en": "Phuc Loi Commune",
+    "type": "xã",
+    "district_code": "431",
+    "codename": "phuc_loi"
+  },
+  {
+    "code": "18043",
+    "name": "Long Xá",
+    "name_en": "Long Xa",
+    "full_name": "Xã Long Xá",
+    "full_name_en": "Long Xa Commune",
+    "type": "xã",
+    "district_code": "431",
+    "codename": "long_xa"
+  },
+  {
+    "code": "18052",
+    "name": "Châu Nhân",
+    "name_en": "Chau Nhan",
+    "full_name": "Xã Châu Nhân",
+    "full_name_en": "Chau Nhan Commune",
+    "type": "xã",
+    "district_code": "431",
+    "codename": "chau_nhan"
+  },
+  {
+    "code": "18055",
+    "name": "Xuân Lam",
+    "name_en": "Xuan Lam",
+    "full_name": "Xã Xuân Lam",
+    "full_name_en": "Xuan Lam Commune",
+    "type": "xã",
+    "district_code": "431",
+    "codename": "xuan_lam"
+  },
+  {
+    "code": "18064",
+    "name": "Hưng Thành",
+    "name_en": "Hung Thanh",
+    "full_name": "Xã Hưng Thành",
+    "full_name_en": "Hung Thanh Commune",
+    "type": "xã",
+    "district_code": "431",
+    "codename": "hung_thanh"
+  }
+]

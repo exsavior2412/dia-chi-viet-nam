@@ -1,0 +1,62 @@
+[
+  {
+    "code": "22837",
+    "name": "Phước Chiến",
+    "name_en": "Phuoc Chien",
+    "full_name": "Xã Phước Chiến",
+    "full_name_en": "Phuoc Chien Commune",
+    "type": "xã",
+    "district_code": "588",
+    "codename": "phuoc_chien"
+  },
+  {
+    "code": "22840",
+    "name": "Công Hải",
+    "name_en": "Cong Hai",
+    "full_name": "Xã Công Hải",
+    "full_name_en": "Cong Hai Commune",
+    "type": "xã",
+    "district_code": "588",
+    "codename": "cong_hai"
+  },
+  {
+    "code": "22843",
+    "name": "Phước Kháng",
+    "name_en": "Phuoc Khang",
+    "full_name": "Xã Phước Kháng",
+    "full_name_en": "Phuoc Khang Commune",
+    "type": "xã",
+    "district_code": "588",
+    "codename": "phuoc_khang"
+  },
+  {
+    "code": "22849",
+    "name": "Lợi Hải",
+    "name_en": "Loi Hai",
+    "full_name": "Xã Lợi Hải",
+    "full_name_en": "Loi Hai Commune",
+    "type": "xã",
+    "district_code": "588",
+    "codename": "loi_hai"
+  },
+  {
+    "code": "22853",
+    "name": "Bắc Sơn",
+    "name_en": "Bac Son",
+    "full_name": "Xã Bắc Sơn",
+    "full_name_en": "Bac Son Commune",
+    "type": "xã",
+    "district_code": "588",
+    "codename": "bac_son"
+  },
+  {
+    "code": "22856",
+    "name": "Bắc Phong",
+    "name_en": "Bac Phong",
+    "full_name": "Xã Bắc Phong",
+    "full_name_en": "Bac Phong Commune",
+    "type": "xã",
+    "district_code": "588",
+    "codename": "bac_phong"
+  }
+]

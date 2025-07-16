@@ -1,0 +1,132 @@
+[
+  {
+    "code": "29821",
+    "name": "Trà Ôn",
+    "name_en": "Tra On",
+    "full_name": "Thị trấn Trà Ôn",
+    "full_name_en": "Tra On Township",
+    "type": "thị trấn",
+    "district_code": "862",
+    "codename": "tra_on"
+  },
+  {
+    "code": "29824",
+    "name": "Xuân Hiệp",
+    "name_en": "Xuan Hiep",
+    "full_name": "Xã Xuân Hiệp",
+    "full_name_en": "Xuan Hiep Commune",
+    "type": "xã",
+    "district_code": "862",
+    "codename": "xuan_hiep"
+  },
+  {
+    "code": "29827",
+    "name": "Nhơn Bình",
+    "name_en": "Nhon Binh",
+    "full_name": "Xã Nhơn Bình",
+    "full_name_en": "Nhon Binh Commune",
+    "type": "xã",
+    "district_code": "862",
+    "codename": "nhon_binh"
+  },
+  {
+    "code": "29830",
+    "name": "Hòa Bình",
+    "name_en": "Hoa Binh",
+    "full_name": "Xã Hòa Bình",
+    "full_name_en": "Hoa Binh Commune",
+    "type": "xã",
+    "district_code": "862",
+    "codename": "hoa_binh"
+  },
+  {
+    "code": "29833",
+    "name": "Thới Hòa",
+    "name_en": "Thoi Hoa",
+    "full_name": "Xã Thới Hòa",
+    "full_name_en": "Thoi Hoa Commune",
+    "type": "xã",
+    "district_code": "862",
+    "codename": "thoi_hoa"
+  },
+  {
+    "code": "29836",
+    "name": "Trà Côn",
+    "name_en": "Tra Con",
+    "full_name": "Xã Trà Côn",
+    "full_name_en": "Tra Con Commune",
+    "type": "xã",
+    "district_code": "862",
+    "codename": "tra_con"
+  },
+  {
+    "code": "29839",
+    "name": "Tân Mỹ",
+    "name_en": "Tan My",
+    "full_name": "Xã Tân Mỹ",
+    "full_name_en": "Tan My Commune",
+    "type": "xã",
+    "district_code": "862",
+    "codename": "tan_my"
+  },
+  {
+    "code": "29842",
+    "name": "Hựu Thành",
+    "name_en": "Huu Thanh",
+    "full_name": "Xã Hựu Thành",
+    "full_name_en": "Huu Thanh Commune",
+    "type": "xã",
+    "district_code": "862",
+    "codename": "huu_thanh"
+  },
+  {
+    "code": "29845",
+    "name": "Vĩnh Xuân",
+    "name_en": "Vinh Xuan",
+    "full_name": "Xã Vĩnh Xuân",
+    "full_name_en": "Vinh Xuan Commune",
+    "type": "xã",
+    "district_code": "862",
+    "codename": "vinh_xuan"
+  },
+  {
+    "code": "29848",
+    "name": "Thuận Thới",
+    "name_en": "Thuan Thoi",
+    "full_name": "Xã Thuận Thới",
+    "full_name_en": "Thuan Thoi Commune",
+    "type": "xã",
+    "district_code": "862",
+    "codename": "thuan_thoi"
+  },
+  {
+    "code": "29851",
+    "name": "Phú Thành",
+    "name_en": "Phu Thanh",
+    "full_name": "Xã Phú Thành",
+    "full_name_en": "Phu Thanh Commune",
+    "type": "xã",
+    "district_code": "862",
+    "codename": "phu_thanh"
+  },
+  {
+    "code": "29857",
+    "name": "Lục Sỹ Thành",
+    "name_en": "Luc Sy Thanh",
+    "full_name": "Xã Lục Sỹ Thành",
+    "full_name_en": "Luc Sy Thanh Commune",
+    "type": "xã",
+    "district_code": "862",
+    "codename": "luc_sy_thanh"
+  },
+  {
+    "code": "29860",
+    "name": "Tích Thiện",
+    "name_en": "Tich Thien",
+    "full_name": "Xã Tích Thiện",
+    "full_name_en": "Tich Thien Commune",
+    "type": "xã",
+    "district_code": "862",
+    "codename": "tich_thien"
+  }
+]

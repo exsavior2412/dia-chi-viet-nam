@@ -1,0 +1,122 @@
+[
+  {
+    "code": "28036",
+    "name": "Thủ Thừa",
+    "name_en": "Thu Thua",
+    "full_name": "Thị trấn Thủ Thừa",
+    "full_name_en": "Thu Thua Township",
+    "type": "thị trấn",
+    "district_code": "804",
+    "codename": "thu_thua"
+  },
+  {
+    "code": "28039",
+    "name": "Long Thạnh",
+    "name_en": "Long Thanh",
+    "full_name": "Xã Long Thạnh",
+    "full_name_en": "Long Thanh Commune",
+    "type": "xã",
+    "district_code": "804",
+    "codename": "long_thanh"
+  },
+  {
+    "code": "28042",
+    "name": "Tân Thành",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thành",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "804",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "28045",
+    "name": "Long Thuận",
+    "name_en": "Long Thuan",
+    "full_name": "Xã Long Thuận",
+    "full_name_en": "Long Thuan Commune",
+    "type": "xã",
+    "district_code": "804",
+    "codename": "long_thuan"
+  },
+  {
+    "code": "28048",
+    "name": "Mỹ Lạc",
+    "name_en": "My Lac",
+    "full_name": "Xã Mỹ Lạc",
+    "full_name_en": "My Lac Commune",
+    "type": "xã",
+    "district_code": "804",
+    "codename": "my_lac"
+  },
+  {
+    "code": "28051",
+    "name": "Mỹ Thạnh",
+    "name_en": "My Thanh",
+    "full_name": "Xã Mỹ Thạnh",
+    "full_name_en": "My Thanh Commune",
+    "type": "xã",
+    "district_code": "804",
+    "codename": "my_thanh"
+  },
+  {
+    "code": "28054",
+    "name": "Bình An",
+    "name_en": "Binh An",
+    "full_name": "Xã Bình An",
+    "full_name_en": "Binh An Commune",
+    "type": "xã",
+    "district_code": "804",
+    "codename": "binh_an"
+  },
+  {
+    "code": "28057",
+    "name": "Nhị Thành",
+    "name_en": "Nhi Thanh",
+    "full_name": "Xã Nhị Thành",
+    "full_name_en": "Nhi Thanh Commune",
+    "type": "xã",
+    "district_code": "804",
+    "codename": "nhi_thanh"
+  },
+  {
+    "code": "28060",
+    "name": "Mỹ An",
+    "name_en": "My An",
+    "full_name": "Xã Mỹ An",
+    "full_name_en": "My An Commune",
+    "type": "xã",
+    "district_code": "804",
+    "codename": "my_an"
+  },
+  {
+    "code": "28063",
+    "name": "Bình Thạnh",
+    "name_en": "Binh Thanh",
+    "full_name": "Xã Bình Thạnh",
+    "full_name_en": "Binh Thanh Commune",
+    "type": "xã",
+    "district_code": "804",
+    "codename": "binh_thanh"
+  },
+  {
+    "code": "28066",
+    "name": "Mỹ Phú",
+    "name_en": "My Phu",
+    "full_name": "Xã Mỹ Phú",
+    "full_name_en": "My Phu Commune",
+    "type": "xã",
+    "district_code": "804",
+    "codename": "my_phu"
+  },
+  {
+    "code": "28072",
+    "name": "Tân Long",
+    "name_en": "Tan Long",
+    "full_name": "Xã Tân Long",
+    "full_name_en": "Tan Long Commune",
+    "type": "xã",
+    "district_code": "804",
+    "codename": "tan_long"
+  }
+]

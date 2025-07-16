@@ -1,0 +1,142 @@
+[
+  {
+    "code": "19903",
+    "name": "Phú Thuận",
+    "name_en": "Phu Thuan",
+    "full_name": "Xã Phú Thuận",
+    "full_name_en": "Phu Thuan Commune",
+    "type": "xã",
+    "district_code": "478",
+    "codename": "phu_thuan"
+  },
+  {
+    "code": "19912",
+    "name": "Phú An",
+    "name_en": "Phu An",
+    "full_name": "Xã Phú An",
+    "full_name_en": "Phu An Commune",
+    "type": "xã",
+    "district_code": "478",
+    "codename": "phu_an"
+  },
+  {
+    "code": "19915",
+    "name": "Phú Hải",
+    "name_en": "Phu Hai",
+    "full_name": "Xã Phú Hải",
+    "full_name_en": "Phu Hai Commune",
+    "type": "xã",
+    "district_code": "478",
+    "codename": "phu_hai"
+  },
+  {
+    "code": "19918",
+    "name": "Phú Xuân",
+    "name_en": "Phu Xuan",
+    "full_name": "Xã Phú Xuân",
+    "full_name_en": "Phu Xuan Commune",
+    "type": "xã",
+    "district_code": "478",
+    "codename": "phu_xuan"
+  },
+  {
+    "code": "19921",
+    "name": "Phú Diên",
+    "name_en": "Phu Dien",
+    "full_name": "Xã Phú Diên",
+    "full_name_en": "Phu Dien Commune",
+    "type": "xã",
+    "district_code": "478",
+    "codename": "phu_dien"
+  },
+  {
+    "code": "19927",
+    "name": "Phú Mỹ",
+    "name_en": "Phu My",
+    "full_name": "Xã Phú Mỹ",
+    "full_name_en": "Phu My Commune",
+    "type": "xã",
+    "district_code": "478",
+    "codename": "phu_my"
+  },
+  {
+    "code": "19933",
+    "name": "Phú Hồ",
+    "name_en": "Phu Ho",
+    "full_name": "Xã Phú Hồ",
+    "full_name_en": "Phu Ho Commune",
+    "type": "xã",
+    "district_code": "478",
+    "codename": "phu_ho"
+  },
+  {
+    "code": "19936",
+    "name": "Vinh Xuân",
+    "name_en": "Vinh Xuan",
+    "full_name": "Xã Vinh Xuân",
+    "full_name_en": "Vinh Xuan Commune",
+    "type": "xã",
+    "district_code": "478",
+    "codename": "vinh_xuan"
+  },
+  {
+    "code": "19939",
+    "name": "Phú Lương",
+    "name_en": "Phu Luong",
+    "full_name": "Xã Phú Lương",
+    "full_name_en": "Phu Luong Commune",
+    "type": "xã",
+    "district_code": "478",
+    "codename": "phu_luong"
+  },
+  {
+    "code": "19942",
+    "name": "Phú Đa",
+    "name_en": "Phu Da",
+    "full_name": "Thị trấn Phú Đa",
+    "full_name_en": "Phu Da Township",
+    "type": "thị trấn",
+    "district_code": "478",
+    "codename": "phu_da"
+  },
+  {
+    "code": "19945",
+    "name": "Vinh Thanh",
+    "name_en": "Vinh Thanh",
+    "full_name": "Xã Vinh Thanh",
+    "full_name_en": "Vinh Thanh Commune",
+    "type": "xã",
+    "district_code": "478",
+    "codename": "vinh_thanh"
+  },
+  {
+    "code": "19948",
+    "name": "Vinh An",
+    "name_en": "Vinh An",
+    "full_name": "Xã Vinh An",
+    "full_name_en": "Vinh An Commune",
+    "type": "xã",
+    "district_code": "478",
+    "codename": "vinh_an"
+  },
+  {
+    "code": "19954",
+    "name": "Phú Gia",
+    "name_en": "Phu Gia",
+    "full_name": "Xã Phú Gia",
+    "full_name_en": "Phu Gia Commune",
+    "type": "xã",
+    "district_code": "478",
+    "codename": "phu_gia"
+  },
+  {
+    "code": "19957",
+    "name": "Vinh Hà",
+    "name_en": "Vinh Ha",
+    "full_name": "Xã Vinh Hà",
+    "full_name_en": "Vinh Ha Commune",
+    "type": "xã",
+    "district_code": "478",
+    "codename": "vinh_ha"
+  }
+]

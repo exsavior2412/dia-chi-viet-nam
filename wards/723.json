@@ -1,0 +1,122 @@
+[
+  {
+    "code": "25888",
+    "name": "Uyên Hưng",
+    "name_en": "Uyen Hung",
+    "full_name": "Phường Uyên Hưng",
+    "full_name_en": "Uyen Hung Ward",
+    "type": "phường",
+    "district_code": "723",
+    "codename": "uyen_hung"
+  },
+  {
+    "code": "25891",
+    "name": "Tân Phước Khánh",
+    "name_en": "Tan Phuoc Khanh",
+    "full_name": "Phường Tân Phước Khánh",
+    "full_name_en": "Tan Phuoc Khanh Ward",
+    "type": "phường",
+    "district_code": "723",
+    "codename": "tan_phuoc_khanh"
+  },
+  {
+    "code": "25912",
+    "name": "Vĩnh Tân",
+    "name_en": "Vinh Tan",
+    "full_name": "Phường Vĩnh Tân",
+    "full_name_en": "Vinh Tan Ward",
+    "type": "phường",
+    "district_code": "723",
+    "codename": "vinh_tan"
+  },
+  {
+    "code": "25915",
+    "name": "Hội Nghĩa",
+    "name_en": "Hoi Nghia",
+    "full_name": "Phường Hội Nghĩa",
+    "full_name_en": "Hoi Nghia Ward",
+    "type": "phường",
+    "district_code": "723",
+    "codename": "hoi_nghia"
+  },
+  {
+    "code": "25920",
+    "name": "Tân Hiệp",
+    "name_en": "Tan Hiep",
+    "full_name": "Phường Tân Hiệp",
+    "full_name_en": "Tan Hiep Ward",
+    "type": "phường",
+    "district_code": "723",
+    "codename": "tan_hiep"
+  },
+  {
+    "code": "25921",
+    "name": "Khánh Bình",
+    "name_en": "Khanh Binh",
+    "full_name": "Phường Khánh Bình",
+    "full_name_en": "Khanh Binh Ward",
+    "type": "phường",
+    "district_code": "723",
+    "codename": "khanh_binh"
+  },
+  {
+    "code": "25924",
+    "name": "Phú Chánh",
+    "name_en": "Phu Chanh",
+    "full_name": "Phường Phú Chánh",
+    "full_name_en": "Phu Chanh Ward",
+    "type": "phường",
+    "district_code": "723",
+    "codename": "phu_chanh"
+  },
+  {
+    "code": "25930",
+    "name": "Bạch Đằng",
+    "name_en": "Bach Dang",
+    "full_name": "Xã Bạch Đằng",
+    "full_name_en": "Bach Dang Commune",
+    "type": "xã",
+    "district_code": "723",
+    "codename": "bach_dang"
+  },
+  {
+    "code": "25933",
+    "name": "Tân Vĩnh Hiệp",
+    "name_en": "Tan Vinh Hiep",
+    "full_name": "Phường Tân Vĩnh Hiệp",
+    "full_name_en": "Tan Vinh Hiep Ward",
+    "type": "phường",
+    "district_code": "723",
+    "codename": "tan_vinh_hiep"
+  },
+  {
+    "code": "25936",
+    "name": "Thạnh Phước",
+    "name_en": "Thanh Phuoc",
+    "full_name": "Phường Thạnh Phước",
+    "full_name_en": "Thanh Phuoc Ward",
+    "type": "phường",
+    "district_code": "723",
+    "codename": "thanh_phuoc"
+  },
+  {
+    "code": "25937",
+    "name": "Thạnh Hội",
+    "name_en": "Thanh Hoi",
+    "full_name": "Xã Thạnh Hội",
+    "full_name_en": "Thanh Hoi Commune",
+    "type": "xã",
+    "district_code": "723",
+    "codename": "thanh_hoi"
+  },
+  {
+    "code": "25939",
+    "name": "Thái Hòa",
+    "name_en": "Thai Hoa",
+    "full_name": "Phường Thái Hòa",
+    "full_name_en": "Thai Hoa Ward",
+    "type": "phường",
+    "district_code": "723",
+    "codename": "thai_hoa"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "code": "12337",
+    "name": "Vương",
+    "name_en": "Vuong",
+    "full_name": "Thị trấn Vương",
+    "full_name_en": "Vuong Township",
+    "type": "thị trấn",
+    "district_code": "332",
+    "codename": "vuong"
+  },
+  {
+    "code": "12340",
+    "name": "Hưng Đạo",
+    "name_en": "Hung Dao",
+    "full_name": "Xã Hưng Đạo",
+    "full_name_en": "Hung Dao Commune",
+    "type": "xã",
+    "district_code": "332",
+    "codename": "hung_dao"
+  },
+  {
+    "code": "12346",
+    "name": "Nhật Tân",
+    "name_en": "Nhat Tan",
+    "full_name": "Xã Nhật Tân",
+    "full_name_en": "Nhat Tan Commune",
+    "type": "xã",
+    "district_code": "332",
+    "codename": "nhat_tan"
+  },
+  {
+    "code": "12352",
+    "name": "Lệ Xá",
+    "name_en": "Le Xa",
+    "full_name": "Xã Lệ Xá",
+    "full_name_en": "Le Xa Commune",
+    "type": "xã",
+    "district_code": "332",
+    "codename": "le_xa"
+  },
+  {
+    "code": "12355",
+    "name": "An Viên",
+    "name_en": "An Vien",
+    "full_name": "Xã An Viên",
+    "full_name_en": "An Vien Commune",
+    "type": "xã",
+    "district_code": "332",
+    "codename": "an_vien"
+  },
+  {
+    "code": "12361",
+    "name": "Trung Dũng",
+    "name_en": "Trung Dung",
+    "full_name": "Xã Trung Dũng",
+    "full_name_en": "Trung Dung Commune",
+    "type": "xã",
+    "district_code": "332",
+    "codename": "trung_dung"
+  },
+  {
+    "code": "12364",
+    "name": "Hải Thắng",
+    "name_en": "Hai Thang",
+    "full_name": "Xã Hải Thắng",
+    "full_name_en": "Hai Thang Commune",
+    "type": "xã",
+    "district_code": "332",
+    "codename": "hai_thang"
+  },
+  {
+    "code": "12367",
+    "name": "Thủ Sỹ",
+    "name_en": "Thu Sy",
+    "full_name": "Xã Thủ Sỹ",
+    "full_name_en": "Thu Sy Commune",
+    "type": "xã",
+    "district_code": "332",
+    "codename": "thu_sy"
+  },
+  {
+    "code": "12370",
+    "name": "Thiện Phiến",
+    "name_en": "Thien Phien",
+    "full_name": "Xã Thiện Phiến",
+    "full_name_en": "Thien Phien Commune",
+    "type": "xã",
+    "district_code": "332",
+    "codename": "thien_phien"
+  },
+  {
+    "code": "12373",
+    "name": "Thụy Lôi",
+    "name_en": "Thuy Loi",
+    "full_name": "Xã Thụy Lôi",
+    "full_name_en": "Thuy Loi Commune",
+    "type": "xã",
+    "district_code": "332",
+    "codename": "thuy_loi"
+  },
+  {
+    "code": "12376",
+    "name": "Cương Chính",
+    "name_en": "Cuong Chinh",
+    "full_name": "Xã Cương Chính",
+    "full_name_en": "Cuong Chinh Commune",
+    "type": "xã",
+    "district_code": "332",
+    "codename": "cuong_chinh"
+  }
+]

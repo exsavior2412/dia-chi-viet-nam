@@ -1,0 +1,142 @@
+[
+  {
+    "code": "05611",
+    "name": "Đu",
+    "name_en": "Du",
+    "full_name": "Thị trấn Đu",
+    "full_name_en": "Du Township",
+    "type": "thị trấn",
+    "district_code": "168",
+    "codename": "du"
+  },
+  {
+    "code": "05614",
+    "name": "Yên Ninh",
+    "name_en": "Yen Ninh",
+    "full_name": "Xã Yên Ninh",
+    "full_name_en": "Yen Ninh Commune",
+    "type": "xã",
+    "district_code": "168",
+    "codename": "yen_ninh"
+  },
+  {
+    "code": "05617",
+    "name": "Yên Trạch",
+    "name_en": "Yen Trach",
+    "full_name": "Xã Yên Trạch",
+    "full_name_en": "Yen Trach Commune",
+    "type": "xã",
+    "district_code": "168",
+    "codename": "yen_trach"
+  },
+  {
+    "code": "05620",
+    "name": "Yên Đổ",
+    "name_en": "Yen Do",
+    "full_name": "Xã Yên Đổ",
+    "full_name_en": "Yen Do Commune",
+    "type": "xã",
+    "district_code": "168",
+    "codename": "yen_do"
+  },
+  {
+    "code": "05623",
+    "name": "Yên Lạc",
+    "name_en": "Yen Lac",
+    "full_name": "Xã Yên Lạc",
+    "full_name_en": "Yen Lac Commune",
+    "type": "xã",
+    "district_code": "168",
+    "codename": "yen_lac"
+  },
+  {
+    "code": "05626",
+    "name": "Ôn Lương",
+    "name_en": "On Luong",
+    "full_name": "Xã Ôn Lương",
+    "full_name_en": "On Luong Commune",
+    "type": "xã",
+    "district_code": "168",
+    "codename": "on_luong"
+  },
+  {
+    "code": "05629",
+    "name": "Động Đạt",
+    "name_en": "Dong Dat",
+    "full_name": "Xã Động Đạt",
+    "full_name_en": "Dong Dat Commune",
+    "type": "xã",
+    "district_code": "168",
+    "codename": "dong_dat"
+  },
+  {
+    "code": "05632",
+    "name": "Phủ Lý",
+    "name_en": "Phu Ly",
+    "full_name": "Xã Phủ Lý",
+    "full_name_en": "Phu Ly Commune",
+    "type": "xã",
+    "district_code": "168",
+    "codename": "phu_ly"
+  },
+  {
+    "code": "05635",
+    "name": "Phú Đô",
+    "name_en": "Phu Do",
+    "full_name": "Xã Phú Đô",
+    "full_name_en": "Phu Do Commune",
+    "type": "xã",
+    "district_code": "168",
+    "codename": "phu_do"
+  },
+  {
+    "code": "05638",
+    "name": "Hợp Thành",
+    "name_en": "Hop Thanh",
+    "full_name": "Xã Hợp Thành",
+    "full_name_en": "Hop Thanh Commune",
+    "type": "xã",
+    "district_code": "168",
+    "codename": "hop_thanh"
+  },
+  {
+    "code": "05641",
+    "name": "Tức Tranh",
+    "name_en": "Tuc Tranh",
+    "full_name": "Xã Tức Tranh",
+    "full_name_en": "Tuc Tranh Commune",
+    "type": "xã",
+    "district_code": "168",
+    "codename": "tuc_tranh"
+  },
+  {
+    "code": "05644",
+    "name": "Giang Tiên",
+    "name_en": "Giang Tien",
+    "full_name": "Thị trấn Giang Tiên",
+    "full_name_en": "Giang Tien Township",
+    "type": "thị trấn",
+    "district_code": "168",
+    "codename": "giang_tien"
+  },
+  {
+    "code": "05647",
+    "name": "Vô Tranh",
+    "name_en": "Vo Tranh",
+    "full_name": "Xã Vô Tranh",
+    "full_name_en": "Vo Tranh Commune",
+    "type": "xã",
+    "district_code": "168",
+    "codename": "vo_tranh"
+  },
+  {
+    "code": "05650",
+    "name": "Cổ Lũng",
+    "name_en": "Co Lung",
+    "full_name": "Xã Cổ Lũng",
+    "full_name_en": "Co Lung Commune",
+    "type": "xã",
+    "district_code": "168",
+    "codename": "co_lung"
+  }
+]

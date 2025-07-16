@@ -1,0 +1,232 @@
+[
+  {
+    "code": "14620",
+    "name": "Phát Diệm",
+    "name_en": "Phat Diem",
+    "full_name": "Thị trấn Phát Diệm",
+    "full_name_en": "Phat Diem Township",
+    "type": "thị trấn",
+    "district_code": "376",
+    "codename": "phat_diem"
+  },
+  {
+    "code": "14623",
+    "name": "Bình Minh",
+    "name_en": "Binh Minh",
+    "full_name": "Thị trấn Bình Minh",
+    "full_name_en": "Binh Minh Township",
+    "type": "thị trấn",
+    "district_code": "376",
+    "codename": "binh_minh"
+  },
+  {
+    "code": "14629",
+    "name": "Hồi Ninh",
+    "name_en": "Hoi Ninh",
+    "full_name": "Xã Hồi Ninh",
+    "full_name_en": "Hoi Ninh Commune",
+    "type": "xã",
+    "district_code": "376",
+    "codename": "hoi_ninh"
+  },
+  {
+    "code": "14632",
+    "name": "Xuân Chính",
+    "name_en": "Xuan Chinh",
+    "full_name": "Xã Xuân Chính",
+    "full_name_en": "Xuan Chinh Commune",
+    "type": "xã",
+    "district_code": "376",
+    "codename": "xuan_chinh"
+  },
+  {
+    "code": "14635",
+    "name": "Kim Định",
+    "name_en": "Kim Dinh",
+    "full_name": "Xã Kim Định",
+    "full_name_en": "Kim Dinh Commune",
+    "type": "xã",
+    "district_code": "376",
+    "codename": "kim_dinh"
+  },
+  {
+    "code": "14638",
+    "name": "Ân Hòa",
+    "name_en": "An Hoa",
+    "full_name": "Xã Ân Hòa",
+    "full_name_en": "An Hoa Commune",
+    "type": "xã",
+    "district_code": "376",
+    "codename": "an_hoa"
+  },
+  {
+    "code": "14641",
+    "name": "Hùng Tiến",
+    "name_en": "Hung Tien",
+    "full_name": "Xã Hùng Tiến",
+    "full_name_en": "Hung Tien Commune",
+    "type": "xã",
+    "district_code": "376",
+    "codename": "hung_tien"
+  },
+  {
+    "code": "14647",
+    "name": "Quang Thiện",
+    "name_en": "Quang Thien",
+    "full_name": "Xã Quang Thiện",
+    "full_name_en": "Quang Thien Commune",
+    "type": "xã",
+    "district_code": "376",
+    "codename": "quang_thien"
+  },
+  {
+    "code": "14650",
+    "name": "Như Hòa",
+    "name_en": "Nhu Hoa",
+    "full_name": "Xã Như Hòa",
+    "full_name_en": "Nhu Hoa Commune",
+    "type": "xã",
+    "district_code": "376",
+    "codename": "nhu_hoa"
+  },
+  {
+    "code": "14653",
+    "name": "Chất Bình",
+    "name_en": "Chat Binh",
+    "full_name": "Xã Chất Bình",
+    "full_name_en": "Chat Binh Commune",
+    "type": "xã",
+    "district_code": "376",
+    "codename": "chat_binh"
+  },
+  {
+    "code": "14656",
+    "name": "Đồng Hướng",
+    "name_en": "Dong Huong",
+    "full_name": "Xã Đồng Hướng",
+    "full_name_en": "Dong Huong Commune",
+    "type": "xã",
+    "district_code": "376",
+    "codename": "dong_huong"
+  },
+  {
+    "code": "14659",
+    "name": "Kim Chính",
+    "name_en": "Kim Chinh",
+    "full_name": "Xã Kim Chính",
+    "full_name_en": "Kim Chinh Commune",
+    "type": "xã",
+    "district_code": "376",
+    "codename": "kim_chinh"
+  },
+  {
+    "code": "14662",
+    "name": "Thượng Kiệm",
+    "name_en": "Thuong Kiem",
+    "full_name": "Xã Thượng Kiệm",
+    "full_name_en": "Thuong Kiem Commune",
+    "type": "xã",
+    "district_code": "376",
+    "codename": "thuong_kiem"
+  },
+  {
+    "code": "14668",
+    "name": "Tân Thành",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thành",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "376",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "14671",
+    "name": "Yên Lộc",
+    "name_en": "Yen Loc",
+    "full_name": "Xã Yên Lộc",
+    "full_name_en": "Yen Loc Commune",
+    "type": "xã",
+    "district_code": "376",
+    "codename": "yen_loc"
+  },
+  {
+    "code": "14674",
+    "name": "Lai Thành",
+    "name_en": "Lai Thanh",
+    "full_name": "Xã Lai Thành",
+    "full_name_en": "Lai Thanh Commune",
+    "type": "xã",
+    "district_code": "376",
+    "codename": "lai_thanh"
+  },
+  {
+    "code": "14677",
+    "name": "Định Hóa",
+    "name_en": "Dinh Hoa",
+    "full_name": "Xã Định Hóa",
+    "full_name_en": "Dinh Hoa Commune",
+    "type": "xã",
+    "district_code": "376",
+    "codename": "dinh_hoa"
+  },
+  {
+    "code": "14680",
+    "name": "Văn Hải",
+    "name_en": "Van Hai",
+    "full_name": "Xã Văn Hải",
+    "full_name_en": "Van Hai Commune",
+    "type": "xã",
+    "district_code": "376",
+    "codename": "van_hai"
+  },
+  {
+    "code": "14683",
+    "name": "Kim Tân",
+    "name_en": "Kim Tan",
+    "full_name": "Xã Kim Tân",
+    "full_name_en": "Kim Tan Commune",
+    "type": "xã",
+    "district_code": "376",
+    "codename": "kim_tan"
+  },
+  {
+    "code": "14686",
+    "name": "Kim Mỹ",
+    "name_en": "Kim My",
+    "full_name": "Xã Kim Mỹ",
+    "full_name_en": "Kim My Commune",
+    "type": "xã",
+    "district_code": "376",
+    "codename": "kim_my"
+  },
+  {
+    "code": "14689",
+    "name": "Cồn Thoi",
+    "name_en": "Con Thoi",
+    "full_name": "Xã Cồn Thoi",
+    "full_name_en": "Con Thoi Commune",
+    "type": "xã",
+    "district_code": "376",
+    "codename": "con_thoi"
+  },
+  {
+    "code": "14695",
+    "name": "Kim Trung",
+    "name_en": "Kim Trung",
+    "full_name": "Xã Kim Trung",
+    "full_name_en": "Kim Trung Commune",
+    "type": "xã",
+    "district_code": "376",
+    "codename": "kim_trung"
+  },
+  {
+    "code": "14698",
+    "name": "Kim Đông",
+    "name_en": "Kim Dong",
+    "full_name": "Xã Kim Đông",
+    "full_name_en": "Kim Dong Commune",
+    "type": "xã",
+    "district_code": "376",
+    "codename": "kim_dong"
+  }
+]

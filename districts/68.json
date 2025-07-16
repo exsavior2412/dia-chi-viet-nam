@@ -1,0 +1,102 @@
+[
+  {
+    "code": "672",
+    "name": "Đà Lạt",
+    "name_en": "Da Lat",
+    "full_name": "Thành phố Đà Lạt",
+    "full_name_en": "Da Lat City",
+    "type": "thành phố",
+    "province_code": "68",
+    "codename": "da_lat"
+  },
+  {
+    "code": "673",
+    "name": "Bảo Lộc",
+    "name_en": "Bao Loc",
+    "full_name": "Thành phố Bảo Lộc",
+    "full_name_en": "Bao Loc City",
+    "type": "thành phố",
+    "province_code": "68",
+    "codename": "bao_loc"
+  },
+  {
+    "code": "674",
+    "name": "Đam Rông",
+    "name_en": "Dam Rong",
+    "full_name": "Huyện Đam Rông",
+    "full_name_en": "Dam Rong District",
+    "type": "huyện",
+    "province_code": "68",
+    "codename": "dam_rong"
+  },
+  {
+    "code": "675",
+    "name": "Lạc Dương",
+    "name_en": "Lac Duong",
+    "full_name": "Huyện Lạc Dương",
+    "full_name_en": "Lac Duong District",
+    "type": "huyện",
+    "province_code": "68",
+    "codename": "lac_duong"
+  },
+  {
+    "code": "676",
+    "name": "Lâm Hà",
+    "name_en": "Lam Ha",
+    "full_name": "Huyện Lâm Hà",
+    "full_name_en": "Lam Ha District",
+    "type": "huyện",
+    "province_code": "68",
+    "codename": "lam_ha"
+  },
+  {
+    "code": "677",
+    "name": "Đơn Dương",
+    "name_en": "Don Duong",
+    "full_name": "Huyện Đơn Dương",
+    "full_name_en": "Don Duong District",
+    "type": "huyện",
+    "province_code": "68",
+    "codename": "don_duong"
+  },
+  {
+    "code": "678",
+    "name": "Đức Trọng",
+    "name_en": "Duc Trong",
+    "full_name": "Huyện Đức Trọng",
+    "full_name_en": "Duc Trong District",
+    "type": "huyện",
+    "province_code": "68",
+    "codename": "duc_trong"
+  },
+  {
+    "code": "679",
+    "name": "Di Linh",
+    "name_en": "Di Linh",
+    "full_name": "Huyện Di Linh",
+    "full_name_en": "Di Linh District",
+    "type": "huyện",
+    "province_code": "68",
+    "codename": "di_linh"
+  },
+  {
+    "code": "680",
+    "name": "Bảo Lâm",
+    "name_en": "Bao Lam",
+    "full_name": "Huyện Bảo Lâm",
+    "full_name_en": "Bao Lam District",
+    "type": "huyện",
+    "province_code": "68",
+    "codename": "bao_lam"
+  },
+  {
+    "code": "682",
+    "name": "Đạ Tẻh",
+    "name_en": "Da Teh",
+    "full_name": "Huyện Đạ Tẻh",
+    "full_name_en": "Da Teh District",
+    "type": "huyện",
+    "province_code": "68",
+    "codename": "da_teh"
+  }
+]

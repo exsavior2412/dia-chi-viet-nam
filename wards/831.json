@@ -1,0 +1,162 @@
+[
+  {
+    "code": "28804",
+    "name": "Tân Thạch",
+    "name_en": "Tan Thach",
+    "full_name": "Xã Tân Thạch",
+    "full_name_en": "Tan Thach Commune",
+    "type": "xã",
+    "district_code": "831",
+    "codename": "tan_thach"
+  },
+  {
+    "code": "28807",
+    "name": "Qưới Sơn",
+    "name_en": "Quoi Son",
+    "full_name": "Xã Qưới Sơn",
+    "full_name_en": "Quoi Son Commune",
+    "type": "xã",
+    "district_code": "831",
+    "codename": "quoi_son"
+  },
+  {
+    "code": "28810",
+    "name": "Châu Thành",
+    "name_en": "Chau Thanh",
+    "full_name": "Thị trấn Châu Thành",
+    "full_name_en": "Chau Thanh Township",
+    "type": "thị trấn",
+    "district_code": "831",
+    "codename": "chau_thanh"
+  },
+  {
+    "code": "28813",
+    "name": "Giao Long",
+    "name_en": "Giao Long",
+    "full_name": "Xã Giao Long",
+    "full_name_en": "Giao Long Commune",
+    "type": "xã",
+    "district_code": "831",
+    "codename": "giao_long"
+  },
+  {
+    "code": "28819",
+    "name": "Phú Túc",
+    "name_en": "Phu Tuc",
+    "full_name": "Xã Phú Túc",
+    "full_name_en": "Phu Tuc Commune",
+    "type": "xã",
+    "district_code": "831",
+    "codename": "phu_tuc"
+  },
+  {
+    "code": "28822",
+    "name": "Phú Đức",
+    "name_en": "Phu Duc",
+    "full_name": "Xã Phú Đức",
+    "full_name_en": "Phu Duc Commune",
+    "type": "xã",
+    "district_code": "831",
+    "codename": "phu_duc"
+  },
+  {
+    "code": "28828",
+    "name": "An Phước",
+    "name_en": "An Phuoc",
+    "full_name": "Xã An Phước",
+    "full_name_en": "An Phuoc Commune",
+    "type": "xã",
+    "district_code": "831",
+    "codename": "an_phuoc"
+  },
+  {
+    "code": "28831",
+    "name": "Tam Phước",
+    "name_en": "Tam Phuoc",
+    "full_name": "Xã Tam Phước",
+    "full_name_en": "Tam Phuoc Commune",
+    "type": "xã",
+    "district_code": "831",
+    "codename": "tam_phuoc"
+  },
+  {
+    "code": "28834",
+    "name": "Thành Triệu",
+    "name_en": "Thanh Trieu",
+    "full_name": "Xã Thành Triệu",
+    "full_name_en": "Thanh Trieu Commune",
+    "type": "xã",
+    "district_code": "831",
+    "codename": "thanh_trieu"
+  },
+  {
+    "code": "28840",
+    "name": "Tân Phú",
+    "name_en": "Tan Phu",
+    "full_name": "Xã Tân Phú",
+    "full_name_en": "Tan Phu Commune",
+    "type": "xã",
+    "district_code": "831",
+    "codename": "tan_phu"
+  },
+  {
+    "code": "28843",
+    "name": "Quới Thành",
+    "name_en": "Quoi Thanh",
+    "full_name": "Xã Quới Thành",
+    "full_name_en": "Quoi Thanh Commune",
+    "type": "xã",
+    "district_code": "831",
+    "codename": "quoi_thanh"
+  },
+  {
+    "code": "28846",
+    "name": "Phước Thạnh",
+    "name_en": "Phuoc Thanh",
+    "full_name": "Xã Phước Thạnh",
+    "full_name_en": "Phuoc Thanh Commune",
+    "type": "xã",
+    "district_code": "831",
+    "codename": "phuoc_thanh"
+  },
+  {
+    "code": "28852",
+    "name": "Tiên Long",
+    "name_en": "Tien Long",
+    "full_name": "Xã Tiên Long",
+    "full_name_en": "Tien Long Commune",
+    "type": "xã",
+    "district_code": "831",
+    "codename": "tien_long"
+  },
+  {
+    "code": "28855",
+    "name": "Tường Đa",
+    "name_en": "Tuong Da",
+    "full_name": "Xã Tường Đa",
+    "full_name_en": "Tuong Da Commune",
+    "type": "xã",
+    "district_code": "831",
+    "codename": "tuong_da"
+  },
+  {
+    "code": "28858",
+    "name": "Hữu Định",
+    "name_en": "Huu Dinh",
+    "full_name": "Xã Hữu Định",
+    "full_name_en": "Huu Dinh Commune",
+    "type": "xã",
+    "district_code": "831",
+    "codename": "huu_dinh"
+  },
+  {
+    "code": "28861",
+    "name": "Tiên Thủy",
+    "name_en": "Tien Thuy",
+    "full_name": "Thị trấn Tiên Thủy",
+    "full_name_en": "Tien Thuy Township",
+    "type": "thị trấn",
+    "district_code": "831",
+    "codename": "tien_thuy"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "code": "20293",
+    "name": "Hòa Bắc",
+    "name_en": "Hoa Bac",
+    "full_name": "Xã Hòa Bắc",
+    "full_name_en": "Hoa Bac Commune",
+    "type": "xã",
+    "district_code": "497",
+    "codename": "hoa_bac"
+  },
+  {
+    "code": "20296",
+    "name": "Hòa Liên",
+    "name_en": "Hoa Lien",
+    "full_name": "Xã Hòa Liên",
+    "full_name_en": "Hoa Lien Commune",
+    "type": "xã",
+    "district_code": "497",
+    "codename": "hoa_lien"
+  },
+  {
+    "code": "20299",
+    "name": "Hòa Ninh",
+    "name_en": "Hoa Ninh",
+    "full_name": "Xã Hòa Ninh",
+    "full_name_en": "Hoa Ninh Commune",
+    "type": "xã",
+    "district_code": "497",
+    "codename": "hoa_ninh"
+  },
+  {
+    "code": "20302",
+    "name": "Hòa Sơn",
+    "name_en": "Hoa Son",
+    "full_name": "Xã Hòa Sơn",
+    "full_name_en": "Hoa Son Commune",
+    "type": "xã",
+    "district_code": "497",
+    "codename": "hoa_son"
+  },
+  {
+    "code": "20308",
+    "name": "Hòa Nhơn",
+    "name_en": "Hoa Nhon",
+    "full_name": "Xã Hòa Nhơn",
+    "full_name_en": "Hoa Nhon Commune",
+    "type": "xã",
+    "district_code": "497",
+    "codename": "hoa_nhon"
+  },
+  {
+    "code": "20317",
+    "name": "Hòa Phú",
+    "name_en": "Hoa Phu",
+    "full_name": "Xã Hòa Phú",
+    "full_name_en": "Hoa Phu Commune",
+    "type": "xã",
+    "district_code": "497",
+    "codename": "hoa_phu"
+  },
+  {
+    "code": "20320",
+    "name": "Hòa Phong",
+    "name_en": "Hoa Phong",
+    "full_name": "Xã Hòa Phong",
+    "full_name_en": "Hoa Phong Commune",
+    "type": "xã",
+    "district_code": "497",
+    "codename": "hoa_phong"
+  },
+  {
+    "code": "20323",
+    "name": "Hòa Châu",
+    "name_en": "Hoa Chau",
+    "full_name": "Xã Hòa Châu",
+    "full_name_en": "Hoa Chau Commune",
+    "type": "xã",
+    "district_code": "497",
+    "codename": "hoa_chau"
+  },
+  {
+    "code": "20326",
+    "name": "Hòa Tiến",
+    "name_en": "Hoa Tien",
+    "full_name": "Xã Hòa Tiến",
+    "full_name_en": "Hoa Tien Commune",
+    "type": "xã",
+    "district_code": "497",
+    "codename": "hoa_tien"
+  },
+  {
+    "code": "20329",
+    "name": "Hòa Phước",
+    "name_en": "Hoa Phuoc",
+    "full_name": "Xã Hòa Phước",
+    "full_name_en": "Hoa Phuoc Commune",
+    "type": "xã",
+    "district_code": "497",
+    "codename": "hoa_phuoc"
+  },
+  {
+    "code": "20332",
+    "name": "Hòa Khương",
+    "name_en": "Hoa Khuong",
+    "full_name": "Xã Hòa Khương",
+    "full_name_en": "Hoa Khuong Commune",
+    "type": "xã",
+    "district_code": "497",
+    "codename": "hoa_khuong"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "code": "27163",
+    "name": "15",
+    "name_en": "15",
+    "full_name": "Phường 15",
+    "full_name_en": "Ward 15",
+    "type": "phường",
+    "district_code": "771",
+    "codename": "15"
+  },
+  {
+    "code": "27166",
+    "name": "13",
+    "name_en": "13",
+    "full_name": "Phường 13",
+    "full_name_en": "Ward 13",
+    "type": "phường",
+    "district_code": "771",
+    "codename": "13"
+  },
+  {
+    "code": "27169",
+    "name": "14",
+    "name_en": "14",
+    "full_name": "Phường 14",
+    "full_name_en": "Ward 14",
+    "type": "phường",
+    "district_code": "771",
+    "codename": "14"
+  },
+  {
+    "code": "27172",
+    "name": "12",
+    "name_en": "12",
+    "full_name": "Phường 12",
+    "full_name_en": "Ward 12",
+    "type": "phường",
+    "district_code": "771",
+    "codename": "12"
+  },
+  {
+    "code": "27178",
+    "name": "10",
+    "name_en": "10",
+    "full_name": "Phường 10",
+    "full_name_en": "Ward 10",
+    "type": "phường",
+    "district_code": "771",
+    "codename": "10"
+  },
+  {
+    "code": "27181",
+    "name": "9",
+    "name_en": "9",
+    "full_name": "Phường 9",
+    "full_name_en": "Ward 9",
+    "type": "phường",
+    "district_code": "771",
+    "codename": "9"
+  },
+  {
+    "code": "27184",
+    "name": "1",
+    "name_en": "1",
+    "full_name": "Phường 1",
+    "full_name_en": "Ward 1",
+    "type": "phường",
+    "district_code": "771",
+    "codename": "1"
+  },
+  {
+    "code": "27187",
+    "name": "8",
+    "name_en": "8",
+    "full_name": "Phường 8",
+    "full_name_en": "Ward 8",
+    "type": "phường",
+    "district_code": "771",
+    "codename": "8"
+  },
+  {
+    "code": "27190",
+    "name": "2",
+    "name_en": "2",
+    "full_name": "Phường 2",
+    "full_name_en": "Ward 2",
+    "type": "phường",
+    "district_code": "771",
+    "codename": "2"
+  },
+  {
+    "code": "27193",
+    "name": "4",
+    "name_en": "4",
+    "full_name": "Phường 4",
+    "full_name_en": "Ward 4",
+    "type": "phường",
+    "district_code": "771",
+    "codename": "4"
+  },
+  {
+    "code": "27202",
+    "name": "6",
+    "name_en": "6",
+    "full_name": "Phường 6",
+    "full_name_en": "Ward 6",
+    "type": "phường",
+    "district_code": "771",
+    "codename": "6"
+  }
+]

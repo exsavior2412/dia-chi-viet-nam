@@ -1,0 +1,342 @@
+[
+  {
+    "code": "26794",
+    "name": "Linh Xuân",
+    "name_en": "Linh Xuan",
+    "full_name": "Phường Linh Xuân",
+    "full_name_en": "Linh Xuan Ward",
+    "type": "phường",
+    "district_code": "769",
+    "codename": "linh_xuan"
+  },
+  {
+    "code": "26797",
+    "name": "Bình Chiểu",
+    "name_en": "Binh Chieu",
+    "full_name": "Phường Bình Chiểu",
+    "full_name_en": "Binh Chieu Ward",
+    "type": "phường",
+    "district_code": "769",
+    "codename": "binh_chieu"
+  },
+  {
+    "code": "26800",
+    "name": "Linh Trung",
+    "name_en": "Linh Trung",
+    "full_name": "Phường Linh Trung",
+    "full_name_en": "Linh Trung Ward",
+    "type": "phường",
+    "district_code": "769",
+    "codename": "linh_trung"
+  },
+  {
+    "code": "26803",
+    "name": "Tam Bình",
+    "name_en": "Tam Binh",
+    "full_name": "Phường Tam Bình",
+    "full_name_en": "Tam Binh Ward",
+    "type": "phường",
+    "district_code": "769",
+    "codename": "tam_binh"
+  },
+  {
+    "code": "26806",
+    "name": "Tam Phú",
+    "name_en": "Tam Phu",
+    "full_name": "Phường Tam Phú",
+    "full_name_en": "Tam Phu Ward",
+    "type": "phường",
+    "district_code": "769",
+    "codename": "tam_phu"
+  },
+  {
+    "code": "26809",
+    "name": "Hiệp Bình Phước",
+    "name_en": "Hiep Binh Phuoc",
+    "full_name": "Phường Hiệp Bình Phước",
+    "full_name_en": "Hiep Binh Phuoc Ward",
+    "type": "phường",
+    "district_code": "769",
+    "codename": "hiep_binh_phuoc"
+  },
+  {
+    "code": "26812",
+    "name": "Hiệp Bình Chánh",
+    "name_en": "Hiep Binh Chanh",
+    "full_name": "Phường Hiệp Bình Chánh",
+    "full_name_en": "Hiep Binh Chanh Ward",
+    "type": "phường",
+    "district_code": "769",
+    "codename": "hiep_binh_chanh"
+  },
+  {
+    "code": "26815",
+    "name": "Linh Chiểu",
+    "name_en": "Linh Chieu",
+    "full_name": "Phường Linh Chiểu",
+    "full_name_en": "Linh Chieu Ward",
+    "type": "phường",
+    "district_code": "769",
+    "codename": "linh_chieu"
+  },
+  {
+    "code": "26818",
+    "name": "Linh Tây",
+    "name_en": "Linh Tay",
+    "full_name": "Phường Linh Tây",
+    "full_name_en": "Linh Tay Ward",
+    "type": "phường",
+    "district_code": "769",
+    "codename": "linh_tay"
+  },
+  {
+    "code": "26821",
+    "name": "Linh Đông",
+    "name_en": "Linh Dong",
+    "full_name": "Phường Linh Đông",
+    "full_name_en": "Linh Dong Ward",
+    "type": "phường",
+    "district_code": "769",
+    "codename": "linh_dong"
+  },
+  {
+    "code": "26824",
+    "name": "Bình Thọ",
+    "name_en": "Binh Tho",
+    "full_name": "Phường Bình Thọ",
+    "full_name_en": "Binh Tho Ward",
+    "type": "phường",
+    "district_code": "769",
+    "codename": "binh_tho"
+  },
+  {
+    "code": "26827",
+    "name": "Trường Thọ",
+    "name_en": "Truong Tho",
+    "full_name": "Phường Trường Thọ",
+    "full_name_en": "Truong Tho Ward",
+    "type": "phường",
+    "district_code": "769",
+    "codename": "truong_tho"
+  },
+  {
+    "code": "26830",
+    "name": "Long Bình",
+    "name_en": "Long Binh",
+    "full_name": "Phường Long Bình",
+    "full_name_en": "Long Binh Ward",
+    "type": "phường",
+    "district_code": "769",
+    "codename": "long_binh"
+  },
+  {
+    "code": "26833",
+    "name": "Long Thạnh Mỹ",
+    "name_en": "Long Thanh My",
+    "full_name": "Phường Long Thạnh Mỹ",
+    "full_name_en": "Long Thanh My Ward",
+    "type": "phường",
+    "district_code": "769",
+    "codename": "long_thanh_my"
+  },
+  {
+    "code": "26836",
+    "name": "Tân Phú",
+    "name_en": "Tan Phu",
+    "full_name": "Phường Tân Phú",
+    "full_name_en": "Tan Phu Ward",
+    "type": "phường",
+    "district_code": "769",
+    "codename": "tan_phu"
+  },
+  {
+    "code": "26839",
+    "name": "Hiệp Phú",
+    "name_en": "Hiep Phu",
+    "full_name": "Phường Hiệp Phú",
+    "full_name_en": "Hiep Phu Ward",
+    "type": "phường",
+    "district_code": "769",
+    "codename": "hiep_phu"
+  },
+  {
+    "code": "26842",
+    "name": "Tăng Nhơn Phú A",
+    "name_en": "Tang Nhon Phu A",
+    "full_name": "Phường Tăng Nhơn Phú A",
+    "full_name_en": "Tang Nhon Phu A Ward",
+    "type": "phường",
+    "district_code": "769",
+    "codename": "tang_nhon_phu_a"
+  },
+  {
+    "code": "26845",
+    "name": "Tăng Nhơn Phú B",
+    "name_en": "Tang Nhon Phu B",
+    "full_name": "Phường Tăng Nhơn Phú B",
+    "full_name_en": "Tang Nhon Phu B Ward",
+    "type": "phường",
+    "district_code": "769",
+    "codename": "tang_nhon_phu_b"
+  },
+  {
+    "code": "26848",
+    "name": "Phước Long B",
+    "name_en": "Phuoc Long B",
+    "full_name": "Phường Phước Long B",
+    "full_name_en": "Phuoc Long B Ward",
+    "type": "phường",
+    "district_code": "769",
+    "codename": "phuoc_long_b"
+  },
+  {
+    "code": "26851",
+    "name": "Phước Long A",
+    "name_en": "Phuoc Long A",
+    "full_name": "Phường Phước Long A",
+    "full_name_en": "Phuoc Long A Ward",
+    "type": "phường",
+    "district_code": "769",
+    "codename": "phuoc_long_a"
+  },
+  {
+    "code": "26854",
+    "name": "Trường Thạnh",
+    "name_en": "Truong Thanh",
+    "full_name": "Phường Trường Thạnh",
+    "full_name_en": "Truong Thanh Ward",
+    "type": "phường",
+    "district_code": "769",
+    "codename": "truong_thanh"
+  },
+  {
+    "code": "26857",
+    "name": "Long Phước",
+    "name_en": "Long Phuoc",
+    "full_name": "Phường Long Phước",
+    "full_name_en": "Long Phuoc Ward",
+    "type": "phường",
+    "district_code": "769",
+    "codename": "long_phuoc"
+  },
+  {
+    "code": "26860",
+    "name": "Long Trường",
+    "name_en": "Long Truong",
+    "full_name": "Phường Long Trường",
+    "full_name_en": "Long Truong Ward",
+    "type": "phường",
+    "district_code": "769",
+    "codename": "long_truong"
+  },
+  {
+    "code": "26863",
+    "name": "Phước Bình",
+    "name_en": "Phuoc Binh",
+    "full_name": "Phường Phước Bình",
+    "full_name_en": "Phuoc Binh Ward",
+    "type": "phường",
+    "district_code": "769",
+    "codename": "phuoc_binh"
+  },
+  {
+    "code": "26866",
+    "name": "Phú Hữu",
+    "name_en": "Phu Huu",
+    "full_name": "Phường Phú Hữu",
+    "full_name_en": "Phu Huu Ward",
+    "type": "phường",
+    "district_code": "769",
+    "codename": "phu_huu"
+  },
+  {
+    "code": "27088",
+    "name": "Thảo Điền",
+    "name_en": "Thao Dien",
+    "full_name": "Phường Thảo Điền",
+    "full_name_en": "Thao Dien Ward",
+    "type": "phường",
+    "district_code": "769",
+    "codename": "thao_dien"
+  },
+  {
+    "code": "27091",
+    "name": "An Phú",
+    "name_en": "An Phu",
+    "full_name": "Phường An Phú",
+    "full_name_en": "An Phu Ward",
+    "type": "phường",
+    "district_code": "769",
+    "codename": "an_phu"
+  },
+  {
+    "code": "27094",
+    "name": "An Khánh",
+    "name_en": "An Khanh",
+    "full_name": "Phường An Khánh",
+    "full_name_en": "An Khanh Ward",
+    "type": "phường",
+    "district_code": "769",
+    "codename": "an_khanh"
+  },
+  {
+    "code": "27097",
+    "name": "Bình Trưng Đông",
+    "name_en": "Binh Trung Dong",
+    "full_name": "Phường Bình Trưng Đông",
+    "full_name_en": "Binh Trung Dong Ward",
+    "type": "phường",
+    "district_code": "769",
+    "codename": "binh_trung_dong"
+  },
+  {
+    "code": "27100",
+    "name": "Bình Trưng Tây",
+    "name_en": "Binh Trung Tay",
+    "full_name": "Phường Bình Trưng Tây",
+    "full_name_en": "Binh Trung Tay Ward",
+    "type": "phường",
+    "district_code": "769",
+    "codename": "binh_trung_tay"
+  },
+  {
+    "code": "27109",
+    "name": "Cát Lái",
+    "name_en": "Cat Lai",
+    "full_name": "Phường Cát Lái",
+    "full_name_en": "Cat Lai Ward",
+    "type": "phường",
+    "district_code": "769",
+    "codename": "cat_lai"
+  },
+  {
+    "code": "27112",
+    "name": "Thạnh Mỹ Lợi",
+    "name_en": "Thanh My Loi",
+    "full_name": "Phường Thạnh Mỹ Lợi",
+    "full_name_en": "Thanh My Loi Ward",
+    "type": "phường",
+    "district_code": "769",
+    "codename": "thanh_my_loi"
+  },
+  {
+    "code": "27115",
+    "name": "An Lợi Đông",
+    "name_en": "An Loi Dong",
+    "full_name": "Phường An Lợi Đông",
+    "full_name_en": "An Loi Dong Ward",
+    "type": "phường",
+    "district_code": "769",
+    "codename": "an_loi_dong"
+  },
+  {
+    "code": "27118",
+    "name": "Thủ Thiêm",
+    "name_en": "Thu Thiem",
+    "full_name": "Phường Thủ Thiêm",
+    "full_name_en": "Thu Thiem Ward",
+    "type": "phường",
+    "district_code": "769",
+    "codename": "thu_thiem"
+  }
+]

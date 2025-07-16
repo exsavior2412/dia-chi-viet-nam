@@ -1,0 +1,142 @@
+[
+  {
+    "code": "26368",
+    "name": "Long Thành",
+    "name_en": "Long Thanh",
+    "full_name": "Thị trấn Long Thành",
+    "full_name_en": "Long Thanh Township",
+    "type": "thị trấn",
+    "district_code": "740",
+    "codename": "long_thanh"
+  },
+  {
+    "code": "26383",
+    "name": "An Phước",
+    "name_en": "An Phuoc",
+    "full_name": "Xã An Phước",
+    "full_name_en": "An Phuoc Commune",
+    "type": "xã",
+    "district_code": "740",
+    "codename": "an_phuoc"
+  },
+  {
+    "code": "26386",
+    "name": "Bình An",
+    "name_en": "Binh An",
+    "full_name": "Xã Bình An",
+    "full_name_en": "Binh An Commune",
+    "type": "xã",
+    "district_code": "740",
+    "codename": "binh_an"
+  },
+  {
+    "code": "26389",
+    "name": "Long Đức",
+    "name_en": "Long Duc",
+    "full_name": "Xã Long Đức",
+    "full_name_en": "Long Duc Commune",
+    "type": "xã",
+    "district_code": "740",
+    "codename": "long_duc"
+  },
+  {
+    "code": "26392",
+    "name": "Lộc An",
+    "name_en": "Loc An",
+    "full_name": "Xã Lộc An",
+    "full_name_en": "Loc An Commune",
+    "type": "xã",
+    "district_code": "740",
+    "codename": "loc_an"
+  },
+  {
+    "code": "26395",
+    "name": "Bình Sơn",
+    "name_en": "Binh Son",
+    "full_name": "Xã Bình Sơn",
+    "full_name_en": "Binh Son Commune",
+    "type": "xã",
+    "district_code": "740",
+    "codename": "binh_son"
+  },
+  {
+    "code": "26398",
+    "name": "Tam An",
+    "name_en": "Tam An",
+    "full_name": "Xã Tam An",
+    "full_name_en": "Tam An Commune",
+    "type": "xã",
+    "district_code": "740",
+    "codename": "tam_an"
+  },
+  {
+    "code": "26401",
+    "name": "Cẩm Đường",
+    "name_en": "Cam Duong",
+    "full_name": "Xã Cẩm Đường",
+    "full_name_en": "Cam Duong Commune",
+    "type": "xã",
+    "district_code": "740",
+    "codename": "cam_duong"
+  },
+  {
+    "code": "26404",
+    "name": "Long An",
+    "name_en": "Long An",
+    "full_name": "Xã Long An",
+    "full_name_en": "Long An Commune",
+    "type": "xã",
+    "district_code": "740",
+    "codename": "long_an"
+  },
+  {
+    "code": "26410",
+    "name": "Bàu Cạn",
+    "name_en": "Bau Can",
+    "full_name": "Xã Bàu Cạn",
+    "full_name_en": "Bau Can Commune",
+    "type": "xã",
+    "district_code": "740",
+    "codename": "bau_can"
+  },
+  {
+    "code": "26413",
+    "name": "Long Phước",
+    "name_en": "Long Phuoc",
+    "full_name": "Xã Long Phước",
+    "full_name_en": "Long Phuoc Commune",
+    "type": "xã",
+    "district_code": "740",
+    "codename": "long_phuoc"
+  },
+  {
+    "code": "26416",
+    "name": "Phước Bình",
+    "name_en": "Phuoc Binh",
+    "full_name": "Xã Phước Bình",
+    "full_name_en": "Phuoc Binh Commune",
+    "type": "xã",
+    "district_code": "740",
+    "codename": "phuoc_binh"
+  },
+  {
+    "code": "26419",
+    "name": "Tân Hiệp",
+    "name_en": "Tan Hiep",
+    "full_name": "Xã Tân Hiệp",
+    "full_name_en": "Tan Hiep Commune",
+    "type": "xã",
+    "district_code": "740",
+    "codename": "tan_hiep"
+  },
+  {
+    "code": "26422",
+    "name": "Phước Thái",
+    "name_en": "Phuoc Thai",
+    "full_name": "Xã Phước Thái",
+    "full_name_en": "Phuoc Thai Commune",
+    "type": "xã",
+    "district_code": "740",
+    "codename": "phuoc_thai"
+  }
+]

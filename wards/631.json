@@ -1,0 +1,102 @@
+[
+  {
+    "code": "23857",
+    "name": "Chư Ty",
+    "name_en": "Chu Ty",
+    "full_name": "Thị trấn Chư Ty",
+    "full_name_en": "Chu Ty Township",
+    "type": "thị trấn",
+    "district_code": "631",
+    "codename": "chu_ty"
+  },
+  {
+    "code": "23860",
+    "name": "Ia Dơk",
+    "name_en": "Ia Dok",
+    "full_name": "Xã Ia Dơk",
+    "full_name_en": "Ia Dok Commune",
+    "type": "xã",
+    "district_code": "631",
+    "codename": "ia_dok"
+  },
+  {
+    "code": "23863",
+    "name": "Ia Krêl",
+    "name_en": "Ia Krel",
+    "full_name": "Xã Ia Krêl",
+    "full_name_en": "Ia Krel Commune",
+    "type": "xã",
+    "district_code": "631",
+    "codename": "ia_krel"
+  },
+  {
+    "code": "23866",
+    "name": "Ia Din",
+    "name_en": "Ia Din",
+    "full_name": "Xã Ia Din",
+    "full_name_en": "Ia Din Commune",
+    "type": "xã",
+    "district_code": "631",
+    "codename": "ia_din"
+  },
+  {
+    "code": "23869",
+    "name": "Ia Kla",
+    "name_en": "Ia Kla",
+    "full_name": "Xã Ia Kla",
+    "full_name_en": "Ia Kla Commune",
+    "type": "xã",
+    "district_code": "631",
+    "codename": "ia_kla"
+  },
+  {
+    "code": "23872",
+    "name": "Ia Dom",
+    "name_en": "Ia Dom",
+    "full_name": "Xã Ia Dom",
+    "full_name_en": "Ia Dom Commune",
+    "type": "xã",
+    "district_code": "631",
+    "codename": "ia_dom"
+  },
+  {
+    "code": "23875",
+    "name": "Ia Lang",
+    "name_en": "Ia Lang",
+    "full_name": "Xã Ia Lang",
+    "full_name_en": "Ia Lang Commune",
+    "type": "xã",
+    "district_code": "631",
+    "codename": "ia_lang"
+  },
+  {
+    "code": "23878",
+    "name": "Ia Kriêng",
+    "name_en": "Ia Krieng",
+    "full_name": "Xã Ia Kriêng",
+    "full_name_en": "Ia Krieng Commune",
+    "type": "xã",
+    "district_code": "631",
+    "codename": "ia_krieng"
+  },
+  {
+    "code": "23881",
+    "name": "Ia Pnôn",
+    "name_en": "Ia Pnon",
+    "full_name": "Xã Ia Pnôn",
+    "full_name_en": "Ia Pnon Commune",
+    "type": "xã",
+    "district_code": "631",
+    "codename": "ia_pnon"
+  },
+  {
+    "code": "23884",
+    "name": "Ia Nan",
+    "name_en": "Ia Nan",
+    "full_name": "Xã Ia Nan",
+    "full_name_en": "Ia Nan Commune",
+    "type": "xã",
+    "district_code": "631",
+    "codename": "ia_nan"
+  }
+]

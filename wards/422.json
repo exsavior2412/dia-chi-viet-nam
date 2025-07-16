@@ -1,0 +1,122 @@
+[
+  {
+    "code": "17230",
+    "name": "Bình Chuẩn",
+    "name_en": "Binh Chuan",
+    "full_name": "Xã Bình Chuẩn",
+    "full_name_en": "Binh Chuan Commune",
+    "type": "xã",
+    "district_code": "422",
+    "codename": "binh_chuan"
+  },
+  {
+    "code": "17233",
+    "name": "Lạng Khê",
+    "name_en": "Lang Khe",
+    "full_name": "Xã Lạng Khê",
+    "full_name_en": "Lang Khe Commune",
+    "type": "xã",
+    "district_code": "422",
+    "codename": "lang_khe"
+  },
+  {
+    "code": "17236",
+    "name": "Cam Lâm",
+    "name_en": "Cam Lam",
+    "full_name": "Xã Cam Lâm",
+    "full_name_en": "Cam Lam Commune",
+    "type": "xã",
+    "district_code": "422",
+    "codename": "cam_lam"
+  },
+  {
+    "code": "17239",
+    "name": "Thạch Ngàn",
+    "name_en": "Thach Ngan",
+    "full_name": "Xã Thạch Ngàn",
+    "full_name_en": "Thach Ngan Commune",
+    "type": "xã",
+    "district_code": "422",
+    "codename": "thach_ngan"
+  },
+  {
+    "code": "17242",
+    "name": "Đôn Phục",
+    "name_en": "Don Phuc",
+    "full_name": "Xã Đôn Phục",
+    "full_name_en": "Don Phuc Commune",
+    "type": "xã",
+    "district_code": "422",
+    "codename": "don_phuc"
+  },
+  {
+    "code": "17245",
+    "name": "Mậu Đức",
+    "name_en": "Mau Duc",
+    "full_name": "Xã Mậu Đức",
+    "full_name_en": "Mau Duc Commune",
+    "type": "xã",
+    "district_code": "422",
+    "codename": "mau_duc"
+  },
+  {
+    "code": "17248",
+    "name": "Châu Khê",
+    "name_en": "Chau Khe",
+    "full_name": "Xã Châu Khê",
+    "full_name_en": "Chau Khe Commune",
+    "type": "xã",
+    "district_code": "422",
+    "codename": "chau_khe"
+  },
+  {
+    "code": "17251",
+    "name": "Chi Khê",
+    "name_en": "Chi Khe",
+    "full_name": "Xã Chi Khê",
+    "full_name_en": "Chi Khe Commune",
+    "type": "xã",
+    "district_code": "422",
+    "codename": "chi_khe"
+  },
+  {
+    "code": "17254",
+    "name": "Trà Lân",
+    "name_en": "Tra Lan",
+    "full_name": "Thị trấn Trà Lân",
+    "full_name_en": "Tra Lan Township",
+    "type": "thị trấn",
+    "district_code": "422",
+    "codename": "tra_lan"
+  },
+  {
+    "code": "17257",
+    "name": "Yên Khê",
+    "name_en": "Yen Khe",
+    "full_name": "Xã Yên Khê",
+    "full_name_en": "Yen Khe Commune",
+    "type": "xã",
+    "district_code": "422",
+    "codename": "yen_khe"
+  },
+  {
+    "code": "17260",
+    "name": "Lục Dạ",
+    "name_en": "Luc Da",
+    "full_name": "Xã Lục Dạ",
+    "full_name_en": "Luc Da Commune",
+    "type": "xã",
+    "district_code": "422",
+    "codename": "luc_da"
+  },
+  {
+    "code": "17263",
+    "name": "Môn Sơn",
+    "name_en": "Mon Son",
+    "full_name": "Xã Môn Sơn",
+    "full_name_en": "Mon Son Commune",
+    "type": "xã",
+    "district_code": "422",
+    "codename": "mon_son"
+  }
+]

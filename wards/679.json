@@ -1,0 +1,192 @@
+[
+  {
+    "code": "25000",
+    "name": "Di Linh",
+    "name_en": "Di Linh",
+    "full_name": "Thị trấn Di Linh",
+    "full_name_en": "Di Linh Township",
+    "type": "thị trấn",
+    "district_code": "679",
+    "codename": "di_linh"
+  },
+  {
+    "code": "25003",
+    "name": "Đinh Trang Thượng",
+    "name_en": "Dinh Trang Thuong",
+    "full_name": "Xã Đinh Trang Thượng",
+    "full_name_en": "Dinh Trang Thuong Commune",
+    "type": "xã",
+    "district_code": "679",
+    "codename": "dinh_trang_thuong"
+  },
+  {
+    "code": "25006",
+    "name": "Tân Thượng",
+    "name_en": "Tan Thuong",
+    "full_name": "Xã Tân Thượng",
+    "full_name_en": "Tan Thuong Commune",
+    "type": "xã",
+    "district_code": "679",
+    "codename": "tan_thuong"
+  },
+  {
+    "code": "25007",
+    "name": "Tân Lâm",
+    "name_en": "Tan Lam",
+    "full_name": "Xã Tân Lâm",
+    "full_name_en": "Tan Lam Commune",
+    "type": "xã",
+    "district_code": "679",
+    "codename": "tan_lam"
+  },
+  {
+    "code": "25009",
+    "name": "Tân Châu",
+    "name_en": "Tan Chau",
+    "full_name": "Xã Tân Châu",
+    "full_name_en": "Tan Chau Commune",
+    "type": "xã",
+    "district_code": "679",
+    "codename": "tan_chau"
+  },
+  {
+    "code": "25012",
+    "name": "Tân Nghĩa",
+    "name_en": "Tan Nghia",
+    "full_name": "Xã Tân Nghĩa",
+    "full_name_en": "Tan Nghia Commune",
+    "type": "xã",
+    "district_code": "679",
+    "codename": "tan_nghia"
+  },
+  {
+    "code": "25015",
+    "name": "Gia Hiệp",
+    "name_en": "Gia Hiep",
+    "full_name": "Xã Gia Hiệp",
+    "full_name_en": "Gia Hiep Commune",
+    "type": "xã",
+    "district_code": "679",
+    "codename": "gia_hiep"
+  },
+  {
+    "code": "25018",
+    "name": "Đinh Lạc",
+    "name_en": "Dinh Lac",
+    "full_name": "Xã Đinh Lạc",
+    "full_name_en": "Dinh Lac Commune",
+    "type": "xã",
+    "district_code": "679",
+    "codename": "dinh_lac"
+  },
+  {
+    "code": "25021",
+    "name": "Tam Bố",
+    "name_en": "Tam Bo",
+    "full_name": "Xã Tam Bố",
+    "full_name_en": "Tam Bo Commune",
+    "type": "xã",
+    "district_code": "679",
+    "codename": "tam_bo"
+  },
+  {
+    "code": "25024",
+    "name": "Đinh Trang Hòa",
+    "name_en": "Dinh Trang Hoa",
+    "full_name": "Xã Đinh Trang Hòa",
+    "full_name_en": "Dinh Trang Hoa Commune",
+    "type": "xã",
+    "district_code": "679",
+    "codename": "dinh_trang_hoa"
+  },
+  {
+    "code": "25027",
+    "name": "Liên Đầm",
+    "name_en": "Lien Dam",
+    "full_name": "Xã Liên Đầm",
+    "full_name_en": "Lien Dam Commune",
+    "type": "xã",
+    "district_code": "679",
+    "codename": "lien_dam"
+  },
+  {
+    "code": "25030",
+    "name": "Gung Ré",
+    "name_en": "Gung Re",
+    "full_name": "Xã Gung Ré",
+    "full_name_en": "Gung Re Commune",
+    "type": "xã",
+    "district_code": "679",
+    "codename": "gung_re"
+  },
+  {
+    "code": "25033",
+    "name": "Bảo Thuận",
+    "name_en": "Bao Thuan",
+    "full_name": "Xã Bảo Thuận",
+    "full_name_en": "Bao Thuan Commune",
+    "type": "xã",
+    "district_code": "679",
+    "codename": "bao_thuan"
+  },
+  {
+    "code": "25036",
+    "name": "Hòa Ninh",
+    "name_en": "Hoa Ninh",
+    "full_name": "Xã Hòa Ninh",
+    "full_name_en": "Hoa Ninh Commune",
+    "type": "xã",
+    "district_code": "679",
+    "codename": "hoa_ninh"
+  },
+  {
+    "code": "25039",
+    "name": "Hòa Trung",
+    "name_en": "Hoa Trung",
+    "full_name": "Xã Hòa Trung",
+    "full_name_en": "Hoa Trung Commune",
+    "type": "xã",
+    "district_code": "679",
+    "codename": "hoa_trung"
+  },
+  {
+    "code": "25042",
+    "name": "Hòa Nam",
+    "name_en": "Hoa Nam",
+    "full_name": "Xã Hòa Nam",
+    "full_name_en": "Hoa Nam Commune",
+    "type": "xã",
+    "district_code": "679",
+    "codename": "hoa_nam"
+  },
+  {
+    "code": "25045",
+    "name": "Hòa Bắc",
+    "name_en": "Hoa Bac",
+    "full_name": "Xã Hòa Bắc",
+    "full_name_en": "Hoa Bac Commune",
+    "type": "xã",
+    "district_code": "679",
+    "codename": "hoa_bac"
+  },
+  {
+    "code": "25048",
+    "name": "Sơn Điền",
+    "name_en": "Son Dien",
+    "full_name": "Xã Sơn Điền",
+    "full_name_en": "Son Dien Commune",
+    "type": "xã",
+    "district_code": "679",
+    "codename": "son_dien"
+  },
+  {
+    "code": "25051",
+    "name": "Gia Bắc",
+    "name_en": "Gia Bac",
+    "full_name": "Xã Gia Bắc",
+    "full_name_en": "Gia Bac Commune",
+    "type": "xã",
+    "district_code": "679",
+    "codename": "gia_bac"
+  }
+]

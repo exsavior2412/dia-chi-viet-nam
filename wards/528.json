@@ -1,0 +1,132 @@
+[
+  {
+    "code": "21235",
+    "name": "La Hà",
+    "name_en": "La Ha",
+    "full_name": "Thị trấn La Hà",
+    "full_name_en": "La Ha Township",
+    "type": "thị trấn",
+    "district_code": "528",
+    "codename": "la_ha"
+  },
+  {
+    "code": "21238",
+    "name": "Sông Vệ",
+    "name_en": "Song Ve",
+    "full_name": "Thị trấn Sông Vệ",
+    "full_name_en": "Song Ve Township",
+    "type": "thị trấn",
+    "district_code": "528",
+    "codename": "song_ve"
+  },
+  {
+    "code": "21241",
+    "name": "Nghĩa Lâm",
+    "name_en": "Nghia Lam",
+    "full_name": "Xã Nghĩa Lâm",
+    "full_name_en": "Nghia Lam Commune",
+    "type": "xã",
+    "district_code": "528",
+    "codename": "nghia_lam"
+  },
+  {
+    "code": "21244",
+    "name": "Nghĩa Thắng",
+    "name_en": "Nghia Thang",
+    "full_name": "Xã Nghĩa Thắng",
+    "full_name_en": "Nghia Thang Commune",
+    "type": "xã",
+    "district_code": "528",
+    "codename": "nghia_thang"
+  },
+  {
+    "code": "21247",
+    "name": "Nghĩa Thuận",
+    "name_en": "Nghia Thuan",
+    "full_name": "Xã Nghĩa Thuận",
+    "full_name_en": "Nghia Thuan Commune",
+    "type": "xã",
+    "district_code": "528",
+    "codename": "nghia_thuan"
+  },
+  {
+    "code": "21250",
+    "name": "Nghĩa Kỳ",
+    "name_en": "Nghia Ky",
+    "full_name": "Xã Nghĩa Kỳ",
+    "full_name_en": "Nghia Ky Commune",
+    "type": "xã",
+    "district_code": "528",
+    "codename": "nghia_ky"
+  },
+  {
+    "code": "21259",
+    "name": "Nghĩa Sơn",
+    "name_en": "Nghia Son",
+    "full_name": "Xã Nghĩa Sơn",
+    "full_name_en": "Nghia Son Commune",
+    "type": "xã",
+    "district_code": "528",
+    "codename": "nghia_son"
+  },
+  {
+    "code": "21268",
+    "name": "Nghĩa Hòa",
+    "name_en": "Nghia Hoa",
+    "full_name": "Xã Nghĩa Hòa",
+    "full_name_en": "Nghia Hoa Commune",
+    "type": "xã",
+    "district_code": "528",
+    "codename": "nghia_hoa"
+  },
+  {
+    "code": "21271",
+    "name": "Nghĩa Điền",
+    "name_en": "Nghia Dien",
+    "full_name": "Xã Nghĩa Điền",
+    "full_name_en": "Nghia Dien Commune",
+    "type": "xã",
+    "district_code": "528",
+    "codename": "nghia_dien"
+  },
+  {
+    "code": "21274",
+    "name": "Nghĩa Thương",
+    "name_en": "Nghia Thuong",
+    "full_name": "Xã Nghĩa Thương",
+    "full_name_en": "Nghia Thuong Commune",
+    "type": "xã",
+    "district_code": "528",
+    "codename": "nghia_thuong"
+  },
+  {
+    "code": "21277",
+    "name": "Nghĩa Trung",
+    "name_en": "Nghia Trung",
+    "full_name": "Xã Nghĩa Trung",
+    "full_name_en": "Nghia Trung Commune",
+    "type": "xã",
+    "district_code": "528",
+    "codename": "nghia_trung"
+  },
+  {
+    "code": "21280",
+    "name": "Nghĩa Hiệp",
+    "name_en": "Nghia Hiep",
+    "full_name": "Xã Nghĩa Hiệp",
+    "full_name_en": "Nghia Hiep Commune",
+    "type": "xã",
+    "district_code": "528",
+    "codename": "nghia_hiep"
+  },
+  {
+    "code": "21283",
+    "name": "Nghĩa Phương",
+    "name_en": "Nghia Phuong",
+    "full_name": "Xã Nghĩa Phương",
+    "full_name_en": "Nghia Phuong Commune",
+    "type": "xã",
+    "district_code": "528",
+    "codename": "nghia_phuong"
+  }
+]

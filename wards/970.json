@@ -1,0 +1,162 @@
+[
+  {
+    "code": "32152",
+    "name": "Đầm Dơi",
+    "name_en": "Dam Doi",
+    "full_name": "Thị trấn Đầm Dơi",
+    "full_name_en": "Dam Doi Township",
+    "type": "thị trấn",
+    "district_code": "970",
+    "codename": "dam_doi"
+  },
+  {
+    "code": "32155",
+    "name": "Tạ An Khương",
+    "name_en": "Ta An Khuong",
+    "full_name": "Xã Tạ An Khương",
+    "full_name_en": "Ta An Khuong Commune",
+    "type": "xã",
+    "district_code": "970",
+    "codename": "ta_an_khuong"
+  },
+  {
+    "code": "32158",
+    "name": "Tạ An Khương Đông",
+    "name_en": "Ta An Khuong Dong",
+    "full_name": "Xã Tạ An Khương Đông",
+    "full_name_en": "Ta An Khuong Dong Commune",
+    "type": "xã",
+    "district_code": "970",
+    "codename": "ta_an_khuong_dong"
+  },
+  {
+    "code": "32161",
+    "name": "Trần Phán",
+    "name_en": "Tran Phan",
+    "full_name": "Xã Trần Phán",
+    "full_name_en": "Tran Phan Commune",
+    "type": "xã",
+    "district_code": "970",
+    "codename": "tran_phan"
+  },
+  {
+    "code": "32162",
+    "name": "Tân Trung",
+    "name_en": "Tan Trung",
+    "full_name": "Xã Tân Trung",
+    "full_name_en": "Tan Trung Commune",
+    "type": "xã",
+    "district_code": "970",
+    "codename": "tan_trung"
+  },
+  {
+    "code": "32164",
+    "name": "Tân Đức",
+    "name_en": "Tan Duc",
+    "full_name": "Xã Tân Đức",
+    "full_name_en": "Tan Duc Commune",
+    "type": "xã",
+    "district_code": "970",
+    "codename": "tan_duc"
+  },
+  {
+    "code": "32167",
+    "name": "Tân Thuận",
+    "name_en": "Tan Thuan",
+    "full_name": "Xã Tân Thuận",
+    "full_name_en": "Tan Thuan Commune",
+    "type": "xã",
+    "district_code": "970",
+    "codename": "tan_thuan"
+  },
+  {
+    "code": "32170",
+    "name": "Tạ An Khương Nam",
+    "name_en": "Ta An Khuong Nam",
+    "full_name": "Xã Tạ An Khương Nam",
+    "full_name_en": "Ta An Khuong Nam Commune",
+    "type": "xã",
+    "district_code": "970",
+    "codename": "ta_an_khuong_nam"
+  },
+  {
+    "code": "32173",
+    "name": "Tân Duyệt",
+    "name_en": "Tan Duyet",
+    "full_name": "Xã Tân Duyệt",
+    "full_name_en": "Tan Duyet Commune",
+    "type": "xã",
+    "district_code": "970",
+    "codename": "tan_duyet"
+  },
+  {
+    "code": "32174",
+    "name": "Tân Dân",
+    "name_en": "Tan Dan",
+    "full_name": "Xã Tân Dân",
+    "full_name_en": "Tan Dan Commune",
+    "type": "xã",
+    "district_code": "970",
+    "codename": "tan_dan"
+  },
+  {
+    "code": "32176",
+    "name": "Tân Tiến",
+    "name_en": "Tan Tien",
+    "full_name": "Xã Tân Tiến",
+    "full_name_en": "Tan Tien Commune",
+    "type": "xã",
+    "district_code": "970",
+    "codename": "tan_tien"
+  },
+  {
+    "code": "32179",
+    "name": "Quách Phẩm Bắc",
+    "name_en": "Quach Pham Bac",
+    "full_name": "Xã Quách Phẩm Bắc",
+    "full_name_en": "Quach Pham Bac Commune",
+    "type": "xã",
+    "district_code": "970",
+    "codename": "quach_pham_bac"
+  },
+  {
+    "code": "32182",
+    "name": "Quách Phẩm",
+    "name_en": "Quach Pham",
+    "full_name": "Xã Quách Phẩm",
+    "full_name_en": "Quach Pham Commune",
+    "type": "xã",
+    "district_code": "970",
+    "codename": "quach_pham"
+  },
+  {
+    "code": "32185",
+    "name": "Thanh Tùng",
+    "name_en": "Thanh Tung",
+    "full_name": "Xã Thanh Tùng",
+    "full_name_en": "Thanh Tung Commune",
+    "type": "xã",
+    "district_code": "970",
+    "codename": "thanh_tung"
+  },
+  {
+    "code": "32186",
+    "name": "Ngọc Chánh",
+    "name_en": "Ngoc Chanh",
+    "full_name": "Xã Ngọc Chánh",
+    "full_name_en": "Ngoc Chanh Commune",
+    "type": "xã",
+    "district_code": "970",
+    "codename": "ngoc_chanh"
+  },
+  {
+    "code": "32188",
+    "name": "Nguyễn Huân",
+    "name_en": "Nguyen Huan",
+    "full_name": "Xã Nguyễn Huân",
+    "full_name_en": "Nguyen Huan Commune",
+    "type": "xã",
+    "district_code": "970",
+    "codename": "nguyen_huan"
+  }
+]

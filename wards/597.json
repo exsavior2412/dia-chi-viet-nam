@@ -1,0 +1,172 @@
+[
+  {
+    "code": "23059",
+    "name": "Ma Lâm",
+    "name_en": "Ma Lam",
+    "full_name": "Thị trấn Ma Lâm",
+    "full_name_en": "Ma Lam Township",
+    "type": "thị trấn",
+    "district_code": "597",
+    "codename": "ma_lam"
+  },
+  {
+    "code": "23062",
+    "name": "Phú Long",
+    "name_en": "Phu Long",
+    "full_name": "Thị trấn Phú Long",
+    "full_name_en": "Phu Long Township",
+    "type": "thị trấn",
+    "district_code": "597",
+    "codename": "phu_long"
+  },
+  {
+    "code": "23065",
+    "name": "La Dạ",
+    "name_en": "La Da",
+    "full_name": "Xã La Dạ",
+    "full_name_en": "La Da Commune",
+    "type": "xã",
+    "district_code": "597",
+    "codename": "la_da"
+  },
+  {
+    "code": "23068",
+    "name": "Đông Tiến",
+    "name_en": "Dong Tien",
+    "full_name": "Xã Đông Tiến",
+    "full_name_en": "Dong Tien Commune",
+    "type": "xã",
+    "district_code": "597",
+    "codename": "dong_tien"
+  },
+  {
+    "code": "23071",
+    "name": "Thuận Hòa",
+    "name_en": "Thuan Hoa",
+    "full_name": "Xã Thuận Hòa",
+    "full_name_en": "Thuan Hoa Commune",
+    "type": "xã",
+    "district_code": "597",
+    "codename": "thuan_hoa"
+  },
+  {
+    "code": "23074",
+    "name": "Đông Giang",
+    "name_en": "Dong Giang",
+    "full_name": "Xã Đông Giang",
+    "full_name_en": "Dong Giang Commune",
+    "type": "xã",
+    "district_code": "597",
+    "codename": "dong_giang"
+  },
+  {
+    "code": "23077",
+    "name": "Hàm Phú",
+    "name_en": "Ham Phu",
+    "full_name": "Xã Hàm Phú",
+    "full_name_en": "Ham Phu Commune",
+    "type": "xã",
+    "district_code": "597",
+    "codename": "ham_phu"
+  },
+  {
+    "code": "23080",
+    "name": "Hồng Liêm",
+    "name_en": "Hong Liem",
+    "full_name": "Xã Hồng Liêm",
+    "full_name_en": "Hong Liem Commune",
+    "type": "xã",
+    "district_code": "597",
+    "codename": "hong_liem"
+  },
+  {
+    "code": "23083",
+    "name": "Thuận Minh",
+    "name_en": "Thuan Minh",
+    "full_name": "Xã Thuận Minh",
+    "full_name_en": "Thuan Minh Commune",
+    "type": "xã",
+    "district_code": "597",
+    "codename": "thuan_minh"
+  },
+  {
+    "code": "23086",
+    "name": "Hồng Sơn",
+    "name_en": "Hong Son",
+    "full_name": "Xã Hồng Sơn",
+    "full_name_en": "Hong Son Commune",
+    "type": "xã",
+    "district_code": "597",
+    "codename": "hong_son"
+  },
+  {
+    "code": "23089",
+    "name": "Hàm Trí",
+    "name_en": "Ham Tri",
+    "full_name": "Xã Hàm Trí",
+    "full_name_en": "Ham Tri Commune",
+    "type": "xã",
+    "district_code": "597",
+    "codename": "ham_tri"
+  },
+  {
+    "code": "23092",
+    "name": "Hàm Đức",
+    "name_en": "Ham Duc",
+    "full_name": "Xã Hàm Đức",
+    "full_name_en": "Ham Duc Commune",
+    "type": "xã",
+    "district_code": "597",
+    "codename": "ham_duc"
+  },
+  {
+    "code": "23095",
+    "name": "Hàm Liêm",
+    "name_en": "Ham Liem",
+    "full_name": "Xã Hàm Liêm",
+    "full_name_en": "Ham Liem Commune",
+    "type": "xã",
+    "district_code": "597",
+    "codename": "ham_liem"
+  },
+  {
+    "code": "23098",
+    "name": "Hàm Chính",
+    "name_en": "Ham Chinh",
+    "full_name": "Xã Hàm Chính",
+    "full_name_en": "Ham Chinh Commune",
+    "type": "xã",
+    "district_code": "597",
+    "codename": "ham_chinh"
+  },
+  {
+    "code": "23101",
+    "name": "Hàm Hiệp",
+    "name_en": "Ham Hiep",
+    "full_name": "Xã Hàm Hiệp",
+    "full_name_en": "Ham Hiep Commune",
+    "type": "xã",
+    "district_code": "597",
+    "codename": "ham_hiep"
+  },
+  {
+    "code": "23104",
+    "name": "Hàm Thắng",
+    "name_en": "Ham Thang",
+    "full_name": "Xã Hàm Thắng",
+    "full_name_en": "Ham Thang Commune",
+    "type": "xã",
+    "district_code": "597",
+    "codename": "ham_thang"
+  },
+  {
+    "code": "23107",
+    "name": "Đa Mi",
+    "name_en": "Da Mi",
+    "full_name": "Xã Đa Mi",
+    "full_name_en": "Da Mi Commune",
+    "type": "xã",
+    "district_code": "597",
+    "codename": "da_mi"
+  }
+]

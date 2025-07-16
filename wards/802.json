@@ -1,0 +1,202 @@
+[
+  {
+    "code": "27931",
+    "name": "Hậu Nghĩa",
+    "name_en": "Hau Nghia",
+    "full_name": "Thị trấn Hậu Nghĩa",
+    "full_name_en": "Hau Nghia Township",
+    "type": "thị trấn",
+    "district_code": "802",
+    "codename": "hau_nghia"
+  },
+  {
+    "code": "27934",
+    "name": "Hiệp Hòa",
+    "name_en": "Hiep Hoa",
+    "full_name": "Thị trấn Hiệp Hòa",
+    "full_name_en": "Hiep Hoa Township",
+    "type": "thị trấn",
+    "district_code": "802",
+    "codename": "hiep_hoa"
+  },
+  {
+    "code": "27937",
+    "name": "Đức Hòa",
+    "name_en": "Duc Hoa",
+    "full_name": "Thị trấn Đức Hòa",
+    "full_name_en": "Duc Hoa Township",
+    "type": "thị trấn",
+    "district_code": "802",
+    "codename": "duc_hoa"
+  },
+  {
+    "code": "27940",
+    "name": "Lộc Giang",
+    "name_en": "Loc Giang",
+    "full_name": "Xã Lộc Giang",
+    "full_name_en": "Loc Giang Commune",
+    "type": "xã",
+    "district_code": "802",
+    "codename": "loc_giang"
+  },
+  {
+    "code": "27943",
+    "name": "An Ninh Đông",
+    "name_en": "An Ninh Dong",
+    "full_name": "Xã An Ninh Đông",
+    "full_name_en": "An Ninh Dong Commune",
+    "type": "xã",
+    "district_code": "802",
+    "codename": "an_ninh_dong"
+  },
+  {
+    "code": "27946",
+    "name": "An Ninh Tây",
+    "name_en": "An Ninh Tay",
+    "full_name": "Xã An Ninh Tây",
+    "full_name_en": "An Ninh Tay Commune",
+    "type": "xã",
+    "district_code": "802",
+    "codename": "an_ninh_tay"
+  },
+  {
+    "code": "27949",
+    "name": "Tân Mỹ",
+    "name_en": "Tan My",
+    "full_name": "Xã Tân Mỹ",
+    "full_name_en": "Tan My Commune",
+    "type": "xã",
+    "district_code": "802",
+    "codename": "tan_my"
+  },
+  {
+    "code": "27952",
+    "name": "Hiệp Hòa",
+    "name_en": "Hiep Hoa",
+    "full_name": "Xã Hiệp Hòa",
+    "full_name_en": "Hiep Hoa Commune",
+    "type": "xã",
+    "district_code": "802",
+    "codename": "hiep_hoa"
+  },
+  {
+    "code": "27955",
+    "name": "Đức Lập Thượng",
+    "name_en": "Duc Lap Thuong",
+    "full_name": "Xã Đức Lập Thượng",
+    "full_name_en": "Duc Lap Thuong Commune",
+    "type": "xã",
+    "district_code": "802",
+    "codename": "duc_lap_thuong"
+  },
+  {
+    "code": "27958",
+    "name": "Đức Lập Hạ",
+    "name_en": "Duc Lap Ha",
+    "full_name": "Xã Đức Lập Hạ",
+    "full_name_en": "Duc Lap Ha Commune",
+    "type": "xã",
+    "district_code": "802",
+    "codename": "duc_lap_ha"
+  },
+  {
+    "code": "27961",
+    "name": "Tân Phú",
+    "name_en": "Tan Phu",
+    "full_name": "Xã Tân Phú",
+    "full_name_en": "Tan Phu Commune",
+    "type": "xã",
+    "district_code": "802",
+    "codename": "tan_phu"
+  },
+  {
+    "code": "27964",
+    "name": "Mỹ Hạnh Bắc",
+    "name_en": "My Hanh Bac",
+    "full_name": "Xã Mỹ Hạnh Bắc",
+    "full_name_en": "My Hanh Bac Commune",
+    "type": "xã",
+    "district_code": "802",
+    "codename": "my_hanh_bac"
+  },
+  {
+    "code": "27967",
+    "name": "Đức Hòa Thượng",
+    "name_en": "Duc Hoa Thuong",
+    "full_name": "Xã Đức Hòa Thượng",
+    "full_name_en": "Duc Hoa Thuong Commune",
+    "type": "xã",
+    "district_code": "802",
+    "codename": "duc_hoa_thuong"
+  },
+  {
+    "code": "27970",
+    "name": "Hòa Khánh Tây",
+    "name_en": "Hoa Khanh Tay",
+    "full_name": "Xã Hòa Khánh Tây",
+    "full_name_en": "Hoa Khanh Tay Commune",
+    "type": "xã",
+    "district_code": "802",
+    "codename": "hoa_khanh_tay"
+  },
+  {
+    "code": "27973",
+    "name": "Hòa Khánh Đông",
+    "name_en": "Hoa Khanh Dong",
+    "full_name": "Xã Hòa Khánh Đông",
+    "full_name_en": "Hoa Khanh Dong Commune",
+    "type": "xã",
+    "district_code": "802",
+    "codename": "hoa_khanh_dong"
+  },
+  {
+    "code": "27976",
+    "name": "Mỹ Hạnh Nam",
+    "name_en": "My Hanh Nam",
+    "full_name": "Xã Mỹ Hạnh Nam",
+    "full_name_en": "My Hanh Nam Commune",
+    "type": "xã",
+    "district_code": "802",
+    "codename": "my_hanh_nam"
+  },
+  {
+    "code": "27979",
+    "name": "Hòa Khánh Nam",
+    "name_en": "Hoa Khanh Nam",
+    "full_name": "Xã Hòa Khánh Nam",
+    "full_name_en": "Hoa Khanh Nam Commune",
+    "type": "xã",
+    "district_code": "802",
+    "codename": "hoa_khanh_nam"
+  },
+  {
+    "code": "27982",
+    "name": "Đức Hòa Đông",
+    "name_en": "Duc Hoa Dong",
+    "full_name": "Xã Đức Hòa Đông",
+    "full_name_en": "Duc Hoa Dong Commune",
+    "type": "xã",
+    "district_code": "802",
+    "codename": "duc_hoa_dong"
+  },
+  {
+    "code": "27985",
+    "name": "Đức Hòa Hạ",
+    "name_en": "Duc Hoa Ha",
+    "full_name": "Xã Đức Hòa Hạ",
+    "full_name_en": "Duc Hoa Ha Commune",
+    "type": "xã",
+    "district_code": "802",
+    "codename": "duc_hoa_ha"
+  },
+  {
+    "code": "27988",
+    "name": "Hựu Thạnh",
+    "name_en": "Huu Thanh",
+    "full_name": "Xã Hựu Thạnh",
+    "full_name_en": "Huu Thanh Commune",
+    "type": "xã",
+    "district_code": "802",
+    "codename": "huu_thanh"
+  }
+]

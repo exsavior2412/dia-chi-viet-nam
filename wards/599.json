@@ -1,0 +1,132 @@
+[
+  {
+    "code": "23149",
+    "name": "Lạc Tánh",
+    "name_en": "Lac Tanh",
+    "full_name": "Thị trấn Lạc Tánh",
+    "full_name_en": "Lac Tanh Township",
+    "type": "thị trấn",
+    "district_code": "599",
+    "codename": "lac_tanh"
+  },
+  {
+    "code": "23152",
+    "name": "Bắc Ruộng",
+    "name_en": "Bac Ruong",
+    "full_name": "Xã Bắc Ruộng",
+    "full_name_en": "Bac Ruong Commune",
+    "type": "xã",
+    "district_code": "599",
+    "codename": "bac_ruong"
+  },
+  {
+    "code": "23158",
+    "name": "Nghị Đức",
+    "name_en": "Nghi Duc",
+    "full_name": "Xã Nghị Đức",
+    "full_name_en": "Nghi Duc Commune",
+    "type": "xã",
+    "district_code": "599",
+    "codename": "nghi_duc"
+  },
+  {
+    "code": "23161",
+    "name": "La Ngâu",
+    "name_en": "La Ngau",
+    "full_name": "Xã La Ngâu",
+    "full_name_en": "La Ngau Commune",
+    "type": "xã",
+    "district_code": "599",
+    "codename": "la_ngau"
+  },
+  {
+    "code": "23164",
+    "name": "Huy Khiêm",
+    "name_en": "Huy Khiem",
+    "full_name": "Xã Huy Khiêm",
+    "full_name_en": "Huy Khiem Commune",
+    "type": "xã",
+    "district_code": "599",
+    "codename": "huy_khiem"
+  },
+  {
+    "code": "23167",
+    "name": "Măng Tố",
+    "name_en": "Mang To",
+    "full_name": "Xã Măng Tố",
+    "full_name_en": "Mang To Commune",
+    "type": "xã",
+    "district_code": "599",
+    "codename": "mang_to"
+  },
+  {
+    "code": "23170",
+    "name": "Đức Phú",
+    "name_en": "Duc Phu",
+    "full_name": "Xã Đức Phú",
+    "full_name_en": "Duc Phu Commune",
+    "type": "xã",
+    "district_code": "599",
+    "codename": "duc_phu"
+  },
+  {
+    "code": "23173",
+    "name": "Đồng Kho",
+    "name_en": "Dong Kho",
+    "full_name": "Xã Đồng Kho",
+    "full_name_en": "Dong Kho Commune",
+    "type": "xã",
+    "district_code": "599",
+    "codename": "dong_kho"
+  },
+  {
+    "code": "23176",
+    "name": "Gia An",
+    "name_en": "Gia An",
+    "full_name": "Xã Gia An",
+    "full_name_en": "Gia An Commune",
+    "type": "xã",
+    "district_code": "599",
+    "codename": "gia_an"
+  },
+  {
+    "code": "23179",
+    "name": "Đức Bình",
+    "name_en": "Duc Binh",
+    "full_name": "Xã Đức Bình",
+    "full_name_en": "Duc Binh Commune",
+    "type": "xã",
+    "district_code": "599",
+    "codename": "duc_binh"
+  },
+  {
+    "code": "23182",
+    "name": "Gia Huynh",
+    "name_en": "Gia Huynh",
+    "full_name": "Xã Gia Huynh",
+    "full_name_en": "Gia Huynh Commune",
+    "type": "xã",
+    "district_code": "599",
+    "codename": "gia_huynh"
+  },
+  {
+    "code": "23185",
+    "name": "Đức Thuận",
+    "name_en": "Duc Thuan",
+    "full_name": "Xã Đức Thuận",
+    "full_name_en": "Duc Thuan Commune",
+    "type": "xã",
+    "district_code": "599",
+    "codename": "duc_thuan"
+  },
+  {
+    "code": "23188",
+    "name": "Suối Kiết",
+    "name_en": "Suoi Kiet",
+    "full_name": "Xã Suối Kiết",
+    "full_name_en": "Suoi Kiet Commune",
+    "type": "xã",
+    "district_code": "599",
+    "codename": "suoi_kiet"
+  }
+]

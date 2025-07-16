@@ -1,0 +1,202 @@
+[
+  {
+    "code": "12205",
+    "name": "Khoái Châu",
+    "name_en": "Khoai Chau",
+    "full_name": "Thị trấn Khoái Châu",
+    "full_name_en": "Khoai Chau Township",
+    "type": "thị trấn",
+    "district_code": "330",
+    "codename": "khoai_chau"
+  },
+  {
+    "code": "12208",
+    "name": "Đông Tảo",
+    "name_en": "Dong Tao",
+    "full_name": "Xã Đông Tảo",
+    "full_name_en": "Dong Tao Commune",
+    "type": "xã",
+    "district_code": "330",
+    "codename": "dong_tao"
+  },
+  {
+    "code": "12211",
+    "name": "Bình Minh",
+    "name_en": "Binh Minh",
+    "full_name": "Xã Bình Minh",
+    "full_name_en": "Binh Minh Commune",
+    "type": "xã",
+    "district_code": "330",
+    "codename": "binh_minh"
+  },
+  {
+    "code": "12214",
+    "name": "Phạm Hồng Thái",
+    "name_en": "Pham Hong Thai",
+    "full_name": "Xã Phạm Hồng Thái",
+    "full_name_en": "Pham Hong Thai Commune",
+    "type": "xã",
+    "district_code": "330",
+    "codename": "pham_hong_thai"
+  },
+  {
+    "code": "12220",
+    "name": "Ông Đình",
+    "name_en": "Ong Dinh",
+    "full_name": "Xã Ông Đình",
+    "full_name_en": "Ong Dinh Commune",
+    "type": "xã",
+    "district_code": "330",
+    "codename": "ong_dinh"
+  },
+  {
+    "code": "12223",
+    "name": "Tân Dân",
+    "name_en": "Tan Dan",
+    "full_name": "Xã Tân Dân",
+    "full_name_en": "Tan Dan Commune",
+    "type": "xã",
+    "district_code": "330",
+    "codename": "tan_dan"
+  },
+  {
+    "code": "12226",
+    "name": "Tứ Dân",
+    "name_en": "Tu Dan",
+    "full_name": "Xã Tứ Dân",
+    "full_name_en": "Tu Dan Commune",
+    "type": "xã",
+    "district_code": "330",
+    "codename": "tu_dan"
+  },
+  {
+    "code": "12229",
+    "name": "An Vĩ",
+    "name_en": "An Vi",
+    "full_name": "Xã An Vĩ",
+    "full_name_en": "An Vi Commune",
+    "type": "xã",
+    "district_code": "330",
+    "codename": "an_vi"
+  },
+  {
+    "code": "12232",
+    "name": "Đông Kết",
+    "name_en": "Dong Ket",
+    "full_name": "Xã Đông Kết",
+    "full_name_en": "Dong Ket Commune",
+    "type": "xã",
+    "district_code": "330",
+    "codename": "dong_ket"
+  },
+  {
+    "code": "12238",
+    "name": "Dân Tiến",
+    "name_en": "Dan Tien",
+    "full_name": "Xã Dân Tiến",
+    "full_name_en": "Dan Tien Commune",
+    "type": "xã",
+    "district_code": "330",
+    "codename": "dan_tien"
+  },
+  {
+    "code": "12244",
+    "name": "Đồng Tiến",
+    "name_en": "Dong Tien",
+    "full_name": "Xã Đồng Tiến",
+    "full_name_en": "Dong Tien Commune",
+    "type": "xã",
+    "district_code": "330",
+    "codename": "dong_tien"
+  },
+  {
+    "code": "12247",
+    "name": "Tân Châu",
+    "name_en": "Tan Chau",
+    "full_name": "Xã Tân Châu",
+    "full_name_en": "Tan Chau Commune",
+    "type": "xã",
+    "district_code": "330",
+    "codename": "tan_chau"
+  },
+  {
+    "code": "12250",
+    "name": "Liên Khê",
+    "name_en": "Lien Khe",
+    "full_name": "Xã Liên Khê",
+    "full_name_en": "Lien Khe Commune",
+    "type": "xã",
+    "district_code": "330",
+    "codename": "lien_khe"
+  },
+  {
+    "code": "12253",
+    "name": "Phùng Hưng",
+    "name_en": "Phung Hung",
+    "full_name": "Xã Phùng Hưng",
+    "full_name_en": "Phung Hung Commune",
+    "type": "xã",
+    "district_code": "330",
+    "codename": "phung_hung"
+  },
+  {
+    "code": "12256",
+    "name": "Việt Hòa",
+    "name_en": "Viet Hoa",
+    "full_name": "Xã Việt Hòa",
+    "full_name_en": "Viet Hoa Commune",
+    "type": "xã",
+    "district_code": "330",
+    "codename": "viet_hoa"
+  },
+  {
+    "code": "12259",
+    "name": "Đông Ninh",
+    "name_en": "Dong Ninh",
+    "full_name": "Xã Đông Ninh",
+    "full_name_en": "Dong Ninh Commune",
+    "type": "xã",
+    "district_code": "330",
+    "codename": "dong_ninh"
+  },
+  {
+    "code": "12262",
+    "name": "Đại Tập",
+    "name_en": "Dai Tap",
+    "full_name": "Xã Đại Tập",
+    "full_name_en": "Dai Tap Commune",
+    "type": "xã",
+    "district_code": "330",
+    "codename": "dai_tap"
+  },
+  {
+    "code": "12265",
+    "name": "Chí Minh",
+    "name_en": "Chi Minh",
+    "full_name": "Xã Chí Minh",
+    "full_name_en": "Chi Minh Commune",
+    "type": "xã",
+    "district_code": "330",
+    "codename": "chi_minh"
+  },
+  {
+    "code": "12271",
+    "name": "Thuần Hưng",
+    "name_en": "Thuan Hung",
+    "full_name": "Xã Thuần Hưng",
+    "full_name_en": "Thuan Hung Commune",
+    "type": "xã",
+    "district_code": "330",
+    "codename": "thuan_hung"
+  },
+  {
+    "code": "12274",
+    "name": "Nguyễn Huệ",
+    "name_en": "Nguyen Hue",
+    "full_name": "Xã Nguyễn Huệ",
+    "full_name_en": "Nguyen Hue Commune",
+    "type": "xã",
+    "district_code": "330",
+    "codename": "nguyen_hue"
+  }
+]

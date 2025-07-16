@@ -1,0 +1,72 @@
+[
+  {
+    "code": "582",
+    "name": "Phan Rang-Tháp Chàm",
+    "name_en": "Phan Rang-Thap Cham",
+    "full_name": "Thành phố Phan Rang-Tháp Chàm",
+    "full_name_en": "Phan Rang-Thap Cham City",
+    "type": "thành phố",
+    "province_code": "58",
+    "codename": "phan_rang-thap_cham"
+  },
+  {
+    "code": "584",
+    "name": "Bác Ái",
+    "name_en": "Bac Ai",
+    "full_name": "Huyện Bác Ái",
+    "full_name_en": "Bac Ai District",
+    "type": "huyện",
+    "province_code": "58",
+    "codename": "bac_ai"
+  },
+  {
+    "code": "585",
+    "name": "Ninh Sơn",
+    "name_en": "Ninh Son",
+    "full_name": "Huyện Ninh Sơn",
+    "full_name_en": "Ninh Son District",
+    "type": "huyện",
+    "province_code": "58",
+    "codename": "ninh_son"
+  },
+  {
+    "code": "586",
+    "name": "Ninh Hải",
+    "name_en": "Ninh Hai",
+    "full_name": "Huyện Ninh Hải",
+    "full_name_en": "Ninh Hai District",
+    "type": "huyện",
+    "province_code": "58",
+    "codename": "ninh_hai"
+  },
+  {
+    "code": "587",
+    "name": "Ninh Phước",
+    "name_en": "Ninh Phuoc",
+    "full_name": "Huyện Ninh Phước",
+    "full_name_en": "Ninh Phuoc District",
+    "type": "huyện",
+    "province_code": "58",
+    "codename": "ninh_phuoc"
+  },
+  {
+    "code": "588",
+    "name": "Thuận Bắc",
+    "name_en": "Thuan Bac",
+    "full_name": "Huyện Thuận Bắc",
+    "full_name_en": "Thuan Bac District",
+    "type": "huyện",
+    "province_code": "58",
+    "codename": "thuan_bac"
+  },
+  {
+    "code": "589",
+    "name": "Thuận Nam",
+    "name_en": "Thuan Nam",
+    "full_name": "Huyện Thuận Nam",
+    "full_name_en": "Thuan Nam District",
+    "type": "huyện",
+    "province_code": "58",
+    "codename": "thuan_nam"
+  }
+]

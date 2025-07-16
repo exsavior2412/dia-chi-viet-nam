@@ -1,0 +1,132 @@
+[
+  {
+    "code": "30037",
+    "name": "Mỹ An",
+    "name_en": "My An",
+    "full_name": "Thị trấn Mỹ An",
+    "full_name_en": "My An Township",
+    "type": "thị trấn",
+    "district_code": "872",
+    "codename": "my_an"
+  },
+  {
+    "code": "30040",
+    "name": "Thạnh Lợi",
+    "name_en": "Thanh Loi",
+    "full_name": "Xã Thạnh Lợi",
+    "full_name_en": "Thanh Loi Commune",
+    "type": "xã",
+    "district_code": "872",
+    "codename": "thanh_loi"
+  },
+  {
+    "code": "30043",
+    "name": "Hưng Thạnh",
+    "name_en": "Hung Thanh",
+    "full_name": "Xã Hưng Thạnh",
+    "full_name_en": "Hung Thanh Commune",
+    "type": "xã",
+    "district_code": "872",
+    "codename": "hung_thanh"
+  },
+  {
+    "code": "30046",
+    "name": "Trường Xuân",
+    "name_en": "Truong Xuan",
+    "full_name": "Xã Trường Xuân",
+    "full_name_en": "Truong Xuan Commune",
+    "type": "xã",
+    "district_code": "872",
+    "codename": "truong_xuan"
+  },
+  {
+    "code": "30049",
+    "name": "Tân Kiều",
+    "name_en": "Tan Kieu",
+    "full_name": "Xã Tân Kiều",
+    "full_name_en": "Tan Kieu Commune",
+    "type": "xã",
+    "district_code": "872",
+    "codename": "tan_kieu"
+  },
+  {
+    "code": "30052",
+    "name": "Mỹ Hòa",
+    "name_en": "My Hoa",
+    "full_name": "Xã Mỹ Hòa",
+    "full_name_en": "My Hoa Commune",
+    "type": "xã",
+    "district_code": "872",
+    "codename": "my_hoa"
+  },
+  {
+    "code": "30055",
+    "name": "Mỹ Quý",
+    "name_en": "My Quy",
+    "full_name": "Xã Mỹ Quý",
+    "full_name_en": "My Quy Commune",
+    "type": "xã",
+    "district_code": "872",
+    "codename": "my_quy"
+  },
+  {
+    "code": "30058",
+    "name": "Mỹ Đông",
+    "name_en": "My Dong",
+    "full_name": "Xã Mỹ Đông",
+    "full_name_en": "My Dong Commune",
+    "type": "xã",
+    "district_code": "872",
+    "codename": "my_dong"
+  },
+  {
+    "code": "30061",
+    "name": "Đốc Binh Kiều",
+    "name_en": "Doc Binh Kieu",
+    "full_name": "Xã Đốc Binh Kiều",
+    "full_name_en": "Doc Binh Kieu Commune",
+    "type": "xã",
+    "district_code": "872",
+    "codename": "doc_binh_kieu"
+  },
+  {
+    "code": "30064",
+    "name": "Mỹ An",
+    "name_en": "My An",
+    "full_name": "Xã Mỹ An",
+    "full_name_en": "My An Commune",
+    "type": "xã",
+    "district_code": "872",
+    "codename": "my_an"
+  },
+  {
+    "code": "30067",
+    "name": "Phú Điền",
+    "name_en": "Phu Dien",
+    "full_name": "Xã Phú Điền",
+    "full_name_en": "Phu Dien Commune",
+    "type": "xã",
+    "district_code": "872",
+    "codename": "phu_dien"
+  },
+  {
+    "code": "30070",
+    "name": "Láng Biển",
+    "name_en": "Lang Bien",
+    "full_name": "Xã Láng Biển",
+    "full_name_en": "Lang Bien Commune",
+    "type": "xã",
+    "district_code": "872",
+    "codename": "lang_bien"
+  },
+  {
+    "code": "30073",
+    "name": "Thanh Mỹ",
+    "name_en": "Thanh My",
+    "full_name": "Xã Thanh Mỹ",
+    "full_name_en": "Thanh My Commune",
+    "type": "xã",
+    "district_code": "872",
+    "codename": "thanh_my"
+  }
+]

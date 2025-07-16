@@ -1,0 +1,102 @@
+[
+  {
+    "code": "28075",
+    "name": "Tân Trụ",
+    "name_en": "Tan Tru",
+    "full_name": "Thị trấn Tân Trụ",
+    "full_name_en": "Tan Tru Township",
+    "type": "thị trấn",
+    "district_code": "805",
+    "codename": "tan_tru"
+  },
+  {
+    "code": "28078",
+    "name": "Tân Bình",
+    "name_en": "Tan Binh",
+    "full_name": "Xã Tân Bình",
+    "full_name_en": "Tan Binh Commune",
+    "type": "xã",
+    "district_code": "805",
+    "codename": "tan_binh"
+  },
+  {
+    "code": "28084",
+    "name": "Quê Mỹ Thạnh",
+    "name_en": "Que My Thanh",
+    "full_name": "Xã Quê Mỹ Thạnh",
+    "full_name_en": "Que My Thanh Commune",
+    "type": "xã",
+    "district_code": "805",
+    "codename": "que_my_thanh"
+  },
+  {
+    "code": "28087",
+    "name": "Lạc Tấn",
+    "name_en": "Lac Tan",
+    "full_name": "Xã Lạc Tấn",
+    "full_name_en": "Lac Tan Commune",
+    "type": "xã",
+    "district_code": "805",
+    "codename": "lac_tan"
+  },
+  {
+    "code": "28090",
+    "name": "Bình Trinh Đông",
+    "name_en": "Binh Trinh Dong",
+    "full_name": "Xã Bình Trinh Đông",
+    "full_name_en": "Binh Trinh Dong Commune",
+    "type": "xã",
+    "district_code": "805",
+    "codename": "binh_trinh_dong"
+  },
+  {
+    "code": "28093",
+    "name": "Tân Phước Tây",
+    "name_en": "Tan Phuoc Tay",
+    "full_name": "Xã Tân Phước Tây",
+    "full_name_en": "Tan Phuoc Tay Commune",
+    "type": "xã",
+    "district_code": "805",
+    "codename": "tan_phuoc_tay"
+  },
+  {
+    "code": "28096",
+    "name": "Bình Lãng",
+    "name_en": "Binh Lang",
+    "full_name": "Xã Bình Lãng",
+    "full_name_en": "Binh Lang Commune",
+    "type": "xã",
+    "district_code": "805",
+    "codename": "binh_lang"
+  },
+  {
+    "code": "28099",
+    "name": "Bình Tịnh",
+    "name_en": "Binh Tinh",
+    "full_name": "Xã Bình Tịnh",
+    "full_name_en": "Binh Tinh Commune",
+    "type": "xã",
+    "district_code": "805",
+    "codename": "binh_tinh"
+  },
+  {
+    "code": "28102",
+    "name": "Đức Tân",
+    "name_en": "Duc Tan",
+    "full_name": "Xã Đức Tân",
+    "full_name_en": "Duc Tan Commune",
+    "type": "xã",
+    "district_code": "805",
+    "codename": "duc_tan"
+  },
+  {
+    "code": "28105",
+    "name": "Nhựt Ninh",
+    "name_en": "Nhut Ninh",
+    "full_name": "Xã Nhựt Ninh",
+    "full_name_en": "Nhut Ninh Commune",
+    "type": "xã",
+    "district_code": "805",
+    "codename": "nhut_ninh"
+  }
+]

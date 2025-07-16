@@ -1,0 +1,202 @@
+[
+  {
+    "code": "05998",
+    "name": "Khánh Long",
+    "name_en": "Khanh Long",
+    "full_name": "Xã Khánh Long",
+    "full_name_en": "Khanh Long Commune",
+    "type": "xã",
+    "district_code": "180",
+    "codename": "khanh_long"
+  },
+  {
+    "code": "06001",
+    "name": "Đoàn Kết",
+    "name_en": "Doan Ket",
+    "full_name": "Xã Đoàn Kết",
+    "full_name_en": "Doan Ket Commune",
+    "type": "xã",
+    "district_code": "180",
+    "codename": "doan_ket"
+  },
+  {
+    "code": "06004",
+    "name": "Quốc Khánh",
+    "name_en": "Quoc Khanh",
+    "full_name": "Xã Quốc Khánh",
+    "full_name_en": "Quoc Khanh Commune",
+    "type": "xã",
+    "district_code": "180",
+    "codename": "quoc_khanh"
+  },
+  {
+    "code": "06010",
+    "name": "Cao Minh",
+    "name_en": "Cao Minh",
+    "full_name": "Xã Cao Minh",
+    "full_name_en": "Cao Minh Commune",
+    "type": "xã",
+    "district_code": "180",
+    "codename": "cao_minh"
+  },
+  {
+    "code": "06013",
+    "name": "Chí Minh",
+    "name_en": "Chi Minh",
+    "full_name": "Xã Chí Minh",
+    "full_name_en": "Chi Minh Commune",
+    "type": "xã",
+    "district_code": "180",
+    "codename": "chi_minh"
+  },
+  {
+    "code": "06016",
+    "name": "Tri Phương",
+    "name_en": "Tri Phuong",
+    "full_name": "Xã Tri Phương",
+    "full_name_en": "Tri Phuong Commune",
+    "type": "xã",
+    "district_code": "180",
+    "codename": "tri_phuong"
+  },
+  {
+    "code": "06019",
+    "name": "Tân Tiến",
+    "name_en": "Tan Tien",
+    "full_name": "Xã Tân Tiến",
+    "full_name_en": "Tan Tien Commune",
+    "type": "xã",
+    "district_code": "180",
+    "codename": "tan_tien"
+  },
+  {
+    "code": "06022",
+    "name": "Tân Yên",
+    "name_en": "Tan Yen",
+    "full_name": "Xã Tân Yên",
+    "full_name_en": "Tan Yen Commune",
+    "type": "xã",
+    "district_code": "180",
+    "codename": "tan_yen"
+  },
+  {
+    "code": "06025",
+    "name": "Đội Cấn",
+    "name_en": "Doi Can",
+    "full_name": "Xã Đội Cấn",
+    "full_name_en": "Doi Can Commune",
+    "type": "xã",
+    "district_code": "180",
+    "codename": "doi_can"
+  },
+  {
+    "code": "06028",
+    "name": "Tân Minh",
+    "name_en": "Tan Minh",
+    "full_name": "Xã Tân Minh",
+    "full_name_en": "Tan Minh Commune",
+    "type": "xã",
+    "district_code": "180",
+    "codename": "tan_minh"
+  },
+  {
+    "code": "06031",
+    "name": "Kim Đồng",
+    "name_en": "Kim Dong",
+    "full_name": "Xã Kim Đồng",
+    "full_name_en": "Kim Dong Commune",
+    "type": "xã",
+    "district_code": "180",
+    "codename": "kim_dong"
+  },
+  {
+    "code": "06034",
+    "name": "Chi Lăng",
+    "name_en": "Chi Lang",
+    "full_name": "Xã Chi Lăng",
+    "full_name_en": "Chi Lang Commune",
+    "type": "xã",
+    "district_code": "180",
+    "codename": "chi_lang"
+  },
+  {
+    "code": "06037",
+    "name": "Trung Thành",
+    "name_en": "Trung Thanh",
+    "full_name": "Xã Trung Thành",
+    "full_name_en": "Trung Thanh Commune",
+    "type": "xã",
+    "district_code": "180",
+    "codename": "trung_thanh"
+  },
+  {
+    "code": "06040",
+    "name": "Thất Khê",
+    "name_en": "That Khe",
+    "full_name": "Thị trấn Thất Khê",
+    "full_name_en": "That Khe Township",
+    "type": "thị trấn",
+    "district_code": "180",
+    "codename": "that_khe"
+  },
+  {
+    "code": "06043",
+    "name": "Đào Viên",
+    "name_en": "Dao Vien",
+    "full_name": "Xã Đào Viên",
+    "full_name_en": "Dao Vien Commune",
+    "type": "xã",
+    "district_code": "180",
+    "codename": "dao_vien"
+  },
+  {
+    "code": "06046",
+    "name": "Đề Thám",
+    "name_en": "De Tham",
+    "full_name": "Xã Đề Thám",
+    "full_name_en": "De Tham Commune",
+    "type": "xã",
+    "district_code": "180",
+    "codename": "de_tham"
+  },
+  {
+    "code": "06049",
+    "name": "Kháng Chiến",
+    "name_en": "Khang Chien",
+    "full_name": "Xã Kháng Chiến",
+    "full_name_en": "Khang Chien Commune",
+    "type": "xã",
+    "district_code": "180",
+    "codename": "khang_chien"
+  },
+  {
+    "code": "06055",
+    "name": "Hùng Sơn",
+    "name_en": "Hung Son",
+    "full_name": "Xã Hùng Sơn",
+    "full_name_en": "Hung Son Commune",
+    "type": "xã",
+    "district_code": "180",
+    "codename": "hung_son"
+  },
+  {
+    "code": "06058",
+    "name": "Quốc Việt",
+    "name_en": "Quoc Viet",
+    "full_name": "Xã Quốc Việt",
+    "full_name_en": "Quoc Viet Commune",
+    "type": "xã",
+    "district_code": "180",
+    "codename": "quoc_viet"
+  },
+  {
+    "code": "06061",
+    "name": "Hùng Việt",
+    "name_en": "Hung Viet",
+    "full_name": "Xã Hùng Việt",
+    "full_name_en": "Hung Viet Commune",
+    "type": "xã",
+    "district_code": "180",
+    "codename": "hung_viet"
+  }
+]

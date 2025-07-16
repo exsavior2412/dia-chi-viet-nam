@@ -1,0 +1,82 @@
+[
+  {
+    "code": "31366",
+    "name": "Ngã Sáu",
+    "name_en": "Nga Sau",
+    "full_name": "Thị trấn Ngã Sáu",
+    "full_name_en": "Nga Sau Township",
+    "type": "thị trấn",
+    "district_code": "933",
+    "codename": "nga_sau"
+  },
+  {
+    "code": "31369",
+    "name": "Đông Thạnh",
+    "name_en": "Dong Thanh",
+    "full_name": "Xã Đông Thạnh",
+    "full_name_en": "Dong Thanh Commune",
+    "type": "xã",
+    "district_code": "933",
+    "codename": "dong_thanh"
+  },
+  {
+    "code": "31375",
+    "name": "Đông Phú",
+    "name_en": "Dong Phu",
+    "full_name": "Xã Đông Phú",
+    "full_name_en": "Dong Phu Commune",
+    "type": "xã",
+    "district_code": "933",
+    "codename": "dong_phu"
+  },
+  {
+    "code": "31378",
+    "name": "Phú Hữu",
+    "name_en": "Phu Huu",
+    "full_name": "Xã Phú Hữu",
+    "full_name_en": "Phu Huu Commune",
+    "type": "xã",
+    "district_code": "933",
+    "codename": "phu_huu"
+  },
+  {
+    "code": "31379",
+    "name": "Phú Tân",
+    "name_en": "Phu Tan",
+    "full_name": "Xã Phú Tân",
+    "full_name_en": "Phu Tan Commune",
+    "type": "xã",
+    "district_code": "933",
+    "codename": "phu_tan"
+  },
+  {
+    "code": "31381",
+    "name": "Mái Dầm",
+    "name_en": "Mai Dam",
+    "full_name": "Thị trấn Mái Dầm",
+    "full_name_en": "Mai Dam Township",
+    "type": "thị trấn",
+    "district_code": "933",
+    "codename": "mai_dam"
+  },
+  {
+    "code": "31384",
+    "name": "Đông Phước",
+    "name_en": "Dong Phuoc",
+    "full_name": "Xã Đông Phước",
+    "full_name_en": "Dong Phuoc Commune",
+    "type": "xã",
+    "district_code": "933",
+    "codename": "dong_phuoc"
+  },
+  {
+    "code": "31387",
+    "name": "Đông Phước A",
+    "name_en": "Dong Phuoc A",
+    "full_name": "Xã Đông Phước A",
+    "full_name_en": "Dong Phuoc A Commune",
+    "type": "xã",
+    "district_code": "933",
+    "codename": "dong_phuoc_a"
+  }
+]

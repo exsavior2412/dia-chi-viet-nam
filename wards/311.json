@@ -1,0 +1,212 @@
+[
+  {
+    "code": "11473",
+    "name": "Minh Đức",
+    "name_en": "Minh Duc",
+    "full_name": "Phường Minh Đức",
+    "full_name_en": "Minh Duc Ward",
+    "type": "phường",
+    "district_code": "311",
+    "codename": "minh_duc"
+  },
+  {
+    "code": "11485",
+    "name": "Liên Xuân",
+    "name_en": "Lien Xuan",
+    "full_name": "Xã Liên Xuân",
+    "full_name_en": "Lien Xuan Commune",
+    "type": "xã",
+    "district_code": "311",
+    "codename": "lien_xuan"
+  },
+  {
+    "code": "11488",
+    "name": "Lưu Kiếm",
+    "name_en": "Luu Kiem",
+    "full_name": "Phường Lưu Kiếm",
+    "full_name_en": "Luu Kiem Ward",
+    "type": "phường",
+    "district_code": "311",
+    "codename": "luu_kiem"
+  },
+  {
+    "code": "11500",
+    "name": "Bạch Đằng",
+    "name_en": "Bach Dang",
+    "full_name": "Xã Bạch Đằng",
+    "full_name_en": "Bach Dang Commune",
+    "type": "xã",
+    "district_code": "311",
+    "codename": "bach_dang"
+  },
+  {
+    "code": "11503",
+    "name": "Ninh Sơn",
+    "name_en": "Ninh Son",
+    "full_name": "Xã Ninh Sơn",
+    "full_name_en": "Ninh Son Commune",
+    "type": "xã",
+    "district_code": "311",
+    "codename": "ninh_son"
+  },
+  {
+    "code": "11506",
+    "name": "Quảng Thanh",
+    "name_en": "Quang Thanh",
+    "full_name": "Phường Quảng Thanh",
+    "full_name_en": "Quang Thanh Ward",
+    "type": "phường",
+    "district_code": "311",
+    "codename": "quang_thanh"
+  },
+  {
+    "code": "11512",
+    "name": "Trần Hưng Đạo",
+    "name_en": "Tran Hung Dao",
+    "full_name": "Phường Trần Hưng Đạo",
+    "full_name_en": "Tran Hung Dao Ward",
+    "type": "phường",
+    "district_code": "311",
+    "codename": "tran_hung_dao"
+  },
+  {
+    "code": "11518",
+    "name": "Quang Trung",
+    "name_en": "Quang Trung",
+    "full_name": "Xã Quang Trung",
+    "full_name_en": "Quang Trung Commune",
+    "type": "xã",
+    "district_code": "311",
+    "codename": "quang_trung"
+  },
+  {
+    "code": "11521",
+    "name": "Lê Hồng Phong",
+    "name_en": "Le Hong Phong",
+    "full_name": "Phường Lê Hồng Phong",
+    "full_name_en": "Le Hong Phong Ward",
+    "type": "phường",
+    "district_code": "311",
+    "codename": "le_hong_phong"
+  },
+  {
+    "code": "11527",
+    "name": "Hoà Bình",
+    "name_en": "Hoa Binh",
+    "full_name": "Phường Hoà Bình",
+    "full_name_en": "Hoa Binh Ward",
+    "type": "phường",
+    "district_code": "311",
+    "codename": "hoa_binh"
+  },
+  {
+    "code": "11530",
+    "name": "Thủy Hà",
+    "name_en": "Thuy Ha",
+    "full_name": "Phường Thủy Hà",
+    "full_name_en": "Thuy Ha Ward",
+    "type": "phường",
+    "district_code": "311",
+    "codename": "thuy_ha"
+  },
+  {
+    "code": "11533",
+    "name": "An Lư",
+    "name_en": "An Lu",
+    "full_name": "Phường An Lư",
+    "full_name_en": "An Lu Ward",
+    "type": "phường",
+    "district_code": "311",
+    "codename": "an_lu"
+  },
+  {
+    "code": "11539",
+    "name": "Phạm Ngũ Lão",
+    "name_en": "Pham Ngu Lao",
+    "full_name": "Phường Phạm Ngũ Lão",
+    "full_name_en": "Pham Ngu Lao Ward",
+    "type": "phường",
+    "district_code": "311",
+    "codename": "pham_ngu_lao"
+  },
+  {
+    "code": "11542",
+    "name": "Nam Triệu Giang",
+    "name_en": "Nam Trieu Giang",
+    "full_name": "Phường Nam Triệu Giang",
+    "full_name_en": "Nam Trieu Giang Ward",
+    "type": "phường",
+    "district_code": "311",
+    "codename": "nam_trieu_giang"
+  },
+  {
+    "code": "11545",
+    "name": "Tam Hưng",
+    "name_en": "Tam Hung",
+    "full_name": "Phường Tam Hưng",
+    "full_name_en": "Tam Hung Ward",
+    "type": "phường",
+    "district_code": "311",
+    "codename": "tam_hung"
+  },
+  {
+    "code": "11551",
+    "name": "Lập Lễ",
+    "name_en": "Lap Le",
+    "full_name": "Phường Lập Lễ",
+    "full_name_en": "Lap Le Ward",
+    "type": "phường",
+    "district_code": "311",
+    "codename": "lap_le"
+  },
+  {
+    "code": "11557",
+    "name": "Thiên Hương",
+    "name_en": "Thien Huong",
+    "full_name": "Phường Thiên Hương",
+    "full_name_en": "Thien Huong Ward",
+    "type": "phường",
+    "district_code": "311",
+    "codename": "thien_huong"
+  },
+  {
+    "code": "11560",
+    "name": "Thuỷ Đường",
+    "name_en": "Thuy Duong",
+    "full_name": "Phường Thuỷ Đường",
+    "full_name_en": "Thuy Duong Ward",
+    "type": "phường",
+    "district_code": "311",
+    "codename": "thuy_duong"
+  },
+  {
+    "code": "11569",
+    "name": "Hoàng Lâm",
+    "name_en": "Hoang Lam",
+    "full_name": "Phường Hoàng Lâm",
+    "full_name_en": "Hoang Lam Ward",
+    "type": "phường",
+    "district_code": "311",
+    "codename": "hoang_lam"
+  },
+  {
+    "code": "11572",
+    "name": "Hoa Động",
+    "name_en": "Hoa Dong",
+    "full_name": "Phường Hoa Động",
+    "full_name_en": "Hoa Dong Ward",
+    "type": "phường",
+    "district_code": "311",
+    "codename": "hoa_dong"
+  },
+  {
+    "code": "11578",
+    "name": "Dương Quan",
+    "name_en": "Duong Quan",
+    "full_name": "Phường Dương Quan",
+    "full_name_en": "Duong Quan Ward",
+    "type": "phường",
+    "district_code": "311",
+    "codename": "duong_quan"
+  }
+]

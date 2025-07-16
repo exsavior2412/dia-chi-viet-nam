@@ -1,0 +1,192 @@
+[
+  {
+    "code": "18949",
+    "name": "Đồng Lê",
+    "name_en": "Dong Le",
+    "full_name": "Thị trấn Đồng Lê",
+    "full_name_en": "Dong Le Township",
+    "type": "thị trấn",
+    "district_code": "453",
+    "codename": "dong_le"
+  },
+  {
+    "code": "18952",
+    "name": "Hương Hóa",
+    "name_en": "Huong Hoa",
+    "full_name": "Xã Hương Hóa",
+    "full_name_en": "Huong Hoa Commune",
+    "type": "xã",
+    "district_code": "453",
+    "codename": "huong_hoa"
+  },
+  {
+    "code": "18955",
+    "name": "Kim Hóa",
+    "name_en": "Kim Hoa",
+    "full_name": "Xã Kim Hóa",
+    "full_name_en": "Kim Hoa Commune",
+    "type": "xã",
+    "district_code": "453",
+    "codename": "kim_hoa"
+  },
+  {
+    "code": "18958",
+    "name": "Thanh Hóa",
+    "name_en": "Thanh Hoa",
+    "full_name": "Xã Thanh Hóa",
+    "full_name_en": "Thanh Hoa Commune",
+    "type": "xã",
+    "district_code": "453",
+    "codename": "thanh_hoa"
+  },
+  {
+    "code": "18961",
+    "name": "Thanh Thạch",
+    "name_en": "Thanh Thach",
+    "full_name": "Xã Thanh Thạch",
+    "full_name_en": "Thanh Thach Commune",
+    "type": "xã",
+    "district_code": "453",
+    "codename": "thanh_thach"
+  },
+  {
+    "code": "18964",
+    "name": "Thuận Hóa",
+    "name_en": "Thuan Hoa",
+    "full_name": "Xã Thuận Hóa",
+    "full_name_en": "Thuan Hoa Commune",
+    "type": "xã",
+    "district_code": "453",
+    "codename": "thuan_hoa"
+  },
+  {
+    "code": "18967",
+    "name": "Lâm Hóa",
+    "name_en": "Lam Hoa",
+    "full_name": "Xã Lâm Hóa",
+    "full_name_en": "Lam Hoa Commune",
+    "type": "xã",
+    "district_code": "453",
+    "codename": "lam_hoa"
+  },
+  {
+    "code": "18970",
+    "name": "Lê Hóa",
+    "name_en": "Le Hoa",
+    "full_name": "Xã Lê Hóa",
+    "full_name_en": "Le Hoa Commune",
+    "type": "xã",
+    "district_code": "453",
+    "codename": "le_hoa"
+  },
+  {
+    "code": "18973",
+    "name": "Sơn Hóa",
+    "name_en": "Son Hoa",
+    "full_name": "Xã Sơn Hóa",
+    "full_name_en": "Son Hoa Commune",
+    "type": "xã",
+    "district_code": "453",
+    "codename": "son_hoa"
+  },
+  {
+    "code": "18976",
+    "name": "Đồng Hóa",
+    "name_en": "Dong Hoa",
+    "full_name": "Xã Đồng Hóa",
+    "full_name_en": "Dong Hoa Commune",
+    "type": "xã",
+    "district_code": "453",
+    "codename": "dong_hoa"
+  },
+  {
+    "code": "18979",
+    "name": "Ngư Hóa",
+    "name_en": "Ngu Hoa",
+    "full_name": "Xã Ngư Hóa",
+    "full_name_en": "Ngu Hoa Commune",
+    "type": "xã",
+    "district_code": "453",
+    "codename": "ngu_hoa"
+  },
+  {
+    "code": "18985",
+    "name": "Thạch Hóa",
+    "name_en": "Thach Hoa",
+    "full_name": "Xã Thạch Hóa",
+    "full_name_en": "Thach Hoa Commune",
+    "type": "xã",
+    "district_code": "453",
+    "codename": "thach_hoa"
+  },
+  {
+    "code": "18988",
+    "name": "Đức Hóa",
+    "name_en": "Duc Hoa",
+    "full_name": "Xã Đức Hóa",
+    "full_name_en": "Duc Hoa Commune",
+    "type": "xã",
+    "district_code": "453",
+    "codename": "duc_hoa"
+  },
+  {
+    "code": "18991",
+    "name": "Phong Hóa",
+    "name_en": "Phong Hoa",
+    "full_name": "Xã Phong Hóa",
+    "full_name_en": "Phong Hoa Commune",
+    "type": "xã",
+    "district_code": "453",
+    "codename": "phong_hoa"
+  },
+  {
+    "code": "18994",
+    "name": "Mai Hóa",
+    "name_en": "Mai Hoa",
+    "full_name": "Xã Mai Hóa",
+    "full_name_en": "Mai Hoa Commune",
+    "type": "xã",
+    "district_code": "453",
+    "codename": "mai_hoa"
+  },
+  {
+    "code": "18997",
+    "name": "Tiến Hóa",
+    "name_en": "Tien Hoa",
+    "full_name": "Xã Tiến Hóa",
+    "full_name_en": "Tien Hoa Commune",
+    "type": "xã",
+    "district_code": "453",
+    "codename": "tien_hoa"
+  },
+  {
+    "code": "19000",
+    "name": "Châu Hóa",
+    "name_en": "Chau Hoa",
+    "full_name": "Xã Châu Hóa",
+    "full_name_en": "Chau Hoa Commune",
+    "type": "xã",
+    "district_code": "453",
+    "codename": "chau_hoa"
+  },
+  {
+    "code": "19003",
+    "name": "Cao Quảng",
+    "name_en": "Cao Quang",
+    "full_name": "Xã Cao Quảng",
+    "full_name_en": "Cao Quang Commune",
+    "type": "xã",
+    "district_code": "453",
+    "codename": "cao_quang"
+  },
+  {
+    "code": "19006",
+    "name": "Văn Hóa",
+    "name_en": "Van Hoa",
+    "full_name": "Xã Văn Hóa",
+    "full_name_en": "Van Hoa Commune",
+    "type": "xã",
+    "district_code": "453",
+    "codename": "van_hoa"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "code": "03172",
+    "name": "Mường Chà",
+    "name_en": "Muong Cha",
+    "full_name": "Thị trấn Mường Chà",
+    "full_name_en": "Muong Cha Township",
+    "type": "thị trấn",
+    "district_code": "097",
+    "codename": "muong_cha"
+  },
+  {
+    "code": "03178",
+    "name": "Xá Tổng",
+    "name_en": "Xa Tong",
+    "full_name": "Xã Xá Tổng",
+    "full_name_en": "Xa Tong Commune",
+    "type": "xã",
+    "district_code": "097",
+    "codename": "xa_tong"
+  },
+  {
+    "code": "03181",
+    "name": "Mường Tùng",
+    "name_en": "Muong Tung",
+    "full_name": "Xã Mường Tùng",
+    "full_name_en": "Muong Tung Commune",
+    "type": "xã",
+    "district_code": "097",
+    "codename": "muong_tung"
+  },
+  {
+    "code": "03190",
+    "name": "Hừa Ngài",
+    "name_en": "Hua Ngai",
+    "full_name": "Xã Hừa Ngài",
+    "full_name_en": "Hua Ngai Commune",
+    "type": "xã",
+    "district_code": "097",
+    "codename": "hua_ngai"
+  },
+  {
+    "code": "03191",
+    "name": "Huổi Mí",
+    "name_en": "Huoi Mi",
+    "full_name": "Xã Huổi Mí",
+    "full_name_en": "Huoi Mi Commune",
+    "type": "xã",
+    "district_code": "097",
+    "codename": "huoi_mi"
+  },
+  {
+    "code": "03193",
+    "name": "Pa Ham",
+    "name_en": "Pa Ham",
+    "full_name": "Xã Pa Ham",
+    "full_name_en": "Pa Ham Commune",
+    "type": "xã",
+    "district_code": "097",
+    "codename": "pa_ham"
+  },
+  {
+    "code": "03194",
+    "name": "Nậm Nèn",
+    "name_en": "Nam Nen",
+    "full_name": "Xã Nậm Nèn",
+    "full_name_en": "Nam Nen Commune",
+    "type": "xã",
+    "district_code": "097",
+    "codename": "nam_nen"
+  },
+  {
+    "code": "03196",
+    "name": "Huổi Lèng",
+    "name_en": "Huoi Leng",
+    "full_name": "Xã Huổi Lèng",
+    "full_name_en": "Huoi Leng Commune",
+    "type": "xã",
+    "district_code": "097",
+    "codename": "huoi_leng"
+  },
+  {
+    "code": "03197",
+    "name": "Sa Lông",
+    "name_en": "Sa Long",
+    "full_name": "Xã Sa Lông",
+    "full_name_en": "Sa Long Commune",
+    "type": "xã",
+    "district_code": "097",
+    "codename": "sa_long"
+  },
+  {
+    "code": "03200",
+    "name": "Ma Thì Hồ",
+    "name_en": "Ma Thi Ho",
+    "full_name": "Xã Ma Thì Hồ",
+    "full_name_en": "Ma Thi Ho Commune",
+    "type": "xã",
+    "district_code": "097",
+    "codename": "ma_thi_ho"
+  },
+  {
+    "code": "03201",
+    "name": "Na Sang",
+    "name_en": "Na Sang",
+    "full_name": "Xã Na Sang",
+    "full_name_en": "Na Sang Commune",
+    "type": "xã",
+    "district_code": "097",
+    "codename": "na_sang"
+  },
+  {
+    "code": "03202",
+    "name": "Mường Mươn",
+    "name_en": "Muong Muon",
+    "full_name": "Xã Mường Mươn",
+    "full_name_en": "Muong Muon Commune",
+    "type": "xã",
+    "district_code": "097",
+    "codename": "muong_muon"
+  }
+]

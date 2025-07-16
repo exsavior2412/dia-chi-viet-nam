@@ -1,0 +1,102 @@
+[
+  {
+    "code": "27346",
+    "name": "14",
+    "name_en": "14",
+    "full_name": "Phường 14",
+    "full_name_en": "Ward 14",
+    "type": "phường",
+    "district_code": "775",
+    "codename": "14"
+  },
+  {
+    "code": "27349",
+    "name": "13",
+    "name_en": "13",
+    "full_name": "Phường 13",
+    "full_name_en": "Ward 13",
+    "type": "phường",
+    "district_code": "775",
+    "codename": "13"
+  },
+  {
+    "code": "27352",
+    "name": "9",
+    "name_en": "9",
+    "full_name": "Phường 9",
+    "full_name_en": "Ward 9",
+    "type": "phường",
+    "district_code": "775",
+    "codename": "9"
+  },
+  {
+    "code": "27358",
+    "name": "12",
+    "name_en": "12",
+    "full_name": "Phường 12",
+    "full_name_en": "Ward 12",
+    "type": "phường",
+    "district_code": "775",
+    "codename": "12"
+  },
+  {
+    "code": "27364",
+    "name": "11",
+    "name_en": "11",
+    "full_name": "Phường 11",
+    "full_name_en": "Ward 11",
+    "type": "phường",
+    "district_code": "775",
+    "codename": "11"
+  },
+  {
+    "code": "27367",
+    "name": "2",
+    "name_en": "2",
+    "full_name": "Phường 2",
+    "full_name_en": "Ward 2",
+    "type": "phường",
+    "district_code": "775",
+    "codename": "2"
+  },
+  {
+    "code": "27373",
+    "name": "1",
+    "name_en": "1",
+    "full_name": "Phường 1",
+    "full_name_en": "Ward 1",
+    "type": "phường",
+    "district_code": "775",
+    "codename": "1"
+  },
+  {
+    "code": "27376",
+    "name": "8",
+    "name_en": "8",
+    "full_name": "Phường 8",
+    "full_name_en": "Ward 8",
+    "type": "phường",
+    "district_code": "775",
+    "codename": "8"
+  },
+  {
+    "code": "27382",
+    "name": "7",
+    "name_en": "7",
+    "full_name": "Phường 7",
+    "full_name_en": "Ward 7",
+    "type": "phường",
+    "district_code": "775",
+    "codename": "7"
+  },
+  {
+    "code": "27385",
+    "name": "10",
+    "name_en": "10",
+    "full_name": "Phường 10",
+    "full_name_en": "Ward 10",
+    "type": "phường",
+    "district_code": "775",
+    "codename": "10"
+  }
+]

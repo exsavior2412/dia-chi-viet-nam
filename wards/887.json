@@ -1,0 +1,142 @@
+[
+  {
+    "code": "30376",
+    "name": "Long Thạnh",
+    "name_en": "Long Thanh",
+    "full_name": "Phường Long Thạnh",
+    "full_name_en": "Long Thanh Ward",
+    "type": "phường",
+    "district_code": "887",
+    "codename": "long_thanh"
+  },
+  {
+    "code": "30377",
+    "name": "Long Hưng",
+    "name_en": "Long Hung",
+    "full_name": "Phường Long Hưng",
+    "full_name_en": "Long Hung Ward",
+    "type": "phường",
+    "district_code": "887",
+    "codename": "long_hung"
+  },
+  {
+    "code": "30378",
+    "name": "Long Châu",
+    "name_en": "Long Chau",
+    "full_name": "Phường Long Châu",
+    "full_name_en": "Long Chau Ward",
+    "type": "phường",
+    "district_code": "887",
+    "codename": "long_chau"
+  },
+  {
+    "code": "30379",
+    "name": "Phú Lộc",
+    "name_en": "Phu Loc",
+    "full_name": "Xã Phú Lộc",
+    "full_name_en": "Phu Loc Commune",
+    "type": "xã",
+    "district_code": "887",
+    "codename": "phu_loc"
+  },
+  {
+    "code": "30382",
+    "name": "Vĩnh Xương",
+    "name_en": "Vinh Xuong",
+    "full_name": "Xã Vĩnh Xương",
+    "full_name_en": "Vinh Xuong Commune",
+    "type": "xã",
+    "district_code": "887",
+    "codename": "vinh_xuong"
+  },
+  {
+    "code": "30385",
+    "name": "Vĩnh Hòa",
+    "name_en": "Vinh Hoa",
+    "full_name": "Xã Vĩnh Hòa",
+    "full_name_en": "Vinh Hoa Commune",
+    "type": "xã",
+    "district_code": "887",
+    "codename": "vinh_hoa"
+  },
+  {
+    "code": "30387",
+    "name": "Tân Thạnh",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thạnh",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "887",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "30388",
+    "name": "Tân An",
+    "name_en": "Tan An",
+    "full_name": "Xã Tân An",
+    "full_name_en": "Tan An Commune",
+    "type": "xã",
+    "district_code": "887",
+    "codename": "tan_an"
+  },
+  {
+    "code": "30391",
+    "name": "Long An",
+    "name_en": "Long An",
+    "full_name": "Xã Long An",
+    "full_name_en": "Long An Commune",
+    "type": "xã",
+    "district_code": "887",
+    "codename": "long_an"
+  },
+  {
+    "code": "30394",
+    "name": "Long Phú",
+    "name_en": "Long Phu",
+    "full_name": "Phường Long Phú",
+    "full_name_en": "Long Phu Ward",
+    "type": "phường",
+    "district_code": "887",
+    "codename": "long_phu"
+  },
+  {
+    "code": "30397",
+    "name": "Châu Phong",
+    "name_en": "Chau Phong",
+    "full_name": "Xã Châu Phong",
+    "full_name_en": "Chau Phong Commune",
+    "type": "xã",
+    "district_code": "887",
+    "codename": "chau_phong"
+  },
+  {
+    "code": "30400",
+    "name": "Phú Vĩnh",
+    "name_en": "Phu Vinh",
+    "full_name": "Xã Phú Vĩnh",
+    "full_name_en": "Phu Vinh Commune",
+    "type": "xã",
+    "district_code": "887",
+    "codename": "phu_vinh"
+  },
+  {
+    "code": "30403",
+    "name": "Lê Chánh",
+    "name_en": "Le Chanh",
+    "full_name": "Xã Lê Chánh",
+    "full_name_en": "Le Chanh Commune",
+    "type": "xã",
+    "district_code": "887",
+    "codename": "le_chanh"
+  },
+  {
+    "code": "30412",
+    "name": "Long Sơn",
+    "name_en": "Long Son",
+    "full_name": "Phường Long Sơn",
+    "full_name_en": "Long Son Ward",
+    "type": "phường",
+    "district_code": "887",
+    "codename": "long_son"
+  }
+]

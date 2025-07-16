@@ -1,0 +1,142 @@
+[
+  {
+    "code": "30337",
+    "name": "An Phú",
+    "name_en": "An Phu",
+    "full_name": "Thị trấn An Phú",
+    "full_name_en": "An Phu Township",
+    "type": "thị trấn",
+    "district_code": "886",
+    "codename": "an_phu"
+  },
+  {
+    "code": "30340",
+    "name": "Khánh An",
+    "name_en": "Khanh An",
+    "full_name": "Xã Khánh An",
+    "full_name_en": "Khanh An Commune",
+    "type": "xã",
+    "district_code": "886",
+    "codename": "khanh_an"
+  },
+  {
+    "code": "30341",
+    "name": "Long Bình",
+    "name_en": "Long Binh",
+    "full_name": "Thị trấn Long Bình",
+    "full_name_en": "Long Binh Township",
+    "type": "thị trấn",
+    "district_code": "886",
+    "codename": "long_binh"
+  },
+  {
+    "code": "30343",
+    "name": "Khánh Bình",
+    "name_en": "Khanh Binh",
+    "full_name": "Xã Khánh Bình",
+    "full_name_en": "Khanh Binh Commune",
+    "type": "xã",
+    "district_code": "886",
+    "codename": "khanh_binh"
+  },
+  {
+    "code": "30346",
+    "name": "Quốc Thái",
+    "name_en": "Quoc Thai",
+    "full_name": "Xã Quốc Thái",
+    "full_name_en": "Quoc Thai Commune",
+    "type": "xã",
+    "district_code": "886",
+    "codename": "quoc_thai"
+  },
+  {
+    "code": "30349",
+    "name": "Nhơn Hội",
+    "name_en": "Nhon Hoi",
+    "full_name": "Xã Nhơn Hội",
+    "full_name_en": "Nhon Hoi Commune",
+    "type": "xã",
+    "district_code": "886",
+    "codename": "nhon_hoi"
+  },
+  {
+    "code": "30352",
+    "name": "Phú Hữu",
+    "name_en": "Phu Huu",
+    "full_name": "Xã Phú Hữu",
+    "full_name_en": "Phu Huu Commune",
+    "type": "xã",
+    "district_code": "886",
+    "codename": "phu_huu"
+  },
+  {
+    "code": "30355",
+    "name": "Phú Hội",
+    "name_en": "Phu Hoi",
+    "full_name": "Xã Phú Hội",
+    "full_name_en": "Phu Hoi Commune",
+    "type": "xã",
+    "district_code": "886",
+    "codename": "phu_hoi"
+  },
+  {
+    "code": "30358",
+    "name": "Phước Hưng",
+    "name_en": "Phuoc Hung",
+    "full_name": "Xã Phước Hưng",
+    "full_name_en": "Phuoc Hung Commune",
+    "type": "xã",
+    "district_code": "886",
+    "codename": "phuoc_hung"
+  },
+  {
+    "code": "30361",
+    "name": "Vĩnh Lộc",
+    "name_en": "Vinh Loc",
+    "full_name": "Xã Vĩnh Lộc",
+    "full_name_en": "Vinh Loc Commune",
+    "type": "xã",
+    "district_code": "886",
+    "codename": "vinh_loc"
+  },
+  {
+    "code": "30364",
+    "name": "Vĩnh Hậu",
+    "name_en": "Vinh Hau",
+    "full_name": "Xã Vĩnh Hậu",
+    "full_name_en": "Vinh Hau Commune",
+    "type": "xã",
+    "district_code": "886",
+    "codename": "vinh_hau"
+  },
+  {
+    "code": "30367",
+    "name": "Vĩnh Trường",
+    "name_en": "Vinh Truong",
+    "full_name": "Xã Vĩnh Trường",
+    "full_name_en": "Vinh Truong Commune",
+    "type": "xã",
+    "district_code": "886",
+    "codename": "vinh_truong"
+  },
+  {
+    "code": "30370",
+    "name": "Vĩnh Hội Đông",
+    "name_en": "Vinh Hoi Dong",
+    "full_name": "Xã Vĩnh Hội Đông",
+    "full_name_en": "Vinh Hoi Dong Commune",
+    "type": "xã",
+    "district_code": "886",
+    "codename": "vinh_hoi_dong"
+  },
+  {
+    "code": "30373",
+    "name": "Đa Phước",
+    "name_en": "Da Phuoc",
+    "full_name": "Thị trấn Đa Phước",
+    "full_name_en": "Da Phuoc Township",
+    "type": "thị trấn",
+    "district_code": "886",
+    "codename": "da_phuoc"
+  }
+]

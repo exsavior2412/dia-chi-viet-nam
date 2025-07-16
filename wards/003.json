@@ -1,0 +1,82 @@
+[
+  {
+    "code": "00091",
+    "name": "Phú Thượng",
+    "name_en": "Phu Thuong",
+    "full_name": "Phường Phú Thượng",
+    "full_name_en": "Phu Thuong Ward",
+    "type": "phường",
+    "district_code": "003",
+    "codename": "phu_thuong"
+  },
+  {
+    "code": "00094",
+    "name": "Nhật Tân",
+    "name_en": "Nhat Tan",
+    "full_name": "Phường Nhật Tân",
+    "full_name_en": "Nhat Tan Ward",
+    "type": "phường",
+    "district_code": "003",
+    "codename": "nhat_tan"
+  },
+  {
+    "code": "00097",
+    "name": "Tứ Liên",
+    "name_en": "Tu Lien",
+    "full_name": "Phường Tứ Liên",
+    "full_name_en": "Tu Lien Ward",
+    "type": "phường",
+    "district_code": "003",
+    "codename": "tu_lien"
+  },
+  {
+    "code": "00100",
+    "name": "Quảng An",
+    "name_en": "Quang An",
+    "full_name": "Phường Quảng An",
+    "full_name_en": "Quang An Ward",
+    "type": "phường",
+    "district_code": "003",
+    "codename": "quang_an"
+  },
+  {
+    "code": "00103",
+    "name": "Xuân La",
+    "name_en": "Xuan La",
+    "full_name": "Phường Xuân La",
+    "full_name_en": "Xuan La Ward",
+    "type": "phường",
+    "district_code": "003",
+    "codename": "xuan_la"
+  },
+  {
+    "code": "00106",
+    "name": "Yên Phụ",
+    "name_en": "Yen Phu",
+    "full_name": "Phường Yên Phụ",
+    "full_name_en": "Yen Phu Ward",
+    "type": "phường",
+    "district_code": "003",
+    "codename": "yen_phu"
+  },
+  {
+    "code": "00109",
+    "name": "Bưởi",
+    "name_en": "Buoi",
+    "full_name": "Phường Bưởi",
+    "full_name_en": "Buoi Ward",
+    "type": "phường",
+    "district_code": "003",
+    "codename": "buoi"
+  },
+  {
+    "code": "00112",
+    "name": "Thụy Khuê",
+    "name_en": "Thuy Khue",
+    "full_name": "Phường Thụy Khuê",
+    "full_name_en": "Thuy Khue Ward",
+    "type": "phường",
+    "district_code": "003",
+    "codename": "thuy_khue"
+  }
+]

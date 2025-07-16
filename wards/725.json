@@ -1,0 +1,102 @@
+[
+  {
+    "code": "25963",
+    "name": "An Thạnh",
+    "name_en": "An Thanh",
+    "full_name": "Phường An Thạnh",
+    "full_name_en": "An Thanh Ward",
+    "type": "phường",
+    "district_code": "725",
+    "codename": "an_thanh"
+  },
+  {
+    "code": "25966",
+    "name": "Lái Thiêu",
+    "name_en": "Lai Thieu",
+    "full_name": "Phường Lái Thiêu",
+    "full_name_en": "Lai Thieu Ward",
+    "type": "phường",
+    "district_code": "725",
+    "codename": "lai_thieu"
+  },
+  {
+    "code": "25969",
+    "name": "Bình Chuẩn",
+    "name_en": "Binh Chuan",
+    "full_name": "Phường Bình Chuẩn",
+    "full_name_en": "Binh Chuan Ward",
+    "type": "phường",
+    "district_code": "725",
+    "codename": "binh_chuan"
+  },
+  {
+    "code": "25972",
+    "name": "Thuận Giao",
+    "name_en": "Thuan Giao",
+    "full_name": "Phường Thuận Giao",
+    "full_name_en": "Thuan Giao Ward",
+    "type": "phường",
+    "district_code": "725",
+    "codename": "thuan_giao"
+  },
+  {
+    "code": "25975",
+    "name": "An Phú",
+    "name_en": "An Phu",
+    "full_name": "Phường An Phú",
+    "full_name_en": "An Phu Ward",
+    "type": "phường",
+    "district_code": "725",
+    "codename": "an_phu"
+  },
+  {
+    "code": "25978",
+    "name": "Hưng Định",
+    "name_en": "Hung Dinh",
+    "full_name": "Phường Hưng Định",
+    "full_name_en": "Hung Dinh Ward",
+    "type": "phường",
+    "district_code": "725",
+    "codename": "hung_dinh"
+  },
+  {
+    "code": "25981",
+    "name": "An Sơn",
+    "name_en": "An Son",
+    "full_name": "Xã An Sơn",
+    "full_name_en": "An Son Commune",
+    "type": "xã",
+    "district_code": "725",
+    "codename": "an_son"
+  },
+  {
+    "code": "25984",
+    "name": "Bình Nhâm",
+    "name_en": "Binh Nham",
+    "full_name": "Phường Bình Nhâm",
+    "full_name_en": "Binh Nham Ward",
+    "type": "phường",
+    "district_code": "725",
+    "codename": "binh_nham"
+  },
+  {
+    "code": "25987",
+    "name": "Bình Hòa",
+    "name_en": "Binh Hoa",
+    "full_name": "Phường Bình Hòa",
+    "full_name_en": "Binh Hoa Ward",
+    "type": "phường",
+    "district_code": "725",
+    "codename": "binh_hoa"
+  },
+  {
+    "code": "25990",
+    "name": "Vĩnh Phú",
+    "name_en": "Vinh Phu",
+    "full_name": "Phường Vĩnh Phú",
+    "full_name_en": "Vinh Phu Ward",
+    "type": "phường",
+    "district_code": "725",
+    "codename": "vinh_phu"
+  }
+]

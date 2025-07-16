@@ -1,0 +1,192 @@
+[
+  {
+    "code": "29050",
+    "name": "Bình Đại",
+    "name_en": "Binh Dai",
+    "full_name": "Thị trấn Bình Đại",
+    "full_name_en": "Binh Dai Township",
+    "type": "thị trấn",
+    "district_code": "835",
+    "codename": "binh_dai"
+  },
+  {
+    "code": "29053",
+    "name": "Tam Hiệp",
+    "name_en": "Tam Hiep",
+    "full_name": "Xã Tam Hiệp",
+    "full_name_en": "Tam Hiep Commune",
+    "type": "xã",
+    "district_code": "835",
+    "codename": "tam_hiep"
+  },
+  {
+    "code": "29056",
+    "name": "Long Định",
+    "name_en": "Long Dinh",
+    "full_name": "Xã Long Định",
+    "full_name_en": "Long Dinh Commune",
+    "type": "xã",
+    "district_code": "835",
+    "codename": "long_dinh"
+  },
+  {
+    "code": "29059",
+    "name": "Long Hòa",
+    "name_en": "Long Hoa",
+    "full_name": "Xã Long Hòa",
+    "full_name_en": "Long Hoa Commune",
+    "type": "xã",
+    "district_code": "835",
+    "codename": "long_hoa"
+  },
+  {
+    "code": "29062",
+    "name": "Phú Thuận",
+    "name_en": "Phu Thuan",
+    "full_name": "Xã Phú Thuận",
+    "full_name_en": "Phu Thuan Commune",
+    "type": "xã",
+    "district_code": "835",
+    "codename": "phu_thuan"
+  },
+  {
+    "code": "29065",
+    "name": "Vang Quới Tây",
+    "name_en": "Vang Quoi Tay",
+    "full_name": "Xã Vang Quới Tây",
+    "full_name_en": "Vang Quoi Tay Commune",
+    "type": "xã",
+    "district_code": "835",
+    "codename": "vang_quoi_tay"
+  },
+  {
+    "code": "29068",
+    "name": "Vang Quới Đông",
+    "name_en": "Vang Quoi Dong",
+    "full_name": "Xã Vang Quới Đông",
+    "full_name_en": "Vang Quoi Dong Commune",
+    "type": "xã",
+    "district_code": "835",
+    "codename": "vang_quoi_dong"
+  },
+  {
+    "code": "29071",
+    "name": "Châu Hưng",
+    "name_en": "Chau Hung",
+    "full_name": "Xã Châu Hưng",
+    "full_name_en": "Chau Hung Commune",
+    "type": "xã",
+    "district_code": "835",
+    "codename": "chau_hung"
+  },
+  {
+    "code": "29077",
+    "name": "Lộc Thuận",
+    "name_en": "Loc Thuan",
+    "full_name": "Xã Lộc Thuận",
+    "full_name_en": "Loc Thuan Commune",
+    "type": "xã",
+    "district_code": "835",
+    "codename": "loc_thuan"
+  },
+  {
+    "code": "29080",
+    "name": "Định Trung",
+    "name_en": "Dinh Trung",
+    "full_name": "Xã Định Trung",
+    "full_name_en": "Dinh Trung Commune",
+    "type": "xã",
+    "district_code": "835",
+    "codename": "dinh_trung"
+  },
+  {
+    "code": "29083",
+    "name": "Thới Lai",
+    "name_en": "Thoi Lai",
+    "full_name": "Xã Thới Lai",
+    "full_name_en": "Thoi Lai Commune",
+    "type": "xã",
+    "district_code": "835",
+    "codename": "thoi_lai"
+  },
+  {
+    "code": "29086",
+    "name": "Bình Thới",
+    "name_en": "Binh Thoi",
+    "full_name": "Xã Bình Thới",
+    "full_name_en": "Binh Thoi Commune",
+    "type": "xã",
+    "district_code": "835",
+    "codename": "binh_thoi"
+  },
+  {
+    "code": "29089",
+    "name": "Phú Long",
+    "name_en": "Phu Long",
+    "full_name": "Xã Phú Long",
+    "full_name_en": "Phu Long Commune",
+    "type": "xã",
+    "district_code": "835",
+    "codename": "phu_long"
+  },
+  {
+    "code": "29092",
+    "name": "Bình Thắng",
+    "name_en": "Binh Thang",
+    "full_name": "Xã Bình Thắng",
+    "full_name_en": "Binh Thang Commune",
+    "type": "xã",
+    "district_code": "835",
+    "codename": "binh_thang"
+  },
+  {
+    "code": "29095",
+    "name": "Thạnh Trị",
+    "name_en": "Thanh Tri",
+    "full_name": "Xã Thạnh Trị",
+    "full_name_en": "Thanh Tri Commune",
+    "type": "xã",
+    "district_code": "835",
+    "codename": "thanh_tri"
+  },
+  {
+    "code": "29098",
+    "name": "Đại Hòa Lộc",
+    "name_en": "Dai Hoa Loc",
+    "full_name": "Xã Đại Hòa Lộc",
+    "full_name_en": "Dai Hoa Loc Commune",
+    "type": "xã",
+    "district_code": "835",
+    "codename": "dai_hoa_loc"
+  },
+  {
+    "code": "29101",
+    "name": "Thừa Đức",
+    "name_en": "Thua Duc",
+    "full_name": "Xã Thừa Đức",
+    "full_name_en": "Thua Duc Commune",
+    "type": "xã",
+    "district_code": "835",
+    "codename": "thua_duc"
+  },
+  {
+    "code": "29104",
+    "name": "Thạnh Phước",
+    "name_en": "Thanh Phuoc",
+    "full_name": "Xã Thạnh Phước",
+    "full_name_en": "Thanh Phuoc Commune",
+    "type": "xã",
+    "district_code": "835",
+    "codename": "thanh_phuoc"
+  },
+  {
+    "code": "29107",
+    "name": "Thới Thuận",
+    "name_en": "Thoi Thuan",
+    "full_name": "Xã Thới Thuận",
+    "full_name_en": "Thoi Thuan Commune",
+    "type": "xã",
+    "district_code": "835",
+    "codename": "thoi_thuan"
+  }
+]

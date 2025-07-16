@@ -1,0 +1,152 @@
+[
+  {
+    "code": "23941",
+    "name": "Chư Sê",
+    "name_en": "Chu Se",
+    "full_name": "Thị trấn Chư Sê",
+    "full_name_en": "Chu Se Township",
+    "type": "thị trấn",
+    "district_code": "633",
+    "codename": "chu_se"
+  },
+  {
+    "code": "23944",
+    "name": "Ia Tiêm",
+    "name_en": "Ia Tiem",
+    "full_name": "Xã Ia Tiêm",
+    "full_name_en": "Ia Tiem Commune",
+    "type": "xã",
+    "district_code": "633",
+    "codename": "ia_tiem"
+  },
+  {
+    "code": "23945",
+    "name": "Chư Pơng",
+    "name_en": "Chu Pong",
+    "full_name": "Xã Chư Pơng",
+    "full_name_en": "Chu Pong Commune",
+    "type": "xã",
+    "district_code": "633",
+    "codename": "chu_pong"
+  },
+  {
+    "code": "23946",
+    "name": "Bar Măih",
+    "name_en": "Bar Maih",
+    "full_name": "Xã Bar Măih",
+    "full_name_en": "Bar Maih Commune",
+    "type": "xã",
+    "district_code": "633",
+    "codename": "bar_maih"
+  },
+  {
+    "code": "23947",
+    "name": "Bờ Ngoong",
+    "name_en": "Bo Ngoong",
+    "full_name": "Xã Bờ Ngoong",
+    "full_name_en": "Bo Ngoong Commune",
+    "type": "xã",
+    "district_code": "633",
+    "codename": "bo_ngoong"
+  },
+  {
+    "code": "23950",
+    "name": "Ia Glai",
+    "name_en": "Ia Glai",
+    "full_name": "Xã Ia Glai",
+    "full_name_en": "Ia Glai Commune",
+    "type": "xã",
+    "district_code": "633",
+    "codename": "ia_glai"
+  },
+  {
+    "code": "23953",
+    "name": "AL Bá",
+    "name_en": "AL Ba",
+    "full_name": "Xã AL Bá",
+    "full_name_en": "AL Ba Commune",
+    "type": "xã",
+    "district_code": "633",
+    "codename": "al_ba"
+  },
+  {
+    "code": "23954",
+    "name": "Kông HTok",
+    "name_en": "Kong HTok",
+    "full_name": "Xã Kông HTok",
+    "full_name_en": "Kong HTok Commune",
+    "type": "xã",
+    "district_code": "633",
+    "codename": "kong_htok"
+  },
+  {
+    "code": "23956",
+    "name": "AYun",
+    "name_en": "AYun",
+    "full_name": "Xã AYun",
+    "full_name_en": "AYun Commune",
+    "type": "xã",
+    "district_code": "633",
+    "codename": "ayun"
+  },
+  {
+    "code": "23959",
+    "name": "Ia HLốp",
+    "name_en": "Ia HLop",
+    "full_name": "Xã Ia HLốp",
+    "full_name_en": "Ia HLop Commune",
+    "type": "xã",
+    "district_code": "633",
+    "codename": "ia_hlop"
+  },
+  {
+    "code": "23962",
+    "name": "Ia Blang",
+    "name_en": "Ia Blang",
+    "full_name": "Xã Ia Blang",
+    "full_name_en": "Ia Blang Commune",
+    "type": "xã",
+    "district_code": "633",
+    "codename": "ia_blang"
+  },
+  {
+    "code": "23965",
+    "name": "Dun",
+    "name_en": "Dun",
+    "full_name": "Xã Dun",
+    "full_name_en": "Dun Commune",
+    "type": "xã",
+    "district_code": "633",
+    "codename": "dun"
+  },
+  {
+    "code": "23966",
+    "name": "Ia Pal",
+    "name_en": "Ia Pal",
+    "full_name": "Xã Ia Pal",
+    "full_name_en": "Ia Pal Commune",
+    "type": "xã",
+    "district_code": "633",
+    "codename": "ia_pal"
+  },
+  {
+    "code": "23968",
+    "name": "H Bông",
+    "name_en": "H Bong",
+    "full_name": "Xã H Bông",
+    "full_name_en": "H Bong Commune",
+    "type": "xã",
+    "district_code": "633",
+    "codename": "h_bong"
+  },
+  {
+    "code": "23977",
+    "name": "Ia Ko",
+    "name_en": "Ia Ko",
+    "full_name": "Xã Ia Ko",
+    "full_name_en": "Ia Ko Commune",
+    "type": "xã",
+    "district_code": "633",
+    "codename": "ia_ko"
+  }
+]

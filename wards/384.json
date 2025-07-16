@@ -1,0 +1,82 @@
+[
+  {
+    "code": "14845",
+    "name": "Mường Lát",
+    "name_en": "Muong Lat",
+    "full_name": "Thị trấn Mường Lát",
+    "full_name_en": "Muong Lat Township",
+    "type": "thị trấn",
+    "district_code": "384",
+    "codename": "muong_lat"
+  },
+  {
+    "code": "14848",
+    "name": "Tam Chung",
+    "name_en": "Tam Chung",
+    "full_name": "Xã Tam Chung",
+    "full_name_en": "Tam Chung Commune",
+    "type": "xã",
+    "district_code": "384",
+    "codename": "tam_chung"
+  },
+  {
+    "code": "14854",
+    "name": "Mường Lý",
+    "name_en": "Muong Ly",
+    "full_name": "Xã Mường Lý",
+    "full_name_en": "Muong Ly Commune",
+    "type": "xã",
+    "district_code": "384",
+    "codename": "muong_ly"
+  },
+  {
+    "code": "14857",
+    "name": "Trung Lý",
+    "name_en": "Trung Ly",
+    "full_name": "Xã Trung Lý",
+    "full_name_en": "Trung Ly Commune",
+    "type": "xã",
+    "district_code": "384",
+    "codename": "trung_ly"
+  },
+  {
+    "code": "14860",
+    "name": "Quang Chiểu",
+    "name_en": "Quang Chieu",
+    "full_name": "Xã Quang Chiểu",
+    "full_name_en": "Quang Chieu Commune",
+    "type": "xã",
+    "district_code": "384",
+    "codename": "quang_chieu"
+  },
+  {
+    "code": "14863",
+    "name": "Pù Nhi",
+    "name_en": "Pu Nhi",
+    "full_name": "Xã Pù Nhi",
+    "full_name_en": "Pu Nhi Commune",
+    "type": "xã",
+    "district_code": "384",
+    "codename": "pu_nhi"
+  },
+  {
+    "code": "14864",
+    "name": "Nhi Sơn",
+    "name_en": "Nhi Son",
+    "full_name": "Xã Nhi Sơn",
+    "full_name_en": "Nhi Son Commune",
+    "type": "xã",
+    "district_code": "384",
+    "codename": "nhi_son"
+  },
+  {
+    "code": "14866",
+    "name": "Mường Chanh",
+    "name_en": "Muong Chanh",
+    "full_name": "Xã Mường Chanh",
+    "full_name_en": "Muong Chanh Commune",
+    "type": "xã",
+    "district_code": "384",
+    "codename": "muong_chanh"
+  }
+]

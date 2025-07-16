@@ -1,0 +1,82 @@
+[
+  {
+    "code": "00688",
+    "name": "Quang Trung",
+    "name_en": "Quang Trung",
+    "full_name": "Phường Quang Trung",
+    "full_name_en": "Quang Trung Ward",
+    "type": "phường",
+    "district_code": "024",
+    "codename": "quang_trung"
+  },
+  {
+    "code": "00691",
+    "name": "Trần Phú",
+    "name_en": "Tran Phu",
+    "full_name": "Phường Trần Phú",
+    "full_name_en": "Tran Phu Ward",
+    "type": "phường",
+    "district_code": "024",
+    "codename": "tran_phu"
+  },
+  {
+    "code": "00692",
+    "name": "Ngọc Hà",
+    "name_en": "Ngoc Ha",
+    "full_name": "Phường Ngọc Hà",
+    "full_name_en": "Ngoc Ha Ward",
+    "type": "phường",
+    "district_code": "024",
+    "codename": "ngoc_ha"
+  },
+  {
+    "code": "00694",
+    "name": "Nguyễn Trãi",
+    "name_en": "Nguyen Trai",
+    "full_name": "Phường Nguyễn Trãi",
+    "full_name_en": "Nguyen Trai Ward",
+    "type": "phường",
+    "district_code": "024",
+    "codename": "nguyen_trai"
+  },
+  {
+    "code": "00697",
+    "name": "Minh Khai",
+    "name_en": "Minh Khai",
+    "full_name": "Phường Minh Khai",
+    "full_name_en": "Minh Khai Ward",
+    "type": "phường",
+    "district_code": "024",
+    "codename": "minh_khai"
+  },
+  {
+    "code": "00700",
+    "name": "Ngọc Đường",
+    "name_en": "Ngoc Duong",
+    "full_name": "Xã Ngọc Đường",
+    "full_name_en": "Ngoc Duong Commune",
+    "type": "xã",
+    "district_code": "024",
+    "codename": "ngoc_duong"
+  },
+  {
+    "code": "00946",
+    "name": "Phương Độ",
+    "name_en": "Phuong Do",
+    "full_name": "Xã Phương Độ",
+    "full_name_en": "Phuong Do Commune",
+    "type": "xã",
+    "district_code": "024",
+    "codename": "phuong_do"
+  },
+  {
+    "code": "00949",
+    "name": "Phương Thiện",
+    "name_en": "Phuong Thien",
+    "full_name": "Xã Phương Thiện",
+    "full_name_en": "Phuong Thien Commune",
+    "type": "xã",
+    "district_code": "024",
+    "codename": "phuong_thien"
+  }
+]

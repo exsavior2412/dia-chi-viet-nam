@@ -1,0 +1,92 @@
+[
+  {
+    "code": "23942",
+    "name": "Nhơn Hoà",
+    "name_en": "Nhon Hoa",
+    "full_name": "Thị trấn Nhơn Hoà",
+    "full_name_en": "Nhon Hoa Township",
+    "type": "thị trấn",
+    "district_code": "639",
+    "codename": "nhon_hoa"
+  },
+  {
+    "code": "23971",
+    "name": "Ia Hrú",
+    "name_en": "Ia Hru",
+    "full_name": "Xã Ia Hrú",
+    "full_name_en": "Ia Hru Commune",
+    "type": "xã",
+    "district_code": "639",
+    "codename": "ia_hru"
+  },
+  {
+    "code": "23972",
+    "name": "Ia Rong",
+    "name_en": "Ia Rong",
+    "full_name": "Xã Ia Rong",
+    "full_name_en": "Ia Rong Commune",
+    "type": "xã",
+    "district_code": "639",
+    "codename": "ia_rong"
+  },
+  {
+    "code": "23974",
+    "name": "Ia Dreng",
+    "name_en": "Ia Dreng",
+    "full_name": "Xã Ia Dreng",
+    "full_name_en": "Ia Dreng Commune",
+    "type": "xã",
+    "district_code": "639",
+    "codename": "ia_dreng"
+  },
+  {
+    "code": "23978",
+    "name": "Ia Hla",
+    "name_en": "Ia Hla",
+    "full_name": "Xã Ia Hla",
+    "full_name_en": "Ia Hla Commune",
+    "type": "xã",
+    "district_code": "639",
+    "codename": "ia_hla"
+  },
+  {
+    "code": "23980",
+    "name": "Chư Don",
+    "name_en": "Chu Don",
+    "full_name": "Xã Chư Don",
+    "full_name_en": "Chu Don Commune",
+    "type": "xã",
+    "district_code": "639",
+    "codename": "chu_don"
+  },
+  {
+    "code": "23983",
+    "name": "Ia Phang",
+    "name_en": "Ia Phang",
+    "full_name": "Xã Ia Phang",
+    "full_name_en": "Ia Phang Commune",
+    "type": "xã",
+    "district_code": "639",
+    "codename": "ia_phang"
+  },
+  {
+    "code": "23986",
+    "name": "Ia Le",
+    "name_en": "Ia Le",
+    "full_name": "Xã Ia Le",
+    "full_name_en": "Ia Le Commune",
+    "type": "xã",
+    "district_code": "639",
+    "codename": "ia_le"
+  },
+  {
+    "code": "23987",
+    "name": "Ia BLứ",
+    "name_en": "Ia BLu",
+    "full_name": "Xã Ia BLứ",
+    "full_name_en": "Ia BLu Commune",
+    "type": "xã",
+    "district_code": "639",
+    "codename": "ia_blu"
+  }
+]

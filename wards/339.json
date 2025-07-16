@@ -1,0 +1,332 @@
+[
+  {
+    "code": "12586",
+    "name": "Hưng Hà",
+    "name_en": "Hung Ha",
+    "full_name": "Thị trấn Hưng Hà",
+    "full_name_en": "Hung Ha Township",
+    "type": "thị trấn",
+    "district_code": "339",
+    "codename": "hung_ha"
+  },
+  {
+    "code": "12589",
+    "name": "Quang Trung",
+    "name_en": "Quang Trung",
+    "full_name": "Xã Quang Trung",
+    "full_name_en": "Quang Trung Commune",
+    "type": "xã",
+    "district_code": "339",
+    "codename": "quang_trung"
+  },
+  {
+    "code": "12592",
+    "name": "Tân Lễ",
+    "name_en": "Tan Le",
+    "full_name": "Xã Tân Lễ",
+    "full_name_en": "Tan Le Commune",
+    "type": "xã",
+    "district_code": "339",
+    "codename": "tan_le"
+  },
+  {
+    "code": "12595",
+    "name": "Cộng Hòa",
+    "name_en": "Cong Hoa",
+    "full_name": "Xã Cộng Hòa",
+    "full_name_en": "Cong Hoa Commune",
+    "type": "xã",
+    "district_code": "339",
+    "codename": "cong_hoa"
+  },
+  {
+    "code": "12601",
+    "name": "Canh Tân",
+    "name_en": "Canh Tan",
+    "full_name": "Xã Canh Tân",
+    "full_name_en": "Canh Tan Commune",
+    "type": "xã",
+    "district_code": "339",
+    "codename": "canh_tan"
+  },
+  {
+    "code": "12604",
+    "name": "Hòa Tiến",
+    "name_en": "Hoa Tien",
+    "full_name": "Xã Hòa Tiến",
+    "full_name_en": "Hoa Tien Commune",
+    "type": "xã",
+    "district_code": "339",
+    "codename": "hoa_tien"
+  },
+  {
+    "code": "12610",
+    "name": "Tân Tiến",
+    "name_en": "Tan Tien",
+    "full_name": "Xã Tân Tiến",
+    "full_name_en": "Tan Tien Commune",
+    "type": "xã",
+    "district_code": "339",
+    "codename": "tan_tien"
+  },
+  {
+    "code": "12613",
+    "name": "Hưng Nhân",
+    "name_en": "Hung Nhan",
+    "full_name": "Thị trấn Hưng Nhân",
+    "full_name_en": "Hung Nhan Township",
+    "type": "thị trấn",
+    "district_code": "339",
+    "codename": "hung_nhan"
+  },
+  {
+    "code": "12616",
+    "name": "Đoan Hùng",
+    "name_en": "Doan Hung",
+    "full_name": "Xã Đoan Hùng",
+    "full_name_en": "Doan Hung Commune",
+    "type": "xã",
+    "district_code": "339",
+    "codename": "doan_hung"
+  },
+  {
+    "code": "12619",
+    "name": "Duyên Hải",
+    "name_en": "Duyen Hai",
+    "full_name": "Xã Duyên Hải",
+    "full_name_en": "Duyen Hai Commune",
+    "type": "xã",
+    "district_code": "339",
+    "codename": "duyen_hai"
+  },
+  {
+    "code": "12622",
+    "name": "Tân Hòa",
+    "name_en": "Tan Hoa",
+    "full_name": "Xã Tân Hòa",
+    "full_name_en": "Tan Hoa Commune",
+    "type": "xã",
+    "district_code": "339",
+    "codename": "tan_hoa"
+  },
+  {
+    "code": "12625",
+    "name": "Văn Cẩm",
+    "name_en": "Van Cam",
+    "full_name": "Xã Văn Cẩm",
+    "full_name_en": "Van Cam Commune",
+    "type": "xã",
+    "district_code": "339",
+    "codename": "van_cam"
+  },
+  {
+    "code": "12628",
+    "name": "Bắc Sơn",
+    "name_en": "Bac Son",
+    "full_name": "Xã Bắc Sơn",
+    "full_name_en": "Bac Son Commune",
+    "type": "xã",
+    "district_code": "339",
+    "codename": "bac_son"
+  },
+  {
+    "code": "12631",
+    "name": "Đông Đô",
+    "name_en": "Dong Do",
+    "full_name": "Xã Đông Đô",
+    "full_name_en": "Dong Do Commune",
+    "type": "xã",
+    "district_code": "339",
+    "codename": "dong_do"
+  },
+  {
+    "code": "12634",
+    "name": "Phúc Khánh",
+    "name_en": "Phuc Khanh",
+    "full_name": "Xã Phúc Khánh",
+    "full_name_en": "Phuc Khanh Commune",
+    "type": "xã",
+    "district_code": "339",
+    "codename": "phuc_khanh"
+  },
+  {
+    "code": "12637",
+    "name": "Liên Hiệp",
+    "name_en": "Lien Hiep",
+    "full_name": "Xã Liên Hiệp",
+    "full_name_en": "Lien Hiep Commune",
+    "type": "xã",
+    "district_code": "339",
+    "codename": "lien_hiep"
+  },
+  {
+    "code": "12640",
+    "name": "Tây Đô",
+    "name_en": "Tay Do",
+    "full_name": "Xã Tây Đô",
+    "full_name_en": "Tay Do Commune",
+    "type": "xã",
+    "district_code": "339",
+    "codename": "tay_do"
+  },
+  {
+    "code": "12643",
+    "name": "Thống Nhất",
+    "name_en": "Thong Nhat",
+    "full_name": "Xã Thống Nhất",
+    "full_name_en": "Thong Nhat Commune",
+    "type": "xã",
+    "district_code": "339",
+    "codename": "thong_nhat"
+  },
+  {
+    "code": "12646",
+    "name": "Tiến Đức",
+    "name_en": "Tien Duc",
+    "full_name": "Xã Tiến Đức",
+    "full_name_en": "Tien Duc Commune",
+    "type": "xã",
+    "district_code": "339",
+    "codename": "tien_duc"
+  },
+  {
+    "code": "12649",
+    "name": "Thái Hưng",
+    "name_en": "Thai Hung",
+    "full_name": "Xã Thái Hưng",
+    "full_name_en": "Thai Hung Commune",
+    "type": "xã",
+    "district_code": "339",
+    "codename": "thai_hung"
+  },
+  {
+    "code": "12652",
+    "name": "Thái Phương",
+    "name_en": "Thai Phuong",
+    "full_name": "Xã Thái Phương",
+    "full_name_en": "Thai Phuong Commune",
+    "type": "xã",
+    "district_code": "339",
+    "codename": "thai_phuong"
+  },
+  {
+    "code": "12655",
+    "name": "Hòa Bình",
+    "name_en": "Hoa Binh",
+    "full_name": "Xã Hòa Bình",
+    "full_name_en": "Hoa Binh Commune",
+    "type": "xã",
+    "district_code": "339",
+    "codename": "hoa_binh"
+  },
+  {
+    "code": "12656",
+    "name": "Chi Lăng",
+    "name_en": "Chi Lang",
+    "full_name": "Xã Chi Lăng",
+    "full_name_en": "Chi Lang Commune",
+    "type": "xã",
+    "district_code": "339",
+    "codename": "chi_lang"
+  },
+  {
+    "code": "12658",
+    "name": "Minh Khai",
+    "name_en": "Minh Khai",
+    "full_name": "Xã Minh Khai",
+    "full_name_en": "Minh Khai Commune",
+    "type": "xã",
+    "district_code": "339",
+    "codename": "minh_khai"
+  },
+  {
+    "code": "12661",
+    "name": "Hồng An",
+    "name_en": "Hong An",
+    "full_name": "Xã Hồng An",
+    "full_name_en": "Hong An Commune",
+    "type": "xã",
+    "district_code": "339",
+    "codename": "hong_an"
+  },
+  {
+    "code": "12664",
+    "name": "Kim Chung",
+    "name_en": "Kim Chung",
+    "full_name": "Xã Kim Chung",
+    "full_name_en": "Kim Chung Commune",
+    "type": "xã",
+    "district_code": "339",
+    "codename": "kim_chung"
+  },
+  {
+    "code": "12667",
+    "name": "Hồng Lĩnh",
+    "name_en": "Hong Linh",
+    "full_name": "Xã Hồng Lĩnh",
+    "full_name_en": "Hong Linh Commune",
+    "type": "xã",
+    "district_code": "339",
+    "codename": "hong_linh"
+  },
+  {
+    "code": "12670",
+    "name": "Minh Tân",
+    "name_en": "Minh Tan",
+    "full_name": "Xã Minh Tân",
+    "full_name_en": "Minh Tan Commune",
+    "type": "xã",
+    "district_code": "339",
+    "codename": "minh_tan"
+  },
+  {
+    "code": "12673",
+    "name": "Văn Lang",
+    "name_en": "Van Lang",
+    "full_name": "Xã Văn Lang",
+    "full_name_en": "Van Lang Commune",
+    "type": "xã",
+    "district_code": "339",
+    "codename": "van_lang"
+  },
+  {
+    "code": "12676",
+    "name": "Độc Lập",
+    "name_en": "Doc Lap",
+    "full_name": "Xã Độc Lập",
+    "full_name_en": "Doc Lap Commune",
+    "type": "xã",
+    "district_code": "339",
+    "codename": "doc_lap"
+  },
+  {
+    "code": "12679",
+    "name": "Chí Hòa",
+    "name_en": "Chi Hoa",
+    "full_name": "Xã Chí Hòa",
+    "full_name_en": "Chi Hoa Commune",
+    "type": "xã",
+    "district_code": "339",
+    "codename": "chi_hoa"
+  },
+  {
+    "code": "12682",
+    "name": "Minh Hòa",
+    "name_en": "Minh Hoa",
+    "full_name": "Xã Minh Hòa",
+    "full_name_en": "Minh Hoa Commune",
+    "type": "xã",
+    "district_code": "339",
+    "codename": "minh_hoa"
+  },
+  {
+    "code": "12685",
+    "name": "Hồng Minh",
+    "name_en": "Hong Minh",
+    "full_name": "Xã Hồng Minh",
+    "full_name_en": "Hong Minh Commune",
+    "type": "xã",
+    "district_code": "339",
+    "codename": "hong_minh"
+  }
+]

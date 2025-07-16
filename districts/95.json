@@ -1,0 +1,72 @@
+[
+  {
+    "code": "954",
+    "name": "Bạc Liêu",
+    "name_en": "Bac Lieu",
+    "full_name": "Thành phố Bạc Liêu",
+    "full_name_en": "Bac Lieu City",
+    "type": "thành phố",
+    "province_code": "95",
+    "codename": "bac_lieu"
+  },
+  {
+    "code": "956",
+    "name": "Hồng Dân",
+    "name_en": "Hong Dan",
+    "full_name": "Huyện Hồng Dân",
+    "full_name_en": "Hong Dan District",
+    "type": "huyện",
+    "province_code": "95",
+    "codename": "hong_dan"
+  },
+  {
+    "code": "957",
+    "name": "Phước Long",
+    "name_en": "Phuoc Long",
+    "full_name": "Huyện Phước Long",
+    "full_name_en": "Phuoc Long District",
+    "type": "huyện",
+    "province_code": "95",
+    "codename": "phuoc_long"
+  },
+  {
+    "code": "958",
+    "name": "Vĩnh Lợi",
+    "name_en": "Vinh Loi",
+    "full_name": "Huyện Vĩnh Lợi",
+    "full_name_en": "Vinh Loi District",
+    "type": "huyện",
+    "province_code": "95",
+    "codename": "vinh_loi"
+  },
+  {
+    "code": "959",
+    "name": "Giá Rai",
+    "name_en": "Gia Rai",
+    "full_name": "Thị xã Giá Rai",
+    "full_name_en": "Gia Rai Town",
+    "type": "thị xã",
+    "province_code": "95",
+    "codename": "gia_rai"
+  },
+  {
+    "code": "960",
+    "name": "Đông Hải",
+    "name_en": "Dong Hai",
+    "full_name": "Huyện Đông Hải",
+    "full_name_en": "Dong Hai District",
+    "type": "huyện",
+    "province_code": "95",
+    "codename": "dong_hai"
+  },
+  {
+    "code": "961",
+    "name": "Hoà Bình",
+    "name_en": "Hoa Binh",
+    "full_name": "Huyện Hoà Bình",
+    "full_name_en": "Hoa Binh District",
+    "type": "huyện",
+    "province_code": "95",
+    "codename": "hoa_binh"
+  }
+]

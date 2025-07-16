@@ -1,0 +1,152 @@
+[
+  {
+    "code": "11950",
+    "name": "Lam Sơn",
+    "name_en": "Lam Son",
+    "full_name": "Phường Lam Sơn",
+    "full_name_en": "Lam Son Ward",
+    "type": "phường",
+    "district_code": "323",
+    "codename": "lam_son"
+  },
+  {
+    "code": "11953",
+    "name": "Hiến Nam",
+    "name_en": "Hien Nam",
+    "full_name": "Phường Hiến Nam",
+    "full_name_en": "Hien Nam Ward",
+    "type": "phường",
+    "district_code": "323",
+    "codename": "hien_nam"
+  },
+  {
+    "code": "11956",
+    "name": "An Tảo",
+    "name_en": "An Tao",
+    "full_name": "Phường An Tảo",
+    "full_name_en": "An Tao Ward",
+    "type": "phường",
+    "district_code": "323",
+    "codename": "an_tao"
+  },
+  {
+    "code": "11959",
+    "name": "Lê Lợi",
+    "name_en": "Le Loi",
+    "full_name": "Phường Lê Lợi",
+    "full_name_en": "Le Loi Ward",
+    "type": "phường",
+    "district_code": "323",
+    "codename": "le_loi"
+  },
+  {
+    "code": "11962",
+    "name": "Minh Khai",
+    "name_en": "Minh Khai",
+    "full_name": "Phường Minh Khai",
+    "full_name_en": "Minh Khai Ward",
+    "type": "phường",
+    "district_code": "323",
+    "codename": "minh_khai"
+  },
+  {
+    "code": "11968",
+    "name": "Hồng Châu",
+    "name_en": "Hong Chau",
+    "full_name": "Phường Hồng Châu",
+    "full_name_en": "Hong Chau Ward",
+    "type": "phường",
+    "district_code": "323",
+    "codename": "hong_chau"
+  },
+  {
+    "code": "11971",
+    "name": "Trung Nghĩa",
+    "name_en": "Trung Nghia",
+    "full_name": "Xã Trung Nghĩa",
+    "full_name_en": "Trung Nghia Commune",
+    "type": "xã",
+    "district_code": "323",
+    "codename": "trung_nghia"
+  },
+  {
+    "code": "11974",
+    "name": "Liên Phương",
+    "name_en": "Lien Phuong",
+    "full_name": "Xã Liên Phương",
+    "full_name_en": "Lien Phuong Commune",
+    "type": "xã",
+    "district_code": "323",
+    "codename": "lien_phuong"
+  },
+  {
+    "code": "11977",
+    "name": "Phương Nam",
+    "name_en": "Phuong Nam",
+    "full_name": "Xã Phương Nam",
+    "full_name_en": "Phuong Nam Commune",
+    "type": "xã",
+    "district_code": "323",
+    "codename": "phuong_nam"
+  },
+  {
+    "code": "11980",
+    "name": "Quảng Châu",
+    "name_en": "Quang Chau",
+    "full_name": "Xã Quảng Châu",
+    "full_name_en": "Quang Chau Commune",
+    "type": "xã",
+    "district_code": "323",
+    "codename": "quang_chau"
+  },
+  {
+    "code": "11983",
+    "name": "Bảo Khê",
+    "name_en": "Bao Khe",
+    "full_name": "Xã Bảo Khê",
+    "full_name_en": "Bao Khe Commune",
+    "type": "xã",
+    "district_code": "323",
+    "codename": "bao_khe"
+  },
+  {
+    "code": "12331",
+    "name": "Phú Cường",
+    "name_en": "Phu Cuong",
+    "full_name": "Xã Phú Cường",
+    "full_name_en": "Phu Cuong Commune",
+    "type": "xã",
+    "district_code": "323",
+    "codename": "phu_cuong"
+  },
+  {
+    "code": "12334",
+    "name": "Hùng Cường",
+    "name_en": "Hung Cuong",
+    "full_name": "Xã Hùng Cường",
+    "full_name_en": "Hung Cuong Commune",
+    "type": "xã",
+    "district_code": "323",
+    "codename": "hung_cuong"
+  },
+  {
+    "code": "12385",
+    "name": "Tân Hưng",
+    "name_en": "Tan Hung",
+    "full_name": "Xã Tân Hưng",
+    "full_name_en": "Tan Hung Commune",
+    "type": "xã",
+    "district_code": "323",
+    "codename": "tan_hung"
+  },
+  {
+    "code": "12388",
+    "name": "Hoàng Hanh",
+    "name_en": "Hoang Hanh",
+    "full_name": "Xã Hoàng Hanh",
+    "full_name_en": "Hoang Hanh Commune",
+    "type": "xã",
+    "district_code": "323",
+    "codename": "hoang_hanh"
+  }
+]

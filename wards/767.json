@@ -1,0 +1,112 @@
+[
+  {
+    "code": "27010",
+    "name": "Tân Sơn Nhì",
+    "name_en": "Tan Son Nhi",
+    "full_name": "Phường Tân Sơn Nhì",
+    "full_name_en": "Tan Son Nhi Ward",
+    "type": "phường",
+    "district_code": "767",
+    "codename": "tan_son_nhi"
+  },
+  {
+    "code": "27013",
+    "name": "Tây Thạnh",
+    "name_en": "Tay Thanh",
+    "full_name": "Phường Tây Thạnh",
+    "full_name_en": "Tay Thanh Ward",
+    "type": "phường",
+    "district_code": "767",
+    "codename": "tay_thanh"
+  },
+  {
+    "code": "27016",
+    "name": "Sơn Kỳ",
+    "name_en": "Son Ky",
+    "full_name": "Phường Sơn Kỳ",
+    "full_name_en": "Son Ky Ward",
+    "type": "phường",
+    "district_code": "767",
+    "codename": "son_ky"
+  },
+  {
+    "code": "27019",
+    "name": "Tân Quý",
+    "name_en": "Tan Quy",
+    "full_name": "Phường Tân Quý",
+    "full_name_en": "Tan Quy Ward",
+    "type": "phường",
+    "district_code": "767",
+    "codename": "tan_quy"
+  },
+  {
+    "code": "27022",
+    "name": "Tân Thành",
+    "name_en": "Tan Thanh",
+    "full_name": "Phường Tân Thành",
+    "full_name_en": "Tan Thanh Ward",
+    "type": "phường",
+    "district_code": "767",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "27025",
+    "name": "Phú Thọ Hòa",
+    "name_en": "Phu Tho Hoa",
+    "full_name": "Phường Phú Thọ Hòa",
+    "full_name_en": "Phu Tho Hoa Ward",
+    "type": "phường",
+    "district_code": "767",
+    "codename": "phu_tho_hoa"
+  },
+  {
+    "code": "27028",
+    "name": "Phú Thạnh",
+    "name_en": "Phu Thanh",
+    "full_name": "Phường Phú Thạnh",
+    "full_name_en": "Phu Thanh Ward",
+    "type": "phường",
+    "district_code": "767",
+    "codename": "phu_thanh"
+  },
+  {
+    "code": "27031",
+    "name": "Phú Trung",
+    "name_en": "Phu Trung",
+    "full_name": "Phường Phú Trung",
+    "full_name_en": "Phu Trung Ward",
+    "type": "phường",
+    "district_code": "767",
+    "codename": "phu_trung"
+  },
+  {
+    "code": "27034",
+    "name": "Hòa Thạnh",
+    "name_en": "Hoa Thanh",
+    "full_name": "Phường Hòa Thạnh",
+    "full_name_en": "Hoa Thanh Ward",
+    "type": "phường",
+    "district_code": "767",
+    "codename": "hoa_thanh"
+  },
+  {
+    "code": "27037",
+    "name": "Hiệp Tân",
+    "name_en": "Hiep Tan",
+    "full_name": "Phường Hiệp Tân",
+    "full_name_en": "Hiep Tan Ward",
+    "type": "phường",
+    "district_code": "767",
+    "codename": "hiep_tan"
+  },
+  {
+    "code": "27040",
+    "name": "Tân Thới Hòa",
+    "name_en": "Tan Thoi Hoa",
+    "full_name": "Phường Tân Thới Hòa",
+    "full_name_en": "Tan Thoi Hoa Ward",
+    "type": "phường",
+    "district_code": "767",
+    "codename": "tan_thoi_hoa"
+  }
+]

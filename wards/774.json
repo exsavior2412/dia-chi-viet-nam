@@ -1,0 +1,102 @@
+[
+  {
+    "code": "27301",
+    "name": "4",
+    "name_en": "4",
+    "full_name": "Phường 4",
+    "full_name_en": "Ward 4",
+    "type": "phường",
+    "district_code": "774",
+    "codename": "4"
+  },
+  {
+    "code": "27304",
+    "name": "9",
+    "name_en": "9",
+    "full_name": "Phường 9",
+    "full_name_en": "Ward 9",
+    "type": "phường",
+    "district_code": "774",
+    "codename": "9"
+  },
+  {
+    "code": "27307",
+    "name": "2",
+    "name_en": "2",
+    "full_name": "Phường 2",
+    "full_name_en": "Ward 2",
+    "type": "phường",
+    "district_code": "774",
+    "codename": "2"
+  },
+  {
+    "code": "27310",
+    "name": "12",
+    "name_en": "12",
+    "full_name": "Phường 12",
+    "full_name_en": "Ward 12",
+    "type": "phường",
+    "district_code": "774",
+    "codename": "12"
+  },
+  {
+    "code": "27316",
+    "name": "7",
+    "name_en": "7",
+    "full_name": "Phường 7",
+    "full_name_en": "Ward 7",
+    "type": "phường",
+    "district_code": "774",
+    "codename": "7"
+  },
+  {
+    "code": "27325",
+    "name": "1",
+    "name_en": "1",
+    "full_name": "Phường 1",
+    "full_name_en": "Ward 1",
+    "type": "phường",
+    "district_code": "774",
+    "codename": "1"
+  },
+  {
+    "code": "27328",
+    "name": "11",
+    "name_en": "11",
+    "full_name": "Phường 11",
+    "full_name_en": "Ward 11",
+    "type": "phường",
+    "district_code": "774",
+    "codename": "11"
+  },
+  {
+    "code": "27331",
+    "name": "14",
+    "name_en": "14",
+    "full_name": "Phường 14",
+    "full_name_en": "Ward 14",
+    "type": "phường",
+    "district_code": "774",
+    "codename": "14"
+  },
+  {
+    "code": "27334",
+    "name": "5",
+    "name_en": "5",
+    "full_name": "Phường 5",
+    "full_name_en": "Ward 5",
+    "type": "phường",
+    "district_code": "774",
+    "codename": "5"
+  },
+  {
+    "code": "27343",
+    "name": "13",
+    "name_en": "13",
+    "full_name": "Phường 13",
+    "full_name_en": "Ward 13",
+    "type": "phường",
+    "district_code": "774",
+    "codename": "13"
+  }
+]

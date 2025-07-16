@@ -1,0 +1,152 @@
+[
+  {
+    "code": "303",
+    "name": "Hồng Bàng",
+    "name_en": "Hong Bang",
+    "full_name": "Quận Hồng Bàng",
+    "full_name_en": "Hong Bang District",
+    "type": "quận",
+    "province_code": "31",
+    "codename": "hong_bang"
+  },
+  {
+    "code": "304",
+    "name": "Ngô Quyền",
+    "name_en": "Ngo Quyen",
+    "full_name": "Quận Ngô Quyền",
+    "full_name_en": "Ngo Quyen District",
+    "type": "quận",
+    "province_code": "31",
+    "codename": "ngo_quyen"
+  },
+  {
+    "code": "305",
+    "name": "Lê Chân",
+    "name_en": "Le Chan",
+    "full_name": "Quận Lê Chân",
+    "full_name_en": "Le Chan District",
+    "type": "quận",
+    "province_code": "31",
+    "codename": "le_chan"
+  },
+  {
+    "code": "306",
+    "name": "Hải An",
+    "name_en": "Hai An",
+    "full_name": "Quận Hải An",
+    "full_name_en": "Hai An District",
+    "type": "quận",
+    "province_code": "31",
+    "codename": "hai_an"
+  },
+  {
+    "code": "307",
+    "name": "Kiến An",
+    "name_en": "Kien An",
+    "full_name": "Quận Kiến An",
+    "full_name_en": "Kien An District",
+    "type": "quận",
+    "province_code": "31",
+    "codename": "kien_an"
+  },
+  {
+    "code": "308",
+    "name": "Đồ Sơn",
+    "name_en": "Do Son",
+    "full_name": "Quận Đồ Sơn",
+    "full_name_en": "Do Son District",
+    "type": "quận",
+    "province_code": "31",
+    "codename": "do_son"
+  },
+  {
+    "code": "309",
+    "name": "Dương Kinh",
+    "name_en": "Duong Kinh",
+    "full_name": "Quận Dương Kinh",
+    "full_name_en": "Duong Kinh District",
+    "type": "quận",
+    "province_code": "31",
+    "codename": "duong_kinh"
+  },
+  {
+    "code": "311",
+    "name": "Thuỷ Nguyên",
+    "name_en": "Thuy Nguyen",
+    "full_name": "Thành phố Thuỷ Nguyên",
+    "full_name_en": "Thuy Nguyen City",
+    "type": "thành phố",
+    "province_code": "31",
+    "codename": "thuy_nguyen"
+  },
+  {
+    "code": "312",
+    "name": "An Dương",
+    "name_en": "An Duong",
+    "full_name": "Quận An Dương",
+    "full_name_en": "An Duong District",
+    "type": "quận",
+    "province_code": "31",
+    "codename": "an_duong"
+  },
+  {
+    "code": "313",
+    "name": "An Lão",
+    "name_en": "An Lao",
+    "full_name": "Huyện An Lão",
+    "full_name_en": "An Lao District",
+    "type": "huyện",
+    "province_code": "31",
+    "codename": "an_lao"
+  },
+  {
+    "code": "314",
+    "name": "Kiến Thuỵ",
+    "name_en": "Kien Thuy",
+    "full_name": "Huyện Kiến Thuỵ",
+    "full_name_en": "Kien Thuy District",
+    "type": "huyện",
+    "province_code": "31",
+    "codename": "kien_thuy"
+  },
+  {
+    "code": "315",
+    "name": "Tiên Lãng",
+    "name_en": "Tien Lang",
+    "full_name": "Huyện Tiên Lãng",
+    "full_name_en": "Tien Lang District",
+    "type": "huyện",
+    "province_code": "31",
+    "codename": "tien_lang"
+  },
+  {
+    "code": "316",
+    "name": "Vĩnh Bảo",
+    "name_en": "Vinh Bao",
+    "full_name": "Huyện Vĩnh Bảo",
+    "full_name_en": "Vinh Bao District",
+    "type": "huyện",
+    "province_code": "31",
+    "codename": "vinh_bao"
+  },
+  {
+    "code": "317",
+    "name": "Cát Hải",
+    "name_en": "Cat Hai",
+    "full_name": "Huyện Cát Hải",
+    "full_name_en": "Cat Hai District",
+    "type": "huyện",
+    "province_code": "31",
+    "codename": "cat_hai"
+  },
+  {
+    "code": "318",
+    "name": "Bạch Long Vĩ",
+    "name_en": "Bach Long Vi",
+    "full_name": "Huyện Bạch Long Vĩ",
+    "full_name_en": "Bach Long Vi District",
+    "type": "huyện",
+    "province_code": "31",
+    "codename": "bach_long_vi"
+  }
+]

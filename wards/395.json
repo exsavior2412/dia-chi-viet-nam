@@ -1,0 +1,302 @@
+[
+  {
+    "code": "15493",
+    "name": "Xuân Hồng",
+    "name_en": "Xuan Hong",
+    "full_name": "Xã Xuân Hồng",
+    "full_name_en": "Xuan Hong Commune",
+    "type": "xã",
+    "district_code": "395",
+    "codename": "xuan_hong"
+  },
+  {
+    "code": "15499",
+    "name": "Thọ Xuân",
+    "name_en": "Tho Xuan",
+    "full_name": "Thị trấn Thọ Xuân",
+    "full_name_en": "Tho Xuan Township",
+    "type": "thị trấn",
+    "district_code": "395",
+    "codename": "tho_xuan"
+  },
+  {
+    "code": "15502",
+    "name": "Bắc Lương",
+    "name_en": "Bac Luong",
+    "full_name": "Xã Bắc Lương",
+    "full_name_en": "Bac Luong Commune",
+    "type": "xã",
+    "district_code": "395",
+    "codename": "bac_luong"
+  },
+  {
+    "code": "15505",
+    "name": "Nam Giang",
+    "name_en": "Nam Giang",
+    "full_name": "Xã Nam Giang",
+    "full_name_en": "Nam Giang Commune",
+    "type": "xã",
+    "district_code": "395",
+    "codename": "nam_giang"
+  },
+  {
+    "code": "15508",
+    "name": "Xuân Phong",
+    "name_en": "Xuan Phong",
+    "full_name": "Xã Xuân Phong",
+    "full_name_en": "Xuan Phong Commune",
+    "type": "xã",
+    "district_code": "395",
+    "codename": "xuan_phong"
+  },
+  {
+    "code": "15511",
+    "name": "Thọ Lộc",
+    "name_en": "Tho Loc",
+    "full_name": "Xã Thọ Lộc",
+    "full_name_en": "Tho Loc Commune",
+    "type": "xã",
+    "district_code": "395",
+    "codename": "tho_loc"
+  },
+  {
+    "code": "15514",
+    "name": "Xuân Trường",
+    "name_en": "Xuan Truong",
+    "full_name": "Xã Xuân Trường",
+    "full_name_en": "Xuan Truong Commune",
+    "type": "xã",
+    "district_code": "395",
+    "codename": "xuan_truong"
+  },
+  {
+    "code": "15517",
+    "name": "Xuân Hòa",
+    "name_en": "Xuan Hoa",
+    "full_name": "Xã Xuân Hòa",
+    "full_name_en": "Xuan Hoa Commune",
+    "type": "xã",
+    "district_code": "395",
+    "codename": "xuan_hoa"
+  },
+  {
+    "code": "15520",
+    "name": "Thọ Hải",
+    "name_en": "Tho Hai",
+    "full_name": "Xã Thọ Hải",
+    "full_name_en": "Tho Hai Commune",
+    "type": "xã",
+    "district_code": "395",
+    "codename": "tho_hai"
+  },
+  {
+    "code": "15523",
+    "name": "Tây Hồ",
+    "name_en": "Tay Ho",
+    "full_name": "Xã Tây Hồ",
+    "full_name_en": "Tay Ho Commune",
+    "type": "xã",
+    "district_code": "395",
+    "codename": "tay_ho"
+  },
+  {
+    "code": "15526",
+    "name": "Xuân Giang",
+    "name_en": "Xuan Giang",
+    "full_name": "Xã Xuân Giang",
+    "full_name_en": "Xuan Giang Commune",
+    "type": "xã",
+    "district_code": "395",
+    "codename": "xuan_giang"
+  },
+  {
+    "code": "15532",
+    "name": "Xuân Sinh",
+    "name_en": "Xuan Sinh",
+    "full_name": "Xã Xuân Sinh",
+    "full_name_en": "Xuan Sinh Commune",
+    "type": "xã",
+    "district_code": "395",
+    "codename": "xuan_sinh"
+  },
+  {
+    "code": "15535",
+    "name": "Xuân Hưng",
+    "name_en": "Xuan Hung",
+    "full_name": "Xã Xuân Hưng",
+    "full_name_en": "Xuan Hung Commune",
+    "type": "xã",
+    "district_code": "395",
+    "codename": "xuan_hung"
+  },
+  {
+    "code": "15538",
+    "name": "Thọ Diên",
+    "name_en": "Tho Dien",
+    "full_name": "Xã Thọ Diên",
+    "full_name_en": "Tho Dien Commune",
+    "type": "xã",
+    "district_code": "395",
+    "codename": "tho_dien"
+  },
+  {
+    "code": "15541",
+    "name": "Thọ Lâm",
+    "name_en": "Tho Lam",
+    "full_name": "Xã Thọ Lâm",
+    "full_name_en": "Tho Lam Commune",
+    "type": "xã",
+    "district_code": "395",
+    "codename": "tho_lam"
+  },
+  {
+    "code": "15544",
+    "name": "Thọ Xương",
+    "name_en": "Tho Xuong",
+    "full_name": "Xã Thọ Xương",
+    "full_name_en": "Tho Xuong Commune",
+    "type": "xã",
+    "district_code": "395",
+    "codename": "tho_xuong"
+  },
+  {
+    "code": "15547",
+    "name": "Xuân Bái",
+    "name_en": "Xuan Bai",
+    "full_name": "Xã Xuân Bái",
+    "full_name_en": "Xuan Bai Commune",
+    "type": "xã",
+    "district_code": "395",
+    "codename": "xuan_bai"
+  },
+  {
+    "code": "15550",
+    "name": "Xuân Phú",
+    "name_en": "Xuan Phu",
+    "full_name": "Xã Xuân Phú",
+    "full_name_en": "Xuan Phu Commune",
+    "type": "xã",
+    "district_code": "395",
+    "codename": "xuan_phu"
+  },
+  {
+    "code": "15553",
+    "name": "Sao Vàng",
+    "name_en": "Sao Vang",
+    "full_name": "Thị trấn Sao Vàng",
+    "full_name_en": "Sao Vang Township",
+    "type": "thị trấn",
+    "district_code": "395",
+    "codename": "sao_vang"
+  },
+  {
+    "code": "15556",
+    "name": "Lam Sơn",
+    "name_en": "Lam Son",
+    "full_name": "Thị trấn Lam Sơn",
+    "full_name_en": "Lam Son Township",
+    "type": "thị trấn",
+    "district_code": "395",
+    "codename": "lam_son"
+  },
+  {
+    "code": "15559",
+    "name": "Xuân Thiên",
+    "name_en": "Xuan Thien",
+    "full_name": "Xã Xuân Thiên",
+    "full_name_en": "Xuan Thien Commune",
+    "type": "xã",
+    "district_code": "395",
+    "codename": "xuan_thien"
+  },
+  {
+    "code": "15565",
+    "name": "Thuận Minh",
+    "name_en": "Thuan Minh",
+    "full_name": "Xã Thuận Minh",
+    "full_name_en": "Thuan Minh Commune",
+    "type": "xã",
+    "district_code": "395",
+    "codename": "thuan_minh"
+  },
+  {
+    "code": "15568",
+    "name": "Thọ Lập",
+    "name_en": "Tho Lap",
+    "full_name": "Xã Thọ Lập",
+    "full_name_en": "Tho Lap Commune",
+    "type": "xã",
+    "district_code": "395",
+    "codename": "tho_lap"
+  },
+  {
+    "code": "15571",
+    "name": "Quảng Phú",
+    "name_en": "Quang Phu",
+    "full_name": "Xã Quảng Phú",
+    "full_name_en": "Quang Phu Commune",
+    "type": "xã",
+    "district_code": "395",
+    "codename": "quang_phu"
+  },
+  {
+    "code": "15574",
+    "name": "Xuân Tín",
+    "name_en": "Xuan Tin",
+    "full_name": "Xã Xuân Tín",
+    "full_name_en": "Xuan Tin Commune",
+    "type": "xã",
+    "district_code": "395",
+    "codename": "xuan_tin"
+  },
+  {
+    "code": "15577",
+    "name": "Phú Xuân",
+    "name_en": "Phu Xuan",
+    "full_name": "Xã Phú Xuân",
+    "full_name_en": "Phu Xuan Commune",
+    "type": "xã",
+    "district_code": "395",
+    "codename": "phu_xuan"
+  },
+  {
+    "code": "15583",
+    "name": "Xuân Lai",
+    "name_en": "Xuan Lai",
+    "full_name": "Xã Xuân Lai",
+    "full_name_en": "Xuan Lai Commune",
+    "type": "xã",
+    "district_code": "395",
+    "codename": "xuan_lai"
+  },
+  {
+    "code": "15586",
+    "name": "Xuân Lập",
+    "name_en": "Xuan Lap",
+    "full_name": "Xã Xuân Lập",
+    "full_name_en": "Xuan Lap Commune",
+    "type": "xã",
+    "district_code": "395",
+    "codename": "xuan_lap"
+  },
+  {
+    "code": "15592",
+    "name": "Xuân Minh",
+    "name_en": "Xuan Minh",
+    "full_name": "Xã Xuân Minh",
+    "full_name_en": "Xuan Minh Commune",
+    "type": "xã",
+    "district_code": "395",
+    "codename": "xuan_minh"
+  },
+  {
+    "code": "15598",
+    "name": "Trường Xuân",
+    "name_en": "Truong Xuan",
+    "full_name": "Xã Trường Xuân",
+    "full_name_en": "Truong Xuan Commune",
+    "type": "xã",
+    "district_code": "395",
+    "codename": "truong_xuan"
+  }
+]

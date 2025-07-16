@@ -1,0 +1,352 @@
+[
+  {
+    "code": "12472",
+    "name": "Quỳnh Côi",
+    "name_en": "Quynh Coi",
+    "full_name": "Thị trấn Quỳnh Côi",
+    "full_name_en": "Quynh Coi Township",
+    "type": "thị trấn",
+    "district_code": "338",
+    "codename": "quynh_coi"
+  },
+  {
+    "code": "12475",
+    "name": "An Khê",
+    "name_en": "An Khe",
+    "full_name": "Xã An Khê",
+    "full_name_en": "An Khe Commune",
+    "type": "xã",
+    "district_code": "338",
+    "codename": "an_khe"
+  },
+  {
+    "code": "12478",
+    "name": "An Đồng",
+    "name_en": "An Dong",
+    "full_name": "Xã An Đồng",
+    "full_name_en": "An Dong Commune",
+    "type": "xã",
+    "district_code": "338",
+    "codename": "an_dong"
+  },
+  {
+    "code": "12481",
+    "name": "Quỳnh Hoa",
+    "name_en": "Quynh Hoa",
+    "full_name": "Xã Quỳnh Hoa",
+    "full_name_en": "Quynh Hoa Commune",
+    "type": "xã",
+    "district_code": "338",
+    "codename": "quynh_hoa"
+  },
+  {
+    "code": "12484",
+    "name": "Quỳnh Lâm",
+    "name_en": "Quynh Lam",
+    "full_name": "Xã Quỳnh Lâm",
+    "full_name_en": "Quynh Lam Commune",
+    "type": "xã",
+    "district_code": "338",
+    "codename": "quynh_lam"
+  },
+  {
+    "code": "12487",
+    "name": "Quỳnh Thọ",
+    "name_en": "Quynh Tho",
+    "full_name": "Xã Quỳnh Thọ",
+    "full_name_en": "Quynh Tho Commune",
+    "type": "xã",
+    "district_code": "338",
+    "codename": "quynh_tho"
+  },
+  {
+    "code": "12490",
+    "name": "An Hiệp",
+    "name_en": "An Hiep",
+    "full_name": "Xã An Hiệp",
+    "full_name_en": "An Hiep Commune",
+    "type": "xã",
+    "district_code": "338",
+    "codename": "an_hiep"
+  },
+  {
+    "code": "12493",
+    "name": "Quỳnh Hoàng",
+    "name_en": "Quynh Hoang",
+    "full_name": "Xã Quỳnh Hoàng",
+    "full_name_en": "Quynh Hoang Commune",
+    "type": "xã",
+    "district_code": "338",
+    "codename": "quynh_hoang"
+  },
+  {
+    "code": "12496",
+    "name": "Quỳnh Giao",
+    "name_en": "Quynh Giao",
+    "full_name": "Xã Quỳnh Giao",
+    "full_name_en": "Quynh Giao Commune",
+    "type": "xã",
+    "district_code": "338",
+    "codename": "quynh_giao"
+  },
+  {
+    "code": "12499",
+    "name": "An Thái",
+    "name_en": "An Thai",
+    "full_name": "Xã An Thái",
+    "full_name_en": "An Thai Commune",
+    "type": "xã",
+    "district_code": "338",
+    "codename": "an_thai"
+  },
+  {
+    "code": "12502",
+    "name": "An Cầu",
+    "name_en": "An Cau",
+    "full_name": "Xã An Cầu",
+    "full_name_en": "An Cau Commune",
+    "type": "xã",
+    "district_code": "338",
+    "codename": "an_cau"
+  },
+  {
+    "code": "12505",
+    "name": "Quỳnh Hồng",
+    "name_en": "Quynh Hong",
+    "full_name": "Xã Quỳnh Hồng",
+    "full_name_en": "Quynh Hong Commune",
+    "type": "xã",
+    "district_code": "338",
+    "codename": "quynh_hong"
+  },
+  {
+    "code": "12508",
+    "name": "Quỳnh Khê",
+    "name_en": "Quynh Khe",
+    "full_name": "Xã Quỳnh Khê",
+    "full_name_en": "Quynh Khe Commune",
+    "type": "xã",
+    "district_code": "338",
+    "codename": "quynh_khe"
+  },
+  {
+    "code": "12511",
+    "name": "Quỳnh Minh",
+    "name_en": "Quynh Minh",
+    "full_name": "Xã Quỳnh Minh",
+    "full_name_en": "Quynh Minh Commune",
+    "type": "xã",
+    "district_code": "338",
+    "codename": "quynh_minh"
+  },
+  {
+    "code": "12514",
+    "name": "An Ninh",
+    "name_en": "An Ninh",
+    "full_name": "Xã An Ninh",
+    "full_name_en": "An Ninh Commune",
+    "type": "xã",
+    "district_code": "338",
+    "codename": "an_ninh"
+  },
+  {
+    "code": "12517",
+    "name": "Quỳnh Ngọc",
+    "name_en": "Quynh Ngoc",
+    "full_name": "Xã Quỳnh Ngọc",
+    "full_name_en": "Quynh Ngoc Commune",
+    "type": "xã",
+    "district_code": "338",
+    "codename": "quynh_ngoc"
+  },
+  {
+    "code": "12520",
+    "name": "Quỳnh Hải",
+    "name_en": "Quynh Hai",
+    "full_name": "Xã Quỳnh Hải",
+    "full_name_en": "Quynh Hai Commune",
+    "type": "xã",
+    "district_code": "338",
+    "codename": "quynh_hai"
+  },
+  {
+    "code": "12523",
+    "name": "An Bài",
+    "name_en": "An Bai",
+    "full_name": "Thị trấn An Bài",
+    "full_name_en": "An Bai Township",
+    "type": "thị trấn",
+    "district_code": "338",
+    "codename": "an_bai"
+  },
+  {
+    "code": "12526",
+    "name": "An Ấp",
+    "name_en": "An Ap",
+    "full_name": "Xã An Ấp",
+    "full_name_en": "An Ap Commune",
+    "type": "xã",
+    "district_code": "338",
+    "codename": "an_ap"
+  },
+  {
+    "code": "12529",
+    "name": "Quỳnh Hội",
+    "name_en": "Quynh Hoi",
+    "full_name": "Xã Quỳnh Hội",
+    "full_name_en": "Quynh Hoi Commune",
+    "type": "xã",
+    "district_code": "338",
+    "codename": "quynh_hoi"
+  },
+  {
+    "code": "12532",
+    "name": "Châu Sơn",
+    "name_en": "Chau Son",
+    "full_name": "Xã Châu Sơn",
+    "full_name_en": "Chau Son Commune",
+    "type": "xã",
+    "district_code": "338",
+    "codename": "chau_son"
+  },
+  {
+    "code": "12535",
+    "name": "Quỳnh Mỹ",
+    "name_en": "Quynh My",
+    "full_name": "Xã Quỳnh Mỹ",
+    "full_name_en": "Quynh My Commune",
+    "type": "xã",
+    "district_code": "338",
+    "codename": "quynh_my"
+  },
+  {
+    "code": "12538",
+    "name": "An Quí",
+    "name_en": "An Qui",
+    "full_name": "Xã An Quí",
+    "full_name_en": "An Qui Commune",
+    "type": "xã",
+    "district_code": "338",
+    "codename": "an_qui"
+  },
+  {
+    "code": "12541",
+    "name": "An Thanh",
+    "name_en": "An Thanh",
+    "full_name": "Xã An Thanh",
+    "full_name_en": "An Thanh Commune",
+    "type": "xã",
+    "district_code": "338",
+    "codename": "an_thanh"
+  },
+  {
+    "code": "12547",
+    "name": "An Vũ",
+    "name_en": "An Vu",
+    "full_name": "Xã An Vũ",
+    "full_name_en": "An Vu Commune",
+    "type": "xã",
+    "district_code": "338",
+    "codename": "an_vu"
+  },
+  {
+    "code": "12550",
+    "name": "An Lễ",
+    "name_en": "An Le",
+    "full_name": "Xã An Lễ",
+    "full_name_en": "An Le Commune",
+    "type": "xã",
+    "district_code": "338",
+    "codename": "an_le"
+  },
+  {
+    "code": "12553",
+    "name": "Quỳnh Hưng",
+    "name_en": "Quynh Hung",
+    "full_name": "Xã Quỳnh Hưng",
+    "full_name_en": "Quynh Hung Commune",
+    "type": "xã",
+    "district_code": "338",
+    "codename": "quynh_hung"
+  },
+  {
+    "code": "12559",
+    "name": "An Mỹ",
+    "name_en": "An My",
+    "full_name": "Xã An Mỹ",
+    "full_name_en": "An My Commune",
+    "type": "xã",
+    "district_code": "338",
+    "codename": "an_my"
+  },
+  {
+    "code": "12562",
+    "name": "Quỳnh Nguyên",
+    "name_en": "Quynh Nguyen",
+    "full_name": "Xã Quỳnh Nguyên",
+    "full_name_en": "Quynh Nguyen Commune",
+    "type": "xã",
+    "district_code": "338",
+    "codename": "quynh_nguyen"
+  },
+  {
+    "code": "12565",
+    "name": "An Vinh",
+    "name_en": "An Vinh",
+    "full_name": "Xã An Vinh",
+    "full_name_en": "An Vinh Commune",
+    "type": "xã",
+    "district_code": "338",
+    "codename": "an_vinh"
+  },
+  {
+    "code": "12571",
+    "name": "An Dục",
+    "name_en": "An Duc",
+    "full_name": "Xã An Dục",
+    "full_name_en": "An Duc Commune",
+    "type": "xã",
+    "district_code": "338",
+    "codename": "an_duc"
+  },
+  {
+    "code": "12574",
+    "name": "Đông Hải",
+    "name_en": "Dong Hai",
+    "full_name": "Xã Đông Hải",
+    "full_name_en": "Dong Hai Commune",
+    "type": "xã",
+    "district_code": "338",
+    "codename": "dong_hai"
+  },
+  {
+    "code": "12577",
+    "name": "Trang Bảo Xá",
+    "name_en": "Trang Bao Xa",
+    "full_name": "Xã Trang Bảo Xá",
+    "full_name_en": "Trang Bao Xa Commune",
+    "type": "xã",
+    "district_code": "338",
+    "codename": "trang_bao_xa"
+  },
+  {
+    "code": "12580",
+    "name": "An Tràng",
+    "name_en": "An Trang",
+    "full_name": "Xã An Tràng",
+    "full_name_en": "An Trang Commune",
+    "type": "xã",
+    "district_code": "338",
+    "codename": "an_trang"
+  },
+  {
+    "code": "12583",
+    "name": "Đồng Tiến",
+    "name_en": "Dong Tien",
+    "full_name": "Xã Đồng Tiến",
+    "full_name_en": "Dong Tien Commune",
+    "type": "xã",
+    "district_code": "338",
+    "codename": "dong_tien"
+  }
+]

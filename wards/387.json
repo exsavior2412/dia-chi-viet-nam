@@ -1,0 +1,122 @@
+[
+  {
+    "code": "14995",
+    "name": "Trung Xuân",
+    "name_en": "Trung Xuan",
+    "full_name": "Xã Trung Xuân",
+    "full_name_en": "Trung Xuan Commune",
+    "type": "xã",
+    "district_code": "387",
+    "codename": "trung_xuan"
+  },
+  {
+    "code": "14998",
+    "name": "Trung Thượng",
+    "name_en": "Trung Thuong",
+    "full_name": "Xã Trung Thượng",
+    "full_name_en": "Trung Thuong Commune",
+    "type": "xã",
+    "district_code": "387",
+    "codename": "trung_thuong"
+  },
+  {
+    "code": "14999",
+    "name": "Trung Tiến",
+    "name_en": "Trung Tien",
+    "full_name": "Xã Trung Tiến",
+    "full_name_en": "Trung Tien Commune",
+    "type": "xã",
+    "district_code": "387",
+    "codename": "trung_tien"
+  },
+  {
+    "code": "15001",
+    "name": "Trung Hạ",
+    "name_en": "Trung Ha",
+    "full_name": "Xã Trung Hạ",
+    "full_name_en": "Trung Ha Commune",
+    "type": "xã",
+    "district_code": "387",
+    "codename": "trung_ha"
+  },
+  {
+    "code": "15004",
+    "name": "Sơn Hà",
+    "name_en": "Son Ha",
+    "full_name": "Xã Sơn Hà",
+    "full_name_en": "Son Ha Commune",
+    "type": "xã",
+    "district_code": "387",
+    "codename": "son_ha"
+  },
+  {
+    "code": "15007",
+    "name": "Tam Thanh",
+    "name_en": "Tam Thanh",
+    "full_name": "Xã Tam Thanh",
+    "full_name_en": "Tam Thanh Commune",
+    "type": "xã",
+    "district_code": "387",
+    "codename": "tam_thanh"
+  },
+  {
+    "code": "15010",
+    "name": "Sơn Thủy",
+    "name_en": "Son Thuy",
+    "full_name": "Xã Sơn Thủy",
+    "full_name_en": "Son Thuy Commune",
+    "type": "xã",
+    "district_code": "387",
+    "codename": "son_thuy"
+  },
+  {
+    "code": "15013",
+    "name": "Na Mèo",
+    "name_en": "Na Meo",
+    "full_name": "Xã Na Mèo",
+    "full_name_en": "Na Meo Commune",
+    "type": "xã",
+    "district_code": "387",
+    "codename": "na_meo"
+  },
+  {
+    "code": "15016",
+    "name": "Sơn Lư",
+    "name_en": "Son Lu",
+    "full_name": "Thị trấn Sơn Lư",
+    "full_name_en": "Son Lu Township",
+    "type": "thị trấn",
+    "district_code": "387",
+    "codename": "son_lu"
+  },
+  {
+    "code": "15019",
+    "name": "Tam Lư",
+    "name_en": "Tam Lu",
+    "full_name": "Xã Tam Lư",
+    "full_name_en": "Tam Lu Commune",
+    "type": "xã",
+    "district_code": "387",
+    "codename": "tam_lu"
+  },
+  {
+    "code": "15022",
+    "name": "Sơn Điện",
+    "name_en": "Son Dien",
+    "full_name": "Xã Sơn Điện",
+    "full_name_en": "Son Dien Commune",
+    "type": "xã",
+    "district_code": "387",
+    "codename": "son_dien"
+  },
+  {
+    "code": "15025",
+    "name": "Mường Mìn",
+    "name_en": "Muong Min",
+    "full_name": "Xã Mường Mìn",
+    "full_name_en": "Muong Min Commune",
+    "type": "xã",
+    "district_code": "387",
+    "codename": "muong_min"
+  }
+]

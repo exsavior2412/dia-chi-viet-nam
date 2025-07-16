@@ -1,0 +1,222 @@
+[
+  {
+    "code": "760",
+    "name": "1",
+    "name_en": "1",
+    "full_name": "Quận 1",
+    "full_name_en": "District 1",
+    "type": "quận",
+    "province_code": "79",
+    "codename": "1"
+  },
+  {
+    "code": "761",
+    "name": "12",
+    "name_en": "12",
+    "full_name": "Quận 12",
+    "full_name_en": "District 12",
+    "type": "quận",
+    "province_code": "79",
+    "codename": "12"
+  },
+  {
+    "code": "764",
+    "name": "Gò Vấp",
+    "name_en": "Go Vap",
+    "full_name": "Quận Gò Vấp",
+    "full_name_en": "Go Vap District",
+    "type": "quận",
+    "province_code": "79",
+    "codename": "go_vap"
+  },
+  {
+    "code": "765",
+    "name": "Bình Thạnh",
+    "name_en": "Binh Thanh",
+    "full_name": "Quận Bình Thạnh",
+    "full_name_en": "Binh Thanh District",
+    "type": "quận",
+    "province_code": "79",
+    "codename": "binh_thanh"
+  },
+  {
+    "code": "766",
+    "name": "Tân Bình",
+    "name_en": "Tan Binh",
+    "full_name": "Quận Tân Bình",
+    "full_name_en": "Tan Binh District",
+    "type": "quận",
+    "province_code": "79",
+    "codename": "tan_binh"
+  },
+  {
+    "code": "767",
+    "name": "Tân Phú",
+    "name_en": "Tan Phu",
+    "full_name": "Quận Tân Phú",
+    "full_name_en": "Tan Phu District",
+    "type": "quận",
+    "province_code": "79",
+    "codename": "tan_phu"
+  },
+  {
+    "code": "768",
+    "name": "Phú Nhuận",
+    "name_en": "Phu Nhuan",
+    "full_name": "Quận Phú Nhuận",
+    "full_name_en": "Phu Nhuan District",
+    "type": "quận",
+    "province_code": "79",
+    "codename": "phu_nhuan"
+  },
+  {
+    "code": "769",
+    "name": "Thủ Đức",
+    "name_en": "Thu Duc",
+    "full_name": "Thành phố Thủ Đức",
+    "full_name_en": "Thu Duc City",
+    "type": "thành phố",
+    "province_code": "79",
+    "codename": "thu_duc"
+  },
+  {
+    "code": "770",
+    "name": "3",
+    "name_en": "3",
+    "full_name": "Quận 3",
+    "full_name_en": "District 3",
+    "type": "quận",
+    "province_code": "79",
+    "codename": "3"
+  },
+  {
+    "code": "771",
+    "name": "10",
+    "name_en": "10",
+    "full_name": "Quận 10",
+    "full_name_en": "District 10",
+    "type": "quận",
+    "province_code": "79",
+    "codename": "10"
+  },
+  {
+    "code": "772",
+    "name": "11",
+    "name_en": "11",
+    "full_name": "Quận 11",
+    "full_name_en": "District 11",
+    "type": "quận",
+    "province_code": "79",
+    "codename": "11"
+  },
+  {
+    "code": "773",
+    "name": "4",
+    "name_en": "4",
+    "full_name": "Quận 4",
+    "full_name_en": "District 4",
+    "type": "quận",
+    "province_code": "79",
+    "codename": "4"
+  },
+  {
+    "code": "774",
+    "name": "5",
+    "name_en": "5",
+    "full_name": "Quận 5",
+    "full_name_en": "District 5",
+    "type": "quận",
+    "province_code": "79",
+    "codename": "5"
+  },
+  {
+    "code": "775",
+    "name": "6",
+    "name_en": "6",
+    "full_name": "Quận 6",
+    "full_name_en": "District 6",
+    "type": "quận",
+    "province_code": "79",
+    "codename": "6"
+  },
+  {
+    "code": "776",
+    "name": "8",
+    "name_en": "8",
+    "full_name": "Quận 8",
+    "full_name_en": "District 8",
+    "type": "quận",
+    "province_code": "79",
+    "codename": "8"
+  },
+  {
+    "code": "777",
+    "name": "Bình Tân",
+    "name_en": "Binh Tan",
+    "full_name": "Quận Bình Tân",
+    "full_name_en": "Binh Tan District",
+    "type": "quận",
+    "province_code": "79",
+    "codename": "binh_tan"
+  },
+  {
+    "code": "778",
+    "name": "7",
+    "name_en": "7",
+    "full_name": "Quận 7",
+    "full_name_en": "District 7",
+    "type": "quận",
+    "province_code": "79",
+    "codename": "7"
+  },
+  {
+    "code": "783",
+    "name": "Củ Chi",
+    "name_en": "Cu Chi",
+    "full_name": "Huyện Củ Chi",
+    "full_name_en": "Cu Chi District",
+    "type": "huyện",
+    "province_code": "79",
+    "codename": "cu_chi"
+  },
+  {
+    "code": "784",
+    "name": "Hóc Môn",
+    "name_en": "Hoc Mon",
+    "full_name": "Huyện Hóc Môn",
+    "full_name_en": "Hoc Mon District",
+    "type": "huyện",
+    "province_code": "79",
+    "codename": "hoc_mon"
+  },
+  {
+    "code": "785",
+    "name": "Bình Chánh",
+    "name_en": "Binh Chanh",
+    "full_name": "Huyện Bình Chánh",
+    "full_name_en": "Binh Chanh District",
+    "type": "huyện",
+    "province_code": "79",
+    "codename": "binh_chanh"
+  },
+  {
+    "code": "786",
+    "name": "Nhà Bè",
+    "name_en": "Nha Be",
+    "full_name": "Huyện Nhà Bè",
+    "full_name_en": "Nha Be District",
+    "type": "huyện",
+    "province_code": "79",
+    "codename": "nha_be"
+  },
+  {
+    "code": "787",
+    "name": "Cần Giờ",
+    "name_en": "Can Gio",
+    "full_name": "Huyện Cần Giờ",
+    "full_name_en": "Can Gio District",
+    "type": "huyện",
+    "province_code": "79",
+    "codename": "can_gio"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "code": "794",
+    "name": "Tân An",
+    "name_en": "Tan An",
+    "full_name": "Thành phố Tân An",
+    "full_name_en": "Tan An City",
+    "type": "thành phố",
+    "province_code": "80",
+    "codename": "tan_an"
+  },
+  {
+    "code": "795",
+    "name": "Kiến Tường",
+    "name_en": "Kien Tuong",
+    "full_name": "Thị xã Kiến Tường",
+    "full_name_en": "Kien Tuong Town",
+    "type": "thị xã",
+    "province_code": "80",
+    "codename": "kien_tuong"
+  },
+  {
+    "code": "796",
+    "name": "Tân Hưng",
+    "name_en": "Tan Hung",
+    "full_name": "Huyện Tân Hưng",
+    "full_name_en": "Tan Hung District",
+    "type": "huyện",
+    "province_code": "80",
+    "codename": "tan_hung"
+  },
+  {
+    "code": "797",
+    "name": "Vĩnh Hưng",
+    "name_en": "Vinh Hung",
+    "full_name": "Huyện Vĩnh Hưng",
+    "full_name_en": "Vinh Hung District",
+    "type": "huyện",
+    "province_code": "80",
+    "codename": "vinh_hung"
+  },
+  {
+    "code": "798",
+    "name": "Mộc Hóa",
+    "name_en": "Moc Hoa",
+    "full_name": "Huyện Mộc Hóa",
+    "full_name_en": "Moc Hoa District",
+    "type": "huyện",
+    "province_code": "80",
+    "codename": "moc_hoa"
+  },
+  {
+    "code": "799",
+    "name": "Tân Thạnh",
+    "name_en": "Tan Thanh",
+    "full_name": "Huyện Tân Thạnh",
+    "full_name_en": "Tan Thanh District",
+    "type": "huyện",
+    "province_code": "80",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "800",
+    "name": "Thạnh Hóa",
+    "name_en": "Thanh Hoa",
+    "full_name": "Huyện Thạnh Hóa",
+    "full_name_en": "Thanh Hoa District",
+    "type": "huyện",
+    "province_code": "80",
+    "codename": "thanh_hoa"
+  },
+  {
+    "code": "801",
+    "name": "Đức Huệ",
+    "name_en": "Duc Hue",
+    "full_name": "Huyện Đức Huệ",
+    "full_name_en": "Duc Hue District",
+    "type": "huyện",
+    "province_code": "80",
+    "codename": "duc_hue"
+  },
+  {
+    "code": "802",
+    "name": "Đức Hòa",
+    "name_en": "Duc Hoa",
+    "full_name": "Huyện Đức Hòa",
+    "full_name_en": "Duc Hoa District",
+    "type": "huyện",
+    "province_code": "80",
+    "codename": "duc_hoa"
+  },
+  {
+    "code": "803",
+    "name": "Bến Lức",
+    "name_en": "Ben Luc",
+    "full_name": "Huyện Bến Lức",
+    "full_name_en": "Ben Luc District",
+    "type": "huyện",
+    "province_code": "80",
+    "codename": "ben_luc"
+  },
+  {
+    "code": "804",
+    "name": "Thủ Thừa",
+    "name_en": "Thu Thua",
+    "full_name": "Huyện Thủ Thừa",
+    "full_name_en": "Thu Thua District",
+    "type": "huyện",
+    "province_code": "80",
+    "codename": "thu_thua"
+  },
+  {
+    "code": "805",
+    "name": "Tân Trụ",
+    "name_en": "Tan Tru",
+    "full_name": "Huyện Tân Trụ",
+    "full_name_en": "Tan Tru District",
+    "type": "huyện",
+    "province_code": "80",
+    "codename": "tan_tru"
+  },
+  {
+    "code": "806",
+    "name": "Cần Đước",
+    "name_en": "Can Duoc",
+    "full_name": "Huyện Cần Đước",
+    "full_name_en": "Can Duoc District",
+    "type": "huyện",
+    "province_code": "80",
+    "codename": "can_duoc"
+  },
+  {
+    "code": "807",
+    "name": "Cần Giuộc",
+    "name_en": "Can Giuoc",
+    "full_name": "Huyện Cần Giuộc",
+    "full_name_en": "Can Giuoc District",
+    "type": "huyện",
+    "province_code": "80",
+    "codename": "can_giuoc"
+  },
+  {
+    "code": "808",
+    "name": "Châu Thành",
+    "name_en": "Chau Thanh",
+    "full_name": "Huyện Châu Thành",
+    "full_name_en": "Chau Thanh District",
+    "type": "huyện",
+    "province_code": "80",
+    "codename": "chau_thanh"
+  }
+]

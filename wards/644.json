@@ -1,0 +1,112 @@
+[
+  {
+    "code": "24305",
+    "name": "An Lạc",
+    "name_en": "An Lac",
+    "full_name": "Phường An Lạc",
+    "full_name_en": "An Lac Ward",
+    "type": "phường",
+    "district_code": "644",
+    "codename": "an_lac"
+  },
+  {
+    "code": "24308",
+    "name": "An Bình",
+    "name_en": "An Binh",
+    "full_name": "Phường An Bình",
+    "full_name_en": "An Binh Ward",
+    "type": "phường",
+    "district_code": "644",
+    "codename": "an_binh"
+  },
+  {
+    "code": "24311",
+    "name": "Thiện An",
+    "name_en": "Thien An",
+    "full_name": "Phường Thiện An",
+    "full_name_en": "Thien An Ward",
+    "type": "phường",
+    "district_code": "644",
+    "codename": "thien_an"
+  },
+  {
+    "code": "24318",
+    "name": "Đạt Hiếu",
+    "name_en": "Dat Hieu",
+    "full_name": "Phường Đạt Hiếu",
+    "full_name_en": "Dat Hieu Ward",
+    "type": "phường",
+    "district_code": "644",
+    "codename": "dat_hieu"
+  },
+  {
+    "code": "24322",
+    "name": "Đoàn Kết",
+    "name_en": "Doan Ket",
+    "full_name": "Phường Đoàn Kết",
+    "full_name_en": "Doan Ket Ward",
+    "type": "phường",
+    "district_code": "644",
+    "codename": "doan_ket"
+  },
+  {
+    "code": "24328",
+    "name": "Ea Drông",
+    "name_en": "Ea Drong",
+    "full_name": "Xã Ea Drông",
+    "full_name_en": "Ea Drong Commune",
+    "type": "xã",
+    "district_code": "644",
+    "codename": "ea_drong"
+  },
+  {
+    "code": "24331",
+    "name": "Thống Nhất",
+    "name_en": "Thong Nhat",
+    "full_name": "Phường Thống Nhất",
+    "full_name_en": "Thong Nhat Ward",
+    "type": "phường",
+    "district_code": "644",
+    "codename": "thong_nhat"
+  },
+  {
+    "code": "24332",
+    "name": "Bình Tân",
+    "name_en": "Binh Tan",
+    "full_name": "Phường Bình Tân",
+    "full_name_en": "Binh Tan Ward",
+    "type": "phường",
+    "district_code": "644",
+    "codename": "binh_tan"
+  },
+  {
+    "code": "24334",
+    "name": "Ea Siên",
+    "name_en": "Ea Sien",
+    "full_name": "Xã Ea Siên",
+    "full_name_en": "Ea Sien Commune",
+    "type": "xã",
+    "district_code": "644",
+    "codename": "ea_sien"
+  },
+  {
+    "code": "24337",
+    "name": "Bình Thuận",
+    "name_en": "Binh Thuan",
+    "full_name": "Xã Bình Thuận",
+    "full_name_en": "Binh Thuan Commune",
+    "type": "xã",
+    "district_code": "644",
+    "codename": "binh_thuan"
+  },
+  {
+    "code": "24340",
+    "name": "Cư Bao",
+    "name_en": "Cu Bao",
+    "full_name": "Xã Cư Bao",
+    "full_name_en": "Cu Bao Commune",
+    "type": "xã",
+    "district_code": "644",
+    "codename": "cu_bao"
+  }
+]

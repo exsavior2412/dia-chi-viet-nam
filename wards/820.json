@@ -1,0 +1,162 @@
+[
+  {
+    "code": "28438",
+    "name": "Thạnh Lộc",
+    "name_en": "Thanh Loc",
+    "full_name": "Xã Thạnh Lộc",
+    "full_name_en": "Thanh Loc Commune",
+    "type": "xã",
+    "district_code": "820",
+    "codename": "thanh_loc"
+  },
+  {
+    "code": "28441",
+    "name": "Mỹ Thành Bắc",
+    "name_en": "My Thanh Bac",
+    "full_name": "Xã Mỹ Thành Bắc",
+    "full_name_en": "My Thanh Bac Commune",
+    "type": "xã",
+    "district_code": "820",
+    "codename": "my_thanh_bac"
+  },
+  {
+    "code": "28444",
+    "name": "Phú Cường",
+    "name_en": "Phu Cuong",
+    "full_name": "Xã Phú Cường",
+    "full_name_en": "Phu Cuong Commune",
+    "type": "xã",
+    "district_code": "820",
+    "codename": "phu_cuong"
+  },
+  {
+    "code": "28456",
+    "name": "Mỹ Thành Nam",
+    "name_en": "My Thanh Nam",
+    "full_name": "Xã Mỹ Thành Nam",
+    "full_name_en": "My Thanh Nam Commune",
+    "type": "xã",
+    "district_code": "820",
+    "codename": "my_thanh_nam"
+  },
+  {
+    "code": "28465",
+    "name": "Phú Nhuận",
+    "name_en": "Phu Nhuan",
+    "full_name": "Xã Phú Nhuận",
+    "full_name_en": "Phu Nhuan Commune",
+    "type": "xã",
+    "district_code": "820",
+    "codename": "phu_nhuan"
+  },
+  {
+    "code": "28471",
+    "name": "Bình Phú",
+    "name_en": "Binh Phu",
+    "full_name": "Thị trấn Bình Phú",
+    "full_name_en": "Binh Phu Township",
+    "type": "thị trấn",
+    "district_code": "820",
+    "codename": "binh_phu"
+  },
+  {
+    "code": "28489",
+    "name": "Cẩm Sơn",
+    "name_en": "Cam Son",
+    "full_name": "Xã Cẩm Sơn",
+    "full_name_en": "Cam Son Commune",
+    "type": "xã",
+    "district_code": "820",
+    "codename": "cam_son"
+  },
+  {
+    "code": "28492",
+    "name": "Phú An",
+    "name_en": "Phu An",
+    "full_name": "Xã Phú An",
+    "full_name_en": "Phu An Commune",
+    "type": "xã",
+    "district_code": "820",
+    "codename": "phu_an"
+  },
+  {
+    "code": "28495",
+    "name": "Mỹ Long",
+    "name_en": "My Long",
+    "full_name": "Xã Mỹ Long",
+    "full_name_en": "My Long Commune",
+    "type": "xã",
+    "district_code": "820",
+    "codename": "my_long"
+  },
+  {
+    "code": "28498",
+    "name": "Long Tiên",
+    "name_en": "Long Tien",
+    "full_name": "Xã Long Tiên",
+    "full_name_en": "Long Tien Commune",
+    "type": "xã",
+    "district_code": "820",
+    "codename": "long_tien"
+  },
+  {
+    "code": "28501",
+    "name": "Hiệp Đức",
+    "name_en": "Hiep Duc",
+    "full_name": "Xã Hiệp Đức",
+    "full_name_en": "Hiep Duc Commune",
+    "type": "xã",
+    "district_code": "820",
+    "codename": "hiep_duc"
+  },
+  {
+    "code": "28504",
+    "name": "Long Trung",
+    "name_en": "Long Trung",
+    "full_name": "Xã Long Trung",
+    "full_name_en": "Long Trung Commune",
+    "type": "xã",
+    "district_code": "820",
+    "codename": "long_trung"
+  },
+  {
+    "code": "28507",
+    "name": "Hội Xuân",
+    "name_en": "Hoi Xuan",
+    "full_name": "Xã Hội Xuân",
+    "full_name_en": "Hoi Xuan Commune",
+    "type": "xã",
+    "district_code": "820",
+    "codename": "hoi_xuan"
+  },
+  {
+    "code": "28510",
+    "name": "Tân Phong",
+    "name_en": "Tan Phong",
+    "full_name": "Xã Tân Phong",
+    "full_name_en": "Tan Phong Commune",
+    "type": "xã",
+    "district_code": "820",
+    "codename": "tan_phong"
+  },
+  {
+    "code": "28513",
+    "name": "Tam Bình",
+    "name_en": "Tam Binh",
+    "full_name": "Xã Tam Bình",
+    "full_name_en": "Tam Binh Commune",
+    "type": "xã",
+    "district_code": "820",
+    "codename": "tam_binh"
+  },
+  {
+    "code": "28516",
+    "name": "Ngũ Hiệp",
+    "name_en": "Ngu Hiep",
+    "full_name": "Xã Ngũ Hiệp",
+    "full_name_en": "Ngu Hiep Commune",
+    "type": "xã",
+    "district_code": "820",
+    "codename": "ngu_hiep"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "code": "30502",
+    "name": "Nhà Bàng",
+    "name_en": "Nha Bang",
+    "full_name": "Phường Nhà Bàng",
+    "full_name_en": "Nha Bang Ward",
+    "type": "phường",
+    "district_code": "890",
+    "codename": "nha_bang"
+  },
+  {
+    "code": "30505",
+    "name": "Chi Lăng",
+    "name_en": "Chi Lang",
+    "full_name": "Phường Chi Lăng",
+    "full_name_en": "Chi Lang Ward",
+    "type": "phường",
+    "district_code": "890",
+    "codename": "chi_lang"
+  },
+  {
+    "code": "30508",
+    "name": "Núi Voi",
+    "name_en": "Nui Voi",
+    "full_name": "Phường Núi Voi",
+    "full_name_en": "Nui Voi Ward",
+    "type": "phường",
+    "district_code": "890",
+    "codename": "nui_voi"
+  },
+  {
+    "code": "30511",
+    "name": "Nhơn Hưng",
+    "name_en": "Nhon Hung",
+    "full_name": "Phường Nhơn Hưng",
+    "full_name_en": "Nhon Hung Ward",
+    "type": "phường",
+    "district_code": "890",
+    "codename": "nhon_hung"
+  },
+  {
+    "code": "30514",
+    "name": "An Phú",
+    "name_en": "An Phu",
+    "full_name": "Phường An Phú",
+    "full_name_en": "An Phu Ward",
+    "type": "phường",
+    "district_code": "890",
+    "codename": "an_phu"
+  },
+  {
+    "code": "30517",
+    "name": "Thới Sơn",
+    "name_en": "Thoi Son",
+    "full_name": "Phường Thới Sơn",
+    "full_name_en": "Thoi Son Ward",
+    "type": "phường",
+    "district_code": "890",
+    "codename": "thoi_son"
+  },
+  {
+    "code": "30520",
+    "name": "Tịnh Biên",
+    "name_en": "Tinh Bien",
+    "full_name": "Phường Tịnh Biên",
+    "full_name_en": "Tinh Bien Ward",
+    "type": "phường",
+    "district_code": "890",
+    "codename": "tinh_bien"
+  },
+  {
+    "code": "30523",
+    "name": "Văn Giáo",
+    "name_en": "Van Giao",
+    "full_name": "Xã Văn Giáo",
+    "full_name_en": "Van Giao Commune",
+    "type": "xã",
+    "district_code": "890",
+    "codename": "van_giao"
+  },
+  {
+    "code": "30526",
+    "name": "An Cư",
+    "name_en": "An Cu",
+    "full_name": "Xã An Cư",
+    "full_name_en": "An Cu Commune",
+    "type": "xã",
+    "district_code": "890",
+    "codename": "an_cu"
+  },
+  {
+    "code": "30529",
+    "name": "An Nông",
+    "name_en": "An Nong",
+    "full_name": "Xã An Nông",
+    "full_name_en": "An Nong Commune",
+    "type": "xã",
+    "district_code": "890",
+    "codename": "an_nong"
+  },
+  {
+    "code": "30532",
+    "name": "Vĩnh Trung",
+    "name_en": "Vinh Trung",
+    "full_name": "Xã Vĩnh Trung",
+    "full_name_en": "Vinh Trung Commune",
+    "type": "xã",
+    "district_code": "890",
+    "codename": "vinh_trung"
+  },
+  {
+    "code": "30535",
+    "name": "Tân Lợi",
+    "name_en": "Tan Loi",
+    "full_name": "Xã Tân Lợi",
+    "full_name_en": "Tan Loi Commune",
+    "type": "xã",
+    "district_code": "890",
+    "codename": "tan_loi"
+  },
+  {
+    "code": "30538",
+    "name": "An Hảo",
+    "name_en": "An Hao",
+    "full_name": "Xã An Hảo",
+    "full_name_en": "An Hao Commune",
+    "type": "xã",
+    "district_code": "890",
+    "codename": "an_hao"
+  },
+  {
+    "code": "30541",
+    "name": "Tân Lập",
+    "name_en": "Tan Lap",
+    "full_name": "Xã Tân Lập",
+    "full_name_en": "Tan Lap Commune",
+    "type": "xã",
+    "district_code": "890",
+    "codename": "tan_lap"
+  }
+]

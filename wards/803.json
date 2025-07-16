@@ -1,0 +1,142 @@
+[
+  {
+    "code": "27991",
+    "name": "Bến Lức",
+    "name_en": "Ben Luc",
+    "full_name": "Thị trấn Bến Lức",
+    "full_name_en": "Ben Luc Township",
+    "type": "thị trấn",
+    "district_code": "803",
+    "codename": "ben_luc"
+  },
+  {
+    "code": "27994",
+    "name": "Thạnh Lợi",
+    "name_en": "Thanh Loi",
+    "full_name": "Xã Thạnh Lợi",
+    "full_name_en": "Thanh Loi Commune",
+    "type": "xã",
+    "district_code": "803",
+    "codename": "thanh_loi"
+  },
+  {
+    "code": "27997",
+    "name": "Lương Bình",
+    "name_en": "Luong Binh",
+    "full_name": "Xã Lương Bình",
+    "full_name_en": "Luong Binh Commune",
+    "type": "xã",
+    "district_code": "803",
+    "codename": "luong_binh"
+  },
+  {
+    "code": "28000",
+    "name": "Thạnh Hòa",
+    "name_en": "Thanh Hoa",
+    "full_name": "Xã Thạnh Hòa",
+    "full_name_en": "Thanh Hoa Commune",
+    "type": "xã",
+    "district_code": "803",
+    "codename": "thanh_hoa"
+  },
+  {
+    "code": "28003",
+    "name": "Lương Hòa",
+    "name_en": "Luong Hoa",
+    "full_name": "Xã Lương Hòa",
+    "full_name_en": "Luong Hoa Commune",
+    "type": "xã",
+    "district_code": "803",
+    "codename": "luong_hoa"
+  },
+  {
+    "code": "28009",
+    "name": "Tân Bửu",
+    "name_en": "Tan Buu",
+    "full_name": "Xã Tân Bửu",
+    "full_name_en": "Tan Buu Commune",
+    "type": "xã",
+    "district_code": "803",
+    "codename": "tan_buu"
+  },
+  {
+    "code": "28012",
+    "name": "An Thạnh",
+    "name_en": "An Thanh",
+    "full_name": "Xã An Thạnh",
+    "full_name_en": "An Thanh Commune",
+    "type": "xã",
+    "district_code": "803",
+    "codename": "an_thanh"
+  },
+  {
+    "code": "28015",
+    "name": "Bình Đức",
+    "name_en": "Binh Duc",
+    "full_name": "Xã Bình Đức",
+    "full_name_en": "Binh Duc Commune",
+    "type": "xã",
+    "district_code": "803",
+    "codename": "binh_duc"
+  },
+  {
+    "code": "28018",
+    "name": "Mỹ Yên",
+    "name_en": "My Yen",
+    "full_name": "Xã Mỹ Yên",
+    "full_name_en": "My Yen Commune",
+    "type": "xã",
+    "district_code": "803",
+    "codename": "my_yen"
+  },
+  {
+    "code": "28021",
+    "name": "Thanh Phú",
+    "name_en": "Thanh Phu",
+    "full_name": "Xã Thanh Phú",
+    "full_name_en": "Thanh Phu Commune",
+    "type": "xã",
+    "district_code": "803",
+    "codename": "thanh_phu"
+  },
+  {
+    "code": "28024",
+    "name": "Long Hiệp",
+    "name_en": "Long Hiep",
+    "full_name": "Xã Long Hiệp",
+    "full_name_en": "Long Hiep Commune",
+    "type": "xã",
+    "district_code": "803",
+    "codename": "long_hiep"
+  },
+  {
+    "code": "28027",
+    "name": "Thạnh Đức",
+    "name_en": "Thanh Duc",
+    "full_name": "Xã Thạnh Đức",
+    "full_name_en": "Thanh Duc Commune",
+    "type": "xã",
+    "district_code": "803",
+    "codename": "thanh_duc"
+  },
+  {
+    "code": "28030",
+    "name": "Phước Lợi",
+    "name_en": "Phuoc Loi",
+    "full_name": "Xã Phước Lợi",
+    "full_name_en": "Phuoc Loi Commune",
+    "type": "xã",
+    "district_code": "803",
+    "codename": "phuoc_loi"
+  },
+  {
+    "code": "28033",
+    "name": "Nhựt Chánh",
+    "name_en": "Nhut Chanh",
+    "full_name": "Xã Nhựt Chánh",
+    "full_name_en": "Nhut Chanh Commune",
+    "type": "xã",
+    "district_code": "803",
+    "codename": "nhut_chanh"
+  }
+]

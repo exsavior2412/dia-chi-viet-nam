@@ -1,0 +1,102 @@
+[
+  {
+    "code": "26548",
+    "name": "Phước Hưng",
+    "name_en": "Phuoc Hung",
+    "full_name": "Phường Phước Hưng",
+    "full_name_en": "Phuoc Hung Ward",
+    "type": "phường",
+    "district_code": "748",
+    "codename": "phuoc_hung"
+  },
+  {
+    "code": "26554",
+    "name": "Phước Nguyên",
+    "name_en": "Phuoc Nguyen",
+    "full_name": "Phường Phước Nguyên",
+    "full_name_en": "Phuoc Nguyen Ward",
+    "type": "phường",
+    "district_code": "748",
+    "codename": "phuoc_nguyen"
+  },
+  {
+    "code": "26557",
+    "name": "Long Toàn",
+    "name_en": "Long Toan",
+    "full_name": "Phường Long Toàn",
+    "full_name_en": "Long Toan Ward",
+    "type": "phường",
+    "district_code": "748",
+    "codename": "long_toan"
+  },
+  {
+    "code": "26558",
+    "name": "Long Tâm",
+    "name_en": "Long Tam",
+    "full_name": "Phường Long Tâm",
+    "full_name_en": "Long Tam Ward",
+    "type": "phường",
+    "district_code": "748",
+    "codename": "long_tam"
+  },
+  {
+    "code": "26560",
+    "name": "Phước Trung",
+    "name_en": "Phuoc Trung",
+    "full_name": "Phường Phước Trung",
+    "full_name_en": "Phuoc Trung Ward",
+    "type": "phường",
+    "district_code": "748",
+    "codename": "phuoc_trung"
+  },
+  {
+    "code": "26563",
+    "name": "Long Hương",
+    "name_en": "Long Huong",
+    "full_name": "Phường Long Hương",
+    "full_name_en": "Long Huong Ward",
+    "type": "phường",
+    "district_code": "748",
+    "codename": "long_huong"
+  },
+  {
+    "code": "26566",
+    "name": "Kim Dinh",
+    "name_en": "Kim Dinh",
+    "full_name": "Phường Kim Dinh",
+    "full_name_en": "Kim Dinh Ward",
+    "type": "phường",
+    "district_code": "748",
+    "codename": "kim_dinh"
+  },
+  {
+    "code": "26567",
+    "name": "Tân Hưng",
+    "name_en": "Tan Hung",
+    "full_name": "Xã Tân Hưng",
+    "full_name_en": "Tan Hung Commune",
+    "type": "xã",
+    "district_code": "748",
+    "codename": "tan_hung"
+  },
+  {
+    "code": "26569",
+    "name": "Long Phước",
+    "name_en": "Long Phuoc",
+    "full_name": "Xã Long Phước",
+    "full_name_en": "Long Phuoc Commune",
+    "type": "xã",
+    "district_code": "748",
+    "codename": "long_phuoc"
+  },
+  {
+    "code": "26572",
+    "name": "Hoà Long",
+    "name_en": "Hoa Long",
+    "full_name": "Xã Hoà Long",
+    "full_name_en": "Hoa Long Commune",
+    "type": "xã",
+    "district_code": "748",
+    "codename": "hoa_long"
+  }
+]

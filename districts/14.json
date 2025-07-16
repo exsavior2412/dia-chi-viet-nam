@@ -1,0 +1,122 @@
+[
+  {
+    "code": "116",
+    "name": "Sơn La",
+    "name_en": "Son La",
+    "full_name": "Thành phố Sơn La",
+    "full_name_en": "Son La City",
+    "type": "thành phố",
+    "province_code": "14",
+    "codename": "son_la"
+  },
+  {
+    "code": "118",
+    "name": "Quỳnh Nhai",
+    "name_en": "Quynh Nhai",
+    "full_name": "Huyện Quỳnh Nhai",
+    "full_name_en": "Quynh Nhai District",
+    "type": "huyện",
+    "province_code": "14",
+    "codename": "quynh_nhai"
+  },
+  {
+    "code": "119",
+    "name": "Thuận Châu",
+    "name_en": "Thuan Chau",
+    "full_name": "Huyện Thuận Châu",
+    "full_name_en": "Thuan Chau District",
+    "type": "huyện",
+    "province_code": "14",
+    "codename": "thuan_chau"
+  },
+  {
+    "code": "120",
+    "name": "Mường La",
+    "name_en": "Muong La",
+    "full_name": "Huyện Mường La",
+    "full_name_en": "Muong La District",
+    "type": "huyện",
+    "province_code": "14",
+    "codename": "muong_la"
+  },
+  {
+    "code": "121",
+    "name": "Bắc Yên",
+    "name_en": "Bac Yen",
+    "full_name": "Huyện Bắc Yên",
+    "full_name_en": "Bac Yen District",
+    "type": "huyện",
+    "province_code": "14",
+    "codename": "bac_yen"
+  },
+  {
+    "code": "122",
+    "name": "Phù Yên",
+    "name_en": "Phu Yen",
+    "full_name": "Huyện Phù Yên",
+    "full_name_en": "Phu Yen District",
+    "type": "huyện",
+    "province_code": "14",
+    "codename": "phu_yen"
+  },
+  {
+    "code": "123",
+    "name": "Mộc Châu",
+    "name_en": "Moc Chau",
+    "full_name": "Thị xã Mộc Châu",
+    "full_name_en": "Moc Chau Town",
+    "type": "thị xã",
+    "province_code": "14",
+    "codename": "moc_chau"
+  },
+  {
+    "code": "124",
+    "name": "Yên Châu",
+    "name_en": "Yen Chau",
+    "full_name": "Huyện Yên Châu",
+    "full_name_en": "Yen Chau District",
+    "type": "huyện",
+    "province_code": "14",
+    "codename": "yen_chau"
+  },
+  {
+    "code": "125",
+    "name": "Mai Sơn",
+    "name_en": "Mai Son",
+    "full_name": "Huyện Mai Sơn",
+    "full_name_en": "Mai Son District",
+    "type": "huyện",
+    "province_code": "14",
+    "codename": "mai_son"
+  },
+  {
+    "code": "126",
+    "name": "Sông Mã",
+    "name_en": "Song Ma",
+    "full_name": "Huyện Sông Mã",
+    "full_name_en": "Song Ma District",
+    "type": "huyện",
+    "province_code": "14",
+    "codename": "song_ma"
+  },
+  {
+    "code": "127",
+    "name": "Sốp Cộp",
+    "name_en": "Sop Cop",
+    "full_name": "Huyện Sốp Cộp",
+    "full_name_en": "Sop Cop District",
+    "type": "huyện",
+    "province_code": "14",
+    "codename": "sop_cop"
+  },
+  {
+    "code": "128",
+    "name": "Vân Hồ",
+    "name_en": "Van Ho",
+    "full_name": "Huyện Vân Hồ",
+    "full_name_en": "Van Ho District",
+    "type": "huyện",
+    "province_code": "14",
+    "codename": "van_ho"
+  }
+]

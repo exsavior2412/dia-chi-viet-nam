@@ -1,0 +1,212 @@
+[
+  {
+    "code": "28984",
+    "name": "Giồng Trôm",
+    "name_en": "Giong Trom",
+    "full_name": "Thị trấn Giồng Trôm",
+    "full_name_en": "Giong Trom Township",
+    "type": "thị trấn",
+    "district_code": "834",
+    "codename": "giong_trom"
+  },
+  {
+    "code": "28987",
+    "name": "Phong Nẫm",
+    "name_en": "Phong Nam",
+    "full_name": "Xã Phong Nẫm",
+    "full_name_en": "Phong Nam Commune",
+    "type": "xã",
+    "district_code": "834",
+    "codename": "phong_nam"
+  },
+  {
+    "code": "28993",
+    "name": "Mỹ Thạnh",
+    "name_en": "My Thanh",
+    "full_name": "Xã Mỹ Thạnh",
+    "full_name_en": "My Thanh Commune",
+    "type": "xã",
+    "district_code": "834",
+    "codename": "my_thanh"
+  },
+  {
+    "code": "28996",
+    "name": "Châu Hòa",
+    "name_en": "Chau Hoa",
+    "full_name": "Xã Châu Hòa",
+    "full_name_en": "Chau Hoa Commune",
+    "type": "xã",
+    "district_code": "834",
+    "codename": "chau_hoa"
+  },
+  {
+    "code": "28999",
+    "name": "Lương Hòa",
+    "name_en": "Luong Hoa",
+    "full_name": "Xã Lương Hòa",
+    "full_name_en": "Luong Hoa Commune",
+    "type": "xã",
+    "district_code": "834",
+    "codename": "luong_hoa"
+  },
+  {
+    "code": "29002",
+    "name": "Lương Quới",
+    "name_en": "Luong Quoi",
+    "full_name": "Xã Lương Quới",
+    "full_name_en": "Luong Quoi Commune",
+    "type": "xã",
+    "district_code": "834",
+    "codename": "luong_quoi"
+  },
+  {
+    "code": "29005",
+    "name": "Lương Phú",
+    "name_en": "Luong Phu",
+    "full_name": "Xã Lương Phú",
+    "full_name_en": "Luong Phu Commune",
+    "type": "xã",
+    "district_code": "834",
+    "codename": "luong_phu"
+  },
+  {
+    "code": "29008",
+    "name": "Châu Bình",
+    "name_en": "Chau Binh",
+    "full_name": "Xã Châu Bình",
+    "full_name_en": "Chau Binh Commune",
+    "type": "xã",
+    "district_code": "834",
+    "codename": "chau_binh"
+  },
+  {
+    "code": "29011",
+    "name": "Thuận Điền",
+    "name_en": "Thuan Dien",
+    "full_name": "Xã Thuận Điền",
+    "full_name_en": "Thuan Dien Commune",
+    "type": "xã",
+    "district_code": "834",
+    "codename": "thuan_dien"
+  },
+  {
+    "code": "29014",
+    "name": "Sơn Phú",
+    "name_en": "Son Phu",
+    "full_name": "Xã Sơn Phú",
+    "full_name_en": "Son Phu Commune",
+    "type": "xã",
+    "district_code": "834",
+    "codename": "son_phu"
+  },
+  {
+    "code": "29017",
+    "name": "Bình Hoà",
+    "name_en": "Binh Hoa",
+    "full_name": "Xã Bình Hoà",
+    "full_name_en": "Binh Hoa Commune",
+    "type": "xã",
+    "district_code": "834",
+    "codename": "binh_hoa"
+  },
+  {
+    "code": "29020",
+    "name": "Phước Long",
+    "name_en": "Phuoc Long",
+    "full_name": "Xã Phước Long",
+    "full_name_en": "Phuoc Long Commune",
+    "type": "xã",
+    "district_code": "834",
+    "codename": "phuoc_long"
+  },
+  {
+    "code": "29023",
+    "name": "Hưng Phong",
+    "name_en": "Hung Phong",
+    "full_name": "Xã Hưng Phong",
+    "full_name_en": "Hung Phong Commune",
+    "type": "xã",
+    "district_code": "834",
+    "codename": "hung_phong"
+  },
+  {
+    "code": "29026",
+    "name": "Long Mỹ",
+    "name_en": "Long My",
+    "full_name": "Xã Long Mỹ",
+    "full_name_en": "Long My Commune",
+    "type": "xã",
+    "district_code": "834",
+    "codename": "long_my"
+  },
+  {
+    "code": "29029",
+    "name": "Tân Hào",
+    "name_en": "Tan Hao",
+    "full_name": "Xã Tân Hào",
+    "full_name_en": "Tan Hao Commune",
+    "type": "xã",
+    "district_code": "834",
+    "codename": "tan_hao"
+  },
+  {
+    "code": "29032",
+    "name": "Bình Thành",
+    "name_en": "Binh Thanh",
+    "full_name": "Xã Bình Thành",
+    "full_name_en": "Binh Thanh Commune",
+    "type": "xã",
+    "district_code": "834",
+    "codename": "binh_thanh"
+  },
+  {
+    "code": "29035",
+    "name": "Tân Thanh",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thanh",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "834",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "29038",
+    "name": "Tân Lợi Thạnh",
+    "name_en": "Tan Loi Thanh",
+    "full_name": "Xã Tân Lợi Thạnh",
+    "full_name_en": "Tan Loi Thanh Commune",
+    "type": "xã",
+    "district_code": "834",
+    "codename": "tan_loi_thanh"
+  },
+  {
+    "code": "29041",
+    "name": "Thạnh Phú Đông",
+    "name_en": "Thanh Phu Dong",
+    "full_name": "Xã Thạnh Phú Đông",
+    "full_name_en": "Thanh Phu Dong Commune",
+    "type": "xã",
+    "district_code": "834",
+    "codename": "thanh_phu_dong"
+  },
+  {
+    "code": "29044",
+    "name": "Hưng Nhượng",
+    "name_en": "Hung Nhuong",
+    "full_name": "Xã Hưng Nhượng",
+    "full_name_en": "Hung Nhuong Commune",
+    "type": "xã",
+    "district_code": "834",
+    "codename": "hung_nhuong"
+  },
+  {
+    "code": "29047",
+    "name": "Hưng Lễ",
+    "name_en": "Hung Le",
+    "full_name": "Xã Hưng Lễ",
+    "full_name_en": "Hung Le Commune",
+    "type": "xã",
+    "district_code": "834",
+    "codename": "hung_le"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "code": "03808",
+    "name": "Ít Ong",
+    "name_en": "It Ong",
+    "full_name": "Thị trấn Ít Ong",
+    "full_name_en": "It Ong Township",
+    "type": "thị trấn",
+    "district_code": "120",
+    "codename": "it_ong"
+  },
+  {
+    "code": "03811",
+    "name": "Nậm Giôn",
+    "name_en": "Nam Gion",
+    "full_name": "Xã Nậm Giôn",
+    "full_name_en": "Nam Gion Commune",
+    "type": "xã",
+    "district_code": "120",
+    "codename": "nam_gion"
+  },
+  {
+    "code": "03814",
+    "name": "Chiềng Lao",
+    "name_en": "Chieng Lao",
+    "full_name": "Xã Chiềng Lao",
+    "full_name_en": "Chieng Lao Commune",
+    "type": "xã",
+    "district_code": "120",
+    "codename": "chieng_lao"
+  },
+  {
+    "code": "03817",
+    "name": "Hua Trai",
+    "name_en": "Hua Trai",
+    "full_name": "Xã Hua Trai",
+    "full_name_en": "Hua Trai Commune",
+    "type": "xã",
+    "district_code": "120",
+    "codename": "hua_trai"
+  },
+  {
+    "code": "03820",
+    "name": "Ngọc Chiến",
+    "name_en": "Ngoc Chien",
+    "full_name": "Xã Ngọc Chiến",
+    "full_name_en": "Ngoc Chien Commune",
+    "type": "xã",
+    "district_code": "120",
+    "codename": "ngoc_chien"
+  },
+  {
+    "code": "03823",
+    "name": "Mường Trai",
+    "name_en": "Muong Trai",
+    "full_name": "Xã Mường Trai",
+    "full_name_en": "Muong Trai Commune",
+    "type": "xã",
+    "district_code": "120",
+    "codename": "muong_trai"
+  },
+  {
+    "code": "03826",
+    "name": "Nậm Păm",
+    "name_en": "Nam Pam",
+    "full_name": "Xã Nậm Păm",
+    "full_name_en": "Nam Pam Commune",
+    "type": "xã",
+    "district_code": "120",
+    "codename": "nam_pam"
+  },
+  {
+    "code": "03829",
+    "name": "Chiềng Muôn",
+    "name_en": "Chieng Muon",
+    "full_name": "Xã Chiềng Muôn",
+    "full_name_en": "Chieng Muon Commune",
+    "type": "xã",
+    "district_code": "120",
+    "codename": "chieng_muon"
+  },
+  {
+    "code": "03832",
+    "name": "Chiềng Ân",
+    "name_en": "Chieng An",
+    "full_name": "Xã Chiềng Ân",
+    "full_name_en": "Chieng An Commune",
+    "type": "xã",
+    "district_code": "120",
+    "codename": "chieng_an"
+  },
+  {
+    "code": "03835",
+    "name": "Pi Toong",
+    "name_en": "Pi Toong",
+    "full_name": "Xã Pi Toong",
+    "full_name_en": "Pi Toong Commune",
+    "type": "xã",
+    "district_code": "120",
+    "codename": "pi_toong"
+  },
+  {
+    "code": "03838",
+    "name": "Chiềng Công",
+    "name_en": "Chieng Cong",
+    "full_name": "Xã Chiềng Công",
+    "full_name_en": "Chieng Cong Commune",
+    "type": "xã",
+    "district_code": "120",
+    "codename": "chieng_cong"
+  },
+  {
+    "code": "03841",
+    "name": "Tạ Bú",
+    "name_en": "Ta Bu",
+    "full_name": "Xã Tạ Bú",
+    "full_name_en": "Ta Bu Commune",
+    "type": "xã",
+    "district_code": "120",
+    "codename": "ta_bu"
+  },
+  {
+    "code": "03844",
+    "name": "Chiềng San",
+    "name_en": "Chieng San",
+    "full_name": "Xã Chiềng San",
+    "full_name_en": "Chieng San Commune",
+    "type": "xã",
+    "district_code": "120",
+    "codename": "chieng_san"
+  },
+  {
+    "code": "03847",
+    "name": "Mường Bú",
+    "name_en": "Muong Bu",
+    "full_name": "Xã Mường Bú",
+    "full_name_en": "Muong Bu Commune",
+    "type": "xã",
+    "district_code": "120",
+    "codename": "muong_bu"
+  },
+  {
+    "code": "03850",
+    "name": "Chiềng Hoa",
+    "name_en": "Chieng Hoa",
+    "full_name": "Xã Chiềng Hoa",
+    "full_name_en": "Chieng Hoa Commune",
+    "type": "xã",
+    "district_code": "120",
+    "codename": "chieng_hoa"
+  },
+  {
+    "code": "03853",
+    "name": "Mường Chùm",
+    "name_en": "Muong Chum",
+    "full_name": "Xã Mường Chùm",
+    "full_name_en": "Muong Chum Commune",
+    "type": "xã",
+    "district_code": "120",
+    "codename": "muong_chum"
+  }
+]

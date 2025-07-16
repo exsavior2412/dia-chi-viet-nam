@@ -1,0 +1,192 @@
+[
+  {
+    "code": "21484",
+    "name": "Ba Tơ",
+    "name_en": "Ba To",
+    "full_name": "Thị trấn Ba Tơ",
+    "full_name_en": "Ba To Township",
+    "type": "thị trấn",
+    "district_code": "535",
+    "codename": "ba_to"
+  },
+  {
+    "code": "21487",
+    "name": "Ba Điền",
+    "name_en": "Ba Dien",
+    "full_name": "Xã Ba Điền",
+    "full_name_en": "Ba Dien Commune",
+    "type": "xã",
+    "district_code": "535",
+    "codename": "ba_dien"
+  },
+  {
+    "code": "21490",
+    "name": "Ba Vinh",
+    "name_en": "Ba Vinh",
+    "full_name": "Xã Ba Vinh",
+    "full_name_en": "Ba Vinh Commune",
+    "type": "xã",
+    "district_code": "535",
+    "codename": "ba_vinh"
+  },
+  {
+    "code": "21493",
+    "name": "Ba Thành",
+    "name_en": "Ba Thanh",
+    "full_name": "Xã Ba Thành",
+    "full_name_en": "Ba Thanh Commune",
+    "type": "xã",
+    "district_code": "535",
+    "codename": "ba_thanh"
+  },
+  {
+    "code": "21496",
+    "name": "Ba Động",
+    "name_en": "Ba Dong",
+    "full_name": "Xã Ba Động",
+    "full_name_en": "Ba Dong Commune",
+    "type": "xã",
+    "district_code": "535",
+    "codename": "ba_dong"
+  },
+  {
+    "code": "21499",
+    "name": "Ba Dinh",
+    "name_en": "Ba Dinh",
+    "full_name": "Xã Ba Dinh",
+    "full_name_en": "Ba Dinh Commune",
+    "type": "xã",
+    "district_code": "535",
+    "codename": "ba_dinh"
+  },
+  {
+    "code": "21500",
+    "name": "Ba Giang",
+    "name_en": "Ba Giang",
+    "full_name": "Xã Ba Giang",
+    "full_name_en": "Ba Giang Commune",
+    "type": "xã",
+    "district_code": "535",
+    "codename": "ba_giang"
+  },
+  {
+    "code": "21502",
+    "name": "Ba Liên",
+    "name_en": "Ba Lien",
+    "full_name": "Xã Ba Liên",
+    "full_name_en": "Ba Lien Commune",
+    "type": "xã",
+    "district_code": "535",
+    "codename": "ba_lien"
+  },
+  {
+    "code": "21505",
+    "name": "Ba Ngạc",
+    "name_en": "Ba Ngac",
+    "full_name": "Xã Ba Ngạc",
+    "full_name_en": "Ba Ngac Commune",
+    "type": "xã",
+    "district_code": "535",
+    "codename": "ba_ngac"
+  },
+  {
+    "code": "21508",
+    "name": "Ba Khâm",
+    "name_en": "Ba Kham",
+    "full_name": "Xã Ba Khâm",
+    "full_name_en": "Ba Kham Commune",
+    "type": "xã",
+    "district_code": "535",
+    "codename": "ba_kham"
+  },
+  {
+    "code": "21511",
+    "name": "Ba Cung",
+    "name_en": "Ba Cung",
+    "full_name": "Xã Ba Cung",
+    "full_name_en": "Ba Cung Commune",
+    "type": "xã",
+    "district_code": "535",
+    "codename": "ba_cung"
+  },
+  {
+    "code": "21517",
+    "name": "Ba Tiêu",
+    "name_en": "Ba Tieu",
+    "full_name": "Xã Ba Tiêu",
+    "full_name_en": "Ba Tieu Commune",
+    "type": "xã",
+    "district_code": "535",
+    "codename": "ba_tieu"
+  },
+  {
+    "code": "21520",
+    "name": "Ba Trang",
+    "name_en": "Ba Trang",
+    "full_name": "Xã Ba Trang",
+    "full_name_en": "Ba Trang Commune",
+    "type": "xã",
+    "district_code": "535",
+    "codename": "ba_trang"
+  },
+  {
+    "code": "21523",
+    "name": "Ba Tô",
+    "name_en": "Ba To",
+    "full_name": "Xã Ba Tô",
+    "full_name_en": "Ba To Commune",
+    "type": "xã",
+    "district_code": "535",
+    "codename": "ba_to"
+  },
+  {
+    "code": "21526",
+    "name": "Ba Bích",
+    "name_en": "Ba Bich",
+    "full_name": "Xã Ba Bích",
+    "full_name_en": "Ba Bich Commune",
+    "type": "xã",
+    "district_code": "535",
+    "codename": "ba_bich"
+  },
+  {
+    "code": "21529",
+    "name": "Ba Vì",
+    "name_en": "Ba Vi",
+    "full_name": "Xã Ba Vì",
+    "full_name_en": "Ba Vi Commune",
+    "type": "xã",
+    "district_code": "535",
+    "codename": "ba_vi"
+  },
+  {
+    "code": "21532",
+    "name": "Ba Lế",
+    "name_en": "Ba Le",
+    "full_name": "Xã Ba Lế",
+    "full_name_en": "Ba Le Commune",
+    "type": "xã",
+    "district_code": "535",
+    "codename": "ba_le"
+  },
+  {
+    "code": "21535",
+    "name": "Ba Nam",
+    "name_en": "Ba Nam",
+    "full_name": "Xã Ba Nam",
+    "full_name_en": "Ba Nam Commune",
+    "type": "xã",
+    "district_code": "535",
+    "codename": "ba_nam"
+  },
+  {
+    "code": "21538",
+    "name": "Ba Xa",
+    "name_en": "Ba Xa",
+    "full_name": "Xã Ba Xa",
+    "full_name_en": "Ba Xa Commune",
+    "type": "xã",
+    "district_code": "535",
+    "codename": "ba_xa"
+  }
+]

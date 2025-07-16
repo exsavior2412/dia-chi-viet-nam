@@ -1,0 +1,132 @@
+[
+  {
+    "code": "30589",
+    "name": "An Châu",
+    "name_en": "An Chau",
+    "full_name": "Thị trấn An Châu",
+    "full_name_en": "An Chau Township",
+    "type": "thị trấn",
+    "district_code": "892",
+    "codename": "an_chau"
+  },
+  {
+    "code": "30592",
+    "name": "An Hòa",
+    "name_en": "An Hoa",
+    "full_name": "Xã An Hòa",
+    "full_name_en": "An Hoa Commune",
+    "type": "xã",
+    "district_code": "892",
+    "codename": "an_hoa"
+  },
+  {
+    "code": "30595",
+    "name": "Cần Đăng",
+    "name_en": "Can Dang",
+    "full_name": "Xã Cần Đăng",
+    "full_name_en": "Can Dang Commune",
+    "type": "xã",
+    "district_code": "892",
+    "codename": "can_dang"
+  },
+  {
+    "code": "30598",
+    "name": "Vĩnh Hanh",
+    "name_en": "Vinh Hanh",
+    "full_name": "Xã Vĩnh Hanh",
+    "full_name_en": "Vinh Hanh Commune",
+    "type": "xã",
+    "district_code": "892",
+    "codename": "vinh_hanh"
+  },
+  {
+    "code": "30601",
+    "name": "Bình Thạnh",
+    "name_en": "Binh Thanh",
+    "full_name": "Xã Bình Thạnh",
+    "full_name_en": "Binh Thanh Commune",
+    "type": "xã",
+    "district_code": "892",
+    "codename": "binh_thanh"
+  },
+  {
+    "code": "30604",
+    "name": "Vĩnh Bình",
+    "name_en": "Vinh Binh",
+    "full_name": "Thị trấn Vĩnh Bình",
+    "full_name_en": "Vinh Binh Township",
+    "type": "thị trấn",
+    "district_code": "892",
+    "codename": "vinh_binh"
+  },
+  {
+    "code": "30607",
+    "name": "Bình Hòa",
+    "name_en": "Binh Hoa",
+    "full_name": "Xã Bình Hòa",
+    "full_name_en": "Binh Hoa Commune",
+    "type": "xã",
+    "district_code": "892",
+    "codename": "binh_hoa"
+  },
+  {
+    "code": "30610",
+    "name": "Vĩnh An",
+    "name_en": "Vinh An",
+    "full_name": "Xã Vĩnh An",
+    "full_name_en": "Vinh An Commune",
+    "type": "xã",
+    "district_code": "892",
+    "codename": "vinh_an"
+  },
+  {
+    "code": "30613",
+    "name": "Hòa Bình Thạnh",
+    "name_en": "Hoa Binh Thanh",
+    "full_name": "Xã Hòa Bình Thạnh",
+    "full_name_en": "Hoa Binh Thanh Commune",
+    "type": "xã",
+    "district_code": "892",
+    "codename": "hoa_binh_thanh"
+  },
+  {
+    "code": "30616",
+    "name": "Vĩnh Lợi",
+    "name_en": "Vinh Loi",
+    "full_name": "Xã Vĩnh Lợi",
+    "full_name_en": "Vinh Loi Commune",
+    "type": "xã",
+    "district_code": "892",
+    "codename": "vinh_loi"
+  },
+  {
+    "code": "30619",
+    "name": "Vĩnh Nhuận",
+    "name_en": "Vinh Nhuan",
+    "full_name": "Xã Vĩnh Nhuận",
+    "full_name_en": "Vinh Nhuan Commune",
+    "type": "xã",
+    "district_code": "892",
+    "codename": "vinh_nhuan"
+  },
+  {
+    "code": "30622",
+    "name": "Tân Phú",
+    "name_en": "Tan Phu",
+    "full_name": "Xã Tân Phú",
+    "full_name_en": "Tan Phu Commune",
+    "type": "xã",
+    "district_code": "892",
+    "codename": "tan_phu"
+  },
+  {
+    "code": "30625",
+    "name": "Vĩnh Thành",
+    "name_en": "Vinh Thanh",
+    "full_name": "Xã Vĩnh Thành",
+    "full_name_en": "Vinh Thanh Commune",
+    "type": "xã",
+    "district_code": "892",
+    "codename": "vinh_thanh"
+  }
+]

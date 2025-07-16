@@ -1,0 +1,72 @@
+[
+  {
+    "code": "14809",
+    "name": "Bắc Sơn",
+    "name_en": "Bac Son",
+    "full_name": "Phường Bắc Sơn",
+    "full_name_en": "Bac Son Ward",
+    "type": "phường",
+    "district_code": "381",
+    "codename": "bac_son"
+  },
+  {
+    "code": "14812",
+    "name": "Ba Đình",
+    "name_en": "Ba Dinh",
+    "full_name": "Phường Ba Đình",
+    "full_name_en": "Ba Dinh Ward",
+    "type": "phường",
+    "district_code": "381",
+    "codename": "ba_dinh"
+  },
+  {
+    "code": "14815",
+    "name": "Lam Sơn",
+    "name_en": "Lam Son",
+    "full_name": "Phường Lam Sơn",
+    "full_name_en": "Lam Son Ward",
+    "type": "phường",
+    "district_code": "381",
+    "codename": "lam_son"
+  },
+  {
+    "code": "14818",
+    "name": "Ngọc Trạo",
+    "name_en": "Ngoc Trao",
+    "full_name": "Phường Ngọc Trạo",
+    "full_name_en": "Ngoc Trao Ward",
+    "type": "phường",
+    "district_code": "381",
+    "codename": "ngoc_trao"
+  },
+  {
+    "code": "14821",
+    "name": "Đông Sơn",
+    "name_en": "Dong Son",
+    "full_name": "Phường Đông Sơn",
+    "full_name_en": "Dong Son Ward",
+    "type": "phường",
+    "district_code": "381",
+    "codename": "dong_son"
+  },
+  {
+    "code": "14823",
+    "name": "Phú Sơn",
+    "name_en": "Phu Son",
+    "full_name": "Phường Phú Sơn",
+    "full_name_en": "Phu Son Ward",
+    "type": "phường",
+    "district_code": "381",
+    "codename": "phu_son"
+  },
+  {
+    "code": "14824",
+    "name": "Quang Trung",
+    "name_en": "Quang Trung",
+    "full_name": "Xã Quang Trung",
+    "full_name_en": "Quang Trung Commune",
+    "type": "xã",
+    "district_code": "381",
+    "codename": "quang_trung"
+  }
+]

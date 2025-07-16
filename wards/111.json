@@ -1,0 +1,102 @@
+[
+  {
+    "code": "03598",
+    "name": "Tân Uyên",
+    "name_en": "Tan Uyen",
+    "full_name": "Thị trấn Tân Uyên",
+    "full_name_en": "Tan Uyen Township",
+    "type": "thị trấn",
+    "district_code": "111",
+    "codename": "tan_uyen"
+  },
+  {
+    "code": "03601",
+    "name": "Mường Khoa",
+    "name_en": "Muong Khoa",
+    "full_name": "Xã Mường Khoa",
+    "full_name_en": "Muong Khoa Commune",
+    "type": "xã",
+    "district_code": "111",
+    "codename": "muong_khoa"
+  },
+  {
+    "code": "03602",
+    "name": "Phúc Khoa",
+    "name_en": "Phuc Khoa",
+    "full_name": "Xã Phúc Khoa",
+    "full_name_en": "Phuc Khoa Commune",
+    "type": "xã",
+    "district_code": "111",
+    "codename": "phuc_khoa"
+  },
+  {
+    "code": "03604",
+    "name": "Thân Thuộc",
+    "name_en": "Than Thuoc",
+    "full_name": "Xã Thân Thuộc",
+    "full_name_en": "Than Thuoc Commune",
+    "type": "xã",
+    "district_code": "111",
+    "codename": "than_thuoc"
+  },
+  {
+    "code": "03605",
+    "name": "Trung Đồng",
+    "name_en": "Trung Dong",
+    "full_name": "Xã Trung Đồng",
+    "full_name_en": "Trung Dong Commune",
+    "type": "xã",
+    "district_code": "111",
+    "codename": "trung_dong"
+  },
+  {
+    "code": "03607",
+    "name": "Hố Mít",
+    "name_en": "Ho Mit",
+    "full_name": "Xã Hố Mít",
+    "full_name_en": "Ho Mit Commune",
+    "type": "xã",
+    "district_code": "111",
+    "codename": "ho_mit"
+  },
+  {
+    "code": "03610",
+    "name": "Nậm Cần",
+    "name_en": "Nam Can",
+    "full_name": "Xã Nậm Cần",
+    "full_name_en": "Nam Can Commune",
+    "type": "xã",
+    "district_code": "111",
+    "codename": "nam_can"
+  },
+  {
+    "code": "03613",
+    "name": "Nậm Sỏ",
+    "name_en": "Nam So",
+    "full_name": "Xã Nậm Sỏ",
+    "full_name_en": "Nam So Commune",
+    "type": "xã",
+    "district_code": "111",
+    "codename": "nam_so"
+  },
+  {
+    "code": "03616",
+    "name": "Pắc Ta",
+    "name_en": "Pac Ta",
+    "full_name": "Xã Pắc Ta",
+    "full_name_en": "Pac Ta Commune",
+    "type": "xã",
+    "district_code": "111",
+    "codename": "pac_ta"
+  },
+  {
+    "code": "03622",
+    "name": "Tà Mít",
+    "name_en": "Ta Mit",
+    "full_name": "Xã Tà Mít",
+    "full_name_en": "Ta Mit Commune",
+    "type": "xã",
+    "district_code": "111",
+    "codename": "ta_mit"
+  }
+]

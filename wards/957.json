@@ -1,0 +1,82 @@
+[
+  {
+    "code": "31867",
+    "name": "Phước Long",
+    "name_en": "Phuoc Long",
+    "full_name": "Thị trấn Phước Long",
+    "full_name_en": "Phuoc Long Township",
+    "type": "thị trấn",
+    "district_code": "957",
+    "codename": "phuoc_long"
+  },
+  {
+    "code": "31870",
+    "name": "Vĩnh Phú Đông",
+    "name_en": "Vinh Phu Dong",
+    "full_name": "Xã Vĩnh Phú Đông",
+    "full_name_en": "Vinh Phu Dong Commune",
+    "type": "xã",
+    "district_code": "957",
+    "codename": "vinh_phu_dong"
+  },
+  {
+    "code": "31873",
+    "name": "Vĩnh Phú Tây",
+    "name_en": "Vinh Phu Tay",
+    "full_name": "Xã Vĩnh Phú Tây",
+    "full_name_en": "Vinh Phu Tay Commune",
+    "type": "xã",
+    "district_code": "957",
+    "codename": "vinh_phu_tay"
+  },
+  {
+    "code": "31876",
+    "name": "Phước Long",
+    "name_en": "Phuoc Long",
+    "full_name": "Xã Phước Long",
+    "full_name_en": "Phuoc Long Commune",
+    "type": "xã",
+    "district_code": "957",
+    "codename": "phuoc_long"
+  },
+  {
+    "code": "31879",
+    "name": "Hưng Phú",
+    "name_en": "Hung Phu",
+    "full_name": "Xã Hưng Phú",
+    "full_name_en": "Hung Phu Commune",
+    "type": "xã",
+    "district_code": "957",
+    "codename": "hung_phu"
+  },
+  {
+    "code": "31882",
+    "name": "Vĩnh Thanh",
+    "name_en": "Vinh Thanh",
+    "full_name": "Xã Vĩnh Thanh",
+    "full_name_en": "Vinh Thanh Commune",
+    "type": "xã",
+    "district_code": "957",
+    "codename": "vinh_thanh"
+  },
+  {
+    "code": "31885",
+    "name": "Phong Thạnh Tây A",
+    "name_en": "Phong Thanh Tay A",
+    "full_name": "Xã Phong Thạnh Tây A",
+    "full_name_en": "Phong Thanh Tay A Commune",
+    "type": "xã",
+    "district_code": "957",
+    "codename": "phong_thanh_tay_a"
+  },
+  {
+    "code": "31888",
+    "name": "Phong Thạnh Tây B",
+    "name_en": "Phong Thanh Tay B",
+    "full_name": "Xã Phong Thạnh Tây B",
+    "full_name_en": "Phong Thanh Tay B Commune",
+    "type": "xã",
+    "district_code": "957",
+    "codename": "phong_thanh_tay_b"
+  }
+]

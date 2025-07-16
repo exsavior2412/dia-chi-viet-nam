@@ -1,0 +1,102 @@
+[
+  {
+    "code": "15031",
+    "name": "Yên Khương",
+    "name_en": "Yen Khuong",
+    "full_name": "Xã Yên Khương",
+    "full_name_en": "Yen Khuong Commune",
+    "type": "xã",
+    "district_code": "388",
+    "codename": "yen_khuong"
+  },
+  {
+    "code": "15034",
+    "name": "Yên Thắng",
+    "name_en": "Yen Thang",
+    "full_name": "Xã Yên Thắng",
+    "full_name_en": "Yen Thang Commune",
+    "type": "xã",
+    "district_code": "388",
+    "codename": "yen_thang"
+  },
+  {
+    "code": "15037",
+    "name": "Trí Nang",
+    "name_en": "Tri Nang",
+    "full_name": "Xã Trí Nang",
+    "full_name_en": "Tri Nang Commune",
+    "type": "xã",
+    "district_code": "388",
+    "codename": "tri_nang"
+  },
+  {
+    "code": "15040",
+    "name": "Giao An",
+    "name_en": "Giao An",
+    "full_name": "Xã Giao An",
+    "full_name_en": "Giao An Commune",
+    "type": "xã",
+    "district_code": "388",
+    "codename": "giao_an"
+  },
+  {
+    "code": "15043",
+    "name": "Giao Thiện",
+    "name_en": "Giao Thien",
+    "full_name": "Xã Giao Thiện",
+    "full_name_en": "Giao Thien Commune",
+    "type": "xã",
+    "district_code": "388",
+    "codename": "giao_thien"
+  },
+  {
+    "code": "15046",
+    "name": "Tân Phúc",
+    "name_en": "Tan Phuc",
+    "full_name": "Xã Tân Phúc",
+    "full_name_en": "Tan Phuc Commune",
+    "type": "xã",
+    "district_code": "388",
+    "codename": "tan_phuc"
+  },
+  {
+    "code": "15049",
+    "name": "Tam Văn",
+    "name_en": "Tam Van",
+    "full_name": "Xã Tam Văn",
+    "full_name_en": "Tam Van Commune",
+    "type": "xã",
+    "district_code": "388",
+    "codename": "tam_van"
+  },
+  {
+    "code": "15052",
+    "name": "Lâm Phú",
+    "name_en": "Lam Phu",
+    "full_name": "Xã Lâm Phú",
+    "full_name_en": "Lam Phu Commune",
+    "type": "xã",
+    "district_code": "388",
+    "codename": "lam_phu"
+  },
+  {
+    "code": "15055",
+    "name": "Lang Chánh",
+    "name_en": "Lang Chanh",
+    "full_name": "Thị trấn Lang Chánh",
+    "full_name_en": "Lang Chanh Township",
+    "type": "thị trấn",
+    "district_code": "388",
+    "codename": "lang_chanh"
+  },
+  {
+    "code": "15058",
+    "name": "Đồng Lương",
+    "name_en": "Dong Luong",
+    "full_name": "Xã Đồng Lương",
+    "full_name_en": "Dong Luong Commune",
+    "type": "xã",
+    "district_code": "388",
+    "codename": "dong_luong"
+  }
+]

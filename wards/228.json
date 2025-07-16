@@ -1,0 +1,92 @@
+[
+  {
+    "code": "07942",
+    "name": "Hùng Vương",
+    "name_en": "Hung Vuong",
+    "full_name": "Phường Hùng Vương",
+    "full_name_en": "Hung Vuong Ward",
+    "type": "phường",
+    "district_code": "228",
+    "codename": "hung_vuong"
+  },
+  {
+    "code": "07945",
+    "name": "Phong Châu",
+    "name_en": "Phong Chau",
+    "full_name": "Phường Phong Châu",
+    "full_name_en": "Phong Chau Ward",
+    "type": "phường",
+    "district_code": "228",
+    "codename": "phong_chau"
+  },
+  {
+    "code": "07948",
+    "name": "Âu Cơ",
+    "name_en": "Au Co",
+    "full_name": "Phường Âu Cơ",
+    "full_name_en": "Au Co Ward",
+    "type": "phường",
+    "district_code": "228",
+    "codename": "au_co"
+  },
+  {
+    "code": "07951",
+    "name": "Hà Lộc",
+    "name_en": "Ha Loc",
+    "full_name": "Xã Hà Lộc",
+    "full_name_en": "Ha Loc Commune",
+    "type": "xã",
+    "district_code": "228",
+    "codename": "ha_loc"
+  },
+  {
+    "code": "07954",
+    "name": "Phú Hộ",
+    "name_en": "Phu Ho",
+    "full_name": "Xã Phú Hộ",
+    "full_name_en": "Phu Ho Commune",
+    "type": "xã",
+    "district_code": "228",
+    "codename": "phu_ho"
+  },
+  {
+    "code": "07957",
+    "name": "Văn Lung",
+    "name_en": "Van Lung",
+    "full_name": "Xã Văn Lung",
+    "full_name_en": "Van Lung Commune",
+    "type": "xã",
+    "district_code": "228",
+    "codename": "van_lung"
+  },
+  {
+    "code": "07960",
+    "name": "Thanh Minh",
+    "name_en": "Thanh Minh",
+    "full_name": "Xã Thanh Minh",
+    "full_name_en": "Thanh Minh Commune",
+    "type": "xã",
+    "district_code": "228",
+    "codename": "thanh_minh"
+  },
+  {
+    "code": "07963",
+    "name": "Hà Thạch",
+    "name_en": "Ha Thach",
+    "full_name": "Xã Hà Thạch",
+    "full_name_en": "Ha Thach Commune",
+    "type": "xã",
+    "district_code": "228",
+    "codename": "ha_thach"
+  },
+  {
+    "code": "07966",
+    "name": "Thanh Vinh",
+    "name_en": "Thanh Vinh",
+    "full_name": "Phường Thanh Vinh",
+    "full_name_en": "Thanh Vinh Ward",
+    "type": "phường",
+    "district_code": "228",
+    "codename": "thanh_vinh"
+  }
+]

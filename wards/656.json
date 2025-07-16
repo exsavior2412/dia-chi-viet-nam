@@ -1,0 +1,112 @@
+[
+  {
+    "code": "24580",
+    "name": "Liên Sơn",
+    "name_en": "Lien Son",
+    "full_name": "Thị trấn Liên Sơn",
+    "full_name_en": "Lien Son Township",
+    "type": "thị trấn",
+    "district_code": "656",
+    "codename": "lien_son"
+  },
+  {
+    "code": "24583",
+    "name": "Yang Tao",
+    "name_en": "Yang Tao",
+    "full_name": "Xã Yang Tao",
+    "full_name_en": "Yang Tao Commune",
+    "type": "xã",
+    "district_code": "656",
+    "codename": "yang_tao"
+  },
+  {
+    "code": "24586",
+    "name": "Bông Krang",
+    "name_en": "Bong Krang",
+    "full_name": "Xã Bông Krang",
+    "full_name_en": "Bong Krang Commune",
+    "type": "xã",
+    "district_code": "656",
+    "codename": "bong_krang"
+  },
+  {
+    "code": "24589",
+    "name": "Đắk Liêng",
+    "name_en": "Dak Lieng",
+    "full_name": "Xã Đắk Liêng",
+    "full_name_en": "Dak Lieng Commune",
+    "type": "xã",
+    "district_code": "656",
+    "codename": "dak_lieng"
+  },
+  {
+    "code": "24592",
+    "name": "Buôn Triết",
+    "name_en": "Buon Triet",
+    "full_name": "Xã Buôn Triết",
+    "full_name_en": "Buon Triet Commune",
+    "type": "xã",
+    "district_code": "656",
+    "codename": "buon_triet"
+  },
+  {
+    "code": "24595",
+    "name": "Buôn Tría",
+    "name_en": "Buon Tria",
+    "full_name": "Xã Buôn Tría",
+    "full_name_en": "Buon Tria Commune",
+    "type": "xã",
+    "district_code": "656",
+    "codename": "buon_tria"
+  },
+  {
+    "code": "24598",
+    "name": "Đắk Phơi",
+    "name_en": "Dak Phoi",
+    "full_name": "Xã Đắk Phơi",
+    "full_name_en": "Dak Phoi Commune",
+    "type": "xã",
+    "district_code": "656",
+    "codename": "dak_phoi"
+  },
+  {
+    "code": "24601",
+    "name": "Đắk Nuê",
+    "name_en": "Dak Nue",
+    "full_name": "Xã Đắk Nuê",
+    "full_name_en": "Dak Nue Commune",
+    "type": "xã",
+    "district_code": "656",
+    "codename": "dak_nue"
+  },
+  {
+    "code": "24604",
+    "name": "Krông Nô",
+    "name_en": "Krong No",
+    "full_name": "Xã Krông Nô",
+    "full_name_en": "Krong No Commune",
+    "type": "xã",
+    "district_code": "656",
+    "codename": "krong_no"
+  },
+  {
+    "code": "24607",
+    "name": "Nam Ka",
+    "name_en": "Nam Ka",
+    "full_name": "Xã Nam Ka",
+    "full_name_en": "Nam Ka Commune",
+    "type": "xã",
+    "district_code": "656",
+    "codename": "nam_ka"
+  },
+  {
+    "code": "24610",
+    "name": "Ea R'Bin",
+    "name_en": "Ea R'Bin",
+    "full_name": "Xã Ea R'Bin",
+    "full_name_en": "Ea R'Bin Commune",
+    "type": "xã",
+    "district_code": "656",
+    "codename": "ea_rbin"
+  }
+]

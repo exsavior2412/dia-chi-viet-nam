@@ -1,0 +1,162 @@
+[
+  {
+    "code": "25270",
+    "name": "Lộc Ninh",
+    "name_en": "Loc Ninh",
+    "full_name": "Thị trấn Lộc Ninh",
+    "full_name_en": "Loc Ninh Township",
+    "type": "thị trấn",
+    "district_code": "692",
+    "codename": "loc_ninh"
+  },
+  {
+    "code": "25273",
+    "name": "Lộc Hòa",
+    "name_en": "Loc Hoa",
+    "full_name": "Xã Lộc Hòa",
+    "full_name_en": "Loc Hoa Commune",
+    "type": "xã",
+    "district_code": "692",
+    "codename": "loc_hoa"
+  },
+  {
+    "code": "25276",
+    "name": "Lộc An",
+    "name_en": "Loc An",
+    "full_name": "Xã Lộc An",
+    "full_name_en": "Loc An Commune",
+    "type": "xã",
+    "district_code": "692",
+    "codename": "loc_an"
+  },
+  {
+    "code": "25279",
+    "name": "Lộc Tấn",
+    "name_en": "Loc Tan",
+    "full_name": "Xã Lộc Tấn",
+    "full_name_en": "Loc Tan Commune",
+    "type": "xã",
+    "district_code": "692",
+    "codename": "loc_tan"
+  },
+  {
+    "code": "25280",
+    "name": "Lộc Thạnh",
+    "name_en": "Loc Thanh",
+    "full_name": "Xã Lộc Thạnh",
+    "full_name_en": "Loc Thanh Commune",
+    "type": "xã",
+    "district_code": "692",
+    "codename": "loc_thanh"
+  },
+  {
+    "code": "25282",
+    "name": "Lộc Hiệp",
+    "name_en": "Loc Hiep",
+    "full_name": "Xã Lộc Hiệp",
+    "full_name_en": "Loc Hiep Commune",
+    "type": "xã",
+    "district_code": "692",
+    "codename": "loc_hiep"
+  },
+  {
+    "code": "25285",
+    "name": "Lộc Thiện",
+    "name_en": "Loc Thien",
+    "full_name": "Xã Lộc Thiện",
+    "full_name_en": "Loc Thien Commune",
+    "type": "xã",
+    "district_code": "692",
+    "codename": "loc_thien"
+  },
+  {
+    "code": "25288",
+    "name": "Lộc Thuận",
+    "name_en": "Loc Thuan",
+    "full_name": "Xã Lộc Thuận",
+    "full_name_en": "Loc Thuan Commune",
+    "type": "xã",
+    "district_code": "692",
+    "codename": "loc_thuan"
+  },
+  {
+    "code": "25291",
+    "name": "Lộc Quang",
+    "name_en": "Loc Quang",
+    "full_name": "Xã Lộc Quang",
+    "full_name_en": "Loc Quang Commune",
+    "type": "xã",
+    "district_code": "692",
+    "codename": "loc_quang"
+  },
+  {
+    "code": "25292",
+    "name": "Lộc Phú",
+    "name_en": "Loc Phu",
+    "full_name": "Xã Lộc Phú",
+    "full_name_en": "Loc Phu Commune",
+    "type": "xã",
+    "district_code": "692",
+    "codename": "loc_phu"
+  },
+  {
+    "code": "25294",
+    "name": "Lộc Thành",
+    "name_en": "Loc Thanh",
+    "full_name": "Xã Lộc Thành",
+    "full_name_en": "Loc Thanh Commune",
+    "type": "xã",
+    "district_code": "692",
+    "codename": "loc_thanh"
+  },
+  {
+    "code": "25297",
+    "name": "Lộc Thái",
+    "name_en": "Loc Thai",
+    "full_name": "Xã Lộc Thái",
+    "full_name_en": "Loc Thai Commune",
+    "type": "xã",
+    "district_code": "692",
+    "codename": "loc_thai"
+  },
+  {
+    "code": "25300",
+    "name": "Lộc Điền",
+    "name_en": "Loc Dien",
+    "full_name": "Xã Lộc Điền",
+    "full_name_en": "Loc Dien Commune",
+    "type": "xã",
+    "district_code": "692",
+    "codename": "loc_dien"
+  },
+  {
+    "code": "25303",
+    "name": "Lộc Hưng",
+    "name_en": "Loc Hung",
+    "full_name": "Xã Lộc Hưng",
+    "full_name_en": "Loc Hung Commune",
+    "type": "xã",
+    "district_code": "692",
+    "codename": "loc_hung"
+  },
+  {
+    "code": "25305",
+    "name": "Lộc Thịnh",
+    "name_en": "Loc Thinh",
+    "full_name": "Xã Lộc Thịnh",
+    "full_name_en": "Loc Thinh Commune",
+    "type": "xã",
+    "district_code": "692",
+    "codename": "loc_thinh"
+  },
+  {
+    "code": "25306",
+    "name": "Lộc Khánh",
+    "name_en": "Loc Khanh",
+    "full_name": "Xã Lộc Khánh",
+    "full_name_en": "Loc Khanh Commune",
+    "type": "xã",
+    "district_code": "692",
+    "codename": "loc_khanh"
+  }
+]

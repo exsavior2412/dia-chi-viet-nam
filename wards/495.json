@@ -1,0 +1,62 @@
+[
+  {
+    "code": "20260",
+    "name": "Khuê Trung",
+    "name_en": "Khue Trung",
+    "full_name": "Phường Khuê Trung",
+    "full_name_en": "Khue Trung Ward",
+    "type": "phường",
+    "district_code": "495",
+    "codename": "khue_trung"
+  },
+  {
+    "code": "20305",
+    "name": "Hòa Phát",
+    "name_en": "Hoa Phat",
+    "full_name": "Phường Hòa Phát",
+    "full_name_en": "Hoa Phat Ward",
+    "type": "phường",
+    "district_code": "495",
+    "codename": "hoa_phat"
+  },
+  {
+    "code": "20306",
+    "name": "Hòa An",
+    "name_en": "Hoa An",
+    "full_name": "Phường Hòa An",
+    "full_name_en": "Hoa An Ward",
+    "type": "phường",
+    "district_code": "495",
+    "codename": "hoa_an"
+  },
+  {
+    "code": "20311",
+    "name": "Hòa Thọ Tây",
+    "name_en": "Hoa Tho Tay",
+    "full_name": "Phường Hòa Thọ Tây",
+    "full_name_en": "Hoa Tho Tay Ward",
+    "type": "phường",
+    "district_code": "495",
+    "codename": "hoa_tho_tay"
+  },
+  {
+    "code": "20312",
+    "name": "Hòa Thọ Đông",
+    "name_en": "Hoa Tho Dong",
+    "full_name": "Phường Hòa Thọ Đông",
+    "full_name_en": "Hoa Tho Dong Ward",
+    "type": "phường",
+    "district_code": "495",
+    "codename": "hoa_tho_dong"
+  },
+  {
+    "code": "20314",
+    "name": "Hòa Xuân",
+    "name_en": "Hoa Xuan",
+    "full_name": "Phường Hòa Xuân",
+    "full_name_en": "Hoa Xuan Ward",
+    "type": "phường",
+    "district_code": "495",
+    "codename": "hoa_xuan"
+  }
+]

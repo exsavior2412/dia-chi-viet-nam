@@ -1,0 +1,152 @@
+[
+  {
+    "code": "10945",
+    "name": "Kẻ Sặt",
+    "name_en": "Ke Sat",
+    "full_name": "Thị trấn Kẻ Sặt",
+    "full_name_en": "Ke Sat Township",
+    "type": "thị trấn",
+    "district_code": "296",
+    "codename": "ke_sat"
+  },
+  {
+    "code": "10951",
+    "name": "Vĩnh Hưng",
+    "name_en": "Vinh Hung",
+    "full_name": "Xã Vĩnh Hưng",
+    "full_name_en": "Vinh Hung Commune",
+    "type": "xã",
+    "district_code": "296",
+    "codename": "vinh_hung"
+  },
+  {
+    "code": "10954",
+    "name": "Hùng Thắng",
+    "name_en": "Hung Thang",
+    "full_name": "Xã Hùng Thắng",
+    "full_name_en": "Hung Thang Commune",
+    "type": "xã",
+    "district_code": "296",
+    "codename": "hung_thang"
+  },
+  {
+    "code": "10960",
+    "name": "Vĩnh Hồng",
+    "name_en": "Vinh Hong",
+    "full_name": "Xã Vĩnh Hồng",
+    "full_name_en": "Vinh Hong Commune",
+    "type": "xã",
+    "district_code": "296",
+    "codename": "vinh_hong"
+  },
+  {
+    "code": "10963",
+    "name": "Long Xuyên",
+    "name_en": "Long Xuyen",
+    "full_name": "Xã Long Xuyên",
+    "full_name_en": "Long Xuyen Commune",
+    "type": "xã",
+    "district_code": "296",
+    "codename": "long_xuyen"
+  },
+  {
+    "code": "10966",
+    "name": "Tân Việt",
+    "name_en": "Tan Viet",
+    "full_name": "Xã Tân Việt",
+    "full_name_en": "Tan Viet Commune",
+    "type": "xã",
+    "district_code": "296",
+    "codename": "tan_viet"
+  },
+  {
+    "code": "10969",
+    "name": "Thúc Kháng",
+    "name_en": "Thuc Khang",
+    "full_name": "Xã Thúc Kháng",
+    "full_name_en": "Thuc Khang Commune",
+    "type": "xã",
+    "district_code": "296",
+    "codename": "thuc_khang"
+  },
+  {
+    "code": "10972",
+    "name": "Tân Hồng",
+    "name_en": "Tan Hong",
+    "full_name": "Xã Tân Hồng",
+    "full_name_en": "Tan Hong Commune",
+    "type": "xã",
+    "district_code": "296",
+    "codename": "tan_hong"
+  },
+  {
+    "code": "10978",
+    "name": "Hồng Khê",
+    "name_en": "Hong Khe",
+    "full_name": "Xã Hồng Khê",
+    "full_name_en": "Hong Khe Commune",
+    "type": "xã",
+    "district_code": "296",
+    "codename": "hong_khe"
+  },
+  {
+    "code": "10981",
+    "name": "Thái Minh",
+    "name_en": "Thai Minh",
+    "full_name": "Xã Thái Minh",
+    "full_name_en": "Thai Minh Commune",
+    "type": "xã",
+    "district_code": "296",
+    "codename": "thai_minh"
+  },
+  {
+    "code": "10984",
+    "name": "Cổ Bì",
+    "name_en": "Co Bi",
+    "full_name": "Xã Cổ Bì",
+    "full_name_en": "Co Bi Commune",
+    "type": "xã",
+    "district_code": "296",
+    "codename": "co_bi"
+  },
+  {
+    "code": "10987",
+    "name": "Nhân Quyền",
+    "name_en": "Nhan Quyen",
+    "full_name": "Xã Nhân Quyền",
+    "full_name_en": "Nhan Quyen Commune",
+    "type": "xã",
+    "district_code": "296",
+    "codename": "nhan_quyen"
+  },
+  {
+    "code": "10990",
+    "name": "Thái Dương",
+    "name_en": "Thai Duong",
+    "full_name": "Xã Thái Dương",
+    "full_name_en": "Thai Duong Commune",
+    "type": "xã",
+    "district_code": "296",
+    "codename": "thai_duong"
+  },
+  {
+    "code": "10993",
+    "name": "Thái Hòa",
+    "name_en": "Thai Hoa",
+    "full_name": "Xã Thái Hòa",
+    "full_name_en": "Thai Hoa Commune",
+    "type": "xã",
+    "district_code": "296",
+    "codename": "thai_hoa"
+  },
+  {
+    "code": "10996",
+    "name": "Bình Xuyên",
+    "name_en": "Binh Xuyen",
+    "full_name": "Xã Bình Xuyên",
+    "full_name_en": "Binh Xuyen Commune",
+    "type": "xã",
+    "district_code": "296",
+    "codename": "binh_xuyen"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "code": "21364",
+    "name": "Chợ Chùa",
+    "name_en": "Cho Chua",
+    "full_name": "Thị trấn Chợ Chùa",
+    "full_name_en": "Cho Chua Township",
+    "type": "thị trấn",
+    "district_code": "532",
+    "codename": "cho_chua"
+  },
+  {
+    "code": "21367",
+    "name": "Hành Thuận",
+    "name_en": "Hanh Thuan",
+    "full_name": "Xã Hành Thuận",
+    "full_name_en": "Hanh Thuan Commune",
+    "type": "xã",
+    "district_code": "532",
+    "codename": "hanh_thuan"
+  },
+  {
+    "code": "21370",
+    "name": "Hành Dũng",
+    "name_en": "Hanh Dung",
+    "full_name": "Xã Hành Dũng",
+    "full_name_en": "Hanh Dung Commune",
+    "type": "xã",
+    "district_code": "532",
+    "codename": "hanh_dung"
+  },
+  {
+    "code": "21373",
+    "name": "Hành Trung",
+    "name_en": "Hanh Trung",
+    "full_name": "Xã Hành Trung",
+    "full_name_en": "Hanh Trung Commune",
+    "type": "xã",
+    "district_code": "532",
+    "codename": "hanh_trung"
+  },
+  {
+    "code": "21376",
+    "name": "Hành Nhân",
+    "name_en": "Hanh Nhan",
+    "full_name": "Xã Hành Nhân",
+    "full_name_en": "Hanh Nhan Commune",
+    "type": "xã",
+    "district_code": "532",
+    "codename": "hanh_nhan"
+  },
+  {
+    "code": "21379",
+    "name": "Hành Đức",
+    "name_en": "Hanh Duc",
+    "full_name": "Xã Hành Đức",
+    "full_name_en": "Hanh Duc Commune",
+    "type": "xã",
+    "district_code": "532",
+    "codename": "hanh_duc"
+  },
+  {
+    "code": "21382",
+    "name": "Hành Minh",
+    "name_en": "Hanh Minh",
+    "full_name": "Xã Hành Minh",
+    "full_name_en": "Hanh Minh Commune",
+    "type": "xã",
+    "district_code": "532",
+    "codename": "hanh_minh"
+  },
+  {
+    "code": "21385",
+    "name": "Hành Phước",
+    "name_en": "Hanh Phuoc",
+    "full_name": "Xã Hành Phước",
+    "full_name_en": "Hanh Phuoc Commune",
+    "type": "xã",
+    "district_code": "532",
+    "codename": "hanh_phuoc"
+  },
+  {
+    "code": "21388",
+    "name": "Hành Thiện",
+    "name_en": "Hanh Thien",
+    "full_name": "Xã Hành Thiện",
+    "full_name_en": "Hanh Thien Commune",
+    "type": "xã",
+    "district_code": "532",
+    "codename": "hanh_thien"
+  },
+  {
+    "code": "21391",
+    "name": "Hành Thịnh",
+    "name_en": "Hanh Thinh",
+    "full_name": "Xã Hành Thịnh",
+    "full_name_en": "Hanh Thinh Commune",
+    "type": "xã",
+    "district_code": "532",
+    "codename": "hanh_thinh"
+  },
+  {
+    "code": "21394",
+    "name": "Hành Tín Tây",
+    "name_en": "Hanh Tin Tay",
+    "full_name": "Xã Hành Tín Tây",
+    "full_name_en": "Hanh Tin Tay Commune",
+    "type": "xã",
+    "district_code": "532",
+    "codename": "hanh_tin_tay"
+  },
+  {
+    "code": "21397",
+    "name": "Hành Tín Đông",
+    "name_en": "Hanh Tin Dong",
+    "full_name": "Xã Hành Tín Đông",
+    "full_name_en": "Hanh Tin Dong Commune",
+    "type": "xã",
+    "district_code": "532",
+    "codename": "hanh_tin_dong"
+  }
+]

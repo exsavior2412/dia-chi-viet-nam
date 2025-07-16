@@ -1,0 +1,82 @@
+[
+  {
+    "code": "105",
+    "name": "Lai Châu",
+    "name_en": "Lai Chau",
+    "full_name": "Thành phố Lai Châu",
+    "full_name_en": "Lai Chau City",
+    "type": "thành phố",
+    "province_code": "12",
+    "codename": "lai_chau"
+  },
+  {
+    "code": "106",
+    "name": "Tam Đường",
+    "name_en": "Tam Duong",
+    "full_name": "Huyện Tam Đường",
+    "full_name_en": "Tam Duong District",
+    "type": "huyện",
+    "province_code": "12",
+    "codename": "tam_duong"
+  },
+  {
+    "code": "107",
+    "name": "Mường Tè",
+    "name_en": "Muong Te",
+    "full_name": "Huyện Mường Tè",
+    "full_name_en": "Muong Te District",
+    "type": "huyện",
+    "province_code": "12",
+    "codename": "muong_te"
+  },
+  {
+    "code": "108",
+    "name": "Sìn Hồ",
+    "name_en": "Sin Ho",
+    "full_name": "Huyện Sìn Hồ",
+    "full_name_en": "Sin Ho District",
+    "type": "huyện",
+    "province_code": "12",
+    "codename": "sin_ho"
+  },
+  {
+    "code": "109",
+    "name": "Phong Thổ",
+    "name_en": "Phong Tho",
+    "full_name": "Huyện Phong Thổ",
+    "full_name_en": "Phong Tho District",
+    "type": "huyện",
+    "province_code": "12",
+    "codename": "phong_tho"
+  },
+  {
+    "code": "110",
+    "name": "Than Uyên",
+    "name_en": "Than Uyen",
+    "full_name": "Huyện Than Uyên",
+    "full_name_en": "Than Uyen District",
+    "type": "huyện",
+    "province_code": "12",
+    "codename": "than_uyen"
+  },
+  {
+    "code": "111",
+    "name": "Tân Uyên",
+    "name_en": "Tan Uyen",
+    "full_name": "Huyện Tân Uyên",
+    "full_name_en": "Tan Uyen District",
+    "type": "huyện",
+    "province_code": "12",
+    "codename": "tan_uyen"
+  },
+  {
+    "code": "112",
+    "name": "Nậm Nhùn",
+    "name_en": "Nam Nhun",
+    "full_name": "Huyện Nậm Nhùn",
+    "full_name_en": "Nam Nhun District",
+    "type": "huyện",
+    "province_code": "12",
+    "codename": "nam_nhun"
+  }
+]

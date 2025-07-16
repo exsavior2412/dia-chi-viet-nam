@@ -1,0 +1,132 @@
+[
+  {
+    "code": "00115",
+    "name": "Thượng Thanh",
+    "name_en": "Thuong Thanh",
+    "full_name": "Phường Thượng Thanh",
+    "full_name_en": "Thuong Thanh Ward",
+    "type": "phường",
+    "district_code": "004",
+    "codename": "thuong_thanh"
+  },
+  {
+    "code": "00118",
+    "name": "Ngọc Thụy",
+    "name_en": "Ngoc Thuy",
+    "full_name": "Phường Ngọc Thụy",
+    "full_name_en": "Ngoc Thuy Ward",
+    "type": "phường",
+    "district_code": "004",
+    "codename": "ngoc_thuy"
+  },
+  {
+    "code": "00121",
+    "name": "Giang Biên",
+    "name_en": "Giang Bien",
+    "full_name": "Phường Giang Biên",
+    "full_name_en": "Giang Bien Ward",
+    "type": "phường",
+    "district_code": "004",
+    "codename": "giang_bien"
+  },
+  {
+    "code": "00124",
+    "name": "Đức Giang",
+    "name_en": "Duc Giang",
+    "full_name": "Phường Đức Giang",
+    "full_name_en": "Duc Giang Ward",
+    "type": "phường",
+    "district_code": "004",
+    "codename": "duc_giang"
+  },
+  {
+    "code": "00127",
+    "name": "Việt Hưng",
+    "name_en": "Viet Hung",
+    "full_name": "Phường Việt Hưng",
+    "full_name_en": "Viet Hung Ward",
+    "type": "phường",
+    "district_code": "004",
+    "codename": "viet_hung"
+  },
+  {
+    "code": "00130",
+    "name": "Gia Thụy",
+    "name_en": "Gia Thuy",
+    "full_name": "Phường Gia Thụy",
+    "full_name_en": "Gia Thuy Ward",
+    "type": "phường",
+    "district_code": "004",
+    "codename": "gia_thuy"
+  },
+  {
+    "code": "00133",
+    "name": "Ngọc Lâm",
+    "name_en": "Ngoc Lam",
+    "full_name": "Phường Ngọc Lâm",
+    "full_name_en": "Ngoc Lam Ward",
+    "type": "phường",
+    "district_code": "004",
+    "codename": "ngoc_lam"
+  },
+  {
+    "code": "00136",
+    "name": "Phúc Lợi",
+    "name_en": "Phuc Loi",
+    "full_name": "Phường Phúc Lợi",
+    "full_name_en": "Phuc Loi Ward",
+    "type": "phường",
+    "district_code": "004",
+    "codename": "phuc_loi"
+  },
+  {
+    "code": "00139",
+    "name": "Bồ Đề",
+    "name_en": "Bo De",
+    "full_name": "Phường Bồ Đề",
+    "full_name_en": "Bo De Ward",
+    "type": "phường",
+    "district_code": "004",
+    "codename": "bo_de"
+  },
+  {
+    "code": "00145",
+    "name": "Long Biên",
+    "name_en": "Long Bien",
+    "full_name": "Phường Long Biên",
+    "full_name_en": "Long Bien Ward",
+    "type": "phường",
+    "district_code": "004",
+    "codename": "long_bien"
+  },
+  {
+    "code": "00148",
+    "name": "Thạch Bàn",
+    "name_en": "Thach Ban",
+    "full_name": "Phường Thạch Bàn",
+    "full_name_en": "Thach Ban Ward",
+    "type": "phường",
+    "district_code": "004",
+    "codename": "thach_ban"
+  },
+  {
+    "code": "00151",
+    "name": "Phúc Đồng",
+    "name_en": "Phuc Dong",
+    "full_name": "Phường Phúc Đồng",
+    "full_name_en": "Phuc Dong Ward",
+    "type": "phường",
+    "district_code": "004",
+    "codename": "phuc_dong"
+  },
+  {
+    "code": "00154",
+    "name": "Cự Khối",
+    "name_en": "Cu Khoi",
+    "full_name": "Phường Cự Khối",
+    "full_name_en": "Cu Khoi Ward",
+    "type": "phường",
+    "district_code": "004",
+    "codename": "cu_khoi"
+  }
+]

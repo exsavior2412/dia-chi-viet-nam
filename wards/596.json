@@ -1,0 +1,182 @@
+[
+  {
+    "code": "23005",
+    "name": "Chợ Lầu",
+    "name_en": "Cho Lau",
+    "full_name": "Thị trấn Chợ Lầu",
+    "full_name_en": "Cho Lau Township",
+    "type": "thị trấn",
+    "district_code": "596",
+    "codename": "cho_lau"
+  },
+  {
+    "code": "23008",
+    "name": "Phan Sơn",
+    "name_en": "Phan Son",
+    "full_name": "Xã Phan Sơn",
+    "full_name_en": "Phan Son Commune",
+    "type": "xã",
+    "district_code": "596",
+    "codename": "phan_son"
+  },
+  {
+    "code": "23011",
+    "name": "Phan Lâm",
+    "name_en": "Phan Lam",
+    "full_name": "Xã Phan Lâm",
+    "full_name_en": "Phan Lam Commune",
+    "type": "xã",
+    "district_code": "596",
+    "codename": "phan_lam"
+  },
+  {
+    "code": "23014",
+    "name": "Bình An",
+    "name_en": "Binh An",
+    "full_name": "Xã Bình An",
+    "full_name_en": "Binh An Commune",
+    "type": "xã",
+    "district_code": "596",
+    "codename": "binh_an"
+  },
+  {
+    "code": "23017",
+    "name": "Phan Điền",
+    "name_en": "Phan Dien",
+    "full_name": "Xã Phan Điền",
+    "full_name_en": "Phan Dien Commune",
+    "type": "xã",
+    "district_code": "596",
+    "codename": "phan_dien"
+  },
+  {
+    "code": "23020",
+    "name": "Hải Ninh",
+    "name_en": "Hai Ninh",
+    "full_name": "Xã Hải Ninh",
+    "full_name_en": "Hai Ninh Commune",
+    "type": "xã",
+    "district_code": "596",
+    "codename": "hai_ninh"
+  },
+  {
+    "code": "23023",
+    "name": "Sông Lũy",
+    "name_en": "Song Luy",
+    "full_name": "Xã Sông Lũy",
+    "full_name_en": "Song Luy Commune",
+    "type": "xã",
+    "district_code": "596",
+    "codename": "song_luy"
+  },
+  {
+    "code": "23026",
+    "name": "Phan Tiến",
+    "name_en": "Phan Tien",
+    "full_name": "Xã Phan Tiến",
+    "full_name_en": "Phan Tien Commune",
+    "type": "xã",
+    "district_code": "596",
+    "codename": "phan_tien"
+  },
+  {
+    "code": "23029",
+    "name": "Sông Bình",
+    "name_en": "Song Binh",
+    "full_name": "Xã Sông Bình",
+    "full_name_en": "Song Binh Commune",
+    "type": "xã",
+    "district_code": "596",
+    "codename": "song_binh"
+  },
+  {
+    "code": "23032",
+    "name": "Lương Sơn",
+    "name_en": "Luong Son",
+    "full_name": "Thị trấn Lương Sơn",
+    "full_name_en": "Luong Son Township",
+    "type": "thị trấn",
+    "district_code": "596",
+    "codename": "luong_son"
+  },
+  {
+    "code": "23035",
+    "name": "Phan Hòa",
+    "name_en": "Phan Hoa",
+    "full_name": "Xã Phan Hòa",
+    "full_name_en": "Phan Hoa Commune",
+    "type": "xã",
+    "district_code": "596",
+    "codename": "phan_hoa"
+  },
+  {
+    "code": "23038",
+    "name": "Phan Thanh",
+    "name_en": "Phan Thanh",
+    "full_name": "Xã Phan Thanh",
+    "full_name_en": "Phan Thanh Commune",
+    "type": "xã",
+    "district_code": "596",
+    "codename": "phan_thanh"
+  },
+  {
+    "code": "23041",
+    "name": "Hồng Thái",
+    "name_en": "Hong Thai",
+    "full_name": "Xã Hồng Thái",
+    "full_name_en": "Hong Thai Commune",
+    "type": "xã",
+    "district_code": "596",
+    "codename": "hong_thai"
+  },
+  {
+    "code": "23044",
+    "name": "Phan Hiệp",
+    "name_en": "Phan Hiep",
+    "full_name": "Xã Phan Hiệp",
+    "full_name_en": "Phan Hiep Commune",
+    "type": "xã",
+    "district_code": "596",
+    "codename": "phan_hiep"
+  },
+  {
+    "code": "23047",
+    "name": "Bình Tân",
+    "name_en": "Binh Tan",
+    "full_name": "Xã Bình Tân",
+    "full_name_en": "Binh Tan Commune",
+    "type": "xã",
+    "district_code": "596",
+    "codename": "binh_tan"
+  },
+  {
+    "code": "23050",
+    "name": "Phan Rí Thành",
+    "name_en": "Phan Ri Thanh",
+    "full_name": "Xã Phan Rí Thành",
+    "full_name_en": "Phan Ri Thanh Commune",
+    "type": "xã",
+    "district_code": "596",
+    "codename": "phan_ri_thanh"
+  },
+  {
+    "code": "23053",
+    "name": "Hòa Thắng",
+    "name_en": "Hoa Thang",
+    "full_name": "Xã Hòa Thắng",
+    "full_name_en": "Hoa Thang Commune",
+    "type": "xã",
+    "district_code": "596",
+    "codename": "hoa_thang"
+  },
+  {
+    "code": "23056",
+    "name": "Hồng Phong",
+    "name_en": "Hong Phong",
+    "full_name": "Xã Hồng Phong",
+    "full_name_en": "Hong Phong Commune",
+    "type": "xã",
+    "district_code": "596",
+    "codename": "hong_phong"
+  }
+]

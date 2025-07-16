@@ -1,0 +1,142 @@
+[
+  {
+    "code": "01786",
+    "name": "Đông Khê",
+    "name_en": "Dong Khe",
+    "full_name": "Thị trấn Đông Khê",
+    "full_name_en": "Dong Khe Township",
+    "type": "thị trấn",
+    "district_code": "053",
+    "codename": "dong_khe"
+  },
+  {
+    "code": "01789",
+    "name": "Canh Tân",
+    "name_en": "Canh Tan",
+    "full_name": "Xã Canh Tân",
+    "full_name_en": "Canh Tan Commune",
+    "type": "xã",
+    "district_code": "053",
+    "codename": "canh_tan"
+  },
+  {
+    "code": "01792",
+    "name": "Kim Đồng",
+    "name_en": "Kim Dong",
+    "full_name": "Xã Kim Đồng",
+    "full_name_en": "Kim Dong Commune",
+    "type": "xã",
+    "district_code": "053",
+    "codename": "kim_dong"
+  },
+  {
+    "code": "01795",
+    "name": "Minh Khai",
+    "name_en": "Minh Khai",
+    "full_name": "Xã Minh Khai",
+    "full_name_en": "Minh Khai Commune",
+    "type": "xã",
+    "district_code": "053",
+    "codename": "minh_khai"
+  },
+  {
+    "code": "01801",
+    "name": "Đức Thông",
+    "name_en": "Duc Thong",
+    "full_name": "Xã Đức Thông",
+    "full_name_en": "Duc Thong Commune",
+    "type": "xã",
+    "district_code": "053",
+    "codename": "duc_thong"
+  },
+  {
+    "code": "01804",
+    "name": "Thái Cường",
+    "name_en": "Thai Cuong",
+    "full_name": "Xã Thái Cường",
+    "full_name_en": "Thai Cuong Commune",
+    "type": "xã",
+    "district_code": "053",
+    "codename": "thai_cuong"
+  },
+  {
+    "code": "01807",
+    "name": "Vân Trình",
+    "name_en": "Van Trinh",
+    "full_name": "Xã Vân Trình",
+    "full_name_en": "Van Trinh Commune",
+    "type": "xã",
+    "district_code": "053",
+    "codename": "van_trinh"
+  },
+  {
+    "code": "01810",
+    "name": "Thụy Hùng",
+    "name_en": "Thuy Hung",
+    "full_name": "Xã Thụy Hùng",
+    "full_name_en": "Thuy Hung Commune",
+    "type": "xã",
+    "district_code": "053",
+    "codename": "thuy_hung"
+  },
+  {
+    "code": "01813",
+    "name": "Quang Trọng",
+    "name_en": "Quang Trong",
+    "full_name": "Xã Quang Trọng",
+    "full_name_en": "Quang Trong Commune",
+    "type": "xã",
+    "district_code": "053",
+    "codename": "quang_trong"
+  },
+  {
+    "code": "01816",
+    "name": "Trọng Con",
+    "name_en": "Trong Con",
+    "full_name": "Xã Trọng Con",
+    "full_name_en": "Trong Con Commune",
+    "type": "xã",
+    "district_code": "053",
+    "codename": "trong_con"
+  },
+  {
+    "code": "01819",
+    "name": "Lê Lai",
+    "name_en": "Le Lai",
+    "full_name": "Xã Lê Lai",
+    "full_name_en": "Le Lai Commune",
+    "type": "xã",
+    "district_code": "053",
+    "codename": "le_lai"
+  },
+  {
+    "code": "01822",
+    "name": "Đức Long",
+    "name_en": "Duc Long",
+    "full_name": "Xã Đức Long",
+    "full_name_en": "Duc Long Commune",
+    "type": "xã",
+    "district_code": "053",
+    "codename": "duc_long"
+  },
+  {
+    "code": "01828",
+    "name": "Lê Lợi",
+    "name_en": "Le Loi",
+    "full_name": "Xã Lê Lợi",
+    "full_name_en": "Le Loi Commune",
+    "type": "xã",
+    "district_code": "053",
+    "codename": "le_loi"
+  },
+  {
+    "code": "01831",
+    "name": "Đức Xuân",
+    "name_en": "Duc Xuan",
+    "full_name": "Xã Đức Xuân",
+    "full_name_en": "Duc Xuan Commune",
+    "type": "xã",
+    "district_code": "053",
+    "codename": "duc_xuan"
+  }
+]

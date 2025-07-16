@@ -1,0 +1,102 @@
+[
+  {
+    "code": "20758",
+    "name": "Quế Tân",
+    "name_en": "Que Tan",
+    "full_name": "Xã Quế Tân",
+    "full_name_en": "Que Tan Commune",
+    "type": "xã",
+    "district_code": "512",
+    "codename": "que_tan"
+  },
+  {
+    "code": "20764",
+    "name": "Quế Thọ",
+    "name_en": "Que Tho",
+    "full_name": "Xã Quế Thọ",
+    "full_name_en": "Que Tho Commune",
+    "type": "xã",
+    "district_code": "512",
+    "codename": "que_tho"
+  },
+  {
+    "code": "20767",
+    "name": "Bình Lâm",
+    "name_en": "Binh Lam",
+    "full_name": "Xã Bình Lâm",
+    "full_name_en": "Binh Lam Commune",
+    "type": "xã",
+    "district_code": "512",
+    "codename": "binh_lam"
+  },
+  {
+    "code": "20770",
+    "name": "Sông Trà",
+    "name_en": "Song Tra",
+    "full_name": "Xã Sông Trà",
+    "full_name_en": "Song Tra Commune",
+    "type": "xã",
+    "district_code": "512",
+    "codename": "song_tra"
+  },
+  {
+    "code": "20773",
+    "name": "Phước Trà",
+    "name_en": "Phuoc Tra",
+    "full_name": "Xã Phước Trà",
+    "full_name_en": "Phuoc Tra Commune",
+    "type": "xã",
+    "district_code": "512",
+    "codename": "phuoc_tra"
+  },
+  {
+    "code": "20776",
+    "name": "Phước Gia",
+    "name_en": "Phuoc Gia",
+    "full_name": "Xã Phước Gia",
+    "full_name_en": "Phuoc Gia Commune",
+    "type": "xã",
+    "district_code": "512",
+    "codename": "phuoc_gia"
+  },
+  {
+    "code": "20779",
+    "name": "Tân Bình",
+    "name_en": "Tan Binh",
+    "full_name": "Thị trấn Tân Bình",
+    "full_name_en": "Tan Binh Township",
+    "type": "thị trấn",
+    "district_code": "512",
+    "codename": "tan_binh"
+  },
+  {
+    "code": "20782",
+    "name": "Quế Lưu",
+    "name_en": "Que Luu",
+    "full_name": "Xã Quế Lưu",
+    "full_name_en": "Que Luu Commune",
+    "type": "xã",
+    "district_code": "512",
+    "codename": "que_luu"
+  },
+  {
+    "code": "20785",
+    "name": "Thăng Phước",
+    "name_en": "Thang Phuoc",
+    "full_name": "Xã Thăng Phước",
+    "full_name_en": "Thang Phuoc Commune",
+    "type": "xã",
+    "district_code": "512",
+    "codename": "thang_phuoc"
+  },
+  {
+    "code": "20788",
+    "name": "Bình Sơn",
+    "name_en": "Binh Son",
+    "full_name": "Xã Bình Sơn",
+    "full_name_en": "Binh Son Commune",
+    "type": "xã",
+    "district_code": "512",
+    "codename": "binh_son"
+  }
+]

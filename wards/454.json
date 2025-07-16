@@ -1,0 +1,162 @@
+[
+  {
+    "code": "19012",
+    "name": "Quảng Hợp",
+    "name_en": "Quang Hop",
+    "full_name": "Xã Quảng Hợp",
+    "full_name_en": "Quang Hop Commune",
+    "type": "xã",
+    "district_code": "454",
+    "codename": "quang_hop"
+  },
+  {
+    "code": "19015",
+    "name": "Quảng Kim",
+    "name_en": "Quang Kim",
+    "full_name": "Xã Quảng Kim",
+    "full_name_en": "Quang Kim Commune",
+    "type": "xã",
+    "district_code": "454",
+    "codename": "quang_kim"
+  },
+  {
+    "code": "19018",
+    "name": "Quảng Đông",
+    "name_en": "Quang Dong",
+    "full_name": "Xã Quảng Đông",
+    "full_name_en": "Quang Dong Commune",
+    "type": "xã",
+    "district_code": "454",
+    "codename": "quang_dong"
+  },
+  {
+    "code": "19021",
+    "name": "Quảng Phú",
+    "name_en": "Quang Phu",
+    "full_name": "Xã Quảng Phú",
+    "full_name_en": "Quang Phu Commune",
+    "type": "xã",
+    "district_code": "454",
+    "codename": "quang_phu"
+  },
+  {
+    "code": "19024",
+    "name": "Quảng Châu",
+    "name_en": "Quang Chau",
+    "full_name": "Xã Quảng Châu",
+    "full_name_en": "Quang Chau Commune",
+    "type": "xã",
+    "district_code": "454",
+    "codename": "quang_chau"
+  },
+  {
+    "code": "19027",
+    "name": "Quảng Thạch",
+    "name_en": "Quang Thach",
+    "full_name": "Xã Quảng Thạch",
+    "full_name_en": "Quang Thach Commune",
+    "type": "xã",
+    "district_code": "454",
+    "codename": "quang_thach"
+  },
+  {
+    "code": "19030",
+    "name": "Quảng Lưu",
+    "name_en": "Quang Luu",
+    "full_name": "Xã Quảng Lưu",
+    "full_name_en": "Quang Luu Commune",
+    "type": "xã",
+    "district_code": "454",
+    "codename": "quang_luu"
+  },
+  {
+    "code": "19033",
+    "name": "Quảng Tùng",
+    "name_en": "Quang Tung",
+    "full_name": "Xã Quảng Tùng",
+    "full_name_en": "Quang Tung Commune",
+    "type": "xã",
+    "district_code": "454",
+    "codename": "quang_tung"
+  },
+  {
+    "code": "19036",
+    "name": "Cảnh Dương",
+    "name_en": "Canh Duong",
+    "full_name": "Xã Cảnh Dương",
+    "full_name_en": "Canh Duong Commune",
+    "type": "xã",
+    "district_code": "454",
+    "codename": "canh_duong"
+  },
+  {
+    "code": "19039",
+    "name": "Quảng Tiến",
+    "name_en": "Quang Tien",
+    "full_name": "Xã Quảng Tiến",
+    "full_name_en": "Quang Tien Commune",
+    "type": "xã",
+    "district_code": "454",
+    "codename": "quang_tien"
+  },
+  {
+    "code": "19042",
+    "name": "Quảng Hưng",
+    "name_en": "Quang Hung",
+    "full_name": "Xã Quảng Hưng",
+    "full_name_en": "Quang Hung Commune",
+    "type": "xã",
+    "district_code": "454",
+    "codename": "quang_hung"
+  },
+  {
+    "code": "19045",
+    "name": "Quảng Xuân",
+    "name_en": "Quang Xuan",
+    "full_name": "Xã Quảng Xuân",
+    "full_name_en": "Quang Xuan Commune",
+    "type": "xã",
+    "district_code": "454",
+    "codename": "quang_xuan"
+  },
+  {
+    "code": "19051",
+    "name": "Liên Trường",
+    "name_en": "Lien Truong",
+    "full_name": "Xã Liên Trường",
+    "full_name_en": "Lien Truong Commune",
+    "type": "xã",
+    "district_code": "454",
+    "codename": "lien_truong"
+  },
+  {
+    "code": "19057",
+    "name": "Quảng Phương",
+    "name_en": "Quang Phuong",
+    "full_name": "Xã Quảng Phương",
+    "full_name_en": "Quang Phuong Commune",
+    "type": "xã",
+    "district_code": "454",
+    "codename": "quang_phuong"
+  },
+  {
+    "code": "19063",
+    "name": "Phù Cảnh",
+    "name_en": "Phu Canh",
+    "full_name": "Xã Phù Cảnh",
+    "full_name_en": "Phu Canh Commune",
+    "type": "xã",
+    "district_code": "454",
+    "codename": "phu_canh"
+  },
+  {
+    "code": "19072",
+    "name": "Quảng Thanh",
+    "name_en": "Quang Thanh",
+    "full_name": "Xã Quảng Thanh",
+    "full_name_en": "Quang Thanh Commune",
+    "type": "xã",
+    "district_code": "454",
+    "codename": "quang_thanh"
+  }
+]

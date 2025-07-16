@@ -1,0 +1,472 @@
+[
+  {
+    "code": "14755",
+    "name": "Hàm Rồng",
+    "name_en": "Ham Rong",
+    "full_name": "Phường Hàm Rồng",
+    "full_name_en": "Ham Rong Ward",
+    "type": "phường",
+    "district_code": "380",
+    "codename": "ham_rong"
+  },
+  {
+    "code": "14758",
+    "name": "Đông Thọ",
+    "name_en": "Dong Tho",
+    "full_name": "Phường Đông Thọ",
+    "full_name_en": "Dong Tho Ward",
+    "type": "phường",
+    "district_code": "380",
+    "codename": "dong_tho"
+  },
+  {
+    "code": "14761",
+    "name": "Nam Ngạn",
+    "name_en": "Nam Ngan",
+    "full_name": "Phường Nam Ngạn",
+    "full_name_en": "Nam Ngan Ward",
+    "type": "phường",
+    "district_code": "380",
+    "codename": "nam_ngan"
+  },
+  {
+    "code": "14764",
+    "name": "Trường Thi",
+    "name_en": "Truong Thi",
+    "full_name": "Phường Trường Thi",
+    "full_name_en": "Truong Thi Ward",
+    "type": "phường",
+    "district_code": "380",
+    "codename": "truong_thi"
+  },
+  {
+    "code": "14767",
+    "name": "Điện Biên",
+    "name_en": "Dien Bien",
+    "full_name": "Phường Điện Biên",
+    "full_name_en": "Dien Bien Ward",
+    "type": "phường",
+    "district_code": "380",
+    "codename": "dien_bien"
+  },
+  {
+    "code": "14770",
+    "name": "Phú Sơn",
+    "name_en": "Phu Son",
+    "full_name": "Phường Phú Sơn",
+    "full_name_en": "Phu Son Ward",
+    "type": "phường",
+    "district_code": "380",
+    "codename": "phu_son"
+  },
+  {
+    "code": "14773",
+    "name": "Lam Sơn",
+    "name_en": "Lam Son",
+    "full_name": "Phường Lam Sơn",
+    "full_name_en": "Lam Son Ward",
+    "type": "phường",
+    "district_code": "380",
+    "codename": "lam_son"
+  },
+  {
+    "code": "14776",
+    "name": "Ba Đình",
+    "name_en": "Ba Dinh",
+    "full_name": "Phường Ba Đình",
+    "full_name_en": "Ba Dinh Ward",
+    "type": "phường",
+    "district_code": "380",
+    "codename": "ba_dinh"
+  },
+  {
+    "code": "14779",
+    "name": "Ngọc Trạo",
+    "name_en": "Ngoc Trao",
+    "full_name": "Phường Ngọc Trạo",
+    "full_name_en": "Ngoc Trao Ward",
+    "type": "phường",
+    "district_code": "380",
+    "codename": "ngoc_trao"
+  },
+  {
+    "code": "14782",
+    "name": "Đông Vệ",
+    "name_en": "Dong Ve",
+    "full_name": "Phường Đông Vệ",
+    "full_name_en": "Dong Ve Ward",
+    "type": "phường",
+    "district_code": "380",
+    "codename": "dong_ve"
+  },
+  {
+    "code": "14785",
+    "name": "Đông Sơn",
+    "name_en": "Dong Son",
+    "full_name": "Phường Đông Sơn",
+    "full_name_en": "Dong Son Ward",
+    "type": "phường",
+    "district_code": "380",
+    "codename": "dong_son"
+  },
+  {
+    "code": "14791",
+    "name": "Đông Cương",
+    "name_en": "Dong Cuong",
+    "full_name": "Phường Đông Cương",
+    "full_name_en": "Dong Cuong Ward",
+    "type": "phường",
+    "district_code": "380",
+    "codename": "dong_cuong"
+  },
+  {
+    "code": "14794",
+    "name": "Đông Hương",
+    "name_en": "Dong Huong",
+    "full_name": "Phường Đông Hương",
+    "full_name_en": "Dong Huong Ward",
+    "type": "phường",
+    "district_code": "380",
+    "codename": "dong_huong"
+  },
+  {
+    "code": "14797",
+    "name": "Đông Hải",
+    "name_en": "Dong Hai",
+    "full_name": "Phường Đông Hải",
+    "full_name_en": "Dong Hai Ward",
+    "type": "phường",
+    "district_code": "380",
+    "codename": "dong_hai"
+  },
+  {
+    "code": "14800",
+    "name": "Quảng Hưng",
+    "name_en": "Quang Hung",
+    "full_name": "Phường Quảng Hưng",
+    "full_name_en": "Quang Hung Ward",
+    "type": "phường",
+    "district_code": "380",
+    "codename": "quang_hung"
+  },
+  {
+    "code": "14803",
+    "name": "Quảng Thắng",
+    "name_en": "Quang Thang",
+    "full_name": "Phường Quảng Thắng",
+    "full_name_en": "Quang Thang Ward",
+    "type": "phường",
+    "district_code": "380",
+    "codename": "quang_thang"
+  },
+  {
+    "code": "14806",
+    "name": "Quảng Thành",
+    "name_en": "Quang Thanh",
+    "full_name": "Phường Quảng Thành",
+    "full_name_en": "Quang Thanh Ward",
+    "type": "phường",
+    "district_code": "380",
+    "codename": "quang_thanh"
+  },
+  {
+    "code": "15850",
+    "name": "Thiệu Vân",
+    "name_en": "Thieu Van",
+    "full_name": "Xã Thiệu Vân",
+    "full_name_en": "Thieu Van Commune",
+    "type": "xã",
+    "district_code": "380",
+    "codename": "thieu_van"
+  },
+  {
+    "code": "15856",
+    "name": "Thiệu Khánh",
+    "name_en": "Thieu Khanh",
+    "full_name": "Phường Thiệu Khánh",
+    "full_name_en": "Thieu Khanh Ward",
+    "type": "phường",
+    "district_code": "380",
+    "codename": "thieu_khanh"
+  },
+  {
+    "code": "15859",
+    "name": "Thiệu Dương",
+    "name_en": "Thieu Duong",
+    "full_name": "Phường Thiệu Dương",
+    "full_name_en": "Thieu Duong Ward",
+    "type": "phường",
+    "district_code": "380",
+    "codename": "thieu_duong"
+  },
+  {
+    "code": "15913",
+    "name": "Tào Xuyên",
+    "name_en": "Tao Xuyen",
+    "full_name": "Phường Tào Xuyên",
+    "full_name_en": "Tao Xuyen Ward",
+    "type": "phường",
+    "district_code": "380",
+    "codename": "tao_xuyen"
+  },
+  {
+    "code": "15922",
+    "name": "Long Anh",
+    "name_en": "Long Anh",
+    "full_name": "Phường Long Anh",
+    "full_name_en": "Long Anh Ward",
+    "type": "phường",
+    "district_code": "380",
+    "codename": "long_anh"
+  },
+  {
+    "code": "15925",
+    "name": "Hoằng Quang",
+    "name_en": "Hoang Quang",
+    "full_name": "Phường Hoằng Quang",
+    "full_name_en": "Hoang Quang Ward",
+    "type": "phường",
+    "district_code": "380",
+    "codename": "hoang_quang"
+  },
+  {
+    "code": "15970",
+    "name": "Hoằng Đại",
+    "name_en": "Hoang Dai",
+    "full_name": "Phường Hoằng Đại",
+    "full_name_en": "Hoang Dai Ward",
+    "type": "phường",
+    "district_code": "380",
+    "codename": "hoang_dai"
+  },
+  {
+    "code": "16378",
+    "name": "Rừng Thông",
+    "name_en": "Rung Thong",
+    "full_name": "Phường Rừng Thông",
+    "full_name_en": "Rung Thong Ward",
+    "type": "phường",
+    "district_code": "380",
+    "codename": "rung_thong"
+  },
+  {
+    "code": "16381",
+    "name": "Đông Hoàng",
+    "name_en": "Dong Hoang",
+    "full_name": "Xã Đông Hoàng",
+    "full_name_en": "Dong Hoang Commune",
+    "type": "xã",
+    "district_code": "380",
+    "codename": "dong_hoang"
+  },
+  {
+    "code": "16384",
+    "name": "Đông Ninh",
+    "name_en": "Dong Ninh",
+    "full_name": "Xã Đông Ninh",
+    "full_name_en": "Dong Ninh Commune",
+    "type": "xã",
+    "district_code": "380",
+    "codename": "dong_ninh"
+  },
+  {
+    "code": "16390",
+    "name": "Đông Hòa",
+    "name_en": "Dong Hoa",
+    "full_name": "Xã Đông Hòa",
+    "full_name_en": "Dong Hoa Commune",
+    "type": "xã",
+    "district_code": "380",
+    "codename": "dong_hoa"
+  },
+  {
+    "code": "16393",
+    "name": "Đông Yên",
+    "name_en": "Dong Yen",
+    "full_name": "Xã Đông Yên",
+    "full_name_en": "Dong Yen Commune",
+    "type": "xã",
+    "district_code": "380",
+    "codename": "dong_yen"
+  },
+  {
+    "code": "16396",
+    "name": "Đông Lĩnh",
+    "name_en": "Dong Linh",
+    "full_name": "Phường Đông Lĩnh",
+    "full_name_en": "Dong Linh Ward",
+    "type": "phường",
+    "district_code": "380",
+    "codename": "dong_linh"
+  },
+  {
+    "code": "16399",
+    "name": "Đông Minh",
+    "name_en": "Dong Minh",
+    "full_name": "Xã Đông Minh",
+    "full_name_en": "Dong Minh Commune",
+    "type": "xã",
+    "district_code": "380",
+    "codename": "dong_minh"
+  },
+  {
+    "code": "16402",
+    "name": "Đông Thanh",
+    "name_en": "Dong Thanh",
+    "full_name": "Xã Đông Thanh",
+    "full_name_en": "Dong Thanh Commune",
+    "type": "xã",
+    "district_code": "380",
+    "codename": "dong_thanh"
+  },
+  {
+    "code": "16405",
+    "name": "Đông Tiến",
+    "name_en": "Dong Tien",
+    "full_name": "Xã Đông Tiến",
+    "full_name_en": "Dong Tien Commune",
+    "type": "xã",
+    "district_code": "380",
+    "codename": "dong_tien"
+  },
+  {
+    "code": "16408",
+    "name": "Đông Khê",
+    "name_en": "Dong Khe",
+    "full_name": "Xã Đông Khê",
+    "full_name_en": "Dong Khe Commune",
+    "type": "xã",
+    "district_code": "380",
+    "codename": "dong_khe"
+  },
+  {
+    "code": "16414",
+    "name": "Đông Thịnh",
+    "name_en": "Dong Thinh",
+    "full_name": "Phường Đông Thịnh",
+    "full_name_en": "Dong Thinh Ward",
+    "type": "phường",
+    "district_code": "380",
+    "codename": "dong_thinh"
+  },
+  {
+    "code": "16417",
+    "name": "Đông Văn",
+    "name_en": "Dong Van",
+    "full_name": "Xã Đông Văn",
+    "full_name_en": "Dong Van Commune",
+    "type": "xã",
+    "district_code": "380",
+    "codename": "dong_van"
+  },
+  {
+    "code": "16420",
+    "name": "Đông Phú",
+    "name_en": "Dong Phu",
+    "full_name": "Xã Đông Phú",
+    "full_name_en": "Dong Phu Commune",
+    "type": "xã",
+    "district_code": "380",
+    "codename": "dong_phu"
+  },
+  {
+    "code": "16423",
+    "name": "Đông Nam",
+    "name_en": "Dong Nam",
+    "full_name": "Xã Đông Nam",
+    "full_name_en": "Dong Nam Commune",
+    "type": "xã",
+    "district_code": "380",
+    "codename": "dong_nam"
+  },
+  {
+    "code": "16426",
+    "name": "Đông Quang",
+    "name_en": "Dong Quang",
+    "full_name": "Xã Đông Quang",
+    "full_name_en": "Dong Quang Commune",
+    "type": "xã",
+    "district_code": "380",
+    "codename": "dong_quang"
+  },
+  {
+    "code": "16429",
+    "name": "Đông Vinh",
+    "name_en": "Dong Vinh",
+    "full_name": "Xã Đông Vinh",
+    "full_name_en": "Dong Vinh Commune",
+    "type": "xã",
+    "district_code": "380",
+    "codename": "dong_vinh"
+  },
+  {
+    "code": "16432",
+    "name": "Đông Tân",
+    "name_en": "Dong Tan",
+    "full_name": "Phường Đông Tân",
+    "full_name_en": "Dong Tan Ward",
+    "type": "phường",
+    "district_code": "380",
+    "codename": "dong_tan"
+  },
+  {
+    "code": "16435",
+    "name": "An Hưng",
+    "name_en": "An Hung",
+    "full_name": "Phường An Hưng",
+    "full_name_en": "An Hung Ward",
+    "type": "phường",
+    "district_code": "380",
+    "codename": "an_hung"
+  },
+  {
+    "code": "16441",
+    "name": "Quảng Thịnh",
+    "name_en": "Quang Thinh",
+    "full_name": "Phường Quảng Thịnh",
+    "full_name_en": "Quang Thinh Ward",
+    "type": "phường",
+    "district_code": "380",
+    "codename": "quang_thinh"
+  },
+  {
+    "code": "16459",
+    "name": "Quảng Đông",
+    "name_en": "Quang Dong",
+    "full_name": "Phường Quảng Đông",
+    "full_name_en": "Quang Dong Ward",
+    "type": "phường",
+    "district_code": "380",
+    "codename": "quang_dong"
+  },
+  {
+    "code": "16507",
+    "name": "Quảng Cát",
+    "name_en": "Quang Cat",
+    "full_name": "Phường Quảng Cát",
+    "full_name_en": "Quang Cat Ward",
+    "type": "phường",
+    "district_code": "380",
+    "codename": "quang_cat"
+  },
+  {
+    "code": "16522",
+    "name": "Quảng Phú",
+    "name_en": "Quang Phu",
+    "full_name": "Phường Quảng Phú",
+    "full_name_en": "Quang Phu Ward",
+    "type": "phường",
+    "district_code": "380",
+    "codename": "quang_phu"
+  },
+  {
+    "code": "16525",
+    "name": "Quảng Tâm",
+    "name_en": "Quang Tam",
+    "full_name": "Phường Quảng Tâm",
+    "full_name_en": "Quang Tam Ward",
+    "type": "phường",
+    "district_code": "380",
+    "codename": "quang_tam"
+  }
+]

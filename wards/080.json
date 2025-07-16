@@ -1,0 +1,172 @@
+[
+  {
+    "code": "02635",
+    "name": "Duyên Hải",
+    "name_en": "Duyen Hai",
+    "full_name": "Phường Duyên Hải",
+    "full_name_en": "Duyen Hai Ward",
+    "type": "phường",
+    "district_code": "080",
+    "codename": "duyen_hai"
+  },
+  {
+    "code": "02641",
+    "name": "Lào Cai",
+    "name_en": "Lao Cai",
+    "full_name": "Phường Lào Cai",
+    "full_name_en": "Lao Cai Ward",
+    "type": "phường",
+    "district_code": "080",
+    "codename": "lao_cai"
+  },
+  {
+    "code": "02644",
+    "name": "Cốc Lếu",
+    "name_en": "Coc Leu",
+    "full_name": "Phường Cốc Lếu",
+    "full_name_en": "Coc Leu Ward",
+    "type": "phường",
+    "district_code": "080",
+    "codename": "coc_leu"
+  },
+  {
+    "code": "02647",
+    "name": "Kim Tân",
+    "name_en": "Kim Tan",
+    "full_name": "Phường Kim Tân",
+    "full_name_en": "Kim Tan Ward",
+    "type": "phường",
+    "district_code": "080",
+    "codename": "kim_tan"
+  },
+  {
+    "code": "02650",
+    "name": "Bắc Lệnh",
+    "name_en": "Bac Lenh",
+    "full_name": "Phường Bắc Lệnh",
+    "full_name_en": "Bac Lenh Ward",
+    "type": "phường",
+    "district_code": "080",
+    "codename": "bac_lenh"
+  },
+  {
+    "code": "02653",
+    "name": "Pom Hán",
+    "name_en": "Pom Han",
+    "full_name": "Phường Pom Hán",
+    "full_name_en": "Pom Han Ward",
+    "type": "phường",
+    "district_code": "080",
+    "codename": "pom_han"
+  },
+  {
+    "code": "02656",
+    "name": "Xuân Tăng",
+    "name_en": "Xuan Tang",
+    "full_name": "Phường Xuân Tăng",
+    "full_name_en": "Xuan Tang Ward",
+    "type": "phường",
+    "district_code": "080",
+    "codename": "xuan_tang"
+  },
+  {
+    "code": "02658",
+    "name": "Bình Minh",
+    "name_en": "Binh Minh",
+    "full_name": "Phường Bình Minh",
+    "full_name_en": "Binh Minh Ward",
+    "type": "phường",
+    "district_code": "080",
+    "codename": "binh_minh"
+  },
+  {
+    "code": "02659",
+    "name": "Thống Nhất",
+    "name_en": "Thong Nhat",
+    "full_name": "Xã Thống Nhất",
+    "full_name_en": "Thong Nhat Commune",
+    "type": "xã",
+    "district_code": "080",
+    "codename": "thong_nhat"
+  },
+  {
+    "code": "02662",
+    "name": "Đồng Tuyển",
+    "name_en": "Dong Tuyen",
+    "full_name": "Xã Đồng Tuyển",
+    "full_name_en": "Dong Tuyen Commune",
+    "type": "xã",
+    "district_code": "080",
+    "codename": "dong_tuyen"
+  },
+  {
+    "code": "02665",
+    "name": "Vạn Hoà",
+    "name_en": "Van Hoa",
+    "full_name": "Xã Vạn Hoà",
+    "full_name_en": "Van Hoa Commune",
+    "type": "xã",
+    "district_code": "080",
+    "codename": "van_hoa"
+  },
+  {
+    "code": "02668",
+    "name": "Bắc Cường",
+    "name_en": "Bac Cuong",
+    "full_name": "Phường Bắc Cường",
+    "full_name_en": "Bac Cuong Ward",
+    "type": "phường",
+    "district_code": "080",
+    "codename": "bac_cuong"
+  },
+  {
+    "code": "02671",
+    "name": "Nam Cường",
+    "name_en": "Nam Cuong",
+    "full_name": "Phường Nam Cường",
+    "full_name_en": "Nam Cuong Ward",
+    "type": "phường",
+    "district_code": "080",
+    "codename": "nam_cuong"
+  },
+  {
+    "code": "02674",
+    "name": "Cam Đường",
+    "name_en": "Cam Duong",
+    "full_name": "Xã Cam Đường",
+    "full_name_en": "Cam Duong Commune",
+    "type": "xã",
+    "district_code": "080",
+    "codename": "cam_duong"
+  },
+  {
+    "code": "02677",
+    "name": "Tả Phời",
+    "name_en": "Ta Phoi",
+    "full_name": "Xã Tả Phời",
+    "full_name_en": "Ta Phoi Commune",
+    "type": "xã",
+    "district_code": "080",
+    "codename": "ta_phoi"
+  },
+  {
+    "code": "02680",
+    "name": "Hợp Thành",
+    "name_en": "Hop Thanh",
+    "full_name": "Xã Hợp Thành",
+    "full_name_en": "Hop Thanh Commune",
+    "type": "xã",
+    "district_code": "080",
+    "codename": "hop_thanh"
+  },
+  {
+    "code": "02746",
+    "name": "Cốc San",
+    "name_en": "Coc San",
+    "full_name": "Xã Cốc San",
+    "full_name_en": "Coc San Commune",
+    "type": "xã",
+    "district_code": "080",
+    "codename": "coc_san"
+  }
+]

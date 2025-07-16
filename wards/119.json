@@ -1,0 +1,282 @@
+[
+  {
+    "code": "03721",
+    "name": "Thuận Châu",
+    "name_en": "Thuan Chau",
+    "full_name": "Thị trấn Thuận Châu",
+    "full_name_en": "Thuan Chau Township",
+    "type": "thị trấn",
+    "district_code": "119",
+    "codename": "thuan_chau"
+  },
+  {
+    "code": "03724",
+    "name": "Phổng Lái",
+    "name_en": "Phong Lai",
+    "full_name": "Xã Phổng Lái",
+    "full_name_en": "Phong Lai Commune",
+    "type": "xã",
+    "district_code": "119",
+    "codename": "phong_lai"
+  },
+  {
+    "code": "03727",
+    "name": "Mường é",
+    "name_en": "Muong e",
+    "full_name": "Xã Mường é",
+    "full_name_en": "Muong e Commune",
+    "type": "xã",
+    "district_code": "119",
+    "codename": "muong_e"
+  },
+  {
+    "code": "03730",
+    "name": "Chiềng Pha",
+    "name_en": "Chieng Pha",
+    "full_name": "Xã Chiềng Pha",
+    "full_name_en": "Chieng Pha Commune",
+    "type": "xã",
+    "district_code": "119",
+    "codename": "chieng_pha"
+  },
+  {
+    "code": "03733",
+    "name": "Chiềng La",
+    "name_en": "Chieng La",
+    "full_name": "Xã Chiềng La",
+    "full_name_en": "Chieng La Commune",
+    "type": "xã",
+    "district_code": "119",
+    "codename": "chieng_la"
+  },
+  {
+    "code": "03736",
+    "name": "Chiềng Ngàm",
+    "name_en": "Chieng Ngam",
+    "full_name": "Xã Chiềng Ngàm",
+    "full_name_en": "Chieng Ngam Commune",
+    "type": "xã",
+    "district_code": "119",
+    "codename": "chieng_ngam"
+  },
+  {
+    "code": "03739",
+    "name": "Liệp Tè",
+    "name_en": "Liep Te",
+    "full_name": "Xã Liệp Tè",
+    "full_name_en": "Liep Te Commune",
+    "type": "xã",
+    "district_code": "119",
+    "codename": "liep_te"
+  },
+  {
+    "code": "03742",
+    "name": "é Tòng",
+    "name_en": "e Tong",
+    "full_name": "Xã é Tòng",
+    "full_name_en": "e Tong Commune",
+    "type": "xã",
+    "district_code": "119",
+    "codename": "e_tong"
+  },
+  {
+    "code": "03745",
+    "name": "Phổng Lập",
+    "name_en": "Phong Lap",
+    "full_name": "Xã Phổng Lập",
+    "full_name_en": "Phong Lap Commune",
+    "type": "xã",
+    "district_code": "119",
+    "codename": "phong_lap"
+  },
+  {
+    "code": "03748",
+    "name": "Phổng Ly",
+    "name_en": "Phong Ly",
+    "full_name": "Xã Phổng Ly",
+    "full_name_en": "Phong Ly Commune",
+    "type": "xã",
+    "district_code": "119",
+    "codename": "phong_ly"
+  },
+  {
+    "code": "03754",
+    "name": "Noong Lay",
+    "name_en": "Noong Lay",
+    "full_name": "Xã Noong Lay",
+    "full_name_en": "Noong Lay Commune",
+    "type": "xã",
+    "district_code": "119",
+    "codename": "noong_lay"
+  },
+  {
+    "code": "03757",
+    "name": "Mường Khiêng",
+    "name_en": "Muong Khieng",
+    "full_name": "Xã Mường Khiêng",
+    "full_name_en": "Muong Khieng Commune",
+    "type": "xã",
+    "district_code": "119",
+    "codename": "muong_khieng"
+  },
+  {
+    "code": "03760",
+    "name": "Mường Bám",
+    "name_en": "Muong Bam",
+    "full_name": "Xã Mường Bám",
+    "full_name_en": "Muong Bam Commune",
+    "type": "xã",
+    "district_code": "119",
+    "codename": "muong_bam"
+  },
+  {
+    "code": "03763",
+    "name": "Long Hẹ",
+    "name_en": "Long He",
+    "full_name": "Xã Long Hẹ",
+    "full_name_en": "Long He Commune",
+    "type": "xã",
+    "district_code": "119",
+    "codename": "long_he"
+  },
+  {
+    "code": "03766",
+    "name": "Chiềng Bôm",
+    "name_en": "Chieng Bom",
+    "full_name": "Xã Chiềng Bôm",
+    "full_name_en": "Chieng Bom Commune",
+    "type": "xã",
+    "district_code": "119",
+    "codename": "chieng_bom"
+  },
+  {
+    "code": "03769",
+    "name": "Thôm Mòn",
+    "name_en": "Thom Mon",
+    "full_name": "Xã Thôm Mòn",
+    "full_name_en": "Thom Mon Commune",
+    "type": "xã",
+    "district_code": "119",
+    "codename": "thom_mon"
+  },
+  {
+    "code": "03772",
+    "name": "Tông Lạnh",
+    "name_en": "Tong Lanh",
+    "full_name": "Xã Tông Lạnh",
+    "full_name_en": "Tong Lanh Commune",
+    "type": "xã",
+    "district_code": "119",
+    "codename": "tong_lanh"
+  },
+  {
+    "code": "03775",
+    "name": "Tông Cọ",
+    "name_en": "Tong Co",
+    "full_name": "Xã Tông Cọ",
+    "full_name_en": "Tong Co Commune",
+    "type": "xã",
+    "district_code": "119",
+    "codename": "tong_co"
+  },
+  {
+    "code": "03778",
+    "name": "Bó Mười",
+    "name_en": "Bo Muoi",
+    "full_name": "Xã Bó Mười",
+    "full_name_en": "Bo Muoi Commune",
+    "type": "xã",
+    "district_code": "119",
+    "codename": "bo_muoi"
+  },
+  {
+    "code": "03781",
+    "name": "Co Mạ",
+    "name_en": "Co Ma",
+    "full_name": "Xã Co Mạ",
+    "full_name_en": "Co Ma Commune",
+    "type": "xã",
+    "district_code": "119",
+    "codename": "co_ma"
+  },
+  {
+    "code": "03784",
+    "name": "Púng Tra",
+    "name_en": "Pung Tra",
+    "full_name": "Xã Púng Tra",
+    "full_name_en": "Pung Tra Commune",
+    "type": "xã",
+    "district_code": "119",
+    "codename": "pung_tra"
+  },
+  {
+    "code": "03787",
+    "name": "Chiềng Pấc",
+    "name_en": "Chieng Pac",
+    "full_name": "Xã Chiềng Pấc",
+    "full_name_en": "Chieng Pac Commune",
+    "type": "xã",
+    "district_code": "119",
+    "codename": "chieng_pac"
+  },
+  {
+    "code": "03790",
+    "name": "Nậm Lầu",
+    "name_en": "Nam Lau",
+    "full_name": "Xã Nậm Lầu",
+    "full_name_en": "Nam Lau Commune",
+    "type": "xã",
+    "district_code": "119",
+    "codename": "nam_lau"
+  },
+  {
+    "code": "03793",
+    "name": "Bon Phặng",
+    "name_en": "Bon Phang",
+    "full_name": "Xã Bon Phặng",
+    "full_name_en": "Bon Phang Commune",
+    "type": "xã",
+    "district_code": "119",
+    "codename": "bon_phang"
+  },
+  {
+    "code": "03796",
+    "name": "Co Tòng",
+    "name_en": "Co Tong",
+    "full_name": "Xã Co Tòng",
+    "full_name_en": "Co Tong Commune",
+    "type": "xã",
+    "district_code": "119",
+    "codename": "co_tong"
+  },
+  {
+    "code": "03799",
+    "name": "Muổi Nọi",
+    "name_en": "Muoi Noi",
+    "full_name": "Xã Muổi Nọi",
+    "full_name_en": "Muoi Noi Commune",
+    "type": "xã",
+    "district_code": "119",
+    "codename": "muoi_noi"
+  },
+  {
+    "code": "03802",
+    "name": "Pá Lông",
+    "name_en": "Pa Long",
+    "full_name": "Xã Pá Lông",
+    "full_name_en": "Pa Long Commune",
+    "type": "xã",
+    "district_code": "119",
+    "codename": "pa_long"
+  },
+  {
+    "code": "03805",
+    "name": "Bản Lầm",
+    "name_en": "Ban Lam",
+    "full_name": "Xã Bản Lầm",
+    "full_name_en": "Ban Lam Commune",
+    "type": "xã",
+    "district_code": "119",
+    "codename": "ban_lam"
+  }
+]

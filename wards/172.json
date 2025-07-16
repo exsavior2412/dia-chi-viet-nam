@@ -1,0 +1,182 @@
+[
+  {
+    "code": "05854",
+    "name": "Bãi Bông",
+    "name_en": "Bai Bong",
+    "full_name": "Phường Bãi Bông",
+    "full_name_en": "Bai Bong Ward",
+    "type": "phường",
+    "district_code": "172",
+    "codename": "bai_bong"
+  },
+  {
+    "code": "05857",
+    "name": "Bắc Sơn",
+    "name_en": "Bac Son",
+    "full_name": "Phường Bắc Sơn",
+    "full_name_en": "Bac Son Ward",
+    "type": "phường",
+    "district_code": "172",
+    "codename": "bac_son"
+  },
+  {
+    "code": "05860",
+    "name": "Ba Hàng",
+    "name_en": "Ba Hang",
+    "full_name": "Phường Ba Hàng",
+    "full_name_en": "Ba Hang Ward",
+    "type": "phường",
+    "district_code": "172",
+    "codename": "ba_hang"
+  },
+  {
+    "code": "05863",
+    "name": "Phúc Tân",
+    "name_en": "Phuc Tan",
+    "full_name": "Xã Phúc Tân",
+    "full_name_en": "Phuc Tan Commune",
+    "type": "xã",
+    "district_code": "172",
+    "codename": "phuc_tan"
+  },
+  {
+    "code": "05866",
+    "name": "Phúc Thuận",
+    "name_en": "Phuc Thuan",
+    "full_name": "Xã Phúc Thuận",
+    "full_name_en": "Phuc Thuan Commune",
+    "type": "xã",
+    "district_code": "172",
+    "codename": "phuc_thuan"
+  },
+  {
+    "code": "05869",
+    "name": "Hồng Tiến",
+    "name_en": "Hong Tien",
+    "full_name": "Phường Hồng Tiến",
+    "full_name_en": "Hong Tien Ward",
+    "type": "phường",
+    "district_code": "172",
+    "codename": "hong_tien"
+  },
+  {
+    "code": "05872",
+    "name": "Minh Đức",
+    "name_en": "Minh Duc",
+    "full_name": "Xã Minh Đức",
+    "full_name_en": "Minh Duc Commune",
+    "type": "xã",
+    "district_code": "172",
+    "codename": "minh_duc"
+  },
+  {
+    "code": "05875",
+    "name": "Đắc Sơn",
+    "name_en": "Dac Son",
+    "full_name": "Phường Đắc Sơn",
+    "full_name_en": "Dac Son Ward",
+    "type": "phường",
+    "district_code": "172",
+    "codename": "dac_son"
+  },
+  {
+    "code": "05878",
+    "name": "Đồng Tiến",
+    "name_en": "Dong Tien",
+    "full_name": "Phường Đồng Tiến",
+    "full_name_en": "Dong Tien Ward",
+    "type": "phường",
+    "district_code": "172",
+    "codename": "dong_tien"
+  },
+  {
+    "code": "05881",
+    "name": "Thành Công",
+    "name_en": "Thanh Cong",
+    "full_name": "Xã Thành Công",
+    "full_name_en": "Thanh Cong Commune",
+    "type": "xã",
+    "district_code": "172",
+    "codename": "thanh_cong"
+  },
+  {
+    "code": "05884",
+    "name": "Tiên Phong",
+    "name_en": "Tien Phong",
+    "full_name": "Phường Tiên Phong",
+    "full_name_en": "Tien Phong Ward",
+    "type": "phường",
+    "district_code": "172",
+    "codename": "tien_phong"
+  },
+  {
+    "code": "05887",
+    "name": "Vạn Phái",
+    "name_en": "Van Phai",
+    "full_name": "Xã Vạn Phái",
+    "full_name_en": "Van Phai Commune",
+    "type": "xã",
+    "district_code": "172",
+    "codename": "van_phai"
+  },
+  {
+    "code": "05890",
+    "name": "Nam Tiến",
+    "name_en": "Nam Tien",
+    "full_name": "Phường Nam Tiến",
+    "full_name_en": "Nam Tien Ward",
+    "type": "phường",
+    "district_code": "172",
+    "codename": "nam_tien"
+  },
+  {
+    "code": "05893",
+    "name": "Tân Hương",
+    "name_en": "Tan Huong",
+    "full_name": "Phường Tân Hương",
+    "full_name_en": "Tan Huong Ward",
+    "type": "phường",
+    "district_code": "172",
+    "codename": "tan_huong"
+  },
+  {
+    "code": "05896",
+    "name": "Đông Cao",
+    "name_en": "Dong Cao",
+    "full_name": "Phường Đông Cao",
+    "full_name_en": "Dong Cao Ward",
+    "type": "phường",
+    "district_code": "172",
+    "codename": "dong_cao"
+  },
+  {
+    "code": "05899",
+    "name": "Trung Thành",
+    "name_en": "Trung Thanh",
+    "full_name": "Phường Trung Thành",
+    "full_name_en": "Trung Thanh Ward",
+    "type": "phường",
+    "district_code": "172",
+    "codename": "trung_thanh"
+  },
+  {
+    "code": "05902",
+    "name": "Tân Phú",
+    "name_en": "Tan Phu",
+    "full_name": "Phường Tân Phú",
+    "full_name_en": "Tan Phu Ward",
+    "type": "phường",
+    "district_code": "172",
+    "codename": "tan_phu"
+  },
+  {
+    "code": "05905",
+    "name": "Thuận Thành",
+    "name_en": "Thuan Thanh",
+    "full_name": "Phường Thuận Thành",
+    "full_name_en": "Thuan Thanh Ward",
+    "type": "phường",
+    "district_code": "172",
+    "codename": "thuan_thanh"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "code": "07525",
+    "name": "Chũ",
+    "name_en": "Chu",
+    "full_name": "Phường Chũ",
+    "full_name_en": "Chu Ward",
+    "type": "phường",
+    "district_code": "224",
+    "codename": "chu"
+  },
+  {
+    "code": "07549",
+    "name": "Thanh Hải",
+    "name_en": "Thanh Hai",
+    "full_name": "Phường Thanh Hải",
+    "full_name_en": "Thanh Hai Ward",
+    "type": "phường",
+    "district_code": "224",
+    "codename": "thanh_hai"
+  },
+  {
+    "code": "07552",
+    "name": "Kiên Lao",
+    "name_en": "Kien Lao",
+    "full_name": "Xã Kiên Lao",
+    "full_name_en": "Kien Lao Commune",
+    "type": "xã",
+    "district_code": "224",
+    "codename": "kien_lao"
+  },
+  {
+    "code": "07558",
+    "name": "Kiên Thành",
+    "name_en": "Kien Thanh",
+    "full_name": "Xã Kiên Thành",
+    "full_name_en": "Kien Thanh Commune",
+    "type": "xã",
+    "district_code": "224",
+    "codename": "kien_thanh"
+  },
+  {
+    "code": "07561",
+    "name": "Hồng Giang",
+    "name_en": "Hong Giang",
+    "full_name": "Phường Hồng Giang",
+    "full_name_en": "Hong Giang Ward",
+    "type": "phường",
+    "district_code": "224",
+    "codename": "hong_giang"
+  },
+  {
+    "code": "07576",
+    "name": "Quý Sơn",
+    "name_en": "Quy Son",
+    "full_name": "Xã Quý Sơn",
+    "full_name_en": "Quy Son Commune",
+    "type": "xã",
+    "district_code": "224",
+    "codename": "quy_son"
+  },
+  {
+    "code": "07579",
+    "name": "Trù Hựu",
+    "name_en": "Tru Huu",
+    "full_name": "Phường Trù Hựu",
+    "full_name_en": "Tru Huu Ward",
+    "type": "phường",
+    "district_code": "224",
+    "codename": "tru_huu"
+  },
+  {
+    "code": "07600",
+    "name": "Mỹ An",
+    "name_en": "My An",
+    "full_name": "Xã Mỹ An",
+    "full_name_en": "My An Commune",
+    "type": "xã",
+    "district_code": "224",
+    "codename": "my_an"
+  },
+  {
+    "code": "07603",
+    "name": "Nam Dương",
+    "name_en": "Nam Duong",
+    "full_name": "Xã Nam Dương",
+    "full_name_en": "Nam Duong Commune",
+    "type": "xã",
+    "district_code": "224",
+    "codename": "nam_duong"
+  },
+  {
+    "code": "07612",
+    "name": "Phượng Sơn",
+    "name_en": "Phuong Son",
+    "full_name": "Phường Phượng Sơn",
+    "full_name_en": "Phuong Son Ward",
+    "type": "phường",
+    "district_code": "224",
+    "codename": "phuong_son"
+  }
+]

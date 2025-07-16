@@ -1,0 +1,132 @@
+[
+  {
+    "code": "30169",
+    "name": "Lấp Vò",
+    "name_en": "Lap Vo",
+    "full_name": "Thị trấn Lấp Vò",
+    "full_name_en": "Lap Vo Township",
+    "type": "thị trấn",
+    "district_code": "875",
+    "codename": "lap_vo"
+  },
+  {
+    "code": "30172",
+    "name": "Mỹ An Hưng A",
+    "name_en": "My An Hung A",
+    "full_name": "Xã Mỹ An Hưng A",
+    "full_name_en": "My An Hung A Commune",
+    "type": "xã",
+    "district_code": "875",
+    "codename": "my_an_hung_a"
+  },
+  {
+    "code": "30175",
+    "name": "Tân Mỹ",
+    "name_en": "Tan My",
+    "full_name": "Xã Tân Mỹ",
+    "full_name_en": "Tan My Commune",
+    "type": "xã",
+    "district_code": "875",
+    "codename": "tan_my"
+  },
+  {
+    "code": "30178",
+    "name": "Mỹ An Hưng B",
+    "name_en": "My An Hung B",
+    "full_name": "Xã Mỹ An Hưng B",
+    "full_name_en": "My An Hung B Commune",
+    "type": "xã",
+    "district_code": "875",
+    "codename": "my_an_hung_b"
+  },
+  {
+    "code": "30181",
+    "name": "Tân Khánh Trung",
+    "name_en": "Tan Khanh Trung",
+    "full_name": "Xã Tân Khánh Trung",
+    "full_name_en": "Tan Khanh Trung Commune",
+    "type": "xã",
+    "district_code": "875",
+    "codename": "tan_khanh_trung"
+  },
+  {
+    "code": "30184",
+    "name": "Long Hưng A",
+    "name_en": "Long Hung A",
+    "full_name": "Xã Long Hưng A",
+    "full_name_en": "Long Hung A Commune",
+    "type": "xã",
+    "district_code": "875",
+    "codename": "long_hung_a"
+  },
+  {
+    "code": "30187",
+    "name": "Vĩnh Thạnh",
+    "name_en": "Vinh Thanh",
+    "full_name": "Xã Vĩnh Thạnh",
+    "full_name_en": "Vinh Thanh Commune",
+    "type": "xã",
+    "district_code": "875",
+    "codename": "vinh_thanh"
+  },
+  {
+    "code": "30190",
+    "name": "Long Hưng B",
+    "name_en": "Long Hung B",
+    "full_name": "Xã Long Hưng B",
+    "full_name_en": "Long Hung B Commune",
+    "type": "xã",
+    "district_code": "875",
+    "codename": "long_hung_b"
+  },
+  {
+    "code": "30193",
+    "name": "Bình Thành",
+    "name_en": "Binh Thanh",
+    "full_name": "Xã Bình Thành",
+    "full_name_en": "Binh Thanh Commune",
+    "type": "xã",
+    "district_code": "875",
+    "codename": "binh_thanh"
+  },
+  {
+    "code": "30196",
+    "name": "Định An",
+    "name_en": "Dinh An",
+    "full_name": "Xã Định An",
+    "full_name_en": "Dinh An Commune",
+    "type": "xã",
+    "district_code": "875",
+    "codename": "dinh_an"
+  },
+  {
+    "code": "30199",
+    "name": "Định Yên",
+    "name_en": "Dinh Yen",
+    "full_name": "Xã Định Yên",
+    "full_name_en": "Dinh Yen Commune",
+    "type": "xã",
+    "district_code": "875",
+    "codename": "dinh_yen"
+  },
+  {
+    "code": "30202",
+    "name": "Hội An Đông",
+    "name_en": "Hoi An Dong",
+    "full_name": "Xã Hội An Đông",
+    "full_name_en": "Hoi An Dong Commune",
+    "type": "xã",
+    "district_code": "875",
+    "codename": "hoi_an_dong"
+  },
+  {
+    "code": "30205",
+    "name": "Bình Thạnh Trung",
+    "name_en": "Binh Thanh Trung",
+    "full_name": "Xã Bình Thạnh Trung",
+    "full_name_en": "Binh Thanh Trung Commune",
+    "type": "xã",
+    "district_code": "875",
+    "codename": "binh_thanh_trung"
+  }
+]

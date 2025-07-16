@@ -1,0 +1,122 @@
+[
+  {
+    "code": "11914",
+    "name": "Cát Bà",
+    "name_en": "Cat Ba",
+    "full_name": "Thị trấn Cát Bà",
+    "full_name_en": "Cat Ba Township",
+    "type": "thị trấn",
+    "district_code": "317",
+    "codename": "cat_ba"
+  },
+  {
+    "code": "11917",
+    "name": "Cát Hải",
+    "name_en": "Cat Hai",
+    "full_name": "Thị trấn Cát Hải",
+    "full_name_en": "Cat Hai Township",
+    "type": "thị trấn",
+    "district_code": "317",
+    "codename": "cat_hai"
+  },
+  {
+    "code": "11920",
+    "name": "Nghĩa Lộ",
+    "name_en": "Nghia Lo",
+    "full_name": "Xã Nghĩa Lộ",
+    "full_name_en": "Nghia Lo Commune",
+    "type": "xã",
+    "district_code": "317",
+    "codename": "nghia_lo"
+  },
+  {
+    "code": "11923",
+    "name": "Đồng Bài",
+    "name_en": "Dong Bai",
+    "full_name": "Xã Đồng Bài",
+    "full_name_en": "Dong Bai Commune",
+    "type": "xã",
+    "district_code": "317",
+    "codename": "dong_bai"
+  },
+  {
+    "code": "11926",
+    "name": "Hoàng Châu",
+    "name_en": "Hoang Chau",
+    "full_name": "Xã Hoàng Châu",
+    "full_name_en": "Hoang Chau Commune",
+    "type": "xã",
+    "district_code": "317",
+    "codename": "hoang_chau"
+  },
+  {
+    "code": "11929",
+    "name": "Văn Phong",
+    "name_en": "Van Phong",
+    "full_name": "Xã Văn Phong",
+    "full_name_en": "Van Phong Commune",
+    "type": "xã",
+    "district_code": "317",
+    "codename": "van_phong"
+  },
+  {
+    "code": "11932",
+    "name": "Phù Long",
+    "name_en": "Phu Long",
+    "full_name": "Xã Phù Long",
+    "full_name_en": "Phu Long Commune",
+    "type": "xã",
+    "district_code": "317",
+    "codename": "phu_long"
+  },
+  {
+    "code": "11935",
+    "name": "Gia Luận",
+    "name_en": "Gia Luan",
+    "full_name": "Xã Gia Luận",
+    "full_name_en": "Gia Luan Commune",
+    "type": "xã",
+    "district_code": "317",
+    "codename": "gia_luan"
+  },
+  {
+    "code": "11938",
+    "name": "Hiền Hào",
+    "name_en": "Hien Hao",
+    "full_name": "Xã Hiền Hào",
+    "full_name_en": "Hien Hao Commune",
+    "type": "xã",
+    "district_code": "317",
+    "codename": "hien_hao"
+  },
+  {
+    "code": "11941",
+    "name": "Trân Châu",
+    "name_en": "Tran Chau",
+    "full_name": "Xã Trân Châu",
+    "full_name_en": "Tran Chau Commune",
+    "type": "xã",
+    "district_code": "317",
+    "codename": "tran_chau"
+  },
+  {
+    "code": "11944",
+    "name": "Việt Hải",
+    "name_en": "Viet Hai",
+    "full_name": "Xã Việt Hải",
+    "full_name_en": "Viet Hai Commune",
+    "type": "xã",
+    "district_code": "317",
+    "codename": "viet_hai"
+  },
+  {
+    "code": "11947",
+    "name": "Xuân Đám",
+    "name_en": "Xuan Dam",
+    "full_name": "Xã Xuân Đám",
+    "full_name_en": "Xuan Dam Commune",
+    "type": "xã",
+    "district_code": "317",
+    "codename": "xuan_dam"
+  }
+]

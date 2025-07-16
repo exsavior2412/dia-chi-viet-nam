@@ -1,0 +1,162 @@
+[
+  {
+    "code": "09784",
+    "name": "Phùng",
+    "name_en": "Phung",
+    "full_name": "Thị trấn Phùng",
+    "full_name_en": "Phung Township",
+    "type": "thị trấn",
+    "district_code": "273",
+    "codename": "phung"
+  },
+  {
+    "code": "09787",
+    "name": "Trung Châu",
+    "name_en": "Trung Chau",
+    "full_name": "Xã Trung Châu",
+    "full_name_en": "Trung Chau Commune",
+    "type": "xã",
+    "district_code": "273",
+    "codename": "trung_chau"
+  },
+  {
+    "code": "09790",
+    "name": "Thọ An",
+    "name_en": "Tho An",
+    "full_name": "Xã Thọ An",
+    "full_name_en": "Tho An Commune",
+    "type": "xã",
+    "district_code": "273",
+    "codename": "tho_an"
+  },
+  {
+    "code": "09793",
+    "name": "Thọ Xuân",
+    "name_en": "Tho Xuan",
+    "full_name": "Xã Thọ Xuân",
+    "full_name_en": "Tho Xuan Commune",
+    "type": "xã",
+    "district_code": "273",
+    "codename": "tho_xuan"
+  },
+  {
+    "code": "09796",
+    "name": "Hồng Hà",
+    "name_en": "Hong Ha",
+    "full_name": "Xã Hồng Hà",
+    "full_name_en": "Hong Ha Commune",
+    "type": "xã",
+    "district_code": "273",
+    "codename": "hong_ha"
+  },
+  {
+    "code": "09799",
+    "name": "Liên Hồng",
+    "name_en": "Lien Hong",
+    "full_name": "Xã Liên Hồng",
+    "full_name_en": "Lien Hong Commune",
+    "type": "xã",
+    "district_code": "273",
+    "codename": "lien_hong"
+  },
+  {
+    "code": "09802",
+    "name": "Liên Hà",
+    "name_en": "Lien Ha",
+    "full_name": "Xã Liên Hà",
+    "full_name_en": "Lien Ha Commune",
+    "type": "xã",
+    "district_code": "273",
+    "codename": "lien_ha"
+  },
+  {
+    "code": "09805",
+    "name": "Hạ Mỗ",
+    "name_en": "Ha Mo",
+    "full_name": "Xã Hạ Mỗ",
+    "full_name_en": "Ha Mo Commune",
+    "type": "xã",
+    "district_code": "273",
+    "codename": "ha_mo"
+  },
+  {
+    "code": "09808",
+    "name": "Liên Trung",
+    "name_en": "Lien Trung",
+    "full_name": "Xã Liên Trung",
+    "full_name_en": "Lien Trung Commune",
+    "type": "xã",
+    "district_code": "273",
+    "codename": "lien_trung"
+  },
+  {
+    "code": "09811",
+    "name": "Phương Đình",
+    "name_en": "Phuong Dinh",
+    "full_name": "Xã Phương Đình",
+    "full_name_en": "Phuong Dinh Commune",
+    "type": "xã",
+    "district_code": "273",
+    "codename": "phuong_dinh"
+  },
+  {
+    "code": "09814",
+    "name": "Thượng Mỗ",
+    "name_en": "Thuong Mo",
+    "full_name": "Xã Thượng Mỗ",
+    "full_name_en": "Thuong Mo Commune",
+    "type": "xã",
+    "district_code": "273",
+    "codename": "thuong_mo"
+  },
+  {
+    "code": "09817",
+    "name": "Tân Hội",
+    "name_en": "Tan Hoi",
+    "full_name": "Xã Tân Hội",
+    "full_name_en": "Tan Hoi Commune",
+    "type": "xã",
+    "district_code": "273",
+    "codename": "tan_hoi"
+  },
+  {
+    "code": "09820",
+    "name": "Tân Lập",
+    "name_en": "Tan Lap",
+    "full_name": "Xã Tân Lập",
+    "full_name_en": "Tan Lap Commune",
+    "type": "xã",
+    "district_code": "273",
+    "codename": "tan_lap"
+  },
+  {
+    "code": "09823",
+    "name": "Đan Phượng",
+    "name_en": "Dan Phuong",
+    "full_name": "Xã Đan Phượng",
+    "full_name_en": "Dan Phuong Commune",
+    "type": "xã",
+    "district_code": "273",
+    "codename": "dan_phuong"
+  },
+  {
+    "code": "09826",
+    "name": "Đồng Tháp",
+    "name_en": "Dong Thap",
+    "full_name": "Xã Đồng Tháp",
+    "full_name_en": "Dong Thap Commune",
+    "type": "xã",
+    "district_code": "273",
+    "codename": "dong_thap"
+  },
+  {
+    "code": "09829",
+    "name": "Song Phượng",
+    "name_en": "Song Phuong",
+    "full_name": "Xã Song Phượng",
+    "full_name_en": "Song Phuong Commune",
+    "type": "xã",
+    "district_code": "273",
+    "codename": "song_phuong"
+  }
+]

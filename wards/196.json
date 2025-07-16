@@ -1,0 +1,102 @@
+[
+  {
+    "code": "06808",
+    "name": "Vàng Danh",
+    "name_en": "Vang Danh",
+    "full_name": "Phường Vàng Danh",
+    "full_name_en": "Vang Danh Ward",
+    "type": "phường",
+    "district_code": "196",
+    "codename": "vang_danh"
+  },
+  {
+    "code": "06811",
+    "name": "Thanh Sơn",
+    "name_en": "Thanh Son",
+    "full_name": "Phường Thanh Sơn",
+    "full_name_en": "Thanh Son Ward",
+    "type": "phường",
+    "district_code": "196",
+    "codename": "thanh_son"
+  },
+  {
+    "code": "06814",
+    "name": "Bắc Sơn",
+    "name_en": "Bac Son",
+    "full_name": "Phường Bắc Sơn",
+    "full_name_en": "Bac Son Ward",
+    "type": "phường",
+    "district_code": "196",
+    "codename": "bac_son"
+  },
+  {
+    "code": "06817",
+    "name": "Quang Trung",
+    "name_en": "Quang Trung",
+    "full_name": "Phường Quang Trung",
+    "full_name_en": "Quang Trung Ward",
+    "type": "phường",
+    "district_code": "196",
+    "codename": "quang_trung"
+  },
+  {
+    "code": "06820",
+    "name": "Trưng Vương",
+    "name_en": "Trung Vuong",
+    "full_name": "Phường Trưng Vương",
+    "full_name_en": "Trung Vuong Ward",
+    "type": "phường",
+    "district_code": "196",
+    "codename": "trung_vuong"
+  },
+  {
+    "code": "06823",
+    "name": "Nam Khê",
+    "name_en": "Nam Khe",
+    "full_name": "Phường Nam Khê",
+    "full_name_en": "Nam Khe Ward",
+    "type": "phường",
+    "district_code": "196",
+    "codename": "nam_khe"
+  },
+  {
+    "code": "06826",
+    "name": "Yên Thanh",
+    "name_en": "Yen Thanh",
+    "full_name": "Phường Yên Thanh",
+    "full_name_en": "Yen Thanh Ward",
+    "type": "phường",
+    "district_code": "196",
+    "codename": "yen_thanh"
+  },
+  {
+    "code": "06829",
+    "name": "Thượng Yên Công",
+    "name_en": "Thuong Yen Cong",
+    "full_name": "Xã Thượng Yên Công",
+    "full_name_en": "Thuong Yen Cong Commune",
+    "type": "xã",
+    "district_code": "196",
+    "codename": "thuong_yen_cong"
+  },
+  {
+    "code": "06832",
+    "name": "Phương Đông",
+    "name_en": "Phuong Dong",
+    "full_name": "Phường Phương Đông",
+    "full_name_en": "Phuong Dong Ward",
+    "type": "phường",
+    "district_code": "196",
+    "codename": "phuong_dong"
+  },
+  {
+    "code": "06835",
+    "name": "Phương Nam",
+    "name_en": "Phuong Nam",
+    "full_name": "Phường Phương Nam",
+    "full_name_en": "Phuong Nam Ward",
+    "type": "phường",
+    "district_code": "196",
+    "codename": "phuong_nam"
+  }
+]

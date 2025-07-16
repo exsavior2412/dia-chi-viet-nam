@@ -1,0 +1,82 @@
+[
+  {
+    "code": "058",
+    "name": "Bắc Kạn",
+    "name_en": "Bac Kan",
+    "full_name": "Thành phố Bắc Kạn",
+    "full_name_en": "Bac Kan City",
+    "type": "thành phố",
+    "province_code": "06",
+    "codename": "bac_kan"
+  },
+  {
+    "code": "060",
+    "name": "Pác Nặm",
+    "name_en": "Pac Nam",
+    "full_name": "Huyện Pác Nặm",
+    "full_name_en": "Pac Nam District",
+    "type": "huyện",
+    "province_code": "06",
+    "codename": "pac_nam"
+  },
+  {
+    "code": "061",
+    "name": "Ba Bể",
+    "name_en": "Ba Be",
+    "full_name": "Huyện Ba Bể",
+    "full_name_en": "Ba Be District",
+    "type": "huyện",
+    "province_code": "06",
+    "codename": "ba_be"
+  },
+  {
+    "code": "062",
+    "name": "Ngân Sơn",
+    "name_en": "Ngan Son",
+    "full_name": "Huyện Ngân Sơn",
+    "full_name_en": "Ngan Son District",
+    "type": "huyện",
+    "province_code": "06",
+    "codename": "ngan_son"
+  },
+  {
+    "code": "063",
+    "name": "Bạch Thông",
+    "name_en": "Bach Thong",
+    "full_name": "Huyện Bạch Thông",
+    "full_name_en": "Bach Thong District",
+    "type": "huyện",
+    "province_code": "06",
+    "codename": "bach_thong"
+  },
+  {
+    "code": "064",
+    "name": "Chợ Đồn",
+    "name_en": "Cho Don",
+    "full_name": "Huyện Chợ Đồn",
+    "full_name_en": "Cho Don District",
+    "type": "huyện",
+    "province_code": "06",
+    "codename": "cho_don"
+  },
+  {
+    "code": "065",
+    "name": "Chợ Mới",
+    "name_en": "Cho Moi",
+    "full_name": "Huyện Chợ Mới",
+    "full_name_en": "Cho Moi District",
+    "type": "huyện",
+    "province_code": "06",
+    "codename": "cho_moi"
+  },
+  {
+    "code": "066",
+    "name": "Na Rì",
+    "name_en": "Na Ri",
+    "full_name": "Huyện Na Rì",
+    "full_name_en": "Na Ri District",
+    "type": "huyện",
+    "province_code": "06",
+    "codename": "na_ri"
+  }
+]

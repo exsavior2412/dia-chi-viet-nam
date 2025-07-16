@@ -1,0 +1,112 @@
+[
+  {
+    "code": "31684",
+    "name": "Mỹ Xuyên",
+    "name_en": "My Xuyen",
+    "full_name": "Thị trấn Mỹ Xuyên",
+    "full_name_en": "My Xuyen Township",
+    "type": "thị trấn",
+    "district_code": "947",
+    "codename": "my_xuyen"
+  },
+  {
+    "code": "31690",
+    "name": "Đại Tâm",
+    "name_en": "Dai Tam",
+    "full_name": "Xã Đại Tâm",
+    "full_name_en": "Dai Tam Commune",
+    "type": "xã",
+    "district_code": "947",
+    "codename": "dai_tam"
+  },
+  {
+    "code": "31693",
+    "name": "Tham Đôn",
+    "name_en": "Tham Don",
+    "full_name": "Xã Tham Đôn",
+    "full_name_en": "Tham Don Commune",
+    "type": "xã",
+    "district_code": "947",
+    "codename": "tham_don"
+  },
+  {
+    "code": "31708",
+    "name": "Thạnh Phú",
+    "name_en": "Thanh Phu",
+    "full_name": "Xã Thạnh Phú",
+    "full_name_en": "Thanh Phu Commune",
+    "type": "xã",
+    "district_code": "947",
+    "codename": "thanh_phu"
+  },
+  {
+    "code": "31711",
+    "name": "Ngọc Đông",
+    "name_en": "Ngoc Dong",
+    "full_name": "Xã Ngọc Đông",
+    "full_name_en": "Ngoc Dong Commune",
+    "type": "xã",
+    "district_code": "947",
+    "codename": "ngoc_dong"
+  },
+  {
+    "code": "31714",
+    "name": "Thạnh Quới",
+    "name_en": "Thanh Quoi",
+    "full_name": "Xã Thạnh Quới",
+    "full_name_en": "Thanh Quoi Commune",
+    "type": "xã",
+    "district_code": "947",
+    "codename": "thanh_quoi"
+  },
+  {
+    "code": "31717",
+    "name": "Hòa Tú 1",
+    "name_en": "Hoa Tu 1",
+    "full_name": "Xã Hòa Tú 1",
+    "full_name_en": "Commune Hoa Tu 1",
+    "type": "xã",
+    "district_code": "947",
+    "codename": "hoa_tu_1"
+  },
+  {
+    "code": "31720",
+    "name": "Gia Hòa 1",
+    "name_en": "Gia Hoa 1",
+    "full_name": "Xã Gia Hòa 1",
+    "full_name_en": "Commune Gia Hoa 1",
+    "type": "xã",
+    "district_code": "947",
+    "codename": "gia_hoa_1"
+  },
+  {
+    "code": "31723",
+    "name": "Ngọc Tố",
+    "name_en": "Ngoc To",
+    "full_name": "Xã Ngọc Tố",
+    "full_name_en": "Ngoc To Commune",
+    "type": "xã",
+    "district_code": "947",
+    "codename": "ngoc_to"
+  },
+  {
+    "code": "31726",
+    "name": "Gia Hòa 2",
+    "name_en": "Gia Hoa 2",
+    "full_name": "Xã Gia Hòa 2",
+    "full_name_en": "Commune Gia Hoa 2",
+    "type": "xã",
+    "district_code": "947",
+    "codename": "gia_hoa_2"
+  },
+  {
+    "code": "31729",
+    "name": "Hòa Tú II",
+    "name_en": "Hoa Tu II",
+    "full_name": "Xã Hòa Tú II",
+    "full_name_en": "Hoa Tu II Commune",
+    "type": "xã",
+    "district_code": "947",
+    "codename": "hoa_tu_ii"
+  }
+]

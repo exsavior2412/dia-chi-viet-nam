@@ -1,0 +1,82 @@
+[
+  {
+    "code": "29770",
+    "name": "Cái Vồn",
+    "name_en": "Cai Von",
+    "full_name": "Phường Cái Vồn",
+    "full_name_en": "Cai Von Ward",
+    "type": "phường",
+    "district_code": "861",
+    "codename": "cai_von"
+  },
+  {
+    "code": "29771",
+    "name": "Thành Phước",
+    "name_en": "Thanh Phuoc",
+    "full_name": "Phường Thành Phước",
+    "full_name_en": "Thanh Phuoc Ward",
+    "type": "phường",
+    "district_code": "861",
+    "codename": "thanh_phuoc"
+  },
+  {
+    "code": "29806",
+    "name": "Thuận An",
+    "name_en": "Thuan An",
+    "full_name": "Xã Thuận An",
+    "full_name_en": "Thuan An Commune",
+    "type": "xã",
+    "district_code": "861",
+    "codename": "thuan_an"
+  },
+  {
+    "code": "29809",
+    "name": "Đông Thạnh",
+    "name_en": "Dong Thanh",
+    "full_name": "Xã Đông Thạnh",
+    "full_name_en": "Dong Thanh Commune",
+    "type": "xã",
+    "district_code": "861",
+    "codename": "dong_thanh"
+  },
+  {
+    "code": "29812",
+    "name": "Đông Bình",
+    "name_en": "Dong Binh",
+    "full_name": "Xã Đông Bình",
+    "full_name_en": "Dong Binh Commune",
+    "type": "xã",
+    "district_code": "861",
+    "codename": "dong_binh"
+  },
+  {
+    "code": "29813",
+    "name": "Đông Thuận",
+    "name_en": "Dong Thuan",
+    "full_name": "Phường Đông Thuận",
+    "full_name_en": "Dong Thuan Ward",
+    "type": "phường",
+    "district_code": "861",
+    "codename": "dong_thuan"
+  },
+  {
+    "code": "29815",
+    "name": "Mỹ Hòa",
+    "name_en": "My Hoa",
+    "full_name": "Xã Mỹ Hòa",
+    "full_name_en": "My Hoa Commune",
+    "type": "xã",
+    "district_code": "861",
+    "codename": "my_hoa"
+  },
+  {
+    "code": "29818",
+    "name": "Đông Thành",
+    "name_en": "Dong Thanh",
+    "full_name": "Xã Đông Thành",
+    "full_name_en": "Dong Thanh Commune",
+    "type": "xã",
+    "district_code": "861",
+    "codename": "dong_thanh"
+  }
+]

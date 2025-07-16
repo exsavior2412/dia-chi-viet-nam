@@ -1,0 +1,112 @@
+[
+  {
+    "code": "03434",
+    "name": "Nậm Nhùn",
+    "name_en": "Nam Nhun",
+    "full_name": "Thị trấn Nậm Nhùn",
+    "full_name_en": "Nam Nhun Township",
+    "type": "thị trấn",
+    "district_code": "112",
+    "codename": "nam_nhun"
+  },
+  {
+    "code": "03460",
+    "name": "Hua Bun",
+    "name_en": "Hua Bun",
+    "full_name": "Xã Hua Bun",
+    "full_name_en": "Hua Bun Commune",
+    "type": "xã",
+    "district_code": "112",
+    "codename": "hua_bun"
+  },
+  {
+    "code": "03472",
+    "name": "Mường Mô",
+    "name_en": "Muong Mo",
+    "full_name": "Xã Mường Mô",
+    "full_name_en": "Muong Mo Commune",
+    "type": "xã",
+    "district_code": "112",
+    "codename": "muong_mo"
+  },
+  {
+    "code": "03473",
+    "name": "Nậm Chà",
+    "name_en": "Nam Cha",
+    "full_name": "Xã Nậm Chà",
+    "full_name_en": "Nam Cha Commune",
+    "type": "xã",
+    "district_code": "112",
+    "codename": "nam_cha"
+  },
+  {
+    "code": "03474",
+    "name": "Nậm Manh",
+    "name_en": "Nam Manh",
+    "full_name": "Xã Nậm Manh",
+    "full_name_en": "Nam Manh Commune",
+    "type": "xã",
+    "district_code": "112",
+    "codename": "nam_manh"
+  },
+  {
+    "code": "03475",
+    "name": "Nậm Hàng",
+    "name_en": "Nam Hang",
+    "full_name": "Xã Nậm Hàng",
+    "full_name_en": "Nam Hang Commune",
+    "type": "xã",
+    "district_code": "112",
+    "codename": "nam_hang"
+  },
+  {
+    "code": "03481",
+    "name": "Lê Lợi",
+    "name_en": "Le Loi",
+    "full_name": "Xã Lê Lợi",
+    "full_name_en": "Le Loi Commune",
+    "type": "xã",
+    "district_code": "112",
+    "codename": "le_loi"
+  },
+  {
+    "code": "03484",
+    "name": "Pú Đao",
+    "name_en": "Pu Dao",
+    "full_name": "Xã Pú Đao",
+    "full_name_en": "Pu Dao Commune",
+    "type": "xã",
+    "district_code": "112",
+    "codename": "pu_dao"
+  },
+  {
+    "code": "03488",
+    "name": "Nậm Pì",
+    "name_en": "Nam Pi",
+    "full_name": "Xã Nậm Pì",
+    "full_name_en": "Nam Pi Commune",
+    "type": "xã",
+    "district_code": "112",
+    "codename": "nam_pi"
+  },
+  {
+    "code": "03502",
+    "name": "Nậm Ban",
+    "name_en": "Nam Ban",
+    "full_name": "Xã Nậm Ban",
+    "full_name_en": "Nam Ban Commune",
+    "type": "xã",
+    "district_code": "112",
+    "codename": "nam_ban"
+  },
+  {
+    "code": "03503",
+    "name": "Trung Chải",
+    "name_en": "Trung Chai",
+    "full_name": "Xã Trung Chải",
+    "full_name_en": "Trung Chai Commune",
+    "type": "xã",
+    "district_code": "112",
+    "codename": "trung_chai"
+  }
+]

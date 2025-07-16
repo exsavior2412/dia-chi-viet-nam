@@ -1,0 +1,72 @@
+[
+  {
+    "code": "06838",
+    "name": "Bình Liêu",
+    "name_en": "Binh Lieu",
+    "full_name": "Thị trấn Bình Liêu",
+    "full_name_en": "Binh Lieu Township",
+    "type": "thị trấn",
+    "district_code": "198",
+    "codename": "binh_lieu"
+  },
+  {
+    "code": "06841",
+    "name": "Hoành Mô",
+    "name_en": "Hoanh Mo",
+    "full_name": "Xã Hoành Mô",
+    "full_name_en": "Hoanh Mo Commune",
+    "type": "xã",
+    "district_code": "198",
+    "codename": "hoanh_mo"
+  },
+  {
+    "code": "06844",
+    "name": "Đồng Tâm",
+    "name_en": "Dong Tam",
+    "full_name": "Xã Đồng Tâm",
+    "full_name_en": "Dong Tam Commune",
+    "type": "xã",
+    "district_code": "198",
+    "codename": "dong_tam"
+  },
+  {
+    "code": "06847",
+    "name": "Đồng Văn",
+    "name_en": "Dong Van",
+    "full_name": "Xã Đồng Văn",
+    "full_name_en": "Dong Van Commune",
+    "type": "xã",
+    "district_code": "198",
+    "codename": "dong_van"
+  },
+  {
+    "code": "06853",
+    "name": "Vô Ngại",
+    "name_en": "Vo Ngai",
+    "full_name": "Xã Vô Ngại",
+    "full_name_en": "Vo Ngai Commune",
+    "type": "xã",
+    "district_code": "198",
+    "codename": "vo_ngai"
+  },
+  {
+    "code": "06856",
+    "name": "Lục Hồn",
+    "name_en": "Luc Hon",
+    "full_name": "Xã Lục Hồn",
+    "full_name_en": "Luc Hon Commune",
+    "type": "xã",
+    "district_code": "198",
+    "codename": "luc_hon"
+  },
+  {
+    "code": "06859",
+    "name": "Húc Động",
+    "name_en": "Huc Dong",
+    "full_name": "Xã Húc Động",
+    "full_name_en": "Huc Dong Commune",
+    "type": "xã",
+    "district_code": "198",
+    "codename": "huc_dong"
+  }
+]

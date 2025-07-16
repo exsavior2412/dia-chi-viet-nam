@@ -1,0 +1,112 @@
+[
+  {
+    "code": "22207",
+    "name": "Hai Riêng",
+    "name_en": "Hai Rieng",
+    "full_name": "Thị trấn Hai Riêng",
+    "full_name_en": "Hai Rieng Township",
+    "type": "thị trấn",
+    "district_code": "561",
+    "codename": "hai_rieng"
+  },
+  {
+    "code": "22210",
+    "name": "Ea Lâm",
+    "name_en": "Ea Lam",
+    "full_name": "Xã Ea Lâm",
+    "full_name_en": "Ea Lam Commune",
+    "type": "xã",
+    "district_code": "561",
+    "codename": "ea_lam"
+  },
+  {
+    "code": "22213",
+    "name": "Đức Bình Tây",
+    "name_en": "Duc Binh Tay",
+    "full_name": "Xã Đức Bình Tây",
+    "full_name_en": "Duc Binh Tay Commune",
+    "type": "xã",
+    "district_code": "561",
+    "codename": "duc_binh_tay"
+  },
+  {
+    "code": "22216",
+    "name": "Ea Bá",
+    "name_en": "Ea Ba",
+    "full_name": "Xã Ea Bá",
+    "full_name_en": "Ea Ba Commune",
+    "type": "xã",
+    "district_code": "561",
+    "codename": "ea_ba"
+  },
+  {
+    "code": "22219",
+    "name": "Sơn Giang",
+    "name_en": "Son Giang",
+    "full_name": "Xã Sơn Giang",
+    "full_name_en": "Son Giang Commune",
+    "type": "xã",
+    "district_code": "561",
+    "codename": "son_giang"
+  },
+  {
+    "code": "22222",
+    "name": "Đức Bình Đông",
+    "name_en": "Duc Binh Dong",
+    "full_name": "Xã Đức Bình Đông",
+    "full_name_en": "Duc Binh Dong Commune",
+    "type": "xã",
+    "district_code": "561",
+    "codename": "duc_binh_dong"
+  },
+  {
+    "code": "22225",
+    "name": "EaBar",
+    "name_en": "EaBar",
+    "full_name": "Xã EaBar",
+    "full_name_en": "EaBar Commune",
+    "type": "xã",
+    "district_code": "561",
+    "codename": "eabar"
+  },
+  {
+    "code": "22228",
+    "name": "EaBia",
+    "name_en": "EaBia",
+    "full_name": "Xã EaBia",
+    "full_name_en": "EaBia Commune",
+    "type": "xã",
+    "district_code": "561",
+    "codename": "eabia"
+  },
+  {
+    "code": "22231",
+    "name": "EaTrol",
+    "name_en": "EaTrol",
+    "full_name": "Xã EaTrol",
+    "full_name_en": "EaTrol Commune",
+    "type": "xã",
+    "district_code": "561",
+    "codename": "eatrol"
+  },
+  {
+    "code": "22234",
+    "name": "Sông Hinh",
+    "name_en": "Song Hinh",
+    "full_name": "Xã Sông Hinh",
+    "full_name_en": "Song Hinh Commune",
+    "type": "xã",
+    "district_code": "561",
+    "codename": "song_hinh"
+  },
+  {
+    "code": "22237",
+    "name": "Ealy",
+    "name_en": "Ealy",
+    "full_name": "Xã Ealy",
+    "full_name_en": "Ealy Commune",
+    "type": "xã",
+    "district_code": "561",
+    "codename": "ealy"
+  }
+]

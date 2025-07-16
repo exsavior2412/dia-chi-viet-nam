@@ -1,0 +1,32 @@
+[
+  {
+    "code": "22736",
+    "name": "Trường Sa",
+    "name_en": "Truong Sa",
+    "full_name": "Thị trấn Trường Sa",
+    "full_name_en": "Truong Sa Township",
+    "type": "thị trấn",
+    "district_code": "576",
+    "codename": "truong_sa"
+  },
+  {
+    "code": "22737",
+    "name": "Song Tử Tây",
+    "name_en": "Song Tu Tay",
+    "full_name": "Xã Song Tử Tây",
+    "full_name_en": "Song Tu Tay Commune",
+    "type": "xã",
+    "district_code": "576",
+    "codename": "song_tu_tay"
+  },
+  {
+    "code": "22739",
+    "name": "Sinh Tồn",
+    "name_en": "Sinh Ton",
+    "full_name": "Xã Sinh Tồn",
+    "full_name_en": "Sinh Ton Commune",
+    "type": "xã",
+    "district_code": "576",
+    "codename": "sinh_ton"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "31299",
+    "name": "Phong Điền",
+    "name_en": "Phong Dien",
+    "full_name": "Thị trấn Phong Điền",
+    "full_name_en": "Phong Dien Township",
+    "type": "thị trấn",
+    "district_code": "926",
+    "codename": "phong_dien"
+  },
+  {
+    "code": "31300",
+    "name": "Nhơn Ái",
+    "name_en": "Nhon Ai",
+    "full_name": "Xã Nhơn Ái",
+    "full_name_en": "Nhon Ai Commune",
+    "type": "xã",
+    "district_code": "926",
+    "codename": "nhon_ai"
+  },
+  {
+    "code": "31303",
+    "name": "Giai Xuân",
+    "name_en": "Giai Xuan",
+    "full_name": "Xã Giai Xuân",
+    "full_name_en": "Giai Xuan Commune",
+    "type": "xã",
+    "district_code": "926",
+    "codename": "giai_xuan"
+  },
+  {
+    "code": "31306",
+    "name": "Tân Thới",
+    "name_en": "Tan Thoi",
+    "full_name": "Xã Tân Thới",
+    "full_name_en": "Tan Thoi Commune",
+    "type": "xã",
+    "district_code": "926",
+    "codename": "tan_thoi"
+  },
+  {
+    "code": "31309",
+    "name": "Trường Long",
+    "name_en": "Truong Long",
+    "full_name": "Xã Trường Long",
+    "full_name_en": "Truong Long Commune",
+    "type": "xã",
+    "district_code": "926",
+    "codename": "truong_long"
+  },
+  {
+    "code": "31312",
+    "name": "Mỹ Khánh",
+    "name_en": "My Khanh",
+    "full_name": "Xã Mỹ Khánh",
+    "full_name_en": "My Khanh Commune",
+    "type": "xã",
+    "district_code": "926",
+    "codename": "my_khanh"
+  },
+  {
+    "code": "31315",
+    "name": "Nhơn Nghĩa",
+    "name_en": "Nhon Nghia",
+    "full_name": "Xã Nhơn Nghĩa",
+    "full_name_en": "Nhon Nghia Commune",
+    "type": "xã",
+    "district_code": "926",
+    "codename": "nhon_nghia"
+  }
+]

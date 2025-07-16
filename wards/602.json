@@ -1,0 +1,32 @@
+[
+  {
+    "code": "23272",
+    "name": "Ngũ Phụng",
+    "name_en": "Ngu Phung",
+    "full_name": "Xã Ngũ Phụng",
+    "full_name_en": "Ngu Phung Commune",
+    "type": "xã",
+    "district_code": "602",
+    "codename": "ngu_phung"
+  },
+  {
+    "code": "23275",
+    "name": "Long Hải",
+    "name_en": "Long Hai",
+    "full_name": "Xã Long Hải",
+    "full_name_en": "Long Hai Commune",
+    "type": "xã",
+    "district_code": "602",
+    "codename": "long_hai"
+  },
+  {
+    "code": "23278",
+    "name": "Tam Thanh",
+    "name_en": "Tam Thanh",
+    "full_name": "Xã Tam Thanh",
+    "full_name_en": "Tam Thanh Commune",
+    "type": "xã",
+    "district_code": "602",
+    "codename": "tam_thanh"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "code": "32095",
+    "name": "Trần Văn Thời",
+    "name_en": "Tran Van Thoi",
+    "full_name": "Thị trấn Trần Văn Thời",
+    "full_name_en": "Tran Van Thoi Township",
+    "type": "thị trấn",
+    "district_code": "968",
+    "codename": "tran_van_thoi"
+  },
+  {
+    "code": "32098",
+    "name": "Sông Đốc",
+    "name_en": "Song Doc",
+    "full_name": "Thị trấn Sông Đốc",
+    "full_name_en": "Song Doc Township",
+    "type": "thị trấn",
+    "district_code": "968",
+    "codename": "song_doc"
+  },
+  {
+    "code": "32101",
+    "name": "Khánh Bình Tây Bắc",
+    "name_en": "Khanh Binh Tay Bac",
+    "full_name": "Xã Khánh Bình Tây Bắc",
+    "full_name_en": "Khanh Binh Tay Bac Commune",
+    "type": "xã",
+    "district_code": "968",
+    "codename": "khanh_binh_tay_bac"
+  },
+  {
+    "code": "32104",
+    "name": "Khánh Bình Tây",
+    "name_en": "Khanh Binh Tay",
+    "full_name": "Xã Khánh Bình Tây",
+    "full_name_en": "Khanh Binh Tay Commune",
+    "type": "xã",
+    "district_code": "968",
+    "codename": "khanh_binh_tay"
+  },
+  {
+    "code": "32107",
+    "name": "Trần Hợi",
+    "name_en": "Tran Hoi",
+    "full_name": "Xã Trần Hợi",
+    "full_name_en": "Tran Hoi Commune",
+    "type": "xã",
+    "district_code": "968",
+    "codename": "tran_hoi"
+  },
+  {
+    "code": "32108",
+    "name": "Khánh Lộc",
+    "name_en": "Khanh Loc",
+    "full_name": "Xã Khánh Lộc",
+    "full_name_en": "Khanh Loc Commune",
+    "type": "xã",
+    "district_code": "968",
+    "codename": "khanh_loc"
+  },
+  {
+    "code": "32110",
+    "name": "Khánh Bình",
+    "name_en": "Khanh Binh",
+    "full_name": "Xã Khánh Bình",
+    "full_name_en": "Khanh Binh Commune",
+    "type": "xã",
+    "district_code": "968",
+    "codename": "khanh_binh"
+  },
+  {
+    "code": "32113",
+    "name": "Khánh Hưng",
+    "name_en": "Khanh Hung",
+    "full_name": "Xã Khánh Hưng",
+    "full_name_en": "Khanh Hung Commune",
+    "type": "xã",
+    "district_code": "968",
+    "codename": "khanh_hung"
+  },
+  {
+    "code": "32116",
+    "name": "Khánh Bình Đông",
+    "name_en": "Khanh Binh Dong",
+    "full_name": "Xã Khánh Bình Đông",
+    "full_name_en": "Khanh Binh Dong Commune",
+    "type": "xã",
+    "district_code": "968",
+    "codename": "khanh_binh_dong"
+  },
+  {
+    "code": "32119",
+    "name": "Khánh Hải",
+    "name_en": "Khanh Hai",
+    "full_name": "Xã Khánh Hải",
+    "full_name_en": "Khanh Hai Commune",
+    "type": "xã",
+    "district_code": "968",
+    "codename": "khanh_hai"
+  },
+  {
+    "code": "32122",
+    "name": "Lợi An",
+    "name_en": "Loi An",
+    "full_name": "Xã Lợi An",
+    "full_name_en": "Loi An Commune",
+    "type": "xã",
+    "district_code": "968",
+    "codename": "loi_an"
+  },
+  {
+    "code": "32124",
+    "name": "Phong Điền",
+    "name_en": "Phong Dien",
+    "full_name": "Xã Phong Điền",
+    "full_name_en": "Phong Dien Commune",
+    "type": "xã",
+    "district_code": "968",
+    "codename": "phong_dien"
+  },
+  {
+    "code": "32125",
+    "name": "Phong Lạc",
+    "name_en": "Phong Lac",
+    "full_name": "Xã Phong Lạc",
+    "full_name_en": "Phong Lac Commune",
+    "type": "xã",
+    "district_code": "968",
+    "codename": "phong_lac"
+  }
+]

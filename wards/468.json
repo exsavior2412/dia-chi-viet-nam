@@ -1,0 +1,82 @@
+[
+  {
+    "code": "19597",
+    "name": "Cam Lộ",
+    "name_en": "Cam Lo",
+    "full_name": "Thị trấn Cam Lộ",
+    "full_name_en": "Cam Lo Township",
+    "type": "thị trấn",
+    "district_code": "468",
+    "codename": "cam_lo"
+  },
+  {
+    "code": "19600",
+    "name": "Cam Tuyền",
+    "name_en": "Cam Tuyen",
+    "full_name": "Xã Cam Tuyền",
+    "full_name_en": "Cam Tuyen Commune",
+    "type": "xã",
+    "district_code": "468",
+    "codename": "cam_tuyen"
+  },
+  {
+    "code": "19603",
+    "name": "Thanh An",
+    "name_en": "Thanh An",
+    "full_name": "Xã Thanh An",
+    "full_name_en": "Thanh An Commune",
+    "type": "xã",
+    "district_code": "468",
+    "codename": "thanh_an"
+  },
+  {
+    "code": "19606",
+    "name": "Cam Thủy",
+    "name_en": "Cam Thuy",
+    "full_name": "Xã Cam Thủy",
+    "full_name_en": "Cam Thuy Commune",
+    "type": "xã",
+    "district_code": "468",
+    "codename": "cam_thuy"
+  },
+  {
+    "code": "19612",
+    "name": "Cam Thành",
+    "name_en": "Cam Thanh",
+    "full_name": "Xã Cam Thành",
+    "full_name_en": "Cam Thanh Commune",
+    "type": "xã",
+    "district_code": "468",
+    "codename": "cam_thanh"
+  },
+  {
+    "code": "19615",
+    "name": "Cam Hiếu",
+    "name_en": "Cam Hieu",
+    "full_name": "Xã Cam Hiếu",
+    "full_name_en": "Cam Hieu Commune",
+    "type": "xã",
+    "district_code": "468",
+    "codename": "cam_hieu"
+  },
+  {
+    "code": "19618",
+    "name": "Cam Chính",
+    "name_en": "Cam Chinh",
+    "full_name": "Xã Cam Chính",
+    "full_name_en": "Cam Chinh Commune",
+    "type": "xã",
+    "district_code": "468",
+    "codename": "cam_chinh"
+  },
+  {
+    "code": "19621",
+    "name": "Cam Nghĩa",
+    "name_en": "Cam Nghia",
+    "full_name": "Xã Cam Nghĩa",
+    "full_name_en": "Cam Nghia Commune",
+    "type": "xã",
+    "district_code": "468",
+    "codename": "cam_nghia"
+  }
+]

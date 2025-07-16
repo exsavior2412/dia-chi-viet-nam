@@ -1,0 +1,202 @@
+[
+  {
+    "code": "06463",
+    "name": "Đồng Mỏ",
+    "name_en": "Dong Mo",
+    "full_name": "Thị trấn Đồng Mỏ",
+    "full_name_en": "Dong Mo Township",
+    "type": "thị trấn",
+    "district_code": "187",
+    "codename": "dong_mo"
+  },
+  {
+    "code": "06466",
+    "name": "Chi Lăng",
+    "name_en": "Chi Lang",
+    "full_name": "Thị trấn Chi Lăng",
+    "full_name_en": "Chi Lang Township",
+    "type": "thị trấn",
+    "district_code": "187",
+    "codename": "chi_lang"
+  },
+  {
+    "code": "06469",
+    "name": "Vân An",
+    "name_en": "Van An",
+    "full_name": "Xã Vân An",
+    "full_name_en": "Van An Commune",
+    "type": "xã",
+    "district_code": "187",
+    "codename": "van_an"
+  },
+  {
+    "code": "06472",
+    "name": "Vân Thủy",
+    "name_en": "Van Thuy",
+    "full_name": "Xã Vân Thủy",
+    "full_name_en": "Van Thuy Commune",
+    "type": "xã",
+    "district_code": "187",
+    "codename": "van_thuy"
+  },
+  {
+    "code": "06475",
+    "name": "Gia Lộc",
+    "name_en": "Gia Loc",
+    "full_name": "Xã Gia Lộc",
+    "full_name_en": "Gia Loc Commune",
+    "type": "xã",
+    "district_code": "187",
+    "codename": "gia_loc"
+  },
+  {
+    "code": "06478",
+    "name": "Bắc Thủy",
+    "name_en": "Bac Thuy",
+    "full_name": "Xã Bắc Thủy",
+    "full_name_en": "Bac Thuy Commune",
+    "type": "xã",
+    "district_code": "187",
+    "codename": "bac_thuy"
+  },
+  {
+    "code": "06481",
+    "name": "Chiến Thắng",
+    "name_en": "Chien Thang",
+    "full_name": "Xã Chiến Thắng",
+    "full_name_en": "Chien Thang Commune",
+    "type": "xã",
+    "district_code": "187",
+    "codename": "chien_thang"
+  },
+  {
+    "code": "06484",
+    "name": "Mai Sao",
+    "name_en": "Mai Sao",
+    "full_name": "Xã Mai Sao",
+    "full_name_en": "Mai Sao Commune",
+    "type": "xã",
+    "district_code": "187",
+    "codename": "mai_sao"
+  },
+  {
+    "code": "06487",
+    "name": "Bằng Hữu",
+    "name_en": "Bang Huu",
+    "full_name": "Xã Bằng Hữu",
+    "full_name_en": "Bang Huu Commune",
+    "type": "xã",
+    "district_code": "187",
+    "codename": "bang_huu"
+  },
+  {
+    "code": "06490",
+    "name": "Thượng Cường",
+    "name_en": "Thuong Cuong",
+    "full_name": "Xã Thượng Cường",
+    "full_name_en": "Thuong Cuong Commune",
+    "type": "xã",
+    "district_code": "187",
+    "codename": "thuong_cuong"
+  },
+  {
+    "code": "06493",
+    "name": "Bằng Mạc",
+    "name_en": "Bang Mac",
+    "full_name": "Xã Bằng Mạc",
+    "full_name_en": "Bang Mac Commune",
+    "type": "xã",
+    "district_code": "187",
+    "codename": "bang_mac"
+  },
+  {
+    "code": "06496",
+    "name": "Nhân Lý",
+    "name_en": "Nhan Ly",
+    "full_name": "Xã Nhân Lý",
+    "full_name_en": "Nhan Ly Commune",
+    "type": "xã",
+    "district_code": "187",
+    "codename": "nhan_ly"
+  },
+  {
+    "code": "06499",
+    "name": "Lâm Sơn",
+    "name_en": "Lam Son",
+    "full_name": "Xã Lâm Sơn",
+    "full_name_en": "Lam Son Commune",
+    "type": "xã",
+    "district_code": "187",
+    "codename": "lam_son"
+  },
+  {
+    "code": "06502",
+    "name": "Liên Sơn",
+    "name_en": "Lien Son",
+    "full_name": "Xã Liên Sơn",
+    "full_name_en": "Lien Son Commune",
+    "type": "xã",
+    "district_code": "187",
+    "codename": "lien_son"
+  },
+  {
+    "code": "06505",
+    "name": "Vạn Linh",
+    "name_en": "Van Linh",
+    "full_name": "Xã Vạn Linh",
+    "full_name_en": "Van Linh Commune",
+    "type": "xã",
+    "district_code": "187",
+    "codename": "van_linh"
+  },
+  {
+    "code": "06508",
+    "name": "Hòa Bình",
+    "name_en": "Hoa Binh",
+    "full_name": "Xã Hòa Bình",
+    "full_name_en": "Hoa Binh Commune",
+    "type": "xã",
+    "district_code": "187",
+    "codename": "hoa_binh"
+  },
+  {
+    "code": "06514",
+    "name": "Hữu Kiên",
+    "name_en": "Huu Kien",
+    "full_name": "Xã Hữu Kiên",
+    "full_name_en": "Huu Kien Commune",
+    "type": "xã",
+    "district_code": "187",
+    "codename": "huu_kien"
+  },
+  {
+    "code": "06517",
+    "name": "Quan Sơn",
+    "name_en": "Quan Son",
+    "full_name": "Xã Quan Sơn",
+    "full_name_en": "Quan Son Commune",
+    "type": "xã",
+    "district_code": "187",
+    "codename": "quan_son"
+  },
+  {
+    "code": "06520",
+    "name": "Y Tịch",
+    "name_en": "Y Tich",
+    "full_name": "Xã Y Tịch",
+    "full_name_en": "Y Tich Commune",
+    "type": "xã",
+    "district_code": "187",
+    "codename": "y_tich"
+  },
+  {
+    "code": "06523",
+    "name": "Chi Lăng",
+    "name_en": "Chi Lang",
+    "full_name": "Xã Chi Lăng",
+    "full_name_en": "Chi Lang Commune",
+    "type": "xã",
+    "district_code": "187",
+    "codename": "chi_lang"
+  }
+]

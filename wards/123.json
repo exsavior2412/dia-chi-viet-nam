@@ -1,0 +1,152 @@
+[
+  {
+    "code": "03979",
+    "name": "Mộc Sơn",
+    "name_en": "Moc Son",
+    "full_name": "Phường Mộc Sơn",
+    "full_name_en": "Moc Son Ward",
+    "type": "phường",
+    "district_code": "123",
+    "codename": "moc_son"
+  },
+  {
+    "code": "03980",
+    "name": "Mộc Lỵ",
+    "name_en": "Moc Ly",
+    "full_name": "Phường Mộc Lỵ",
+    "full_name_en": "Moc Ly Ward",
+    "type": "phường",
+    "district_code": "123",
+    "codename": "moc_ly"
+  },
+  {
+    "code": "03982",
+    "name": "Thảo Nguyên",
+    "name_en": "Thao Nguyen",
+    "full_name": "Phường Thảo Nguyên",
+    "full_name_en": "Thao Nguyen Ward",
+    "type": "phường",
+    "district_code": "123",
+    "codename": "thao_nguyen"
+  },
+  {
+    "code": "03983",
+    "name": "Bình Minh",
+    "name_en": "Binh Minh",
+    "full_name": "Phường Bình Minh",
+    "full_name_en": "Binh Minh Ward",
+    "type": "phường",
+    "district_code": "123",
+    "codename": "binh_minh"
+  },
+  {
+    "code": "03984",
+    "name": "Cờ Đỏ",
+    "name_en": "Co Do",
+    "full_name": "Phường Cờ Đỏ",
+    "full_name_en": "Co Do Ward",
+    "type": "phường",
+    "district_code": "123",
+    "codename": "co_do"
+  },
+  {
+    "code": "03985",
+    "name": "Chiềng Sơn",
+    "name_en": "Chieng Son",
+    "full_name": "Xã Chiềng Sơn",
+    "full_name_en": "Chieng Son Commune",
+    "type": "xã",
+    "district_code": "123",
+    "codename": "chieng_son"
+  },
+  {
+    "code": "03997",
+    "name": "Tân Yên",
+    "name_en": "Tan Yen",
+    "full_name": "Xã Tân Yên",
+    "full_name_en": "Tan Yen Commune",
+    "type": "xã",
+    "district_code": "123",
+    "codename": "tan_yen"
+  },
+  {
+    "code": "04000",
+    "name": "Đoàn Kết",
+    "name_en": "Doan Ket",
+    "full_name": "Xã Đoàn Kết",
+    "full_name_en": "Doan Ket Commune",
+    "type": "xã",
+    "district_code": "123",
+    "codename": "doan_ket"
+  },
+  {
+    "code": "04012",
+    "name": "Chiềng Hắc",
+    "name_en": "Chieng Hac",
+    "full_name": "Xã Chiềng Hắc",
+    "full_name_en": "Chieng Hac Commune",
+    "type": "xã",
+    "district_code": "123",
+    "codename": "chieng_hac"
+  },
+  {
+    "code": "04015",
+    "name": "Chiềng Chung",
+    "name_en": "Chieng Chung",
+    "full_name": "Xã Chiềng Chung",
+    "full_name_en": "Chieng Chung Commune",
+    "type": "xã",
+    "district_code": "123",
+    "codename": "chieng_chung"
+  },
+  {
+    "code": "04024",
+    "name": "Chiềng Khừa",
+    "name_en": "Chieng Khua",
+    "full_name": "Xã Chiềng Khừa",
+    "full_name_en": "Chieng Khua Commune",
+    "type": "xã",
+    "district_code": "123",
+    "codename": "chieng_khua"
+  },
+  {
+    "code": "04027",
+    "name": "Mường Sang",
+    "name_en": "Muong Sang",
+    "full_name": "Phường Mường Sang",
+    "full_name_en": "Muong Sang Ward",
+    "type": "phường",
+    "district_code": "123",
+    "codename": "muong_sang"
+  },
+  {
+    "code": "04030",
+    "name": "Đông Sang",
+    "name_en": "Dong Sang",
+    "full_name": "Phường Đông Sang",
+    "full_name_en": "Dong Sang Ward",
+    "type": "phường",
+    "district_code": "123",
+    "codename": "dong_sang"
+  },
+  {
+    "code": "04033",
+    "name": "Vân Sơn",
+    "name_en": "Van Son",
+    "full_name": "Phường Vân Sơn",
+    "full_name_en": "Van Son Ward",
+    "type": "phường",
+    "district_code": "123",
+    "codename": "van_son"
+  },
+  {
+    "code": "04045",
+    "name": "Lóng Sập",
+    "name_en": "Long Sap",
+    "full_name": "Xã Lóng Sập",
+    "full_name_en": "Long Sap Commune",
+    "type": "xã",
+    "district_code": "123",
+    "codename": "long_sap"
+  }
+]

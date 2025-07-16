@@ -1,0 +1,192 @@
+[
+  {
+    "code": "07528",
+    "name": "Cấm Sơn",
+    "name_en": "Cam Son",
+    "full_name": "Xã Cấm Sơn",
+    "full_name_en": "Cam Son Commune",
+    "type": "xã",
+    "district_code": "219",
+    "codename": "cam_son"
+  },
+  {
+    "code": "07531",
+    "name": "Tân Sơn",
+    "name_en": "Tan Son",
+    "full_name": "Xã Tân Sơn",
+    "full_name_en": "Tan Son Commune",
+    "type": "xã",
+    "district_code": "219",
+    "codename": "tan_son"
+  },
+  {
+    "code": "07534",
+    "name": "Phong Minh",
+    "name_en": "Phong Minh",
+    "full_name": "Xã Phong Minh",
+    "full_name_en": "Phong Minh Commune",
+    "type": "xã",
+    "district_code": "219",
+    "codename": "phong_minh"
+  },
+  {
+    "code": "07537",
+    "name": "Phong Vân",
+    "name_en": "Phong Van",
+    "full_name": "Xã Phong Vân",
+    "full_name_en": "Phong Van Commune",
+    "type": "xã",
+    "district_code": "219",
+    "codename": "phong_van"
+  },
+  {
+    "code": "07540",
+    "name": "Sa Lý",
+    "name_en": "Sa Ly",
+    "full_name": "Xã Sa Lý",
+    "full_name_en": "Sa Ly Commune",
+    "type": "xã",
+    "district_code": "219",
+    "codename": "sa_ly"
+  },
+  {
+    "code": "07543",
+    "name": "Hộ Đáp",
+    "name_en": "Ho Dap",
+    "full_name": "Xã Hộ Đáp",
+    "full_name_en": "Ho Dap Commune",
+    "type": "xã",
+    "district_code": "219",
+    "codename": "ho_dap"
+  },
+  {
+    "code": "07546",
+    "name": "Sơn Hải",
+    "name_en": "Son Hai",
+    "full_name": "Xã Sơn Hải",
+    "full_name_en": "Son Hai Commune",
+    "type": "xã",
+    "district_code": "219",
+    "codename": "son_hai"
+  },
+  {
+    "code": "07555",
+    "name": "Biên Sơn",
+    "name_en": "Bien Son",
+    "full_name": "Xã Biên Sơn",
+    "full_name_en": "Bien Son Commune",
+    "type": "xã",
+    "district_code": "219",
+    "codename": "bien_son"
+  },
+  {
+    "code": "07564",
+    "name": "Kim Sơn",
+    "name_en": "Kim Son",
+    "full_name": "Xã Kim Sơn",
+    "full_name_en": "Kim Son Commune",
+    "type": "xã",
+    "district_code": "219",
+    "codename": "kim_son"
+  },
+  {
+    "code": "07567",
+    "name": "Tân Hoa",
+    "name_en": "Tan Hoa",
+    "full_name": "Xã Tân Hoa",
+    "full_name_en": "Tan Hoa Commune",
+    "type": "xã",
+    "district_code": "219",
+    "codename": "tan_hoa"
+  },
+  {
+    "code": "07570",
+    "name": "Giáp Sơn",
+    "name_en": "Giap Son",
+    "full_name": "Xã Giáp Sơn",
+    "full_name_en": "Giap Son Commune",
+    "type": "xã",
+    "district_code": "219",
+    "codename": "giap_son"
+  },
+  {
+    "code": "07573",
+    "name": "Biển Động",
+    "name_en": "Bien Dong",
+    "full_name": "Thị trấn Biển Động",
+    "full_name_en": "Bien Dong Township",
+    "type": "thị trấn",
+    "district_code": "219",
+    "codename": "bien_dong"
+  },
+  {
+    "code": "07582",
+    "name": "Phì Điền",
+    "name_en": "Phi Dien",
+    "full_name": "Thị trấn Phì Điền",
+    "full_name_en": "Phi Dien Township",
+    "type": "thị trấn",
+    "district_code": "219",
+    "codename": "phi_dien"
+  },
+  {
+    "code": "07588",
+    "name": "Tân Quang",
+    "name_en": "Tan Quang",
+    "full_name": "Xã Tân Quang",
+    "full_name_en": "Tan Quang Commune",
+    "type": "xã",
+    "district_code": "219",
+    "codename": "tan_quang"
+  },
+  {
+    "code": "07591",
+    "name": "Đồng Cốc",
+    "name_en": "Dong Coc",
+    "full_name": "Xã Đồng Cốc",
+    "full_name_en": "Dong Coc Commune",
+    "type": "xã",
+    "district_code": "219",
+    "codename": "dong_coc"
+  },
+  {
+    "code": "07594",
+    "name": "Tân Lập",
+    "name_en": "Tan Lap",
+    "full_name": "Xã Tân Lập",
+    "full_name_en": "Tan Lap Commune",
+    "type": "xã",
+    "district_code": "219",
+    "codename": "tan_lap"
+  },
+  {
+    "code": "07597",
+    "name": "Phú Nhuận",
+    "name_en": "Phu Nhuan",
+    "full_name": "Xã Phú Nhuận",
+    "full_name_en": "Phu Nhuan Commune",
+    "type": "xã",
+    "district_code": "219",
+    "codename": "phu_nhuan"
+  },
+  {
+    "code": "07606",
+    "name": "Tân Mộc",
+    "name_en": "Tan Moc",
+    "full_name": "Xã Tân Mộc",
+    "full_name_en": "Tan Moc Commune",
+    "type": "xã",
+    "district_code": "219",
+    "codename": "tan_moc"
+  },
+  {
+    "code": "07609",
+    "name": "Đèo Gia",
+    "name_en": "Deo Gia",
+    "full_name": "Xã Đèo Gia",
+    "full_name_en": "Deo Gia Commune",
+    "type": "xã",
+    "district_code": "219",
+    "codename": "deo_gia"
+  }
+]

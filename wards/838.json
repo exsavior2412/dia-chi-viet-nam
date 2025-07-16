@@ -1,0 +1,132 @@
+[
+  {
+    "code": "28889",
+    "name": "Phú Mỹ",
+    "name_en": "Phu My",
+    "full_name": "Xã Phú Mỹ",
+    "full_name_en": "Phu My Commune",
+    "type": "xã",
+    "district_code": "838",
+    "codename": "phu_my"
+  },
+  {
+    "code": "28901",
+    "name": "Hưng Khánh Trung A",
+    "name_en": "Hung Khanh Trung A",
+    "full_name": "Xã Hưng Khánh Trung A",
+    "full_name_en": "Hung Khanh Trung A Commune",
+    "type": "xã",
+    "district_code": "838",
+    "codename": "hung_khanh_trung_a"
+  },
+  {
+    "code": "28906",
+    "name": "Thanh Tân",
+    "name_en": "Thanh Tan",
+    "full_name": "Xã Thanh Tân",
+    "full_name_en": "Thanh Tan Commune",
+    "type": "xã",
+    "district_code": "838",
+    "codename": "thanh_tan"
+  },
+  {
+    "code": "28909",
+    "name": "Thạnh Ngãi",
+    "name_en": "Thanh Ngai",
+    "full_name": "Xã Thạnh Ngãi",
+    "full_name_en": "Thanh Ngai Commune",
+    "type": "xã",
+    "district_code": "838",
+    "codename": "thanh_ngai"
+  },
+  {
+    "code": "28912",
+    "name": "Tân Phú Tây",
+    "name_en": "Tan Phu Tay",
+    "full_name": "Xã Tân Phú Tây",
+    "full_name_en": "Tan Phu Tay Commune",
+    "type": "xã",
+    "district_code": "838",
+    "codename": "tan_phu_tay"
+  },
+  {
+    "code": "28915",
+    "name": "Phước Mỹ Trung",
+    "name_en": "Phuoc My Trung",
+    "full_name": "Thị trấn Phước Mỹ Trung",
+    "full_name_en": "Phuoc My Trung Township",
+    "type": "thị trấn",
+    "district_code": "838",
+    "codename": "phuoc_my_trung"
+  },
+  {
+    "code": "28918",
+    "name": "Tân Thành Bình",
+    "name_en": "Tan Thanh Binh",
+    "full_name": "Xã Tân Thành Bình",
+    "full_name_en": "Tan Thanh Binh Commune",
+    "type": "xã",
+    "district_code": "838",
+    "codename": "tan_thanh_binh"
+  },
+  {
+    "code": "28921",
+    "name": "Thành An",
+    "name_en": "Thanh An",
+    "full_name": "Xã Thành An",
+    "full_name_en": "Thanh An Commune",
+    "type": "xã",
+    "district_code": "838",
+    "codename": "thanh_an"
+  },
+  {
+    "code": "28924",
+    "name": "Hòa Lộc",
+    "name_en": "Hoa Loc",
+    "full_name": "Xã Hòa Lộc",
+    "full_name_en": "Hoa Loc Commune",
+    "type": "xã",
+    "district_code": "838",
+    "codename": "hoa_loc"
+  },
+  {
+    "code": "28927",
+    "name": "Tân Thanh Tây",
+    "name_en": "Tan Thanh Tay",
+    "full_name": "Xã Tân Thanh Tây",
+    "full_name_en": "Tan Thanh Tay Commune",
+    "type": "xã",
+    "district_code": "838",
+    "codename": "tan_thanh_tay"
+  },
+  {
+    "code": "28933",
+    "name": "Tân Bình",
+    "name_en": "Tan Binh",
+    "full_name": "Xã Tân Bình",
+    "full_name_en": "Tan Binh Commune",
+    "type": "xã",
+    "district_code": "838",
+    "codename": "tan_binh"
+  },
+  {
+    "code": "28936",
+    "name": "Nhuận Phú Tân",
+    "name_en": "Nhuan Phu Tan",
+    "full_name": "Xã Nhuận Phú Tân",
+    "full_name_en": "Nhuan Phu Tan Commune",
+    "type": "xã",
+    "district_code": "838",
+    "codename": "nhuan_phu_tan"
+  },
+  {
+    "code": "28948",
+    "name": "Khánh Thạnh Tân",
+    "name_en": "Khanh Thanh Tan",
+    "full_name": "Xã Khánh Thạnh Tân",
+    "full_name_en": "Khanh Thanh Tan Commune",
+    "type": "xã",
+    "district_code": "838",
+    "codename": "khanh_thanh_tan"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "code": "19750",
+    "name": "Tây Lộc",
+    "name_en": "Tay Loc",
+    "full_name": "Phường Tây Lộc",
+    "full_name_en": "Tay Loc Ward",
+    "type": "phường",
+    "district_code": "475",
+    "codename": "tay_loc"
+  },
+  {
+    "code": "19753",
+    "name": "Thuận Lộc",
+    "name_en": "Thuan Loc",
+    "full_name": "Phường Thuận Lộc",
+    "full_name_en": "Thuan Loc Ward",
+    "type": "phường",
+    "district_code": "475",
+    "codename": "thuan_loc"
+  },
+  {
+    "code": "19756",
+    "name": "Gia Hội",
+    "name_en": "Gia Hoi",
+    "full_name": "Phường Gia Hội",
+    "full_name_en": "Gia Hoi Ward",
+    "type": "phường",
+    "district_code": "475",
+    "codename": "gia_hoi"
+  },
+  {
+    "code": "19759",
+    "name": "Phú Hậu",
+    "name_en": "Phu Hau",
+    "full_name": "Phường Phú Hậu",
+    "full_name_en": "Phu Hau Ward",
+    "type": "phường",
+    "district_code": "475",
+    "codename": "phu_hau"
+  },
+  {
+    "code": "19762",
+    "name": "Thuận Hòa",
+    "name_en": "Thuan Hoa",
+    "full_name": "Phường Thuận Hòa",
+    "full_name_en": "Thuan Hoa Ward",
+    "type": "phường",
+    "district_code": "475",
+    "codename": "thuan_hoa"
+  },
+  {
+    "code": "19768",
+    "name": "Đông Ba",
+    "name_en": "Dong Ba",
+    "full_name": "Phường Đông Ba",
+    "full_name_en": "Dong Ba Ward",
+    "type": "phường",
+    "district_code": "475",
+    "codename": "dong_ba"
+  },
+  {
+    "code": "19774",
+    "name": "Kim Long",
+    "name_en": "Kim Long",
+    "full_name": "Phường Kim Long",
+    "full_name_en": "Kim Long Ward",
+    "type": "phường",
+    "district_code": "475",
+    "codename": "kim_long"
+  },
+  {
+    "code": "19803",
+    "name": "An Hòa",
+    "name_en": "An Hoa",
+    "full_name": "Phường An Hòa",
+    "full_name_en": "An Hoa Ward",
+    "type": "phường",
+    "district_code": "475",
+    "codename": "an_hoa"
+  },
+  {
+    "code": "19804",
+    "name": "Hương Sơ",
+    "name_en": "Huong So",
+    "full_name": "Phường Hương Sơ",
+    "full_name_en": "Huong So Ward",
+    "type": "phường",
+    "district_code": "475",
+    "codename": "huong_so"
+  },
+  {
+    "code": "19810",
+    "name": "Hương Long",
+    "name_en": "Huong Long",
+    "full_name": "Phường Hương Long",
+    "full_name_en": "Huong Long Ward",
+    "type": "phường",
+    "district_code": "475",
+    "codename": "huong_long"
+  },
+  {
+    "code": "20014",
+    "name": "Hương Vinh",
+    "name_en": "Huong Vinh",
+    "full_name": "Phường Hương Vinh",
+    "full_name_en": "Huong Vinh Ward",
+    "type": "phường",
+    "district_code": "475",
+    "codename": "huong_vinh"
+  },
+  {
+    "code": "20023",
+    "name": "Hương An",
+    "name_en": "Huong An",
+    "full_name": "Phường Hương An",
+    "full_name_en": "Huong An Ward",
+    "type": "phường",
+    "district_code": "475",
+    "codename": "huong_an"
+  },
+  {
+    "code": "20029",
+    "name": "Long Hồ",
+    "name_en": "Long Ho",
+    "full_name": "Phường Long Hồ",
+    "full_name_en": "Long Ho Ward",
+    "type": "phường",
+    "district_code": "475",
+    "codename": "long_ho"
+  }
+]

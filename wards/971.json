@@ -1,0 +1,82 @@
+[
+  {
+    "code": "32191",
+    "name": "Năm Căn",
+    "name_en": "Nam Can",
+    "full_name": "Thị trấn Năm Căn",
+    "full_name_en": "Nam Can Township",
+    "type": "thị trấn",
+    "district_code": "971",
+    "codename": "nam_can"
+  },
+  {
+    "code": "32194",
+    "name": "Hàm Rồng",
+    "name_en": "Ham Rong",
+    "full_name": "Xã Hàm Rồng",
+    "full_name_en": "Ham Rong Commune",
+    "type": "xã",
+    "district_code": "971",
+    "codename": "ham_rong"
+  },
+  {
+    "code": "32197",
+    "name": "Hiệp Tùng",
+    "name_en": "Hiep Tung",
+    "full_name": "Xã Hiệp Tùng",
+    "full_name_en": "Hiep Tung Commune",
+    "type": "xã",
+    "district_code": "971",
+    "codename": "hiep_tung"
+  },
+  {
+    "code": "32200",
+    "name": "Đất Mới",
+    "name_en": "Dat Moi",
+    "full_name": "Xã Đất Mới",
+    "full_name_en": "Dat Moi Commune",
+    "type": "xã",
+    "district_code": "971",
+    "codename": "dat_moi"
+  },
+  {
+    "code": "32201",
+    "name": "Lâm Hải",
+    "name_en": "Lam Hai",
+    "full_name": "Xã Lâm Hải",
+    "full_name_en": "Lam Hai Commune",
+    "type": "xã",
+    "district_code": "971",
+    "codename": "lam_hai"
+  },
+  {
+    "code": "32203",
+    "name": "Hàng Vịnh",
+    "name_en": "Hang Vinh",
+    "full_name": "Xã Hàng Vịnh",
+    "full_name_en": "Hang Vinh Commune",
+    "type": "xã",
+    "district_code": "971",
+    "codename": "hang_vinh"
+  },
+  {
+    "code": "32206",
+    "name": "Tam Giang",
+    "name_en": "Tam Giang",
+    "full_name": "Xã Tam Giang",
+    "full_name_en": "Tam Giang Commune",
+    "type": "xã",
+    "district_code": "971",
+    "codename": "tam_giang"
+  },
+  {
+    "code": "32209",
+    "name": "Tam Giang Đông",
+    "name_en": "Tam Giang Dong",
+    "full_name": "Xã Tam Giang Đông",
+    "full_name_en": "Tam Giang Dong Commune",
+    "type": "xã",
+    "district_code": "971",
+    "codename": "tam_giang_dong"
+  }
+]

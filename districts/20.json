@@ -1,0 +1,112 @@
+[
+  {
+    "code": "178",
+    "name": "Lạng Sơn",
+    "name_en": "Lang Son",
+    "full_name": "Thành phố Lạng Sơn",
+    "full_name_en": "Lang Son City",
+    "type": "thành phố",
+    "province_code": "20",
+    "codename": "lang_son"
+  },
+  {
+    "code": "180",
+    "name": "Tràng Định",
+    "name_en": "Trang Dinh",
+    "full_name": "Huyện Tràng Định",
+    "full_name_en": "Trang Dinh District",
+    "type": "huyện",
+    "province_code": "20",
+    "codename": "trang_dinh"
+  },
+  {
+    "code": "181",
+    "name": "Bình Gia",
+    "name_en": "Binh Gia",
+    "full_name": "Huyện Bình Gia",
+    "full_name_en": "Binh Gia District",
+    "type": "huyện",
+    "province_code": "20",
+    "codename": "binh_gia"
+  },
+  {
+    "code": "182",
+    "name": "Văn Lãng",
+    "name_en": "Van Lang",
+    "full_name": "Huyện Văn Lãng",
+    "full_name_en": "Van Lang District",
+    "type": "huyện",
+    "province_code": "20",
+    "codename": "van_lang"
+  },
+  {
+    "code": "183",
+    "name": "Cao Lộc",
+    "name_en": "Cao Loc",
+    "full_name": "Huyện Cao Lộc",
+    "full_name_en": "Cao Loc District",
+    "type": "huyện",
+    "province_code": "20",
+    "codename": "cao_loc"
+  },
+  {
+    "code": "184",
+    "name": "Văn Quan",
+    "name_en": "Van Quan",
+    "full_name": "Huyện Văn Quan",
+    "full_name_en": "Van Quan District",
+    "type": "huyện",
+    "province_code": "20",
+    "codename": "van_quan"
+  },
+  {
+    "code": "185",
+    "name": "Bắc Sơn",
+    "name_en": "Bac Son",
+    "full_name": "Huyện Bắc Sơn",
+    "full_name_en": "Bac Son District",
+    "type": "huyện",
+    "province_code": "20",
+    "codename": "bac_son"
+  },
+  {
+    "code": "186",
+    "name": "Hữu Lũng",
+    "name_en": "Huu Lung",
+    "full_name": "Huyện Hữu Lũng",
+    "full_name_en": "Huu Lung District",
+    "type": "huyện",
+    "province_code": "20",
+    "codename": "huu_lung"
+  },
+  {
+    "code": "187",
+    "name": "Chi Lăng",
+    "name_en": "Chi Lang",
+    "full_name": "Huyện Chi Lăng",
+    "full_name_en": "Chi Lang District",
+    "type": "huyện",
+    "province_code": "20",
+    "codename": "chi_lang"
+  },
+  {
+    "code": "188",
+    "name": "Lộc Bình",
+    "name_en": "Loc Binh",
+    "full_name": "Huyện Lộc Bình",
+    "full_name_en": "Loc Binh District",
+    "type": "huyện",
+    "province_code": "20",
+    "codename": "loc_binh"
+  },
+  {
+    "code": "189",
+    "name": "Đình Lập",
+    "name_en": "Dinh Lap",
+    "full_name": "Huyện Đình Lập",
+    "full_name_en": "Dinh Lap District",
+    "type": "huyện",
+    "province_code": "20",
+    "codename": "dinh_lap"
+  }
+]

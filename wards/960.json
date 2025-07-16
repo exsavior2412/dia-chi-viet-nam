@@ -1,0 +1,112 @@
+[
+  {
+    "code": "31972",
+    "name": "Gành Hào",
+    "name_en": "Ganh Hao",
+    "full_name": "Thị trấn Gành Hào",
+    "full_name_en": "Ganh Hao Township",
+    "type": "thị trấn",
+    "district_code": "960",
+    "codename": "ganh_hao"
+  },
+  {
+    "code": "31975",
+    "name": "Long Điền Đông",
+    "name_en": "Long Dien Dong",
+    "full_name": "Xã Long Điền Đông",
+    "full_name_en": "Long Dien Dong Commune",
+    "type": "xã",
+    "district_code": "960",
+    "codename": "long_dien_dong"
+  },
+  {
+    "code": "31978",
+    "name": "Long Điền Đông A",
+    "name_en": "Long Dien Dong A",
+    "full_name": "Xã Long Điền Đông A",
+    "full_name_en": "Long Dien Dong A Commune",
+    "type": "xã",
+    "district_code": "960",
+    "codename": "long_dien_dong_a"
+  },
+  {
+    "code": "31981",
+    "name": "Long Điền",
+    "name_en": "Long Dien",
+    "full_name": "Xã Long Điền",
+    "full_name_en": "Long Dien Commune",
+    "type": "xã",
+    "district_code": "960",
+    "codename": "long_dien"
+  },
+  {
+    "code": "31984",
+    "name": "Long Điền Tây",
+    "name_en": "Long Dien Tay",
+    "full_name": "Xã Long Điền Tây",
+    "full_name_en": "Long Dien Tay Commune",
+    "type": "xã",
+    "district_code": "960",
+    "codename": "long_dien_tay"
+  },
+  {
+    "code": "31985",
+    "name": "Điền Hải",
+    "name_en": "Dien Hai",
+    "full_name": "Xã Điền Hải",
+    "full_name_en": "Dien Hai Commune",
+    "type": "xã",
+    "district_code": "960",
+    "codename": "dien_hai"
+  },
+  {
+    "code": "31987",
+    "name": "An Trạch",
+    "name_en": "An Trach",
+    "full_name": "Xã An Trạch",
+    "full_name_en": "An Trach Commune",
+    "type": "xã",
+    "district_code": "960",
+    "codename": "an_trach"
+  },
+  {
+    "code": "31988",
+    "name": "An Trạch A",
+    "name_en": "An Trach A",
+    "full_name": "Xã An Trạch A",
+    "full_name_en": "An Trach A Commune",
+    "type": "xã",
+    "district_code": "960",
+    "codename": "an_trach_a"
+  },
+  {
+    "code": "31990",
+    "name": "An Phúc",
+    "name_en": "An Phuc",
+    "full_name": "Xã An Phúc",
+    "full_name_en": "An Phuc Commune",
+    "type": "xã",
+    "district_code": "960",
+    "codename": "an_phuc"
+  },
+  {
+    "code": "31993",
+    "name": "Định Thành",
+    "name_en": "Dinh Thanh",
+    "full_name": "Xã Định Thành",
+    "full_name_en": "Dinh Thanh Commune",
+    "type": "xã",
+    "district_code": "960",
+    "codename": "dinh_thanh"
+  },
+  {
+    "code": "31996",
+    "name": "Định Thành A",
+    "name_en": "Dinh Thanh A",
+    "full_name": "Xã Định Thành A",
+    "full_name_en": "Dinh Thanh A Commune",
+    "type": "xã",
+    "district_code": "960",
+    "codename": "dinh_thanh_a"
+  }
+]

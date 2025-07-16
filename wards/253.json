@@ -1,0 +1,142 @@
+[
+  {
+    "code": "08773",
+    "name": "Lãng Công",
+    "name_en": "Lang Cong",
+    "full_name": "Xã Lãng Công",
+    "full_name_en": "Lang Cong Commune",
+    "type": "xã",
+    "district_code": "253",
+    "codename": "lang_cong"
+  },
+  {
+    "code": "08776",
+    "name": "Quang Yên",
+    "name_en": "Quang Yen",
+    "full_name": "Xã Quang Yên",
+    "full_name_en": "Quang Yen Commune",
+    "type": "xã",
+    "district_code": "253",
+    "codename": "quang_yen"
+  },
+  {
+    "code": "08782",
+    "name": "Hải Lựu",
+    "name_en": "Hai Luu",
+    "full_name": "Xã Hải Lựu",
+    "full_name_en": "Hai Luu Commune",
+    "type": "xã",
+    "district_code": "253",
+    "codename": "hai_luu"
+  },
+  {
+    "code": "08800",
+    "name": "Đồng Quế",
+    "name_en": "Dong Que",
+    "full_name": "Xã Đồng Quế",
+    "full_name_en": "Dong Que Commune",
+    "type": "xã",
+    "district_code": "253",
+    "codename": "dong_que"
+  },
+  {
+    "code": "08803",
+    "name": "Nhân Đạo",
+    "name_en": "Nhan Dao",
+    "full_name": "Xã Nhân Đạo",
+    "full_name_en": "Nhan Dao Commune",
+    "type": "xã",
+    "district_code": "253",
+    "codename": "nhan_dao"
+  },
+  {
+    "code": "08806",
+    "name": "Đôn Nhân",
+    "name_en": "Don Nhan",
+    "full_name": "Xã Đôn Nhân",
+    "full_name_en": "Don Nhan Commune",
+    "type": "xã",
+    "district_code": "253",
+    "codename": "don_nhan"
+  },
+  {
+    "code": "08809",
+    "name": "Phương Khoan",
+    "name_en": "Phuong Khoan",
+    "full_name": "Xã Phương Khoan",
+    "full_name_en": "Phuong Khoan Commune",
+    "type": "xã",
+    "district_code": "253",
+    "codename": "phuong_khoan"
+  },
+  {
+    "code": "08818",
+    "name": "Tân Lập",
+    "name_en": "Tan Lap",
+    "full_name": "Xã Tân Lập",
+    "full_name_en": "Tan Lap Commune",
+    "type": "xã",
+    "district_code": "253",
+    "codename": "tan_lap"
+  },
+  {
+    "code": "08824",
+    "name": "Tam Sơn",
+    "name_en": "Tam Son",
+    "full_name": "Thị trấn Tam Sơn",
+    "full_name_en": "Tam Son Township",
+    "type": "thị trấn",
+    "district_code": "253",
+    "codename": "tam_son"
+  },
+  {
+    "code": "08830",
+    "name": "Yên Thạch",
+    "name_en": "Yen Thach",
+    "full_name": "Xã Yên Thạch",
+    "full_name_en": "Yen Thach Commune",
+    "type": "xã",
+    "district_code": "253",
+    "codename": "yen_thach"
+  },
+  {
+    "code": "08848",
+    "name": "Đồng Thịnh",
+    "name_en": "Dong Thinh",
+    "full_name": "Xã Đồng Thịnh",
+    "full_name_en": "Dong Thinh Commune",
+    "type": "xã",
+    "district_code": "253",
+    "codename": "dong_thinh"
+  },
+  {
+    "code": "08851",
+    "name": "Tứ Yên",
+    "name_en": "Tu Yen",
+    "full_name": "Xã Tứ Yên",
+    "full_name_en": "Tu Yen Commune",
+    "type": "xã",
+    "district_code": "253",
+    "codename": "tu_yen"
+  },
+  {
+    "code": "08854",
+    "name": "Đức Bác",
+    "name_en": "Duc Bac",
+    "full_name": "Xã Đức Bác",
+    "full_name_en": "Duc Bac Commune",
+    "type": "xã",
+    "district_code": "253",
+    "codename": "duc_bac"
+  },
+  {
+    "code": "08860",
+    "name": "Cao Phong",
+    "name_en": "Cao Phong",
+    "full_name": "Xã Cao Phong",
+    "full_name_en": "Cao Phong Commune",
+    "type": "xã",
+    "district_code": "253",
+    "codename": "cao_phong"
+  }
+]

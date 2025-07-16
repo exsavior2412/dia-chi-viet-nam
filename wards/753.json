@@ -1,0 +1,112 @@
+[
+  {
+    "code": "26659",
+    "name": "Long Điền",
+    "name_en": "Long Dien",
+    "full_name": "Thị trấn Long Điền",
+    "full_name_en": "Long Dien Township",
+    "type": "thị trấn",
+    "district_code": "753",
+    "codename": "long_dien"
+  },
+  {
+    "code": "26662",
+    "name": "Long Hải",
+    "name_en": "Long Hai",
+    "full_name": "Thị trấn Long Hải",
+    "full_name_en": "Long Hai Township",
+    "type": "thị trấn",
+    "district_code": "753",
+    "codename": "long_hai"
+  },
+  {
+    "code": "26668",
+    "name": "Tam An",
+    "name_en": "Tam An",
+    "full_name": "Xã Tam An",
+    "full_name_en": "Tam An Commune",
+    "type": "xã",
+    "district_code": "753",
+    "codename": "tam_an"
+  },
+  {
+    "code": "26674",
+    "name": "Phước Tỉnh",
+    "name_en": "Phuoc Tinh",
+    "full_name": "Xã Phước Tỉnh",
+    "full_name_en": "Phuoc Tinh Commune",
+    "type": "xã",
+    "district_code": "753",
+    "codename": "phuoc_tinh"
+  },
+  {
+    "code": "26677",
+    "name": "Phước Hưng",
+    "name_en": "Phuoc Hung",
+    "full_name": "Xã Phước Hưng",
+    "full_name_en": "Phuoc Hung Commune",
+    "type": "xã",
+    "district_code": "753",
+    "codename": "phuoc_hung"
+  },
+  {
+    "code": "26680",
+    "name": "Đất Đỏ",
+    "name_en": "Dat Do",
+    "full_name": "Thị trấn Đất Đỏ",
+    "full_name_en": "Dat Do Township",
+    "type": "thị trấn",
+    "district_code": "753",
+    "codename": "dat_do"
+  },
+  {
+    "code": "26683",
+    "name": "Phước Long Thọ",
+    "name_en": "Phuoc Long Tho",
+    "full_name": "Xã Phước Long Thọ",
+    "full_name_en": "Phuoc Long Tho Commune",
+    "type": "xã",
+    "district_code": "753",
+    "codename": "phuoc_long_tho"
+  },
+  {
+    "code": "26686",
+    "name": "Phước Hội",
+    "name_en": "Phuoc Hoi",
+    "full_name": "Xã Phước Hội",
+    "full_name_en": "Phuoc Hoi Commune",
+    "type": "xã",
+    "district_code": "753",
+    "codename": "phuoc_hoi"
+  },
+  {
+    "code": "26689",
+    "name": "Phước Hải",
+    "name_en": "Phuoc Hai",
+    "full_name": "Thị trấn Phước Hải",
+    "full_name_en": "Phuoc Hai Township",
+    "type": "thị trấn",
+    "district_code": "753",
+    "codename": "phuoc_hai"
+  },
+  {
+    "code": "26695",
+    "name": "Long Tân",
+    "name_en": "Long Tan",
+    "full_name": "Xã Long Tân",
+    "full_name_en": "Long Tan Commune",
+    "type": "xã",
+    "district_code": "753",
+    "codename": "long_tan"
+  },
+  {
+    "code": "26698",
+    "name": "Láng Dài",
+    "name_en": "Lang Dai",
+    "full_name": "Xã Láng Dài",
+    "full_name_en": "Lang Dai Commune",
+    "type": "xã",
+    "district_code": "753",
+    "codename": "lang_dai"
+  }
+]

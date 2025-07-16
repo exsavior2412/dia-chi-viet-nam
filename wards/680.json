@@ -1,0 +1,142 @@
+[
+  {
+    "code": "25054",
+    "name": "Lộc Thắng",
+    "name_en": "Loc Thang",
+    "full_name": "Thị trấn Lộc Thắng",
+    "full_name_en": "Loc Thang Township",
+    "type": "thị trấn",
+    "district_code": "680",
+    "codename": "loc_thang"
+  },
+  {
+    "code": "25057",
+    "name": "Lộc Bảo",
+    "name_en": "Loc Bao",
+    "full_name": "Xã Lộc Bảo",
+    "full_name_en": "Loc Bao Commune",
+    "type": "xã",
+    "district_code": "680",
+    "codename": "loc_bao"
+  },
+  {
+    "code": "25060",
+    "name": "Lộc Lâm",
+    "name_en": "Loc Lam",
+    "full_name": "Xã Lộc Lâm",
+    "full_name_en": "Loc Lam Commune",
+    "type": "xã",
+    "district_code": "680",
+    "codename": "loc_lam"
+  },
+  {
+    "code": "25063",
+    "name": "Lộc Phú",
+    "name_en": "Loc Phu",
+    "full_name": "Xã Lộc Phú",
+    "full_name_en": "Loc Phu Commune",
+    "type": "xã",
+    "district_code": "680",
+    "codename": "loc_phu"
+  },
+  {
+    "code": "25066",
+    "name": "Lộc Bắc",
+    "name_en": "Loc Bac",
+    "full_name": "Xã Lộc Bắc",
+    "full_name_en": "Loc Bac Commune",
+    "type": "xã",
+    "district_code": "680",
+    "codename": "loc_bac"
+  },
+  {
+    "code": "25069",
+    "name": "B' Lá",
+    "name_en": "B' La",
+    "full_name": "Xã B' Lá",
+    "full_name_en": "B' La Commune",
+    "type": "xã",
+    "district_code": "680",
+    "codename": "b_la"
+  },
+  {
+    "code": "25072",
+    "name": "Lộc Ngãi",
+    "name_en": "Loc Ngai",
+    "full_name": "Xã Lộc Ngãi",
+    "full_name_en": "Loc Ngai Commune",
+    "type": "xã",
+    "district_code": "680",
+    "codename": "loc_ngai"
+  },
+  {
+    "code": "25075",
+    "name": "Lộc Quảng",
+    "name_en": "Loc Quang",
+    "full_name": "Xã Lộc Quảng",
+    "full_name_en": "Loc Quang Commune",
+    "type": "xã",
+    "district_code": "680",
+    "codename": "loc_quang"
+  },
+  {
+    "code": "25078",
+    "name": "Lộc Tân",
+    "name_en": "Loc Tan",
+    "full_name": "Xã Lộc Tân",
+    "full_name_en": "Loc Tan Commune",
+    "type": "xã",
+    "district_code": "680",
+    "codename": "loc_tan"
+  },
+  {
+    "code": "25081",
+    "name": "Lộc Đức",
+    "name_en": "Loc Duc",
+    "full_name": "Xã Lộc Đức",
+    "full_name_en": "Loc Duc Commune",
+    "type": "xã",
+    "district_code": "680",
+    "codename": "loc_duc"
+  },
+  {
+    "code": "25084",
+    "name": "Lộc An",
+    "name_en": "Loc An",
+    "full_name": "Xã Lộc An",
+    "full_name_en": "Loc An Commune",
+    "type": "xã",
+    "district_code": "680",
+    "codename": "loc_an"
+  },
+  {
+    "code": "25087",
+    "name": "Tân Lạc",
+    "name_en": "Tan Lac",
+    "full_name": "Xã Tân Lạc",
+    "full_name_en": "Tan Lac Commune",
+    "type": "xã",
+    "district_code": "680",
+    "codename": "tan_lac"
+  },
+  {
+    "code": "25090",
+    "name": "Lộc Thành",
+    "name_en": "Loc Thanh",
+    "full_name": "Xã Lộc Thành",
+    "full_name_en": "Loc Thanh Commune",
+    "type": "xã",
+    "district_code": "680",
+    "codename": "loc_thanh"
+  },
+  {
+    "code": "25093",
+    "name": "Lộc Nam",
+    "name_en": "Loc Nam",
+    "full_name": "Xã Lộc Nam",
+    "full_name_en": "Loc Nam Commune",
+    "type": "xã",
+    "district_code": "680",
+    "codename": "loc_nam"
+  }
+]

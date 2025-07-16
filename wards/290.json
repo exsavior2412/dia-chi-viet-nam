@@ -1,0 +1,192 @@
+[
+  {
+    "code": "10546",
+    "name": "Phả Lại",
+    "name_en": "Pha Lai",
+    "full_name": "Phường Phả Lại",
+    "full_name_en": "Pha Lai Ward",
+    "type": "phường",
+    "district_code": "290",
+    "codename": "pha_lai"
+  },
+  {
+    "code": "10549",
+    "name": "Sao Đỏ",
+    "name_en": "Sao Do",
+    "full_name": "Phường Sao Đỏ",
+    "full_name_en": "Sao Do Ward",
+    "type": "phường",
+    "district_code": "290",
+    "codename": "sao_do"
+  },
+  {
+    "code": "10552",
+    "name": "Bến Tắm",
+    "name_en": "Ben Tam",
+    "full_name": "Phường Bến Tắm",
+    "full_name_en": "Ben Tam Ward",
+    "type": "phường",
+    "district_code": "290",
+    "codename": "ben_tam"
+  },
+  {
+    "code": "10555",
+    "name": "Hoàng Hoa Thám",
+    "name_en": "Hoang Hoa Tham",
+    "full_name": "Xã Hoàng Hoa Thám",
+    "full_name_en": "Hoang Hoa Tham Commune",
+    "type": "xã",
+    "district_code": "290",
+    "codename": "hoang_hoa_tham"
+  },
+  {
+    "code": "10558",
+    "name": "Bắc An",
+    "name_en": "Bac An",
+    "full_name": "Xã Bắc An",
+    "full_name_en": "Bac An Commune",
+    "type": "xã",
+    "district_code": "290",
+    "codename": "bac_an"
+  },
+  {
+    "code": "10561",
+    "name": "Hưng Đạo",
+    "name_en": "Hung Dao",
+    "full_name": "Xã Hưng Đạo",
+    "full_name_en": "Hung Dao Commune",
+    "type": "xã",
+    "district_code": "290",
+    "codename": "hung_dao"
+  },
+  {
+    "code": "10564",
+    "name": "Lê Lợi",
+    "name_en": "Le Loi",
+    "full_name": "Xã Lê Lợi",
+    "full_name_en": "Le Loi Commune",
+    "type": "xã",
+    "district_code": "290",
+    "codename": "le_loi"
+  },
+  {
+    "code": "10567",
+    "name": "Hoàng Tiến",
+    "name_en": "Hoang Tien",
+    "full_name": "Phường Hoàng Tiến",
+    "full_name_en": "Hoang Tien Ward",
+    "type": "phường",
+    "district_code": "290",
+    "codename": "hoang_tien"
+  },
+  {
+    "code": "10570",
+    "name": "Cộng Hoà",
+    "name_en": "Cong Hoa",
+    "full_name": "Phường Cộng Hoà",
+    "full_name_en": "Cong Hoa Ward",
+    "type": "phường",
+    "district_code": "290",
+    "codename": "cong_hoa"
+  },
+  {
+    "code": "10573",
+    "name": "Hoàng Tân",
+    "name_en": "Hoang Tan",
+    "full_name": "Phường Hoàng Tân",
+    "full_name_en": "Hoang Tan Ward",
+    "type": "phường",
+    "district_code": "290",
+    "codename": "hoang_tan"
+  },
+  {
+    "code": "10576",
+    "name": "Cổ Thành",
+    "name_en": "Co Thanh",
+    "full_name": "Phường Cổ Thành",
+    "full_name_en": "Co Thanh Ward",
+    "type": "phường",
+    "district_code": "290",
+    "codename": "co_thanh"
+  },
+  {
+    "code": "10579",
+    "name": "Văn An",
+    "name_en": "Van An",
+    "full_name": "Phường Văn An",
+    "full_name_en": "Van An Ward",
+    "type": "phường",
+    "district_code": "290",
+    "codename": "van_an"
+  },
+  {
+    "code": "10582",
+    "name": "Chí Minh",
+    "name_en": "Chi Minh",
+    "full_name": "Phường Chí Minh",
+    "full_name_en": "Chi Minh Ward",
+    "type": "phường",
+    "district_code": "290",
+    "codename": "chi_minh"
+  },
+  {
+    "code": "10585",
+    "name": "Văn Đức",
+    "name_en": "Van Duc",
+    "full_name": "Phường Văn Đức",
+    "full_name_en": "Van Duc Ward",
+    "type": "phường",
+    "district_code": "290",
+    "codename": "van_duc"
+  },
+  {
+    "code": "10588",
+    "name": "Thái Học",
+    "name_en": "Thai Hoc",
+    "full_name": "Phường Thái Học",
+    "full_name_en": "Thai Hoc Ward",
+    "type": "phường",
+    "district_code": "290",
+    "codename": "thai_hoc"
+  },
+  {
+    "code": "10591",
+    "name": "Nhân Huệ",
+    "name_en": "Nhan Hue",
+    "full_name": "Xã Nhân Huệ",
+    "full_name_en": "Nhan Hue Commune",
+    "type": "xã",
+    "district_code": "290",
+    "codename": "nhan_hue"
+  },
+  {
+    "code": "10594",
+    "name": "An Lạc",
+    "name_en": "An Lac",
+    "full_name": "Phường An Lạc",
+    "full_name_en": "An Lac Ward",
+    "type": "phường",
+    "district_code": "290",
+    "codename": "an_lac"
+  },
+  {
+    "code": "10600",
+    "name": "Đồng Lạc",
+    "name_en": "Dong Lac",
+    "full_name": "Phường Đồng Lạc",
+    "full_name_en": "Dong Lac Ward",
+    "type": "phường",
+    "district_code": "290",
+    "codename": "dong_lac"
+  },
+  {
+    "code": "10603",
+    "name": "Tân Dân",
+    "name_en": "Tan Dan",
+    "full_name": "Phường Tân Dân",
+    "full_name_en": "Tan Dan Ward",
+    "type": "phường",
+    "district_code": "290",
+    "codename": "tan_dan"
+  }
+]

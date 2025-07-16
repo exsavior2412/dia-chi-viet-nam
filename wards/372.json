@@ -1,0 +1,232 @@
+[
+  {
+    "code": "14386",
+    "name": "Xích Thổ",
+    "name_en": "Xich Tho",
+    "full_name": "Xã Xích Thổ",
+    "full_name_en": "Xich Tho Commune",
+    "type": "xã",
+    "district_code": "372",
+    "codename": "xich_tho"
+  },
+  {
+    "code": "14389",
+    "name": "Gia Lâm",
+    "name_en": "Gia Lam",
+    "full_name": "Xã Gia Lâm",
+    "full_name_en": "Gia Lam Commune",
+    "type": "xã",
+    "district_code": "372",
+    "codename": "gia_lam"
+  },
+  {
+    "code": "14392",
+    "name": "Gia Sơn",
+    "name_en": "Gia Son",
+    "full_name": "Xã Gia Sơn",
+    "full_name_en": "Gia Son Commune",
+    "type": "xã",
+    "district_code": "372",
+    "codename": "gia_son"
+  },
+  {
+    "code": "14395",
+    "name": "Thạch Bình",
+    "name_en": "Thach Binh",
+    "full_name": "Xã Thạch Bình",
+    "full_name_en": "Thach Binh Commune",
+    "type": "xã",
+    "district_code": "372",
+    "codename": "thach_binh"
+  },
+  {
+    "code": "14398",
+    "name": "Gia Thủy",
+    "name_en": "Gia Thuy",
+    "full_name": "Xã Gia Thủy",
+    "full_name_en": "Gia Thuy Commune",
+    "type": "xã",
+    "district_code": "372",
+    "codename": "gia_thuy"
+  },
+  {
+    "code": "14401",
+    "name": "Gia Tường",
+    "name_en": "Gia Tuong",
+    "full_name": "Xã Gia Tường",
+    "full_name_en": "Gia Tuong Commune",
+    "type": "xã",
+    "district_code": "372",
+    "codename": "gia_tuong"
+  },
+  {
+    "code": "14404",
+    "name": "Cúc Phương",
+    "name_en": "Cuc Phuong",
+    "full_name": "Xã Cúc Phương",
+    "full_name_en": "Cuc Phuong Commune",
+    "type": "xã",
+    "district_code": "372",
+    "codename": "cuc_phuong"
+  },
+  {
+    "code": "14407",
+    "name": "Phú Sơn",
+    "name_en": "Phu Son",
+    "full_name": "Xã Phú Sơn",
+    "full_name_en": "Phu Son Commune",
+    "type": "xã",
+    "district_code": "372",
+    "codename": "phu_son"
+  },
+  {
+    "code": "14410",
+    "name": "Đức Long",
+    "name_en": "Duc Long",
+    "full_name": "Xã Đức Long",
+    "full_name_en": "Duc Long Commune",
+    "type": "xã",
+    "district_code": "372",
+    "codename": "duc_long"
+  },
+  {
+    "code": "14413",
+    "name": "Lạc Vân",
+    "name_en": "Lac Van",
+    "full_name": "Xã Lạc Vân",
+    "full_name_en": "Lac Van Commune",
+    "type": "xã",
+    "district_code": "372",
+    "codename": "lac_van"
+  },
+  {
+    "code": "14416",
+    "name": "Đồng Phong",
+    "name_en": "Dong Phong",
+    "full_name": "Xã Đồng Phong",
+    "full_name_en": "Dong Phong Commune",
+    "type": "xã",
+    "district_code": "372",
+    "codename": "dong_phong"
+  },
+  {
+    "code": "14419",
+    "name": "Yên Quang",
+    "name_en": "Yen Quang",
+    "full_name": "Xã Yên Quang",
+    "full_name_en": "Yen Quang Commune",
+    "type": "xã",
+    "district_code": "372",
+    "codename": "yen_quang"
+  },
+  {
+    "code": "14425",
+    "name": "Thượng Hòa",
+    "name_en": "Thuong Hoa",
+    "full_name": "Xã Thượng Hòa",
+    "full_name_en": "Thuong Hoa Commune",
+    "type": "xã",
+    "district_code": "372",
+    "codename": "thuong_hoa"
+  },
+  {
+    "code": "14428",
+    "name": "Nho Quan",
+    "name_en": "Nho Quan",
+    "full_name": "Thị trấn Nho Quan",
+    "full_name_en": "Nho Quan Township",
+    "type": "thị trấn",
+    "district_code": "372",
+    "codename": "nho_quan"
+  },
+  {
+    "code": "14431",
+    "name": "Văn Phương",
+    "name_en": "Van Phuong",
+    "full_name": "Xã Văn Phương",
+    "full_name_en": "Van Phuong Commune",
+    "type": "xã",
+    "district_code": "372",
+    "codename": "van_phuong"
+  },
+  {
+    "code": "14434",
+    "name": "Thanh Sơn",
+    "name_en": "Thanh Son",
+    "full_name": "Xã Thanh Sơn",
+    "full_name_en": "Thanh Son Commune",
+    "type": "xã",
+    "district_code": "372",
+    "codename": "thanh_son"
+  },
+  {
+    "code": "14437",
+    "name": "Phúc Sơn",
+    "name_en": "Phuc Son",
+    "full_name": "Xã Phúc Sơn",
+    "full_name_en": "Phuc Son Commune",
+    "type": "xã",
+    "district_code": "372",
+    "codename": "phuc_son"
+  },
+  {
+    "code": "14443",
+    "name": "Văn Phú",
+    "name_en": "Van Phu",
+    "full_name": "Xã Văn Phú",
+    "full_name_en": "Van Phu Commune",
+    "type": "xã",
+    "district_code": "372",
+    "codename": "van_phu"
+  },
+  {
+    "code": "14446",
+    "name": "Phú Lộc",
+    "name_en": "Phu Loc",
+    "full_name": "Xã Phú Lộc",
+    "full_name_en": "Phu Loc Commune",
+    "type": "xã",
+    "district_code": "372",
+    "codename": "phu_loc"
+  },
+  {
+    "code": "14449",
+    "name": "Kỳ Phú",
+    "name_en": "Ky Phu",
+    "full_name": "Xã Kỳ Phú",
+    "full_name_en": "Ky Phu Commune",
+    "type": "xã",
+    "district_code": "372",
+    "codename": "ky_phu"
+  },
+  {
+    "code": "14452",
+    "name": "Quỳnh Lưu",
+    "name_en": "Quynh Luu",
+    "full_name": "Xã Quỳnh Lưu",
+    "full_name_en": "Quynh Luu Commune",
+    "type": "xã",
+    "district_code": "372",
+    "codename": "quynh_luu"
+  },
+  {
+    "code": "14458",
+    "name": "Phú Long",
+    "name_en": "Phu Long",
+    "full_name": "Xã Phú Long",
+    "full_name_en": "Phu Long Commune",
+    "type": "xã",
+    "district_code": "372",
+    "codename": "phu_long"
+  },
+  {
+    "code": "14461",
+    "name": "Quảng Lạc",
+    "name_en": "Quang Lac",
+    "full_name": "Xã Quảng Lạc",
+    "full_name_en": "Quang Lac Commune",
+    "type": "xã",
+    "district_code": "372",
+    "codename": "quang_lac"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "code": "25654",
+    "name": "Gò Dầu",
+    "name_en": "Go Dau",
+    "full_name": "Thị trấn Gò Dầu",
+    "full_name_en": "Go Dau Township",
+    "type": "thị trấn",
+    "district_code": "710",
+    "codename": "go_dau"
+  },
+  {
+    "code": "25657",
+    "name": "Thạnh Đức",
+    "name_en": "Thanh Duc",
+    "full_name": "Xã Thạnh Đức",
+    "full_name_en": "Thanh Duc Commune",
+    "type": "xã",
+    "district_code": "710",
+    "codename": "thanh_duc"
+  },
+  {
+    "code": "25660",
+    "name": "Cẩm Giang",
+    "name_en": "Cam Giang",
+    "full_name": "Xã Cẩm Giang",
+    "full_name_en": "Cam Giang Commune",
+    "type": "xã",
+    "district_code": "710",
+    "codename": "cam_giang"
+  },
+  {
+    "code": "25663",
+    "name": "Hiệp Thạnh",
+    "name_en": "Hiep Thanh",
+    "full_name": "Xã Hiệp Thạnh",
+    "full_name_en": "Hiep Thanh Commune",
+    "type": "xã",
+    "district_code": "710",
+    "codename": "hiep_thanh"
+  },
+  {
+    "code": "25666",
+    "name": "Bàu Đồn",
+    "name_en": "Bau Don",
+    "full_name": "Xã Bàu Đồn",
+    "full_name_en": "Bau Don Commune",
+    "type": "xã",
+    "district_code": "710",
+    "codename": "bau_don"
+  },
+  {
+    "code": "25669",
+    "name": "Phước Thạnh",
+    "name_en": "Phuoc Thanh",
+    "full_name": "Xã Phước Thạnh",
+    "full_name_en": "Phuoc Thanh Commune",
+    "type": "xã",
+    "district_code": "710",
+    "codename": "phuoc_thanh"
+  },
+  {
+    "code": "25672",
+    "name": "Phước Đông",
+    "name_en": "Phuoc Dong",
+    "full_name": "Xã Phước Đông",
+    "full_name_en": "Phuoc Dong Commune",
+    "type": "xã",
+    "district_code": "710",
+    "codename": "phuoc_dong"
+  },
+  {
+    "code": "25675",
+    "name": "Phước Trạch",
+    "name_en": "Phuoc Trach",
+    "full_name": "Xã Phước Trạch",
+    "full_name_en": "Phuoc Trach Commune",
+    "type": "xã",
+    "district_code": "710",
+    "codename": "phuoc_trach"
+  },
+  {
+    "code": "25678",
+    "name": "Thanh Phước",
+    "name_en": "Thanh Phuoc",
+    "full_name": "Xã Thanh Phước",
+    "full_name_en": "Thanh Phuoc Commune",
+    "type": "xã",
+    "district_code": "710",
+    "codename": "thanh_phuoc"
+  }
+]

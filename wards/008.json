@@ -1,0 +1,142 @@
+[
+  {
+    "code": "00301",
+    "name": "Thanh Trì",
+    "name_en": "Thanh Tri",
+    "full_name": "Phường Thanh Trì",
+    "full_name_en": "Thanh Tri Ward",
+    "type": "phường",
+    "district_code": "008",
+    "codename": "thanh_tri"
+  },
+  {
+    "code": "00304",
+    "name": "Vĩnh Hưng",
+    "name_en": "Vinh Hung",
+    "full_name": "Phường Vĩnh Hưng",
+    "full_name_en": "Vinh Hung Ward",
+    "type": "phường",
+    "district_code": "008",
+    "codename": "vinh_hung"
+  },
+  {
+    "code": "00307",
+    "name": "Định Công",
+    "name_en": "Dinh Cong",
+    "full_name": "Phường Định Công",
+    "full_name_en": "Dinh Cong Ward",
+    "type": "phường",
+    "district_code": "008",
+    "codename": "dinh_cong"
+  },
+  {
+    "code": "00310",
+    "name": "Mai Động",
+    "name_en": "Mai Dong",
+    "full_name": "Phường Mai Động",
+    "full_name_en": "Mai Dong Ward",
+    "type": "phường",
+    "district_code": "008",
+    "codename": "mai_dong"
+  },
+  {
+    "code": "00313",
+    "name": "Tương Mai",
+    "name_en": "Tuong Mai",
+    "full_name": "Phường Tương Mai",
+    "full_name_en": "Tuong Mai Ward",
+    "type": "phường",
+    "district_code": "008",
+    "codename": "tuong_mai"
+  },
+  {
+    "code": "00316",
+    "name": "Đại Kim",
+    "name_en": "Dai Kim",
+    "full_name": "Phường Đại Kim",
+    "full_name_en": "Dai Kim Ward",
+    "type": "phường",
+    "district_code": "008",
+    "codename": "dai_kim"
+  },
+  {
+    "code": "00319",
+    "name": "Tân Mai",
+    "name_en": "Tan Mai",
+    "full_name": "Phường Tân Mai",
+    "full_name_en": "Tan Mai Ward",
+    "type": "phường",
+    "district_code": "008",
+    "codename": "tan_mai"
+  },
+  {
+    "code": "00322",
+    "name": "Hoàng Văn Thụ",
+    "name_en": "Hoang Van Thu",
+    "full_name": "Phường Hoàng Văn Thụ",
+    "full_name_en": "Hoang Van Thu Ward",
+    "type": "phường",
+    "district_code": "008",
+    "codename": "hoang_van_thu"
+  },
+  {
+    "code": "00325",
+    "name": "Giáp Bát",
+    "name_en": "Giap Bat",
+    "full_name": "Phường Giáp Bát",
+    "full_name_en": "Giap Bat Ward",
+    "type": "phường",
+    "district_code": "008",
+    "codename": "giap_bat"
+  },
+  {
+    "code": "00328",
+    "name": "Lĩnh Nam",
+    "name_en": "Linh Nam",
+    "full_name": "Phường Lĩnh Nam",
+    "full_name_en": "Linh Nam Ward",
+    "type": "phường",
+    "district_code": "008",
+    "codename": "linh_nam"
+  },
+  {
+    "code": "00331",
+    "name": "Thịnh Liệt",
+    "name_en": "Thinh Liet",
+    "full_name": "Phường Thịnh Liệt",
+    "full_name_en": "Thinh Liet Ward",
+    "type": "phường",
+    "district_code": "008",
+    "codename": "thinh_liet"
+  },
+  {
+    "code": "00334",
+    "name": "Trần Phú",
+    "name_en": "Tran Phu",
+    "full_name": "Phường Trần Phú",
+    "full_name_en": "Tran Phu Ward",
+    "type": "phường",
+    "district_code": "008",
+    "codename": "tran_phu"
+  },
+  {
+    "code": "00337",
+    "name": "Hoàng Liệt",
+    "name_en": "Hoang Liet",
+    "full_name": "Phường Hoàng Liệt",
+    "full_name_en": "Hoang Liet Ward",
+    "type": "phường",
+    "district_code": "008",
+    "codename": "hoang_liet"
+  },
+  {
+    "code": "00340",
+    "name": "Yên Sở",
+    "name_en": "Yen So",
+    "full_name": "Phường Yên Sở",
+    "full_name_en": "Yen So Ward",
+    "type": "phường",
+    "district_code": "008",
+    "codename": "yen_so"
+  }
+]

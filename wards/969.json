@@ -1,0 +1,112 @@
+[
+  {
+    "code": "32128",
+    "name": "Cái Nước",
+    "name_en": "Cai Nuoc",
+    "full_name": "Thị trấn Cái Nước",
+    "full_name_en": "Cai Nuoc Township",
+    "type": "thị trấn",
+    "district_code": "969",
+    "codename": "cai_nuoc"
+  },
+  {
+    "code": "32130",
+    "name": "Thạnh Phú",
+    "name_en": "Thanh Phu",
+    "full_name": "Xã Thạnh Phú",
+    "full_name_en": "Thanh Phu Commune",
+    "type": "xã",
+    "district_code": "969",
+    "codename": "thanh_phu"
+  },
+  {
+    "code": "32131",
+    "name": "Lương Thế Trân",
+    "name_en": "Luong The Tran",
+    "full_name": "Xã Lương Thế Trân",
+    "full_name_en": "Luong The Tran Commune",
+    "type": "xã",
+    "district_code": "969",
+    "codename": "luong_the_tran"
+  },
+  {
+    "code": "32134",
+    "name": "Phú Hưng",
+    "name_en": "Phu Hung",
+    "full_name": "Xã Phú Hưng",
+    "full_name_en": "Phu Hung Commune",
+    "type": "xã",
+    "district_code": "969",
+    "codename": "phu_hung"
+  },
+  {
+    "code": "32137",
+    "name": "Tân Hưng",
+    "name_en": "Tan Hung",
+    "full_name": "Xã Tân Hưng",
+    "full_name_en": "Tan Hung Commune",
+    "type": "xã",
+    "district_code": "969",
+    "codename": "tan_hung"
+  },
+  {
+    "code": "32140",
+    "name": "Hưng Mỹ",
+    "name_en": "Hung My",
+    "full_name": "Xã Hưng Mỹ",
+    "full_name_en": "Hung My Commune",
+    "type": "xã",
+    "district_code": "969",
+    "codename": "hung_my"
+  },
+  {
+    "code": "32141",
+    "name": "Hoà Mỹ",
+    "name_en": "Hoa My",
+    "full_name": "Xã Hoà Mỹ",
+    "full_name_en": "Hoa My Commune",
+    "type": "xã",
+    "district_code": "969",
+    "codename": "hoa_my"
+  },
+  {
+    "code": "32142",
+    "name": "Đông Hưng",
+    "name_en": "Dong Hung",
+    "full_name": "Xã Đông Hưng",
+    "full_name_en": "Dong Hung Commune",
+    "type": "xã",
+    "district_code": "969",
+    "codename": "dong_hung"
+  },
+  {
+    "code": "32143",
+    "name": "Đông Thới",
+    "name_en": "Dong Thoi",
+    "full_name": "Xã Đông Thới",
+    "full_name_en": "Dong Thoi Commune",
+    "type": "xã",
+    "district_code": "969",
+    "codename": "dong_thoi"
+  },
+  {
+    "code": "32146",
+    "name": "Tân Hưng Đông",
+    "name_en": "Tan Hung Dong",
+    "full_name": "Xã Tân Hưng Đông",
+    "full_name_en": "Tan Hung Dong Commune",
+    "type": "xã",
+    "district_code": "969",
+    "codename": "tan_hung_dong"
+  },
+  {
+    "code": "32149",
+    "name": "Trần Thới",
+    "name_en": "Tran Thoi",
+    "full_name": "Xã Trần Thới",
+    "full_name_en": "Tran Thoi Commune",
+    "type": "xã",
+    "district_code": "969",
+    "codename": "tran_thoi"
+  }
+]

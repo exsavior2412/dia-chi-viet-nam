@@ -1,0 +1,202 @@
+[
+  {
+    "code": "10354",
+    "name": "Vân Đình",
+    "name_en": "Van Dinh",
+    "full_name": "Thị trấn Vân Đình",
+    "full_name_en": "Van Dinh Township",
+    "type": "thị trấn",
+    "district_code": "281",
+    "codename": "van_dinh"
+  },
+  {
+    "code": "10363",
+    "name": "Hoa Viên",
+    "name_en": "Hoa Vien",
+    "full_name": "Xã Hoa Viên",
+    "full_name_en": "Hoa Vien Commune",
+    "type": "xã",
+    "district_code": "281",
+    "codename": "hoa_vien"
+  },
+  {
+    "code": "10366",
+    "name": "Quảng Phú Cầu",
+    "name_en": "Quang Phu Cau",
+    "full_name": "Xã Quảng Phú Cầu",
+    "full_name_en": "Quang Phu Cau Commune",
+    "type": "xã",
+    "district_code": "281",
+    "codename": "quang_phu_cau"
+  },
+  {
+    "code": "10369",
+    "name": "Trường Thịnh",
+    "name_en": "Truong Thinh",
+    "full_name": "Xã Trường Thịnh",
+    "full_name_en": "Truong Thinh Commune",
+    "type": "xã",
+    "district_code": "281",
+    "codename": "truong_thinh"
+  },
+  {
+    "code": "10375",
+    "name": "Liên Bạt",
+    "name_en": "Lien Bat",
+    "full_name": "Xã Liên Bạt",
+    "full_name_en": "Lien Bat Commune",
+    "type": "xã",
+    "district_code": "281",
+    "codename": "lien_bat"
+  },
+  {
+    "code": "10378",
+    "name": "Cao Sơn Tiến",
+    "name_en": "Cao Son Tien",
+    "full_name": "Xã Cao Sơn Tiến",
+    "full_name_en": "Cao Son Tien Commune",
+    "type": "xã",
+    "district_code": "281",
+    "codename": "cao_son_tien"
+  },
+  {
+    "code": "10384",
+    "name": "Phương Tú",
+    "name_en": "Phuong Tu",
+    "full_name": "Xã Phương Tú",
+    "full_name_en": "Phuong Tu Commune",
+    "type": "xã",
+    "district_code": "281",
+    "codename": "phuong_tu"
+  },
+  {
+    "code": "10387",
+    "name": "Trung Tú",
+    "name_en": "Trung Tu",
+    "full_name": "Xã Trung Tú",
+    "full_name_en": "Trung Tu Commune",
+    "type": "xã",
+    "district_code": "281",
+    "codename": "trung_tu"
+  },
+  {
+    "code": "10390",
+    "name": "Đồng Tân",
+    "name_en": "Dong Tan",
+    "full_name": "Xã Đồng Tân",
+    "full_name_en": "Dong Tan Commune",
+    "type": "xã",
+    "district_code": "281",
+    "codename": "dong_tan"
+  },
+  {
+    "code": "10393",
+    "name": "Tảo Dương Văn",
+    "name_en": "Tao Duong Van",
+    "full_name": "Xã Tảo Dương Văn",
+    "full_name_en": "Tao Duong Van Commune",
+    "type": "xã",
+    "district_code": "281",
+    "codename": "tao_duong_van"
+  },
+  {
+    "code": "10396",
+    "name": "Thái Hòa",
+    "name_en": "Thai Hoa",
+    "full_name": "Xã Thái Hòa",
+    "full_name_en": "Thai Hoa Commune",
+    "type": "xã",
+    "district_code": "281",
+    "codename": "thai_hoa"
+  },
+  {
+    "code": "10399",
+    "name": "Minh Đức",
+    "name_en": "Minh Duc",
+    "full_name": "Xã Minh Đức",
+    "full_name_en": "Minh Duc Commune",
+    "type": "xã",
+    "district_code": "281",
+    "codename": "minh_duc"
+  },
+  {
+    "code": "10402",
+    "name": "Trầm Lộng",
+    "name_en": "Tram Long",
+    "full_name": "Xã Trầm Lộng",
+    "full_name_en": "Tram Long Commune",
+    "type": "xã",
+    "district_code": "281",
+    "codename": "tram_long"
+  },
+  {
+    "code": "10411",
+    "name": "Kim Đường",
+    "name_en": "Kim Duong",
+    "full_name": "Xã Kim Đường",
+    "full_name_en": "Kim Duong Commune",
+    "type": "xã",
+    "district_code": "281",
+    "codename": "kim_duong"
+  },
+  {
+    "code": "10417",
+    "name": "Hòa Phú",
+    "name_en": "Hoa Phu",
+    "full_name": "Xã Hòa Phú",
+    "full_name_en": "Hoa Phu Commune",
+    "type": "xã",
+    "district_code": "281",
+    "codename": "hoa_phu"
+  },
+  {
+    "code": "10423",
+    "name": "Đại Hùng",
+    "name_en": "Dai Hung",
+    "full_name": "Xã Đại Hùng",
+    "full_name_en": "Dai Hung Commune",
+    "type": "xã",
+    "district_code": "281",
+    "codename": "dai_hung"
+  },
+  {
+    "code": "10426",
+    "name": "Đông Lỗ",
+    "name_en": "Dong Lo",
+    "full_name": "Xã Đông Lỗ",
+    "full_name_en": "Dong Lo Commune",
+    "type": "xã",
+    "district_code": "281",
+    "codename": "dong_lo"
+  },
+  {
+    "code": "10429",
+    "name": "Phù Lưu",
+    "name_en": "Phu Luu",
+    "full_name": "Xã Phù Lưu",
+    "full_name_en": "Phu Luu Commune",
+    "type": "xã",
+    "district_code": "281",
+    "codename": "phu_luu"
+  },
+  {
+    "code": "10432",
+    "name": "Đại Cường",
+    "name_en": "Dai Cuong",
+    "full_name": "Xã Đại Cường",
+    "full_name_en": "Dai Cuong Commune",
+    "type": "xã",
+    "district_code": "281",
+    "codename": "dai_cuong"
+  },
+  {
+    "code": "10435",
+    "name": "Bình Lưu Quang",
+    "name_en": "Binh Luu Quang",
+    "full_name": "Xã Bình Lưu Quang",
+    "full_name_en": "Binh Luu Quang Commune",
+    "type": "xã",
+    "district_code": "281",
+    "codename": "binh_luu_quang"
+  }
+]

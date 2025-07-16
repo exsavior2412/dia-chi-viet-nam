@@ -1,0 +1,162 @@
+[
+  {
+    "code": "24868",
+    "name": "Nam Ban",
+    "name_en": "Nam Ban",
+    "full_name": "Thị trấn Nam Ban",
+    "full_name_en": "Nam Ban Township",
+    "type": "thị trấn",
+    "district_code": "676",
+    "codename": "nam_ban"
+  },
+  {
+    "code": "24871",
+    "name": "Đinh Văn",
+    "name_en": "Dinh Van",
+    "full_name": "Thị trấn Đinh Văn",
+    "full_name_en": "Dinh Van Township",
+    "type": "thị trấn",
+    "district_code": "676",
+    "codename": "dinh_van"
+  },
+  {
+    "code": "24880",
+    "name": "Phú Sơn",
+    "name_en": "Phu Son",
+    "full_name": "Xã Phú Sơn",
+    "full_name_en": "Phu Son Commune",
+    "type": "xã",
+    "district_code": "676",
+    "codename": "phu_son"
+  },
+  {
+    "code": "24883",
+    "name": "Phi Tô",
+    "name_en": "Phi To",
+    "full_name": "Xã Phi Tô",
+    "full_name_en": "Phi To Commune",
+    "type": "xã",
+    "district_code": "676",
+    "codename": "phi_to"
+  },
+  {
+    "code": "24892",
+    "name": "Mê Linh",
+    "name_en": "Me Linh",
+    "full_name": "Xã Mê Linh",
+    "full_name_en": "Me Linh Commune",
+    "type": "xã",
+    "district_code": "676",
+    "codename": "me_linh"
+  },
+  {
+    "code": "24895",
+    "name": "Đạ Đờn",
+    "name_en": "Da Don",
+    "full_name": "Xã Đạ Đờn",
+    "full_name_en": "Da Don Commune",
+    "type": "xã",
+    "district_code": "676",
+    "codename": "da_don"
+  },
+  {
+    "code": "24898",
+    "name": "Phúc Thọ",
+    "name_en": "Phuc Tho",
+    "full_name": "Xã Phúc Thọ",
+    "full_name_en": "Phuc Tho Commune",
+    "type": "xã",
+    "district_code": "676",
+    "codename": "phuc_tho"
+  },
+  {
+    "code": "24901",
+    "name": "Đông Thanh",
+    "name_en": "Dong Thanh",
+    "full_name": "Xã Đông Thanh",
+    "full_name_en": "Dong Thanh Commune",
+    "type": "xã",
+    "district_code": "676",
+    "codename": "dong_thanh"
+  },
+  {
+    "code": "24904",
+    "name": "Gia Lâm",
+    "name_en": "Gia Lam",
+    "full_name": "Xã Gia Lâm",
+    "full_name_en": "Gia Lam Commune",
+    "type": "xã",
+    "district_code": "676",
+    "codename": "gia_lam"
+  },
+  {
+    "code": "24907",
+    "name": "Tân Thanh",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thanh",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "676",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "24910",
+    "name": "Tân Văn",
+    "name_en": "Tan Van",
+    "full_name": "Xã Tân Văn",
+    "full_name_en": "Tan Van Commune",
+    "type": "xã",
+    "district_code": "676",
+    "codename": "tan_van"
+  },
+  {
+    "code": "24913",
+    "name": "Hoài Đức",
+    "name_en": "Hoai Duc",
+    "full_name": "Xã Hoài Đức",
+    "full_name_en": "Hoai Duc Commune",
+    "type": "xã",
+    "district_code": "676",
+    "codename": "hoai_duc"
+  },
+  {
+    "code": "24916",
+    "name": "Tân Hà",
+    "name_en": "Tan Ha",
+    "full_name": "Xã Tân Hà",
+    "full_name_en": "Tan Ha Commune",
+    "type": "xã",
+    "district_code": "676",
+    "codename": "tan_ha"
+  },
+  {
+    "code": "24919",
+    "name": "Liên Hà",
+    "name_en": "Lien Ha",
+    "full_name": "Xã Liên Hà",
+    "full_name_en": "Lien Ha Commune",
+    "type": "xã",
+    "district_code": "676",
+    "codename": "lien_ha"
+  },
+  {
+    "code": "24922",
+    "name": "Đan Phượng",
+    "name_en": "Dan Phuong",
+    "full_name": "Xã Đan Phượng",
+    "full_name_en": "Dan Phuong Commune",
+    "type": "xã",
+    "district_code": "676",
+    "codename": "dan_phuong"
+  },
+  {
+    "code": "24925",
+    "name": "Nam Hà",
+    "name_en": "Nam Ha",
+    "full_name": "Xã Nam Hà",
+    "full_name_en": "Nam Ha Commune",
+    "type": "xã",
+    "district_code": "676",
+    "codename": "nam_ha"
+  }
+]

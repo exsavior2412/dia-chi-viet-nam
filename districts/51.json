@@ -1,0 +1,132 @@
+[
+  {
+    "code": "522",
+    "name": "Quảng Ngãi",
+    "name_en": "Quang Ngai",
+    "full_name": "Thành phố Quảng Ngãi",
+    "full_name_en": "Quang Ngai City",
+    "type": "thành phố",
+    "province_code": "51",
+    "codename": "quang_ngai"
+  },
+  {
+    "code": "524",
+    "name": "Bình Sơn",
+    "name_en": "Binh Son",
+    "full_name": "Huyện Bình Sơn",
+    "full_name_en": "Binh Son District",
+    "type": "huyện",
+    "province_code": "51",
+    "codename": "binh_son"
+  },
+  {
+    "code": "525",
+    "name": "Trà Bồng",
+    "name_en": "Tra Bong",
+    "full_name": "Huyện Trà Bồng",
+    "full_name_en": "Tra Bong District",
+    "type": "huyện",
+    "province_code": "51",
+    "codename": "tra_bong"
+  },
+  {
+    "code": "527",
+    "name": "Sơn Tịnh",
+    "name_en": "Son Tinh",
+    "full_name": "Huyện Sơn Tịnh",
+    "full_name_en": "Son Tinh District",
+    "type": "huyện",
+    "province_code": "51",
+    "codename": "son_tinh"
+  },
+  {
+    "code": "528",
+    "name": "Tư Nghĩa",
+    "name_en": "Tu Nghia",
+    "full_name": "Huyện Tư Nghĩa",
+    "full_name_en": "Tu Nghia District",
+    "type": "huyện",
+    "province_code": "51",
+    "codename": "tu_nghia"
+  },
+  {
+    "code": "529",
+    "name": "Sơn Hà",
+    "name_en": "Son Ha",
+    "full_name": "Huyện Sơn Hà",
+    "full_name_en": "Son Ha District",
+    "type": "huyện",
+    "province_code": "51",
+    "codename": "son_ha"
+  },
+  {
+    "code": "530",
+    "name": "Sơn Tây",
+    "name_en": "Son Tay",
+    "full_name": "Huyện Sơn Tây",
+    "full_name_en": "Son Tay District",
+    "type": "huyện",
+    "province_code": "51",
+    "codename": "son_tay"
+  },
+  {
+    "code": "531",
+    "name": "Minh Long",
+    "name_en": "Minh Long",
+    "full_name": "Huyện Minh Long",
+    "full_name_en": "Minh Long District",
+    "type": "huyện",
+    "province_code": "51",
+    "codename": "minh_long"
+  },
+  {
+    "code": "532",
+    "name": "Nghĩa Hành",
+    "name_en": "Nghia Hanh",
+    "full_name": "Huyện Nghĩa Hành",
+    "full_name_en": "Nghia Hanh District",
+    "type": "huyện",
+    "province_code": "51",
+    "codename": "nghia_hanh"
+  },
+  {
+    "code": "533",
+    "name": "Mộ Đức",
+    "name_en": "Mo Duc",
+    "full_name": "Huyện Mộ Đức",
+    "full_name_en": "Mo Duc District",
+    "type": "huyện",
+    "province_code": "51",
+    "codename": "mo_duc"
+  },
+  {
+    "code": "534",
+    "name": "Đức Phổ",
+    "name_en": "Duc Pho",
+    "full_name": "Thị xã Đức Phổ",
+    "full_name_en": "Duc Pho Town",
+    "type": "thị xã",
+    "province_code": "51",
+    "codename": "duc_pho"
+  },
+  {
+    "code": "535",
+    "name": "Ba Tơ",
+    "name_en": "Ba To",
+    "full_name": "Huyện Ba Tơ",
+    "full_name_en": "Ba To District",
+    "type": "huyện",
+    "province_code": "51",
+    "codename": "ba_to"
+  },
+  {
+    "code": "536",
+    "name": "Lý Sơn",
+    "name_en": "Ly Son",
+    "full_name": "Huyện Lý Sơn",
+    "full_name_en": "Ly Son District",
+    "type": "huyện",
+    "province_code": "51",
+    "codename": "ly_son"
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "code": "03901",
+    "name": "Suối Tọ",
+    "name_en": "Suoi To",
+    "full_name": "Xã Suối Tọ",
+    "full_name_en": "Suoi To Commune",
+    "type": "xã",
+    "district_code": "122",
+    "codename": "suoi_to"
+  },
+  {
+    "code": "03904",
+    "name": "Mường Thải",
+    "name_en": "Muong Thai",
+    "full_name": "Xã Mường Thải",
+    "full_name_en": "Muong Thai Commune",
+    "type": "xã",
+    "district_code": "122",
+    "codename": "muong_thai"
+  },
+  {
+    "code": "03907",
+    "name": "Mường Cơi",
+    "name_en": "Muong Coi",
+    "full_name": "Xã Mường Cơi",
+    "full_name_en": "Muong Coi Commune",
+    "type": "xã",
+    "district_code": "122",
+    "codename": "muong_coi"
+  },
+  {
+    "code": "03910",
+    "name": "Quang Huy",
+    "name_en": "Quang Huy",
+    "full_name": "Thị trấn Quang Huy",
+    "full_name_en": "Quang Huy Township",
+    "type": "thị trấn",
+    "district_code": "122",
+    "codename": "quang_huy"
+  },
+  {
+    "code": "03916",
+    "name": "Huy Thượng",
+    "name_en": "Huy Thuong",
+    "full_name": "Xã Huy Thượng",
+    "full_name_en": "Huy Thuong Commune",
+    "type": "xã",
+    "district_code": "122",
+    "codename": "huy_thuong"
+  },
+  {
+    "code": "03919",
+    "name": "Tân Lang",
+    "name_en": "Tan Lang",
+    "full_name": "Xã Tân Lang",
+    "full_name_en": "Tan Lang Commune",
+    "type": "xã",
+    "district_code": "122",
+    "codename": "tan_lang"
+  },
+  {
+    "code": "03922",
+    "name": "Gia Phù",
+    "name_en": "Gia Phu",
+    "full_name": "Xã Gia Phù",
+    "full_name_en": "Gia Phu Commune",
+    "type": "xã",
+    "district_code": "122",
+    "codename": "gia_phu"
+  },
+  {
+    "code": "03925",
+    "name": "Tường Phù",
+    "name_en": "Tuong Phu",
+    "full_name": "Xã Tường Phù",
+    "full_name_en": "Tuong Phu Commune",
+    "type": "xã",
+    "district_code": "122",
+    "codename": "tuong_phu"
+  },
+  {
+    "code": "03928",
+    "name": "Huy Hạ",
+    "name_en": "Huy Ha",
+    "full_name": "Xã Huy Hạ",
+    "full_name_en": "Huy Ha Commune",
+    "type": "xã",
+    "district_code": "122",
+    "codename": "huy_ha"
+  },
+  {
+    "code": "03931",
+    "name": "Huy Tân",
+    "name_en": "Huy Tan",
+    "full_name": "Xã Huy Tân",
+    "full_name_en": "Huy Tan Commune",
+    "type": "xã",
+    "district_code": "122",
+    "codename": "huy_tan"
+  },
+  {
+    "code": "03934",
+    "name": "Mường Lang",
+    "name_en": "Muong Lang",
+    "full_name": "Xã Mường Lang",
+    "full_name_en": "Muong Lang Commune",
+    "type": "xã",
+    "district_code": "122",
+    "codename": "muong_lang"
+  },
+  {
+    "code": "03937",
+    "name": "Suối Bau",
+    "name_en": "Suoi Bau",
+    "full_name": "Xã Suối Bau",
+    "full_name_en": "Suoi Bau Commune",
+    "type": "xã",
+    "district_code": "122",
+    "codename": "suoi_bau"
+  },
+  {
+    "code": "03940",
+    "name": "Huy Tường",
+    "name_en": "Huy Tuong",
+    "full_name": "Xã Huy Tường",
+    "full_name_en": "Huy Tuong Commune",
+    "type": "xã",
+    "district_code": "122",
+    "codename": "huy_tuong"
+  },
+  {
+    "code": "03943",
+    "name": "Mường Do",
+    "name_en": "Muong Do",
+    "full_name": "Xã Mường Do",
+    "full_name_en": "Muong Do Commune",
+    "type": "xã",
+    "district_code": "122",
+    "codename": "muong_do"
+  },
+  {
+    "code": "03946",
+    "name": "Sập Xa",
+    "name_en": "Sap Xa",
+    "full_name": "Xã Sập Xa",
+    "full_name_en": "Sap Xa Commune",
+    "type": "xã",
+    "district_code": "122",
+    "codename": "sap_xa"
+  },
+  {
+    "code": "03949",
+    "name": "Tường Thượng",
+    "name_en": "Tuong Thuong",
+    "full_name": "Xã Tường Thượng",
+    "full_name_en": "Tuong Thuong Commune",
+    "type": "xã",
+    "district_code": "122",
+    "codename": "tuong_thuong"
+  },
+  {
+    "code": "03952",
+    "name": "Tường Tiến",
+    "name_en": "Tuong Tien",
+    "full_name": "Xã Tường Tiến",
+    "full_name_en": "Tuong Tien Commune",
+    "type": "xã",
+    "district_code": "122",
+    "codename": "tuong_tien"
+  },
+  {
+    "code": "03955",
+    "name": "Tường Phong",
+    "name_en": "Tuong Phong",
+    "full_name": "Xã Tường Phong",
+    "full_name_en": "Tuong Phong Commune",
+    "type": "xã",
+    "district_code": "122",
+    "codename": "tuong_phong"
+  },
+  {
+    "code": "03958",
+    "name": "Tường Hạ",
+    "name_en": "Tuong Ha",
+    "full_name": "Xã Tường Hạ",
+    "full_name_en": "Tuong Ha Commune",
+    "type": "xã",
+    "district_code": "122",
+    "codename": "tuong_ha"
+  },
+  {
+    "code": "03961",
+    "name": "Kim Bon",
+    "name_en": "Kim Bon",
+    "full_name": "Xã Kim Bon",
+    "full_name_en": "Kim Bon Commune",
+    "type": "xã",
+    "district_code": "122",
+    "codename": "kim_bon"
+  },
+  {
+    "code": "03964",
+    "name": "Mường Bang",
+    "name_en": "Muong Bang",
+    "full_name": "Xã Mường Bang",
+    "full_name_en": "Muong Bang Commune",
+    "type": "xã",
+    "district_code": "122",
+    "codename": "muong_bang"
+  },
+  {
+    "code": "03967",
+    "name": "Đá Đỏ",
+    "name_en": "Da Do",
+    "full_name": "Xã Đá Đỏ",
+    "full_name_en": "Da Do Commune",
+    "type": "xã",
+    "district_code": "122",
+    "codename": "da_do"
+  },
+  {
+    "code": "03970",
+    "name": "Tân Phong",
+    "name_en": "Tan Phong",
+    "full_name": "Xã Tân Phong",
+    "full_name_en": "Tan Phong Commune",
+    "type": "xã",
+    "district_code": "122",
+    "codename": "tan_phong"
+  },
+  {
+    "code": "03973",
+    "name": "Nam Phong",
+    "name_en": "Nam Phong",
+    "full_name": "Xã Nam Phong",
+    "full_name_en": "Nam Phong Commune",
+    "type": "xã",
+    "district_code": "122",
+    "codename": "nam_phong"
+  },
+  {
+    "code": "03976",
+    "name": "Bắc Phong",
+    "name_en": "Bac Phong",
+    "full_name": "Xã Bắc Phong",
+    "full_name_en": "Bac Phong Commune",
+    "type": "xã",
+    "district_code": "122",
+    "codename": "bac_phong"
+  }
+]

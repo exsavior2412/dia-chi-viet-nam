@@ -1,0 +1,192 @@
+[
+  {
+    "code": "07375",
+    "name": "Vôi",
+    "name_en": "Voi",
+    "full_name": "Thị trấn Vôi",
+    "full_name_en": "Voi Township",
+    "type": "thị trấn",
+    "district_code": "217",
+    "codename": "voi"
+  },
+  {
+    "code": "07378",
+    "name": "Nghĩa Hòa",
+    "name_en": "Nghia Hoa",
+    "full_name": "Xã Nghĩa Hòa",
+    "full_name_en": "Nghia Hoa Commune",
+    "type": "xã",
+    "district_code": "217",
+    "codename": "nghia_hoa"
+  },
+  {
+    "code": "07381",
+    "name": "Nghĩa Hưng",
+    "name_en": "Nghia Hung",
+    "full_name": "Xã Nghĩa Hưng",
+    "full_name_en": "Nghia Hung Commune",
+    "type": "xã",
+    "district_code": "217",
+    "codename": "nghia_hung"
+  },
+  {
+    "code": "07384",
+    "name": "Quang Thịnh",
+    "name_en": "Quang Thinh",
+    "full_name": "Xã Quang Thịnh",
+    "full_name_en": "Quang Thinh Commune",
+    "type": "xã",
+    "district_code": "217",
+    "codename": "quang_thinh"
+  },
+  {
+    "code": "07387",
+    "name": "Hương Sơn",
+    "name_en": "Huong Son",
+    "full_name": "Xã Hương Sơn",
+    "full_name_en": "Huong Son Commune",
+    "type": "xã",
+    "district_code": "217",
+    "codename": "huong_son"
+  },
+  {
+    "code": "07390",
+    "name": "Đào Mỹ",
+    "name_en": "Dao My",
+    "full_name": "Xã Đào Mỹ",
+    "full_name_en": "Dao My Commune",
+    "type": "xã",
+    "district_code": "217",
+    "codename": "dao_my"
+  },
+  {
+    "code": "07393",
+    "name": "Tiên Lục",
+    "name_en": "Tien Luc",
+    "full_name": "Xã Tiên Lục",
+    "full_name_en": "Tien Luc Commune",
+    "type": "xã",
+    "district_code": "217",
+    "codename": "tien_luc"
+  },
+  {
+    "code": "07396",
+    "name": "An Hà",
+    "name_en": "An Ha",
+    "full_name": "Xã An Hà",
+    "full_name_en": "An Ha Commune",
+    "type": "xã",
+    "district_code": "217",
+    "codename": "an_ha"
+  },
+  {
+    "code": "07399",
+    "name": "Kép",
+    "name_en": "Kep",
+    "full_name": "Thị trấn Kép",
+    "full_name_en": "Kep Township",
+    "type": "thị trấn",
+    "district_code": "217",
+    "codename": "kep"
+  },
+  {
+    "code": "07405",
+    "name": "Hương Lạc",
+    "name_en": "Huong Lac",
+    "full_name": "Xã Hương Lạc",
+    "full_name_en": "Huong Lac Commune",
+    "type": "xã",
+    "district_code": "217",
+    "codename": "huong_lac"
+  },
+  {
+    "code": "07408",
+    "name": "Dương Đức",
+    "name_en": "Duong Duc",
+    "full_name": "Xã Dương Đức",
+    "full_name_en": "Duong Duc Commune",
+    "type": "xã",
+    "district_code": "217",
+    "codename": "duong_duc"
+  },
+  {
+    "code": "07411",
+    "name": "Tân Thanh",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thanh",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "217",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "07417",
+    "name": "Tân Hưng",
+    "name_en": "Tan Hung",
+    "full_name": "Xã Tân Hưng",
+    "full_name_en": "Tan Hung Commune",
+    "type": "xã",
+    "district_code": "217",
+    "codename": "tan_hung"
+  },
+  {
+    "code": "07420",
+    "name": "Mỹ Thái",
+    "name_en": "My Thai",
+    "full_name": "Xã Mỹ Thái",
+    "full_name_en": "My Thai Commune",
+    "type": "xã",
+    "district_code": "217",
+    "codename": "my_thai"
+  },
+  {
+    "code": "07426",
+    "name": "Xương Lâm",
+    "name_en": "Xuong Lam",
+    "full_name": "Xã Xương Lâm",
+    "full_name_en": "Xuong Lam Commune",
+    "type": "xã",
+    "district_code": "217",
+    "codename": "xuong_lam"
+  },
+  {
+    "code": "07429",
+    "name": "Xuân Hương",
+    "name_en": "Xuan Huong",
+    "full_name": "Xã Xuân Hương",
+    "full_name_en": "Xuan Huong Commune",
+    "type": "xã",
+    "district_code": "217",
+    "codename": "xuan_huong"
+  },
+  {
+    "code": "07432",
+    "name": "Tân Dĩnh",
+    "name_en": "Tan Dinh",
+    "full_name": "Xã Tân Dĩnh",
+    "full_name_en": "Tan Dinh Commune",
+    "type": "xã",
+    "district_code": "217",
+    "codename": "tan_dinh"
+  },
+  {
+    "code": "07435",
+    "name": "Đại Lâm",
+    "name_en": "Dai Lam",
+    "full_name": "Xã Đại Lâm",
+    "full_name_en": "Dai Lam Commune",
+    "type": "xã",
+    "district_code": "217",
+    "codename": "dai_lam"
+  },
+  {
+    "code": "07438",
+    "name": "Thái Đào",
+    "name_en": "Thai Dao",
+    "full_name": "Xã Thái Đào",
+    "full_name_en": "Thai Dao Commune",
+    "type": "xã",
+    "district_code": "217",
+    "codename": "thai_dao"
+  }
+]

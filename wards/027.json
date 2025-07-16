@@ -1,0 +1,182 @@
+[
+  {
+    "code": "00769",
+    "name": "Mèo Vạc",
+    "name_en": "Meo Vac",
+    "full_name": "Thị trấn Mèo Vạc",
+    "full_name_en": "Meo Vac Township",
+    "type": "thị trấn",
+    "district_code": "027",
+    "codename": "meo_vac"
+  },
+  {
+    "code": "00772",
+    "name": "Thượng Phùng",
+    "name_en": "Thuong Phung",
+    "full_name": "Xã Thượng Phùng",
+    "full_name_en": "Thuong Phung Commune",
+    "type": "xã",
+    "district_code": "027",
+    "codename": "thuong_phung"
+  },
+  {
+    "code": "00775",
+    "name": "Pải Lủng",
+    "name_en": "Pai Lung",
+    "full_name": "Xã Pải Lủng",
+    "full_name_en": "Pai Lung Commune",
+    "type": "xã",
+    "district_code": "027",
+    "codename": "pai_lung"
+  },
+  {
+    "code": "00778",
+    "name": "Xín Cái",
+    "name_en": "Xin Cai",
+    "full_name": "Xã Xín Cái",
+    "full_name_en": "Xin Cai Commune",
+    "type": "xã",
+    "district_code": "027",
+    "codename": "xin_cai"
+  },
+  {
+    "code": "00781",
+    "name": "Pả Vi",
+    "name_en": "Pa Vi",
+    "full_name": "Xã Pả Vi",
+    "full_name_en": "Pa Vi Commune",
+    "type": "xã",
+    "district_code": "027",
+    "codename": "pa_vi"
+  },
+  {
+    "code": "00784",
+    "name": "Giàng Chu Phìn",
+    "name_en": "Giang Chu Phin",
+    "full_name": "Xã Giàng Chu Phìn",
+    "full_name_en": "Giang Chu Phin Commune",
+    "type": "xã",
+    "district_code": "027",
+    "codename": "giang_chu_phin"
+  },
+  {
+    "code": "00787",
+    "name": "Sủng Trà",
+    "name_en": "Sung Tra",
+    "full_name": "Xã Sủng Trà",
+    "full_name_en": "Sung Tra Commune",
+    "type": "xã",
+    "district_code": "027",
+    "codename": "sung_tra"
+  },
+  {
+    "code": "00790",
+    "name": "Sủng Máng",
+    "name_en": "Sung Mang",
+    "full_name": "Xã Sủng Máng",
+    "full_name_en": "Sung Mang Commune",
+    "type": "xã",
+    "district_code": "027",
+    "codename": "sung_mang"
+  },
+  {
+    "code": "00793",
+    "name": "Sơn Vĩ",
+    "name_en": "Son Vi",
+    "full_name": "Xã Sơn Vĩ",
+    "full_name_en": "Son Vi Commune",
+    "type": "xã",
+    "district_code": "027",
+    "codename": "son_vi"
+  },
+  {
+    "code": "00796",
+    "name": "Tả Lủng",
+    "name_en": "Ta Lung",
+    "full_name": "Xã Tả Lủng",
+    "full_name_en": "Ta Lung Commune",
+    "type": "xã",
+    "district_code": "027",
+    "codename": "ta_lung"
+  },
+  {
+    "code": "00799",
+    "name": "Cán Chu Phìn",
+    "name_en": "Can Chu Phin",
+    "full_name": "Xã Cán Chu Phìn",
+    "full_name_en": "Can Chu Phin Commune",
+    "type": "xã",
+    "district_code": "027",
+    "codename": "can_chu_phin"
+  },
+  {
+    "code": "00802",
+    "name": "Lũng Pù",
+    "name_en": "Lung Pu",
+    "full_name": "Xã Lũng Pù",
+    "full_name_en": "Lung Pu Commune",
+    "type": "xã",
+    "district_code": "027",
+    "codename": "lung_pu"
+  },
+  {
+    "code": "00805",
+    "name": "Lũng Chinh",
+    "name_en": "Lung Chinh",
+    "full_name": "Xã Lũng Chinh",
+    "full_name_en": "Lung Chinh Commune",
+    "type": "xã",
+    "district_code": "027",
+    "codename": "lung_chinh"
+  },
+  {
+    "code": "00808",
+    "name": "Tát Ngà",
+    "name_en": "Tat Nga",
+    "full_name": "Xã Tát Ngà",
+    "full_name_en": "Tat Nga Commune",
+    "type": "xã",
+    "district_code": "027",
+    "codename": "tat_nga"
+  },
+  {
+    "code": "00811",
+    "name": "Nậm Ban",
+    "name_en": "Nam Ban",
+    "full_name": "Xã Nậm Ban",
+    "full_name_en": "Nam Ban Commune",
+    "type": "xã",
+    "district_code": "027",
+    "codename": "nam_ban"
+  },
+  {
+    "code": "00814",
+    "name": "Khâu Vai",
+    "name_en": "Khau Vai",
+    "full_name": "Xã Khâu Vai",
+    "full_name_en": "Khau Vai Commune",
+    "type": "xã",
+    "district_code": "027",
+    "codename": "khau_vai"
+  },
+  {
+    "code": "00815",
+    "name": "Niêm Tòng",
+    "name_en": "Niem Tong",
+    "full_name": "Xã Niêm Tòng",
+    "full_name_en": "Niem Tong Commune",
+    "type": "xã",
+    "district_code": "027",
+    "codename": "niem_tong"
+  },
+  {
+    "code": "00817",
+    "name": "Niêm Sơn",
+    "name_en": "Niem Son",
+    "full_name": "Xã Niêm Sơn",
+    "full_name_en": "Niem Son Commune",
+    "type": "xã",
+    "district_code": "027",
+    "codename": "niem_son"
+  }
+]

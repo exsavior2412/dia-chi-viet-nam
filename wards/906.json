@@ -1,0 +1,192 @@
+[
+  {
+    "code": "30904",
+    "name": "Giồng Riềng",
+    "name_en": "Giong Rieng",
+    "full_name": "Thị trấn Giồng Riềng",
+    "full_name_en": "Giong Rieng Township",
+    "type": "thị trấn",
+    "district_code": "906",
+    "codename": "giong_rieng"
+  },
+  {
+    "code": "30907",
+    "name": "Thạnh Hưng",
+    "name_en": "Thanh Hung",
+    "full_name": "Xã Thạnh Hưng",
+    "full_name_en": "Thanh Hung Commune",
+    "type": "xã",
+    "district_code": "906",
+    "codename": "thanh_hung"
+  },
+  {
+    "code": "30910",
+    "name": "Thạnh Phước",
+    "name_en": "Thanh Phuoc",
+    "full_name": "Xã Thạnh Phước",
+    "full_name_en": "Thanh Phuoc Commune",
+    "type": "xã",
+    "district_code": "906",
+    "codename": "thanh_phuoc"
+  },
+  {
+    "code": "30913",
+    "name": "Thạnh Lộc",
+    "name_en": "Thanh Loc",
+    "full_name": "Xã Thạnh Lộc",
+    "full_name_en": "Thanh Loc Commune",
+    "type": "xã",
+    "district_code": "906",
+    "codename": "thanh_loc"
+  },
+  {
+    "code": "30916",
+    "name": "Thạnh Hòa",
+    "name_en": "Thanh Hoa",
+    "full_name": "Xã Thạnh Hòa",
+    "full_name_en": "Thanh Hoa Commune",
+    "type": "xã",
+    "district_code": "906",
+    "codename": "thanh_hoa"
+  },
+  {
+    "code": "30917",
+    "name": "Thạnh Bình",
+    "name_en": "Thanh Binh",
+    "full_name": "Xã Thạnh Bình",
+    "full_name_en": "Thanh Binh Commune",
+    "type": "xã",
+    "district_code": "906",
+    "codename": "thanh_binh"
+  },
+  {
+    "code": "30919",
+    "name": "Bàn Thạch",
+    "name_en": "Ban Thach",
+    "full_name": "Xã Bàn Thạch",
+    "full_name_en": "Ban Thach Commune",
+    "type": "xã",
+    "district_code": "906",
+    "codename": "ban_thach"
+  },
+  {
+    "code": "30922",
+    "name": "Bàn Tân Định",
+    "name_en": "Ban Tan Dinh",
+    "full_name": "Xã Bàn Tân Định",
+    "full_name_en": "Ban Tan Dinh Commune",
+    "type": "xã",
+    "district_code": "906",
+    "codename": "ban_tan_dinh"
+  },
+  {
+    "code": "30925",
+    "name": "Ngọc Thành",
+    "name_en": "Ngoc Thanh",
+    "full_name": "Xã Ngọc Thành",
+    "full_name_en": "Ngoc Thanh Commune",
+    "type": "xã",
+    "district_code": "906",
+    "codename": "ngoc_thanh"
+  },
+  {
+    "code": "30928",
+    "name": "Ngọc Chúc",
+    "name_en": "Ngoc Chuc",
+    "full_name": "Xã Ngọc Chúc",
+    "full_name_en": "Ngoc Chuc Commune",
+    "type": "xã",
+    "district_code": "906",
+    "codename": "ngoc_chuc"
+  },
+  {
+    "code": "30931",
+    "name": "Ngọc Thuận",
+    "name_en": "Ngoc Thuan",
+    "full_name": "Xã Ngọc Thuận",
+    "full_name_en": "Ngoc Thuan Commune",
+    "type": "xã",
+    "district_code": "906",
+    "codename": "ngoc_thuan"
+  },
+  {
+    "code": "30934",
+    "name": "Hòa Hưng",
+    "name_en": "Hoa Hung",
+    "full_name": "Xã Hòa Hưng",
+    "full_name_en": "Hoa Hung Commune",
+    "type": "xã",
+    "district_code": "906",
+    "codename": "hoa_hung"
+  },
+  {
+    "code": "30937",
+    "name": "Hoà Lợi",
+    "name_en": "Hoa Loi",
+    "full_name": "Xã Hoà Lợi",
+    "full_name_en": "Hoa Loi Commune",
+    "type": "xã",
+    "district_code": "906",
+    "codename": "hoa_loi"
+  },
+  {
+    "code": "30940",
+    "name": "Hoà An",
+    "name_en": "Hoa An",
+    "full_name": "Xã Hoà An",
+    "full_name_en": "Hoa An Commune",
+    "type": "xã",
+    "district_code": "906",
+    "codename": "hoa_an"
+  },
+  {
+    "code": "30943",
+    "name": "Long Thạnh",
+    "name_en": "Long Thanh",
+    "full_name": "Xã Long Thạnh",
+    "full_name_en": "Long Thanh Commune",
+    "type": "xã",
+    "district_code": "906",
+    "codename": "long_thanh"
+  },
+  {
+    "code": "30946",
+    "name": "Vĩnh Thạnh",
+    "name_en": "Vinh Thanh",
+    "full_name": "Xã Vĩnh Thạnh",
+    "full_name_en": "Vinh Thanh Commune",
+    "type": "xã",
+    "district_code": "906",
+    "codename": "vinh_thanh"
+  },
+  {
+    "code": "30947",
+    "name": "Vĩnh Phú",
+    "name_en": "Vinh Phu",
+    "full_name": "Xã Vĩnh Phú",
+    "full_name_en": "Vinh Phu Commune",
+    "type": "xã",
+    "district_code": "906",
+    "codename": "vinh_phu"
+  },
+  {
+    "code": "30949",
+    "name": "Hòa Thuận",
+    "name_en": "Hoa Thuan",
+    "full_name": "Xã Hòa Thuận",
+    "full_name_en": "Hoa Thuan Commune",
+    "type": "xã",
+    "district_code": "906",
+    "codename": "hoa_thuan"
+  },
+  {
+    "code": "30950",
+    "name": "Ngọc Hoà",
+    "name_en": "Ngoc Hoa",
+    "full_name": "Xã Ngọc Hoà",
+    "full_name_en": "Ngoc Hoa Commune",
+    "type": "xã",
+    "district_code": "906",
+    "codename": "ngoc_hoa"
+  }
+]

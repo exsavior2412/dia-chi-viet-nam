@@ -1,0 +1,182 @@
+[
+  {
+    "code": "14560",
+    "name": "Yên Ninh",
+    "name_en": "Yen Ninh",
+    "full_name": "Thị trấn Yên Ninh",
+    "full_name_en": "Yen Ninh Township",
+    "type": "thị trấn",
+    "district_code": "375",
+    "codename": "yen_ninh"
+  },
+  {
+    "code": "14563",
+    "name": "Khánh Thiện",
+    "name_en": "Khanh Thien",
+    "full_name": "Xã Khánh Thiện",
+    "full_name_en": "Khanh Thien Commune",
+    "type": "xã",
+    "district_code": "375",
+    "codename": "khanh_thien"
+  },
+  {
+    "code": "14566",
+    "name": "Khánh Phú",
+    "name_en": "Khanh Phu",
+    "full_name": "Xã Khánh Phú",
+    "full_name_en": "Khanh Phu Commune",
+    "type": "xã",
+    "district_code": "375",
+    "codename": "khanh_phu"
+  },
+  {
+    "code": "14569",
+    "name": "Khánh Hòa",
+    "name_en": "Khanh Hoa",
+    "full_name": "Xã Khánh Hòa",
+    "full_name_en": "Khanh Hoa Commune",
+    "type": "xã",
+    "district_code": "375",
+    "codename": "khanh_hoa"
+  },
+  {
+    "code": "14572",
+    "name": "Khánh Lợi",
+    "name_en": "Khanh Loi",
+    "full_name": "Xã Khánh Lợi",
+    "full_name_en": "Khanh Loi Commune",
+    "type": "xã",
+    "district_code": "375",
+    "codename": "khanh_loi"
+  },
+  {
+    "code": "14575",
+    "name": "Khánh An",
+    "name_en": "Khanh An",
+    "full_name": "Xã Khánh An",
+    "full_name_en": "Khanh An Commune",
+    "type": "xã",
+    "district_code": "375",
+    "codename": "khanh_an"
+  },
+  {
+    "code": "14578",
+    "name": "Khánh Cường",
+    "name_en": "Khanh Cuong",
+    "full_name": "Xã Khánh Cường",
+    "full_name_en": "Khanh Cuong Commune",
+    "type": "xã",
+    "district_code": "375",
+    "codename": "khanh_cuong"
+  },
+  {
+    "code": "14581",
+    "name": "Khánh Cư",
+    "name_en": "Khanh Cu",
+    "full_name": "Xã Khánh Cư",
+    "full_name_en": "Khanh Cu Commune",
+    "type": "xã",
+    "district_code": "375",
+    "codename": "khanh_cu"
+  },
+  {
+    "code": "14587",
+    "name": "Khánh Hải",
+    "name_en": "Khanh Hai",
+    "full_name": "Xã Khánh Hải",
+    "full_name_en": "Khanh Hai Commune",
+    "type": "xã",
+    "district_code": "375",
+    "codename": "khanh_hai"
+  },
+  {
+    "code": "14590",
+    "name": "Khánh Trung",
+    "name_en": "Khanh Trung",
+    "full_name": "Xã Khánh Trung",
+    "full_name_en": "Khanh Trung Commune",
+    "type": "xã",
+    "district_code": "375",
+    "codename": "khanh_trung"
+  },
+  {
+    "code": "14593",
+    "name": "Khánh Mậu",
+    "name_en": "Khanh Mau",
+    "full_name": "Xã Khánh Mậu",
+    "full_name_en": "Khanh Mau Commune",
+    "type": "xã",
+    "district_code": "375",
+    "codename": "khanh_mau"
+  },
+  {
+    "code": "14596",
+    "name": "Khánh Vân",
+    "name_en": "Khanh Van",
+    "full_name": "Xã Khánh Vân",
+    "full_name_en": "Khanh Van Commune",
+    "type": "xã",
+    "district_code": "375",
+    "codename": "khanh_van"
+  },
+  {
+    "code": "14599",
+    "name": "Khánh Hội",
+    "name_en": "Khanh Hoi",
+    "full_name": "Xã Khánh Hội",
+    "full_name_en": "Khanh Hoi Commune",
+    "type": "xã",
+    "district_code": "375",
+    "codename": "khanh_hoi"
+  },
+  {
+    "code": "14602",
+    "name": "Khánh Công",
+    "name_en": "Khanh Cong",
+    "full_name": "Xã Khánh Công",
+    "full_name_en": "Khanh Cong Commune",
+    "type": "xã",
+    "district_code": "375",
+    "codename": "khanh_cong"
+  },
+  {
+    "code": "14608",
+    "name": "Khánh Thành",
+    "name_en": "Khanh Thanh",
+    "full_name": "Xã Khánh Thành",
+    "full_name_en": "Khanh Thanh Commune",
+    "type": "xã",
+    "district_code": "375",
+    "codename": "khanh_thanh"
+  },
+  {
+    "code": "14611",
+    "name": "Khánh Nhạc",
+    "name_en": "Khanh Nhac",
+    "full_name": "Xã Khánh Nhạc",
+    "full_name_en": "Khanh Nhac Commune",
+    "type": "xã",
+    "district_code": "375",
+    "codename": "khanh_nhac"
+  },
+  {
+    "code": "14614",
+    "name": "Khánh Thủy",
+    "name_en": "Khanh Thuy",
+    "full_name": "Xã Khánh Thủy",
+    "full_name_en": "Khanh Thuy Commune",
+    "type": "xã",
+    "district_code": "375",
+    "codename": "khanh_thuy"
+  },
+  {
+    "code": "14617",
+    "name": "Khánh Hồng",
+    "name_en": "Khanh Hong",
+    "full_name": "Xã Khánh Hồng",
+    "full_name_en": "Khanh Hong Commune",
+    "type": "xã",
+    "district_code": "375",
+    "codename": "khanh_hong"
+  }
+]

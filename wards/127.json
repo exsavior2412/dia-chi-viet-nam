@@ -1,0 +1,82 @@
+[
+  {
+    "code": "04225",
+    "name": "Sam Kha",
+    "name_en": "Sam Kha",
+    "full_name": "Xã Sam Kha",
+    "full_name_en": "Sam Kha Commune",
+    "type": "xã",
+    "district_code": "127",
+    "codename": "sam_kha"
+  },
+  {
+    "code": "04228",
+    "name": "Púng Bánh",
+    "name_en": "Pung Banh",
+    "full_name": "Xã Púng Bánh",
+    "full_name_en": "Pung Banh Commune",
+    "type": "xã",
+    "district_code": "127",
+    "codename": "pung_banh"
+  },
+  {
+    "code": "04231",
+    "name": "Sốp Cộp",
+    "name_en": "Sop Cop",
+    "full_name": "Xã Sốp Cộp",
+    "full_name_en": "Sop Cop Commune",
+    "type": "xã",
+    "district_code": "127",
+    "codename": "sop_cop"
+  },
+  {
+    "code": "04234",
+    "name": "Dồm Cang",
+    "name_en": "Dom Cang",
+    "full_name": "Xã Dồm Cang",
+    "full_name_en": "Dom Cang Commune",
+    "type": "xã",
+    "district_code": "127",
+    "codename": "dom_cang"
+  },
+  {
+    "code": "04237",
+    "name": "Nậm Lạnh",
+    "name_en": "Nam Lanh",
+    "full_name": "Xã Nậm Lạnh",
+    "full_name_en": "Nam Lanh Commune",
+    "type": "xã",
+    "district_code": "127",
+    "codename": "nam_lanh"
+  },
+  {
+    "code": "04240",
+    "name": "Mường Lèo",
+    "name_en": "Muong Leo",
+    "full_name": "Xã Mường Lèo",
+    "full_name_en": "Muong Leo Commune",
+    "type": "xã",
+    "district_code": "127",
+    "codename": "muong_leo"
+  },
+  {
+    "code": "04243",
+    "name": "Mường Và",
+    "name_en": "Muong Va",
+    "full_name": "Xã Mường Và",
+    "full_name_en": "Muong Va Commune",
+    "type": "xã",
+    "district_code": "127",
+    "codename": "muong_va"
+  },
+  {
+    "code": "04246",
+    "name": "Mường Lạn",
+    "name_en": "Muong Lan",
+    "full_name": "Xã Mường Lạn",
+    "full_name_en": "Muong Lan Commune",
+    "type": "xã",
+    "district_code": "127",
+    "codename": "muong_lan"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "code": "19357",
+    "name": "1",
+    "name_en": "1",
+    "full_name": "Phường 1",
+    "full_name_en": "Ward 1",
+    "type": "phường",
+    "district_code": "462",
+    "codename": "1"
+  },
+  {
+    "code": "19358",
+    "name": "An Đôn",
+    "name_en": "An Don",
+    "full_name": "Phường An Đôn",
+    "full_name_en": "An Don Ward",
+    "type": "phường",
+    "district_code": "462",
+    "codename": "an_don"
+  },
+  {
+    "code": "19360",
+    "name": "2",
+    "name_en": "2",
+    "full_name": "Phường 2",
+    "full_name_en": "Ward 2",
+    "type": "phường",
+    "district_code": "462",
+    "codename": "2"
+  },
+  {
+    "code": "19361",
+    "name": "3",
+    "name_en": "3",
+    "full_name": "Phường 3",
+    "full_name_en": "Ward 3",
+    "type": "phường",
+    "district_code": "462",
+    "codename": "3"
+  },
+  {
+    "code": "19705",
+    "name": "Hải Lệ",
+    "name_en": "Hai Le",
+    "full_name": "Xã Hải Lệ",
+    "full_name_en": "Hai Le Commune",
+    "type": "xã",
+    "district_code": "462",
+    "codename": "hai_le"
+  }
+]

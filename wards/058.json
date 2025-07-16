@@ -1,0 +1,82 @@
+[
+  {
+    "code": "01834",
+    "name": "Nguyễn Thị Minh Khai",
+    "name_en": "Nguyen Thi Minh Khai",
+    "full_name": "Phường Nguyễn Thị Minh Khai",
+    "full_name_en": "Nguyen Thi Minh Khai Ward",
+    "type": "phường",
+    "district_code": "058",
+    "codename": "nguyen_thi_minh_khai"
+  },
+  {
+    "code": "01837",
+    "name": "Sông Cầu",
+    "name_en": "Song Cau",
+    "full_name": "Phường Sông Cầu",
+    "full_name_en": "Song Cau Ward",
+    "type": "phường",
+    "district_code": "058",
+    "codename": "song_cau"
+  },
+  {
+    "code": "01840",
+    "name": "Đức Xuân",
+    "name_en": "Duc Xuan",
+    "full_name": "Phường Đức Xuân",
+    "full_name_en": "Duc Xuan Ward",
+    "type": "phường",
+    "district_code": "058",
+    "codename": "duc_xuan"
+  },
+  {
+    "code": "01843",
+    "name": "Phùng Chí Kiên",
+    "name_en": "Phung Chi Kien",
+    "full_name": "Phường Phùng Chí Kiên",
+    "full_name_en": "Phung Chi Kien Ward",
+    "type": "phường",
+    "district_code": "058",
+    "codename": "phung_chi_kien"
+  },
+  {
+    "code": "01846",
+    "name": "Huyền Tụng",
+    "name_en": "Huyen Tung",
+    "full_name": "Phường Huyền Tụng",
+    "full_name_en": "Huyen Tung Ward",
+    "type": "phường",
+    "district_code": "058",
+    "codename": "huyen_tung"
+  },
+  {
+    "code": "01849",
+    "name": "Dương Quang",
+    "name_en": "Duong Quang",
+    "full_name": "Xã Dương Quang",
+    "full_name_en": "Duong Quang Commune",
+    "type": "xã",
+    "district_code": "058",
+    "codename": "duong_quang"
+  },
+  {
+    "code": "01852",
+    "name": "Nông Thượng",
+    "name_en": "Nong Thuong",
+    "full_name": "Xã Nông Thượng",
+    "full_name_en": "Nong Thuong Commune",
+    "type": "xã",
+    "district_code": "058",
+    "codename": "nong_thuong"
+  },
+  {
+    "code": "01855",
+    "name": "Xuất Hóa",
+    "name_en": "Xuat Hoa",
+    "full_name": "Phường Xuất Hóa",
+    "full_name_en": "Xuat Hoa Ward",
+    "type": "phường",
+    "district_code": "058",
+    "codename": "xuat_hoa"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "code": "10015",
+    "name": "Chúc Sơn",
+    "name_en": "Chuc Son",
+    "full_name": "Thị trấn Chúc Sơn",
+    "full_name_en": "Chuc Son Township",
+    "type": "thị trấn",
+    "district_code": "277",
+    "codename": "chuc_son"
+  },
+  {
+    "code": "10018",
+    "name": "Xuân Mai",
+    "name_en": "Xuan Mai",
+    "full_name": "Thị trấn Xuân Mai",
+    "full_name_en": "Xuan Mai Township",
+    "type": "thị trấn",
+    "district_code": "277",
+    "codename": "xuan_mai"
+  },
+  {
+    "code": "10021",
+    "name": "Phụng Châu",
+    "name_en": "Phung Chau",
+    "full_name": "Xã Phụng Châu",
+    "full_name_en": "Phung Chau Commune",
+    "type": "xã",
+    "district_code": "277",
+    "codename": "phung_chau"
+  },
+  {
+    "code": "10024",
+    "name": "Tiên Phương",
+    "name_en": "Tien Phuong",
+    "full_name": "Xã Tiên Phương",
+    "full_name_en": "Tien Phuong Commune",
+    "type": "xã",
+    "district_code": "277",
+    "codename": "tien_phuong"
+  },
+  {
+    "code": "10027",
+    "name": "Đông Sơn",
+    "name_en": "Dong Son",
+    "full_name": "Xã Đông Sơn",
+    "full_name_en": "Dong Son Commune",
+    "type": "xã",
+    "district_code": "277",
+    "codename": "dong_son"
+  },
+  {
+    "code": "10030",
+    "name": "Đông Phương Yên",
+    "name_en": "Dong Phuong Yen",
+    "full_name": "Xã Đông Phương Yên",
+    "full_name_en": "Dong Phuong Yen Commune",
+    "type": "xã",
+    "district_code": "277",
+    "codename": "dong_phuong_yen"
+  },
+  {
+    "code": "10033",
+    "name": "Phú Nghĩa",
+    "name_en": "Phu Nghia",
+    "full_name": "Xã Phú Nghĩa",
+    "full_name_en": "Phu Nghia Commune",
+    "type": "xã",
+    "district_code": "277",
+    "codename": "phu_nghia"
+  },
+  {
+    "code": "10039",
+    "name": "Trường Yên",
+    "name_en": "Truong Yen",
+    "full_name": "Xã Trường Yên",
+    "full_name_en": "Truong Yen Commune",
+    "type": "xã",
+    "district_code": "277",
+    "codename": "truong_yen"
+  },
+  {
+    "code": "10042",
+    "name": "Ngọc Hòa",
+    "name_en": "Ngoc Hoa",
+    "full_name": "Xã Ngọc Hòa",
+    "full_name_en": "Ngoc Hoa Commune",
+    "type": "xã",
+    "district_code": "277",
+    "codename": "ngoc_hoa"
+  },
+  {
+    "code": "10045",
+    "name": "Thủy Xuân Tiên",
+    "name_en": "Thuy Xuan Tien",
+    "full_name": "Xã Thủy Xuân Tiên",
+    "full_name_en": "Thuy Xuan Tien Commune",
+    "type": "xã",
+    "district_code": "277",
+    "codename": "thuy_xuan_tien"
+  },
+  {
+    "code": "10048",
+    "name": "Thanh Bình",
+    "name_en": "Thanh Binh",
+    "full_name": "Xã Thanh Bình",
+    "full_name_en": "Thanh Binh Commune",
+    "type": "xã",
+    "district_code": "277",
+    "codename": "thanh_binh"
+  },
+  {
+    "code": "10051",
+    "name": "Trung Hòa",
+    "name_en": "Trung Hoa",
+    "full_name": "Xã Trung Hòa",
+    "full_name_en": "Trung Hoa Commune",
+    "type": "xã",
+    "district_code": "277",
+    "codename": "trung_hoa"
+  },
+  {
+    "code": "10054",
+    "name": "Đại Yên",
+    "name_en": "Dai Yen",
+    "full_name": "Xã Đại Yên",
+    "full_name_en": "Dai Yen Commune",
+    "type": "xã",
+    "district_code": "277",
+    "codename": "dai_yen"
+  },
+  {
+    "code": "10057",
+    "name": "Thụy Hương",
+    "name_en": "Thuy Huong",
+    "full_name": "Xã Thụy Hương",
+    "full_name_en": "Thuy Huong Commune",
+    "type": "xã",
+    "district_code": "277",
+    "codename": "thuy_huong"
+  },
+  {
+    "code": "10060",
+    "name": "Tốt Động",
+    "name_en": "Tot Dong",
+    "full_name": "Xã Tốt Động",
+    "full_name_en": "Tot Dong Commune",
+    "type": "xã",
+    "district_code": "277",
+    "codename": "tot_dong"
+  },
+  {
+    "code": "10063",
+    "name": "Lam Điền",
+    "name_en": "Lam Dien",
+    "full_name": "Xã Lam Điền",
+    "full_name_en": "Lam Dien Commune",
+    "type": "xã",
+    "district_code": "277",
+    "codename": "lam_dien"
+  },
+  {
+    "code": "10066",
+    "name": "Tân Tiến",
+    "name_en": "Tan Tien",
+    "full_name": "Xã Tân Tiến",
+    "full_name_en": "Tan Tien Commune",
+    "type": "xã",
+    "district_code": "277",
+    "codename": "tan_tien"
+  },
+  {
+    "code": "10069",
+    "name": "Nam Phương Tiến",
+    "name_en": "Nam Phuong Tien",
+    "full_name": "Xã Nam Phương Tiến",
+    "full_name_en": "Nam Phuong Tien Commune",
+    "type": "xã",
+    "district_code": "277",
+    "codename": "nam_phuong_tien"
+  },
+  {
+    "code": "10072",
+    "name": "Hợp Đồng",
+    "name_en": "Hop Dong",
+    "full_name": "Xã Hợp Đồng",
+    "full_name_en": "Hop Dong Commune",
+    "type": "xã",
+    "district_code": "277",
+    "codename": "hop_dong"
+  },
+  {
+    "code": "10075",
+    "name": "Hoàng Văn Thụ",
+    "name_en": "Hoang Van Thu",
+    "full_name": "Xã Hoàng Văn Thụ",
+    "full_name_en": "Hoang Van Thu Commune",
+    "type": "xã",
+    "district_code": "277",
+    "codename": "hoang_van_thu"
+  },
+  {
+    "code": "10078",
+    "name": "Hoàng Diệu",
+    "name_en": "Hoang Dieu",
+    "full_name": "Xã Hoàng Diệu",
+    "full_name_en": "Hoang Dieu Commune",
+    "type": "xã",
+    "district_code": "277",
+    "codename": "hoang_dieu"
+  },
+  {
+    "code": "10081",
+    "name": "Hữu Văn",
+    "name_en": "Huu Van",
+    "full_name": "Xã Hữu Văn",
+    "full_name_en": "Huu Van Commune",
+    "type": "xã",
+    "district_code": "277",
+    "codename": "huu_van"
+  },
+  {
+    "code": "10084",
+    "name": "Quảng Bị",
+    "name_en": "Quang Bi",
+    "full_name": "Xã Quảng Bị",
+    "full_name_en": "Quang Bi Commune",
+    "type": "xã",
+    "district_code": "277",
+    "codename": "quang_bi"
+  },
+  {
+    "code": "10087",
+    "name": "Mỹ Lương",
+    "name_en": "My Luong",
+    "full_name": "Xã Mỹ Lương",
+    "full_name_en": "My Luong Commune",
+    "type": "xã",
+    "district_code": "277",
+    "codename": "my_luong"
+  },
+  {
+    "code": "10090",
+    "name": "Thượng Vực",
+    "name_en": "Thuong Vuc",
+    "full_name": "Xã Thượng Vực",
+    "full_name_en": "Thuong Vuc Commune",
+    "type": "xã",
+    "district_code": "277",
+    "codename": "thuong_vuc"
+  },
+  {
+    "code": "10096",
+    "name": "Hồng Phú",
+    "name_en": "Hong Phu",
+    "full_name": "Xã Hồng Phú",
+    "full_name_en": "Hong Phu Commune",
+    "type": "xã",
+    "district_code": "277",
+    "codename": "hong_phu"
+  },
+  {
+    "code": "10099",
+    "name": "Trần Phú",
+    "name_en": "Tran Phu",
+    "full_name": "Xã Trần Phú",
+    "full_name_en": "Tran Phu Commune",
+    "type": "xã",
+    "district_code": "277",
+    "codename": "tran_phu"
+  },
+  {
+    "code": "10102",
+    "name": "Văn Võ",
+    "name_en": "Van Vo",
+    "full_name": "Xã Văn Võ",
+    "full_name_en": "Van Vo Commune",
+    "type": "xã",
+    "district_code": "277",
+    "codename": "van_vo"
+  },
+  {
+    "code": "10105",
+    "name": "Đồng Lạc",
+    "name_en": "Dong Lac",
+    "full_name": "Xã Đồng Lạc",
+    "full_name_en": "Dong Lac Commune",
+    "type": "xã",
+    "district_code": "277",
+    "codename": "dong_lac"
+  },
+  {
+    "code": "10108",
+    "name": "Hòa Phú",
+    "name_en": "Hoa Phu",
+    "full_name": "Xã Hòa Phú",
+    "full_name_en": "Hoa Phu Commune",
+    "type": "xã",
+    "district_code": "277",
+    "codename": "hoa_phu"
+  }
+]

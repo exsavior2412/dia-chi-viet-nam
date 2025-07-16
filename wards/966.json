@@ -1,0 +1,82 @@
+[
+  {
+    "code": "32044",
+    "name": "U Minh",
+    "name_en": "U Minh",
+    "full_name": "Thị trấn U Minh",
+    "full_name_en": "U Minh Township",
+    "type": "thị trấn",
+    "district_code": "966",
+    "codename": "u_minh"
+  },
+  {
+    "code": "32047",
+    "name": "Khánh Hòa",
+    "name_en": "Khanh Hoa",
+    "full_name": "Xã Khánh Hòa",
+    "full_name_en": "Khanh Hoa Commune",
+    "type": "xã",
+    "district_code": "966",
+    "codename": "khanh_hoa"
+  },
+  {
+    "code": "32048",
+    "name": "Khánh Thuận",
+    "name_en": "Khanh Thuan",
+    "full_name": "Xã Khánh Thuận",
+    "full_name_en": "Khanh Thuan Commune",
+    "type": "xã",
+    "district_code": "966",
+    "codename": "khanh_thuan"
+  },
+  {
+    "code": "32050",
+    "name": "Khánh Tiến",
+    "name_en": "Khanh Tien",
+    "full_name": "Xã Khánh Tiến",
+    "full_name_en": "Khanh Tien Commune",
+    "type": "xã",
+    "district_code": "966",
+    "codename": "khanh_tien"
+  },
+  {
+    "code": "32053",
+    "name": "Nguyễn Phích",
+    "name_en": "Nguyen Phich",
+    "full_name": "Xã Nguyễn Phích",
+    "full_name_en": "Nguyen Phich Commune",
+    "type": "xã",
+    "district_code": "966",
+    "codename": "nguyen_phich"
+  },
+  {
+    "code": "32056",
+    "name": "Khánh Lâm",
+    "name_en": "Khanh Lam",
+    "full_name": "Xã Khánh Lâm",
+    "full_name_en": "Khanh Lam Commune",
+    "type": "xã",
+    "district_code": "966",
+    "codename": "khanh_lam"
+  },
+  {
+    "code": "32059",
+    "name": "Khánh An",
+    "name_en": "Khanh An",
+    "full_name": "Xã Khánh An",
+    "full_name_en": "Khanh An Commune",
+    "type": "xã",
+    "district_code": "966",
+    "codename": "khanh_an"
+  },
+  {
+    "code": "32062",
+    "name": "Khánh Hội",
+    "name_en": "Khanh Hoi",
+    "full_name": "Xã Khánh Hội",
+    "full_name_en": "Khanh Hoi Commune",
+    "type": "xã",
+    "district_code": "966",
+    "codename": "khanh_hoi"
+  }
+]

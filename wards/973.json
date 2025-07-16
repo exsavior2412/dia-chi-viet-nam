@@ -1,0 +1,72 @@
+[
+  {
+    "code": "32233",
+    "name": "Tam Giang Tây",
+    "name_en": "Tam Giang Tay",
+    "full_name": "Xã Tam Giang Tây",
+    "full_name_en": "Tam Giang Tay Commune",
+    "type": "xã",
+    "district_code": "973",
+    "codename": "tam_giang_tay"
+  },
+  {
+    "code": "32236",
+    "name": "Tân Ân Tây",
+    "name_en": "Tan An Tay",
+    "full_name": "Xã Tân Ân Tây",
+    "full_name_en": "Tan An Tay Commune",
+    "type": "xã",
+    "district_code": "973",
+    "codename": "tan_an_tay"
+  },
+  {
+    "code": "32239",
+    "name": "Viên An Đông",
+    "name_en": "Vien An Dong",
+    "full_name": "Xã Viên An Đông",
+    "full_name_en": "Vien An Dong Commune",
+    "type": "xã",
+    "district_code": "973",
+    "codename": "vien_an_dong"
+  },
+  {
+    "code": "32242",
+    "name": "Viên An",
+    "name_en": "Vien An",
+    "full_name": "Xã Viên An",
+    "full_name_en": "Vien An Commune",
+    "type": "xã",
+    "district_code": "973",
+    "codename": "vien_an"
+  },
+  {
+    "code": "32244",
+    "name": "Rạch Gốc",
+    "name_en": "Rach Goc",
+    "full_name": "Thị trấn Rạch Gốc",
+    "full_name_en": "Rach Goc Township",
+    "type": "thị trấn",
+    "district_code": "973",
+    "codename": "rach_goc"
+  },
+  {
+    "code": "32245",
+    "name": "Tân Ân",
+    "name_en": "Tan An",
+    "full_name": "Xã Tân Ân",
+    "full_name_en": "Tan An Commune",
+    "type": "xã",
+    "district_code": "973",
+    "codename": "tan_an"
+  },
+  {
+    "code": "32248",
+    "name": "Đất Mũi",
+    "name_en": "Dat Mui",
+    "full_name": "Xã Đất Mũi",
+    "full_name_en": "Dat Mui Commune",
+    "type": "xã",
+    "district_code": "973",
+    "codename": "dat_mui"
+  }
+]

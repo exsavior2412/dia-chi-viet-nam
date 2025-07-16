@@ -1,0 +1,172 @@
+[
+  {
+    "code": "06124",
+    "name": "Na Sầm",
+    "name_en": "Na Sam",
+    "full_name": "Thị trấn Na Sầm",
+    "full_name_en": "Na Sam Township",
+    "type": "thị trấn",
+    "district_code": "182",
+    "codename": "na_sam"
+  },
+  {
+    "code": "06127",
+    "name": "Trùng Khánh",
+    "name_en": "Trung Khanh",
+    "full_name": "Xã Trùng Khánh",
+    "full_name_en": "Trung Khanh Commune",
+    "type": "xã",
+    "district_code": "182",
+    "codename": "trung_khanh"
+  },
+  {
+    "code": "06133",
+    "name": "Bắc La",
+    "name_en": "Bac La",
+    "full_name": "Xã Bắc La",
+    "full_name_en": "Bac La Commune",
+    "type": "xã",
+    "district_code": "182",
+    "codename": "bac_la"
+  },
+  {
+    "code": "06136",
+    "name": "Thụy Hùng",
+    "name_en": "Thuy Hung",
+    "full_name": "Xã Thụy Hùng",
+    "full_name_en": "Thuy Hung Commune",
+    "type": "xã",
+    "district_code": "182",
+    "codename": "thuy_hung"
+  },
+  {
+    "code": "06139",
+    "name": "Bắc Hùng",
+    "name_en": "Bac Hung",
+    "full_name": "Xã Bắc Hùng",
+    "full_name_en": "Bac Hung Commune",
+    "type": "xã",
+    "district_code": "182",
+    "codename": "bac_hung"
+  },
+  {
+    "code": "06142",
+    "name": "Tân Tác",
+    "name_en": "Tan Tac",
+    "full_name": "Xã Tân Tác",
+    "full_name_en": "Tan Tac Commune",
+    "type": "xã",
+    "district_code": "182",
+    "codename": "tan_tac"
+  },
+  {
+    "code": "06148",
+    "name": "Thanh Long",
+    "name_en": "Thanh Long",
+    "full_name": "Xã Thanh Long",
+    "full_name_en": "Thanh Long Commune",
+    "type": "xã",
+    "district_code": "182",
+    "codename": "thanh_long"
+  },
+  {
+    "code": "06151",
+    "name": "Hội Hoan",
+    "name_en": "Hoi Hoan",
+    "full_name": "Xã Hội Hoan",
+    "full_name_en": "Hoi Hoan Commune",
+    "type": "xã",
+    "district_code": "182",
+    "codename": "hoi_hoan"
+  },
+  {
+    "code": "06154",
+    "name": "Bắc Việt",
+    "name_en": "Bac Viet",
+    "full_name": "Xã Bắc Việt",
+    "full_name_en": "Bac Viet Commune",
+    "type": "xã",
+    "district_code": "182",
+    "codename": "bac_viet"
+  },
+  {
+    "code": "06157",
+    "name": "Hoàng Việt",
+    "name_en": "Hoang Viet",
+    "full_name": "Xã Hoàng Việt",
+    "full_name_en": "Hoang Viet Commune",
+    "type": "xã",
+    "district_code": "182",
+    "codename": "hoang_viet"
+  },
+  {
+    "code": "06160",
+    "name": "Gia Miễn",
+    "name_en": "Gia Mien",
+    "full_name": "Xã Gia Miễn",
+    "full_name_en": "Gia Mien Commune",
+    "type": "xã",
+    "district_code": "182",
+    "codename": "gia_mien"
+  },
+  {
+    "code": "06163",
+    "name": "Thành Hòa",
+    "name_en": "Thanh Hoa",
+    "full_name": "Xã Thành Hòa",
+    "full_name_en": "Thanh Hoa Commune",
+    "type": "xã",
+    "district_code": "182",
+    "codename": "thanh_hoa"
+  },
+  {
+    "code": "06166",
+    "name": "Tân Thanh",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thanh",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "182",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "06172",
+    "name": "Tân Mỹ",
+    "name_en": "Tan My",
+    "full_name": "Xã Tân Mỹ",
+    "full_name_en": "Tan My Commune",
+    "type": "xã",
+    "district_code": "182",
+    "codename": "tan_my"
+  },
+  {
+    "code": "06175",
+    "name": "Hồng Thái",
+    "name_en": "Hong Thai",
+    "full_name": "Xã Hồng Thái",
+    "full_name_en": "Hong Thai Commune",
+    "type": "xã",
+    "district_code": "182",
+    "codename": "hong_thai"
+  },
+  {
+    "code": "06178",
+    "name": "Hoàng Văn Thụ",
+    "name_en": "Hoang Van Thu",
+    "full_name": "Xã Hoàng Văn Thụ",
+    "full_name_en": "Hoang Van Thu Commune",
+    "type": "xã",
+    "district_code": "182",
+    "codename": "hoang_van_thu"
+  },
+  {
+    "code": "06181",
+    "name": "Nhạc Kỳ",
+    "name_en": "Nhac Ky",
+    "full_name": "Xã Nhạc Kỳ",
+    "full_name_en": "Nhac Ky Commune",
+    "type": "xã",
+    "district_code": "182",
+    "codename": "nhac_ky"
+  }
+]

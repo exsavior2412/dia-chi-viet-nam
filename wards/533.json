@@ -1,0 +1,122 @@
+[
+  {
+    "code": "21400",
+    "name": "Mộ Đức",
+    "name_en": "Mo Duc",
+    "full_name": "Thị trấn Mộ Đức",
+    "full_name_en": "Mo Duc Township",
+    "type": "thị trấn",
+    "district_code": "533",
+    "codename": "mo_duc"
+  },
+  {
+    "code": "21406",
+    "name": "Thắng Lợi",
+    "name_en": "Thang Loi",
+    "full_name": "Xã Thắng Lợi",
+    "full_name_en": "Thang Loi Commune",
+    "type": "xã",
+    "district_code": "533",
+    "codename": "thang_loi"
+  },
+  {
+    "code": "21409",
+    "name": "Đức Nhuận",
+    "name_en": "Duc Nhuan",
+    "full_name": "Xã Đức Nhuận",
+    "full_name_en": "Duc Nhuan Commune",
+    "type": "xã",
+    "district_code": "533",
+    "codename": "duc_nhuan"
+  },
+  {
+    "code": "21412",
+    "name": "Đức Chánh",
+    "name_en": "Duc Chanh",
+    "full_name": "Xã Đức Chánh",
+    "full_name_en": "Duc Chanh Commune",
+    "type": "xã",
+    "district_code": "533",
+    "codename": "duc_chanh"
+  },
+  {
+    "code": "21415",
+    "name": "Đức Hiệp",
+    "name_en": "Duc Hiep",
+    "full_name": "Xã Đức Hiệp",
+    "full_name_en": "Duc Hiep Commune",
+    "type": "xã",
+    "district_code": "533",
+    "codename": "duc_hiep"
+  },
+  {
+    "code": "21418",
+    "name": "Đức Minh",
+    "name_en": "Duc Minh",
+    "full_name": "Xã Đức Minh",
+    "full_name_en": "Duc Minh Commune",
+    "type": "xã",
+    "district_code": "533",
+    "codename": "duc_minh"
+  },
+  {
+    "code": "21421",
+    "name": "Đức Thạnh",
+    "name_en": "Duc Thanh",
+    "full_name": "Xã Đức Thạnh",
+    "full_name_en": "Duc Thanh Commune",
+    "type": "xã",
+    "district_code": "533",
+    "codename": "duc_thanh"
+  },
+  {
+    "code": "21424",
+    "name": "Đức Hòa",
+    "name_en": "Duc Hoa",
+    "full_name": "Xã Đức Hòa",
+    "full_name_en": "Duc Hoa Commune",
+    "type": "xã",
+    "district_code": "533",
+    "codename": "duc_hoa"
+  },
+  {
+    "code": "21427",
+    "name": "Đức Tân",
+    "name_en": "Duc Tan",
+    "full_name": "Xã Đức Tân",
+    "full_name_en": "Duc Tan Commune",
+    "type": "xã",
+    "district_code": "533",
+    "codename": "duc_tan"
+  },
+  {
+    "code": "21430",
+    "name": "Đức Phú",
+    "name_en": "Duc Phu",
+    "full_name": "Xã Đức Phú",
+    "full_name_en": "Duc Phu Commune",
+    "type": "xã",
+    "district_code": "533",
+    "codename": "duc_phu"
+  },
+  {
+    "code": "21433",
+    "name": "Đức Phong",
+    "name_en": "Duc Phong",
+    "full_name": "Xã Đức Phong",
+    "full_name_en": "Duc Phong Commune",
+    "type": "xã",
+    "district_code": "533",
+    "codename": "duc_phong"
+  },
+  {
+    "code": "21436",
+    "name": "Đức Lân",
+    "name_en": "Duc Lan",
+    "full_name": "Xã Đức Lân",
+    "full_name_en": "Duc Lan Commune",
+    "type": "xã",
+    "district_code": "533",
+    "codename": "duc_lan"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "code": "24846",
+    "name": "Lạc Dương",
+    "name_en": "Lac Duong",
+    "full_name": "Thị trấn Lạc Dương",
+    "full_name_en": "Lac Duong Township",
+    "type": "thị trấn",
+    "district_code": "675",
+    "codename": "lac_duong"
+  },
+  {
+    "code": "24847",
+    "name": "Đạ Chais",
+    "name_en": "Da Chais",
+    "full_name": "Xã Đạ Chais",
+    "full_name_en": "Da Chais Commune",
+    "type": "xã",
+    "district_code": "675",
+    "codename": "da_chais"
+  },
+  {
+    "code": "24848",
+    "name": "Đạ Nhim",
+    "name_en": "Da Nhim",
+    "full_name": "Xã Đạ Nhim",
+    "full_name_en": "Da Nhim Commune",
+    "type": "xã",
+    "district_code": "675",
+    "codename": "da_nhim"
+  },
+  {
+    "code": "24850",
+    "name": "Đưng KNớ",
+    "name_en": "Dung KNo",
+    "full_name": "Xã Đưng KNớ",
+    "full_name_en": "Dung KNo Commune",
+    "type": "xã",
+    "district_code": "675",
+    "codename": "dung_kno"
+  },
+  {
+    "code": "24862",
+    "name": "Lát",
+    "name_en": "Lat",
+    "full_name": "Xã Lát",
+    "full_name_en": "Lat Commune",
+    "type": "xã",
+    "district_code": "675",
+    "codename": "lat"
+  },
+  {
+    "code": "24865",
+    "name": "Đạ Sar",
+    "name_en": "Da Sar",
+    "full_name": "Xã Đạ Sar",
+    "full_name_en": "Da Sar Commune",
+    "type": "xã",
+    "district_code": "675",
+    "codename": "da_sar"
+  }
+]

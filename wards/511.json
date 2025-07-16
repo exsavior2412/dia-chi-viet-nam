@@ -1,0 +1,122 @@
+[
+  {
+    "code": "20722",
+    "name": "Khâm Đức",
+    "name_en": "Kham Duc",
+    "full_name": "Thị trấn Khâm Đức",
+    "full_name_en": "Kham Duc Township",
+    "type": "thị trấn",
+    "district_code": "511",
+    "codename": "kham_duc"
+  },
+  {
+    "code": "20725",
+    "name": "Phước Xuân",
+    "name_en": "Phuoc Xuan",
+    "full_name": "Xã Phước Xuân",
+    "full_name_en": "Phuoc Xuan Commune",
+    "type": "xã",
+    "district_code": "511",
+    "codename": "phuoc_xuan"
+  },
+  {
+    "code": "20728",
+    "name": "Phước Hiệp",
+    "name_en": "Phuoc Hiep",
+    "full_name": "Xã Phước Hiệp",
+    "full_name_en": "Phuoc Hiep Commune",
+    "type": "xã",
+    "district_code": "511",
+    "codename": "phuoc_hiep"
+  },
+  {
+    "code": "20729",
+    "name": "Phước Hoà",
+    "name_en": "Phuoc Hoa",
+    "full_name": "Xã Phước Hoà",
+    "full_name_en": "Phuoc Hoa Commune",
+    "type": "xã",
+    "district_code": "511",
+    "codename": "phuoc_hoa"
+  },
+  {
+    "code": "20731",
+    "name": "Phước Đức",
+    "name_en": "Phuoc Duc",
+    "full_name": "Xã Phước Đức",
+    "full_name_en": "Phuoc Duc Commune",
+    "type": "xã",
+    "district_code": "511",
+    "codename": "phuoc_duc"
+  },
+  {
+    "code": "20734",
+    "name": "Phước Năng",
+    "name_en": "Phuoc Nang",
+    "full_name": "Xã Phước Năng",
+    "full_name_en": "Phuoc Nang Commune",
+    "type": "xã",
+    "district_code": "511",
+    "codename": "phuoc_nang"
+  },
+  {
+    "code": "20737",
+    "name": "Phước Mỹ",
+    "name_en": "Phuoc My",
+    "full_name": "Xã Phước Mỹ",
+    "full_name_en": "Phuoc My Commune",
+    "type": "xã",
+    "district_code": "511",
+    "codename": "phuoc_my"
+  },
+  {
+    "code": "20740",
+    "name": "Phước Chánh",
+    "name_en": "Phuoc Chanh",
+    "full_name": "Xã Phước Chánh",
+    "full_name_en": "Phuoc Chanh Commune",
+    "type": "xã",
+    "district_code": "511",
+    "codename": "phuoc_chanh"
+  },
+  {
+    "code": "20743",
+    "name": "Phước Công",
+    "name_en": "Phuoc Cong",
+    "full_name": "Xã Phước Công",
+    "full_name_en": "Phuoc Cong Commune",
+    "type": "xã",
+    "district_code": "511",
+    "codename": "phuoc_cong"
+  },
+  {
+    "code": "20746",
+    "name": "Phước Kim",
+    "name_en": "Phuoc Kim",
+    "full_name": "Xã Phước Kim",
+    "full_name_en": "Phuoc Kim Commune",
+    "type": "xã",
+    "district_code": "511",
+    "codename": "phuoc_kim"
+  },
+  {
+    "code": "20749",
+    "name": "Phước Lộc",
+    "name_en": "Phuoc Loc",
+    "full_name": "Xã Phước Lộc",
+    "full_name_en": "Phuoc Loc Commune",
+    "type": "xã",
+    "district_code": "511",
+    "codename": "phuoc_loc"
+  },
+  {
+    "code": "20752",
+    "name": "Phước Thành",
+    "name_en": "Phuoc Thanh",
+    "full_name": "Xã Phước Thành",
+    "full_name_en": "Phuoc Thanh Commune",
+    "type": "xã",
+    "district_code": "511",
+    "codename": "phuoc_thanh"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "code": "09025",
+    "name": "Yên Lạc",
+    "name_en": "Yen Lac",
+    "full_name": "Thị trấn Yên Lạc",
+    "full_name_en": "Yen Lac Township",
+    "type": "thị trấn",
+    "district_code": "251",
+    "codename": "yen_lac"
+  },
+  {
+    "code": "09028",
+    "name": "Đồng Cương",
+    "name_en": "Dong Cuong",
+    "full_name": "Xã Đồng Cương",
+    "full_name_en": "Dong Cuong Commune",
+    "type": "xã",
+    "district_code": "251",
+    "codename": "dong_cuong"
+  },
+  {
+    "code": "09031",
+    "name": "Đồng Văn",
+    "name_en": "Dong Van",
+    "full_name": "Xã Đồng Văn",
+    "full_name_en": "Dong Van Commune",
+    "type": "xã",
+    "district_code": "251",
+    "codename": "dong_van"
+  },
+  {
+    "code": "09034",
+    "name": "Bình Định",
+    "name_en": "Binh Dinh",
+    "full_name": "Xã Bình Định",
+    "full_name_en": "Binh Dinh Commune",
+    "type": "xã",
+    "district_code": "251",
+    "codename": "binh_dinh"
+  },
+  {
+    "code": "09037",
+    "name": "Trung Nguyên",
+    "name_en": "Trung Nguyen",
+    "full_name": "Xã Trung Nguyên",
+    "full_name_en": "Trung Nguyen Commune",
+    "type": "xã",
+    "district_code": "251",
+    "codename": "trung_nguyen"
+  },
+  {
+    "code": "09040",
+    "name": "Tề Lỗ",
+    "name_en": "Te Lo",
+    "full_name": "Xã Tề Lỗ",
+    "full_name_en": "Te Lo Commune",
+    "type": "xã",
+    "district_code": "251",
+    "codename": "te_lo"
+  },
+  {
+    "code": "09043",
+    "name": "Tam Hồng",
+    "name_en": "Tam Hong",
+    "full_name": "Thị trấn Tam Hồng",
+    "full_name_en": "Tam Hong Township",
+    "type": "thị trấn",
+    "district_code": "251",
+    "codename": "tam_hong"
+  },
+  {
+    "code": "09046",
+    "name": "Yên Đồng",
+    "name_en": "Yen Dong",
+    "full_name": "Xã Yên Đồng",
+    "full_name_en": "Yen Dong Commune",
+    "type": "xã",
+    "district_code": "251",
+    "codename": "yen_dong"
+  },
+  {
+    "code": "09049",
+    "name": "Văn Tiến",
+    "name_en": "Van Tien",
+    "full_name": "Xã Văn Tiến",
+    "full_name_en": "Van Tien Commune",
+    "type": "xã",
+    "district_code": "251",
+    "codename": "van_tien"
+  },
+  {
+    "code": "09052",
+    "name": "Nguyệt Đức",
+    "name_en": "Nguyet Duc",
+    "full_name": "Xã Nguyệt Đức",
+    "full_name_en": "Nguyet Duc Commune",
+    "type": "xã",
+    "district_code": "251",
+    "codename": "nguyet_duc"
+  },
+  {
+    "code": "09055",
+    "name": "Yên Phương",
+    "name_en": "Yen Phuong",
+    "full_name": "Xã Yên Phương",
+    "full_name_en": "Yen Phuong Commune",
+    "type": "xã",
+    "district_code": "251",
+    "codename": "yen_phuong"
+  },
+  {
+    "code": "09061",
+    "name": "Trung Kiên",
+    "name_en": "Trung Kien",
+    "full_name": "Xã Trung Kiên",
+    "full_name_en": "Trung Kien Commune",
+    "type": "xã",
+    "district_code": "251",
+    "codename": "trung_kien"
+  },
+  {
+    "code": "09064",
+    "name": "Liên Châu",
+    "name_en": "Lien Chau",
+    "full_name": "Xã Liên Châu",
+    "full_name_en": "Lien Chau Commune",
+    "type": "xã",
+    "district_code": "251",
+    "codename": "lien_chau"
+  },
+  {
+    "code": "09067",
+    "name": "Đại Tự",
+    "name_en": "Dai Tu",
+    "full_name": "Xã Đại Tự",
+    "full_name_en": "Dai Tu Commune",
+    "type": "xã",
+    "district_code": "251",
+    "codename": "dai_tu"
+  },
+  {
+    "code": "09070",
+    "name": "Hồng Châu",
+    "name_en": "Hong Chau",
+    "full_name": "Xã Hồng Châu",
+    "full_name_en": "Hong Chau Commune",
+    "type": "xã",
+    "district_code": "251",
+    "codename": "hong_chau"
+  },
+  {
+    "code": "09073",
+    "name": "Trung Hà",
+    "name_en": "Trung Ha",
+    "full_name": "Xã Trung Hà",
+    "full_name_en": "Trung Ha Commune",
+    "type": "xã",
+    "district_code": "251",
+    "codename": "trung_ha"
+  }
+]

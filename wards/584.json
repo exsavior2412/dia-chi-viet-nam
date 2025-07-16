@@ -1,0 +1,92 @@
+[
+  {
+    "code": "22783",
+    "name": "Phước Bình",
+    "name_en": "Phuoc Binh",
+    "full_name": "Xã Phước Bình",
+    "full_name_en": "Phuoc Binh Commune",
+    "type": "xã",
+    "district_code": "584",
+    "codename": "phuoc_binh"
+  },
+  {
+    "code": "22786",
+    "name": "Phước Hòa",
+    "name_en": "Phuoc Hoa",
+    "full_name": "Xã Phước Hòa",
+    "full_name_en": "Phuoc Hoa Commune",
+    "type": "xã",
+    "district_code": "584",
+    "codename": "phuoc_hoa"
+  },
+  {
+    "code": "22789",
+    "name": "Phước Tân",
+    "name_en": "Phuoc Tan",
+    "full_name": "Xã Phước Tân",
+    "full_name_en": "Phuoc Tan Commune",
+    "type": "xã",
+    "district_code": "584",
+    "codename": "phuoc_tan"
+  },
+  {
+    "code": "22792",
+    "name": "Phước Tiến",
+    "name_en": "Phuoc Tien",
+    "full_name": "Xã Phước Tiến",
+    "full_name_en": "Phuoc Tien Commune",
+    "type": "xã",
+    "district_code": "584",
+    "codename": "phuoc_tien"
+  },
+  {
+    "code": "22795",
+    "name": "Phước Thắng",
+    "name_en": "Phuoc Thang",
+    "full_name": "Xã Phước Thắng",
+    "full_name_en": "Phuoc Thang Commune",
+    "type": "xã",
+    "district_code": "584",
+    "codename": "phuoc_thang"
+  },
+  {
+    "code": "22798",
+    "name": "Phước Thành",
+    "name_en": "Phuoc Thanh",
+    "full_name": "Xã Phước Thành",
+    "full_name_en": "Phuoc Thanh Commune",
+    "type": "xã",
+    "district_code": "584",
+    "codename": "phuoc_thanh"
+  },
+  {
+    "code": "22801",
+    "name": "Phước Đại",
+    "name_en": "Phuoc Dai",
+    "full_name": "Xã Phước Đại",
+    "full_name_en": "Phuoc Dai Commune",
+    "type": "xã",
+    "district_code": "584",
+    "codename": "phuoc_dai"
+  },
+  {
+    "code": "22804",
+    "name": "Phước Chính",
+    "name_en": "Phuoc Chinh",
+    "full_name": "Xã Phước Chính",
+    "full_name_en": "Phuoc Chinh Commune",
+    "type": "xã",
+    "district_code": "584",
+    "codename": "phuoc_chinh"
+  },
+  {
+    "code": "22807",
+    "name": "Phước Trung",
+    "name_en": "Phuoc Trung",
+    "full_name": "Xã Phước Trung",
+    "full_name_en": "Phuoc Trung Commune",
+    "type": "xã",
+    "district_code": "584",
+    "codename": "phuoc_trung"
+  }
+]

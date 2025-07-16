@@ -1,0 +1,92 @@
+[
+  {
+    "code": "243",
+    "name": "Vĩnh Yên",
+    "name_en": "Vinh Yen",
+    "full_name": "Thành phố Vĩnh Yên",
+    "full_name_en": "Vinh Yen City",
+    "type": "thành phố",
+    "province_code": "26",
+    "codename": "vinh_yen"
+  },
+  {
+    "code": "244",
+    "name": "Phúc Yên",
+    "name_en": "Phuc Yen",
+    "full_name": "Thành phố Phúc Yên",
+    "full_name_en": "Phuc Yen City",
+    "type": "thành phố",
+    "province_code": "26",
+    "codename": "phuc_yen"
+  },
+  {
+    "code": "246",
+    "name": "Lập Thạch",
+    "name_en": "Lap Thach",
+    "full_name": "Huyện Lập Thạch",
+    "full_name_en": "Lap Thach District",
+    "type": "huyện",
+    "province_code": "26",
+    "codename": "lap_thach"
+  },
+  {
+    "code": "247",
+    "name": "Tam Dương",
+    "name_en": "Tam Duong",
+    "full_name": "Huyện Tam Dương",
+    "full_name_en": "Tam Duong District",
+    "type": "huyện",
+    "province_code": "26",
+    "codename": "tam_duong"
+  },
+  {
+    "code": "248",
+    "name": "Tam Đảo",
+    "name_en": "Tam Dao",
+    "full_name": "Huyện Tam Đảo",
+    "full_name_en": "Tam Dao District",
+    "type": "huyện",
+    "province_code": "26",
+    "codename": "tam_dao"
+  },
+  {
+    "code": "249",
+    "name": "Bình Xuyên",
+    "name_en": "Binh Xuyen",
+    "full_name": "Huyện Bình Xuyên",
+    "full_name_en": "Binh Xuyen District",
+    "type": "huyện",
+    "province_code": "26",
+    "codename": "binh_xuyen"
+  },
+  {
+    "code": "251",
+    "name": "Yên Lạc",
+    "name_en": "Yen Lac",
+    "full_name": "Huyện Yên Lạc",
+    "full_name_en": "Yen Lac District",
+    "type": "huyện",
+    "province_code": "26",
+    "codename": "yen_lac"
+  },
+  {
+    "code": "252",
+    "name": "Vĩnh Tường",
+    "name_en": "Vinh Tuong",
+    "full_name": "Huyện Vĩnh Tường",
+    "full_name_en": "Vinh Tuong District",
+    "type": "huyện",
+    "province_code": "26",
+    "codename": "vinh_tuong"
+  },
+  {
+    "code": "253",
+    "name": "Sông Lô",
+    "name_en": "Song Lo",
+    "full_name": "Huyện Sông Lô",
+    "full_name_en": "Song Lo District",
+    "type": "huyện",
+    "province_code": "26",
+    "codename": "song_lo"
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "code": "04978",
+    "name": "Bo",
+    "name_en": "Bo",
+    "full_name": "Thị trấn Bo",
+    "full_name_en": "Bo Township",
+    "type": "thị trấn",
+    "district_code": "153",
+    "codename": "bo"
+  },
+  {
+    "code": "04984",
+    "name": "Đú Sáng",
+    "name_en": "Du Sang",
+    "full_name": "Xã Đú Sáng",
+    "full_name_en": "Du Sang Commune",
+    "type": "xã",
+    "district_code": "153",
+    "codename": "du_sang"
+  },
+  {
+    "code": "04987",
+    "name": "Hùng Sơn",
+    "name_en": "Hung Son",
+    "full_name": "Xã Hùng Sơn",
+    "full_name_en": "Hung Son Commune",
+    "type": "xã",
+    "district_code": "153",
+    "codename": "hung_son"
+  },
+  {
+    "code": "04990",
+    "name": "Bình Sơn",
+    "name_en": "Binh Son",
+    "full_name": "Xã Bình Sơn",
+    "full_name_en": "Binh Son Commune",
+    "type": "xã",
+    "district_code": "153",
+    "codename": "binh_son"
+  },
+  {
+    "code": "04999",
+    "name": "Tú Sơn",
+    "name_en": "Tu Son",
+    "full_name": "Xã Tú Sơn",
+    "full_name_en": "Tu Son Commune",
+    "type": "xã",
+    "district_code": "153",
+    "codename": "tu_son"
+  },
+  {
+    "code": "05005",
+    "name": "Vĩnh Tiến",
+    "name_en": "Vinh Tien",
+    "full_name": "Xã Vĩnh Tiến",
+    "full_name_en": "Vinh Tien Commune",
+    "type": "xã",
+    "district_code": "153",
+    "codename": "vinh_tien"
+  },
+  {
+    "code": "05014",
+    "name": "Đông Bắc",
+    "name_en": "Dong Bac",
+    "full_name": "Xã Đông Bắc",
+    "full_name_en": "Dong Bac Commune",
+    "type": "xã",
+    "district_code": "153",
+    "codename": "dong_bac"
+  },
+  {
+    "code": "05017",
+    "name": "Xuân Thủy",
+    "name_en": "Xuan Thuy",
+    "full_name": "Xã Xuân Thủy",
+    "full_name_en": "Xuan Thuy Commune",
+    "type": "xã",
+    "district_code": "153",
+    "codename": "xuan_thuy"
+  },
+  {
+    "code": "05026",
+    "name": "Vĩnh Đồng",
+    "name_en": "Vinh Dong",
+    "full_name": "Xã Vĩnh Đồng",
+    "full_name_en": "Vinh Dong Commune",
+    "type": "xã",
+    "district_code": "153",
+    "codename": "vinh_dong"
+  },
+  {
+    "code": "05035",
+    "name": "Kim Lập",
+    "name_en": "Kim Lap",
+    "full_name": "Xã Kim Lập",
+    "full_name_en": "Kim Lap Commune",
+    "type": "xã",
+    "district_code": "153",
+    "codename": "kim_lap"
+  },
+  {
+    "code": "05038",
+    "name": "Hợp Tiến",
+    "name_en": "Hop Tien",
+    "full_name": "Xã Hợp Tiến",
+    "full_name_en": "Hop Tien Commune",
+    "type": "xã",
+    "district_code": "153",
+    "codename": "hop_tien"
+  },
+  {
+    "code": "05065",
+    "name": "Kim Bôi",
+    "name_en": "Kim Boi",
+    "full_name": "Xã Kim Bôi",
+    "full_name_en": "Kim Boi Commune",
+    "type": "xã",
+    "district_code": "153",
+    "codename": "kim_boi"
+  },
+  {
+    "code": "05068",
+    "name": "Nam Thượng",
+    "name_en": "Nam Thuong",
+    "full_name": "Xã Nam Thượng",
+    "full_name_en": "Nam Thuong Commune",
+    "type": "xã",
+    "district_code": "153",
+    "codename": "nam_thuong"
+  },
+  {
+    "code": "05077",
+    "name": "Cuối Hạ",
+    "name_en": "Cuoi Ha",
+    "full_name": "Xã Cuối Hạ",
+    "full_name_en": "Cuoi Ha Commune",
+    "type": "xã",
+    "district_code": "153",
+    "codename": "cuoi_ha"
+  },
+  {
+    "code": "05080",
+    "name": "Sào Báy",
+    "name_en": "Sao Bay",
+    "full_name": "Xã Sào Báy",
+    "full_name_en": "Sao Bay Commune",
+    "type": "xã",
+    "district_code": "153",
+    "codename": "sao_bay"
+  },
+  {
+    "code": "05083",
+    "name": "Mi Hòa",
+    "name_en": "Mi Hoa",
+    "full_name": "Xã Mi Hòa",
+    "full_name_en": "Mi Hoa Commune",
+    "type": "xã",
+    "district_code": "153",
+    "codename": "mi_hoa"
+  },
+  {
+    "code": "05086",
+    "name": "Nuông Dăm",
+    "name_en": "Nuong Dam",
+    "full_name": "Xã Nuông Dăm",
+    "full_name_en": "Nuong Dam Commune",
+    "type": "xã",
+    "district_code": "153",
+    "codename": "nuong_dam"
+  }
+]

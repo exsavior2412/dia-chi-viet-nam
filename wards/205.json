@@ -1,0 +1,192 @@
+[
+  {
+    "code": "07069",
+    "name": "Mạo Khê",
+    "name_en": "Mao Khe",
+    "full_name": "Phường Mạo Khê",
+    "full_name_en": "Mao Khe Ward",
+    "type": "phường",
+    "district_code": "205",
+    "codename": "mao_khe"
+  },
+  {
+    "code": "07075",
+    "name": "An Sinh",
+    "name_en": "An Sinh",
+    "full_name": "Xã An Sinh",
+    "full_name_en": "An Sinh Commune",
+    "type": "xã",
+    "district_code": "205",
+    "codename": "an_sinh"
+  },
+  {
+    "code": "07078",
+    "name": "Tràng Lương",
+    "name_en": "Trang Luong",
+    "full_name": "Xã Tràng Lương",
+    "full_name_en": "Trang Luong Commune",
+    "type": "xã",
+    "district_code": "205",
+    "codename": "trang_luong"
+  },
+  {
+    "code": "07081",
+    "name": "Bình Khê",
+    "name_en": "Binh Khe",
+    "full_name": "Phường Bình Khê",
+    "full_name_en": "Binh Khe Ward",
+    "type": "phường",
+    "district_code": "205",
+    "codename": "binh_khe"
+  },
+  {
+    "code": "07084",
+    "name": "Việt Dân",
+    "name_en": "Viet Dan",
+    "full_name": "Xã Việt Dân",
+    "full_name_en": "Viet Dan Commune",
+    "type": "xã",
+    "district_code": "205",
+    "codename": "viet_dan"
+  },
+  {
+    "code": "07090",
+    "name": "Bình Dương",
+    "name_en": "Binh Duong",
+    "full_name": "Phường Bình Dương",
+    "full_name_en": "Binh Duong Ward",
+    "type": "phường",
+    "district_code": "205",
+    "codename": "binh_duong"
+  },
+  {
+    "code": "07093",
+    "name": "Đức Chính",
+    "name_en": "Duc Chinh",
+    "full_name": "Phường Đức Chính",
+    "full_name_en": "Duc Chinh Ward",
+    "type": "phường",
+    "district_code": "205",
+    "codename": "duc_chinh"
+  },
+  {
+    "code": "07096",
+    "name": "Tràng An",
+    "name_en": "Trang An",
+    "full_name": "Phường Tràng An",
+    "full_name_en": "Trang An Ward",
+    "type": "phường",
+    "district_code": "205",
+    "codename": "trang_an"
+  },
+  {
+    "code": "07099",
+    "name": "Nguyễn Huệ",
+    "name_en": "Nguyen Hue",
+    "full_name": "Xã Nguyễn Huệ",
+    "full_name_en": "Nguyen Hue Commune",
+    "type": "xã",
+    "district_code": "205",
+    "codename": "nguyen_hue"
+  },
+  {
+    "code": "07102",
+    "name": "Thủy An",
+    "name_en": "Thuy An",
+    "full_name": "Phường Thủy An",
+    "full_name_en": "Thuy An Ward",
+    "type": "phường",
+    "district_code": "205",
+    "codename": "thuy_an"
+  },
+  {
+    "code": "07105",
+    "name": "Xuân Sơn",
+    "name_en": "Xuan Son",
+    "full_name": "Phường Xuân Sơn",
+    "full_name_en": "Xuan Son Ward",
+    "type": "phường",
+    "district_code": "205",
+    "codename": "xuan_son"
+  },
+  {
+    "code": "07108",
+    "name": "Hồng Thái Tây",
+    "name_en": "Hong Thai Tay",
+    "full_name": "Xã Hồng Thái Tây",
+    "full_name_en": "Hong Thai Tay Commune",
+    "type": "xã",
+    "district_code": "205",
+    "codename": "hong_thai_tay"
+  },
+  {
+    "code": "07111",
+    "name": "Hồng Thái Đông",
+    "name_en": "Hong Thai Dong",
+    "full_name": "Xã Hồng Thái Đông",
+    "full_name_en": "Hong Thai Dong Commune",
+    "type": "xã",
+    "district_code": "205",
+    "codename": "hong_thai_dong"
+  },
+  {
+    "code": "07114",
+    "name": "Hoàng Quế",
+    "name_en": "Hoang Que",
+    "full_name": "Phường Hoàng Quế",
+    "full_name_en": "Hoang Que Ward",
+    "type": "phường",
+    "district_code": "205",
+    "codename": "hoang_que"
+  },
+  {
+    "code": "07117",
+    "name": "Yên Thọ",
+    "name_en": "Yen Tho",
+    "full_name": "Phường Yên Thọ",
+    "full_name_en": "Yen Tho Ward",
+    "type": "phường",
+    "district_code": "205",
+    "codename": "yen_tho"
+  },
+  {
+    "code": "07120",
+    "name": "Hồng Phong",
+    "name_en": "Hong Phong",
+    "full_name": "Phường Hồng Phong",
+    "full_name_en": "Hong Phong Ward",
+    "type": "phường",
+    "district_code": "205",
+    "codename": "hong_phong"
+  },
+  {
+    "code": "07123",
+    "name": "Kim Sơn",
+    "name_en": "Kim Son",
+    "full_name": "Phường Kim Sơn",
+    "full_name_en": "Kim Son Ward",
+    "type": "phường",
+    "district_code": "205",
+    "codename": "kim_son"
+  },
+  {
+    "code": "07126",
+    "name": "Hưng Đạo",
+    "name_en": "Hung Dao",
+    "full_name": "Phường Hưng Đạo",
+    "full_name_en": "Hung Dao Ward",
+    "type": "phường",
+    "district_code": "205",
+    "codename": "hung_dao"
+  },
+  {
+    "code": "07129",
+    "name": "Yên Đức",
+    "name_en": "Yen Duc",
+    "full_name": "Phường Yên Đức",
+    "full_name_en": "Yen Duc Ward",
+    "type": "phường",
+    "district_code": "205",
+    "codename": "yen_duc"
+  }
+]

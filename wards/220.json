@@ -1,0 +1,172 @@
+[
+  {
+    "code": "07615",
+    "name": "An Châu",
+    "name_en": "An Chau",
+    "full_name": "Thị trấn An Châu",
+    "full_name_en": "An Chau Township",
+    "type": "thị trấn",
+    "district_code": "220",
+    "codename": "an_chau"
+  },
+  {
+    "code": "07616",
+    "name": "Tây Yên Tử",
+    "name_en": "Tay Yen Tu",
+    "full_name": "Thị trấn Tây Yên Tử",
+    "full_name_en": "Tay Yen Tu Township",
+    "type": "thị trấn",
+    "district_code": "220",
+    "codename": "tay_yen_tu"
+  },
+  {
+    "code": "07621",
+    "name": "Vân Sơn",
+    "name_en": "Van Son",
+    "full_name": "Xã Vân Sơn",
+    "full_name_en": "Van Son Commune",
+    "type": "xã",
+    "district_code": "220",
+    "codename": "van_son"
+  },
+  {
+    "code": "07624",
+    "name": "Hữu Sản",
+    "name_en": "Huu San",
+    "full_name": "Xã Hữu Sản",
+    "full_name_en": "Huu San Commune",
+    "type": "xã",
+    "district_code": "220",
+    "codename": "huu_san"
+  },
+  {
+    "code": "07627",
+    "name": "Đại Sơn",
+    "name_en": "Dai Son",
+    "full_name": "Xã Đại Sơn",
+    "full_name_en": "Dai Son Commune",
+    "type": "xã",
+    "district_code": "220",
+    "codename": "dai_son"
+  },
+  {
+    "code": "07630",
+    "name": "Phúc Sơn",
+    "name_en": "Phuc Son",
+    "full_name": "Xã Phúc Sơn",
+    "full_name_en": "Phuc Son Commune",
+    "type": "xã",
+    "district_code": "220",
+    "codename": "phuc_son"
+  },
+  {
+    "code": "07636",
+    "name": "Giáo Liêm",
+    "name_en": "Giao Liem",
+    "full_name": "Xã Giáo Liêm",
+    "full_name_en": "Giao Liem Commune",
+    "type": "xã",
+    "district_code": "220",
+    "codename": "giao_liem"
+  },
+  {
+    "code": "07642",
+    "name": "Cẩm Đàn",
+    "name_en": "Cam Dan",
+    "full_name": "Xã Cẩm Đàn",
+    "full_name_en": "Cam Dan Commune",
+    "type": "xã",
+    "district_code": "220",
+    "codename": "cam_dan"
+  },
+  {
+    "code": "07645",
+    "name": "An Lạc",
+    "name_en": "An Lac",
+    "full_name": "Xã An Lạc",
+    "full_name_en": "An Lac Commune",
+    "type": "xã",
+    "district_code": "220",
+    "codename": "an_lac"
+  },
+  {
+    "code": "07648",
+    "name": "Vĩnh An",
+    "name_en": "Vinh An",
+    "full_name": "Xã Vĩnh An",
+    "full_name_en": "Vinh An Commune",
+    "type": "xã",
+    "district_code": "220",
+    "codename": "vinh_an"
+  },
+  {
+    "code": "07651",
+    "name": "Yên Định",
+    "name_en": "Yen Dinh",
+    "full_name": "Xã Yên Định",
+    "full_name_en": "Yen Dinh Commune",
+    "type": "xã",
+    "district_code": "220",
+    "codename": "yen_dinh"
+  },
+  {
+    "code": "07654",
+    "name": "Lệ Viễn",
+    "name_en": "Le Vien",
+    "full_name": "Xã Lệ Viễn",
+    "full_name_en": "Le Vien Commune",
+    "type": "xã",
+    "district_code": "220",
+    "codename": "le_vien"
+  },
+  {
+    "code": "07660",
+    "name": "An Bá",
+    "name_en": "An Ba",
+    "full_name": "Xã An Bá",
+    "full_name_en": "An Ba Commune",
+    "type": "xã",
+    "district_code": "220",
+    "codename": "an_ba"
+  },
+  {
+    "code": "07663",
+    "name": "Tuấn Đạo",
+    "name_en": "Tuan Dao",
+    "full_name": "Xã Tuấn Đạo",
+    "full_name_en": "Tuan Dao Commune",
+    "type": "xã",
+    "district_code": "220",
+    "codename": "tuan_dao"
+  },
+  {
+    "code": "07666",
+    "name": "Dương Hưu",
+    "name_en": "Duong Huu",
+    "full_name": "Xã Dương Hưu",
+    "full_name_en": "Duong Huu Commune",
+    "type": "xã",
+    "district_code": "220",
+    "codename": "duong_huu"
+  },
+  {
+    "code": "07672",
+    "name": "Long Sơn",
+    "name_en": "Long Son",
+    "full_name": "Xã Long Sơn",
+    "full_name_en": "Long Son Commune",
+    "type": "xã",
+    "district_code": "220",
+    "codename": "long_son"
+  },
+  {
+    "code": "07678",
+    "name": "Thanh Luận",
+    "name_en": "Thanh Luan",
+    "full_name": "Xã Thanh Luận",
+    "full_name_en": "Thanh Luan Commune",
+    "type": "xã",
+    "district_code": "220",
+    "codename": "thanh_luan"
+  }
+]

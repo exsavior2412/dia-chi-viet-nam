@@ -1,0 +1,62 @@
+[
+  {
+    "code": "25320",
+    "name": "Hưng Chiến",
+    "name_en": "Hung Chien",
+    "full_name": "Phường Hưng Chiến",
+    "full_name_en": "Hung Chien Ward",
+    "type": "phường",
+    "district_code": "690",
+    "codename": "hung_chien"
+  },
+  {
+    "code": "25324",
+    "name": "An Lộc",
+    "name_en": "An Loc",
+    "full_name": "Phường An Lộc",
+    "full_name_en": "An Loc Ward",
+    "type": "phường",
+    "district_code": "690",
+    "codename": "an_loc"
+  },
+  {
+    "code": "25325",
+    "name": "Phú Thịnh",
+    "name_en": "Phu Thinh",
+    "full_name": "Phường Phú Thịnh",
+    "full_name_en": "Phu Thinh Ward",
+    "type": "phường",
+    "district_code": "690",
+    "codename": "phu_thinh"
+  },
+  {
+    "code": "25326",
+    "name": "Phú Đức",
+    "name_en": "Phu Duc",
+    "full_name": "Phường Phú Đức",
+    "full_name_en": "Phu Duc Ward",
+    "type": "phường",
+    "district_code": "690",
+    "codename": "phu_duc"
+  },
+  {
+    "code": "25333",
+    "name": "Thanh Lương",
+    "name_en": "Thanh Luong",
+    "full_name": "Xã Thanh Lương",
+    "full_name_en": "Thanh Luong Commune",
+    "type": "xã",
+    "district_code": "690",
+    "codename": "thanh_luong"
+  },
+  {
+    "code": "25336",
+    "name": "Thanh Phú",
+    "name_en": "Thanh Phu",
+    "full_name": "Xã Thanh Phú",
+    "full_name_en": "Thanh Phu Commune",
+    "type": "xã",
+    "district_code": "690",
+    "codename": "thanh_phu"
+  }
+]

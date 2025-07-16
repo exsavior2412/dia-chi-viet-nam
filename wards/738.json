@@ -1,0 +1,102 @@
+[
+  {
+    "code": "26299",
+    "name": "Gia Tân 1",
+    "name_en": "Gia Tan 1",
+    "full_name": "Xã Gia Tân 1",
+    "full_name_en": "Commune Gia Tan 1",
+    "type": "xã",
+    "district_code": "738",
+    "codename": "gia_tan_1"
+  },
+  {
+    "code": "26302",
+    "name": "Gia Tân 2",
+    "name_en": "Gia Tan 2",
+    "full_name": "Xã Gia Tân 2",
+    "full_name_en": "Commune Gia Tan 2",
+    "type": "xã",
+    "district_code": "738",
+    "codename": "gia_tan_2"
+  },
+  {
+    "code": "26305",
+    "name": "Gia Tân 3",
+    "name_en": "Gia Tan 3",
+    "full_name": "Xã Gia Tân 3",
+    "full_name_en": "Commune Gia Tan 3",
+    "type": "xã",
+    "district_code": "738",
+    "codename": "gia_tan_3"
+  },
+  {
+    "code": "26308",
+    "name": "Gia Kiệm",
+    "name_en": "Gia Kiem",
+    "full_name": "Xã Gia Kiệm",
+    "full_name_en": "Gia Kiem Commune",
+    "type": "xã",
+    "district_code": "738",
+    "codename": "gia_kiem"
+  },
+  {
+    "code": "26311",
+    "name": "Quang Trung",
+    "name_en": "Quang Trung",
+    "full_name": "Xã Quang Trung",
+    "full_name_en": "Quang Trung Commune",
+    "type": "xã",
+    "district_code": "738",
+    "codename": "quang_trung"
+  },
+  {
+    "code": "26314",
+    "name": "Bàu Hàm 2",
+    "name_en": "Bau Ham 2",
+    "full_name": "Xã Bàu Hàm 2",
+    "full_name_en": "Commune Bau Ham 2",
+    "type": "xã",
+    "district_code": "738",
+    "codename": "bau_ham_2"
+  },
+  {
+    "code": "26317",
+    "name": "Hưng Lộc",
+    "name_en": "Hung Loc",
+    "full_name": "Xã Hưng Lộc",
+    "full_name_en": "Hung Loc Commune",
+    "type": "xã",
+    "district_code": "738",
+    "codename": "hung_loc"
+  },
+  {
+    "code": "26320",
+    "name": "Lộ 25",
+    "name_en": "Lo 25",
+    "full_name": "Xã Lộ 25",
+    "full_name_en": "Commune Lo 25",
+    "type": "xã",
+    "district_code": "738",
+    "codename": "lo_25"
+  },
+  {
+    "code": "26323",
+    "name": "Xuân Thiện",
+    "name_en": "Xuan Thien",
+    "full_name": "Xã Xuân Thiện",
+    "full_name_en": "Xuan Thien Commune",
+    "type": "xã",
+    "district_code": "738",
+    "codename": "xuan_thien"
+  },
+  {
+    "code": "26326",
+    "name": "Dầu Giây",
+    "name_en": "Dau Giay",
+    "full_name": "Thị trấn Dầu Giây",
+    "full_name_en": "Dau Giay Township",
+    "type": "thị trấn",
+    "district_code": "738",
+    "codename": "dau_giay"
+  }
+]

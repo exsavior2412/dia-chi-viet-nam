@@ -1,0 +1,82 @@
+[
+  {
+    "code": "31569",
+    "name": "Châu Thành",
+    "name_en": "Chau Thanh",
+    "full_name": "Thị trấn Châu Thành",
+    "full_name_en": "Chau Thanh Township",
+    "type": "thị trấn",
+    "district_code": "942",
+    "codename": "chau_thanh"
+  },
+  {
+    "code": "31570",
+    "name": "Hồ Đắc Kiện",
+    "name_en": "Ho Dac Kien",
+    "full_name": "Xã Hồ Đắc Kiện",
+    "full_name_en": "Ho Dac Kien Commune",
+    "type": "xã",
+    "district_code": "942",
+    "codename": "ho_dac_kien"
+  },
+  {
+    "code": "31573",
+    "name": "Phú Tâm",
+    "name_en": "Phu Tam",
+    "full_name": "Xã Phú Tâm",
+    "full_name_en": "Phu Tam Commune",
+    "type": "xã",
+    "district_code": "942",
+    "codename": "phu_tam"
+  },
+  {
+    "code": "31576",
+    "name": "Thuận Hòa",
+    "name_en": "Thuan Hoa",
+    "full_name": "Xã Thuận Hòa",
+    "full_name_en": "Thuan Hoa Commune",
+    "type": "xã",
+    "district_code": "942",
+    "codename": "thuan_hoa"
+  },
+  {
+    "code": "31582",
+    "name": "Phú Tân",
+    "name_en": "Phu Tan",
+    "full_name": "Xã Phú Tân",
+    "full_name_en": "Phu Tan Commune",
+    "type": "xã",
+    "district_code": "942",
+    "codename": "phu_tan"
+  },
+  {
+    "code": "31585",
+    "name": "Thiện Mỹ",
+    "name_en": "Thien My",
+    "full_name": "Xã Thiện Mỹ",
+    "full_name_en": "Thien My Commune",
+    "type": "xã",
+    "district_code": "942",
+    "codename": "thien_my"
+  },
+  {
+    "code": "31594",
+    "name": "An Hiệp",
+    "name_en": "An Hiep",
+    "full_name": "Xã An Hiệp",
+    "full_name_en": "An Hiep Commune",
+    "type": "xã",
+    "district_code": "942",
+    "codename": "an_hiep"
+  },
+  {
+    "code": "31600",
+    "name": "An Ninh",
+    "name_en": "An Ninh",
+    "full_name": "Xã An Ninh",
+    "full_name_en": "An Ninh Commune",
+    "type": "xã",
+    "district_code": "942",
+    "codename": "an_ninh"
+  }
+]

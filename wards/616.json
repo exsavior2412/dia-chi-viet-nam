@@ -1,0 +1,112 @@
+[
+  {
+    "code": "23527",
+    "name": "Sa Thầy",
+    "name_en": "Sa Thay",
+    "full_name": "Thị trấn Sa Thầy",
+    "full_name_en": "Sa Thay Township",
+    "type": "thị trấn",
+    "district_code": "616",
+    "codename": "sa_thay"
+  },
+  {
+    "code": "23530",
+    "name": "Rơ Kơi",
+    "name_en": "Ro Koi",
+    "full_name": "Xã Rơ Kơi",
+    "full_name_en": "Ro Koi Commune",
+    "type": "xã",
+    "district_code": "616",
+    "codename": "ro_koi"
+  },
+  {
+    "code": "23533",
+    "name": "Sa Nhơn",
+    "name_en": "Sa Nhon",
+    "full_name": "Xã Sa Nhơn",
+    "full_name_en": "Sa Nhon Commune",
+    "type": "xã",
+    "district_code": "616",
+    "codename": "sa_nhon"
+  },
+  {
+    "code": "23534",
+    "name": "Hơ Moong",
+    "name_en": "Ho Moong",
+    "full_name": "Xã Hơ Moong",
+    "full_name_en": "Ho Moong Commune",
+    "type": "xã",
+    "district_code": "616",
+    "codename": "ho_moong"
+  },
+  {
+    "code": "23536",
+    "name": "Mô Rai",
+    "name_en": "Mo Rai",
+    "full_name": "Xã Mô Rai",
+    "full_name_en": "Mo Rai Commune",
+    "type": "xã",
+    "district_code": "616",
+    "codename": "mo_rai"
+  },
+  {
+    "code": "23539",
+    "name": "Sa Sơn",
+    "name_en": "Sa Son",
+    "full_name": "Xã Sa Sơn",
+    "full_name_en": "Sa Son Commune",
+    "type": "xã",
+    "district_code": "616",
+    "codename": "sa_son"
+  },
+  {
+    "code": "23542",
+    "name": "Sa Nghĩa",
+    "name_en": "Sa Nghia",
+    "full_name": "Xã Sa Nghĩa",
+    "full_name_en": "Sa Nghia Commune",
+    "type": "xã",
+    "district_code": "616",
+    "codename": "sa_nghia"
+  },
+  {
+    "code": "23545",
+    "name": "Sa Bình",
+    "name_en": "Sa Binh",
+    "full_name": "Xã Sa Bình",
+    "full_name_en": "Sa Binh Commune",
+    "type": "xã",
+    "district_code": "616",
+    "codename": "sa_binh"
+  },
+  {
+    "code": "23548",
+    "name": "Ya Xiêr",
+    "name_en": "Ya Xier",
+    "full_name": "Xã Ya Xiêr",
+    "full_name_en": "Ya Xier Commune",
+    "type": "xã",
+    "district_code": "616",
+    "codename": "ya_xier"
+  },
+  {
+    "code": "23551",
+    "name": "Ya Tăng",
+    "name_en": "Ya Tang",
+    "full_name": "Xã Ya Tăng",
+    "full_name_en": "Ya Tang Commune",
+    "type": "xã",
+    "district_code": "616",
+    "codename": "ya_tang"
+  },
+  {
+    "code": "23554",
+    "name": "Ya ly",
+    "name_en": "Ya ly",
+    "full_name": "Xã Ya ly",
+    "full_name_en": "Ya ly Commune",
+    "type": "xã",
+    "district_code": "616",
+    "codename": "ya_ly"
+  }
+]

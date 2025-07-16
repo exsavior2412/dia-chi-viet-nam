@@ -1,0 +1,92 @@
+[
+  {
+    "code": "08737",
+    "name": "Hùng Vương",
+    "name_en": "Hung Vuong",
+    "full_name": "Phường Hùng Vương",
+    "full_name_en": "Hung Vuong Ward",
+    "type": "phường",
+    "district_code": "244",
+    "codename": "hung_vuong"
+  },
+  {
+    "code": "08740",
+    "name": "Hai Bà Trưng",
+    "name_en": "Hai Ba Trung",
+    "full_name": "Phường Hai Bà Trưng",
+    "full_name_en": "Hai Ba Trung Ward",
+    "type": "phường",
+    "district_code": "244",
+    "codename": "hai_ba_trung"
+  },
+  {
+    "code": "08743",
+    "name": "Phúc Thắng",
+    "name_en": "Phuc Thang",
+    "full_name": "Phường Phúc Thắng",
+    "full_name_en": "Phuc Thang Ward",
+    "type": "phường",
+    "district_code": "244",
+    "codename": "phuc_thang"
+  },
+  {
+    "code": "08746",
+    "name": "Xuân Hoà",
+    "name_en": "Xuan Hoa",
+    "full_name": "Phường Xuân Hoà",
+    "full_name_en": "Xuan Hoa Ward",
+    "type": "phường",
+    "district_code": "244",
+    "codename": "xuan_hoa"
+  },
+  {
+    "code": "08747",
+    "name": "Đồng Xuân",
+    "name_en": "Dong Xuan",
+    "full_name": "Phường Đồng Xuân",
+    "full_name_en": "Dong Xuan Ward",
+    "type": "phường",
+    "district_code": "244",
+    "codename": "dong_xuan"
+  },
+  {
+    "code": "08749",
+    "name": "Ngọc Thanh",
+    "name_en": "Ngoc Thanh",
+    "full_name": "Xã Ngọc Thanh",
+    "full_name_en": "Ngoc Thanh Commune",
+    "type": "xã",
+    "district_code": "244",
+    "codename": "ngoc_thanh"
+  },
+  {
+    "code": "08752",
+    "name": "Cao Minh",
+    "name_en": "Cao Minh",
+    "full_name": "Xã Cao Minh",
+    "full_name_en": "Cao Minh Commune",
+    "type": "xã",
+    "district_code": "244",
+    "codename": "cao_minh"
+  },
+  {
+    "code": "08755",
+    "name": "Nam Viêm",
+    "name_en": "Nam Viem",
+    "full_name": "Phường Nam Viêm",
+    "full_name_en": "Nam Viem Ward",
+    "type": "phường",
+    "district_code": "244",
+    "codename": "nam_viem"
+  },
+  {
+    "code": "08758",
+    "name": "Tiền Châu",
+    "name_en": "Tien Chau",
+    "full_name": "Phường Tiền Châu",
+    "full_name_en": "Tien Chau Ward",
+    "type": "phường",
+    "district_code": "244",
+    "codename": "tien_chau"
+  }
+]

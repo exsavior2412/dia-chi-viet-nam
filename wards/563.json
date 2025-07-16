@@ -1,0 +1,92 @@
+[
+  {
+    "code": "22303",
+    "name": "Hòa Quang Bắc",
+    "name_en": "Hoa Quang Bac",
+    "full_name": "Xã Hòa Quang Bắc",
+    "full_name_en": "Hoa Quang Bac Commune",
+    "type": "xã",
+    "district_code": "563",
+    "codename": "hoa_quang_bac"
+  },
+  {
+    "code": "22306",
+    "name": "Hòa Quang Nam",
+    "name_en": "Hoa Quang Nam",
+    "full_name": "Xã Hòa Quang Nam",
+    "full_name_en": "Hoa Quang Nam Commune",
+    "type": "xã",
+    "district_code": "563",
+    "codename": "hoa_quang_nam"
+  },
+  {
+    "code": "22309",
+    "name": "Hòa Hội",
+    "name_en": "Hoa Hoi",
+    "full_name": "Xã Hòa Hội",
+    "full_name_en": "Hoa Hoi Commune",
+    "type": "xã",
+    "district_code": "563",
+    "codename": "hoa_hoi"
+  },
+  {
+    "code": "22312",
+    "name": "Hòa Trị",
+    "name_en": "Hoa Tri",
+    "full_name": "Xã Hòa Trị",
+    "full_name_en": "Hoa Tri Commune",
+    "type": "xã",
+    "district_code": "563",
+    "codename": "hoa_tri"
+  },
+  {
+    "code": "22315",
+    "name": "Hòa An",
+    "name_en": "Hoa An",
+    "full_name": "Xã Hòa An",
+    "full_name_en": "Hoa An Commune",
+    "type": "xã",
+    "district_code": "563",
+    "codename": "hoa_an"
+  },
+  {
+    "code": "22318",
+    "name": "Hòa Định Đông",
+    "name_en": "Hoa Dinh Dong",
+    "full_name": "Xã Hòa Định Đông",
+    "full_name_en": "Hoa Dinh Dong Commune",
+    "type": "xã",
+    "district_code": "563",
+    "codename": "hoa_dinh_dong"
+  },
+  {
+    "code": "22319",
+    "name": "Phú Hoà",
+    "name_en": "Phu Hoa",
+    "full_name": "Thị trấn Phú Hoà",
+    "full_name_en": "Phu Hoa Township",
+    "type": "thị trấn",
+    "district_code": "563",
+    "codename": "phu_hoa"
+  },
+  {
+    "code": "22321",
+    "name": "Hòa Định Tây",
+    "name_en": "Hoa Dinh Tay",
+    "full_name": "Xã Hòa Định Tây",
+    "full_name_en": "Hoa Dinh Tay Commune",
+    "type": "xã",
+    "district_code": "563",
+    "codename": "hoa_dinh_tay"
+  },
+  {
+    "code": "22324",
+    "name": "Hòa Thắng",
+    "name_en": "Hoa Thang",
+    "full_name": "Xã Hòa Thắng",
+    "full_name_en": "Hoa Thang Commune",
+    "type": "xã",
+    "district_code": "563",
+    "codename": "hoa_thang"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "code": "00595",
+    "name": "Thượng Cát",
+    "name_en": "Thuong Cat",
+    "full_name": "Phường Thượng Cát",
+    "full_name_en": "Thuong Cat Ward",
+    "type": "phường",
+    "district_code": "021",
+    "codename": "thuong_cat"
+  },
+  {
+    "code": "00598",
+    "name": "Liên Mạc",
+    "name_en": "Lien Mac",
+    "full_name": "Phường Liên Mạc",
+    "full_name_en": "Lien Mac Ward",
+    "type": "phường",
+    "district_code": "021",
+    "codename": "lien_mac"
+  },
+  {
+    "code": "00601",
+    "name": "Đông Ngạc",
+    "name_en": "Dong Ngac",
+    "full_name": "Phường Đông Ngạc",
+    "full_name_en": "Dong Ngac Ward",
+    "type": "phường",
+    "district_code": "021",
+    "codename": "dong_ngac"
+  },
+  {
+    "code": "00602",
+    "name": "Đức Thắng",
+    "name_en": "Duc Thang",
+    "full_name": "Phường Đức Thắng",
+    "full_name_en": "Duc Thang Ward",
+    "type": "phường",
+    "district_code": "021",
+    "codename": "duc_thang"
+  },
+  {
+    "code": "00604",
+    "name": "Thụy Phương",
+    "name_en": "Thuy Phuong",
+    "full_name": "Phường Thụy Phương",
+    "full_name_en": "Thuy Phuong Ward",
+    "type": "phường",
+    "district_code": "021",
+    "codename": "thuy_phuong"
+  },
+  {
+    "code": "00607",
+    "name": "Tây Tựu",
+    "name_en": "Tay Tuu",
+    "full_name": "Phường Tây Tựu",
+    "full_name_en": "Tay Tuu Ward",
+    "type": "phường",
+    "district_code": "021",
+    "codename": "tay_tuu"
+  },
+  {
+    "code": "00610",
+    "name": "Xuân Đỉnh",
+    "name_en": "Xuan Dinh",
+    "full_name": "Phường Xuân Đỉnh",
+    "full_name_en": "Xuan Dinh Ward",
+    "type": "phường",
+    "district_code": "021",
+    "codename": "xuan_dinh"
+  },
+  {
+    "code": "00611",
+    "name": "Xuân Tảo",
+    "name_en": "Xuan Tao",
+    "full_name": "Phường Xuân Tảo",
+    "full_name_en": "Xuan Tao Ward",
+    "type": "phường",
+    "district_code": "021",
+    "codename": "xuan_tao"
+  },
+  {
+    "code": "00613",
+    "name": "Minh Khai",
+    "name_en": "Minh Khai",
+    "full_name": "Phường Minh Khai",
+    "full_name_en": "Minh Khai Ward",
+    "type": "phường",
+    "district_code": "021",
+    "codename": "minh_khai"
+  },
+  {
+    "code": "00616",
+    "name": "Cổ Nhuế 1",
+    "name_en": "Co Nhue 1",
+    "full_name": "Phường Cổ Nhuế 1",
+    "full_name_en": "Ward Co Nhue 1",
+    "type": "phường",
+    "district_code": "021",
+    "codename": "co_nhue_1"
+  },
+  {
+    "code": "00617",
+    "name": "Cổ Nhuế 2",
+    "name_en": "Co Nhue 2",
+    "full_name": "Phường Cổ Nhuế 2",
+    "full_name_en": "Ward Co Nhue 2",
+    "type": "phường",
+    "district_code": "021",
+    "codename": "co_nhue_2"
+  },
+  {
+    "code": "00619",
+    "name": "Phú Diễn",
+    "name_en": "Phu Dien",
+    "full_name": "Phường Phú Diễn",
+    "full_name_en": "Phu Dien Ward",
+    "type": "phường",
+    "district_code": "021",
+    "codename": "phu_dien"
+  },
+  {
+    "code": "00620",
+    "name": "Phúc Diễn",
+    "name_en": "Phuc Dien",
+    "full_name": "Phường Phúc Diễn",
+    "full_name_en": "Phuc Dien Ward",
+    "type": "phường",
+    "district_code": "021",
+    "codename": "phuc_dien"
+  }
+]

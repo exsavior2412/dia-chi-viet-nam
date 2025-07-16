@@ -1,0 +1,212 @@
+[
+  {
+    "code": "14026",
+    "name": "Cổ Lễ",
+    "name_en": "Co Le",
+    "full_name": "Thị trấn Cổ Lễ",
+    "full_name_en": "Co Le Township",
+    "type": "thị trấn",
+    "district_code": "363",
+    "codename": "co_le"
+  },
+  {
+    "code": "14029",
+    "name": "Phương Định",
+    "name_en": "Phuong Dinh",
+    "full_name": "Xã Phương Định",
+    "full_name_en": "Phuong Dinh Commune",
+    "type": "xã",
+    "district_code": "363",
+    "codename": "phuong_dinh"
+  },
+  {
+    "code": "14032",
+    "name": "Trực Chính",
+    "name_en": "Truc Chinh",
+    "full_name": "Xã Trực Chính",
+    "full_name_en": "Truc Chinh Commune",
+    "type": "xã",
+    "district_code": "363",
+    "codename": "truc_chinh"
+  },
+  {
+    "code": "14035",
+    "name": "Trung Đông",
+    "name_en": "Trung Dong",
+    "full_name": "Xã Trung Đông",
+    "full_name_en": "Trung Dong Commune",
+    "type": "xã",
+    "district_code": "363",
+    "codename": "trung_dong"
+  },
+  {
+    "code": "14038",
+    "name": "Liêm Hải",
+    "name_en": "Liem Hai",
+    "full_name": "Xã Liêm Hải",
+    "full_name_en": "Liem Hai Commune",
+    "type": "xã",
+    "district_code": "363",
+    "codename": "liem_hai"
+  },
+  {
+    "code": "14041",
+    "name": "Trực Tuấn",
+    "name_en": "Truc Tuan",
+    "full_name": "Xã Trực Tuấn",
+    "full_name_en": "Truc Tuan Commune",
+    "type": "xã",
+    "district_code": "363",
+    "codename": "truc_tuan"
+  },
+  {
+    "code": "14044",
+    "name": "Việt Hùng",
+    "name_en": "Viet Hung",
+    "full_name": "Xã Việt Hùng",
+    "full_name_en": "Viet Hung Commune",
+    "type": "xã",
+    "district_code": "363",
+    "codename": "viet_hung"
+  },
+  {
+    "code": "14047",
+    "name": "Trực Đạo",
+    "name_en": "Truc Dao",
+    "full_name": "Xã Trực Đạo",
+    "full_name_en": "Truc Dao Commune",
+    "type": "xã",
+    "district_code": "363",
+    "codename": "truc_dao"
+  },
+  {
+    "code": "14050",
+    "name": "Trực Hưng",
+    "name_en": "Truc Hung",
+    "full_name": "Xã Trực Hưng",
+    "full_name_en": "Truc Hung Commune",
+    "type": "xã",
+    "district_code": "363",
+    "codename": "truc_hung"
+  },
+  {
+    "code": "14053",
+    "name": "Trực Nội",
+    "name_en": "Truc Noi",
+    "full_name": "Xã Trực Nội",
+    "full_name_en": "Truc Noi Commune",
+    "type": "xã",
+    "district_code": "363",
+    "codename": "truc_noi"
+  },
+  {
+    "code": "14056",
+    "name": "Cát Thành",
+    "name_en": "Cat Thanh",
+    "full_name": "Thị trấn Cát Thành",
+    "full_name_en": "Cat Thanh Township",
+    "type": "thị trấn",
+    "district_code": "363",
+    "codename": "cat_thanh"
+  },
+  {
+    "code": "14059",
+    "name": "Trực Thanh",
+    "name_en": "Truc Thanh",
+    "full_name": "Xã Trực Thanh",
+    "full_name_en": "Truc Thanh Commune",
+    "type": "xã",
+    "district_code": "363",
+    "codename": "truc_thanh"
+  },
+  {
+    "code": "14062",
+    "name": "Trực Khang",
+    "name_en": "Truc Khang",
+    "full_name": "Xã Trực Khang",
+    "full_name_en": "Truc Khang Commune",
+    "type": "xã",
+    "district_code": "363",
+    "codename": "truc_khang"
+  },
+  {
+    "code": "14065",
+    "name": "Trực Thuận",
+    "name_en": "Truc Thuan",
+    "full_name": "Xã Trực Thuận",
+    "full_name_en": "Truc Thuan Commune",
+    "type": "xã",
+    "district_code": "363",
+    "codename": "truc_thuan"
+  },
+  {
+    "code": "14068",
+    "name": "Trực Mỹ",
+    "name_en": "Truc My",
+    "full_name": "Xã Trực Mỹ",
+    "full_name_en": "Truc My Commune",
+    "type": "xã",
+    "district_code": "363",
+    "codename": "truc_my"
+  },
+  {
+    "code": "14071",
+    "name": "Trực Đại",
+    "name_en": "Truc Dai",
+    "full_name": "Xã Trực Đại",
+    "full_name_en": "Truc Dai Commune",
+    "type": "xã",
+    "district_code": "363",
+    "codename": "truc_dai"
+  },
+  {
+    "code": "14074",
+    "name": "Trực Cường",
+    "name_en": "Truc Cuong",
+    "full_name": "Xã Trực Cường",
+    "full_name_en": "Truc Cuong Commune",
+    "type": "xã",
+    "district_code": "363",
+    "codename": "truc_cuong"
+  },
+  {
+    "code": "14077",
+    "name": "Ninh Cường",
+    "name_en": "Ninh Cuong",
+    "full_name": "Thị trấn Ninh Cường",
+    "full_name_en": "Ninh Cuong Township",
+    "type": "thị trấn",
+    "district_code": "363",
+    "codename": "ninh_cuong"
+  },
+  {
+    "code": "14080",
+    "name": "Trực Thái",
+    "name_en": "Truc Thai",
+    "full_name": "Xã Trực Thái",
+    "full_name_en": "Truc Thai Commune",
+    "type": "xã",
+    "district_code": "363",
+    "codename": "truc_thai"
+  },
+  {
+    "code": "14083",
+    "name": "Trực Hùng",
+    "name_en": "Truc Hung",
+    "full_name": "Xã Trực Hùng",
+    "full_name_en": "Truc Hung Commune",
+    "type": "xã",
+    "district_code": "363",
+    "codename": "truc_hung"
+  },
+  {
+    "code": "14086",
+    "name": "Trực Thắng",
+    "name_en": "Truc Thang",
+    "full_name": "Xã Trực Thắng",
+    "full_name_en": "Truc Thang Commune",
+    "type": "xã",
+    "district_code": "363",
+    "codename": "truc_thang"
+  }
+]

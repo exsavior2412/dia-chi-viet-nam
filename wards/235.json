@@ -1,0 +1,162 @@
+[
+  {
+    "code": "08341",
+    "name": "Cẩm Khê",
+    "name_en": "Cam Khe",
+    "full_name": "Thị trấn Cẩm Khê",
+    "full_name_en": "Cam Khe Township",
+    "type": "thị trấn",
+    "district_code": "235",
+    "codename": "cam_khe"
+  },
+  {
+    "code": "08344",
+    "name": "Tiên Lương",
+    "name_en": "Tien Luong",
+    "full_name": "Xã Tiên Lương",
+    "full_name_en": "Tien Luong Commune",
+    "type": "xã",
+    "district_code": "235",
+    "codename": "tien_luong"
+  },
+  {
+    "code": "08350",
+    "name": "Minh Thắng",
+    "name_en": "Minh Thang",
+    "full_name": "Xã Minh Thắng",
+    "full_name_en": "Minh Thang Commune",
+    "type": "xã",
+    "district_code": "235",
+    "codename": "minh_thang"
+  },
+  {
+    "code": "08353",
+    "name": "Minh Tân",
+    "name_en": "Minh Tan",
+    "full_name": "Xã Minh Tân",
+    "full_name_en": "Minh Tan Commune",
+    "type": "xã",
+    "district_code": "235",
+    "codename": "minh_tan"
+  },
+  {
+    "code": "08356",
+    "name": "Phượng Vĩ",
+    "name_en": "Phuong Vi",
+    "full_name": "Xã Phượng Vĩ",
+    "full_name_en": "Phuong Vi Commune",
+    "type": "xã",
+    "district_code": "235",
+    "codename": "phuong_vi"
+  },
+  {
+    "code": "08374",
+    "name": "Tùng Khê",
+    "name_en": "Tung Khe",
+    "full_name": "Xã Tùng Khê",
+    "full_name_en": "Tung Khe Commune",
+    "type": "xã",
+    "district_code": "235",
+    "codename": "tung_khe"
+  },
+  {
+    "code": "08377",
+    "name": "Tam Sơn",
+    "name_en": "Tam Son",
+    "full_name": "Xã Tam Sơn",
+    "full_name_en": "Tam Son Commune",
+    "type": "xã",
+    "district_code": "235",
+    "codename": "tam_son"
+  },
+  {
+    "code": "08380",
+    "name": "Văn Bán",
+    "name_en": "Van Ban",
+    "full_name": "Xã Văn Bán",
+    "full_name_en": "Van Ban Commune",
+    "type": "xã",
+    "district_code": "235",
+    "codename": "van_ban"
+  },
+  {
+    "code": "08389",
+    "name": "Phong Thịnh",
+    "name_en": "Phong Thinh",
+    "full_name": "Xã Phong Thịnh",
+    "full_name_en": "Phong Thinh Commune",
+    "type": "xã",
+    "district_code": "235",
+    "codename": "phong_thinh"
+  },
+  {
+    "code": "08398",
+    "name": "Phú Khê",
+    "name_en": "Phu Khe",
+    "full_name": "Xã Phú Khê",
+    "full_name_en": "Phu Khe Commune",
+    "type": "xã",
+    "district_code": "235",
+    "codename": "phu_khe"
+  },
+  {
+    "code": "08401",
+    "name": "Hương Lung",
+    "name_en": "Huong Lung",
+    "full_name": "Xã Hương Lung",
+    "full_name_en": "Huong Lung Commune",
+    "type": "xã",
+    "district_code": "235",
+    "codename": "huong_lung"
+  },
+  {
+    "code": "08413",
+    "name": "Nhật Tiến",
+    "name_en": "Nhat Tien",
+    "full_name": "Xã Nhật Tiến",
+    "full_name_en": "Nhat Tien Commune",
+    "type": "xã",
+    "district_code": "235",
+    "codename": "nhat_tien"
+  },
+  {
+    "code": "08416",
+    "name": "Hùng Việt",
+    "name_en": "Hung Viet",
+    "full_name": "Xã Hùng Việt",
+    "full_name_en": "Hung Viet Commune",
+    "type": "xã",
+    "district_code": "235",
+    "codename": "hung_viet"
+  },
+  {
+    "code": "08422",
+    "name": "Yên Dưỡng",
+    "name_en": "Yen Duong",
+    "full_name": "Xã Yên Dưỡng",
+    "full_name_en": "Yen Duong Commune",
+    "type": "xã",
+    "district_code": "235",
+    "codename": "yen_duong"
+  },
+  {
+    "code": "08428",
+    "name": "Điêu Lương",
+    "name_en": "Dieu Luong",
+    "full_name": "Xã Điêu Lương",
+    "full_name_en": "Dieu Luong Commune",
+    "type": "xã",
+    "district_code": "235",
+    "codename": "dieu_luong"
+  },
+  {
+    "code": "08431",
+    "name": "Đồng Lương",
+    "name_en": "Dong Luong",
+    "full_name": "Xã Đồng Lương",
+    "full_name_en": "Dong Luong Commune",
+    "type": "xã",
+    "district_code": "235",
+    "codename": "dong_luong"
+  }
+]

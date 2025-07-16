@@ -1,0 +1,92 @@
+[
+  {
+    "code": "474",
+    "name": "Thuận Hóa",
+    "name_en": "Thuan Hoa",
+    "full_name": "Quận Thuận Hóa",
+    "full_name_en": "Thuan Hoa District",
+    "type": "quận",
+    "province_code": "46",
+    "codename": "thuan_hoa"
+  },
+  {
+    "code": "475",
+    "name": "Phú Xuân",
+    "name_en": "Phu Xuan",
+    "full_name": "Quận Phú Xuân",
+    "full_name_en": "Phu Xuan District",
+    "type": "quận",
+    "province_code": "46",
+    "codename": "phu_xuan"
+  },
+  {
+    "code": "476",
+    "name": "Phong Điền",
+    "name_en": "Phong Dien",
+    "full_name": "Thị xã Phong Điền",
+    "full_name_en": "Phong Dien Town",
+    "type": "thị xã",
+    "province_code": "46",
+    "codename": "phong_dien"
+  },
+  {
+    "code": "477",
+    "name": "Quảng Điền",
+    "name_en": "Quang Dien",
+    "full_name": "Huyện Quảng Điền",
+    "full_name_en": "Quang Dien District",
+    "type": "huyện",
+    "province_code": "46",
+    "codename": "quang_dien"
+  },
+  {
+    "code": "478",
+    "name": "Phú Vang",
+    "name_en": "Phu Vang",
+    "full_name": "Huyện Phú Vang",
+    "full_name_en": "Phu Vang District",
+    "type": "huyện",
+    "province_code": "46",
+    "codename": "phu_vang"
+  },
+  {
+    "code": "479",
+    "name": "Hương Thủy",
+    "name_en": "Huong Thuy",
+    "full_name": "Thị xã Hương Thủy",
+    "full_name_en": "Huong Thuy Town",
+    "type": "thị xã",
+    "province_code": "46",
+    "codename": "huong_thuy"
+  },
+  {
+    "code": "480",
+    "name": "Hương Trà",
+    "name_en": "Huong Tra",
+    "full_name": "Thị xã Hương Trà",
+    "full_name_en": "Huong Tra Town",
+    "type": "thị xã",
+    "province_code": "46",
+    "codename": "huong_tra"
+  },
+  {
+    "code": "481",
+    "name": "A Lưới",
+    "name_en": "A Luoi",
+    "full_name": "Huyện A Lưới",
+    "full_name_en": "A Luoi District",
+    "type": "huyện",
+    "province_code": "46",
+    "codename": "a_luoi"
+  },
+  {
+    "code": "482",
+    "name": "Phú Lộc",
+    "name_en": "Phu Loc",
+    "full_name": "Huyện Phú Lộc",
+    "full_name_en": "Phu Loc District",
+    "type": "huyện",
+    "province_code": "46",
+    "codename": "phu_loc"
+  }
+]

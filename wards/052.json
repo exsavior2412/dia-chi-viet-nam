@@ -1,0 +1,172 @@
+[
+  {
+    "code": "01726",
+    "name": "Nguyên Bình",
+    "name_en": "Nguyen Binh",
+    "full_name": "Thị trấn Nguyên Bình",
+    "full_name_en": "Nguyen Binh Township",
+    "type": "thị trấn",
+    "district_code": "052",
+    "codename": "nguyen_binh"
+  },
+  {
+    "code": "01729",
+    "name": "Tĩnh Túc",
+    "name_en": "Tinh Tuc",
+    "full_name": "Thị trấn Tĩnh Túc",
+    "full_name_en": "Tinh Tuc Township",
+    "type": "thị trấn",
+    "district_code": "052",
+    "codename": "tinh_tuc"
+  },
+  {
+    "code": "01732",
+    "name": "Yên Lạc",
+    "name_en": "Yen Lac",
+    "full_name": "Xã Yên Lạc",
+    "full_name_en": "Yen Lac Commune",
+    "type": "xã",
+    "district_code": "052",
+    "codename": "yen_lac"
+  },
+  {
+    "code": "01735",
+    "name": "Triệu Nguyên",
+    "name_en": "Trieu Nguyen",
+    "full_name": "Xã Triệu Nguyên",
+    "full_name_en": "Trieu Nguyen Commune",
+    "type": "xã",
+    "district_code": "052",
+    "codename": "trieu_nguyen"
+  },
+  {
+    "code": "01738",
+    "name": "Ca Thành",
+    "name_en": "Ca Thanh",
+    "full_name": "Xã Ca Thành",
+    "full_name_en": "Ca Thanh Commune",
+    "type": "xã",
+    "district_code": "052",
+    "codename": "ca_thanh"
+  },
+  {
+    "code": "01744",
+    "name": "Vũ Nông",
+    "name_en": "Vu Nong",
+    "full_name": "Xã Vũ Nông",
+    "full_name_en": "Vu Nong Commune",
+    "type": "xã",
+    "district_code": "052",
+    "codename": "vu_nong"
+  },
+  {
+    "code": "01747",
+    "name": "Minh Tâm",
+    "name_en": "Minh Tam",
+    "full_name": "Xã Minh Tâm",
+    "full_name_en": "Minh Tam Commune",
+    "type": "xã",
+    "district_code": "052",
+    "codename": "minh_tam"
+  },
+  {
+    "code": "01750",
+    "name": "Thể Dục",
+    "name_en": "The Duc",
+    "full_name": "Xã Thể Dục",
+    "full_name_en": "The Duc Commune",
+    "type": "xã",
+    "district_code": "052",
+    "codename": "the_duc"
+  },
+  {
+    "code": "01756",
+    "name": "Mai Long",
+    "name_en": "Mai Long",
+    "full_name": "Xã Mai Long",
+    "full_name_en": "Mai Long Commune",
+    "type": "xã",
+    "district_code": "052",
+    "codename": "mai_long"
+  },
+  {
+    "code": "01762",
+    "name": "Vũ Minh",
+    "name_en": "Vu Minh",
+    "full_name": "Xã Vũ Minh",
+    "full_name_en": "Vu Minh Commune",
+    "type": "xã",
+    "district_code": "052",
+    "codename": "vu_minh"
+  },
+  {
+    "code": "01765",
+    "name": "Hoa Thám",
+    "name_en": "Hoa Tham",
+    "full_name": "Xã Hoa Thám",
+    "full_name_en": "Hoa Tham Commune",
+    "type": "xã",
+    "district_code": "052",
+    "codename": "hoa_tham"
+  },
+  {
+    "code": "01768",
+    "name": "Phan Thanh",
+    "name_en": "Phan Thanh",
+    "full_name": "Xã Phan Thanh",
+    "full_name_en": "Phan Thanh Commune",
+    "type": "xã",
+    "district_code": "052",
+    "codename": "phan_thanh"
+  },
+  {
+    "code": "01771",
+    "name": "Quang Thành",
+    "name_en": "Quang Thanh",
+    "full_name": "Xã Quang Thành",
+    "full_name_en": "Quang Thanh Commune",
+    "type": "xã",
+    "district_code": "052",
+    "codename": "quang_thanh"
+  },
+  {
+    "code": "01774",
+    "name": "Tam Kim",
+    "name_en": "Tam Kim",
+    "full_name": "Xã Tam Kim",
+    "full_name_en": "Tam Kim Commune",
+    "type": "xã",
+    "district_code": "052",
+    "codename": "tam_kim"
+  },
+  {
+    "code": "01777",
+    "name": "Thành Công",
+    "name_en": "Thanh Cong",
+    "full_name": "Xã Thành Công",
+    "full_name_en": "Thanh Cong Commune",
+    "type": "xã",
+    "district_code": "052",
+    "codename": "thanh_cong"
+  },
+  {
+    "code": "01780",
+    "name": "Thịnh Vượng",
+    "name_en": "Thinh Vuong",
+    "full_name": "Xã Thịnh Vượng",
+    "full_name_en": "Thinh Vuong Commune",
+    "type": "xã",
+    "district_code": "052",
+    "codename": "thinh_vuong"
+  },
+  {
+    "code": "01783",
+    "name": "Hưng Đạo",
+    "name_en": "Hung Dao",
+    "full_name": "Xã Hưng Đạo",
+    "full_name_en": "Hung Dao Commune",
+    "type": "xã",
+    "district_code": "052",
+    "codename": "hung_dao"
+  }
+]

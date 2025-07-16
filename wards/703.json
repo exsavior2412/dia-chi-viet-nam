@@ -1,0 +1,102 @@
+[
+  {
+    "code": "25456",
+    "name": "1",
+    "name_en": "1",
+    "full_name": "Phường 1",
+    "full_name_en": "Ward 1",
+    "type": "phường",
+    "district_code": "703",
+    "codename": "1"
+  },
+  {
+    "code": "25459",
+    "name": "3",
+    "name_en": "3",
+    "full_name": "Phường 3",
+    "full_name_en": "Ward 3",
+    "type": "phường",
+    "district_code": "703",
+    "codename": "3"
+  },
+  {
+    "code": "25462",
+    "name": "4",
+    "name_en": "4",
+    "full_name": "Phường 4",
+    "full_name_en": "Ward 4",
+    "type": "phường",
+    "district_code": "703",
+    "codename": "4"
+  },
+  {
+    "code": "25465",
+    "name": "Hiệp Ninh",
+    "name_en": "Hiep Ninh",
+    "full_name": "Phường Hiệp Ninh",
+    "full_name_en": "Hiep Ninh Ward",
+    "type": "phường",
+    "district_code": "703",
+    "codename": "hiep_ninh"
+  },
+  {
+    "code": "25468",
+    "name": "2",
+    "name_en": "2",
+    "full_name": "Phường 2",
+    "full_name_en": "Ward 2",
+    "type": "phường",
+    "district_code": "703",
+    "codename": "2"
+  },
+  {
+    "code": "25471",
+    "name": "Thạnh Tân",
+    "name_en": "Thanh Tan",
+    "full_name": "Xã Thạnh Tân",
+    "full_name_en": "Thanh Tan Commune",
+    "type": "xã",
+    "district_code": "703",
+    "codename": "thanh_tan"
+  },
+  {
+    "code": "25474",
+    "name": "Tân Bình",
+    "name_en": "Tan Binh",
+    "full_name": "Xã Tân Bình",
+    "full_name_en": "Tan Binh Commune",
+    "type": "xã",
+    "district_code": "703",
+    "codename": "tan_binh"
+  },
+  {
+    "code": "25477",
+    "name": "Bình Minh",
+    "name_en": "Binh Minh",
+    "full_name": "Xã Bình Minh",
+    "full_name_en": "Binh Minh Commune",
+    "type": "xã",
+    "district_code": "703",
+    "codename": "binh_minh"
+  },
+  {
+    "code": "25480",
+    "name": "Ninh Sơn",
+    "name_en": "Ninh Son",
+    "full_name": "Phường Ninh Sơn",
+    "full_name_en": "Ninh Son Ward",
+    "type": "phường",
+    "district_code": "703",
+    "codename": "ninh_son"
+  },
+  {
+    "code": "25483",
+    "name": "Ninh Thạnh",
+    "name_en": "Ninh Thanh",
+    "full_name": "Phường Ninh Thạnh",
+    "full_name_en": "Ninh Thanh Ward",
+    "type": "phường",
+    "district_code": "703",
+    "codename": "ninh_thanh"
+  }
+]

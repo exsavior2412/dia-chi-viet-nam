@@ -1,0 +1,192 @@
+[
+  {
+    "code": "08152",
+    "name": "Thanh Ba",
+    "name_en": "Thanh Ba",
+    "full_name": "Thị trấn Thanh Ba",
+    "full_name_en": "Thanh Ba Township",
+    "type": "thị trấn",
+    "district_code": "232",
+    "codename": "thanh_ba"
+  },
+  {
+    "code": "08156",
+    "name": "Vân Lĩnh",
+    "name_en": "Van Linh",
+    "full_name": "Xã Vân Lĩnh",
+    "full_name_en": "Van Linh Commune",
+    "type": "xã",
+    "district_code": "232",
+    "codename": "van_linh"
+  },
+  {
+    "code": "08158",
+    "name": "Đông Lĩnh",
+    "name_en": "Dong Linh",
+    "full_name": "Xã Đông Lĩnh",
+    "full_name_en": "Dong Linh Commune",
+    "type": "xã",
+    "district_code": "232",
+    "codename": "dong_linh"
+  },
+  {
+    "code": "08161",
+    "name": "Đại An",
+    "name_en": "Dai An",
+    "full_name": "Xã Đại An",
+    "full_name_en": "Dai An Commune",
+    "type": "xã",
+    "district_code": "232",
+    "codename": "dai_an"
+  },
+  {
+    "code": "08164",
+    "name": "Hanh Cù",
+    "name_en": "Hanh Cu",
+    "full_name": "Xã Hanh Cù",
+    "full_name_en": "Hanh Cu Commune",
+    "type": "xã",
+    "district_code": "232",
+    "codename": "hanh_cu"
+  },
+  {
+    "code": "08170",
+    "name": "Đồng Xuân",
+    "name_en": "Dong Xuan",
+    "full_name": "Xã Đồng Xuân",
+    "full_name_en": "Dong Xuan Commune",
+    "type": "xã",
+    "district_code": "232",
+    "codename": "dong_xuan"
+  },
+  {
+    "code": "08173",
+    "name": "Quảng Yên",
+    "name_en": "Quang Yen",
+    "full_name": "Xã Quảng Yên",
+    "full_name_en": "Quang Yen Commune",
+    "type": "xã",
+    "district_code": "232",
+    "codename": "quang_yen"
+  },
+  {
+    "code": "08179",
+    "name": "Ninh Dân",
+    "name_en": "Ninh Dan",
+    "full_name": "Xã Ninh Dân",
+    "full_name_en": "Ninh Dan Commune",
+    "type": "xã",
+    "district_code": "232",
+    "codename": "ninh_dan"
+  },
+  {
+    "code": "08194",
+    "name": "Võ Lao",
+    "name_en": "Vo Lao",
+    "full_name": "Xã Võ Lao",
+    "full_name_en": "Vo Lao Commune",
+    "type": "xã",
+    "district_code": "232",
+    "codename": "vo_lao"
+  },
+  {
+    "code": "08197",
+    "name": "Khải Xuân",
+    "name_en": "Khai Xuan",
+    "full_name": "Xã Khải Xuân",
+    "full_name_en": "Khai Xuan Commune",
+    "type": "xã",
+    "district_code": "232",
+    "codename": "khai_xuan"
+  },
+  {
+    "code": "08200",
+    "name": "Mạn Lạn",
+    "name_en": "Man Lan",
+    "full_name": "Xã Mạn Lạn",
+    "full_name_en": "Man Lan Commune",
+    "type": "xã",
+    "district_code": "232",
+    "codename": "man_lan"
+  },
+  {
+    "code": "08203",
+    "name": "Hoàng Cương",
+    "name_en": "Hoang Cuong",
+    "full_name": "Xã Hoàng Cương",
+    "full_name_en": "Hoang Cuong Commune",
+    "type": "xã",
+    "district_code": "232",
+    "codename": "hoang_cuong"
+  },
+  {
+    "code": "08206",
+    "name": "Chí Tiên",
+    "name_en": "Chi Tien",
+    "full_name": "Xã Chí Tiên",
+    "full_name_en": "Chi Tien Commune",
+    "type": "xã",
+    "district_code": "232",
+    "codename": "chi_tien"
+  },
+  {
+    "code": "08209",
+    "name": "Đông Thành",
+    "name_en": "Dong Thanh",
+    "full_name": "Xã Đông Thành",
+    "full_name_en": "Dong Thanh Commune",
+    "type": "xã",
+    "district_code": "232",
+    "codename": "dong_thanh"
+  },
+  {
+    "code": "08215",
+    "name": "Sơn Cương",
+    "name_en": "Son Cuong",
+    "full_name": "Xã Sơn Cương",
+    "full_name_en": "Son Cuong Commune",
+    "type": "xã",
+    "district_code": "232",
+    "codename": "son_cuong"
+  },
+  {
+    "code": "08218",
+    "name": "Thanh Hà",
+    "name_en": "Thanh Ha",
+    "full_name": "Xã Thanh Hà",
+    "full_name_en": "Thanh Ha Commune",
+    "type": "xã",
+    "district_code": "232",
+    "codename": "thanh_ha"
+  },
+  {
+    "code": "08221",
+    "name": "Đỗ Sơn",
+    "name_en": "Do Son",
+    "full_name": "Xã Đỗ Sơn",
+    "full_name_en": "Do Son Commune",
+    "type": "xã",
+    "district_code": "232",
+    "codename": "do_son"
+  },
+  {
+    "code": "08224",
+    "name": "Đỗ Xuyên",
+    "name_en": "Do Xuyen",
+    "full_name": "Xã Đỗ Xuyên",
+    "full_name_en": "Do Xuyen Commune",
+    "type": "xã",
+    "district_code": "232",
+    "codename": "do_xuyen"
+  },
+  {
+    "code": "08227",
+    "name": "Lương Lỗ",
+    "name_en": "Luong Lo",
+    "full_name": "Xã Lương Lỗ",
+    "full_name_en": "Luong Lo Commune",
+    "type": "xã",
+    "district_code": "232",
+    "codename": "luong_lo"
+  }
+]

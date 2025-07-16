@@ -1,0 +1,72 @@
+[
+  {
+    "code": "25816",
+    "name": "Trừ Văn Thố",
+    "name_en": "Tru Van Tho",
+    "full_name": "Xã Trừ Văn Thố",
+    "full_name_en": "Tru Van Tho Commune",
+    "type": "xã",
+    "district_code": "719",
+    "codename": "tru_van_tho"
+  },
+  {
+    "code": "25819",
+    "name": "Cây Trường II",
+    "name_en": "Cay Truong II",
+    "full_name": "Xã Cây Trường II",
+    "full_name_en": "Cay Truong II Commune",
+    "type": "xã",
+    "district_code": "719",
+    "codename": "cay_truong_ii"
+  },
+  {
+    "code": "25822",
+    "name": "Lai Uyên",
+    "name_en": "Lai Uyen",
+    "full_name": "Thị trấn Lai Uyên",
+    "full_name_en": "Lai Uyen Township",
+    "type": "thị trấn",
+    "district_code": "719",
+    "codename": "lai_uyen"
+  },
+  {
+    "code": "25825",
+    "name": "Tân Hưng",
+    "name_en": "Tan Hung",
+    "full_name": "Xã Tân Hưng",
+    "full_name_en": "Tan Hung Commune",
+    "type": "xã",
+    "district_code": "719",
+    "codename": "tan_hung"
+  },
+  {
+    "code": "25828",
+    "name": "Long Nguyên",
+    "name_en": "Long Nguyen",
+    "full_name": "Xã Long Nguyên",
+    "full_name_en": "Long Nguyen Commune",
+    "type": "xã",
+    "district_code": "719",
+    "codename": "long_nguyen"
+  },
+  {
+    "code": "25831",
+    "name": "Hưng Hòa",
+    "name_en": "Hung Hoa",
+    "full_name": "Xã Hưng Hòa",
+    "full_name_en": "Hung Hoa Commune",
+    "type": "xã",
+    "district_code": "719",
+    "codename": "hung_hoa"
+  },
+  {
+    "code": "25834",
+    "name": "Lai Hưng",
+    "name_en": "Lai Hung",
+    "full_name": "Xã Lai Hưng",
+    "full_name_en": "Lai Hung Commune",
+    "type": "xã",
+    "district_code": "719",
+    "codename": "lai_hung"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "code": "02839",
+    "name": "Bắc Hà",
+    "name_en": "Bac Ha",
+    "full_name": "Thị trấn Bắc Hà",
+    "full_name_en": "Bac Ha Township",
+    "type": "thị trấn",
+    "district_code": "085",
+    "codename": "bac_ha"
+  },
+  {
+    "code": "02842",
+    "name": "Lùng Cải",
+    "name_en": "Lung Cai",
+    "full_name": "Xã Lùng Cải",
+    "full_name_en": "Lung Cai Commune",
+    "type": "xã",
+    "district_code": "085",
+    "codename": "lung_cai"
+  },
+  {
+    "code": "02848",
+    "name": "Lùng Phình",
+    "name_en": "Lung Phinh",
+    "full_name": "Xã Lùng Phình",
+    "full_name_en": "Lung Phinh Commune",
+    "type": "xã",
+    "district_code": "085",
+    "codename": "lung_phinh"
+  },
+  {
+    "code": "02851",
+    "name": "Tả Van Chư",
+    "name_en": "Ta Van Chu",
+    "full_name": "Xã Tả Van Chư",
+    "full_name_en": "Ta Van Chu Commune",
+    "type": "xã",
+    "district_code": "085",
+    "codename": "ta_van_chu"
+  },
+  {
+    "code": "02854",
+    "name": "Tả Củ Tỷ",
+    "name_en": "Ta Cu Ty",
+    "full_name": "Xã Tả Củ Tỷ",
+    "full_name_en": "Ta Cu Ty Commune",
+    "type": "xã",
+    "district_code": "085",
+    "codename": "ta_cu_ty"
+  },
+  {
+    "code": "02857",
+    "name": "Thải Giàng Phố",
+    "name_en": "Thai Giang Pho",
+    "full_name": "Xã Thải Giàng Phố",
+    "full_name_en": "Thai Giang Pho Commune",
+    "type": "xã",
+    "district_code": "085",
+    "codename": "thai_giang_pho"
+  },
+  {
+    "code": "02863",
+    "name": "Hoàng Thu Phố",
+    "name_en": "Hoang Thu Pho",
+    "full_name": "Xã Hoàng Thu Phố",
+    "full_name_en": "Hoang Thu Pho Commune",
+    "type": "xã",
+    "district_code": "085",
+    "codename": "hoang_thu_pho"
+  },
+  {
+    "code": "02866",
+    "name": "Bản Phố",
+    "name_en": "Ban Pho",
+    "full_name": "Xã Bản Phố",
+    "full_name_en": "Ban Pho Commune",
+    "type": "xã",
+    "district_code": "085",
+    "codename": "ban_pho"
+  },
+  {
+    "code": "02869",
+    "name": "Bản Liền",
+    "name_en": "Ban Lien",
+    "full_name": "Xã Bản Liền",
+    "full_name_en": "Ban Lien Commune",
+    "type": "xã",
+    "district_code": "085",
+    "codename": "ban_lien"
+  },
+  {
+    "code": "02875",
+    "name": "Na Hối",
+    "name_en": "Na Hoi",
+    "full_name": "Xã Na Hối",
+    "full_name_en": "Na Hoi Commune",
+    "type": "xã",
+    "district_code": "085",
+    "codename": "na_hoi"
+  },
+  {
+    "code": "02878",
+    "name": "Cốc Ly",
+    "name_en": "Coc Ly",
+    "full_name": "Xã Cốc Ly",
+    "full_name_en": "Coc Ly Commune",
+    "type": "xã",
+    "district_code": "085",
+    "codename": "coc_ly"
+  },
+  {
+    "code": "02881",
+    "name": "Nậm Mòn",
+    "name_en": "Nam Mon",
+    "full_name": "Xã Nậm Mòn",
+    "full_name_en": "Nam Mon Commune",
+    "type": "xã",
+    "district_code": "085",
+    "codename": "nam_mon"
+  },
+  {
+    "code": "02884",
+    "name": "Nậm Đét",
+    "name_en": "Nam Det",
+    "full_name": "Xã Nậm Đét",
+    "full_name_en": "Nam Det Commune",
+    "type": "xã",
+    "district_code": "085",
+    "codename": "nam_det"
+  },
+  {
+    "code": "02887",
+    "name": "Nậm Khánh",
+    "name_en": "Nam Khanh",
+    "full_name": "Xã Nậm Khánh",
+    "full_name_en": "Nam Khanh Commune",
+    "type": "xã",
+    "district_code": "085",
+    "codename": "nam_khanh"
+  },
+  {
+    "code": "02890",
+    "name": "Bảo Nhai",
+    "name_en": "Bao Nhai",
+    "full_name": "Xã Bảo Nhai",
+    "full_name_en": "Bao Nhai Commune",
+    "type": "xã",
+    "district_code": "085",
+    "codename": "bao_nhai"
+  },
+  {
+    "code": "02893",
+    "name": "Nậm Lúc",
+    "name_en": "Nam Luc",
+    "full_name": "Xã Nậm Lúc",
+    "full_name_en": "Nam Luc Commune",
+    "type": "xã",
+    "district_code": "085",
+    "codename": "nam_luc"
+  },
+  {
+    "code": "02896",
+    "name": "Cốc Lầu",
+    "name_en": "Coc Lau",
+    "full_name": "Xã Cốc Lầu",
+    "full_name_en": "Coc Lau Commune",
+    "type": "xã",
+    "district_code": "085",
+    "codename": "coc_lau"
+  },
+  {
+    "code": "02899",
+    "name": "Bản Cái",
+    "name_en": "Ban Cai",
+    "full_name": "Xã Bản Cái",
+    "full_name_en": "Ban Cai Commune",
+    "type": "xã",
+    "district_code": "085",
+    "codename": "ban_cai"
+  }
+]

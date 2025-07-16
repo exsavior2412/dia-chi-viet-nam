@@ -1,0 +1,172 @@
+[
+  {
+    "code": "23677",
+    "name": "Đăk Đoa",
+    "name_en": "Dak Doa",
+    "full_name": "Thị trấn Đăk Đoa",
+    "full_name_en": "Dak Doa Township",
+    "type": "thị trấn",
+    "district_code": "626",
+    "codename": "dak_doa"
+  },
+  {
+    "code": "23680",
+    "name": "Hà Đông",
+    "name_en": "Ha Dong",
+    "full_name": "Xã Hà Đông",
+    "full_name_en": "Ha Dong Commune",
+    "type": "xã",
+    "district_code": "626",
+    "codename": "ha_dong"
+  },
+  {
+    "code": "23683",
+    "name": "Đăk Sơmei",
+    "name_en": "Dak Somei",
+    "full_name": "Xã Đăk Sơmei",
+    "full_name_en": "Dak Somei Commune",
+    "type": "xã",
+    "district_code": "626",
+    "codename": "dak_somei"
+  },
+  {
+    "code": "23684",
+    "name": "Đăk Krong",
+    "name_en": "Dak Krong",
+    "full_name": "Xã Đăk Krong",
+    "full_name_en": "Dak Krong Commune",
+    "type": "xã",
+    "district_code": "626",
+    "codename": "dak_krong"
+  },
+  {
+    "code": "23686",
+    "name": "Hải Yang",
+    "name_en": "Hai Yang",
+    "full_name": "Xã Hải Yang",
+    "full_name_en": "Hai Yang Commune",
+    "type": "xã",
+    "district_code": "626",
+    "codename": "hai_yang"
+  },
+  {
+    "code": "23689",
+    "name": "Kon Gang",
+    "name_en": "Kon Gang",
+    "full_name": "Xã Kon Gang",
+    "full_name_en": "Kon Gang Commune",
+    "type": "xã",
+    "district_code": "626",
+    "codename": "kon_gang"
+  },
+  {
+    "code": "23692",
+    "name": "Hà Bầu",
+    "name_en": "Ha Bau",
+    "full_name": "Xã Hà Bầu",
+    "full_name_en": "Ha Bau Commune",
+    "type": "xã",
+    "district_code": "626",
+    "codename": "ha_bau"
+  },
+  {
+    "code": "23695",
+    "name": "Nam Yang",
+    "name_en": "Nam Yang",
+    "full_name": "Xã Nam Yang",
+    "full_name_en": "Nam Yang Commune",
+    "type": "xã",
+    "district_code": "626",
+    "codename": "nam_yang"
+  },
+  {
+    "code": "23698",
+    "name": "K' Dang",
+    "name_en": "K' Dang",
+    "full_name": "Xã K' Dang",
+    "full_name_en": "K' Dang Commune",
+    "type": "xã",
+    "district_code": "626",
+    "codename": "k_dang"
+  },
+  {
+    "code": "23701",
+    "name": "H' Neng",
+    "name_en": "H' Neng",
+    "full_name": "Xã H' Neng",
+    "full_name_en": "H' Neng Commune",
+    "type": "xã",
+    "district_code": "626",
+    "codename": "h_neng"
+  },
+  {
+    "code": "23704",
+    "name": "Tân Bình",
+    "name_en": "Tan Binh",
+    "full_name": "Xã Tân Bình",
+    "full_name_en": "Tan Binh Commune",
+    "type": "xã",
+    "district_code": "626",
+    "codename": "tan_binh"
+  },
+  {
+    "code": "23707",
+    "name": "Glar",
+    "name_en": "Glar",
+    "full_name": "Xã Glar",
+    "full_name_en": "Glar Commune",
+    "type": "xã",
+    "district_code": "626",
+    "codename": "glar"
+  },
+  {
+    "code": "23710",
+    "name": "A Dơk",
+    "name_en": "A Dok",
+    "full_name": "Xã A Dơk",
+    "full_name_en": "A Dok Commune",
+    "type": "xã",
+    "district_code": "626",
+    "codename": "a_dok"
+  },
+  {
+    "code": "23713",
+    "name": "Trang",
+    "name_en": "Trang",
+    "full_name": "Xã Trang",
+    "full_name_en": "Trang Commune",
+    "type": "xã",
+    "district_code": "626",
+    "codename": "trang"
+  },
+  {
+    "code": "23714",
+    "name": "HNol",
+    "name_en": "HNol",
+    "full_name": "Xã HNol",
+    "full_name_en": "HNol Commune",
+    "type": "xã",
+    "district_code": "626",
+    "codename": "hnol"
+  },
+  {
+    "code": "23716",
+    "name": "Ia Pết",
+    "name_en": "Ia Pet",
+    "full_name": "Xã Ia Pết",
+    "full_name_en": "Ia Pet Commune",
+    "type": "xã",
+    "district_code": "626",
+    "codename": "ia_pet"
+  },
+  {
+    "code": "23719",
+    "name": "Ia Băng",
+    "name_en": "Ia Bang",
+    "full_name": "Xã Ia Băng",
+    "full_name_en": "Ia Bang Commune",
+    "type": "xã",
+    "district_code": "626",
+    "codename": "ia_bang"
+  }
+]

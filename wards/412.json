@@ -1,0 +1,332 @@
+[
+  {
+    "code": "16663",
+    "name": "Đông Vĩnh",
+    "name_en": "Dong Vinh",
+    "full_name": "Phường Đông Vĩnh",
+    "full_name_en": "Dong Vinh Ward",
+    "type": "phường",
+    "district_code": "412",
+    "codename": "dong_vinh"
+  },
+  {
+    "code": "16666",
+    "name": "Hà Huy Tập",
+    "name_en": "Ha Huy Tap",
+    "full_name": "Phường Hà Huy Tập",
+    "full_name_en": "Ha Huy Tap Ward",
+    "type": "phường",
+    "district_code": "412",
+    "codename": "ha_huy_tap"
+  },
+  {
+    "code": "16669",
+    "name": "Lê Lợi",
+    "name_en": "Le Loi",
+    "full_name": "Phường Lê Lợi",
+    "full_name_en": "Le Loi Ward",
+    "type": "phường",
+    "district_code": "412",
+    "codename": "le_loi"
+  },
+  {
+    "code": "16670",
+    "name": "Quán Bàu",
+    "name_en": "Quan Bau",
+    "full_name": "Phường Quán Bàu",
+    "full_name_en": "Quan Bau Ward",
+    "type": "phường",
+    "district_code": "412",
+    "codename": "quan_bau"
+  },
+  {
+    "code": "16672",
+    "name": "Hưng Bình",
+    "name_en": "Hung Binh",
+    "full_name": "Phường Hưng Bình",
+    "full_name_en": "Hung Binh Ward",
+    "type": "phường",
+    "district_code": "412",
+    "codename": "hung_binh"
+  },
+  {
+    "code": "16673",
+    "name": "Hưng Phúc",
+    "name_en": "Hung Phuc",
+    "full_name": "Phường Hưng Phúc",
+    "full_name_en": "Hung Phuc Ward",
+    "type": "phường",
+    "district_code": "412",
+    "codename": "hung_phuc"
+  },
+  {
+    "code": "16675",
+    "name": "Hưng Dũng",
+    "name_en": "Hung Dung",
+    "full_name": "Phường Hưng Dũng",
+    "full_name_en": "Hung Dung Ward",
+    "type": "phường",
+    "district_code": "412",
+    "codename": "hung_dung"
+  },
+  {
+    "code": "16678",
+    "name": "Cửa Nam",
+    "name_en": "Cua Nam",
+    "full_name": "Phường Cửa Nam",
+    "full_name_en": "Cua Nam Ward",
+    "type": "phường",
+    "district_code": "412",
+    "codename": "cua_nam"
+  },
+  {
+    "code": "16681",
+    "name": "Quang Trung",
+    "name_en": "Quang Trung",
+    "full_name": "Phường Quang Trung",
+    "full_name_en": "Quang Trung Ward",
+    "type": "phường",
+    "district_code": "412",
+    "codename": "quang_trung"
+  },
+  {
+    "code": "16690",
+    "name": "Trường Thi",
+    "name_en": "Truong Thi",
+    "full_name": "Phường Trường Thi",
+    "full_name_en": "Truong Thi Ward",
+    "type": "phường",
+    "district_code": "412",
+    "codename": "truong_thi"
+  },
+  {
+    "code": "16693",
+    "name": "Bến Thủy",
+    "name_en": "Ben Thuy",
+    "full_name": "Phường Bến Thủy",
+    "full_name_en": "Ben Thuy Ward",
+    "type": "phường",
+    "district_code": "412",
+    "codename": "ben_thuy"
+  },
+  {
+    "code": "16699",
+    "name": "Trung Đô",
+    "name_en": "Trung Do",
+    "full_name": "Phường Trung Đô",
+    "full_name_en": "Trung Do Ward",
+    "type": "phường",
+    "district_code": "412",
+    "codename": "trung_do"
+  },
+  {
+    "code": "16702",
+    "name": "Nghi Phú",
+    "name_en": "Nghi Phu",
+    "full_name": "Phường Nghi Phú",
+    "full_name_en": "Nghi Phu Ward",
+    "type": "phường",
+    "district_code": "412",
+    "codename": "nghi_phu"
+  },
+  {
+    "code": "16705",
+    "name": "Hưng Đông",
+    "name_en": "Hung Dong",
+    "full_name": "Phường Hưng Đông",
+    "full_name_en": "Hung Dong Ward",
+    "type": "phường",
+    "district_code": "412",
+    "codename": "hung_dong"
+  },
+  {
+    "code": "16708",
+    "name": "Hưng Lộc",
+    "name_en": "Hung Loc",
+    "full_name": "Phường Hưng Lộc",
+    "full_name_en": "Hung Loc Ward",
+    "type": "phường",
+    "district_code": "412",
+    "codename": "hung_loc"
+  },
+  {
+    "code": "16711",
+    "name": "Hưng Hòa",
+    "name_en": "Hung Hoa",
+    "full_name": "Xã Hưng Hòa",
+    "full_name_en": "Hung Hoa Commune",
+    "type": "xã",
+    "district_code": "412",
+    "codename": "hung_hoa"
+  },
+  {
+    "code": "16714",
+    "name": "Vinh Tân",
+    "name_en": "Vinh Tan",
+    "full_name": "Phường Vinh Tân",
+    "full_name_en": "Vinh Tan Ward",
+    "type": "phường",
+    "district_code": "412",
+    "codename": "vinh_tan"
+  },
+  {
+    "code": "16717",
+    "name": "Nghi Thuỷ",
+    "name_en": "Nghi Thuy",
+    "full_name": "Phường Nghi Thuỷ",
+    "full_name_en": "Nghi Thuy Ward",
+    "type": "phường",
+    "district_code": "412",
+    "codename": "nghi_thuy"
+  },
+  {
+    "code": "16720",
+    "name": "Nghi Tân",
+    "name_en": "Nghi Tan",
+    "full_name": "Phường Nghi Tân",
+    "full_name_en": "Nghi Tan Ward",
+    "type": "phường",
+    "district_code": "412",
+    "codename": "nghi_tan"
+  },
+  {
+    "code": "16723",
+    "name": "Thu Thuỷ",
+    "name_en": "Thu Thuy",
+    "full_name": "Phường Thu Thuỷ",
+    "full_name_en": "Thu Thuy Ward",
+    "type": "phường",
+    "district_code": "412",
+    "codename": "thu_thuy"
+  },
+  {
+    "code": "16726",
+    "name": "Nghi Hòa",
+    "name_en": "Nghi Hoa",
+    "full_name": "Phường Nghi Hòa",
+    "full_name_en": "Nghi Hoa Ward",
+    "type": "phường",
+    "district_code": "412",
+    "codename": "nghi_hoa"
+  },
+  {
+    "code": "16729",
+    "name": "Nghi Hải",
+    "name_en": "Nghi Hai",
+    "full_name": "Phường Nghi Hải",
+    "full_name_en": "Nghi Hai Ward",
+    "type": "phường",
+    "district_code": "412",
+    "codename": "nghi_hai"
+  },
+  {
+    "code": "16732",
+    "name": "Nghi Hương",
+    "name_en": "Nghi Huong",
+    "full_name": "Phường Nghi Hương",
+    "full_name_en": "Nghi Huong Ward",
+    "type": "phường",
+    "district_code": "412",
+    "codename": "nghi_huong"
+  },
+  {
+    "code": "16735",
+    "name": "Nghi Thu",
+    "name_en": "Nghi Thu",
+    "full_name": "Phường Nghi Thu",
+    "full_name_en": "Nghi Thu Ward",
+    "type": "phường",
+    "district_code": "412",
+    "codename": "nghi_thu"
+  },
+  {
+    "code": "17902",
+    "name": "Nghi Phong",
+    "name_en": "Nghi Phong",
+    "full_name": "Xã Nghi Phong",
+    "full_name_en": "Nghi Phong Commune",
+    "type": "xã",
+    "district_code": "412",
+    "codename": "nghi_phong"
+  },
+  {
+    "code": "17905",
+    "name": "Nghi Xuân",
+    "name_en": "Nghi Xuan",
+    "full_name": "Xã Nghi Xuân",
+    "full_name_en": "Nghi Xuan Commune",
+    "type": "xã",
+    "district_code": "412",
+    "codename": "nghi_xuan"
+  },
+  {
+    "code": "17908",
+    "name": "Nghi Liên",
+    "name_en": "Nghi Lien",
+    "full_name": "Xã Nghi Liên",
+    "full_name_en": "Nghi Lien Commune",
+    "type": "xã",
+    "district_code": "412",
+    "codename": "nghi_lien"
+  },
+  {
+    "code": "17914",
+    "name": "Nghi Ân",
+    "name_en": "Nghi An",
+    "full_name": "Xã Nghi Ân",
+    "full_name_en": "Nghi An Commune",
+    "type": "xã",
+    "district_code": "412",
+    "codename": "nghi_an"
+  },
+  {
+    "code": "17917",
+    "name": "Phúc Thọ",
+    "name_en": "Phuc Tho",
+    "full_name": "Xã Phúc Thọ",
+    "full_name_en": "Phuc Tho Commune",
+    "type": "xã",
+    "district_code": "412",
+    "codename": "phuc_tho"
+  },
+  {
+    "code": "17920",
+    "name": "Nghi Kim",
+    "name_en": "Nghi Kim",
+    "full_name": "Xã Nghi Kim",
+    "full_name_en": "Nghi Kim Commune",
+    "type": "xã",
+    "district_code": "412",
+    "codename": "nghi_kim"
+  },
+  {
+    "code": "17923",
+    "name": "Nghi Đức",
+    "name_en": "Nghi Duc",
+    "full_name": "Phường Nghi Đức",
+    "full_name_en": "Nghi Duc Ward",
+    "type": "phường",
+    "district_code": "412",
+    "codename": "nghi_duc"
+  },
+  {
+    "code": "17926",
+    "name": "Nghi Thái",
+    "name_en": "Nghi Thai",
+    "full_name": "Xã Nghi Thái",
+    "full_name_en": "Nghi Thai Commune",
+    "type": "xã",
+    "district_code": "412",
+    "codename": "nghi_thai"
+  },
+  {
+    "code": "18013",
+    "name": "Hưng Chính",
+    "name_en": "Hung Chinh",
+    "full_name": "Xã Hưng Chính",
+    "full_name_en": "Hung Chinh Commune",
+    "type": "xã",
+    "district_code": "412",
+    "codename": "hung_chinh"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "code": "10183",
+    "name": "Thường Tín",
+    "name_en": "Thuong Tin",
+    "full_name": "Thị trấn Thường Tín",
+    "full_name_en": "Thuong Tin Township",
+    "type": "thị trấn",
+    "district_code": "279",
+    "codename": "thuong_tin"
+  },
+  {
+    "code": "10186",
+    "name": "Ninh Sở",
+    "name_en": "Ninh So",
+    "full_name": "Xã Ninh Sở",
+    "full_name_en": "Ninh So Commune",
+    "type": "xã",
+    "district_code": "279",
+    "codename": "ninh_so"
+  },
+  {
+    "code": "10189",
+    "name": "Nhị Khê",
+    "name_en": "Nhi Khe",
+    "full_name": "Xã Nhị Khê",
+    "full_name_en": "Nhi Khe Commune",
+    "type": "xã",
+    "district_code": "279",
+    "codename": "nhi_khe"
+  },
+  {
+    "code": "10192",
+    "name": "Duyên Thái",
+    "name_en": "Duyen Thai",
+    "full_name": "Xã Duyên Thái",
+    "full_name_en": "Duyen Thai Commune",
+    "type": "xã",
+    "district_code": "279",
+    "codename": "duyen_thai"
+  },
+  {
+    "code": "10195",
+    "name": "Khánh Hà",
+    "name_en": "Khanh Ha",
+    "full_name": "Xã Khánh Hà",
+    "full_name_en": "Khanh Ha Commune",
+    "type": "xã",
+    "district_code": "279",
+    "codename": "khanh_ha"
+  },
+  {
+    "code": "10198",
+    "name": "Hòa Bình",
+    "name_en": "Hoa Binh",
+    "full_name": "Xã Hòa Bình",
+    "full_name_en": "Hoa Binh Commune",
+    "type": "xã",
+    "district_code": "279",
+    "codename": "hoa_binh"
+  },
+  {
+    "code": "10201",
+    "name": "Văn Bình",
+    "name_en": "Van Binh",
+    "full_name": "Xã Văn Bình",
+    "full_name_en": "Van Binh Commune",
+    "type": "xã",
+    "district_code": "279",
+    "codename": "van_binh"
+  },
+  {
+    "code": "10204",
+    "name": "Hiền Giang",
+    "name_en": "Hien Giang",
+    "full_name": "Xã Hiền Giang",
+    "full_name_en": "Hien Giang Commune",
+    "type": "xã",
+    "district_code": "279",
+    "codename": "hien_giang"
+  },
+  {
+    "code": "10207",
+    "name": "Hồng Vân",
+    "name_en": "Hong Van",
+    "full_name": "Xã Hồng Vân",
+    "full_name_en": "Hong Van Commune",
+    "type": "xã",
+    "district_code": "279",
+    "codename": "hong_van"
+  },
+  {
+    "code": "10210",
+    "name": "Vân Tảo",
+    "name_en": "Van Tao",
+    "full_name": "Xã Vân Tảo",
+    "full_name_en": "Van Tao Commune",
+    "type": "xã",
+    "district_code": "279",
+    "codename": "van_tao"
+  },
+  {
+    "code": "10213",
+    "name": "Liên Phương",
+    "name_en": "Lien Phuong",
+    "full_name": "Xã Liên Phương",
+    "full_name_en": "Lien Phuong Commune",
+    "type": "xã",
+    "district_code": "279",
+    "codename": "lien_phuong"
+  },
+  {
+    "code": "10216",
+    "name": "Văn Phú",
+    "name_en": "Van Phu",
+    "full_name": "Xã Văn Phú",
+    "full_name_en": "Van Phu Commune",
+    "type": "xã",
+    "district_code": "279",
+    "codename": "van_phu"
+  },
+  {
+    "code": "10219",
+    "name": "Tự Nhiên",
+    "name_en": "Tu Nhien",
+    "full_name": "Xã Tự Nhiên",
+    "full_name_en": "Tu Nhien Commune",
+    "type": "xã",
+    "district_code": "279",
+    "codename": "tu_nhien"
+  },
+  {
+    "code": "10222",
+    "name": "Tiền Phong",
+    "name_en": "Tien Phong",
+    "full_name": "Xã Tiền Phong",
+    "full_name_en": "Tien Phong Commune",
+    "type": "xã",
+    "district_code": "279",
+    "codename": "tien_phong"
+  },
+  {
+    "code": "10225",
+    "name": "Hà Hồi",
+    "name_en": "Ha Hoi",
+    "full_name": "Xã Hà Hồi",
+    "full_name_en": "Ha Hoi Commune",
+    "type": "xã",
+    "district_code": "279",
+    "codename": "ha_hoi"
+  },
+  {
+    "code": "10231",
+    "name": "Nguyễn Trãi",
+    "name_en": "Nguyen Trai",
+    "full_name": "Xã Nguyễn Trãi",
+    "full_name_en": "Nguyen Trai Commune",
+    "type": "xã",
+    "district_code": "279",
+    "codename": "nguyen_trai"
+  },
+  {
+    "code": "10234",
+    "name": "Quất Động",
+    "name_en": "Quat Dong",
+    "full_name": "Xã Quất Động",
+    "full_name_en": "Quat Dong Commune",
+    "type": "xã",
+    "district_code": "279",
+    "codename": "quat_dong"
+  },
+  {
+    "code": "10237",
+    "name": "Chương Dương",
+    "name_en": "Chuong Duong",
+    "full_name": "Xã Chương Dương",
+    "full_name_en": "Chuong Duong Commune",
+    "type": "xã",
+    "district_code": "279",
+    "codename": "chuong_duong"
+  },
+  {
+    "code": "10240",
+    "name": "Tân Minh",
+    "name_en": "Tan Minh",
+    "full_name": "Xã Tân Minh",
+    "full_name_en": "Tan Minh Commune",
+    "type": "xã",
+    "district_code": "279",
+    "codename": "tan_minh"
+  },
+  {
+    "code": "10243",
+    "name": "Lê Lợi",
+    "name_en": "Le Loi",
+    "full_name": "Xã Lê Lợi",
+    "full_name_en": "Le Loi Commune",
+    "type": "xã",
+    "district_code": "279",
+    "codename": "le_loi"
+  },
+  {
+    "code": "10246",
+    "name": "Thắng Lợi",
+    "name_en": "Thang Loi",
+    "full_name": "Xã Thắng Lợi",
+    "full_name_en": "Thang Loi Commune",
+    "type": "xã",
+    "district_code": "279",
+    "codename": "thang_loi"
+  },
+  {
+    "code": "10249",
+    "name": "Dũng Tiến",
+    "name_en": "Dung Tien",
+    "full_name": "Xã Dũng Tiến",
+    "full_name_en": "Dung Tien Commune",
+    "type": "xã",
+    "district_code": "279",
+    "codename": "dung_tien"
+  },
+  {
+    "code": "10255",
+    "name": "Nghiêm Xuyên",
+    "name_en": "Nghiem Xuyen",
+    "full_name": "Xã Nghiêm Xuyên",
+    "full_name_en": "Nghiem Xuyen Commune",
+    "type": "xã",
+    "district_code": "279",
+    "codename": "nghiem_xuyen"
+  },
+  {
+    "code": "10258",
+    "name": "Tô Hiệu",
+    "name_en": "To Hieu",
+    "full_name": "Xã Tô Hiệu",
+    "full_name_en": "To Hieu Commune",
+    "type": "xã",
+    "district_code": "279",
+    "codename": "to_hieu"
+  },
+  {
+    "code": "10261",
+    "name": "Văn Tự",
+    "name_en": "Van Tu",
+    "full_name": "Xã Văn Tự",
+    "full_name_en": "Van Tu Commune",
+    "type": "xã",
+    "district_code": "279",
+    "codename": "van_tu"
+  },
+  {
+    "code": "10264",
+    "name": "Vạn Nhất",
+    "name_en": "Van Nhat",
+    "full_name": "Xã Vạn Nhất",
+    "full_name_en": "Van Nhat Commune",
+    "type": "xã",
+    "district_code": "279",
+    "codename": "van_nhat"
+  },
+  {
+    "code": "10267",
+    "name": "Minh Cường",
+    "name_en": "Minh Cuong",
+    "full_name": "Xã Minh Cường",
+    "full_name_en": "Minh Cuong Commune",
+    "type": "xã",
+    "district_code": "279",
+    "codename": "minh_cuong"
+  }
+]

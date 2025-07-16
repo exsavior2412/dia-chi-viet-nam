@@ -1,0 +1,72 @@
+[
+  {
+    "code": "30316",
+    "name": "Châu Phú B",
+    "name_en": "Chau Phu B",
+    "full_name": "Phường Châu Phú B",
+    "full_name_en": "Chau Phu B Ward",
+    "type": "phường",
+    "district_code": "884",
+    "codename": "chau_phu_b"
+  },
+  {
+    "code": "30319",
+    "name": "Châu Phú A",
+    "name_en": "Chau Phu A",
+    "full_name": "Phường Châu Phú A",
+    "full_name_en": "Chau Phu A Ward",
+    "type": "phường",
+    "district_code": "884",
+    "codename": "chau_phu_a"
+  },
+  {
+    "code": "30322",
+    "name": "Vĩnh Mỹ",
+    "name_en": "Vinh My",
+    "full_name": "Phường Vĩnh Mỹ",
+    "full_name_en": "Vinh My Ward",
+    "type": "phường",
+    "district_code": "884",
+    "codename": "vinh_my"
+  },
+  {
+    "code": "30325",
+    "name": "Núi Sam",
+    "name_en": "Nui Sam",
+    "full_name": "Phường Núi Sam",
+    "full_name_en": "Nui Sam Ward",
+    "type": "phường",
+    "district_code": "884",
+    "codename": "nui_sam"
+  },
+  {
+    "code": "30328",
+    "name": "Vĩnh Ngươn",
+    "name_en": "Vinh Nguon",
+    "full_name": "Phường Vĩnh Ngươn",
+    "full_name_en": "Vinh Nguon Ward",
+    "type": "phường",
+    "district_code": "884",
+    "codename": "vinh_nguon"
+  },
+  {
+    "code": "30331",
+    "name": "Vĩnh Tế",
+    "name_en": "Vinh Te",
+    "full_name": "Xã Vĩnh Tế",
+    "full_name_en": "Vinh Te Commune",
+    "type": "xã",
+    "district_code": "884",
+    "codename": "vinh_te"
+  },
+  {
+    "code": "30334",
+    "name": "Vĩnh Châu",
+    "name_en": "Vinh Chau",
+    "full_name": "Xã Vĩnh Châu",
+    "full_name_en": "Vinh Chau Commune",
+    "type": "xã",
+    "district_code": "884",
+    "codename": "vinh_chau"
+  }
+]

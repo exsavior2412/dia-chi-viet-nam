@@ -1,0 +1,182 @@
+[
+  {
+    "code": "04498",
+    "name": "Cổ Phúc",
+    "name_en": "Co Phuc",
+    "full_name": "Thị trấn Cổ Phúc",
+    "full_name_en": "Co Phuc Township",
+    "type": "thị trấn",
+    "district_code": "138",
+    "codename": "co_phuc"
+  },
+  {
+    "code": "04501",
+    "name": "Tân Đồng",
+    "name_en": "Tan Dong",
+    "full_name": "Xã Tân Đồng",
+    "full_name_en": "Tan Dong Commune",
+    "type": "xã",
+    "district_code": "138",
+    "codename": "tan_dong"
+  },
+  {
+    "code": "04504",
+    "name": "Báo Đáp",
+    "name_en": "Bao Dap",
+    "full_name": "Xã Báo Đáp",
+    "full_name_en": "Bao Dap Commune",
+    "type": "xã",
+    "district_code": "138",
+    "codename": "bao_dap"
+  },
+  {
+    "code": "04510",
+    "name": "Thành Thịnh",
+    "name_en": "Thanh Thinh",
+    "full_name": "Xã Thành Thịnh",
+    "full_name_en": "Thanh Thinh Commune",
+    "type": "xã",
+    "district_code": "138",
+    "codename": "thanh_thinh"
+  },
+  {
+    "code": "04513",
+    "name": "Hòa Cuông",
+    "name_en": "Hoa Cuong",
+    "full_name": "Xã Hòa Cuông",
+    "full_name_en": "Hoa Cuong Commune",
+    "type": "xã",
+    "district_code": "138",
+    "codename": "hoa_cuong"
+  },
+  {
+    "code": "04516",
+    "name": "Minh Quán",
+    "name_en": "Minh Quan",
+    "full_name": "Xã Minh Quán",
+    "full_name_en": "Minh Quan Commune",
+    "type": "xã",
+    "district_code": "138",
+    "codename": "minh_quan"
+  },
+  {
+    "code": "04519",
+    "name": "Quy Mông",
+    "name_en": "Quy Mong",
+    "full_name": "Xã Quy Mông",
+    "full_name_en": "Quy Mong Commune",
+    "type": "xã",
+    "district_code": "138",
+    "codename": "quy_mong"
+  },
+  {
+    "code": "04522",
+    "name": "Cường Thịnh",
+    "name_en": "Cuong Thinh",
+    "full_name": "Xã Cường Thịnh",
+    "full_name_en": "Cuong Thinh Commune",
+    "type": "xã",
+    "district_code": "138",
+    "codename": "cuong_thinh"
+  },
+  {
+    "code": "04525",
+    "name": "Kiên Thành",
+    "name_en": "Kien Thanh",
+    "full_name": "Xã Kiên Thành",
+    "full_name_en": "Kien Thanh Commune",
+    "type": "xã",
+    "district_code": "138",
+    "codename": "kien_thanh"
+  },
+  {
+    "code": "04531",
+    "name": "Y Can",
+    "name_en": "Y Can",
+    "full_name": "Xã Y Can",
+    "full_name_en": "Y Can Commune",
+    "type": "xã",
+    "district_code": "138",
+    "codename": "y_can"
+  },
+  {
+    "code": "04537",
+    "name": "Lương Thịnh",
+    "name_en": "Luong Thinh",
+    "full_name": "Xã Lương Thịnh",
+    "full_name_en": "Luong Thinh Commune",
+    "type": "xã",
+    "district_code": "138",
+    "codename": "luong_thinh"
+  },
+  {
+    "code": "04564",
+    "name": "Việt Cường",
+    "name_en": "Viet Cuong",
+    "full_name": "Xã Việt Cường",
+    "full_name_en": "Viet Cuong Commune",
+    "type": "xã",
+    "district_code": "138",
+    "codename": "viet_cuong"
+  },
+  {
+    "code": "04567",
+    "name": "Minh Quân",
+    "name_en": "Minh Quan",
+    "full_name": "Xã Minh Quân",
+    "full_name_en": "Minh Quan Commune",
+    "type": "xã",
+    "district_code": "138",
+    "codename": "minh_quan"
+  },
+  {
+    "code": "04570",
+    "name": "Hồng Ca",
+    "name_en": "Hong Ca",
+    "full_name": "Xã Hồng Ca",
+    "full_name_en": "Hong Ca Commune",
+    "type": "xã",
+    "district_code": "138",
+    "codename": "hong_ca"
+  },
+  {
+    "code": "04573",
+    "name": "Hưng Thịnh",
+    "name_en": "Hung Thinh",
+    "full_name": "Xã Hưng Thịnh",
+    "full_name_en": "Hung Thinh Commune",
+    "type": "xã",
+    "district_code": "138",
+    "codename": "hung_thinh"
+  },
+  {
+    "code": "04576",
+    "name": "Hưng Khánh",
+    "name_en": "Hung Khanh",
+    "full_name": "Xã Hưng Khánh",
+    "full_name_en": "Hung Khanh Commune",
+    "type": "xã",
+    "district_code": "138",
+    "codename": "hung_khanh"
+  },
+  {
+    "code": "04579",
+    "name": "Việt Hồng",
+    "name_en": "Viet Hong",
+    "full_name": "Xã Việt Hồng",
+    "full_name_en": "Viet Hong Commune",
+    "type": "xã",
+    "district_code": "138",
+    "codename": "viet_hong"
+  },
+  {
+    "code": "04582",
+    "name": "Vân Hội",
+    "name_en": "Van Hoi",
+    "full_name": "Xã Vân Hội",
+    "full_name_en": "Van Hoi Commune",
+    "type": "xã",
+    "district_code": "138",
+    "codename": "van_hoi"
+  }
+]

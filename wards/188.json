@@ -1,0 +1,202 @@
+[
+  {
+    "code": "06526",
+    "name": "Na Dương",
+    "name_en": "Na Duong",
+    "full_name": "Thị trấn Na Dương",
+    "full_name_en": "Na Duong Township",
+    "type": "thị trấn",
+    "district_code": "188",
+    "codename": "na_duong"
+  },
+  {
+    "code": "06529",
+    "name": "Lộc Bình",
+    "name_en": "Loc Binh",
+    "full_name": "Thị trấn Lộc Bình",
+    "full_name_en": "Loc Binh Township",
+    "type": "thị trấn",
+    "district_code": "188",
+    "codename": "loc_binh"
+  },
+  {
+    "code": "06532",
+    "name": "Mẫu Sơn",
+    "name_en": "Mau Son",
+    "full_name": "Xã Mẫu Sơn",
+    "full_name_en": "Mau Son Commune",
+    "type": "xã",
+    "district_code": "188",
+    "codename": "mau_son"
+  },
+  {
+    "code": "06541",
+    "name": "Yên Khoái",
+    "name_en": "Yen Khoai",
+    "full_name": "Xã Yên Khoái",
+    "full_name_en": "Yen Khoai Commune",
+    "type": "xã",
+    "district_code": "188",
+    "codename": "yen_khoai"
+  },
+  {
+    "code": "06544",
+    "name": "Khánh Xuân",
+    "name_en": "Khanh Xuan",
+    "full_name": "Xã Khánh Xuân",
+    "full_name_en": "Khanh Xuan Commune",
+    "type": "xã",
+    "district_code": "188",
+    "codename": "khanh_xuan"
+  },
+  {
+    "code": "06547",
+    "name": "Tú Mịch",
+    "name_en": "Tu Mich",
+    "full_name": "Xã Tú Mịch",
+    "full_name_en": "Tu Mich Commune",
+    "type": "xã",
+    "district_code": "188",
+    "codename": "tu_mich"
+  },
+  {
+    "code": "06550",
+    "name": "Hữu Khánh",
+    "name_en": "Huu Khanh",
+    "full_name": "Xã Hữu Khánh",
+    "full_name_en": "Huu Khanh Commune",
+    "type": "xã",
+    "district_code": "188",
+    "codename": "huu_khanh"
+  },
+  {
+    "code": "06553",
+    "name": "Đồng Bục",
+    "name_en": "Dong Buc",
+    "full_name": "Xã Đồng Bục",
+    "full_name_en": "Dong Buc Commune",
+    "type": "xã",
+    "district_code": "188",
+    "codename": "dong_buc"
+  },
+  {
+    "code": "06559",
+    "name": "Tam Gia",
+    "name_en": "Tam Gia",
+    "full_name": "Xã Tam Gia",
+    "full_name_en": "Tam Gia Commune",
+    "type": "xã",
+    "district_code": "188",
+    "codename": "tam_gia"
+  },
+  {
+    "code": "06562",
+    "name": "Tú Đoạn",
+    "name_en": "Tu Doan",
+    "full_name": "Xã Tú Đoạn",
+    "full_name_en": "Tu Doan Commune",
+    "type": "xã",
+    "district_code": "188",
+    "codename": "tu_doan"
+  },
+  {
+    "code": "06565",
+    "name": "Khuất Xá",
+    "name_en": "Khuat Xa",
+    "full_name": "Xã Khuất Xá",
+    "full_name_en": "Khuat Xa Commune",
+    "type": "xã",
+    "district_code": "188",
+    "codename": "khuat_xa"
+  },
+  {
+    "code": "06577",
+    "name": "Thống Nhất",
+    "name_en": "Thong Nhat",
+    "full_name": "Xã Thống Nhất",
+    "full_name_en": "Thong Nhat Commune",
+    "type": "xã",
+    "district_code": "188",
+    "codename": "thong_nhat"
+  },
+  {
+    "code": "06589",
+    "name": "Sàn Viên",
+    "name_en": "San Vien",
+    "full_name": "Xã Sàn Viên",
+    "full_name_en": "San Vien Commune",
+    "type": "xã",
+    "district_code": "188",
+    "codename": "san_vien"
+  },
+  {
+    "code": "06592",
+    "name": "Đông Quan",
+    "name_en": "Dong Quan",
+    "full_name": "Xã Đông Quan",
+    "full_name_en": "Dong Quan Commune",
+    "type": "xã",
+    "district_code": "188",
+    "codename": "dong_quan"
+  },
+  {
+    "code": "06595",
+    "name": "Minh Hiệp",
+    "name_en": "Minh Hiep",
+    "full_name": "Xã Minh Hiệp",
+    "full_name_en": "Minh Hiep Commune",
+    "type": "xã",
+    "district_code": "188",
+    "codename": "minh_hiep"
+  },
+  {
+    "code": "06598",
+    "name": "Hữu Lân",
+    "name_en": "Huu Lan",
+    "full_name": "Xã Hữu Lân",
+    "full_name_en": "Huu Lan Commune",
+    "type": "xã",
+    "district_code": "188",
+    "codename": "huu_lan"
+  },
+  {
+    "code": "06601",
+    "name": "Lợi Bác",
+    "name_en": "Loi Bac",
+    "full_name": "Xã Lợi Bác",
+    "full_name_en": "Loi Bac Commune",
+    "type": "xã",
+    "district_code": "188",
+    "codename": "loi_bac"
+  },
+  {
+    "code": "06604",
+    "name": "Nam Quan",
+    "name_en": "Nam Quan",
+    "full_name": "Xã Nam Quan",
+    "full_name_en": "Nam Quan Commune",
+    "type": "xã",
+    "district_code": "188",
+    "codename": "nam_quan"
+  },
+  {
+    "code": "06607",
+    "name": "Xuân Dương",
+    "name_en": "Xuan Duong",
+    "full_name": "Xã Xuân Dương",
+    "full_name_en": "Xuan Duong Commune",
+    "type": "xã",
+    "district_code": "188",
+    "codename": "xuan_duong"
+  },
+  {
+    "code": "06610",
+    "name": "Ái Quốc",
+    "name_en": "Ai Quoc",
+    "full_name": "Xã Ái Quốc",
+    "full_name_en": "Ai Quoc Commune",
+    "type": "xã",
+    "district_code": "188",
+    "codename": "ai_quoc"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "code": "00343",
+    "name": "Nhân Chính",
+    "name_en": "Nhan Chinh",
+    "full_name": "Phường Nhân Chính",
+    "full_name_en": "Nhan Chinh Ward",
+    "type": "phường",
+    "district_code": "009",
+    "codename": "nhan_chinh"
+  },
+  {
+    "code": "00346",
+    "name": "Thượng Đình",
+    "name_en": "Thuong Dinh",
+    "full_name": "Phường Thượng Đình",
+    "full_name_en": "Thuong Dinh Ward",
+    "type": "phường",
+    "district_code": "009",
+    "codename": "thuong_dinh"
+  },
+  {
+    "code": "00349",
+    "name": "Khương Trung",
+    "name_en": "Khuong Trung",
+    "full_name": "Phường Khương Trung",
+    "full_name_en": "Khuong Trung Ward",
+    "type": "phường",
+    "district_code": "009",
+    "codename": "khuong_trung"
+  },
+  {
+    "code": "00352",
+    "name": "Khương Mai",
+    "name_en": "Khuong Mai",
+    "full_name": "Phường Khương Mai",
+    "full_name_en": "Khuong Mai Ward",
+    "type": "phường",
+    "district_code": "009",
+    "codename": "khuong_mai"
+  },
+  {
+    "code": "00355",
+    "name": "Thanh Xuân Trung",
+    "name_en": "Thanh Xuan Trung",
+    "full_name": "Phường Thanh Xuân Trung",
+    "full_name_en": "Thanh Xuan Trung Ward",
+    "type": "phường",
+    "district_code": "009",
+    "codename": "thanh_xuan_trung"
+  },
+  {
+    "code": "00358",
+    "name": "Phương Liệt",
+    "name_en": "Phuong Liet",
+    "full_name": "Phường Phương Liệt",
+    "full_name_en": "Phuong Liet Ward",
+    "type": "phường",
+    "district_code": "009",
+    "codename": "phuong_liet"
+  },
+  {
+    "code": "00364",
+    "name": "Khương Đình",
+    "name_en": "Khuong Dinh",
+    "full_name": "Phường Khương Đình",
+    "full_name_en": "Khuong Dinh Ward",
+    "type": "phường",
+    "district_code": "009",
+    "codename": "khuong_dinh"
+  },
+  {
+    "code": "00367",
+    "name": "Thanh Xuân Bắc",
+    "name_en": "Thanh Xuan Bac",
+    "full_name": "Phường Thanh Xuân Bắc",
+    "full_name_en": "Thanh Xuan Bac Ward",
+    "type": "phường",
+    "district_code": "009",
+    "codename": "thanh_xuan_bac"
+  },
+  {
+    "code": "00373",
+    "name": "Hạ Đình",
+    "name_en": "Ha Dinh",
+    "full_name": "Phường Hạ Đình",
+    "full_name_en": "Ha Dinh Ward",
+    "type": "phường",
+    "district_code": "009",
+    "codename": "ha_dinh"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "code": "02800",
+    "name": "Nàn Sán",
+    "name_en": "Nan San",
+    "full_name": "Xã Nàn Sán",
+    "full_name_en": "Nan San Commune",
+    "type": "xã",
+    "district_code": "084",
+    "codename": "nan_san"
+  },
+  {
+    "code": "02803",
+    "name": "Thào Chư Phìn",
+    "name_en": "Thao Chu Phin",
+    "full_name": "Xã Thào Chư Phìn",
+    "full_name_en": "Thao Chu Phin Commune",
+    "type": "xã",
+    "district_code": "084",
+    "codename": "thao_chu_phin"
+  },
+  {
+    "code": "02806",
+    "name": "Bản Mế",
+    "name_en": "Ban Me",
+    "full_name": "Xã Bản Mế",
+    "full_name_en": "Ban Me Commune",
+    "type": "xã",
+    "district_code": "084",
+    "codename": "ban_me"
+  },
+  {
+    "code": "02809",
+    "name": "Si Ma Cai",
+    "name_en": "Si Ma Cai",
+    "full_name": "Thị trấn Si Ma Cai",
+    "full_name_en": "Si Ma Cai Township",
+    "type": "thị trấn",
+    "district_code": "084",
+    "codename": "si_ma_cai"
+  },
+  {
+    "code": "02812",
+    "name": "Sán Chải",
+    "name_en": "San Chai",
+    "full_name": "Xã Sán Chải",
+    "full_name_en": "San Chai Commune",
+    "type": "xã",
+    "district_code": "084",
+    "codename": "san_chai"
+  },
+  {
+    "code": "02818",
+    "name": "Lùng Thẩn",
+    "name_en": "Lung Than",
+    "full_name": "Xã Lùng Thẩn",
+    "full_name_en": "Lung Than Commune",
+    "type": "xã",
+    "district_code": "084",
+    "codename": "lung_than"
+  },
+  {
+    "code": "02821",
+    "name": "Cán Cấu",
+    "name_en": "Can Cau",
+    "full_name": "Xã Cán Cấu",
+    "full_name_en": "Can Cau Commune",
+    "type": "xã",
+    "district_code": "084",
+    "codename": "can_cau"
+  },
+  {
+    "code": "02824",
+    "name": "Sín Chéng",
+    "name_en": "Sin Cheng",
+    "full_name": "Xã Sín Chéng",
+    "full_name_en": "Sin Cheng Commune",
+    "type": "xã",
+    "district_code": "084",
+    "codename": "sin_cheng"
+  },
+  {
+    "code": "02827",
+    "name": "Quan Hồ Thẩn",
+    "name_en": "Quan Ho Than",
+    "full_name": "Xã Quan Hồ Thẩn",
+    "full_name_en": "Quan Ho Than Commune",
+    "type": "xã",
+    "district_code": "084",
+    "codename": "quan_ho_than"
+  },
+  {
+    "code": "02836",
+    "name": "Nàn Xín",
+    "name_en": "Nan Xin",
+    "full_name": "Xã Nàn Xín",
+    "full_name_en": "Nan Xin Commune",
+    "type": "xã",
+    "district_code": "084",
+    "codename": "nan_xin"
+  }
+]

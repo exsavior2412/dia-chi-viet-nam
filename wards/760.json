@@ -1,0 +1,102 @@
+[
+  {
+    "code": "26734",
+    "name": "Tân Định",
+    "name_en": "Tan Dinh",
+    "full_name": "Phường Tân Định",
+    "full_name_en": "Tan Dinh Ward",
+    "type": "phường",
+    "district_code": "760",
+    "codename": "tan_dinh"
+  },
+  {
+    "code": "26737",
+    "name": "Đa Kao",
+    "name_en": "Da Kao",
+    "full_name": "Phường Đa Kao",
+    "full_name_en": "Da Kao Ward",
+    "type": "phường",
+    "district_code": "760",
+    "codename": "da_kao"
+  },
+  {
+    "code": "26740",
+    "name": "Bến Nghé",
+    "name_en": "Ben Nghe",
+    "full_name": "Phường Bến Nghé",
+    "full_name_en": "Ben Nghe Ward",
+    "type": "phường",
+    "district_code": "760",
+    "codename": "ben_nghe"
+  },
+  {
+    "code": "26743",
+    "name": "Bến Thành",
+    "name_en": "Ben Thanh",
+    "full_name": "Phường Bến Thành",
+    "full_name_en": "Ben Thanh Ward",
+    "type": "phường",
+    "district_code": "760",
+    "codename": "ben_thanh"
+  },
+  {
+    "code": "26746",
+    "name": "Nguyễn Thái Bình",
+    "name_en": "Nguyen Thai Binh",
+    "full_name": "Phường Nguyễn Thái Bình",
+    "full_name_en": "Nguyen Thai Binh Ward",
+    "type": "phường",
+    "district_code": "760",
+    "codename": "nguyen_thai_binh"
+  },
+  {
+    "code": "26749",
+    "name": "Phạm Ngũ Lão",
+    "name_en": "Pham Ngu Lao",
+    "full_name": "Phường Phạm Ngũ Lão",
+    "full_name_en": "Pham Ngu Lao Ward",
+    "type": "phường",
+    "district_code": "760",
+    "codename": "pham_ngu_lao"
+  },
+  {
+    "code": "26752",
+    "name": "Cầu Ông Lãnh",
+    "name_en": "Cau Ong Lanh",
+    "full_name": "Phường Cầu Ông Lãnh",
+    "full_name_en": "Cau Ong Lanh Ward",
+    "type": "phường",
+    "district_code": "760",
+    "codename": "cau_ong_lanh"
+  },
+  {
+    "code": "26755",
+    "name": "Cô Giang",
+    "name_en": "Co Giang",
+    "full_name": "Phường Cô Giang",
+    "full_name_en": "Co Giang Ward",
+    "type": "phường",
+    "district_code": "760",
+    "codename": "co_giang"
+  },
+  {
+    "code": "26758",
+    "name": "Nguyễn Cư Trinh",
+    "name_en": "Nguyen Cu Trinh",
+    "full_name": "Phường Nguyễn Cư Trinh",
+    "full_name_en": "Nguyen Cu Trinh Ward",
+    "type": "phường",
+    "district_code": "760",
+    "codename": "nguyen_cu_trinh"
+  },
+  {
+    "code": "26761",
+    "name": "Cầu Kho",
+    "name_en": "Cau Kho",
+    "full_name": "Phường Cầu Kho",
+    "full_name_en": "Cau Kho Ward",
+    "type": "phường",
+    "district_code": "760",
+    "codename": "cau_kho"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "code": "10675",
+    "name": "An Lưu",
+    "name_en": "An Luu",
+    "full_name": "Phường An Lưu",
+    "full_name_en": "An Luu Ward",
+    "type": "phường",
+    "district_code": "292",
+    "codename": "an_luu"
+  },
+  {
+    "code": "10678",
+    "name": "Bạch Đằng",
+    "name_en": "Bach Dang",
+    "full_name": "Xã Bạch Đằng",
+    "full_name_en": "Bach Dang Commune",
+    "type": "xã",
+    "district_code": "292",
+    "codename": "bach_dang"
+  },
+  {
+    "code": "10681",
+    "name": "Thất Hùng",
+    "name_en": "That Hung",
+    "full_name": "Phường Thất Hùng",
+    "full_name_en": "That Hung Ward",
+    "type": "phường",
+    "district_code": "292",
+    "codename": "that_hung"
+  },
+  {
+    "code": "10684",
+    "name": "Lê Ninh",
+    "name_en": "Le Ninh",
+    "full_name": "Xã Lê Ninh",
+    "full_name_en": "Le Ninh Commune",
+    "type": "xã",
+    "district_code": "292",
+    "codename": "le_ninh"
+  },
+  {
+    "code": "10693",
+    "name": "Phạm Thái",
+    "name_en": "Pham Thai",
+    "full_name": "Phường Phạm Thái",
+    "full_name_en": "Pham Thai Ward",
+    "type": "phường",
+    "district_code": "292",
+    "codename": "pham_thai"
+  },
+  {
+    "code": "10696",
+    "name": "Duy Tân",
+    "name_en": "Duy Tan",
+    "full_name": "Phường Duy Tân",
+    "full_name_en": "Duy Tan Ward",
+    "type": "phường",
+    "district_code": "292",
+    "codename": "duy_tan"
+  },
+  {
+    "code": "10699",
+    "name": "Tân Dân",
+    "name_en": "Tan Dan",
+    "full_name": "Phường Tân Dân",
+    "full_name_en": "Tan Dan Ward",
+    "type": "phường",
+    "district_code": "292",
+    "codename": "tan_dan"
+  },
+  {
+    "code": "10702",
+    "name": "Minh Tân",
+    "name_en": "Minh Tan",
+    "full_name": "Phường Minh Tân",
+    "full_name_en": "Minh Tan Ward",
+    "type": "phường",
+    "district_code": "292",
+    "codename": "minh_tan"
+  },
+  {
+    "code": "10705",
+    "name": "Quang Thành",
+    "name_en": "Quang Thanh",
+    "full_name": "Xã Quang Thành",
+    "full_name_en": "Quang Thanh Commune",
+    "type": "xã",
+    "district_code": "292",
+    "codename": "quang_thanh"
+  },
+  {
+    "code": "10708",
+    "name": "Hiệp Hòa",
+    "name_en": "Hiep Hoa",
+    "full_name": "Xã Hiệp Hòa",
+    "full_name_en": "Hiep Hoa Commune",
+    "type": "xã",
+    "district_code": "292",
+    "codename": "hiep_hoa"
+  },
+  {
+    "code": "10714",
+    "name": "Phú Thứ",
+    "name_en": "Phu Thu",
+    "full_name": "Phường Phú Thứ",
+    "full_name_en": "Phu Thu Ward",
+    "type": "phường",
+    "district_code": "292",
+    "codename": "phu_thu"
+  },
+  {
+    "code": "10717",
+    "name": "Thăng Long",
+    "name_en": "Thang Long",
+    "full_name": "Xã Thăng Long",
+    "full_name_en": "Thang Long Commune",
+    "type": "xã",
+    "district_code": "292",
+    "codename": "thang_long"
+  },
+  {
+    "code": "10720",
+    "name": "Lạc Long",
+    "name_en": "Lac Long",
+    "full_name": "Xã Lạc Long",
+    "full_name_en": "Lac Long Commune",
+    "type": "xã",
+    "district_code": "292",
+    "codename": "lac_long"
+  },
+  {
+    "code": "10723",
+    "name": "An Sinh",
+    "name_en": "An Sinh",
+    "full_name": "Phường An Sinh",
+    "full_name_en": "An Sinh Ward",
+    "type": "phường",
+    "district_code": "292",
+    "codename": "an_sinh"
+  },
+  {
+    "code": "10726",
+    "name": "Hiệp Sơn",
+    "name_en": "Hiep Son",
+    "full_name": "Phường Hiệp Sơn",
+    "full_name_en": "Hiep Son Ward",
+    "type": "phường",
+    "district_code": "292",
+    "codename": "hiep_son"
+  },
+  {
+    "code": "10729",
+    "name": "Thượng Quận",
+    "name_en": "Thuong Quan",
+    "full_name": "Xã Thượng Quận",
+    "full_name_en": "Thuong Quan Commune",
+    "type": "xã",
+    "district_code": "292",
+    "codename": "thuong_quan"
+  },
+  {
+    "code": "10732",
+    "name": "An Phụ",
+    "name_en": "An Phu",
+    "full_name": "Phường An Phụ",
+    "full_name_en": "An Phu Ward",
+    "type": "phường",
+    "district_code": "292",
+    "codename": "an_phu"
+  },
+  {
+    "code": "10735",
+    "name": "Hiệp An",
+    "name_en": "Hiep An",
+    "full_name": "Phường Hiệp An",
+    "full_name_en": "Hiep An Ward",
+    "type": "phường",
+    "district_code": "292",
+    "codename": "hiep_an"
+  },
+  {
+    "code": "10738",
+    "name": "Long Xuyên",
+    "name_en": "Long Xuyen",
+    "full_name": "Phường Long Xuyên",
+    "full_name_en": "Long Xuyen Ward",
+    "type": "phường",
+    "district_code": "292",
+    "codename": "long_xuyen"
+  },
+  {
+    "code": "10741",
+    "name": "Thái Thịnh",
+    "name_en": "Thai Thinh",
+    "full_name": "Phường Thái Thịnh",
+    "full_name_en": "Thai Thinh Ward",
+    "type": "phường",
+    "district_code": "292",
+    "codename": "thai_thinh"
+  },
+  {
+    "code": "10744",
+    "name": "Hiến Thành",
+    "name_en": "Hien Thanh",
+    "full_name": "Phường Hiến Thành",
+    "full_name_en": "Hien Thanh Ward",
+    "type": "phường",
+    "district_code": "292",
+    "codename": "hien_thanh"
+  },
+  {
+    "code": "10747",
+    "name": "Minh Hòa",
+    "name_en": "Minh Hoa",
+    "full_name": "Xã Minh Hòa",
+    "full_name_en": "Minh Hoa Commune",
+    "type": "xã",
+    "district_code": "292",
+    "codename": "minh_hoa"
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "code": "15664",
+    "name": "Triệu Sơn",
+    "name_en": "Trieu Son",
+    "full_name": "Thị trấn Triệu Sơn",
+    "full_name_en": "Trieu Son Township",
+    "type": "thị trấn",
+    "district_code": "397",
+    "codename": "trieu_son"
+  },
+  {
+    "code": "15667",
+    "name": "Thọ Sơn",
+    "name_en": "Tho Son",
+    "full_name": "Xã Thọ Sơn",
+    "full_name_en": "Tho Son Commune",
+    "type": "xã",
+    "district_code": "397",
+    "codename": "tho_son"
+  },
+  {
+    "code": "15670",
+    "name": "Thọ Bình",
+    "name_en": "Tho Binh",
+    "full_name": "Xã Thọ Bình",
+    "full_name_en": "Tho Binh Commune",
+    "type": "xã",
+    "district_code": "397",
+    "codename": "tho_binh"
+  },
+  {
+    "code": "15673",
+    "name": "Thọ Tiến",
+    "name_en": "Tho Tien",
+    "full_name": "Xã Thọ Tiến",
+    "full_name_en": "Tho Tien Commune",
+    "type": "xã",
+    "district_code": "397",
+    "codename": "tho_tien"
+  },
+  {
+    "code": "15676",
+    "name": "Hợp Lý",
+    "name_en": "Hop Ly",
+    "full_name": "Xã Hợp Lý",
+    "full_name_en": "Hop Ly Commune",
+    "type": "xã",
+    "district_code": "397",
+    "codename": "hop_ly"
+  },
+  {
+    "code": "15679",
+    "name": "Hợp Tiến",
+    "name_en": "Hop Tien",
+    "full_name": "Xã Hợp Tiến",
+    "full_name_en": "Hop Tien Commune",
+    "type": "xã",
+    "district_code": "397",
+    "codename": "hop_tien"
+  },
+  {
+    "code": "15682",
+    "name": "Hợp Thành",
+    "name_en": "Hop Thanh",
+    "full_name": "Xã Hợp Thành",
+    "full_name_en": "Hop Thanh Commune",
+    "type": "xã",
+    "district_code": "397",
+    "codename": "hop_thanh"
+  },
+  {
+    "code": "15685",
+    "name": "Triệu Thành",
+    "name_en": "Trieu Thanh",
+    "full_name": "Xã Triệu Thành",
+    "full_name_en": "Trieu Thanh Commune",
+    "type": "xã",
+    "district_code": "397",
+    "codename": "trieu_thanh"
+  },
+  {
+    "code": "15688",
+    "name": "Hợp Thắng",
+    "name_en": "Hop Thang",
+    "full_name": "Xã Hợp Thắng",
+    "full_name_en": "Hop Thang Commune",
+    "type": "xã",
+    "district_code": "397",
+    "codename": "hop_thang"
+  },
+  {
+    "code": "15691",
+    "name": "Minh Sơn",
+    "name_en": "Minh Son",
+    "full_name": "Xã Minh Sơn",
+    "full_name_en": "Minh Son Commune",
+    "type": "xã",
+    "district_code": "397",
+    "codename": "minh_son"
+  },
+  {
+    "code": "15700",
+    "name": "Dân Lực",
+    "name_en": "Dan Luc",
+    "full_name": "Xã Dân Lực",
+    "full_name_en": "Dan Luc Commune",
+    "type": "xã",
+    "district_code": "397",
+    "codename": "dan_luc"
+  },
+  {
+    "code": "15703",
+    "name": "Dân Lý",
+    "name_en": "Dan Ly",
+    "full_name": "Xã Dân Lý",
+    "full_name_en": "Dan Ly Commune",
+    "type": "xã",
+    "district_code": "397",
+    "codename": "dan_ly"
+  },
+  {
+    "code": "15706",
+    "name": "Dân Quyền",
+    "name_en": "Dan Quyen",
+    "full_name": "Xã Dân Quyền",
+    "full_name_en": "Dan Quyen Commune",
+    "type": "xã",
+    "district_code": "397",
+    "codename": "dan_quyen"
+  },
+  {
+    "code": "15709",
+    "name": "An Nông",
+    "name_en": "An Nong",
+    "full_name": "Xã An Nông",
+    "full_name_en": "An Nong Commune",
+    "type": "xã",
+    "district_code": "397",
+    "codename": "an_nong"
+  },
+  {
+    "code": "15712",
+    "name": "Văn Sơn",
+    "name_en": "Van Son",
+    "full_name": "Xã Văn Sơn",
+    "full_name_en": "Van Son Commune",
+    "type": "xã",
+    "district_code": "397",
+    "codename": "van_son"
+  },
+  {
+    "code": "15715",
+    "name": "Thái Hòa",
+    "name_en": "Thai Hoa",
+    "full_name": "Xã Thái Hòa",
+    "full_name_en": "Thai Hoa Commune",
+    "type": "xã",
+    "district_code": "397",
+    "codename": "thai_hoa"
+  },
+  {
+    "code": "15718",
+    "name": "Nưa",
+    "name_en": "Nua",
+    "full_name": "Thị trấn Nưa",
+    "full_name_en": "Nua Township",
+    "type": "thị trấn",
+    "district_code": "397",
+    "codename": "nua"
+  },
+  {
+    "code": "15721",
+    "name": "Đồng Lợi",
+    "name_en": "Dong Loi",
+    "full_name": "Xã Đồng Lợi",
+    "full_name_en": "Dong Loi Commune",
+    "type": "xã",
+    "district_code": "397",
+    "codename": "dong_loi"
+  },
+  {
+    "code": "15724",
+    "name": "Đồng Tiến",
+    "name_en": "Dong Tien",
+    "full_name": "Xã Đồng Tiến",
+    "full_name_en": "Dong Tien Commune",
+    "type": "xã",
+    "district_code": "397",
+    "codename": "dong_tien"
+  },
+  {
+    "code": "15727",
+    "name": "Đồng Thắng",
+    "name_en": "Dong Thang",
+    "full_name": "Xã Đồng Thắng",
+    "full_name_en": "Dong Thang Commune",
+    "type": "xã",
+    "district_code": "397",
+    "codename": "dong_thang"
+  },
+  {
+    "code": "15730",
+    "name": "Tiến Nông",
+    "name_en": "Tien Nong",
+    "full_name": "Xã Tiến Nông",
+    "full_name_en": "Tien Nong Commune",
+    "type": "xã",
+    "district_code": "397",
+    "codename": "tien_nong"
+  },
+  {
+    "code": "15733",
+    "name": "Khuyến Nông",
+    "name_en": "Khuyen Nong",
+    "full_name": "Xã Khuyến Nông",
+    "full_name_en": "Khuyen Nong Commune",
+    "type": "xã",
+    "district_code": "397",
+    "codename": "khuyen_nong"
+  },
+  {
+    "code": "15736",
+    "name": "Xuân Lộc",
+    "name_en": "Xuan Loc",
+    "full_name": "Xã Xuân Lộc",
+    "full_name_en": "Xuan Loc Commune",
+    "type": "xã",
+    "district_code": "397",
+    "codename": "xuan_loc"
+  },
+  {
+    "code": "15742",
+    "name": "Thọ Dân",
+    "name_en": "Tho Dan",
+    "full_name": "Xã Thọ Dân",
+    "full_name_en": "Tho Dan Commune",
+    "type": "xã",
+    "district_code": "397",
+    "codename": "tho_dan"
+  },
+  {
+    "code": "15745",
+    "name": "Xuân Thọ",
+    "name_en": "Xuan Tho",
+    "full_name": "Xã Xuân Thọ",
+    "full_name_en": "Xuan Tho Commune",
+    "type": "xã",
+    "district_code": "397",
+    "codename": "xuan_tho"
+  },
+  {
+    "code": "15748",
+    "name": "Thọ Tân",
+    "name_en": "Tho Tan",
+    "full_name": "Xã Thọ Tân",
+    "full_name_en": "Tho Tan Commune",
+    "type": "xã",
+    "district_code": "397",
+    "codename": "tho_tan"
+  },
+  {
+    "code": "15751",
+    "name": "Thọ Ngọc",
+    "name_en": "Tho Ngoc",
+    "full_name": "Xã Thọ Ngọc",
+    "full_name_en": "Tho Ngoc Commune",
+    "type": "xã",
+    "district_code": "397",
+    "codename": "tho_ngoc"
+  },
+  {
+    "code": "15754",
+    "name": "Thọ Cường",
+    "name_en": "Tho Cuong",
+    "full_name": "Xã Thọ Cường",
+    "full_name_en": "Tho Cuong Commune",
+    "type": "xã",
+    "district_code": "397",
+    "codename": "tho_cuong"
+  },
+  {
+    "code": "15760",
+    "name": "Thọ Phú",
+    "name_en": "Tho Phu",
+    "full_name": "Xã Thọ Phú",
+    "full_name_en": "Tho Phu Commune",
+    "type": "xã",
+    "district_code": "397",
+    "codename": "tho_phu"
+  },
+  {
+    "code": "15763",
+    "name": "Thọ Thế",
+    "name_en": "Tho The",
+    "full_name": "Xã Thọ Thế",
+    "full_name_en": "Tho The Commune",
+    "type": "xã",
+    "district_code": "397",
+    "codename": "tho_the"
+  },
+  {
+    "code": "15766",
+    "name": "Nông Trường",
+    "name_en": "Nong Truong",
+    "full_name": "Xã Nông Trường",
+    "full_name_en": "Nong Truong Commune",
+    "type": "xã",
+    "district_code": "397",
+    "codename": "nong_truong"
+  },
+  {
+    "code": "15769",
+    "name": "Bình Sơn",
+    "name_en": "Binh Son",
+    "full_name": "Xã Bình Sơn",
+    "full_name_en": "Binh Son Commune",
+    "type": "xã",
+    "district_code": "397",
+    "codename": "binh_son"
+  }
+]

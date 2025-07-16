@@ -1,0 +1,132 @@
+[
+  {
+    "code": "28210",
+    "name": "Tầm Vu",
+    "name_en": "Tam Vu",
+    "full_name": "Thị trấn Tầm Vu",
+    "full_name_en": "Tam Vu Township",
+    "type": "thị trấn",
+    "district_code": "808",
+    "codename": "tam_vu"
+  },
+  {
+    "code": "28213",
+    "name": "Bình Quới",
+    "name_en": "Binh Quoi",
+    "full_name": "Xã Bình Quới",
+    "full_name_en": "Binh Quoi Commune",
+    "type": "xã",
+    "district_code": "808",
+    "codename": "binh_quoi"
+  },
+  {
+    "code": "28216",
+    "name": "Hòa Phú",
+    "name_en": "Hoa Phu",
+    "full_name": "Xã Hòa Phú",
+    "full_name_en": "Hoa Phu Commune",
+    "type": "xã",
+    "district_code": "808",
+    "codename": "hoa_phu"
+  },
+  {
+    "code": "28219",
+    "name": "Phú Ngãi Trị",
+    "name_en": "Phu Ngai Tri",
+    "full_name": "Xã Phú Ngãi Trị",
+    "full_name_en": "Phu Ngai Tri Commune",
+    "type": "xã",
+    "district_code": "808",
+    "codename": "phu_ngai_tri"
+  },
+  {
+    "code": "28222",
+    "name": "Vĩnh Công",
+    "name_en": "Vinh Cong",
+    "full_name": "Xã Vĩnh Công",
+    "full_name_en": "Vinh Cong Commune",
+    "type": "xã",
+    "district_code": "808",
+    "codename": "vinh_cong"
+  },
+  {
+    "code": "28225",
+    "name": "Thuận Mỹ",
+    "name_en": "Thuan My",
+    "full_name": "Xã Thuận Mỹ",
+    "full_name_en": "Thuan My Commune",
+    "type": "xã",
+    "district_code": "808",
+    "codename": "thuan_my"
+  },
+  {
+    "code": "28228",
+    "name": "Hiệp Thạnh",
+    "name_en": "Hiep Thanh",
+    "full_name": "Xã Hiệp Thạnh",
+    "full_name_en": "Hiep Thanh Commune",
+    "type": "xã",
+    "district_code": "808",
+    "codename": "hiep_thanh"
+  },
+  {
+    "code": "28231",
+    "name": "Phước Tân Hưng",
+    "name_en": "Phuoc Tan Hung",
+    "full_name": "Xã Phước Tân Hưng",
+    "full_name_en": "Phuoc Tan Hung Commune",
+    "type": "xã",
+    "district_code": "808",
+    "codename": "phuoc_tan_hung"
+  },
+  {
+    "code": "28234",
+    "name": "Thanh Phú Long",
+    "name_en": "Thanh Phu Long",
+    "full_name": "Xã Thanh Phú Long",
+    "full_name_en": "Thanh Phu Long Commune",
+    "type": "xã",
+    "district_code": "808",
+    "codename": "thanh_phu_long"
+  },
+  {
+    "code": "28237",
+    "name": "Dương Xuân Hội",
+    "name_en": "Duong Xuan Hoi",
+    "full_name": "Xã Dương Xuân Hội",
+    "full_name_en": "Duong Xuan Hoi Commune",
+    "type": "xã",
+    "district_code": "808",
+    "codename": "duong_xuan_hoi"
+  },
+  {
+    "code": "28240",
+    "name": "An Lục Long",
+    "name_en": "An Luc Long",
+    "full_name": "Xã An Lục Long",
+    "full_name_en": "An Luc Long Commune",
+    "type": "xã",
+    "district_code": "808",
+    "codename": "an_luc_long"
+  },
+  {
+    "code": "28243",
+    "name": "Long Trì",
+    "name_en": "Long Tri",
+    "full_name": "Xã Long Trì",
+    "full_name_en": "Long Tri Commune",
+    "type": "xã",
+    "district_code": "808",
+    "codename": "long_tri"
+  },
+  {
+    "code": "28246",
+    "name": "Thanh Vĩnh Đông",
+    "name_en": "Thanh Vinh Dong",
+    "full_name": "Xã Thanh Vĩnh Đông",
+    "full_name_en": "Thanh Vinh Dong Commune",
+    "type": "xã",
+    "district_code": "808",
+    "codename": "thanh_vinh_dong"
+  }
+]

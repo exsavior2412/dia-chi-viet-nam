@@ -1,0 +1,112 @@
+[
+  {
+    "code": "23614",
+    "name": "An Bình",
+    "name_en": "An Binh",
+    "full_name": "Phường An Bình",
+    "full_name_en": "An Binh Ward",
+    "type": "phường",
+    "district_code": "623",
+    "codename": "an_binh"
+  },
+  {
+    "code": "23617",
+    "name": "Tây Sơn",
+    "name_en": "Tay Son",
+    "full_name": "Phường Tây Sơn",
+    "full_name_en": "Tay Son Ward",
+    "type": "phường",
+    "district_code": "623",
+    "codename": "tay_son"
+  },
+  {
+    "code": "23620",
+    "name": "An Phú",
+    "name_en": "An Phu",
+    "full_name": "Phường An Phú",
+    "full_name_en": "An Phu Ward",
+    "type": "phường",
+    "district_code": "623",
+    "codename": "an_phu"
+  },
+  {
+    "code": "23623",
+    "name": "An Tân",
+    "name_en": "An Tan",
+    "full_name": "Phường An Tân",
+    "full_name_en": "An Tan Ward",
+    "type": "phường",
+    "district_code": "623",
+    "codename": "an_tan"
+  },
+  {
+    "code": "23626",
+    "name": "Tú An",
+    "name_en": "Tu An",
+    "full_name": "Xã Tú An",
+    "full_name_en": "Tu An Commune",
+    "type": "xã",
+    "district_code": "623",
+    "codename": "tu_an"
+  },
+  {
+    "code": "23627",
+    "name": "Xuân An",
+    "name_en": "Xuan An",
+    "full_name": "Xã Xuân An",
+    "full_name_en": "Xuan An Commune",
+    "type": "xã",
+    "district_code": "623",
+    "codename": "xuan_an"
+  },
+  {
+    "code": "23629",
+    "name": "Cửu An",
+    "name_en": "Cuu An",
+    "full_name": "Xã Cửu An",
+    "full_name_en": "Cuu An Commune",
+    "type": "xã",
+    "district_code": "623",
+    "codename": "cuu_an"
+  },
+  {
+    "code": "23630",
+    "name": "An Phước",
+    "name_en": "An Phuoc",
+    "full_name": "Phường An Phước",
+    "full_name_en": "An Phuoc Ward",
+    "type": "phường",
+    "district_code": "623",
+    "codename": "an_phuoc"
+  },
+  {
+    "code": "23632",
+    "name": "Song An",
+    "name_en": "Song An",
+    "full_name": "Xã Song An",
+    "full_name_en": "Song An Commune",
+    "type": "xã",
+    "district_code": "623",
+    "codename": "song_an"
+  },
+  {
+    "code": "23633",
+    "name": "Ngô Mây",
+    "name_en": "Ngo May",
+    "full_name": "Phường Ngô Mây",
+    "full_name_en": "Ngo May Ward",
+    "type": "phường",
+    "district_code": "623",
+    "codename": "ngo_may"
+  },
+  {
+    "code": "23635",
+    "name": "Thành An",
+    "name_en": "Thanh An",
+    "full_name": "Xã Thành An",
+    "full_name_en": "Thanh An Commune",
+    "type": "xã",
+    "district_code": "623",
+    "codename": "thanh_an"
+  }
+]

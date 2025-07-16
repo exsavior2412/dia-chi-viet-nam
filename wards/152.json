@@ -1,0 +1,112 @@
+[
+  {
+    "code": "04924",
+    "name": "Lương Sơn",
+    "name_en": "Luong Son",
+    "full_name": "Thị trấn Lương Sơn",
+    "full_name_en": "Luong Son Township",
+    "type": "thị trấn",
+    "district_code": "152",
+    "codename": "luong_son"
+  },
+  {
+    "code": "04942",
+    "name": "Lâm Sơn",
+    "name_en": "Lam Son",
+    "full_name": "Xã Lâm Sơn",
+    "full_name_en": "Lam Son Commune",
+    "type": "xã",
+    "district_code": "152",
+    "codename": "lam_son"
+  },
+  {
+    "code": "04945",
+    "name": "Hòa Sơn",
+    "name_en": "Hoa Son",
+    "full_name": "Xã Hòa Sơn",
+    "full_name_en": "Hoa Son Commune",
+    "type": "xã",
+    "district_code": "152",
+    "codename": "hoa_son"
+  },
+  {
+    "code": "04951",
+    "name": "Tân Vinh",
+    "name_en": "Tan Vinh",
+    "full_name": "Xã Tân Vinh",
+    "full_name_en": "Tan Vinh Commune",
+    "type": "xã",
+    "district_code": "152",
+    "codename": "tan_vinh"
+  },
+  {
+    "code": "04954",
+    "name": "Nhuận Trạch",
+    "name_en": "Nhuan Trach",
+    "full_name": "Xã Nhuận Trạch",
+    "full_name_en": "Nhuan Trach Commune",
+    "type": "xã",
+    "district_code": "152",
+    "codename": "nhuan_trach"
+  },
+  {
+    "code": "04957",
+    "name": "Cao Sơn",
+    "name_en": "Cao Son",
+    "full_name": "Xã Cao Sơn",
+    "full_name_en": "Cao Son Commune",
+    "type": "xã",
+    "district_code": "152",
+    "codename": "cao_son"
+  },
+  {
+    "code": "04960",
+    "name": "Cư Yên",
+    "name_en": "Cu Yen",
+    "full_name": "Xã Cư Yên",
+    "full_name_en": "Cu Yen Commune",
+    "type": "xã",
+    "district_code": "152",
+    "codename": "cu_yen"
+  },
+  {
+    "code": "04969",
+    "name": "Liên Sơn",
+    "name_en": "Lien Son",
+    "full_name": "Xã Liên Sơn",
+    "full_name_en": "Lien Son Commune",
+    "type": "xã",
+    "district_code": "152",
+    "codename": "lien_son"
+  },
+  {
+    "code": "05008",
+    "name": "Cao Dương",
+    "name_en": "Cao Duong",
+    "full_name": "Xã Cao Dương",
+    "full_name_en": "Cao Duong Commune",
+    "type": "xã",
+    "district_code": "152",
+    "codename": "cao_duong"
+  },
+  {
+    "code": "05041",
+    "name": "Thanh Sơn",
+    "name_en": "Thanh Son",
+    "full_name": "Xã Thanh Sơn",
+    "full_name_en": "Thanh Son Commune",
+    "type": "xã",
+    "district_code": "152",
+    "codename": "thanh_son"
+  },
+  {
+    "code": "05047",
+    "name": "Thanh Cao",
+    "name_en": "Thanh Cao",
+    "full_name": "Xã Thanh Cao",
+    "full_name_en": "Thanh Cao Commune",
+    "type": "xã",
+    "district_code": "152",
+    "codename": "thanh_cao"
+  }
+]

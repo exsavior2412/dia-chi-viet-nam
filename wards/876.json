@@ -1,0 +1,122 @@
+[
+  {
+    "code": "30208",
+    "name": "Lai Vung",
+    "name_en": "Lai Vung",
+    "full_name": "Thị trấn Lai Vung",
+    "full_name_en": "Lai Vung Township",
+    "type": "thị trấn",
+    "district_code": "876",
+    "codename": "lai_vung"
+  },
+  {
+    "code": "30211",
+    "name": "Tân Dương",
+    "name_en": "Tan Duong",
+    "full_name": "Xã Tân Dương",
+    "full_name_en": "Tan Duong Commune",
+    "type": "xã",
+    "district_code": "876",
+    "codename": "tan_duong"
+  },
+  {
+    "code": "30214",
+    "name": "Hòa Thành",
+    "name_en": "Hoa Thanh",
+    "full_name": "Xã Hòa Thành",
+    "full_name_en": "Hoa Thanh Commune",
+    "type": "xã",
+    "district_code": "876",
+    "codename": "hoa_thanh"
+  },
+  {
+    "code": "30217",
+    "name": "Long Hậu",
+    "name_en": "Long Hau",
+    "full_name": "Xã Long Hậu",
+    "full_name_en": "Long Hau Commune",
+    "type": "xã",
+    "district_code": "876",
+    "codename": "long_hau"
+  },
+  {
+    "code": "30220",
+    "name": "Tân Phước",
+    "name_en": "Tan Phuoc",
+    "full_name": "Xã Tân Phước",
+    "full_name_en": "Tan Phuoc Commune",
+    "type": "xã",
+    "district_code": "876",
+    "codename": "tan_phuoc"
+  },
+  {
+    "code": "30223",
+    "name": "Hòa Long",
+    "name_en": "Hoa Long",
+    "full_name": "Xã Hòa Long",
+    "full_name_en": "Hoa Long Commune",
+    "type": "xã",
+    "district_code": "876",
+    "codename": "hoa_long"
+  },
+  {
+    "code": "30226",
+    "name": "Tân Thành",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thành",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "876",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "30229",
+    "name": "Long Thắng",
+    "name_en": "Long Thang",
+    "full_name": "Xã Long Thắng",
+    "full_name_en": "Long Thang Commune",
+    "type": "xã",
+    "district_code": "876",
+    "codename": "long_thang"
+  },
+  {
+    "code": "30232",
+    "name": "Vĩnh Thới",
+    "name_en": "Vinh Thoi",
+    "full_name": "Xã Vĩnh Thới",
+    "full_name_en": "Vinh Thoi Commune",
+    "type": "xã",
+    "district_code": "876",
+    "codename": "vinh_thoi"
+  },
+  {
+    "code": "30235",
+    "name": "Tân Hòa",
+    "name_en": "Tan Hoa",
+    "full_name": "Xã Tân Hòa",
+    "full_name_en": "Tan Hoa Commune",
+    "type": "xã",
+    "district_code": "876",
+    "codename": "tan_hoa"
+  },
+  {
+    "code": "30238",
+    "name": "Định Hòa",
+    "name_en": "Dinh Hoa",
+    "full_name": "Xã Định Hòa",
+    "full_name_en": "Dinh Hoa Commune",
+    "type": "xã",
+    "district_code": "876",
+    "codename": "dinh_hoa"
+  },
+  {
+    "code": "30241",
+    "name": "Phong Hòa",
+    "name_en": "Phong Hoa",
+    "full_name": "Xã Phong Hòa",
+    "full_name_en": "Phong Hoa Commune",
+    "type": "xã",
+    "district_code": "876",
+    "codename": "phong_hoa"
+  }
+]

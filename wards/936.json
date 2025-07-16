@@ -1,0 +1,82 @@
+[
+  {
+    "code": "31483",
+    "name": "Thuận Hưng",
+    "name_en": "Thuan Hung",
+    "full_name": "Xã Thuận Hưng",
+    "full_name_en": "Thuan Hung Commune",
+    "type": "xã",
+    "district_code": "936",
+    "codename": "thuan_hung"
+  },
+  {
+    "code": "31484",
+    "name": "Thuận Hòa",
+    "name_en": "Thuan Hoa",
+    "full_name": "Xã Thuận Hòa",
+    "full_name_en": "Thuan Hoa Commune",
+    "type": "xã",
+    "district_code": "936",
+    "codename": "thuan_hoa"
+  },
+  {
+    "code": "31486",
+    "name": "Vĩnh Thuận Đông",
+    "name_en": "Vinh Thuan Dong",
+    "full_name": "Xã Vĩnh Thuận Đông",
+    "full_name_en": "Vinh Thuan Dong Commune",
+    "type": "xã",
+    "district_code": "936",
+    "codename": "vinh_thuan_dong"
+  },
+  {
+    "code": "31489",
+    "name": "Vĩnh Viễn",
+    "name_en": "Vinh Vien",
+    "full_name": "Thị trấn Vĩnh Viễn",
+    "full_name_en": "Vinh Vien Township",
+    "type": "thị trấn",
+    "district_code": "936",
+    "codename": "vinh_vien"
+  },
+  {
+    "code": "31490",
+    "name": "Vĩnh Viễn A",
+    "name_en": "Vinh Vien A",
+    "full_name": "Xã Vĩnh Viễn A",
+    "full_name_en": "Vinh Vien A Commune",
+    "type": "xã",
+    "district_code": "936",
+    "codename": "vinh_vien_a"
+  },
+  {
+    "code": "31492",
+    "name": "Lương Tâm",
+    "name_en": "Luong Tam",
+    "full_name": "Xã Lương Tâm",
+    "full_name_en": "Luong Tam Commune",
+    "type": "xã",
+    "district_code": "936",
+    "codename": "luong_tam"
+  },
+  {
+    "code": "31493",
+    "name": "Lương Nghĩa",
+    "name_en": "Luong Nghia",
+    "full_name": "Xã Lương Nghĩa",
+    "full_name_en": "Luong Nghia Commune",
+    "type": "xã",
+    "district_code": "936",
+    "codename": "luong_nghia"
+  },
+  {
+    "code": "31495",
+    "name": "Xà Phiên",
+    "name_en": "Xa Phien",
+    "full_name": "Xã Xà Phiên",
+    "full_name_en": "Xa Phien Commune",
+    "type": "xã",
+    "district_code": "936",
+    "codename": "xa_phien"
+  }
+]

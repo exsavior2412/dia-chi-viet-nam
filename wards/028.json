@@ -1,0 +1,182 @@
+[
+  {
+    "code": "00820",
+    "name": "Yên Minh",
+    "name_en": "Yen Minh",
+    "full_name": "Thị trấn Yên Minh",
+    "full_name_en": "Yen Minh Township",
+    "type": "thị trấn",
+    "district_code": "028",
+    "codename": "yen_minh"
+  },
+  {
+    "code": "00823",
+    "name": "Thắng Mố",
+    "name_en": "Thang Mo",
+    "full_name": "Xã Thắng Mố",
+    "full_name_en": "Thang Mo Commune",
+    "type": "xã",
+    "district_code": "028",
+    "codename": "thang_mo"
+  },
+  {
+    "code": "00826",
+    "name": "Phú Lũng",
+    "name_en": "Phu Lung",
+    "full_name": "Xã Phú Lũng",
+    "full_name_en": "Phu Lung Commune",
+    "type": "xã",
+    "district_code": "028",
+    "codename": "phu_lung"
+  },
+  {
+    "code": "00829",
+    "name": "Sủng Tráng",
+    "name_en": "Sung Trang",
+    "full_name": "Xã Sủng Tráng",
+    "full_name_en": "Sung Trang Commune",
+    "type": "xã",
+    "district_code": "028",
+    "codename": "sung_trang"
+  },
+  {
+    "code": "00832",
+    "name": "Bạch Đích",
+    "name_en": "Bach Dich",
+    "full_name": "Xã Bạch Đích",
+    "full_name_en": "Bach Dich Commune",
+    "type": "xã",
+    "district_code": "028",
+    "codename": "bach_dich"
+  },
+  {
+    "code": "00835",
+    "name": "Na Khê",
+    "name_en": "Na Khe",
+    "full_name": "Xã Na Khê",
+    "full_name_en": "Na Khe Commune",
+    "type": "xã",
+    "district_code": "028",
+    "codename": "na_khe"
+  },
+  {
+    "code": "00838",
+    "name": "Sủng Thài",
+    "name_en": "Sung Thai",
+    "full_name": "Xã Sủng Thài",
+    "full_name_en": "Sung Thai Commune",
+    "type": "xã",
+    "district_code": "028",
+    "codename": "sung_thai"
+  },
+  {
+    "code": "00841",
+    "name": "Hữu Vinh",
+    "name_en": "Huu Vinh",
+    "full_name": "Xã Hữu Vinh",
+    "full_name_en": "Huu Vinh Commune",
+    "type": "xã",
+    "district_code": "028",
+    "codename": "huu_vinh"
+  },
+  {
+    "code": "00844",
+    "name": "Lao Và Chải",
+    "name_en": "Lao Va Chai",
+    "full_name": "Xã Lao Và Chải",
+    "full_name_en": "Lao Va Chai Commune",
+    "type": "xã",
+    "district_code": "028",
+    "codename": "lao_va_chai"
+  },
+  {
+    "code": "00847",
+    "name": "Mậu Duệ",
+    "name_en": "Mau Due",
+    "full_name": "Xã Mậu Duệ",
+    "full_name_en": "Mau Due Commune",
+    "type": "xã",
+    "district_code": "028",
+    "codename": "mau_due"
+  },
+  {
+    "code": "00850",
+    "name": "Đông Minh",
+    "name_en": "Dong Minh",
+    "full_name": "Xã Đông Minh",
+    "full_name_en": "Dong Minh Commune",
+    "type": "xã",
+    "district_code": "028",
+    "codename": "dong_minh"
+  },
+  {
+    "code": "00853",
+    "name": "Mậu Long",
+    "name_en": "Mau Long",
+    "full_name": "Xã Mậu Long",
+    "full_name_en": "Mau Long Commune",
+    "type": "xã",
+    "district_code": "028",
+    "codename": "mau_long"
+  },
+  {
+    "code": "00856",
+    "name": "Ngam La",
+    "name_en": "Ngam La",
+    "full_name": "Xã Ngam La",
+    "full_name_en": "Ngam La Commune",
+    "type": "xã",
+    "district_code": "028",
+    "codename": "ngam_la"
+  },
+  {
+    "code": "00859",
+    "name": "Ngọc Long",
+    "name_en": "Ngoc Long",
+    "full_name": "Xã Ngọc Long",
+    "full_name_en": "Ngoc Long Commune",
+    "type": "xã",
+    "district_code": "028",
+    "codename": "ngoc_long"
+  },
+  {
+    "code": "00862",
+    "name": "Đường Thượng",
+    "name_en": "Duong Thuong",
+    "full_name": "Xã Đường Thượng",
+    "full_name_en": "Duong Thuong Commune",
+    "type": "xã",
+    "district_code": "028",
+    "codename": "duong_thuong"
+  },
+  {
+    "code": "00865",
+    "name": "Lũng Hồ",
+    "name_en": "Lung Ho",
+    "full_name": "Xã Lũng Hồ",
+    "full_name_en": "Lung Ho Commune",
+    "type": "xã",
+    "district_code": "028",
+    "codename": "lung_ho"
+  },
+  {
+    "code": "00868",
+    "name": "Du Tiến",
+    "name_en": "Du Tien",
+    "full_name": "Xã Du Tiến",
+    "full_name_en": "Du Tien Commune",
+    "type": "xã",
+    "district_code": "028",
+    "codename": "du_tien"
+  },
+  {
+    "code": "00871",
+    "name": "Du Già",
+    "name_en": "Du Gia",
+    "full_name": "Xã Du Già",
+    "full_name_en": "Du Gia Commune",
+    "type": "xã",
+    "district_code": "028",
+    "codename": "du_gia"
+  }
+]

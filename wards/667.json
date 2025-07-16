@@ -1,0 +1,62 @@
+[
+  {
+    "code": "24736",
+    "name": "Quảng Trực",
+    "name_en": "Quang Truc",
+    "full_name": "Xã Quảng Trực",
+    "full_name_en": "Quang Truc Commune",
+    "type": "xã",
+    "district_code": "667",
+    "codename": "quang_truc"
+  },
+  {
+    "code": "24739",
+    "name": "Đắk Búk So",
+    "name_en": "Dak Buk So",
+    "full_name": "Xã Đắk Búk So",
+    "full_name_en": "Dak Buk So Commune",
+    "type": "xã",
+    "district_code": "667",
+    "codename": "dak_buk_so"
+  },
+  {
+    "code": "24740",
+    "name": "Quảng Tâm",
+    "name_en": "Quang Tam",
+    "full_name": "Xã Quảng Tâm",
+    "full_name_en": "Quang Tam Commune",
+    "type": "xã",
+    "district_code": "667",
+    "codename": "quang_tam"
+  },
+  {
+    "code": "24742",
+    "name": "Đắk R'Tíh",
+    "name_en": "Dak R'Tih",
+    "full_name": "Xã Đắk R'Tíh",
+    "full_name_en": "Dak R'Tih Commune",
+    "type": "xã",
+    "district_code": "667",
+    "codename": "dak_rtih"
+  },
+  {
+    "code": "24746",
+    "name": "Đắk Ngo",
+    "name_en": "Dak Ngo",
+    "full_name": "Xã Đắk Ngo",
+    "full_name_en": "Dak Ngo Commune",
+    "type": "xã",
+    "district_code": "667",
+    "codename": "dak_ngo"
+  },
+  {
+    "code": "24748",
+    "name": "Quảng Tân",
+    "name_en": "Quang Tan",
+    "full_name": "Xã Quảng Tân",
+    "full_name_en": "Quang Tan Commune",
+    "type": "xã",
+    "district_code": "667",
+    "codename": "quang_tan"
+  }
+]

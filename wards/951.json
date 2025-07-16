@@ -1,0 +1,112 @@
+[
+  {
+    "code": "31672",
+    "name": "Đại Ân 2",
+    "name_en": "Dai An 2",
+    "full_name": "Xã Đại Ân 2",
+    "full_name_en": "Commune Dai An 2",
+    "type": "xã",
+    "district_code": "951",
+    "codename": "dai_an_2"
+  },
+  {
+    "code": "31673",
+    "name": "Trần Đề",
+    "name_en": "Tran De",
+    "full_name": "Thị trấn Trần Đề",
+    "full_name_en": "Tran De Township",
+    "type": "thị trấn",
+    "district_code": "951",
+    "codename": "tran_de"
+  },
+  {
+    "code": "31675",
+    "name": "Liêu Tú",
+    "name_en": "Lieu Tu",
+    "full_name": "Xã Liêu Tú",
+    "full_name_en": "Lieu Tu Commune",
+    "type": "xã",
+    "district_code": "951",
+    "codename": "lieu_tu"
+  },
+  {
+    "code": "31678",
+    "name": "Lịch Hội Thượng",
+    "name_en": "Lich Hoi Thuong",
+    "full_name": "Xã Lịch Hội Thượng",
+    "full_name_en": "Lich Hoi Thuong Commune",
+    "type": "xã",
+    "district_code": "951",
+    "codename": "lich_hoi_thuong"
+  },
+  {
+    "code": "31679",
+    "name": "Lịch Hội Thượng",
+    "name_en": "Lich Hoi Thuong",
+    "full_name": "Thị trấn Lịch Hội Thượng",
+    "full_name_en": "Lich Hoi Thuong Township",
+    "type": "thị trấn",
+    "district_code": "951",
+    "codename": "lich_hoi_thuong"
+  },
+  {
+    "code": "31681",
+    "name": "Trung Bình",
+    "name_en": "Trung Binh",
+    "full_name": "Xã Trung Bình",
+    "full_name_en": "Trung Binh Commune",
+    "type": "xã",
+    "district_code": "951",
+    "codename": "trung_binh"
+  },
+  {
+    "code": "31687",
+    "name": "Tài Văn",
+    "name_en": "Tai Van",
+    "full_name": "Xã Tài Văn",
+    "full_name_en": "Tai Van Commune",
+    "type": "xã",
+    "district_code": "951",
+    "codename": "tai_van"
+  },
+  {
+    "code": "31696",
+    "name": "Viên An",
+    "name_en": "Vien An",
+    "full_name": "Xã Viên An",
+    "full_name_en": "Vien An Commune",
+    "type": "xã",
+    "district_code": "951",
+    "codename": "vien_an"
+  },
+  {
+    "code": "31699",
+    "name": "Thạnh Thới An",
+    "name_en": "Thanh Thoi An",
+    "full_name": "Xã Thạnh Thới An",
+    "full_name_en": "Thanh Thoi An Commune",
+    "type": "xã",
+    "district_code": "951",
+    "codename": "thanh_thoi_an"
+  },
+  {
+    "code": "31702",
+    "name": "Thạnh Thới Thuận",
+    "name_en": "Thanh Thoi Thuan",
+    "full_name": "Xã Thạnh Thới Thuận",
+    "full_name_en": "Thanh Thoi Thuan Commune",
+    "type": "xã",
+    "district_code": "951",
+    "codename": "thanh_thoi_thuan"
+  },
+  {
+    "code": "31705",
+    "name": "Viên Bình",
+    "name_en": "Vien Binh",
+    "full_name": "Xã Viên Bình",
+    "full_name_en": "Vien Binh Commune",
+    "type": "xã",
+    "district_code": "951",
+    "codename": "vien_binh"
+  }
+]

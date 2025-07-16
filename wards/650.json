@@ -1,0 +1,122 @@
+[
+  {
+    "code": "24343",
+    "name": "Krông Năng",
+    "name_en": "Krong Nang",
+    "full_name": "Thị trấn Krông Năng",
+    "full_name_en": "Krong Nang Township",
+    "type": "thị trấn",
+    "district_code": "650",
+    "codename": "krong_nang"
+  },
+  {
+    "code": "24346",
+    "name": "ĐLiê Ya",
+    "name_en": "DLie Ya",
+    "full_name": "Xã ĐLiê Ya",
+    "full_name_en": "DLie Ya Commune",
+    "type": "xã",
+    "district_code": "650",
+    "codename": "dlie_ya"
+  },
+  {
+    "code": "24349",
+    "name": "Ea Tóh",
+    "name_en": "Ea Toh",
+    "full_name": "Xã Ea Tóh",
+    "full_name_en": "Ea Toh Commune",
+    "type": "xã",
+    "district_code": "650",
+    "codename": "ea_toh"
+  },
+  {
+    "code": "24352",
+    "name": "Ea Tam",
+    "name_en": "Ea Tam",
+    "full_name": "Xã Ea Tam",
+    "full_name_en": "Ea Tam Commune",
+    "type": "xã",
+    "district_code": "650",
+    "codename": "ea_tam"
+  },
+  {
+    "code": "24355",
+    "name": "Phú Lộc",
+    "name_en": "Phu Loc",
+    "full_name": "Xã Phú Lộc",
+    "full_name_en": "Phu Loc Commune",
+    "type": "xã",
+    "district_code": "650",
+    "codename": "phu_loc"
+  },
+  {
+    "code": "24358",
+    "name": "Tam Giang",
+    "name_en": "Tam Giang",
+    "full_name": "Xã Tam Giang",
+    "full_name_en": "Tam Giang Commune",
+    "type": "xã",
+    "district_code": "650",
+    "codename": "tam_giang"
+  },
+  {
+    "code": "24359",
+    "name": "Ea Puk",
+    "name_en": "Ea Puk",
+    "full_name": "Xã Ea Puk",
+    "full_name_en": "Ea Puk Commune",
+    "type": "xã",
+    "district_code": "650",
+    "codename": "ea_puk"
+  },
+  {
+    "code": "24360",
+    "name": "Ea Dăh",
+    "name_en": "Ea Dah",
+    "full_name": "Xã Ea Dăh",
+    "full_name_en": "Ea Dah Commune",
+    "type": "xã",
+    "district_code": "650",
+    "codename": "ea_dah"
+  },
+  {
+    "code": "24361",
+    "name": "Ea Hồ",
+    "name_en": "Ea Ho",
+    "full_name": "Xã Ea Hồ",
+    "full_name_en": "Ea Ho Commune",
+    "type": "xã",
+    "district_code": "650",
+    "codename": "ea_ho"
+  },
+  {
+    "code": "24364",
+    "name": "Phú Xuân",
+    "name_en": "Phu Xuan",
+    "full_name": "Xã Phú Xuân",
+    "full_name_en": "Phu Xuan Commune",
+    "type": "xã",
+    "district_code": "650",
+    "codename": "phu_xuan"
+  },
+  {
+    "code": "24367",
+    "name": "Cư Klông",
+    "name_en": "Cu Klong",
+    "full_name": "Xã Cư Klông",
+    "full_name_en": "Cu Klong Commune",
+    "type": "xã",
+    "district_code": "650",
+    "codename": "cu_klong"
+  },
+  {
+    "code": "24370",
+    "name": "Ea Tân",
+    "name_en": "Ea Tan",
+    "full_name": "Xã Ea Tân",
+    "full_name_en": "Ea Tan Commune",
+    "type": "xã",
+    "district_code": "650",
+    "codename": "ea_tan"
+  }
+]

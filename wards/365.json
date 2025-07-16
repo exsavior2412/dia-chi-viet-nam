@@ -1,0 +1,202 @@
+[
+  {
+    "code": "14152",
+    "name": "Quất Lâm",
+    "name_en": "Quat Lam",
+    "full_name": "Thị trấn Quất Lâm",
+    "full_name_en": "Quat Lam Township",
+    "type": "thị trấn",
+    "district_code": "365",
+    "codename": "quat_lam"
+  },
+  {
+    "code": "14155",
+    "name": "Giao Hương",
+    "name_en": "Giao Huong",
+    "full_name": "Xã Giao Hương",
+    "full_name_en": "Giao Huong Commune",
+    "type": "xã",
+    "district_code": "365",
+    "codename": "giao_huong"
+  },
+  {
+    "code": "14158",
+    "name": "Hồng Thuận",
+    "name_en": "Hong Thuan",
+    "full_name": "Xã Hồng Thuận",
+    "full_name_en": "Hong Thuan Commune",
+    "type": "xã",
+    "district_code": "365",
+    "codename": "hong_thuan"
+  },
+  {
+    "code": "14161",
+    "name": "Giao Thiện",
+    "name_en": "Giao Thien",
+    "full_name": "Xã Giao Thiện",
+    "full_name_en": "Giao Thien Commune",
+    "type": "xã",
+    "district_code": "365",
+    "codename": "giao_thien"
+  },
+  {
+    "code": "14164",
+    "name": "Giao Thanh",
+    "name_en": "Giao Thanh",
+    "full_name": "Xã Giao Thanh",
+    "full_name_en": "Giao Thanh Commune",
+    "type": "xã",
+    "district_code": "365",
+    "codename": "giao_thanh"
+  },
+  {
+    "code": "14167",
+    "name": "Giao Thủy",
+    "name_en": "Giao Thuy",
+    "full_name": "Thị trấn Giao Thủy",
+    "full_name_en": "Giao Thuy Township",
+    "type": "thị trấn",
+    "district_code": "365",
+    "codename": "giao_thuy"
+  },
+  {
+    "code": "14170",
+    "name": "Bình Hòa",
+    "name_en": "Binh Hoa",
+    "full_name": "Xã Bình Hòa",
+    "full_name_en": "Binh Hoa Commune",
+    "type": "xã",
+    "district_code": "365",
+    "codename": "binh_hoa"
+  },
+  {
+    "code": "14176",
+    "name": "Giao Hà",
+    "name_en": "Giao Ha",
+    "full_name": "Xã Giao Hà",
+    "full_name_en": "Giao Ha Commune",
+    "type": "xã",
+    "district_code": "365",
+    "codename": "giao_ha"
+  },
+  {
+    "code": "14179",
+    "name": "Giao Nhân",
+    "name_en": "Giao Nhan",
+    "full_name": "Xã Giao Nhân",
+    "full_name_en": "Giao Nhan Commune",
+    "type": "xã",
+    "district_code": "365",
+    "codename": "giao_nhan"
+  },
+  {
+    "code": "14182",
+    "name": "Giao An",
+    "name_en": "Giao An",
+    "full_name": "Xã Giao An",
+    "full_name_en": "Giao An Commune",
+    "type": "xã",
+    "district_code": "365",
+    "codename": "giao_an"
+  },
+  {
+    "code": "14185",
+    "name": "Giao Lạc",
+    "name_en": "Giao Lac",
+    "full_name": "Xã Giao Lạc",
+    "full_name_en": "Giao Lac Commune",
+    "type": "xã",
+    "district_code": "365",
+    "codename": "giao_lac"
+  },
+  {
+    "code": "14188",
+    "name": "Giao Châu",
+    "name_en": "Giao Chau",
+    "full_name": "Xã Giao Châu",
+    "full_name_en": "Giao Chau Commune",
+    "type": "xã",
+    "district_code": "365",
+    "codename": "giao_chau"
+  },
+  {
+    "code": "14191",
+    "name": "Giao Tân",
+    "name_en": "Giao Tan",
+    "full_name": "Xã Giao Tân",
+    "full_name_en": "Giao Tan Commune",
+    "type": "xã",
+    "district_code": "365",
+    "codename": "giao_tan"
+  },
+  {
+    "code": "14194",
+    "name": "Giao Yến",
+    "name_en": "Giao Yen",
+    "full_name": "Xã Giao Yến",
+    "full_name_en": "Giao Yen Commune",
+    "type": "xã",
+    "district_code": "365",
+    "codename": "giao_yen"
+  },
+  {
+    "code": "14197",
+    "name": "Giao Xuân",
+    "name_en": "Giao Xuan",
+    "full_name": "Xã Giao Xuân",
+    "full_name_en": "Giao Xuan Commune",
+    "type": "xã",
+    "district_code": "365",
+    "codename": "giao_xuan"
+  },
+  {
+    "code": "14200",
+    "name": "Giao Thịnh",
+    "name_en": "Giao Thinh",
+    "full_name": "Xã Giao Thịnh",
+    "full_name_en": "Giao Thinh Commune",
+    "type": "xã",
+    "district_code": "365",
+    "codename": "giao_thinh"
+  },
+  {
+    "code": "14203",
+    "name": "Giao Hải",
+    "name_en": "Giao Hai",
+    "full_name": "Xã Giao Hải",
+    "full_name_en": "Giao Hai Commune",
+    "type": "xã",
+    "district_code": "365",
+    "codename": "giao_hai"
+  },
+  {
+    "code": "14206",
+    "name": "Bạch Long",
+    "name_en": "Bach Long",
+    "full_name": "Xã Bạch Long",
+    "full_name_en": "Bach Long Commune",
+    "type": "xã",
+    "district_code": "365",
+    "codename": "bach_long"
+  },
+  {
+    "code": "14209",
+    "name": "Giao Long",
+    "name_en": "Giao Long",
+    "full_name": "Xã Giao Long",
+    "full_name_en": "Giao Long Commune",
+    "type": "xã",
+    "district_code": "365",
+    "codename": "giao_long"
+  },
+  {
+    "code": "14212",
+    "name": "Giao Phong",
+    "name_en": "Giao Phong",
+    "full_name": "Xã Giao Phong",
+    "full_name_en": "Giao Phong Commune",
+    "type": "xã",
+    "district_code": "365",
+    "codename": "giao_phong"
+  }
+]

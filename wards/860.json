@@ -1,0 +1,162 @@
+[
+  {
+    "code": "29719",
+    "name": "Tam Bình",
+    "name_en": "Tam Binh",
+    "full_name": "Thị trấn Tam Bình",
+    "full_name_en": "Tam Binh Township",
+    "type": "thị trấn",
+    "district_code": "860",
+    "codename": "tam_binh"
+  },
+  {
+    "code": "29722",
+    "name": "Tân Lộc",
+    "name_en": "Tan Loc",
+    "full_name": "Xã Tân Lộc",
+    "full_name_en": "Tan Loc Commune",
+    "type": "xã",
+    "district_code": "860",
+    "codename": "tan_loc"
+  },
+  {
+    "code": "29725",
+    "name": "Phú Thịnh",
+    "name_en": "Phu Thinh",
+    "full_name": "Xã Phú Thịnh",
+    "full_name_en": "Phu Thinh Commune",
+    "type": "xã",
+    "district_code": "860",
+    "codename": "phu_thinh"
+  },
+  {
+    "code": "29728",
+    "name": "Hậu Lộc",
+    "name_en": "Hau Loc",
+    "full_name": "Xã Hậu Lộc",
+    "full_name_en": "Hau Loc Commune",
+    "type": "xã",
+    "district_code": "860",
+    "codename": "hau_loc"
+  },
+  {
+    "code": "29731",
+    "name": "Hòa Thạnh",
+    "name_en": "Hoa Thanh",
+    "full_name": "Xã Hòa Thạnh",
+    "full_name_en": "Hoa Thanh Commune",
+    "type": "xã",
+    "district_code": "860",
+    "codename": "hoa_thanh"
+  },
+  {
+    "code": "29734",
+    "name": "Hoà Lộc",
+    "name_en": "Hoa Loc",
+    "full_name": "Xã Hoà Lộc",
+    "full_name_en": "Hoa Loc Commune",
+    "type": "xã",
+    "district_code": "860",
+    "codename": "hoa_loc"
+  },
+  {
+    "code": "29737",
+    "name": "Phú Lộc",
+    "name_en": "Phu Loc",
+    "full_name": "Xã Phú Lộc",
+    "full_name_en": "Phu Loc Commune",
+    "type": "xã",
+    "district_code": "860",
+    "codename": "phu_loc"
+  },
+  {
+    "code": "29740",
+    "name": "Song Phú",
+    "name_en": "Song Phu",
+    "full_name": "Xã Song Phú",
+    "full_name_en": "Song Phu Commune",
+    "type": "xã",
+    "district_code": "860",
+    "codename": "song_phu"
+  },
+  {
+    "code": "29743",
+    "name": "Hòa Hiệp",
+    "name_en": "Hoa Hiep",
+    "full_name": "Xã Hòa Hiệp",
+    "full_name_en": "Hoa Hiep Commune",
+    "type": "xã",
+    "district_code": "860",
+    "codename": "hoa_hiep"
+  },
+  {
+    "code": "29746",
+    "name": "Mỹ Lộc",
+    "name_en": "My Loc",
+    "full_name": "Xã Mỹ Lộc",
+    "full_name_en": "My Loc Commune",
+    "type": "xã",
+    "district_code": "860",
+    "codename": "my_loc"
+  },
+  {
+    "code": "29749",
+    "name": "Tân Phú",
+    "name_en": "Tan Phu",
+    "full_name": "Xã Tân Phú",
+    "full_name_en": "Tan Phu Commune",
+    "type": "xã",
+    "district_code": "860",
+    "codename": "tan_phu"
+  },
+  {
+    "code": "29752",
+    "name": "Long Phú",
+    "name_en": "Long Phu",
+    "full_name": "Xã Long Phú",
+    "full_name_en": "Long Phu Commune",
+    "type": "xã",
+    "district_code": "860",
+    "codename": "long_phu"
+  },
+  {
+    "code": "29755",
+    "name": "Mỹ Thạnh Trung",
+    "name_en": "My Thanh Trung",
+    "full_name": "Xã Mỹ Thạnh Trung",
+    "full_name_en": "My Thanh Trung Commune",
+    "type": "xã",
+    "district_code": "860",
+    "codename": "my_thanh_trung"
+  },
+  {
+    "code": "29761",
+    "name": "Loan Mỹ",
+    "name_en": "Loan My",
+    "full_name": "Xã Loan Mỹ",
+    "full_name_en": "Loan My Commune",
+    "type": "xã",
+    "district_code": "860",
+    "codename": "loan_my"
+  },
+  {
+    "code": "29764",
+    "name": "Ngãi Tứ",
+    "name_en": "Ngai Tu",
+    "full_name": "Xã Ngãi Tứ",
+    "full_name_en": "Ngai Tu Commune",
+    "type": "xã",
+    "district_code": "860",
+    "codename": "ngai_tu"
+  },
+  {
+    "code": "29767",
+    "name": "Bình Ninh",
+    "name_en": "Binh Ninh",
+    "full_name": "Xã Bình Ninh",
+    "full_name_en": "Binh Ninh Commune",
+    "type": "xã",
+    "district_code": "860",
+    "codename": "binh_ninh"
+  }
+]

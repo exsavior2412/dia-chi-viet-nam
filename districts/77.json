@@ -1,0 +1,72 @@
+[
+  {
+    "code": "747",
+    "name": "Vũng Tàu",
+    "name_en": "Vung Tau",
+    "full_name": "Thành phố Vũng Tàu",
+    "full_name_en": "Vung Tau City",
+    "type": "thành phố",
+    "province_code": "77",
+    "codename": "vung_tau"
+  },
+  {
+    "code": "748",
+    "name": "Bà Rịa",
+    "name_en": "Ba Ria",
+    "full_name": "Thành phố Bà Rịa",
+    "full_name_en": "Ba Ria City",
+    "type": "thành phố",
+    "province_code": "77",
+    "codename": "ba_ria"
+  },
+  {
+    "code": "750",
+    "name": "Châu Đức",
+    "name_en": "Chau Duc",
+    "full_name": "Huyện Châu Đức",
+    "full_name_en": "Chau Duc District",
+    "type": "huyện",
+    "province_code": "77",
+    "codename": "chau_duc"
+  },
+  {
+    "code": "751",
+    "name": "Xuyên Mộc",
+    "name_en": "Xuyen Moc",
+    "full_name": "Huyện Xuyên Mộc",
+    "full_name_en": "Xuyen Moc District",
+    "type": "huyện",
+    "province_code": "77",
+    "codename": "xuyen_moc"
+  },
+  {
+    "code": "753",
+    "name": "Long Đất",
+    "name_en": "Long Dat",
+    "full_name": "Huyện Long Đất",
+    "full_name_en": "Long Dat District",
+    "type": "huyện",
+    "province_code": "77",
+    "codename": "long_dat"
+  },
+  {
+    "code": "754",
+    "name": "Phú Mỹ",
+    "name_en": "Phu My",
+    "full_name": "Thành phố Phú Mỹ",
+    "full_name_en": "Phu My City",
+    "type": "thành phố",
+    "province_code": "77",
+    "codename": "phu_my"
+  },
+  {
+    "code": "755",
+    "name": "Côn Đảo",
+    "name_en": "Con Dao",
+    "full_name": "Huyện Côn Đảo",
+    "full_name_en": "Con Dao District",
+    "type": "huyện",
+    "province_code": "77",
+    "codename": "con_dao"
+  }
+]

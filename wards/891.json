@@ -1,0 +1,152 @@
+[
+  {
+    "code": "30544",
+    "name": "Tri Tôn",
+    "name_en": "Tri Ton",
+    "full_name": "Thị trấn Tri Tôn",
+    "full_name_en": "Tri Ton Township",
+    "type": "thị trấn",
+    "district_code": "891",
+    "codename": "tri_ton"
+  },
+  {
+    "code": "30547",
+    "name": "Ba Chúc",
+    "name_en": "Ba Chuc",
+    "full_name": "Thị trấn Ba Chúc",
+    "full_name_en": "Ba Chuc Township",
+    "type": "thị trấn",
+    "district_code": "891",
+    "codename": "ba_chuc"
+  },
+  {
+    "code": "30550",
+    "name": "Lạc Quới",
+    "name_en": "Lac Quoi",
+    "full_name": "Xã Lạc Quới",
+    "full_name_en": "Lac Quoi Commune",
+    "type": "xã",
+    "district_code": "891",
+    "codename": "lac_quoi"
+  },
+  {
+    "code": "30553",
+    "name": "Lê Trì",
+    "name_en": "Le Tri",
+    "full_name": "Xã Lê Trì",
+    "full_name_en": "Le Tri Commune",
+    "type": "xã",
+    "district_code": "891",
+    "codename": "le_tri"
+  },
+  {
+    "code": "30556",
+    "name": "Vĩnh Gia",
+    "name_en": "Vinh Gia",
+    "full_name": "Xã Vĩnh Gia",
+    "full_name_en": "Vinh Gia Commune",
+    "type": "xã",
+    "district_code": "891",
+    "codename": "vinh_gia"
+  },
+  {
+    "code": "30559",
+    "name": "Vĩnh Phước",
+    "name_en": "Vinh Phuoc",
+    "full_name": "Xã Vĩnh Phước",
+    "full_name_en": "Vinh Phuoc Commune",
+    "type": "xã",
+    "district_code": "891",
+    "codename": "vinh_phuoc"
+  },
+  {
+    "code": "30562",
+    "name": "Châu Lăng",
+    "name_en": "Chau Lang",
+    "full_name": "Xã Châu Lăng",
+    "full_name_en": "Chau Lang Commune",
+    "type": "xã",
+    "district_code": "891",
+    "codename": "chau_lang"
+  },
+  {
+    "code": "30565",
+    "name": "Lương Phi",
+    "name_en": "Luong Phi",
+    "full_name": "Xã Lương Phi",
+    "full_name_en": "Luong Phi Commune",
+    "type": "xã",
+    "district_code": "891",
+    "codename": "luong_phi"
+  },
+  {
+    "code": "30568",
+    "name": "Lương An Trà",
+    "name_en": "Luong An Tra",
+    "full_name": "Xã Lương An Trà",
+    "full_name_en": "Luong An Tra Commune",
+    "type": "xã",
+    "district_code": "891",
+    "codename": "luong_an_tra"
+  },
+  {
+    "code": "30571",
+    "name": "Tà Đảnh",
+    "name_en": "Ta Danh",
+    "full_name": "Xã Tà Đảnh",
+    "full_name_en": "Ta Danh Commune",
+    "type": "xã",
+    "district_code": "891",
+    "codename": "ta_danh"
+  },
+  {
+    "code": "30574",
+    "name": "Núi Tô",
+    "name_en": "Nui To",
+    "full_name": "Xã Núi Tô",
+    "full_name_en": "Nui To Commune",
+    "type": "xã",
+    "district_code": "891",
+    "codename": "nui_to"
+  },
+  {
+    "code": "30577",
+    "name": "An Tức",
+    "name_en": "An Tuc",
+    "full_name": "Xã An Tức",
+    "full_name_en": "An Tuc Commune",
+    "type": "xã",
+    "district_code": "891",
+    "codename": "an_tuc"
+  },
+  {
+    "code": "30580",
+    "name": "Cô Tô",
+    "name_en": "Co To",
+    "full_name": "Thị trấn Cô Tô",
+    "full_name_en": "Co To Township",
+    "type": "thị trấn",
+    "district_code": "891",
+    "codename": "co_to"
+  },
+  {
+    "code": "30583",
+    "name": "Tân Tuyến",
+    "name_en": "Tan Tuyen",
+    "full_name": "Xã Tân Tuyến",
+    "full_name_en": "Tan Tuyen Commune",
+    "type": "xã",
+    "district_code": "891",
+    "codename": "tan_tuyen"
+  },
+  {
+    "code": "30586",
+    "name": "Ô Lâm",
+    "name_en": "O Lam",
+    "full_name": "Xã Ô Lâm",
+    "full_name_en": "O Lam Commune",
+    "type": "xã",
+    "district_code": "891",
+    "codename": "o_lam"
+  }
+]

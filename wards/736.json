@@ -1,0 +1,142 @@
+[
+  {
+    "code": "26206",
+    "name": "Định Quán",
+    "name_en": "Dinh Quan",
+    "full_name": "Thị trấn Định Quán",
+    "full_name_en": "Dinh Quan Township",
+    "type": "thị trấn",
+    "district_code": "736",
+    "codename": "dinh_quan"
+  },
+  {
+    "code": "26209",
+    "name": "Thanh Sơn",
+    "name_en": "Thanh Son",
+    "full_name": "Xã Thanh Sơn",
+    "full_name_en": "Thanh Son Commune",
+    "type": "xã",
+    "district_code": "736",
+    "codename": "thanh_son"
+  },
+  {
+    "code": "26212",
+    "name": "Phú Tân",
+    "name_en": "Phu Tan",
+    "full_name": "Xã Phú Tân",
+    "full_name_en": "Phu Tan Commune",
+    "type": "xã",
+    "district_code": "736",
+    "codename": "phu_tan"
+  },
+  {
+    "code": "26215",
+    "name": "Phú Vinh",
+    "name_en": "Phu Vinh",
+    "full_name": "Xã Phú Vinh",
+    "full_name_en": "Phu Vinh Commune",
+    "type": "xã",
+    "district_code": "736",
+    "codename": "phu_vinh"
+  },
+  {
+    "code": "26218",
+    "name": "Phú Lợi",
+    "name_en": "Phu Loi",
+    "full_name": "Xã Phú Lợi",
+    "full_name_en": "Phu Loi Commune",
+    "type": "xã",
+    "district_code": "736",
+    "codename": "phu_loi"
+  },
+  {
+    "code": "26221",
+    "name": "Phú Hòa",
+    "name_en": "Phu Hoa",
+    "full_name": "Xã Phú Hòa",
+    "full_name_en": "Phu Hoa Commune",
+    "type": "xã",
+    "district_code": "736",
+    "codename": "phu_hoa"
+  },
+  {
+    "code": "26224",
+    "name": "Ngọc Định",
+    "name_en": "Ngoc Dinh",
+    "full_name": "Xã Ngọc Định",
+    "full_name_en": "Ngoc Dinh Commune",
+    "type": "xã",
+    "district_code": "736",
+    "codename": "ngoc_dinh"
+  },
+  {
+    "code": "26227",
+    "name": "La Ngà",
+    "name_en": "La Nga",
+    "full_name": "Xã La Ngà",
+    "full_name_en": "La Nga Commune",
+    "type": "xã",
+    "district_code": "736",
+    "codename": "la_nga"
+  },
+  {
+    "code": "26230",
+    "name": "Gia Canh",
+    "name_en": "Gia Canh",
+    "full_name": "Xã Gia Canh",
+    "full_name_en": "Gia Canh Commune",
+    "type": "xã",
+    "district_code": "736",
+    "codename": "gia_canh"
+  },
+  {
+    "code": "26233",
+    "name": "Phú Ngọc",
+    "name_en": "Phu Ngoc",
+    "full_name": "Xã Phú Ngọc",
+    "full_name_en": "Phu Ngoc Commune",
+    "type": "xã",
+    "district_code": "736",
+    "codename": "phu_ngoc"
+  },
+  {
+    "code": "26236",
+    "name": "Phú Cường",
+    "name_en": "Phu Cuong",
+    "full_name": "Xã Phú Cường",
+    "full_name_en": "Phu Cuong Commune",
+    "type": "xã",
+    "district_code": "736",
+    "codename": "phu_cuong"
+  },
+  {
+    "code": "26239",
+    "name": "Túc Trưng",
+    "name_en": "Tuc Trung",
+    "full_name": "Xã Túc Trưng",
+    "full_name_en": "Tuc Trung Commune",
+    "type": "xã",
+    "district_code": "736",
+    "codename": "tuc_trung"
+  },
+  {
+    "code": "26242",
+    "name": "Phú Túc",
+    "name_en": "Phu Tuc",
+    "full_name": "Xã Phú Túc",
+    "full_name_en": "Phu Tuc Commune",
+    "type": "xã",
+    "district_code": "736",
+    "codename": "phu_tuc"
+  },
+  {
+    "code": "26245",
+    "name": "Suối Nho",
+    "name_en": "Suoi Nho",
+    "full_name": "Xã Suối Nho",
+    "full_name_en": "Suoi Nho Commune",
+    "type": "xã",
+    "district_code": "736",
+    "codename": "suoi_nho"
+  }
+]

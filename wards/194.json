@@ -1,0 +1,162 @@
+[
+  {
+    "code": "06709",
+    "name": "Ka Long",
+    "name_en": "Ka Long",
+    "full_name": "Phường Ka Long",
+    "full_name_en": "Ka Long Ward",
+    "type": "phường",
+    "district_code": "194",
+    "codename": "ka_long"
+  },
+  {
+    "code": "06712",
+    "name": "Trần Phú",
+    "name_en": "Tran Phu",
+    "full_name": "Phường Trần Phú",
+    "full_name_en": "Tran Phu Ward",
+    "type": "phường",
+    "district_code": "194",
+    "codename": "tran_phu"
+  },
+  {
+    "code": "06715",
+    "name": "Ninh Dương",
+    "name_en": "Ninh Duong",
+    "full_name": "Phường Ninh Dương",
+    "full_name_en": "Ninh Duong Ward",
+    "type": "phường",
+    "district_code": "194",
+    "codename": "ninh_duong"
+  },
+  {
+    "code": "06721",
+    "name": "Trà Cổ",
+    "name_en": "Tra Co",
+    "full_name": "Phường Trà Cổ",
+    "full_name_en": "Tra Co Ward",
+    "type": "phường",
+    "district_code": "194",
+    "codename": "tra_co"
+  },
+  {
+    "code": "06724",
+    "name": "Hải Sơn",
+    "name_en": "Hai Son",
+    "full_name": "Xã Hải Sơn",
+    "full_name_en": "Hai Son Commune",
+    "type": "xã",
+    "district_code": "194",
+    "codename": "hai_son"
+  },
+  {
+    "code": "06727",
+    "name": "Bắc Sơn",
+    "name_en": "Bac Son",
+    "full_name": "Xã Bắc Sơn",
+    "full_name_en": "Bac Son Commune",
+    "type": "xã",
+    "district_code": "194",
+    "codename": "bac_son"
+  },
+  {
+    "code": "06730",
+    "name": "Hải Đông",
+    "name_en": "Hai Dong",
+    "full_name": "Xã Hải Đông",
+    "full_name_en": "Hai Dong Commune",
+    "type": "xã",
+    "district_code": "194",
+    "codename": "hai_dong"
+  },
+  {
+    "code": "06733",
+    "name": "Hải Tiến",
+    "name_en": "Hai Tien",
+    "full_name": "Xã Hải Tiến",
+    "full_name_en": "Hai Tien Commune",
+    "type": "xã",
+    "district_code": "194",
+    "codename": "hai_tien"
+  },
+  {
+    "code": "06736",
+    "name": "Hải Yên",
+    "name_en": "Hai Yen",
+    "full_name": "Phường Hải Yên",
+    "full_name_en": "Hai Yen Ward",
+    "type": "phường",
+    "district_code": "194",
+    "codename": "hai_yen"
+  },
+  {
+    "code": "06739",
+    "name": "Quảng Nghĩa",
+    "name_en": "Quang Nghia",
+    "full_name": "Xã Quảng Nghĩa",
+    "full_name_en": "Quang Nghia Commune",
+    "type": "xã",
+    "district_code": "194",
+    "codename": "quang_nghia"
+  },
+  {
+    "code": "06742",
+    "name": "Hải Hoà",
+    "name_en": "Hai Hoa",
+    "full_name": "Phường Hải Hoà",
+    "full_name_en": "Hai Hoa Ward",
+    "type": "phường",
+    "district_code": "194",
+    "codename": "hai_hoa"
+  },
+  {
+    "code": "06745",
+    "name": "Hải Xuân",
+    "name_en": "Hai Xuan",
+    "full_name": "Xã Hải Xuân",
+    "full_name_en": "Hai Xuan Commune",
+    "type": "xã",
+    "district_code": "194",
+    "codename": "hai_xuan"
+  },
+  {
+    "code": "06748",
+    "name": "Vạn Ninh",
+    "name_en": "Van Ninh",
+    "full_name": "Xã Vạn Ninh",
+    "full_name_en": "Van Ninh Commune",
+    "type": "xã",
+    "district_code": "194",
+    "codename": "van_ninh"
+  },
+  {
+    "code": "06751",
+    "name": "Bình Ngọc",
+    "name_en": "Binh Ngoc",
+    "full_name": "Phường Bình Ngọc",
+    "full_name_en": "Binh Ngoc Ward",
+    "type": "phường",
+    "district_code": "194",
+    "codename": "binh_ngoc"
+  },
+  {
+    "code": "06754",
+    "name": "Vĩnh Trung",
+    "name_en": "Vinh Trung",
+    "full_name": "Xã Vĩnh Trung",
+    "full_name_en": "Vinh Trung Commune",
+    "type": "xã",
+    "district_code": "194",
+    "codename": "vinh_trung"
+  },
+  {
+    "code": "06757",
+    "name": "Vĩnh Thực",
+    "name_en": "Vinh Thuc",
+    "full_name": "Xã Vĩnh Thực",
+    "full_name_en": "Vinh Thuc Commune",
+    "type": "xã",
+    "district_code": "194",
+    "codename": "vinh_thuc"
+  }
+]

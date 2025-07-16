@@ -1,0 +1,152 @@
+[
+  {
+    "code": "05716",
+    "name": "Đình Cả",
+    "name_en": "Dinh Ca",
+    "full_name": "Thị trấn Đình Cả",
+    "full_name_en": "Dinh Ca Township",
+    "type": "thị trấn",
+    "district_code": "170",
+    "codename": "dinh_ca"
+  },
+  {
+    "code": "05719",
+    "name": "Sảng Mộc",
+    "name_en": "Sang Moc",
+    "full_name": "Xã Sảng Mộc",
+    "full_name_en": "Sang Moc Commune",
+    "type": "xã",
+    "district_code": "170",
+    "codename": "sang_moc"
+  },
+  {
+    "code": "05722",
+    "name": "Nghinh Tường",
+    "name_en": "Nghinh Tuong",
+    "full_name": "Xã Nghinh Tường",
+    "full_name_en": "Nghinh Tuong Commune",
+    "type": "xã",
+    "district_code": "170",
+    "codename": "nghinh_tuong"
+  },
+  {
+    "code": "05725",
+    "name": "Thần Xa",
+    "name_en": "Than Xa",
+    "full_name": "Xã Thần Xa",
+    "full_name_en": "Than Xa Commune",
+    "type": "xã",
+    "district_code": "170",
+    "codename": "than_xa"
+  },
+  {
+    "code": "05728",
+    "name": "Vũ Chấn",
+    "name_en": "Vu Chan",
+    "full_name": "Xã Vũ Chấn",
+    "full_name_en": "Vu Chan Commune",
+    "type": "xã",
+    "district_code": "170",
+    "codename": "vu_chan"
+  },
+  {
+    "code": "05731",
+    "name": "Thượng Nung",
+    "name_en": "Thuong Nung",
+    "full_name": "Xã Thượng Nung",
+    "full_name_en": "Thuong Nung Commune",
+    "type": "xã",
+    "district_code": "170",
+    "codename": "thuong_nung"
+  },
+  {
+    "code": "05734",
+    "name": "Phú Thượng",
+    "name_en": "Phu Thuong",
+    "full_name": "Xã Phú Thượng",
+    "full_name_en": "Phu Thuong Commune",
+    "type": "xã",
+    "district_code": "170",
+    "codename": "phu_thuong"
+  },
+  {
+    "code": "05737",
+    "name": "Cúc Đường",
+    "name_en": "Cuc Duong",
+    "full_name": "Xã Cúc Đường",
+    "full_name_en": "Cuc Duong Commune",
+    "type": "xã",
+    "district_code": "170",
+    "codename": "cuc_duong"
+  },
+  {
+    "code": "05740",
+    "name": "La Hiên",
+    "name_en": "La Hien",
+    "full_name": "Xã La Hiên",
+    "full_name_en": "La Hien Commune",
+    "type": "xã",
+    "district_code": "170",
+    "codename": "la_hien"
+  },
+  {
+    "code": "05743",
+    "name": "Lâu Thượng",
+    "name_en": "Lau Thuong",
+    "full_name": "Xã Lâu Thượng",
+    "full_name_en": "Lau Thuong Commune",
+    "type": "xã",
+    "district_code": "170",
+    "codename": "lau_thuong"
+  },
+  {
+    "code": "05746",
+    "name": "Tràng Xá",
+    "name_en": "Trang Xa",
+    "full_name": "Xã Tràng Xá",
+    "full_name_en": "Trang Xa Commune",
+    "type": "xã",
+    "district_code": "170",
+    "codename": "trang_xa"
+  },
+  {
+    "code": "05749",
+    "name": "Phương Giao",
+    "name_en": "Phuong Giao",
+    "full_name": "Xã Phương Giao",
+    "full_name_en": "Phuong Giao Commune",
+    "type": "xã",
+    "district_code": "170",
+    "codename": "phuong_giao"
+  },
+  {
+    "code": "05752",
+    "name": "Liên Minh",
+    "name_en": "Lien Minh",
+    "full_name": "Xã Liên Minh",
+    "full_name_en": "Lien Minh Commune",
+    "type": "xã",
+    "district_code": "170",
+    "codename": "lien_minh"
+  },
+  {
+    "code": "05755",
+    "name": "Dân Tiến",
+    "name_en": "Dan Tien",
+    "full_name": "Xã Dân Tiến",
+    "full_name_en": "Dan Tien Commune",
+    "type": "xã",
+    "district_code": "170",
+    "codename": "dan_tien"
+  },
+  {
+    "code": "05758",
+    "name": "Bình Long",
+    "name_en": "Binh Long",
+    "full_name": "Xã Bình Long",
+    "full_name_en": "Binh Long Commune",
+    "type": "xã",
+    "district_code": "170",
+    "codename": "binh_long"
+  }
+]

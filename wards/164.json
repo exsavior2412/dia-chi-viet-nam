@@ -1,0 +1,322 @@
+[
+  {
+    "code": "05431",
+    "name": "Quán Triều",
+    "name_en": "Quan Trieu",
+    "full_name": "Phường Quán Triều",
+    "full_name_en": "Quan Trieu Ward",
+    "type": "phường",
+    "district_code": "164",
+    "codename": "quan_trieu"
+  },
+  {
+    "code": "05434",
+    "name": "Quang Vinh",
+    "name_en": "Quang Vinh",
+    "full_name": "Phường Quang Vinh",
+    "full_name_en": "Quang Vinh Ward",
+    "type": "phường",
+    "district_code": "164",
+    "codename": "quang_vinh"
+  },
+  {
+    "code": "05437",
+    "name": "Túc Duyên",
+    "name_en": "Tuc Duyen",
+    "full_name": "Phường Túc Duyên",
+    "full_name_en": "Tuc Duyen Ward",
+    "type": "phường",
+    "district_code": "164",
+    "codename": "tuc_duyen"
+  },
+  {
+    "code": "05440",
+    "name": "Hoàng Văn Thụ",
+    "name_en": "Hoang Van Thu",
+    "full_name": "Phường Hoàng Văn Thụ",
+    "full_name_en": "Hoang Van Thu Ward",
+    "type": "phường",
+    "district_code": "164",
+    "codename": "hoang_van_thu"
+  },
+  {
+    "code": "05443",
+    "name": "Trưng Vương",
+    "name_en": "Trung Vuong",
+    "full_name": "Phường Trưng Vương",
+    "full_name_en": "Trung Vuong Ward",
+    "type": "phường",
+    "district_code": "164",
+    "codename": "trung_vuong"
+  },
+  {
+    "code": "05446",
+    "name": "Quang Trung",
+    "name_en": "Quang Trung",
+    "full_name": "Phường Quang Trung",
+    "full_name_en": "Quang Trung Ward",
+    "type": "phường",
+    "district_code": "164",
+    "codename": "quang_trung"
+  },
+  {
+    "code": "05449",
+    "name": "Phan Đình Phùng",
+    "name_en": "Phan Dinh Phung",
+    "full_name": "Phường Phan Đình Phùng",
+    "full_name_en": "Phan Dinh Phung Ward",
+    "type": "phường",
+    "district_code": "164",
+    "codename": "phan_dinh_phung"
+  },
+  {
+    "code": "05452",
+    "name": "Tân Thịnh",
+    "name_en": "Tan Thinh",
+    "full_name": "Phường Tân Thịnh",
+    "full_name_en": "Tan Thinh Ward",
+    "type": "phường",
+    "district_code": "164",
+    "codename": "tan_thinh"
+  },
+  {
+    "code": "05455",
+    "name": "Thịnh Đán",
+    "name_en": "Thinh Dan",
+    "full_name": "Phường Thịnh Đán",
+    "full_name_en": "Thinh Dan Ward",
+    "type": "phường",
+    "district_code": "164",
+    "codename": "thinh_dan"
+  },
+  {
+    "code": "05458",
+    "name": "Đồng Quang",
+    "name_en": "Dong Quang",
+    "full_name": "Phường Đồng Quang",
+    "full_name_en": "Dong Quang Ward",
+    "type": "phường",
+    "district_code": "164",
+    "codename": "dong_quang"
+  },
+  {
+    "code": "05461",
+    "name": "Gia Sàng",
+    "name_en": "Gia Sang",
+    "full_name": "Phường Gia Sàng",
+    "full_name_en": "Gia Sang Ward",
+    "type": "phường",
+    "district_code": "164",
+    "codename": "gia_sang"
+  },
+  {
+    "code": "05464",
+    "name": "Tân Lập",
+    "name_en": "Tan Lap",
+    "full_name": "Phường Tân Lập",
+    "full_name_en": "Tan Lap Ward",
+    "type": "phường",
+    "district_code": "164",
+    "codename": "tan_lap"
+  },
+  {
+    "code": "05467",
+    "name": "Cam Giá",
+    "name_en": "Cam Gia",
+    "full_name": "Phường Cam Giá",
+    "full_name_en": "Cam Gia Ward",
+    "type": "phường",
+    "district_code": "164",
+    "codename": "cam_gia"
+  },
+  {
+    "code": "05470",
+    "name": "Phú Xá",
+    "name_en": "Phu Xa",
+    "full_name": "Phường Phú Xá",
+    "full_name_en": "Phu Xa Ward",
+    "type": "phường",
+    "district_code": "164",
+    "codename": "phu_xa"
+  },
+  {
+    "code": "05473",
+    "name": "Hương Sơn",
+    "name_en": "Huong Son",
+    "full_name": "Phường Hương Sơn",
+    "full_name_en": "Huong Son Ward",
+    "type": "phường",
+    "district_code": "164",
+    "codename": "huong_son"
+  },
+  {
+    "code": "05476",
+    "name": "Trung Thành",
+    "name_en": "Trung Thanh",
+    "full_name": "Phường Trung Thành",
+    "full_name_en": "Trung Thanh Ward",
+    "type": "phường",
+    "district_code": "164",
+    "codename": "trung_thanh"
+  },
+  {
+    "code": "05479",
+    "name": "Tân Thành",
+    "name_en": "Tan Thanh",
+    "full_name": "Phường Tân Thành",
+    "full_name_en": "Tan Thanh Ward",
+    "type": "phường",
+    "district_code": "164",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "05482",
+    "name": "Tân Long",
+    "name_en": "Tan Long",
+    "full_name": "Phường Tân Long",
+    "full_name_en": "Tan Long Ward",
+    "type": "phường",
+    "district_code": "164",
+    "codename": "tan_long"
+  },
+  {
+    "code": "05485",
+    "name": "Phúc Hà",
+    "name_en": "Phuc Ha",
+    "full_name": "Xã Phúc Hà",
+    "full_name_en": "Phuc Ha Commune",
+    "type": "xã",
+    "district_code": "164",
+    "codename": "phuc_ha"
+  },
+  {
+    "code": "05488",
+    "name": "Phúc Xuân",
+    "name_en": "Phuc Xuan",
+    "full_name": "Xã Phúc Xuân",
+    "full_name_en": "Phuc Xuan Commune",
+    "type": "xã",
+    "district_code": "164",
+    "codename": "phuc_xuan"
+  },
+  {
+    "code": "05491",
+    "name": "Quyết Thắng",
+    "name_en": "Quyet Thang",
+    "full_name": "Xã Quyết Thắng",
+    "full_name_en": "Quyet Thang Commune",
+    "type": "xã",
+    "district_code": "164",
+    "codename": "quyet_thang"
+  },
+  {
+    "code": "05494",
+    "name": "Phúc Trìu",
+    "name_en": "Phuc Triu",
+    "full_name": "Xã Phúc Trìu",
+    "full_name_en": "Phuc Triu Commune",
+    "type": "xã",
+    "district_code": "164",
+    "codename": "phuc_triu"
+  },
+  {
+    "code": "05497",
+    "name": "Thịnh Đức",
+    "name_en": "Thinh Duc",
+    "full_name": "Xã Thịnh Đức",
+    "full_name_en": "Thinh Duc Commune",
+    "type": "xã",
+    "district_code": "164",
+    "codename": "thinh_duc"
+  },
+  {
+    "code": "05500",
+    "name": "Tích Lương",
+    "name_en": "Tich Luong",
+    "full_name": "Phường Tích Lương",
+    "full_name_en": "Tich Luong Ward",
+    "type": "phường",
+    "district_code": "164",
+    "codename": "tich_luong"
+  },
+  {
+    "code": "05503",
+    "name": "Tân Cương",
+    "name_en": "Tan Cuong",
+    "full_name": "Xã Tân Cương",
+    "full_name_en": "Tan Cuong Commune",
+    "type": "xã",
+    "district_code": "164",
+    "codename": "tan_cuong"
+  },
+  {
+    "code": "05653",
+    "name": "Sơn Cẩm",
+    "name_en": "Son Cam",
+    "full_name": "Xã Sơn Cẩm",
+    "full_name_en": "Son Cam Commune",
+    "type": "xã",
+    "district_code": "164",
+    "codename": "son_cam"
+  },
+  {
+    "code": "05659",
+    "name": "Chùa Hang",
+    "name_en": "Chua Hang",
+    "full_name": "Phường Chùa Hang",
+    "full_name_en": "Chua Hang Ward",
+    "type": "phường",
+    "district_code": "164",
+    "codename": "chua_hang"
+  },
+  {
+    "code": "05695",
+    "name": "Cao Ngạn",
+    "name_en": "Cao Ngan",
+    "full_name": "Xã Cao Ngạn",
+    "full_name_en": "Cao Ngan Commune",
+    "type": "xã",
+    "district_code": "164",
+    "codename": "cao_ngan"
+  },
+  {
+    "code": "05701",
+    "name": "Linh Sơn",
+    "name_en": "Linh Son",
+    "full_name": "Xã Linh Sơn",
+    "full_name_en": "Linh Son Commune",
+    "type": "xã",
+    "district_code": "164",
+    "codename": "linh_son"
+  },
+  {
+    "code": "05710",
+    "name": "Đồng Bẩm",
+    "name_en": "Dong Bam",
+    "full_name": "Phường Đồng Bẩm",
+    "full_name_en": "Dong Bam Ward",
+    "type": "phường",
+    "district_code": "164",
+    "codename": "dong_bam"
+  },
+  {
+    "code": "05713",
+    "name": "Huống Thượng",
+    "name_en": "Huong Thuong",
+    "full_name": "Xã Huống Thượng",
+    "full_name_en": "Huong Thuong Commune",
+    "type": "xã",
+    "district_code": "164",
+    "codename": "huong_thuong"
+  },
+  {
+    "code": "05914",
+    "name": "Đồng Liên",
+    "name_en": "Dong Lien",
+    "full_name": "Xã Đồng Liên",
+    "full_name_en": "Dong Lien Commune",
+    "type": "xã",
+    "district_code": "164",
+    "codename": "dong_lien"
+  }
+]

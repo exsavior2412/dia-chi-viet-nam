@@ -1,0 +1,222 @@
+[
+  {
+    "code": "03478",
+    "name": "Sìn Hồ",
+    "name_en": "Sin Ho",
+    "full_name": "Thị trấn Sìn Hồ",
+    "full_name_en": "Sin Ho Township",
+    "type": "thị trấn",
+    "district_code": "108",
+    "codename": "sin_ho"
+  },
+  {
+    "code": "03487",
+    "name": "Chăn Nưa",
+    "name_en": "Chan Nua",
+    "full_name": "Xã Chăn Nưa",
+    "full_name_en": "Chan Nua Commune",
+    "type": "xã",
+    "district_code": "108",
+    "codename": "chan_nua"
+  },
+  {
+    "code": "03493",
+    "name": "Pa Tần",
+    "name_en": "Pa Tan",
+    "full_name": "Xã Pa Tần",
+    "full_name_en": "Pa Tan Commune",
+    "type": "xã",
+    "district_code": "108",
+    "codename": "pa_tan"
+  },
+  {
+    "code": "03496",
+    "name": "Phìn Hồ",
+    "name_en": "Phin Ho",
+    "full_name": "Xã Phìn Hồ",
+    "full_name_en": "Phin Ho Commune",
+    "type": "xã",
+    "district_code": "108",
+    "codename": "phin_ho"
+  },
+  {
+    "code": "03499",
+    "name": "Hồng Thu",
+    "name_en": "Hong Thu",
+    "full_name": "Xã Hồng Thu",
+    "full_name_en": "Hong Thu Commune",
+    "type": "xã",
+    "district_code": "108",
+    "codename": "hong_thu"
+  },
+  {
+    "code": "03505",
+    "name": "Phăng Sô Lin",
+    "name_en": "Phang So Lin",
+    "full_name": "Xã Phăng Sô Lin",
+    "full_name_en": "Phang So Lin Commune",
+    "type": "xã",
+    "district_code": "108",
+    "codename": "phang_so_lin"
+  },
+  {
+    "code": "03508",
+    "name": "Ma Quai",
+    "name_en": "Ma Quai",
+    "full_name": "Xã Ma Quai",
+    "full_name_en": "Ma Quai Commune",
+    "type": "xã",
+    "district_code": "108",
+    "codename": "ma_quai"
+  },
+  {
+    "code": "03509",
+    "name": "Lùng Thàng",
+    "name_en": "Lung Thang",
+    "full_name": "Xã Lùng Thàng",
+    "full_name_en": "Lung Thang Commune",
+    "type": "xã",
+    "district_code": "108",
+    "codename": "lung_thang"
+  },
+  {
+    "code": "03511",
+    "name": "Tả Phìn",
+    "name_en": "Ta Phin",
+    "full_name": "Xã Tả Phìn",
+    "full_name_en": "Ta Phin Commune",
+    "type": "xã",
+    "district_code": "108",
+    "codename": "ta_phin"
+  },
+  {
+    "code": "03514",
+    "name": "Sà Dề Phìn",
+    "name_en": "Sa De Phin",
+    "full_name": "Xã Sà Dề Phìn",
+    "full_name_en": "Sa De Phin Commune",
+    "type": "xã",
+    "district_code": "108",
+    "codename": "sa_de_phin"
+  },
+  {
+    "code": "03517",
+    "name": "Nậm Tăm",
+    "name_en": "Nam Tam",
+    "full_name": "Xã Nậm Tăm",
+    "full_name_en": "Nam Tam Commune",
+    "type": "xã",
+    "district_code": "108",
+    "codename": "nam_tam"
+  },
+  {
+    "code": "03520",
+    "name": "Tả Ngảo",
+    "name_en": "Ta Ngao",
+    "full_name": "Xã Tả Ngảo",
+    "full_name_en": "Ta Ngao Commune",
+    "type": "xã",
+    "district_code": "108",
+    "codename": "ta_ngao"
+  },
+  {
+    "code": "03523",
+    "name": "Pu Sam Cáp",
+    "name_en": "Pu Sam Cap",
+    "full_name": "Xã Pu Sam Cáp",
+    "full_name_en": "Pu Sam Cap Commune",
+    "type": "xã",
+    "district_code": "108",
+    "codename": "pu_sam_cap"
+  },
+  {
+    "code": "03526",
+    "name": "Nậm Cha",
+    "name_en": "Nam Cha",
+    "full_name": "Xã Nậm Cha",
+    "full_name_en": "Nam Cha Commune",
+    "type": "xã",
+    "district_code": "108",
+    "codename": "nam_cha"
+  },
+  {
+    "code": "03527",
+    "name": "Pa Khoá",
+    "name_en": "Pa Khoa",
+    "full_name": "Xã Pa Khoá",
+    "full_name_en": "Pa Khoa Commune",
+    "type": "xã",
+    "district_code": "108",
+    "codename": "pa_khoa"
+  },
+  {
+    "code": "03529",
+    "name": "Làng Mô",
+    "name_en": "Lang Mo",
+    "full_name": "Xã Làng Mô",
+    "full_name_en": "Lang Mo Commune",
+    "type": "xã",
+    "district_code": "108",
+    "codename": "lang_mo"
+  },
+  {
+    "code": "03532",
+    "name": "Noong Hẻo",
+    "name_en": "Noong Heo",
+    "full_name": "Xã Noong Hẻo",
+    "full_name_en": "Noong Heo Commune",
+    "type": "xã",
+    "district_code": "108",
+    "codename": "noong_heo"
+  },
+  {
+    "code": "03535",
+    "name": "Nậm Mạ",
+    "name_en": "Nam Ma",
+    "full_name": "Xã Nậm Mạ",
+    "full_name_en": "Nam Ma Commune",
+    "type": "xã",
+    "district_code": "108",
+    "codename": "nam_ma"
+  },
+  {
+    "code": "03538",
+    "name": "Căn Co",
+    "name_en": "Can Co",
+    "full_name": "Xã Căn Co",
+    "full_name_en": "Can Co Commune",
+    "type": "xã",
+    "district_code": "108",
+    "codename": "can_co"
+  },
+  {
+    "code": "03541",
+    "name": "Tủa Sín Chải",
+    "name_en": "Tua Sin Chai",
+    "full_name": "Xã Tủa Sín Chải",
+    "full_name_en": "Tua Sin Chai Commune",
+    "type": "xã",
+    "district_code": "108",
+    "codename": "tua_sin_chai"
+  },
+  {
+    "code": "03544",
+    "name": "Nậm Cuổi",
+    "name_en": "Nam Cuoi",
+    "full_name": "Xã Nậm Cuổi",
+    "full_name_en": "Nam Cuoi Commune",
+    "type": "xã",
+    "district_code": "108",
+    "codename": "nam_cuoi"
+  },
+  {
+    "code": "03547",
+    "name": "Nậm Hăn",
+    "name_en": "Nam Han",
+    "full_name": "Xã Nậm Hăn",
+    "full_name_en": "Nam Han Commune",
+    "type": "xã",
+    "district_code": "108",
+    "codename": "nam_han"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "code": "30076",
+    "name": "Mỹ Thọ",
+    "name_en": "My Tho",
+    "full_name": "Thị trấn Mỹ Thọ",
+    "full_name_en": "My Tho Township",
+    "type": "thị trấn",
+    "district_code": "873",
+    "codename": "my_tho"
+  },
+  {
+    "code": "30079",
+    "name": "Gáo Giồng",
+    "name_en": "Gao Giong",
+    "full_name": "Xã Gáo Giồng",
+    "full_name_en": "Gao Giong Commune",
+    "type": "xã",
+    "district_code": "873",
+    "codename": "gao_giong"
+  },
+  {
+    "code": "30082",
+    "name": "Phương Thịnh",
+    "name_en": "Phuong Thinh",
+    "full_name": "Xã Phương Thịnh",
+    "full_name_en": "Phuong Thinh Commune",
+    "type": "xã",
+    "district_code": "873",
+    "codename": "phuong_thinh"
+  },
+  {
+    "code": "30085",
+    "name": "Ba Sao",
+    "name_en": "Ba Sao",
+    "full_name": "Xã Ba Sao",
+    "full_name_en": "Ba Sao Commune",
+    "type": "xã",
+    "district_code": "873",
+    "codename": "ba_sao"
+  },
+  {
+    "code": "30088",
+    "name": "Phong Mỹ",
+    "name_en": "Phong My",
+    "full_name": "Xã Phong Mỹ",
+    "full_name_en": "Phong My Commune",
+    "type": "xã",
+    "district_code": "873",
+    "codename": "phong_my"
+  },
+  {
+    "code": "30091",
+    "name": "Tân Nghĩa",
+    "name_en": "Tan Nghia",
+    "full_name": "Xã Tân Nghĩa",
+    "full_name_en": "Tan Nghia Commune",
+    "type": "xã",
+    "district_code": "873",
+    "codename": "tan_nghia"
+  },
+  {
+    "code": "30094",
+    "name": "Phương Trà",
+    "name_en": "Phuong Tra",
+    "full_name": "Xã Phương Trà",
+    "full_name_en": "Phuong Tra Commune",
+    "type": "xã",
+    "district_code": "873",
+    "codename": "phuong_tra"
+  },
+  {
+    "code": "30097",
+    "name": "Nhị Mỹ",
+    "name_en": "Nhi My",
+    "full_name": "Xã Nhị Mỹ",
+    "full_name_en": "Nhi My Commune",
+    "type": "xã",
+    "district_code": "873",
+    "codename": "nhi_my"
+  },
+  {
+    "code": "30100",
+    "name": "Mỹ Thọ",
+    "name_en": "My Tho",
+    "full_name": "Xã Mỹ Thọ",
+    "full_name_en": "My Tho Commune",
+    "type": "xã",
+    "district_code": "873",
+    "codename": "my_tho"
+  },
+  {
+    "code": "30103",
+    "name": "Tân Hội Trung",
+    "name_en": "Tan Hoi Trung",
+    "full_name": "Xã Tân Hội Trung",
+    "full_name_en": "Tan Hoi Trung Commune",
+    "type": "xã",
+    "district_code": "873",
+    "codename": "tan_hoi_trung"
+  },
+  {
+    "code": "30106",
+    "name": "An Bình",
+    "name_en": "An Binh",
+    "full_name": "Xã An Bình",
+    "full_name_en": "An Binh Commune",
+    "type": "xã",
+    "district_code": "873",
+    "codename": "an_binh"
+  },
+  {
+    "code": "30109",
+    "name": "Mỹ Hội",
+    "name_en": "My Hoi",
+    "full_name": "Xã Mỹ Hội",
+    "full_name_en": "My Hoi Commune",
+    "type": "xã",
+    "district_code": "873",
+    "codename": "my_hoi"
+  },
+  {
+    "code": "30112",
+    "name": "Mỹ Hiệp",
+    "name_en": "My Hiep",
+    "full_name": "Xã Mỹ Hiệp",
+    "full_name_en": "My Hiep Commune",
+    "type": "xã",
+    "district_code": "873",
+    "codename": "my_hiep"
+  },
+  {
+    "code": "30115",
+    "name": "Mỹ Long",
+    "name_en": "My Long",
+    "full_name": "Xã Mỹ Long",
+    "full_name_en": "My Long Commune",
+    "type": "xã",
+    "district_code": "873",
+    "codename": "my_long"
+  },
+  {
+    "code": "30118",
+    "name": "Bình Hàng Trung",
+    "name_en": "Binh Hang Trung",
+    "full_name": "Xã Bình Hàng Trung",
+    "full_name_en": "Binh Hang Trung Commune",
+    "type": "xã",
+    "district_code": "873",
+    "codename": "binh_hang_trung"
+  },
+  {
+    "code": "30121",
+    "name": "Mỹ Xương",
+    "name_en": "My Xuong",
+    "full_name": "Xã Mỹ Xương",
+    "full_name_en": "My Xuong Commune",
+    "type": "xã",
+    "district_code": "873",
+    "codename": "my_xuong"
+  },
+  {
+    "code": "30124",
+    "name": "Bình Hàng Tây",
+    "name_en": "Binh Hang Tay",
+    "full_name": "Xã Bình Hàng Tây",
+    "full_name_en": "Binh Hang Tay Commune",
+    "type": "xã",
+    "district_code": "873",
+    "codename": "binh_hang_tay"
+  },
+  {
+    "code": "30127",
+    "name": "Bình Thạnh",
+    "name_en": "Binh Thanh",
+    "full_name": "Xã Bình Thạnh",
+    "full_name_en": "Binh Thanh Commune",
+    "type": "xã",
+    "district_code": "873",
+    "codename": "binh_thanh"
+  }
+]

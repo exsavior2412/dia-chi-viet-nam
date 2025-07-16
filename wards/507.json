@@ -1,0 +1,202 @@
+[
+  {
+    "code": "20551",
+    "name": "Vĩnh Điện",
+    "name_en": "Vinh Dien",
+    "full_name": "Phường Vĩnh Điện",
+    "full_name_en": "Vinh Dien Ward",
+    "type": "phường",
+    "district_code": "507",
+    "codename": "vinh_dien"
+  },
+  {
+    "code": "20554",
+    "name": "Điện Tiến",
+    "name_en": "Dien Tien",
+    "full_name": "Xã Điện Tiến",
+    "full_name_en": "Dien Tien Commune",
+    "type": "xã",
+    "district_code": "507",
+    "codename": "dien_tien"
+  },
+  {
+    "code": "20557",
+    "name": "Điện Hòa",
+    "name_en": "Dien Hoa",
+    "full_name": "Xã Điện Hòa",
+    "full_name_en": "Dien Hoa Commune",
+    "type": "xã",
+    "district_code": "507",
+    "codename": "dien_hoa"
+  },
+  {
+    "code": "20560",
+    "name": "Điện Thắng Bắc",
+    "name_en": "Dien Thang Bac",
+    "full_name": "Phường Điện Thắng Bắc",
+    "full_name_en": "Dien Thang Bac Ward",
+    "type": "phường",
+    "district_code": "507",
+    "codename": "dien_thang_bac"
+  },
+  {
+    "code": "20561",
+    "name": "Điện Thắng Trung",
+    "name_en": "Dien Thang Trung",
+    "full_name": "Phường Điện Thắng Trung",
+    "full_name_en": "Dien Thang Trung Ward",
+    "type": "phường",
+    "district_code": "507",
+    "codename": "dien_thang_trung"
+  },
+  {
+    "code": "20562",
+    "name": "Điện Thắng Nam",
+    "name_en": "Dien Thang Nam",
+    "full_name": "Phường Điện Thắng Nam",
+    "full_name_en": "Dien Thang Nam Ward",
+    "type": "phường",
+    "district_code": "507",
+    "codename": "dien_thang_nam"
+  },
+  {
+    "code": "20563",
+    "name": "Điện Ngọc",
+    "name_en": "Dien Ngoc",
+    "full_name": "Phường Điện Ngọc",
+    "full_name_en": "Dien Ngoc Ward",
+    "type": "phường",
+    "district_code": "507",
+    "codename": "dien_ngoc"
+  },
+  {
+    "code": "20566",
+    "name": "Điện Hồng",
+    "name_en": "Dien Hong",
+    "full_name": "Xã Điện Hồng",
+    "full_name_en": "Dien Hong Commune",
+    "type": "xã",
+    "district_code": "507",
+    "codename": "dien_hong"
+  },
+  {
+    "code": "20569",
+    "name": "Điện Thọ",
+    "name_en": "Dien Tho",
+    "full_name": "Xã Điện Thọ",
+    "full_name_en": "Dien Tho Commune",
+    "type": "xã",
+    "district_code": "507",
+    "codename": "dien_tho"
+  },
+  {
+    "code": "20572",
+    "name": "Điện Phước",
+    "name_en": "Dien Phuoc",
+    "full_name": "Xã Điện Phước",
+    "full_name_en": "Dien Phuoc Commune",
+    "type": "xã",
+    "district_code": "507",
+    "codename": "dien_phuoc"
+  },
+  {
+    "code": "20575",
+    "name": "Điện An",
+    "name_en": "Dien An",
+    "full_name": "Phường Điện An",
+    "full_name_en": "Dien An Ward",
+    "type": "phường",
+    "district_code": "507",
+    "codename": "dien_an"
+  },
+  {
+    "code": "20578",
+    "name": "Điện Nam Bắc",
+    "name_en": "Dien Nam Bac",
+    "full_name": "Phường Điện Nam Bắc",
+    "full_name_en": "Dien Nam Bac Ward",
+    "type": "phường",
+    "district_code": "507",
+    "codename": "dien_nam_bac"
+  },
+  {
+    "code": "20579",
+    "name": "Điện Nam Trung",
+    "name_en": "Dien Nam Trung",
+    "full_name": "Phường Điện Nam Trung",
+    "full_name_en": "Dien Nam Trung Ward",
+    "type": "phường",
+    "district_code": "507",
+    "codename": "dien_nam_trung"
+  },
+  {
+    "code": "20580",
+    "name": "Điện Nam Đông",
+    "name_en": "Dien Nam Dong",
+    "full_name": "Phường Điện Nam Đông",
+    "full_name_en": "Dien Nam Dong Ward",
+    "type": "phường",
+    "district_code": "507",
+    "codename": "dien_nam_dong"
+  },
+  {
+    "code": "20581",
+    "name": "Điện Dương",
+    "name_en": "Dien Duong",
+    "full_name": "Phường Điện Dương",
+    "full_name_en": "Dien Duong Ward",
+    "type": "phường",
+    "district_code": "507",
+    "codename": "dien_duong"
+  },
+  {
+    "code": "20584",
+    "name": "Điện Quang",
+    "name_en": "Dien Quang",
+    "full_name": "Xã Điện Quang",
+    "full_name_en": "Dien Quang Commune",
+    "type": "xã",
+    "district_code": "507",
+    "codename": "dien_quang"
+  },
+  {
+    "code": "20587",
+    "name": "Điện Trung",
+    "name_en": "Dien Trung",
+    "full_name": "Xã Điện Trung",
+    "full_name_en": "Dien Trung Commune",
+    "type": "xã",
+    "district_code": "507",
+    "codename": "dien_trung"
+  },
+  {
+    "code": "20590",
+    "name": "Điện Phong",
+    "name_en": "Dien Phong",
+    "full_name": "Xã Điện Phong",
+    "full_name_en": "Dien Phong Commune",
+    "type": "xã",
+    "district_code": "507",
+    "codename": "dien_phong"
+  },
+  {
+    "code": "20593",
+    "name": "Điện Minh",
+    "name_en": "Dien Minh",
+    "full_name": "Phường Điện Minh",
+    "full_name_en": "Dien Minh Ward",
+    "type": "phường",
+    "district_code": "507",
+    "codename": "dien_minh"
+  },
+  {
+    "code": "20596",
+    "name": "Điện Phương",
+    "name_en": "Dien Phuong",
+    "full_name": "Phường Điện Phương",
+    "full_name_en": "Dien Phuong Ward",
+    "type": "phường",
+    "district_code": "507",
+    "codename": "dien_phuong"
+  }
+]

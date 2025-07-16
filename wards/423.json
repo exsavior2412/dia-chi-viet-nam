@@ -1,0 +1,202 @@
+[
+  {
+    "code": "17266",
+    "name": "Tân Kỳ",
+    "name_en": "Tan Ky",
+    "full_name": "Thị trấn Tân Kỳ",
+    "full_name_en": "Tan Ky Township",
+    "type": "thị trấn",
+    "district_code": "423",
+    "codename": "tan_ky"
+  },
+  {
+    "code": "17269",
+    "name": "Tân Hợp",
+    "name_en": "Tan Hop",
+    "full_name": "Xã Tân Hợp",
+    "full_name_en": "Tan Hop Commune",
+    "type": "xã",
+    "district_code": "423",
+    "codename": "tan_hop"
+  },
+  {
+    "code": "17272",
+    "name": "Tân Phú",
+    "name_en": "Tan Phu",
+    "full_name": "Xã Tân Phú",
+    "full_name_en": "Tan Phu Commune",
+    "type": "xã",
+    "district_code": "423",
+    "codename": "tan_phu"
+  },
+  {
+    "code": "17275",
+    "name": "Tân Xuân",
+    "name_en": "Tan Xuan",
+    "full_name": "Xã Tân Xuân",
+    "full_name_en": "Tan Xuan Commune",
+    "type": "xã",
+    "district_code": "423",
+    "codename": "tan_xuan"
+  },
+  {
+    "code": "17278",
+    "name": "Giai Xuân",
+    "name_en": "Giai Xuan",
+    "full_name": "Xã Giai Xuân",
+    "full_name_en": "Giai Xuan Commune",
+    "type": "xã",
+    "district_code": "423",
+    "codename": "giai_xuan"
+  },
+  {
+    "code": "17281",
+    "name": "Bình Hợp",
+    "name_en": "Binh Hop",
+    "full_name": "Xã Bình Hợp",
+    "full_name_en": "Binh Hop Commune",
+    "type": "xã",
+    "district_code": "423",
+    "codename": "binh_hop"
+  },
+  {
+    "code": "17284",
+    "name": "Nghĩa Đồng",
+    "name_en": "Nghia Dong",
+    "full_name": "Xã Nghĩa Đồng",
+    "full_name_en": "Nghia Dong Commune",
+    "type": "xã",
+    "district_code": "423",
+    "codename": "nghia_dong"
+  },
+  {
+    "code": "17287",
+    "name": "Đồng Văn",
+    "name_en": "Dong Van",
+    "full_name": "Xã Đồng Văn",
+    "full_name_en": "Dong Van Commune",
+    "type": "xã",
+    "district_code": "423",
+    "codename": "dong_van"
+  },
+  {
+    "code": "17290",
+    "name": "Nghĩa Thái",
+    "name_en": "Nghia Thai",
+    "full_name": "Xã Nghĩa Thái",
+    "full_name_en": "Nghia Thai Commune",
+    "type": "xã",
+    "district_code": "423",
+    "codename": "nghia_thai"
+  },
+  {
+    "code": "17296",
+    "name": "Hoàn Long",
+    "name_en": "Hoan Long",
+    "full_name": "Xã Hoàn Long",
+    "full_name_en": "Hoan Long Commune",
+    "type": "xã",
+    "district_code": "423",
+    "codename": "hoan_long"
+  },
+  {
+    "code": "17299",
+    "name": "Nghĩa Phúc",
+    "name_en": "Nghia Phuc",
+    "full_name": "Xã Nghĩa Phúc",
+    "full_name_en": "Nghia Phuc Commune",
+    "type": "xã",
+    "district_code": "423",
+    "codename": "nghia_phuc"
+  },
+  {
+    "code": "17302",
+    "name": "Tiên Kỳ",
+    "name_en": "Tien Ky",
+    "full_name": "Xã Tiên Kỳ",
+    "full_name_en": "Tien Ky Commune",
+    "type": "xã",
+    "district_code": "423",
+    "codename": "tien_ky"
+  },
+  {
+    "code": "17305",
+    "name": "Tân An",
+    "name_en": "Tan An",
+    "full_name": "Xã Tân An",
+    "full_name_en": "Tan An Commune",
+    "type": "xã",
+    "district_code": "423",
+    "codename": "tan_an"
+  },
+  {
+    "code": "17308",
+    "name": "Nghĩa Dũng",
+    "name_en": "Nghia Dung",
+    "full_name": "Xã Nghĩa Dũng",
+    "full_name_en": "Nghia Dung Commune",
+    "type": "xã",
+    "district_code": "423",
+    "codename": "nghia_dung"
+  },
+  {
+    "code": "17314",
+    "name": "Kỳ Sơn",
+    "name_en": "Ky Son",
+    "full_name": "Xã Kỳ Sơn",
+    "full_name_en": "Ky Son Commune",
+    "type": "xã",
+    "district_code": "423",
+    "codename": "ky_son"
+  },
+  {
+    "code": "17317",
+    "name": "Hương Sơn",
+    "name_en": "Huong Son",
+    "full_name": "Xã Hương Sơn",
+    "full_name_en": "Huong Son Commune",
+    "type": "xã",
+    "district_code": "423",
+    "codename": "huong_son"
+  },
+  {
+    "code": "17320",
+    "name": "Kỳ Tân",
+    "name_en": "Ky Tan",
+    "full_name": "Xã Kỳ Tân",
+    "full_name_en": "Ky Tan Commune",
+    "type": "xã",
+    "district_code": "423",
+    "codename": "ky_tan"
+  },
+  {
+    "code": "17323",
+    "name": "Phú Sơn",
+    "name_en": "Phu Son",
+    "full_name": "Xã Phú Sơn",
+    "full_name_en": "Phu Son Commune",
+    "type": "xã",
+    "district_code": "423",
+    "codename": "phu_son"
+  },
+  {
+    "code": "17325",
+    "name": "Tân Hương",
+    "name_en": "Tan Huong",
+    "full_name": "Xã Tân Hương",
+    "full_name_en": "Tan Huong Commune",
+    "type": "xã",
+    "district_code": "423",
+    "codename": "tan_huong"
+  },
+  {
+    "code": "17326",
+    "name": "Nghĩa Hành",
+    "name_en": "Nghia Hanh",
+    "full_name": "Xã Nghĩa Hành",
+    "full_name_en": "Nghia Hanh Commune",
+    "type": "xã",
+    "district_code": "423",
+    "codename": "nghia_hanh"
+  }
+]

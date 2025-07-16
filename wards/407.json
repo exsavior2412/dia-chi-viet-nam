@@ -1,0 +1,302 @@
+[
+  {
+    "code": "16561",
+    "name": "Hải Hòa",
+    "name_en": "Hai Hoa",
+    "full_name": "Phường Hải Hòa",
+    "full_name_en": "Hai Hoa Ward",
+    "type": "phường",
+    "district_code": "407",
+    "codename": "hai_hoa"
+  },
+  {
+    "code": "16564",
+    "name": "Hải Châu",
+    "name_en": "Hai Chau",
+    "full_name": "Phường Hải Châu",
+    "full_name_en": "Hai Chau Ward",
+    "type": "phường",
+    "district_code": "407",
+    "codename": "hai_chau"
+  },
+  {
+    "code": "16567",
+    "name": "Thanh Thủy",
+    "name_en": "Thanh Thuy",
+    "full_name": "Xã Thanh Thủy",
+    "full_name_en": "Thanh Thuy Commune",
+    "type": "xã",
+    "district_code": "407",
+    "codename": "thanh_thuy"
+  },
+  {
+    "code": "16570",
+    "name": "Thanh Sơn",
+    "name_en": "Thanh Son",
+    "full_name": "Xã Thanh Sơn",
+    "full_name_en": "Thanh Son Commune",
+    "type": "xã",
+    "district_code": "407",
+    "codename": "thanh_son"
+  },
+  {
+    "code": "16576",
+    "name": "Hải Ninh",
+    "name_en": "Hai Ninh",
+    "full_name": "Phường Hải Ninh",
+    "full_name_en": "Hai Ninh Ward",
+    "type": "phường",
+    "district_code": "407",
+    "codename": "hai_ninh"
+  },
+  {
+    "code": "16579",
+    "name": "Anh Sơn",
+    "name_en": "Anh Son",
+    "full_name": "Xã Anh Sơn",
+    "full_name_en": "Anh Son Commune",
+    "type": "xã",
+    "district_code": "407",
+    "codename": "anh_son"
+  },
+  {
+    "code": "16582",
+    "name": "Ngọc Lĩnh",
+    "name_en": "Ngoc Linh",
+    "full_name": "Xã Ngọc Lĩnh",
+    "full_name_en": "Ngoc Linh Commune",
+    "type": "xã",
+    "district_code": "407",
+    "codename": "ngoc_linh"
+  },
+  {
+    "code": "16585",
+    "name": "Hải An",
+    "name_en": "Hai An",
+    "full_name": "Phường Hải An",
+    "full_name_en": "Hai An Ward",
+    "type": "phường",
+    "district_code": "407",
+    "codename": "hai_an"
+  },
+  {
+    "code": "16591",
+    "name": "Các Sơn",
+    "name_en": "Cac Son",
+    "full_name": "Xã Các Sơn",
+    "full_name_en": "Cac Son Commune",
+    "type": "xã",
+    "district_code": "407",
+    "codename": "cac_son"
+  },
+  {
+    "code": "16594",
+    "name": "Tân Dân",
+    "name_en": "Tan Dan",
+    "full_name": "Phường Tân Dân",
+    "full_name_en": "Tan Dan Ward",
+    "type": "phường",
+    "district_code": "407",
+    "codename": "tan_dan"
+  },
+  {
+    "code": "16597",
+    "name": "Hải Lĩnh",
+    "name_en": "Hai Linh",
+    "full_name": "Phường Hải Lĩnh",
+    "full_name_en": "Hai Linh Ward",
+    "type": "phường",
+    "district_code": "407",
+    "codename": "hai_linh"
+  },
+  {
+    "code": "16600",
+    "name": "Định Hải",
+    "name_en": "Dinh Hai",
+    "full_name": "Xã Định Hải",
+    "full_name_en": "Dinh Hai Commune",
+    "type": "xã",
+    "district_code": "407",
+    "codename": "dinh_hai"
+  },
+  {
+    "code": "16603",
+    "name": "Phú Sơn",
+    "name_en": "Phu Son",
+    "full_name": "Xã Phú Sơn",
+    "full_name_en": "Phu Son Commune",
+    "type": "xã",
+    "district_code": "407",
+    "codename": "phu_son"
+  },
+  {
+    "code": "16606",
+    "name": "Ninh Hải",
+    "name_en": "Ninh Hai",
+    "full_name": "Phường Ninh Hải",
+    "full_name_en": "Ninh Hai Ward",
+    "type": "phường",
+    "district_code": "407",
+    "codename": "ninh_hai"
+  },
+  {
+    "code": "16609",
+    "name": "Nguyên Bình",
+    "name_en": "Nguyen Binh",
+    "full_name": "Phường Nguyên Bình",
+    "full_name_en": "Nguyen Binh Ward",
+    "type": "phường",
+    "district_code": "407",
+    "codename": "nguyen_binh"
+  },
+  {
+    "code": "16612",
+    "name": "Hải Nhân",
+    "name_en": "Hai Nhan",
+    "full_name": "Xã Hải Nhân",
+    "full_name_en": "Hai Nhan Commune",
+    "type": "xã",
+    "district_code": "407",
+    "codename": "hai_nhan"
+  },
+  {
+    "code": "16618",
+    "name": "Bình Minh",
+    "name_en": "Binh Minh",
+    "full_name": "Phường Bình Minh",
+    "full_name_en": "Binh Minh Ward",
+    "type": "phường",
+    "district_code": "407",
+    "codename": "binh_minh"
+  },
+  {
+    "code": "16621",
+    "name": "Hải Thanh",
+    "name_en": "Hai Thanh",
+    "full_name": "Phường Hải Thanh",
+    "full_name_en": "Hai Thanh Ward",
+    "type": "phường",
+    "district_code": "407",
+    "codename": "hai_thanh"
+  },
+  {
+    "code": "16624",
+    "name": "Phú Lâm",
+    "name_en": "Phu Lam",
+    "full_name": "Xã Phú Lâm",
+    "full_name_en": "Phu Lam Commune",
+    "type": "xã",
+    "district_code": "407",
+    "codename": "phu_lam"
+  },
+  {
+    "code": "16627",
+    "name": "Xuân Lâm",
+    "name_en": "Xuan Lam",
+    "full_name": "Phường Xuân Lâm",
+    "full_name_en": "Xuan Lam Ward",
+    "type": "phường",
+    "district_code": "407",
+    "codename": "xuan_lam"
+  },
+  {
+    "code": "16630",
+    "name": "Trúc Lâm",
+    "name_en": "Truc Lam",
+    "full_name": "Phường Trúc Lâm",
+    "full_name_en": "Truc Lam Ward",
+    "type": "phường",
+    "district_code": "407",
+    "codename": "truc_lam"
+  },
+  {
+    "code": "16633",
+    "name": "Hải Bình",
+    "name_en": "Hai Binh",
+    "full_name": "Phường Hải Bình",
+    "full_name_en": "Hai Binh Ward",
+    "type": "phường",
+    "district_code": "407",
+    "codename": "hai_binh"
+  },
+  {
+    "code": "16636",
+    "name": "Tân Trường",
+    "name_en": "Tan Truong",
+    "full_name": "Xã Tân Trường",
+    "full_name_en": "Tan Truong Commune",
+    "type": "xã",
+    "district_code": "407",
+    "codename": "tan_truong"
+  },
+  {
+    "code": "16639",
+    "name": "Tùng Lâm",
+    "name_en": "Tung Lam",
+    "full_name": "Xã Tùng Lâm",
+    "full_name_en": "Tung Lam Commune",
+    "type": "xã",
+    "district_code": "407",
+    "codename": "tung_lam"
+  },
+  {
+    "code": "16642",
+    "name": "Tĩnh Hải",
+    "name_en": "Tinh Hai",
+    "full_name": "Phường Tĩnh Hải",
+    "full_name_en": "Tinh Hai Ward",
+    "type": "phường",
+    "district_code": "407",
+    "codename": "tinh_hai"
+  },
+  {
+    "code": "16645",
+    "name": "Mai Lâm",
+    "name_en": "Mai Lam",
+    "full_name": "Phường Mai Lâm",
+    "full_name_en": "Mai Lam Ward",
+    "type": "phường",
+    "district_code": "407",
+    "codename": "mai_lam"
+  },
+  {
+    "code": "16648",
+    "name": "Trường Lâm",
+    "name_en": "Truong Lam",
+    "full_name": "Xã Trường Lâm",
+    "full_name_en": "Truong Lam Commune",
+    "type": "xã",
+    "district_code": "407",
+    "codename": "truong_lam"
+  },
+  {
+    "code": "16654",
+    "name": "Hải Thượng",
+    "name_en": "Hai Thuong",
+    "full_name": "Phường Hải Thượng",
+    "full_name_en": "Hai Thuong Ward",
+    "type": "phường",
+    "district_code": "407",
+    "codename": "hai_thuong"
+  },
+  {
+    "code": "16657",
+    "name": "Nghi Sơn",
+    "name_en": "Nghi Son",
+    "full_name": "Xã Nghi Sơn",
+    "full_name_en": "Nghi Son Commune",
+    "type": "xã",
+    "district_code": "407",
+    "codename": "nghi_son"
+  },
+  {
+    "code": "16660",
+    "name": "Hải Hà",
+    "name_en": "Hai Ha",
+    "full_name": "Xã Hải Hà",
+    "full_name_en": "Hai Ha Commune",
+    "type": "xã",
+    "district_code": "407",
+    "codename": "hai_ha"
+  }
+]

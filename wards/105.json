@@ -1,0 +1,72 @@
+[
+  {
+    "code": "03386",
+    "name": "Quyết Thắng",
+    "name_en": "Quyet Thang",
+    "full_name": "Phường Quyết Thắng",
+    "full_name_en": "Quyet Thang Ward",
+    "type": "phường",
+    "district_code": "105",
+    "codename": "quyet_thang"
+  },
+  {
+    "code": "03387",
+    "name": "Tân Phong",
+    "name_en": "Tan Phong",
+    "full_name": "Phường Tân Phong",
+    "full_name_en": "Tan Phong Ward",
+    "type": "phường",
+    "district_code": "105",
+    "codename": "tan_phong"
+  },
+  {
+    "code": "03388",
+    "name": "Quyết Tiến",
+    "name_en": "Quyet Tien",
+    "full_name": "Phường Quyết Tiến",
+    "full_name_en": "Quyet Tien Ward",
+    "type": "phường",
+    "district_code": "105",
+    "codename": "quyet_tien"
+  },
+  {
+    "code": "03389",
+    "name": "Đoàn Kết",
+    "name_en": "Doan Ket",
+    "full_name": "Phường Đoàn Kết",
+    "full_name_en": "Doan Ket Ward",
+    "type": "phường",
+    "district_code": "105",
+    "codename": "doan_ket"
+  },
+  {
+    "code": "03403",
+    "name": "Sùng Phài",
+    "name_en": "Sung Phai",
+    "full_name": "Xã Sùng Phài",
+    "full_name_en": "Sung Phai Commune",
+    "type": "xã",
+    "district_code": "105",
+    "codename": "sung_phai"
+  },
+  {
+    "code": "03408",
+    "name": "Đông Phong",
+    "name_en": "Dong Phong",
+    "full_name": "Phường Đông Phong",
+    "full_name_en": "Dong Phong Ward",
+    "type": "phường",
+    "district_code": "105",
+    "codename": "dong_phong"
+  },
+  {
+    "code": "03409",
+    "name": "San Thàng",
+    "name_en": "San Thang",
+    "full_name": "Xã San Thàng",
+    "full_name_en": "San Thang Commune",
+    "type": "xã",
+    "district_code": "105",
+    "codename": "san_thang"
+  }
+]

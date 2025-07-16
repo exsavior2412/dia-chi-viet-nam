@@ -1,0 +1,132 @@
+[
+  {
+    "code": "31528",
+    "name": "Kế Sách",
+    "name_en": "Ke Sach",
+    "full_name": "Thị trấn Kế Sách",
+    "full_name_en": "Ke Sach Township",
+    "type": "thị trấn",
+    "district_code": "943",
+    "codename": "ke_sach"
+  },
+  {
+    "code": "31531",
+    "name": "An Lạc Thôn",
+    "name_en": "An Lac Thon",
+    "full_name": "Thị trấn An Lạc Thôn",
+    "full_name_en": "An Lac Thon Township",
+    "type": "thị trấn",
+    "district_code": "943",
+    "codename": "an_lac_thon"
+  },
+  {
+    "code": "31534",
+    "name": "Xuân Hòa",
+    "name_en": "Xuan Hoa",
+    "full_name": "Xã Xuân Hòa",
+    "full_name_en": "Xuan Hoa Commune",
+    "type": "xã",
+    "district_code": "943",
+    "codename": "xuan_hoa"
+  },
+  {
+    "code": "31537",
+    "name": "Phong Nẫm",
+    "name_en": "Phong Nam",
+    "full_name": "Xã Phong Nẫm",
+    "full_name_en": "Phong Nam Commune",
+    "type": "xã",
+    "district_code": "943",
+    "codename": "phong_nam"
+  },
+  {
+    "code": "31540",
+    "name": "An Lạc Tây",
+    "name_en": "An Lac Tay",
+    "full_name": "Xã An Lạc Tây",
+    "full_name_en": "An Lac Tay Commune",
+    "type": "xã",
+    "district_code": "943",
+    "codename": "an_lac_tay"
+  },
+  {
+    "code": "31543",
+    "name": "Trinh Phú",
+    "name_en": "Trinh Phu",
+    "full_name": "Xã Trinh Phú",
+    "full_name_en": "Trinh Phu Commune",
+    "type": "xã",
+    "district_code": "943",
+    "codename": "trinh_phu"
+  },
+  {
+    "code": "31546",
+    "name": "Ba Trinh",
+    "name_en": "Ba Trinh",
+    "full_name": "Xã Ba Trinh",
+    "full_name_en": "Ba Trinh Commune",
+    "type": "xã",
+    "district_code": "943",
+    "codename": "ba_trinh"
+  },
+  {
+    "code": "31549",
+    "name": "Thới An Hội",
+    "name_en": "Thoi An Hoi",
+    "full_name": "Xã Thới An Hội",
+    "full_name_en": "Thoi An Hoi Commune",
+    "type": "xã",
+    "district_code": "943",
+    "codename": "thoi_an_hoi"
+  },
+  {
+    "code": "31552",
+    "name": "Nhơn Mỹ",
+    "name_en": "Nhon My",
+    "full_name": "Xã Nhơn Mỹ",
+    "full_name_en": "Nhon My Commune",
+    "type": "xã",
+    "district_code": "943",
+    "codename": "nhon_my"
+  },
+  {
+    "code": "31555",
+    "name": "Kế Thành",
+    "name_en": "Ke Thanh",
+    "full_name": "Xã Kế Thành",
+    "full_name_en": "Ke Thanh Commune",
+    "type": "xã",
+    "district_code": "943",
+    "codename": "ke_thanh"
+  },
+  {
+    "code": "31558",
+    "name": "Kế An",
+    "name_en": "Ke An",
+    "full_name": "Xã Kế An",
+    "full_name_en": "Ke An Commune",
+    "type": "xã",
+    "district_code": "943",
+    "codename": "ke_an"
+  },
+  {
+    "code": "31561",
+    "name": "Đại Hải",
+    "name_en": "Dai Hai",
+    "full_name": "Xã Đại Hải",
+    "full_name_en": "Dai Hai Commune",
+    "type": "xã",
+    "district_code": "943",
+    "codename": "dai_hai"
+  },
+  {
+    "code": "31564",
+    "name": "An Mỹ",
+    "name_en": "An My",
+    "full_name": "Xã An Mỹ",
+    "full_name_en": "An My Commune",
+    "type": "xã",
+    "district_code": "943",
+    "codename": "an_my"
+  }
+]

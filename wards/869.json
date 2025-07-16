@@ -1,0 +1,92 @@
+[
+  {
+    "code": "29926",
+    "name": "Sa Rài",
+    "name_en": "Sa Rai",
+    "full_name": "Thị trấn Sa Rài",
+    "full_name_en": "Sa Rai Township",
+    "type": "thị trấn",
+    "district_code": "869",
+    "codename": "sa_rai"
+  },
+  {
+    "code": "29929",
+    "name": "Tân Hộ Cơ",
+    "name_en": "Tan Ho Co",
+    "full_name": "Xã Tân Hộ Cơ",
+    "full_name_en": "Tan Ho Co Commune",
+    "type": "xã",
+    "district_code": "869",
+    "codename": "tan_ho_co"
+  },
+  {
+    "code": "29932",
+    "name": "Thông Bình",
+    "name_en": "Thong Binh",
+    "full_name": "Xã Thông Bình",
+    "full_name_en": "Thong Binh Commune",
+    "type": "xã",
+    "district_code": "869",
+    "codename": "thong_binh"
+  },
+  {
+    "code": "29935",
+    "name": "Bình Phú",
+    "name_en": "Binh Phu",
+    "full_name": "Xã Bình Phú",
+    "full_name_en": "Binh Phu Commune",
+    "type": "xã",
+    "district_code": "869",
+    "codename": "binh_phu"
+  },
+  {
+    "code": "29938",
+    "name": "Tân Thành A",
+    "name_en": "Tan Thanh A",
+    "full_name": "Xã Tân Thành A",
+    "full_name_en": "Tan Thanh A Commune",
+    "type": "xã",
+    "district_code": "869",
+    "codename": "tan_thanh_a"
+  },
+  {
+    "code": "29941",
+    "name": "Tân Thành B",
+    "name_en": "Tan Thanh B",
+    "full_name": "Xã Tân Thành B",
+    "full_name_en": "Tan Thanh B Commune",
+    "type": "xã",
+    "district_code": "869",
+    "codename": "tan_thanh_b"
+  },
+  {
+    "code": "29944",
+    "name": "Tân Phước",
+    "name_en": "Tan Phuoc",
+    "full_name": "Xã Tân Phước",
+    "full_name_en": "Tan Phuoc Commune",
+    "type": "xã",
+    "district_code": "869",
+    "codename": "tan_phuoc"
+  },
+  {
+    "code": "29947",
+    "name": "Tân Công Chí",
+    "name_en": "Tan Cong Chi",
+    "full_name": "Xã Tân Công Chí",
+    "full_name_en": "Tan Cong Chi Commune",
+    "type": "xã",
+    "district_code": "869",
+    "codename": "tan_cong_chi"
+  },
+  {
+    "code": "29950",
+    "name": "An Phước",
+    "name_en": "An Phuoc",
+    "full_name": "Xã An Phước",
+    "full_name_en": "An Phuoc Commune",
+    "type": "xã",
+    "district_code": "869",
+    "codename": "an_phuoc"
+  }
+]

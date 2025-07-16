@@ -1,0 +1,122 @@
+[
+  {
+    "code": "23794",
+    "name": "Kon Dơng",
+    "name_en": "Kon Dong",
+    "full_name": "Thị trấn Kon Dơng",
+    "full_name_en": "Kon Dong Township",
+    "type": "thị trấn",
+    "district_code": "629",
+    "codename": "kon_dong"
+  },
+  {
+    "code": "23797",
+    "name": "Ayun",
+    "name_en": "Ayun",
+    "full_name": "Xã Ayun",
+    "full_name_en": "Ayun Commune",
+    "type": "xã",
+    "district_code": "629",
+    "codename": "ayun"
+  },
+  {
+    "code": "23798",
+    "name": "Đak Jơ Ta",
+    "name_en": "Dak Jo Ta",
+    "full_name": "Xã Đak Jơ Ta",
+    "full_name_en": "Dak Jo Ta Commune",
+    "type": "xã",
+    "district_code": "629",
+    "codename": "dak_jo_ta"
+  },
+  {
+    "code": "23799",
+    "name": "Đak Ta Ley",
+    "name_en": "Dak Ta Ley",
+    "full_name": "Xã Đak Ta Ley",
+    "full_name_en": "Dak Ta Ley Commune",
+    "type": "xã",
+    "district_code": "629",
+    "codename": "dak_ta_ley"
+  },
+  {
+    "code": "23800",
+    "name": "Hra",
+    "name_en": "Hra",
+    "full_name": "Xã Hra",
+    "full_name_en": "Hra Commune",
+    "type": "xã",
+    "district_code": "629",
+    "codename": "hra"
+  },
+  {
+    "code": "23803",
+    "name": "Đăk Yă",
+    "name_en": "Dak Ya",
+    "full_name": "Xã Đăk Yă",
+    "full_name_en": "Dak Ya Commune",
+    "type": "xã",
+    "district_code": "629",
+    "codename": "dak_ya"
+  },
+  {
+    "code": "23806",
+    "name": "Đăk Djrăng",
+    "name_en": "Dak Djrang",
+    "full_name": "Xã Đăk Djrăng",
+    "full_name_en": "Dak Djrang Commune",
+    "type": "xã",
+    "district_code": "629",
+    "codename": "dak_djrang"
+  },
+  {
+    "code": "23809",
+    "name": "Lơ Pang",
+    "name_en": "Lo Pang",
+    "full_name": "Xã Lơ Pang",
+    "full_name_en": "Lo Pang Commune",
+    "type": "xã",
+    "district_code": "629",
+    "codename": "lo_pang"
+  },
+  {
+    "code": "23812",
+    "name": "Kon Thụp",
+    "name_en": "Kon Thup",
+    "full_name": "Xã Kon Thụp",
+    "full_name_en": "Kon Thup Commune",
+    "type": "xã",
+    "district_code": "629",
+    "codename": "kon_thup"
+  },
+  {
+    "code": "23815",
+    "name": "Đê Ar",
+    "name_en": "De Ar",
+    "full_name": "Xã Đê Ar",
+    "full_name_en": "De Ar Commune",
+    "type": "xã",
+    "district_code": "629",
+    "codename": "de_ar"
+  },
+  {
+    "code": "23818",
+    "name": "Kon Chiêng",
+    "name_en": "Kon Chieng",
+    "full_name": "Xã Kon Chiêng",
+    "full_name_en": "Kon Chieng Commune",
+    "type": "xã",
+    "district_code": "629",
+    "codename": "kon_chieng"
+  },
+  {
+    "code": "23821",
+    "name": "Đăk Trôi",
+    "name_en": "Dak Troi",
+    "full_name": "Xã Đăk Trôi",
+    "full_name_en": "Dak Troi Commune",
+    "type": "xã",
+    "district_code": "629",
+    "codename": "dak_troi"
+  }
+]

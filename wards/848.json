@@ -1,0 +1,152 @@
+[
+  {
+    "code": "29416",
+    "name": "Cầu Ngang",
+    "name_en": "Cau Ngang",
+    "full_name": "Thị trấn Cầu Ngang",
+    "full_name_en": "Cau Ngang Township",
+    "type": "thị trấn",
+    "district_code": "848",
+    "codename": "cau_ngang"
+  },
+  {
+    "code": "29419",
+    "name": "Mỹ Long",
+    "name_en": "My Long",
+    "full_name": "Thị trấn Mỹ Long",
+    "full_name_en": "My Long Township",
+    "type": "thị trấn",
+    "district_code": "848",
+    "codename": "my_long"
+  },
+  {
+    "code": "29422",
+    "name": "Mỹ Long Bắc",
+    "name_en": "My Long Bac",
+    "full_name": "Xã Mỹ Long Bắc",
+    "full_name_en": "My Long Bac Commune",
+    "type": "xã",
+    "district_code": "848",
+    "codename": "my_long_bac"
+  },
+  {
+    "code": "29425",
+    "name": "Mỹ Long Nam",
+    "name_en": "My Long Nam",
+    "full_name": "Xã Mỹ Long Nam",
+    "full_name_en": "My Long Nam Commune",
+    "type": "xã",
+    "district_code": "848",
+    "codename": "my_long_nam"
+  },
+  {
+    "code": "29428",
+    "name": "Mỹ Hòa",
+    "name_en": "My Hoa",
+    "full_name": "Xã Mỹ Hòa",
+    "full_name_en": "My Hoa Commune",
+    "type": "xã",
+    "district_code": "848",
+    "codename": "my_hoa"
+  },
+  {
+    "code": "29431",
+    "name": "Vĩnh Kim",
+    "name_en": "Vinh Kim",
+    "full_name": "Xã Vĩnh Kim",
+    "full_name_en": "Vinh Kim Commune",
+    "type": "xã",
+    "district_code": "848",
+    "codename": "vinh_kim"
+  },
+  {
+    "code": "29434",
+    "name": "Kim Hòa",
+    "name_en": "Kim Hoa",
+    "full_name": "Xã Kim Hòa",
+    "full_name_en": "Kim Hoa Commune",
+    "type": "xã",
+    "district_code": "848",
+    "codename": "kim_hoa"
+  },
+  {
+    "code": "29437",
+    "name": "Hiệp Hòa",
+    "name_en": "Hiep Hoa",
+    "full_name": "Xã Hiệp Hòa",
+    "full_name_en": "Hiep Hoa Commune",
+    "type": "xã",
+    "district_code": "848",
+    "codename": "hiep_hoa"
+  },
+  {
+    "code": "29440",
+    "name": "Thuận Hòa",
+    "name_en": "Thuan Hoa",
+    "full_name": "Xã Thuận Hòa",
+    "full_name_en": "Thuan Hoa Commune",
+    "type": "xã",
+    "district_code": "848",
+    "codename": "thuan_hoa"
+  },
+  {
+    "code": "29443",
+    "name": "Long Sơn",
+    "name_en": "Long Son",
+    "full_name": "Xã Long Sơn",
+    "full_name_en": "Long Son Commune",
+    "type": "xã",
+    "district_code": "848",
+    "codename": "long_son"
+  },
+  {
+    "code": "29446",
+    "name": "Nhị Trường",
+    "name_en": "Nhi Truong",
+    "full_name": "Xã Nhị Trường",
+    "full_name_en": "Nhi Truong Commune",
+    "type": "xã",
+    "district_code": "848",
+    "codename": "nhi_truong"
+  },
+  {
+    "code": "29449",
+    "name": "Trường Thọ",
+    "name_en": "Truong Tho",
+    "full_name": "Xã Trường Thọ",
+    "full_name_en": "Truong Tho Commune",
+    "type": "xã",
+    "district_code": "848",
+    "codename": "truong_tho"
+  },
+  {
+    "code": "29452",
+    "name": "Hiệp Mỹ Đông",
+    "name_en": "Hiep My Dong",
+    "full_name": "Xã Hiệp Mỹ Đông",
+    "full_name_en": "Hiep My Dong Commune",
+    "type": "xã",
+    "district_code": "848",
+    "codename": "hiep_my_dong"
+  },
+  {
+    "code": "29455",
+    "name": "Hiệp Mỹ Tây",
+    "name_en": "Hiep My Tay",
+    "full_name": "Xã Hiệp Mỹ Tây",
+    "full_name_en": "Hiep My Tay Commune",
+    "type": "xã",
+    "district_code": "848",
+    "codename": "hiep_my_tay"
+  },
+  {
+    "code": "29458",
+    "name": "Thạnh Hòa Sơn",
+    "name_en": "Thanh Hoa Son",
+    "full_name": "Xã Thạnh Hòa Sơn",
+    "full_name_en": "Thanh Hoa Son Commune",
+    "type": "xã",
+    "district_code": "848",
+    "codename": "thanh_hoa_son"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "code": "03156",
+    "name": "Nậm Tin",
+    "name_en": "Nam Tin",
+    "full_name": "Xã Nậm Tin",
+    "full_name_en": "Nam Tin Commune",
+    "type": "xã",
+    "district_code": "103",
+    "codename": "nam_tin"
+  },
+  {
+    "code": "03165",
+    "name": "Pa Tần",
+    "name_en": "Pa Tan",
+    "full_name": "Xã Pa Tần",
+    "full_name_en": "Pa Tan Commune",
+    "type": "xã",
+    "district_code": "103",
+    "codename": "pa_tan"
+  },
+  {
+    "code": "03166",
+    "name": "Chà Cang",
+    "name_en": "Cha Cang",
+    "full_name": "Xã Chà Cang",
+    "full_name_en": "Cha Cang Commune",
+    "type": "xã",
+    "district_code": "103",
+    "codename": "cha_cang"
+  },
+  {
+    "code": "03167",
+    "name": "Na Cô Sa",
+    "name_en": "Na Co Sa",
+    "full_name": "Xã Na Cô Sa",
+    "full_name_en": "Na Co Sa Commune",
+    "type": "xã",
+    "district_code": "103",
+    "codename": "na_co_sa"
+  },
+  {
+    "code": "03168",
+    "name": "Nà Khoa",
+    "name_en": "Na Khoa",
+    "full_name": "Xã Nà Khoa",
+    "full_name_en": "Na Khoa Commune",
+    "type": "xã",
+    "district_code": "103",
+    "codename": "na_khoa"
+  },
+  {
+    "code": "03169",
+    "name": "Nà Hỳ",
+    "name_en": "Na Hy",
+    "full_name": "Xã Nà Hỳ",
+    "full_name_en": "Na Hy Commune",
+    "type": "xã",
+    "district_code": "103",
+    "codename": "na_hy"
+  },
+  {
+    "code": "03170",
+    "name": "Nà Bủng",
+    "name_en": "Na Bung",
+    "full_name": "Xã Nà Bủng",
+    "full_name_en": "Na Bung Commune",
+    "type": "xã",
+    "district_code": "103",
+    "codename": "na_bung"
+  },
+  {
+    "code": "03171",
+    "name": "Nậm Nhừ",
+    "name_en": "Nam Nhu",
+    "full_name": "Xã Nậm Nhừ",
+    "full_name_en": "Nam Nhu Commune",
+    "type": "xã",
+    "district_code": "103",
+    "codename": "nam_nhu"
+  },
+  {
+    "code": "03173",
+    "name": "Nậm Chua",
+    "name_en": "Nam Chua",
+    "full_name": "Xã Nậm Chua",
+    "full_name_en": "Nam Chua Commune",
+    "type": "xã",
+    "district_code": "103",
+    "codename": "nam_chua"
+  },
+  {
+    "code": "03174",
+    "name": "Nậm Khăn",
+    "name_en": "Nam Khan",
+    "full_name": "Xã Nậm Khăn",
+    "full_name_en": "Nam Khan Commune",
+    "type": "xã",
+    "district_code": "103",
+    "codename": "nam_khan"
+  },
+  {
+    "code": "03175",
+    "name": "Chà Tở",
+    "name_en": "Cha To",
+    "full_name": "Xã Chà Tở",
+    "full_name_en": "Cha To Commune",
+    "type": "xã",
+    "district_code": "103",
+    "codename": "cha_to"
+  },
+  {
+    "code": "03176",
+    "name": "Vàng Đán",
+    "name_en": "Vang Dan",
+    "full_name": "Xã Vàng Đán",
+    "full_name_en": "Vang Dan Commune",
+    "type": "xã",
+    "district_code": "103",
+    "codename": "vang_dan"
+  },
+  {
+    "code": "03187",
+    "name": "Chà Nưa",
+    "name_en": "Cha Nua",
+    "full_name": "Xã Chà Nưa",
+    "full_name_en": "Cha Nua Commune",
+    "type": "xã",
+    "district_code": "103",
+    "codename": "cha_nua"
+  },
+  {
+    "code": "03198",
+    "name": "Phìn Hồ",
+    "name_en": "Phin Ho",
+    "full_name": "Xã Phìn Hồ",
+    "full_name_en": "Phin Ho Commune",
+    "type": "xã",
+    "district_code": "103",
+    "codename": "phin_ho"
+  },
+  {
+    "code": "03199",
+    "name": "Si Pa Phìn",
+    "name_en": "Si Pa Phin",
+    "full_name": "Xã Si Pa Phìn",
+    "full_name_en": "Si Pa Phin Commune",
+    "type": "xã",
+    "district_code": "103",
+    "codename": "si_pa_phin"
+  }
+]

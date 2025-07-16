@@ -1,0 +1,172 @@
+[
+  {
+    "code": "30682",
+    "name": "Núi Sập",
+    "name_en": "Nui Sap",
+    "full_name": "Thị trấn Núi Sập",
+    "full_name_en": "Nui Sap Township",
+    "type": "thị trấn",
+    "district_code": "894",
+    "codename": "nui_sap"
+  },
+  {
+    "code": "30685",
+    "name": "Phú Hoà",
+    "name_en": "Phu Hoa",
+    "full_name": "Thị trấn Phú Hoà",
+    "full_name_en": "Phu Hoa Township",
+    "type": "thị trấn",
+    "district_code": "894",
+    "codename": "phu_hoa"
+  },
+  {
+    "code": "30688",
+    "name": "Óc Eo",
+    "name_en": "Oc Eo",
+    "full_name": "Thị trấn Óc Eo",
+    "full_name_en": "Oc Eo Township",
+    "type": "thị trấn",
+    "district_code": "894",
+    "codename": "oc_eo"
+  },
+  {
+    "code": "30691",
+    "name": "Tây Phú",
+    "name_en": "Tay Phu",
+    "full_name": "Xã Tây Phú",
+    "full_name_en": "Tay Phu Commune",
+    "type": "xã",
+    "district_code": "894",
+    "codename": "tay_phu"
+  },
+  {
+    "code": "30692",
+    "name": "An Bình",
+    "name_en": "An Binh",
+    "full_name": "Xã An Bình",
+    "full_name_en": "An Binh Commune",
+    "type": "xã",
+    "district_code": "894",
+    "codename": "an_binh"
+  },
+  {
+    "code": "30694",
+    "name": "Vĩnh Phú",
+    "name_en": "Vinh Phu",
+    "full_name": "Xã Vĩnh Phú",
+    "full_name_en": "Vinh Phu Commune",
+    "type": "xã",
+    "district_code": "894",
+    "codename": "vinh_phu"
+  },
+  {
+    "code": "30697",
+    "name": "Vĩnh Trạch",
+    "name_en": "Vinh Trach",
+    "full_name": "Xã Vĩnh Trạch",
+    "full_name_en": "Vinh Trach Commune",
+    "type": "xã",
+    "district_code": "894",
+    "codename": "vinh_trach"
+  },
+  {
+    "code": "30700",
+    "name": "Phú Thuận",
+    "name_en": "Phu Thuan",
+    "full_name": "Xã Phú Thuận",
+    "full_name_en": "Phu Thuan Commune",
+    "type": "xã",
+    "district_code": "894",
+    "codename": "phu_thuan"
+  },
+  {
+    "code": "30703",
+    "name": "Vĩnh Chánh",
+    "name_en": "Vinh Chanh",
+    "full_name": "Xã Vĩnh Chánh",
+    "full_name_en": "Vinh Chanh Commune",
+    "type": "xã",
+    "district_code": "894",
+    "codename": "vinh_chanh"
+  },
+  {
+    "code": "30706",
+    "name": "Định Mỹ",
+    "name_en": "Dinh My",
+    "full_name": "Xã Định Mỹ",
+    "full_name_en": "Dinh My Commune",
+    "type": "xã",
+    "district_code": "894",
+    "codename": "dinh_my"
+  },
+  {
+    "code": "30709",
+    "name": "Định Thành",
+    "name_en": "Dinh Thanh",
+    "full_name": "Xã Định Thành",
+    "full_name_en": "Dinh Thanh Commune",
+    "type": "xã",
+    "district_code": "894",
+    "codename": "dinh_thanh"
+  },
+  {
+    "code": "30712",
+    "name": "Mỹ Phú Đông",
+    "name_en": "My Phu Dong",
+    "full_name": "Xã Mỹ Phú Đông",
+    "full_name_en": "My Phu Dong Commune",
+    "type": "xã",
+    "district_code": "894",
+    "codename": "my_phu_dong"
+  },
+  {
+    "code": "30715",
+    "name": "Vọng Đông",
+    "name_en": "Vong Dong",
+    "full_name": "Xã Vọng Đông",
+    "full_name_en": "Vong Dong Commune",
+    "type": "xã",
+    "district_code": "894",
+    "codename": "vong_dong"
+  },
+  {
+    "code": "30718",
+    "name": "Vĩnh Khánh",
+    "name_en": "Vinh Khanh",
+    "full_name": "Xã Vĩnh Khánh",
+    "full_name_en": "Vinh Khanh Commune",
+    "type": "xã",
+    "district_code": "894",
+    "codename": "vinh_khanh"
+  },
+  {
+    "code": "30721",
+    "name": "Thoại Giang",
+    "name_en": "Thoai Giang",
+    "full_name": "Xã Thoại Giang",
+    "full_name_en": "Thoai Giang Commune",
+    "type": "xã",
+    "district_code": "894",
+    "codename": "thoai_giang"
+  },
+  {
+    "code": "30724",
+    "name": "Bình Thành",
+    "name_en": "Binh Thanh",
+    "full_name": "Xã Bình Thành",
+    "full_name_en": "Binh Thanh Commune",
+    "type": "xã",
+    "district_code": "894",
+    "codename": "binh_thanh"
+  },
+  {
+    "code": "30727",
+    "name": "Vọng Thê",
+    "name_en": "Vong The",
+    "full_name": "Xã Vọng Thê",
+    "full_name_en": "Vong The Commune",
+    "type": "xã",
+    "district_code": "894",
+    "codename": "vong_the"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "code": "18901",
+    "name": "Quy Đạt",
+    "name_en": "Quy Dat",
+    "full_name": "Thị trấn Quy Đạt",
+    "full_name_en": "Quy Dat Township",
+    "type": "thị trấn",
+    "district_code": "452",
+    "codename": "quy_dat"
+  },
+  {
+    "code": "18904",
+    "name": "Dân Hóa",
+    "name_en": "Dan Hoa",
+    "full_name": "Xã Dân Hóa",
+    "full_name_en": "Dan Hoa Commune",
+    "type": "xã",
+    "district_code": "452",
+    "codename": "dan_hoa"
+  },
+  {
+    "code": "18907",
+    "name": "Trọng Hóa",
+    "name_en": "Trong Hoa",
+    "full_name": "Xã Trọng Hóa",
+    "full_name_en": "Trong Hoa Commune",
+    "type": "xã",
+    "district_code": "452",
+    "codename": "trong_hoa"
+  },
+  {
+    "code": "18913",
+    "name": "Hồng Hóa",
+    "name_en": "Hong Hoa",
+    "full_name": "Xã Hồng Hóa",
+    "full_name_en": "Hong Hoa Commune",
+    "type": "xã",
+    "district_code": "452",
+    "codename": "hong_hoa"
+  },
+  {
+    "code": "18919",
+    "name": "Tân Thành",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thành",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "452",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "18922",
+    "name": "Hóa Hợp",
+    "name_en": "Hoa Hop",
+    "full_name": "Xã Hóa Hợp",
+    "full_name_en": "Hoa Hop Commune",
+    "type": "xã",
+    "district_code": "452",
+    "codename": "hoa_hop"
+  },
+  {
+    "code": "18925",
+    "name": "Xuân Hóa",
+    "name_en": "Xuan Hoa",
+    "full_name": "Xã Xuân Hóa",
+    "full_name_en": "Xuan Hoa Commune",
+    "type": "xã",
+    "district_code": "452",
+    "codename": "xuan_hoa"
+  },
+  {
+    "code": "18928",
+    "name": "Yên Hóa",
+    "name_en": "Yen Hoa",
+    "full_name": "Xã Yên Hóa",
+    "full_name_en": "Yen Hoa Commune",
+    "type": "xã",
+    "district_code": "452",
+    "codename": "yen_hoa"
+  },
+  {
+    "code": "18931",
+    "name": "Minh Hóa",
+    "name_en": "Minh Hoa",
+    "full_name": "Xã Minh Hóa",
+    "full_name_en": "Minh Hoa Commune",
+    "type": "xã",
+    "district_code": "452",
+    "codename": "minh_hoa"
+  },
+  {
+    "code": "18934",
+    "name": "Tân Hóa",
+    "name_en": "Tan Hoa",
+    "full_name": "Xã Tân Hóa",
+    "full_name_en": "Tan Hoa Commune",
+    "type": "xã",
+    "district_code": "452",
+    "codename": "tan_hoa"
+  },
+  {
+    "code": "18937",
+    "name": "Hóa Sơn",
+    "name_en": "Hoa Son",
+    "full_name": "Xã Hóa Sơn",
+    "full_name_en": "Hoa Son Commune",
+    "type": "xã",
+    "district_code": "452",
+    "codename": "hoa_son"
+  },
+  {
+    "code": "18943",
+    "name": "Trung Hóa",
+    "name_en": "Trung Hoa",
+    "full_name": "Xã Trung Hóa",
+    "full_name_en": "Trung Hoa Commune",
+    "type": "xã",
+    "district_code": "452",
+    "codename": "trung_hoa"
+  },
+  {
+    "code": "18946",
+    "name": "Thượng Hóa",
+    "name_en": "Thuong Hoa",
+    "full_name": "Xã Thượng Hóa",
+    "full_name_en": "Thuong Hoa Commune",
+    "type": "xã",
+    "district_code": "452",
+    "codename": "thuong_hoa"
+  }
+]

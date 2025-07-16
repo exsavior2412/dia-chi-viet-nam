@@ -1,0 +1,122 @@
+[
+  {
+    "code": "03595",
+    "name": "Than Uyên",
+    "name_en": "Than Uyen",
+    "full_name": "Thị trấn Than Uyên",
+    "full_name_en": "Than Uyen Township",
+    "type": "thị trấn",
+    "district_code": "110",
+    "codename": "than_uyen"
+  },
+  {
+    "code": "03618",
+    "name": "Phúc Than",
+    "name_en": "Phuc Than",
+    "full_name": "Xã Phúc Than",
+    "full_name_en": "Phuc Than Commune",
+    "type": "xã",
+    "district_code": "110",
+    "codename": "phuc_than"
+  },
+  {
+    "code": "03619",
+    "name": "Mường Than",
+    "name_en": "Muong Than",
+    "full_name": "Xã Mường Than",
+    "full_name_en": "Muong Than Commune",
+    "type": "xã",
+    "district_code": "110",
+    "codename": "muong_than"
+  },
+  {
+    "code": "03625",
+    "name": "Mường Mít",
+    "name_en": "Muong Mit",
+    "full_name": "Xã Mường Mít",
+    "full_name_en": "Muong Mit Commune",
+    "type": "xã",
+    "district_code": "110",
+    "codename": "muong_mit"
+  },
+  {
+    "code": "03628",
+    "name": "Pha Mu",
+    "name_en": "Pha Mu",
+    "full_name": "Xã Pha Mu",
+    "full_name_en": "Pha Mu Commune",
+    "type": "xã",
+    "district_code": "110",
+    "codename": "pha_mu"
+  },
+  {
+    "code": "03631",
+    "name": "Mường Cang",
+    "name_en": "Muong Cang",
+    "full_name": "Xã Mường Cang",
+    "full_name_en": "Muong Cang Commune",
+    "type": "xã",
+    "district_code": "110",
+    "codename": "muong_cang"
+  },
+  {
+    "code": "03632",
+    "name": "Hua Nà",
+    "name_en": "Hua Na",
+    "full_name": "Xã Hua Nà",
+    "full_name_en": "Hua Na Commune",
+    "type": "xã",
+    "district_code": "110",
+    "codename": "hua_na"
+  },
+  {
+    "code": "03634",
+    "name": "Tà Hừa",
+    "name_en": "Ta Hua",
+    "full_name": "Xã Tà Hừa",
+    "full_name_en": "Ta Hua Commune",
+    "type": "xã",
+    "district_code": "110",
+    "codename": "ta_hua"
+  },
+  {
+    "code": "03637",
+    "name": "Mường Kim",
+    "name_en": "Muong Kim",
+    "full_name": "Xã Mường Kim",
+    "full_name_en": "Muong Kim Commune",
+    "type": "xã",
+    "district_code": "110",
+    "codename": "muong_kim"
+  },
+  {
+    "code": "03638",
+    "name": "Tà Mung",
+    "name_en": "Ta Mung",
+    "full_name": "Xã Tà Mung",
+    "full_name_en": "Ta Mung Commune",
+    "type": "xã",
+    "district_code": "110",
+    "codename": "ta_mung"
+  },
+  {
+    "code": "03640",
+    "name": "Tà Gia",
+    "name_en": "Ta Gia",
+    "full_name": "Xã Tà Gia",
+    "full_name_en": "Ta Gia Commune",
+    "type": "xã",
+    "district_code": "110",
+    "codename": "ta_gia"
+  },
+  {
+    "code": "03643",
+    "name": "Khoen On",
+    "name_en": "Khoen On",
+    "full_name": "Xã Khoen On",
+    "full_name_en": "Khoen On Commune",
+    "type": "xã",
+    "district_code": "110",
+    "codename": "khoen_on"
+  }
+]

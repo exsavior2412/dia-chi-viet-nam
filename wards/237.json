@@ -1,0 +1,122 @@
+[
+  {
+    "code": "08494",
+    "name": "Lâm Thao",
+    "name_en": "Lam Thao",
+    "full_name": "Thị trấn Lâm Thao",
+    "full_name_en": "Lam Thao Township",
+    "type": "thị trấn",
+    "district_code": "237",
+    "codename": "lam_thao"
+  },
+  {
+    "code": "08497",
+    "name": "Tiên Kiên",
+    "name_en": "Tien Kien",
+    "full_name": "Xã Tiên Kiên",
+    "full_name_en": "Tien Kien Commune",
+    "type": "xã",
+    "district_code": "237",
+    "codename": "tien_kien"
+  },
+  {
+    "code": "08498",
+    "name": "Hùng Sơn",
+    "name_en": "Hung Son",
+    "full_name": "Thị trấn Hùng Sơn",
+    "full_name_en": "Hung Son Township",
+    "type": "thị trấn",
+    "district_code": "237",
+    "codename": "hung_son"
+  },
+  {
+    "code": "08500",
+    "name": "Xuân Lũng",
+    "name_en": "Xuan Lung",
+    "full_name": "Xã Xuân Lũng",
+    "full_name_en": "Xuan Lung Commune",
+    "type": "xã",
+    "district_code": "237",
+    "codename": "xuan_lung"
+  },
+  {
+    "code": "08509",
+    "name": "Xuân Huy",
+    "name_en": "Xuan Huy",
+    "full_name": "Xã Xuân Huy",
+    "full_name_en": "Xuan Huy Commune",
+    "type": "xã",
+    "district_code": "237",
+    "codename": "xuan_huy"
+  },
+  {
+    "code": "08512",
+    "name": "Thạch Sơn",
+    "name_en": "Thach Son",
+    "full_name": "Xã Thạch Sơn",
+    "full_name_en": "Thach Son Commune",
+    "type": "xã",
+    "district_code": "237",
+    "codename": "thach_son"
+  },
+  {
+    "code": "08518",
+    "name": "Sơn Vi",
+    "name_en": "Son Vi",
+    "full_name": "Xã Sơn Vi",
+    "full_name_en": "Son Vi Commune",
+    "type": "xã",
+    "district_code": "237",
+    "codename": "son_vi"
+  },
+  {
+    "code": "08521",
+    "name": "Phùng Nguyên",
+    "name_en": "Phung Nguyen",
+    "full_name": "Xã Phùng Nguyên",
+    "full_name_en": "Phung Nguyen Commune",
+    "type": "xã",
+    "district_code": "237",
+    "codename": "phung_nguyen"
+  },
+  {
+    "code": "08527",
+    "name": "Cao Xá",
+    "name_en": "Cao Xa",
+    "full_name": "Xã Cao Xá",
+    "full_name_en": "Cao Xa Commune",
+    "type": "xã",
+    "district_code": "237",
+    "codename": "cao_xa"
+  },
+  {
+    "code": "08533",
+    "name": "Vĩnh Lại",
+    "name_en": "Vinh Lai",
+    "full_name": "Xã Vĩnh Lại",
+    "full_name_en": "Vinh Lai Commune",
+    "type": "xã",
+    "district_code": "237",
+    "codename": "vinh_lai"
+  },
+  {
+    "code": "08536",
+    "name": "Tứ Xã",
+    "name_en": "Tu Xa",
+    "full_name": "Xã Tứ Xã",
+    "full_name_en": "Tu Xa Commune",
+    "type": "xã",
+    "district_code": "237",
+    "codename": "tu_xa"
+  },
+  {
+    "code": "08539",
+    "name": "Bản Nguyên",
+    "name_en": "Ban Nguyen",
+    "full_name": "Xã Bản Nguyên",
+    "full_name_en": "Ban Nguyen Commune",
+    "type": "xã",
+    "district_code": "237",
+    "codename": "ban_nguyen"
+  }
+]

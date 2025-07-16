@@ -1,0 +1,92 @@
+[
+  {
+    "code": "23452",
+    "name": "Đắk Nên",
+    "name_en": "Dak Nen",
+    "full_name": "Xã Đắk Nên",
+    "full_name_en": "Dak Nen Commune",
+    "type": "xã",
+    "district_code": "613",
+    "codename": "dak_nen"
+  },
+  {
+    "code": "23455",
+    "name": "Đắk Ring",
+    "name_en": "Dak Ring",
+    "full_name": "Xã Đắk Ring",
+    "full_name_en": "Dak Ring Commune",
+    "type": "xã",
+    "district_code": "613",
+    "codename": "dak_ring"
+  },
+  {
+    "code": "23458",
+    "name": "Măng Buk",
+    "name_en": "Mang Buk",
+    "full_name": "Xã Măng Buk",
+    "full_name_en": "Mang Buk Commune",
+    "type": "xã",
+    "district_code": "613",
+    "codename": "mang_buk"
+  },
+  {
+    "code": "23461",
+    "name": "Đắk Tăng",
+    "name_en": "Dak Tang",
+    "full_name": "Xã Đắk Tăng",
+    "full_name_en": "Dak Tang Commune",
+    "type": "xã",
+    "district_code": "613",
+    "codename": "dak_tang"
+  },
+  {
+    "code": "23464",
+    "name": "Ngok Tem",
+    "name_en": "Ngok Tem",
+    "full_name": "Xã Ngok Tem",
+    "full_name_en": "Ngok Tem Commune",
+    "type": "xã",
+    "district_code": "613",
+    "codename": "ngok_tem"
+  },
+  {
+    "code": "23467",
+    "name": "Pờ Ê",
+    "name_en": "Po E",
+    "full_name": "Xã Pờ Ê",
+    "full_name_en": "Po E Commune",
+    "type": "xã",
+    "district_code": "613",
+    "codename": "po_e"
+  },
+  {
+    "code": "23470",
+    "name": "Măng Cành",
+    "name_en": "Mang Canh",
+    "full_name": "Xã Măng Cành",
+    "full_name_en": "Mang Canh Commune",
+    "type": "xã",
+    "district_code": "613",
+    "codename": "mang_canh"
+  },
+  {
+    "code": "23473",
+    "name": "Măng Đen",
+    "name_en": "Mang Den",
+    "full_name": "Thị trấn Măng Đen",
+    "full_name_en": "Mang Den Township",
+    "type": "thị trấn",
+    "district_code": "613",
+    "codename": "mang_den"
+  },
+  {
+    "code": "23476",
+    "name": "Hiếu",
+    "name_en": "Hieu",
+    "full_name": "Xã Hiếu",
+    "full_name_en": "Hieu Commune",
+    "type": "xã",
+    "district_code": "613",
+    "codename": "hieu"
+  }
+]

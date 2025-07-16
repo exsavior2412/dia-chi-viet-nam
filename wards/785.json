@@ -1,0 +1,162 @@
+[
+  {
+    "code": "27595",
+    "name": "Tân Túc",
+    "name_en": "Tan Tuc",
+    "full_name": "Thị trấn Tân Túc",
+    "full_name_en": "Tan Tuc Township",
+    "type": "thị trấn",
+    "district_code": "785",
+    "codename": "tan_tuc"
+  },
+  {
+    "code": "27598",
+    "name": "Phạm Văn Hai",
+    "name_en": "Pham Van Hai",
+    "full_name": "Xã Phạm Văn Hai",
+    "full_name_en": "Pham Van Hai Commune",
+    "type": "xã",
+    "district_code": "785",
+    "codename": "pham_van_hai"
+  },
+  {
+    "code": "27601",
+    "name": "Vĩnh Lộc A",
+    "name_en": "Vinh Loc A",
+    "full_name": "Xã Vĩnh Lộc A",
+    "full_name_en": "Vinh Loc A Commune",
+    "type": "xã",
+    "district_code": "785",
+    "codename": "vinh_loc_a"
+  },
+  {
+    "code": "27604",
+    "name": "Vĩnh Lộc B",
+    "name_en": "Vinh Loc B",
+    "full_name": "Xã Vĩnh Lộc B",
+    "full_name_en": "Vinh Loc B Commune",
+    "type": "xã",
+    "district_code": "785",
+    "codename": "vinh_loc_b"
+  },
+  {
+    "code": "27607",
+    "name": "Bình Lợi",
+    "name_en": "Binh Loi",
+    "full_name": "Xã Bình Lợi",
+    "full_name_en": "Binh Loi Commune",
+    "type": "xã",
+    "district_code": "785",
+    "codename": "binh_loi"
+  },
+  {
+    "code": "27610",
+    "name": "Lê Minh Xuân",
+    "name_en": "Le Minh Xuan",
+    "full_name": "Xã Lê Minh Xuân",
+    "full_name_en": "Le Minh Xuan Commune",
+    "type": "xã",
+    "district_code": "785",
+    "codename": "le_minh_xuan"
+  },
+  {
+    "code": "27613",
+    "name": "Tân Nhựt",
+    "name_en": "Tan Nhut",
+    "full_name": "Xã Tân Nhựt",
+    "full_name_en": "Tan Nhut Commune",
+    "type": "xã",
+    "district_code": "785",
+    "codename": "tan_nhut"
+  },
+  {
+    "code": "27616",
+    "name": "Tân Kiên",
+    "name_en": "Tan Kien",
+    "full_name": "Xã Tân Kiên",
+    "full_name_en": "Tan Kien Commune",
+    "type": "xã",
+    "district_code": "785",
+    "codename": "tan_kien"
+  },
+  {
+    "code": "27619",
+    "name": "Bình Hưng",
+    "name_en": "Binh Hung",
+    "full_name": "Xã Bình Hưng",
+    "full_name_en": "Binh Hung Commune",
+    "type": "xã",
+    "district_code": "785",
+    "codename": "binh_hung"
+  },
+  {
+    "code": "27622",
+    "name": "Phong Phú",
+    "name_en": "Phong Phu",
+    "full_name": "Xã Phong Phú",
+    "full_name_en": "Phong Phu Commune",
+    "type": "xã",
+    "district_code": "785",
+    "codename": "phong_phu"
+  },
+  {
+    "code": "27625",
+    "name": "An Phú Tây",
+    "name_en": "An Phu Tay",
+    "full_name": "Xã An Phú Tây",
+    "full_name_en": "An Phu Tay Commune",
+    "type": "xã",
+    "district_code": "785",
+    "codename": "an_phu_tay"
+  },
+  {
+    "code": "27628",
+    "name": "Hưng Long",
+    "name_en": "Hung Long",
+    "full_name": "Xã Hưng Long",
+    "full_name_en": "Hung Long Commune",
+    "type": "xã",
+    "district_code": "785",
+    "codename": "hung_long"
+  },
+  {
+    "code": "27631",
+    "name": "Đa Phước",
+    "name_en": "Da Phuoc",
+    "full_name": "Xã Đa Phước",
+    "full_name_en": "Da Phuoc Commune",
+    "type": "xã",
+    "district_code": "785",
+    "codename": "da_phuoc"
+  },
+  {
+    "code": "27634",
+    "name": "Tân Quý Tây",
+    "name_en": "Tan Quy Tay",
+    "full_name": "Xã Tân Quý Tây",
+    "full_name_en": "Tan Quy Tay Commune",
+    "type": "xã",
+    "district_code": "785",
+    "codename": "tan_quy_tay"
+  },
+  {
+    "code": "27637",
+    "name": "Bình Chánh",
+    "name_en": "Binh Chanh",
+    "full_name": "Xã Bình Chánh",
+    "full_name_en": "Binh Chanh Commune",
+    "type": "xã",
+    "district_code": "785",
+    "codename": "binh_chanh"
+  },
+  {
+    "code": "27640",
+    "name": "Quy Đức",
+    "name_en": "Quy Duc",
+    "full_name": "Xã Quy Đức",
+    "full_name_en": "Quy Duc Commune",
+    "type": "xã",
+    "district_code": "785",
+    "codename": "quy_duc"
+  }
+]

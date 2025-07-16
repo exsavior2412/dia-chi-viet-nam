@@ -1,0 +1,202 @@
+[
+  {
+    "code": "18757",
+    "name": "Kỳ Xuân",
+    "name_en": "Ky Xuan",
+    "full_name": "Xã Kỳ Xuân",
+    "full_name_en": "Ky Xuan Commune",
+    "type": "xã",
+    "district_code": "447",
+    "codename": "ky_xuan"
+  },
+  {
+    "code": "18760",
+    "name": "Kỳ Bắc",
+    "name_en": "Ky Bac",
+    "full_name": "Xã Kỳ Bắc",
+    "full_name_en": "Ky Bac Commune",
+    "type": "xã",
+    "district_code": "447",
+    "codename": "ky_bac"
+  },
+  {
+    "code": "18763",
+    "name": "Kỳ Phú",
+    "name_en": "Ky Phu",
+    "full_name": "Xã Kỳ Phú",
+    "full_name_en": "Ky Phu Commune",
+    "type": "xã",
+    "district_code": "447",
+    "codename": "ky_phu"
+  },
+  {
+    "code": "18766",
+    "name": "Kỳ Phong",
+    "name_en": "Ky Phong",
+    "full_name": "Xã Kỳ Phong",
+    "full_name_en": "Ky Phong Commune",
+    "type": "xã",
+    "district_code": "447",
+    "codename": "ky_phong"
+  },
+  {
+    "code": "18769",
+    "name": "Kỳ Tiến",
+    "name_en": "Ky Tien",
+    "full_name": "Xã Kỳ Tiến",
+    "full_name_en": "Ky Tien Commune",
+    "type": "xã",
+    "district_code": "447",
+    "codename": "ky_tien"
+  },
+  {
+    "code": "18772",
+    "name": "Kỳ Giang",
+    "name_en": "Ky Giang",
+    "full_name": "Xã Kỳ Giang",
+    "full_name_en": "Ky Giang Commune",
+    "type": "xã",
+    "district_code": "447",
+    "codename": "ky_giang"
+  },
+  {
+    "code": "18775",
+    "name": "Kỳ Đồng",
+    "name_en": "Ky Dong",
+    "full_name": "Thị trấn Kỳ Đồng",
+    "full_name_en": "Ky Dong Township",
+    "type": "thị trấn",
+    "district_code": "447",
+    "codename": "ky_dong"
+  },
+  {
+    "code": "18778",
+    "name": "Kỳ Khang",
+    "name_en": "Ky Khang",
+    "full_name": "Xã Kỳ Khang",
+    "full_name_en": "Ky Khang Commune",
+    "type": "xã",
+    "district_code": "447",
+    "codename": "ky_khang"
+  },
+  {
+    "code": "18784",
+    "name": "Kỳ Văn",
+    "name_en": "Ky Van",
+    "full_name": "Xã Kỳ Văn",
+    "full_name_en": "Ky Van Commune",
+    "type": "xã",
+    "district_code": "447",
+    "codename": "ky_van"
+  },
+  {
+    "code": "18787",
+    "name": "Kỳ Trung",
+    "name_en": "Ky Trung",
+    "full_name": "Xã Kỳ Trung",
+    "full_name_en": "Ky Trung Commune",
+    "type": "xã",
+    "district_code": "447",
+    "codename": "ky_trung"
+  },
+  {
+    "code": "18790",
+    "name": "Kỳ Thọ",
+    "name_en": "Ky Tho",
+    "full_name": "Xã Kỳ Thọ",
+    "full_name_en": "Ky Tho Commune",
+    "type": "xã",
+    "district_code": "447",
+    "codename": "ky_tho"
+  },
+  {
+    "code": "18793",
+    "name": "Kỳ Tây",
+    "name_en": "Ky Tay",
+    "full_name": "Xã Kỳ Tây",
+    "full_name_en": "Ky Tay Commune",
+    "type": "xã",
+    "district_code": "447",
+    "codename": "ky_tay"
+  },
+  {
+    "code": "18799",
+    "name": "Kỳ Thượng",
+    "name_en": "Ky Thuong",
+    "full_name": "Xã Kỳ Thượng",
+    "full_name_en": "Ky Thuong Commune",
+    "type": "xã",
+    "district_code": "447",
+    "codename": "ky_thuong"
+  },
+  {
+    "code": "18802",
+    "name": "Kỳ Hải",
+    "name_en": "Ky Hai",
+    "full_name": "Xã Kỳ Hải",
+    "full_name_en": "Ky Hai Commune",
+    "type": "xã",
+    "district_code": "447",
+    "codename": "ky_hai"
+  },
+  {
+    "code": "18805",
+    "name": "Kỳ Thư",
+    "name_en": "Ky Thu",
+    "full_name": "Xã Kỳ Thư",
+    "full_name_en": "Ky Thu Commune",
+    "type": "xã",
+    "district_code": "447",
+    "codename": "ky_thu"
+  },
+  {
+    "code": "18811",
+    "name": "Kỳ Châu",
+    "name_en": "Ky Chau",
+    "full_name": "Xã Kỳ Châu",
+    "full_name_en": "Ky Chau Commune",
+    "type": "xã",
+    "district_code": "447",
+    "codename": "ky_chau"
+  },
+  {
+    "code": "18814",
+    "name": "Kỳ Tân",
+    "name_en": "Ky Tan",
+    "full_name": "Xã Kỳ Tân",
+    "full_name_en": "Ky Tan Commune",
+    "type": "xã",
+    "district_code": "447",
+    "codename": "ky_tan"
+  },
+  {
+    "code": "18838",
+    "name": "Lâm Hợp",
+    "name_en": "Lam Hop",
+    "full_name": "Xã Lâm Hợp",
+    "full_name_en": "Lam Hop Commune",
+    "type": "xã",
+    "district_code": "447",
+    "codename": "lam_hop"
+  },
+  {
+    "code": "18844",
+    "name": "Kỳ Sơn",
+    "name_en": "Ky Son",
+    "full_name": "Xã Kỳ Sơn",
+    "full_name_en": "Ky Son Commune",
+    "type": "xã",
+    "district_code": "447",
+    "codename": "ky_son"
+  },
+  {
+    "code": "18850",
+    "name": "Kỳ Lạc",
+    "name_en": "Ky Lac",
+    "full_name": "Xã Kỳ Lạc",
+    "full_name_en": "Ky Lac Commune",
+    "type": "xã",
+    "district_code": "447",
+    "codename": "ky_lac"
+  }
+]

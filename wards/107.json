@@ -1,0 +1,142 @@
+[
+  {
+    "code": "03433",
+    "name": "Mường Tè",
+    "name_en": "Muong Te",
+    "full_name": "Thị trấn Mường Tè",
+    "full_name_en": "Muong Te Township",
+    "type": "thị trấn",
+    "district_code": "107",
+    "codename": "muong_te"
+  },
+  {
+    "code": "03436",
+    "name": "Thu Lũm",
+    "name_en": "Thu Lum",
+    "full_name": "Xã Thu Lũm",
+    "full_name_en": "Thu Lum Commune",
+    "type": "xã",
+    "district_code": "107",
+    "codename": "thu_lum"
+  },
+  {
+    "code": "03439",
+    "name": "Ka Lăng",
+    "name_en": "Ka Lang",
+    "full_name": "Xã Ka Lăng",
+    "full_name_en": "Ka Lang Commune",
+    "type": "xã",
+    "district_code": "107",
+    "codename": "ka_lang"
+  },
+  {
+    "code": "03440",
+    "name": "Tá Bạ",
+    "name_en": "Ta Ba",
+    "full_name": "Xã Tá Bạ",
+    "full_name_en": "Ta Ba Commune",
+    "type": "xã",
+    "district_code": "107",
+    "codename": "ta_ba"
+  },
+  {
+    "code": "03442",
+    "name": "Pa ủ",
+    "name_en": "Pa u",
+    "full_name": "Xã Pa ủ",
+    "full_name_en": "Pa u Commune",
+    "type": "xã",
+    "district_code": "107",
+    "codename": "pa_u"
+  },
+  {
+    "code": "03445",
+    "name": "Mường Tè",
+    "name_en": "Muong Te",
+    "full_name": "Xã Mường Tè",
+    "full_name_en": "Muong Te Commune",
+    "type": "xã",
+    "district_code": "107",
+    "codename": "muong_te"
+  },
+  {
+    "code": "03448",
+    "name": "Pa Vệ Sử",
+    "name_en": "Pa Ve Su",
+    "full_name": "Xã Pa Vệ Sử",
+    "full_name_en": "Pa Ve Su Commune",
+    "type": "xã",
+    "district_code": "107",
+    "codename": "pa_ve_su"
+  },
+  {
+    "code": "03451",
+    "name": "Mù Cả",
+    "name_en": "Mu Ca",
+    "full_name": "Xã Mù Cả",
+    "full_name_en": "Mu Ca Commune",
+    "type": "xã",
+    "district_code": "107",
+    "codename": "mu_ca"
+  },
+  {
+    "code": "03454",
+    "name": "Bum Tở",
+    "name_en": "Bum To",
+    "full_name": "Xã Bum Tở",
+    "full_name_en": "Bum To Commune",
+    "type": "xã",
+    "district_code": "107",
+    "codename": "bum_to"
+  },
+  {
+    "code": "03457",
+    "name": "Nậm Khao",
+    "name_en": "Nam Khao",
+    "full_name": "Xã Nậm Khao",
+    "full_name_en": "Nam Khao Commune",
+    "type": "xã",
+    "district_code": "107",
+    "codename": "nam_khao"
+  },
+  {
+    "code": "03463",
+    "name": "Tà Tổng",
+    "name_en": "Ta Tong",
+    "full_name": "Xã Tà Tổng",
+    "full_name_en": "Ta Tong Commune",
+    "type": "xã",
+    "district_code": "107",
+    "codename": "ta_tong"
+  },
+  {
+    "code": "03466",
+    "name": "Bum Nưa",
+    "name_en": "Bum Nua",
+    "full_name": "Xã Bum Nưa",
+    "full_name_en": "Bum Nua Commune",
+    "type": "xã",
+    "district_code": "107",
+    "codename": "bum_nua"
+  },
+  {
+    "code": "03467",
+    "name": "Vàng San",
+    "name_en": "Vang San",
+    "full_name": "Xã Vàng San",
+    "full_name_en": "Vang San Commune",
+    "type": "xã",
+    "district_code": "107",
+    "codename": "vang_san"
+  },
+  {
+    "code": "03469",
+    "name": "Kan Hồ",
+    "name_en": "Kan Ho",
+    "full_name": "Xã Kan Hồ",
+    "full_name_en": "Kan Ho Commune",
+    "type": "xã",
+    "district_code": "107",
+    "codename": "kan_ho"
+  }
+]

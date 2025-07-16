@@ -1,0 +1,172 @@
+[
+  {
+    "code": "00526",
+    "name": "Yên Viên",
+    "name_en": "Yen Vien",
+    "full_name": "Thị trấn Yên Viên",
+    "full_name_en": "Yen Vien Township",
+    "type": "thị trấn",
+    "district_code": "018",
+    "codename": "yen_vien"
+  },
+  {
+    "code": "00529",
+    "name": "Yên Thường",
+    "name_en": "Yen Thuong",
+    "full_name": "Xã Yên Thường",
+    "full_name_en": "Yen Thuong Commune",
+    "type": "xã",
+    "district_code": "018",
+    "codename": "yen_thuong"
+  },
+  {
+    "code": "00532",
+    "name": "Yên Viên",
+    "name_en": "Yen Vien",
+    "full_name": "Xã Yên Viên",
+    "full_name_en": "Yen Vien Commune",
+    "type": "xã",
+    "district_code": "018",
+    "codename": "yen_vien"
+  },
+  {
+    "code": "00535",
+    "name": "Ninh Hiệp",
+    "name_en": "Ninh Hiep",
+    "full_name": "Xã Ninh Hiệp",
+    "full_name_en": "Ninh Hiep Commune",
+    "type": "xã",
+    "district_code": "018",
+    "codename": "ninh_hiep"
+  },
+  {
+    "code": "00541",
+    "name": "Thiên Đức",
+    "name_en": "Thien Duc",
+    "full_name": "Xã Thiên Đức",
+    "full_name_en": "Thien Duc Commune",
+    "type": "xã",
+    "district_code": "018",
+    "codename": "thien_duc"
+  },
+  {
+    "code": "00544",
+    "name": "Phù Đổng",
+    "name_en": "Phu Dong",
+    "full_name": "Xã Phù Đổng",
+    "full_name_en": "Phu Dong Commune",
+    "type": "xã",
+    "district_code": "018",
+    "codename": "phu_dong"
+  },
+  {
+    "code": "00550",
+    "name": "Lệ Chi",
+    "name_en": "Le Chi",
+    "full_name": "Xã Lệ Chi",
+    "full_name_en": "Le Chi Commune",
+    "type": "xã",
+    "district_code": "018",
+    "codename": "le_chi"
+  },
+  {
+    "code": "00553",
+    "name": "Cổ Bi",
+    "name_en": "Co Bi",
+    "full_name": "Xã Cổ Bi",
+    "full_name_en": "Co Bi Commune",
+    "type": "xã",
+    "district_code": "018",
+    "codename": "co_bi"
+  },
+  {
+    "code": "00556",
+    "name": "Đặng Xá",
+    "name_en": "Dang Xa",
+    "full_name": "Xã Đặng Xá",
+    "full_name_en": "Dang Xa Commune",
+    "type": "xã",
+    "district_code": "018",
+    "codename": "dang_xa"
+  },
+  {
+    "code": "00562",
+    "name": "Phú Sơn",
+    "name_en": "Phu Son",
+    "full_name": "Xã Phú Sơn",
+    "full_name_en": "Phu Son Commune",
+    "type": "xã",
+    "district_code": "018",
+    "codename": "phu_son"
+  },
+  {
+    "code": "00565",
+    "name": "Trâu Quỳ",
+    "name_en": "Trau Quy",
+    "full_name": "Thị trấn Trâu Quỳ",
+    "full_name_en": "Trau Quy Township",
+    "type": "thị trấn",
+    "district_code": "018",
+    "codename": "trau_quy"
+  },
+  {
+    "code": "00568",
+    "name": "Dương Quang",
+    "name_en": "Duong Quang",
+    "full_name": "Xã Dương Quang",
+    "full_name_en": "Duong Quang Commune",
+    "type": "xã",
+    "district_code": "018",
+    "codename": "duong_quang"
+  },
+  {
+    "code": "00571",
+    "name": "Dương Xá",
+    "name_en": "Duong Xa",
+    "full_name": "Xã Dương Xá",
+    "full_name_en": "Duong Xa Commune",
+    "type": "xã",
+    "district_code": "018",
+    "codename": "duong_xa"
+  },
+  {
+    "code": "00577",
+    "name": "Đa Tốn",
+    "name_en": "Da Ton",
+    "full_name": "Xã Đa Tốn",
+    "full_name_en": "Da Ton Commune",
+    "type": "xã",
+    "district_code": "018",
+    "codename": "da_ton"
+  },
+  {
+    "code": "00580",
+    "name": "Kiêu Kỵ",
+    "name_en": "Kieu Ky",
+    "full_name": "Xã Kiêu Kỵ",
+    "full_name_en": "Kieu Ky Commune",
+    "type": "xã",
+    "district_code": "018",
+    "codename": "kieu_ky"
+  },
+  {
+    "code": "00583",
+    "name": "Bát Tràng",
+    "name_en": "Bat Trang",
+    "full_name": "Xã Bát Tràng",
+    "full_name_en": "Bat Trang Commune",
+    "type": "xã",
+    "district_code": "018",
+    "codename": "bat_trang"
+  },
+  {
+    "code": "00589",
+    "name": "Kim Đức",
+    "name_en": "Kim Duc",
+    "full_name": "Xã Kim Đức",
+    "full_name_en": "Kim Duc Commune",
+    "type": "xã",
+    "district_code": "018",
+    "codename": "kim_duc"
+  }
+]

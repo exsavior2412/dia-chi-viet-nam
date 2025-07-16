@@ -1,0 +1,132 @@
+[
+  {
+    "code": "01290",
+    "name": "Pác Miầu",
+    "name_en": "Pac Miau",
+    "full_name": "Thị trấn Pác Miầu",
+    "full_name_en": "Pac Miau Township",
+    "type": "thị trấn",
+    "district_code": "042",
+    "codename": "pac_miau"
+  },
+  {
+    "code": "01291",
+    "name": "Đức Hạnh",
+    "name_en": "Duc Hanh",
+    "full_name": "Xã Đức Hạnh",
+    "full_name_en": "Duc Hanh Commune",
+    "type": "xã",
+    "district_code": "042",
+    "codename": "duc_hanh"
+  },
+  {
+    "code": "01294",
+    "name": "Lý Bôn",
+    "name_en": "Ly Bon",
+    "full_name": "Xã Lý Bôn",
+    "full_name_en": "Ly Bon Commune",
+    "type": "xã",
+    "district_code": "042",
+    "codename": "ly_bon"
+  },
+  {
+    "code": "01296",
+    "name": "Nam Cao",
+    "name_en": "Nam Cao",
+    "full_name": "Xã Nam Cao",
+    "full_name_en": "Nam Cao Commune",
+    "type": "xã",
+    "district_code": "042",
+    "codename": "nam_cao"
+  },
+  {
+    "code": "01297",
+    "name": "Nam Quang",
+    "name_en": "Nam Quang",
+    "full_name": "Xã Nam Quang",
+    "full_name_en": "Nam Quang Commune",
+    "type": "xã",
+    "district_code": "042",
+    "codename": "nam_quang"
+  },
+  {
+    "code": "01300",
+    "name": "Vĩnh Quang",
+    "name_en": "Vinh Quang",
+    "full_name": "Xã Vĩnh Quang",
+    "full_name_en": "Vinh Quang Commune",
+    "type": "xã",
+    "district_code": "042",
+    "codename": "vinh_quang"
+  },
+  {
+    "code": "01303",
+    "name": "Quảng Lâm",
+    "name_en": "Quang Lam",
+    "full_name": "Xã Quảng Lâm",
+    "full_name_en": "Quang Lam Commune",
+    "type": "xã",
+    "district_code": "042",
+    "codename": "quang_lam"
+  },
+  {
+    "code": "01304",
+    "name": "Thạch Lâm",
+    "name_en": "Thach Lam",
+    "full_name": "Xã Thạch Lâm",
+    "full_name_en": "Thach Lam Commune",
+    "type": "xã",
+    "district_code": "042",
+    "codename": "thach_lam"
+  },
+  {
+    "code": "01309",
+    "name": "Vĩnh Phong",
+    "name_en": "Vinh Phong",
+    "full_name": "Xã Vĩnh Phong",
+    "full_name_en": "Vinh Phong Commune",
+    "type": "xã",
+    "district_code": "042",
+    "codename": "vinh_phong"
+  },
+  {
+    "code": "01312",
+    "name": "Mông Ân",
+    "name_en": "Mong An",
+    "full_name": "Xã Mông Ân",
+    "full_name_en": "Mong An Commune",
+    "type": "xã",
+    "district_code": "042",
+    "codename": "mong_an"
+  },
+  {
+    "code": "01315",
+    "name": "Thái Học",
+    "name_en": "Thai Hoc",
+    "full_name": "Xã Thái Học",
+    "full_name_en": "Thai Hoc Commune",
+    "type": "xã",
+    "district_code": "042",
+    "codename": "thai_hoc"
+  },
+  {
+    "code": "01316",
+    "name": "Thái Sơn",
+    "name_en": "Thai Son",
+    "full_name": "Xã Thái Sơn",
+    "full_name_en": "Thai Son Commune",
+    "type": "xã",
+    "district_code": "042",
+    "codename": "thai_son"
+  },
+  {
+    "code": "01318",
+    "name": "Yên Thổ",
+    "name_en": "Yen Tho",
+    "full_name": "Xã Yên Thổ",
+    "full_name_en": "Yen Tho Commune",
+    "type": "xã",
+    "district_code": "042",
+    "codename": "yen_tho"
+  }
+]

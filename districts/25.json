@@ -1,0 +1,132 @@
+[
+  {
+    "code": "227",
+    "name": "Việt Trì",
+    "name_en": "Viet Tri",
+    "full_name": "Thành phố Việt Trì",
+    "full_name_en": "Viet Tri City",
+    "type": "thành phố",
+    "province_code": "25",
+    "codename": "viet_tri"
+  },
+  {
+    "code": "228",
+    "name": "Phú Thọ",
+    "name_en": "Phu Tho",
+    "full_name": "Thị xã Phú Thọ",
+    "full_name_en": "Phu Tho Town",
+    "type": "thị xã",
+    "province_code": "25",
+    "codename": "phu_tho"
+  },
+  {
+    "code": "230",
+    "name": "Đoan Hùng",
+    "name_en": "Doan Hung",
+    "full_name": "Huyện Đoan Hùng",
+    "full_name_en": "Doan Hung District",
+    "type": "huyện",
+    "province_code": "25",
+    "codename": "doan_hung"
+  },
+  {
+    "code": "231",
+    "name": "Hạ Hoà",
+    "name_en": "Ha Hoa",
+    "full_name": "Huyện Hạ Hoà",
+    "full_name_en": "Ha Hoa District",
+    "type": "huyện",
+    "province_code": "25",
+    "codename": "ha_hoa"
+  },
+  {
+    "code": "232",
+    "name": "Thanh Ba",
+    "name_en": "Thanh Ba",
+    "full_name": "Huyện Thanh Ba",
+    "full_name_en": "Thanh Ba District",
+    "type": "huyện",
+    "province_code": "25",
+    "codename": "thanh_ba"
+  },
+  {
+    "code": "233",
+    "name": "Phù Ninh",
+    "name_en": "Phu Ninh",
+    "full_name": "Huyện Phù Ninh",
+    "full_name_en": "Phu Ninh District",
+    "type": "huyện",
+    "province_code": "25",
+    "codename": "phu_ninh"
+  },
+  {
+    "code": "234",
+    "name": "Yên Lập",
+    "name_en": "Yen Lap",
+    "full_name": "Huyện Yên Lập",
+    "full_name_en": "Yen Lap District",
+    "type": "huyện",
+    "province_code": "25",
+    "codename": "yen_lap"
+  },
+  {
+    "code": "235",
+    "name": "Cẩm Khê",
+    "name_en": "Cam Khe",
+    "full_name": "Huyện Cẩm Khê",
+    "full_name_en": "Cam Khe District",
+    "type": "huyện",
+    "province_code": "25",
+    "codename": "cam_khe"
+  },
+  {
+    "code": "236",
+    "name": "Tam Nông",
+    "name_en": "Tam Nong",
+    "full_name": "Huyện Tam Nông",
+    "full_name_en": "Tam Nong District",
+    "type": "huyện",
+    "province_code": "25",
+    "codename": "tam_nong"
+  },
+  {
+    "code": "237",
+    "name": "Lâm Thao",
+    "name_en": "Lam Thao",
+    "full_name": "Huyện Lâm Thao",
+    "full_name_en": "Lam Thao District",
+    "type": "huyện",
+    "province_code": "25",
+    "codename": "lam_thao"
+  },
+  {
+    "code": "238",
+    "name": "Thanh Sơn",
+    "name_en": "Thanh Son",
+    "full_name": "Huyện Thanh Sơn",
+    "full_name_en": "Thanh Son District",
+    "type": "huyện",
+    "province_code": "25",
+    "codename": "thanh_son"
+  },
+  {
+    "code": "239",
+    "name": "Thanh Thuỷ",
+    "name_en": "Thanh Thuy",
+    "full_name": "Huyện Thanh Thuỷ",
+    "full_name_en": "Thanh Thuy District",
+    "type": "huyện",
+    "province_code": "25",
+    "codename": "thanh_thuy"
+  },
+  {
+    "code": "240",
+    "name": "Tân Sơn",
+    "name_en": "Tan Son",
+    "full_name": "Huyện Tân Sơn",
+    "full_name_en": "Tan Son District",
+    "type": "huyện",
+    "province_code": "25",
+    "codename": "tan_son"
+  }
+]

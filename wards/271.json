@@ -1,0 +1,292 @@
+[
+  {
+    "code": "09619",
+    "name": "Tây Đằng",
+    "name_en": "Tay Dang",
+    "full_name": "Thị trấn Tây Đằng",
+    "full_name_en": "Tay Dang Township",
+    "type": "thị trấn",
+    "district_code": "271",
+    "codename": "tay_dang"
+  },
+  {
+    "code": "09625",
+    "name": "Phú Cường",
+    "name_en": "Phu Cuong",
+    "full_name": "Xã Phú Cường",
+    "full_name_en": "Phu Cuong Commune",
+    "type": "xã",
+    "district_code": "271",
+    "codename": "phu_cuong"
+  },
+  {
+    "code": "09628",
+    "name": "Cổ Đô",
+    "name_en": "Co Do",
+    "full_name": "Xã Cổ Đô",
+    "full_name_en": "Co Do Commune",
+    "type": "xã",
+    "district_code": "271",
+    "codename": "co_do"
+  },
+  {
+    "code": "09634",
+    "name": "Vạn Thắng",
+    "name_en": "Van Thang",
+    "full_name": "Xã Vạn Thắng",
+    "full_name_en": "Van Thang Commune",
+    "type": "xã",
+    "district_code": "271",
+    "codename": "van_thang"
+  },
+  {
+    "code": "09640",
+    "name": "Phong Vân",
+    "name_en": "Phong Van",
+    "full_name": "Xã Phong Vân",
+    "full_name_en": "Phong Van Commune",
+    "type": "xã",
+    "district_code": "271",
+    "codename": "phong_van"
+  },
+  {
+    "code": "09643",
+    "name": "Phú Đông",
+    "name_en": "Phu Dong",
+    "full_name": "Xã Phú Đông",
+    "full_name_en": "Phu Dong Commune",
+    "type": "xã",
+    "district_code": "271",
+    "codename": "phu_dong"
+  },
+  {
+    "code": "09646",
+    "name": "Phú Hồng",
+    "name_en": "Phu Hong",
+    "full_name": "Xã Phú Hồng",
+    "full_name_en": "Phu Hong Commune",
+    "type": "xã",
+    "district_code": "271",
+    "codename": "phu_hong"
+  },
+  {
+    "code": "09649",
+    "name": "Phú Châu",
+    "name_en": "Phu Chau",
+    "full_name": "Xã Phú Châu",
+    "full_name_en": "Phu Chau Commune",
+    "type": "xã",
+    "district_code": "271",
+    "codename": "phu_chau"
+  },
+  {
+    "code": "09652",
+    "name": "Thái Hòa",
+    "name_en": "Thai Hoa",
+    "full_name": "Xã Thái Hòa",
+    "full_name_en": "Thai Hoa Commune",
+    "type": "xã",
+    "district_code": "271",
+    "codename": "thai_hoa"
+  },
+  {
+    "code": "09655",
+    "name": "Đồng Thái",
+    "name_en": "Dong Thai",
+    "full_name": "Xã Đồng Thái",
+    "full_name_en": "Dong Thai Commune",
+    "type": "xã",
+    "district_code": "271",
+    "codename": "dong_thai"
+  },
+  {
+    "code": "09658",
+    "name": "Phú Sơn",
+    "name_en": "Phu Son",
+    "full_name": "Xã Phú Sơn",
+    "full_name_en": "Phu Son Commune",
+    "type": "xã",
+    "district_code": "271",
+    "codename": "phu_son"
+  },
+  {
+    "code": "09661",
+    "name": "Minh Châu",
+    "name_en": "Minh Chau",
+    "full_name": "Xã Minh Châu",
+    "full_name_en": "Minh Chau Commune",
+    "type": "xã",
+    "district_code": "271",
+    "codename": "minh_chau"
+  },
+  {
+    "code": "09664",
+    "name": "Vật Lại",
+    "name_en": "Vat Lai",
+    "full_name": "Xã Vật Lại",
+    "full_name_en": "Vat Lai Commune",
+    "type": "xã",
+    "district_code": "271",
+    "codename": "vat_lai"
+  },
+  {
+    "code": "09667",
+    "name": "Chu Minh",
+    "name_en": "Chu Minh",
+    "full_name": "Xã Chu Minh",
+    "full_name_en": "Chu Minh Commune",
+    "type": "xã",
+    "district_code": "271",
+    "codename": "chu_minh"
+  },
+  {
+    "code": "09670",
+    "name": "Tòng Bạt",
+    "name_en": "Tong Bat",
+    "full_name": "Xã Tòng Bạt",
+    "full_name_en": "Tong Bat Commune",
+    "type": "xã",
+    "district_code": "271",
+    "codename": "tong_bat"
+  },
+  {
+    "code": "09673",
+    "name": "Cẩm Lĩnh",
+    "name_en": "Cam Linh",
+    "full_name": "Xã Cẩm Lĩnh",
+    "full_name_en": "Cam Linh Commune",
+    "type": "xã",
+    "district_code": "271",
+    "codename": "cam_linh"
+  },
+  {
+    "code": "09676",
+    "name": "Sơn Đà",
+    "name_en": "Son Da",
+    "full_name": "Xã Sơn Đà",
+    "full_name_en": "Son Da Commune",
+    "type": "xã",
+    "district_code": "271",
+    "codename": "son_da"
+  },
+  {
+    "code": "09679",
+    "name": "Đông Quang",
+    "name_en": "Dong Quang",
+    "full_name": "Xã Đông Quang",
+    "full_name_en": "Dong Quang Commune",
+    "type": "xã",
+    "district_code": "271",
+    "codename": "dong_quang"
+  },
+  {
+    "code": "09682",
+    "name": "Tiên Phong",
+    "name_en": "Tien Phong",
+    "full_name": "Xã Tiên Phong",
+    "full_name_en": "Tien Phong Commune",
+    "type": "xã",
+    "district_code": "271",
+    "codename": "tien_phong"
+  },
+  {
+    "code": "09685",
+    "name": "Thụy An",
+    "name_en": "Thuy An",
+    "full_name": "Xã Thụy An",
+    "full_name_en": "Thuy An Commune",
+    "type": "xã",
+    "district_code": "271",
+    "codename": "thuy_an"
+  },
+  {
+    "code": "09688",
+    "name": "Cam Thượng",
+    "name_en": "Cam Thuong",
+    "full_name": "Xã Cam Thượng",
+    "full_name_en": "Cam Thuong Commune",
+    "type": "xã",
+    "district_code": "271",
+    "codename": "cam_thuong"
+  },
+  {
+    "code": "09691",
+    "name": "Thuần Mỹ",
+    "name_en": "Thuan My",
+    "full_name": "Xã Thuần Mỹ",
+    "full_name_en": "Thuan My Commune",
+    "type": "xã",
+    "district_code": "271",
+    "codename": "thuan_my"
+  },
+  {
+    "code": "09694",
+    "name": "Tản Lĩnh",
+    "name_en": "Tan Linh",
+    "full_name": "Xã Tản Lĩnh",
+    "full_name_en": "Tan Linh Commune",
+    "type": "xã",
+    "district_code": "271",
+    "codename": "tan_linh"
+  },
+  {
+    "code": "09697",
+    "name": "Ba Trại",
+    "name_en": "Ba Trai",
+    "full_name": "Xã Ba Trại",
+    "full_name_en": "Ba Trai Commune",
+    "type": "xã",
+    "district_code": "271",
+    "codename": "ba_trai"
+  },
+  {
+    "code": "09700",
+    "name": "Minh Quang",
+    "name_en": "Minh Quang",
+    "full_name": "Xã Minh Quang",
+    "full_name_en": "Minh Quang Commune",
+    "type": "xã",
+    "district_code": "271",
+    "codename": "minh_quang"
+  },
+  {
+    "code": "09703",
+    "name": "Ba Vì",
+    "name_en": "Ba Vi",
+    "full_name": "Xã Ba Vì",
+    "full_name_en": "Ba Vi Commune",
+    "type": "xã",
+    "district_code": "271",
+    "codename": "ba_vi"
+  },
+  {
+    "code": "09706",
+    "name": "Vân Hòa",
+    "name_en": "Van Hoa",
+    "full_name": "Xã Vân Hòa",
+    "full_name_en": "Van Hoa Commune",
+    "type": "xã",
+    "district_code": "271",
+    "codename": "van_hoa"
+  },
+  {
+    "code": "09709",
+    "name": "Yên Bài",
+    "name_en": "Yen Bai",
+    "full_name": "Xã Yên Bài",
+    "full_name_en": "Yen Bai Commune",
+    "type": "xã",
+    "district_code": "271",
+    "codename": "yen_bai"
+  },
+  {
+    "code": "09712",
+    "name": "Khánh Thượng",
+    "name_en": "Khanh Thuong",
+    "full_name": "Xã Khánh Thượng",
+    "full_name_en": "Khanh Thuong Commune",
+    "type": "xã",
+    "district_code": "271",
+    "codename": "khanh_thuong"
+  }
+]

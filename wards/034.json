@@ -1,0 +1,232 @@
+[
+  {
+    "code": "01153",
+    "name": "Việt Quang",
+    "name_en": "Viet Quang",
+    "full_name": "Thị trấn Việt Quang",
+    "full_name_en": "Viet Quang Township",
+    "type": "thị trấn",
+    "district_code": "034",
+    "codename": "viet_quang"
+  },
+  {
+    "code": "01156",
+    "name": "Vĩnh Tuy",
+    "name_en": "Vinh Tuy",
+    "full_name": "Thị trấn Vĩnh Tuy",
+    "full_name_en": "Vinh Tuy Township",
+    "type": "thị trấn",
+    "district_code": "034",
+    "codename": "vinh_tuy"
+  },
+  {
+    "code": "01159",
+    "name": "Tân Lập",
+    "name_en": "Tan Lap",
+    "full_name": "Xã Tân Lập",
+    "full_name_en": "Tan Lap Commune",
+    "type": "xã",
+    "district_code": "034",
+    "codename": "tan_lap"
+  },
+  {
+    "code": "01162",
+    "name": "Tân Thành",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thành",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "034",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "01165",
+    "name": "Đồng Tiến",
+    "name_en": "Dong Tien",
+    "full_name": "Xã Đồng Tiến",
+    "full_name_en": "Dong Tien Commune",
+    "type": "xã",
+    "district_code": "034",
+    "codename": "dong_tien"
+  },
+  {
+    "code": "01168",
+    "name": "Đồng Tâm",
+    "name_en": "Dong Tam",
+    "full_name": "Xã Đồng Tâm",
+    "full_name_en": "Dong Tam Commune",
+    "type": "xã",
+    "district_code": "034",
+    "codename": "dong_tam"
+  },
+  {
+    "code": "01171",
+    "name": "Tân Quang",
+    "name_en": "Tan Quang",
+    "full_name": "Xã Tân Quang",
+    "full_name_en": "Tan Quang Commune",
+    "type": "xã",
+    "district_code": "034",
+    "codename": "tan_quang"
+  },
+  {
+    "code": "01174",
+    "name": "Thượng Bình",
+    "name_en": "Thuong Binh",
+    "full_name": "Xã Thượng Bình",
+    "full_name_en": "Thuong Binh Commune",
+    "type": "xã",
+    "district_code": "034",
+    "codename": "thuong_binh"
+  },
+  {
+    "code": "01177",
+    "name": "Hữu Sản",
+    "name_en": "Huu San",
+    "full_name": "Xã Hữu Sản",
+    "full_name_en": "Huu San Commune",
+    "type": "xã",
+    "district_code": "034",
+    "codename": "huu_san"
+  },
+  {
+    "code": "01180",
+    "name": "Kim Ngọc",
+    "name_en": "Kim Ngoc",
+    "full_name": "Xã Kim Ngọc",
+    "full_name_en": "Kim Ngoc Commune",
+    "type": "xã",
+    "district_code": "034",
+    "codename": "kim_ngoc"
+  },
+  {
+    "code": "01183",
+    "name": "Việt Vinh",
+    "name_en": "Viet Vinh",
+    "full_name": "Xã Việt Vinh",
+    "full_name_en": "Viet Vinh Commune",
+    "type": "xã",
+    "district_code": "034",
+    "codename": "viet_vinh"
+  },
+  {
+    "code": "01186",
+    "name": "Bằng Hành",
+    "name_en": "Bang Hanh",
+    "full_name": "Xã Bằng Hành",
+    "full_name_en": "Bang Hanh Commune",
+    "type": "xã",
+    "district_code": "034",
+    "codename": "bang_hanh"
+  },
+  {
+    "code": "01189",
+    "name": "Quang Minh",
+    "name_en": "Quang Minh",
+    "full_name": "Xã Quang Minh",
+    "full_name_en": "Quang Minh Commune",
+    "type": "xã",
+    "district_code": "034",
+    "codename": "quang_minh"
+  },
+  {
+    "code": "01192",
+    "name": "Liên Hiệp",
+    "name_en": "Lien Hiep",
+    "full_name": "Xã Liên Hiệp",
+    "full_name_en": "Lien Hiep Commune",
+    "type": "xã",
+    "district_code": "034",
+    "codename": "lien_hiep"
+  },
+  {
+    "code": "01195",
+    "name": "Vô Điếm",
+    "name_en": "Vo Diem",
+    "full_name": "Xã Vô Điếm",
+    "full_name_en": "Vo Diem Commune",
+    "type": "xã",
+    "district_code": "034",
+    "codename": "vo_diem"
+  },
+  {
+    "code": "01198",
+    "name": "Việt Hồng",
+    "name_en": "Viet Hong",
+    "full_name": "Xã Việt Hồng",
+    "full_name_en": "Viet Hong Commune",
+    "type": "xã",
+    "district_code": "034",
+    "codename": "viet_hong"
+  },
+  {
+    "code": "01201",
+    "name": "Hùng An",
+    "name_en": "Hung An",
+    "full_name": "Xã Hùng An",
+    "full_name_en": "Hung An Commune",
+    "type": "xã",
+    "district_code": "034",
+    "codename": "hung_an"
+  },
+  {
+    "code": "01204",
+    "name": "Đức Xuân",
+    "name_en": "Duc Xuan",
+    "full_name": "Xã Đức Xuân",
+    "full_name_en": "Duc Xuan Commune",
+    "type": "xã",
+    "district_code": "034",
+    "codename": "duc_xuan"
+  },
+  {
+    "code": "01207",
+    "name": "Tiên Kiều",
+    "name_en": "Tien Kieu",
+    "full_name": "Xã Tiên Kiều",
+    "full_name_en": "Tien Kieu Commune",
+    "type": "xã",
+    "district_code": "034",
+    "codename": "tien_kieu"
+  },
+  {
+    "code": "01210",
+    "name": "Vĩnh Hảo",
+    "name_en": "Vinh Hao",
+    "full_name": "Xã Vĩnh Hảo",
+    "full_name_en": "Vinh Hao Commune",
+    "type": "xã",
+    "district_code": "034",
+    "codename": "vinh_hao"
+  },
+  {
+    "code": "01213",
+    "name": "Vĩnh Phúc",
+    "name_en": "Vinh Phuc",
+    "full_name": "Xã Vĩnh Phúc",
+    "full_name_en": "Vinh Phuc Commune",
+    "type": "xã",
+    "district_code": "034",
+    "codename": "vinh_phuc"
+  },
+  {
+    "code": "01216",
+    "name": "Đồng Yên",
+    "name_en": "Dong Yen",
+    "full_name": "Xã Đồng Yên",
+    "full_name_en": "Dong Yen Commune",
+    "type": "xã",
+    "district_code": "034",
+    "codename": "dong_yen"
+  },
+  {
+    "code": "01219",
+    "name": "Đông Thành",
+    "name_en": "Dong Thanh",
+    "full_name": "Xã Đông Thành",
+    "full_name_en": "Dong Thanh Commune",
+    "type": "xã",
+    "district_code": "034",
+    "codename": "dong_thanh"
+  }
+]

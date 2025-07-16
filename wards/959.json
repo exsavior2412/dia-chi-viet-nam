@@ -1,0 +1,102 @@
+[
+  {
+    "code": "31942",
+    "name": "1",
+    "name_en": "1",
+    "full_name": "Phường 1",
+    "full_name_en": "Ward 1",
+    "type": "phường",
+    "district_code": "959",
+    "codename": "1"
+  },
+  {
+    "code": "31945",
+    "name": "Hộ Phòng",
+    "name_en": "Ho Phong",
+    "full_name": "Phường Hộ Phòng",
+    "full_name_en": "Ho Phong Ward",
+    "type": "phường",
+    "district_code": "959",
+    "codename": "ho_phong"
+  },
+  {
+    "code": "31948",
+    "name": "Phong Thạnh Đông",
+    "name_en": "Phong Thanh Dong",
+    "full_name": "Xã Phong Thạnh Đông",
+    "full_name_en": "Phong Thanh Dong Commune",
+    "type": "xã",
+    "district_code": "959",
+    "codename": "phong_thanh_dong"
+  },
+  {
+    "code": "31951",
+    "name": "Láng Tròn",
+    "name_en": "Lang Tron",
+    "full_name": "Phường Láng Tròn",
+    "full_name_en": "Lang Tron Ward",
+    "type": "phường",
+    "district_code": "959",
+    "codename": "lang_tron"
+  },
+  {
+    "code": "31954",
+    "name": "Phong Tân",
+    "name_en": "Phong Tan",
+    "full_name": "Xã Phong Tân",
+    "full_name_en": "Phong Tan Commune",
+    "type": "xã",
+    "district_code": "959",
+    "codename": "phong_tan"
+  },
+  {
+    "code": "31957",
+    "name": "Tân Phong",
+    "name_en": "Tan Phong",
+    "full_name": "Xã Tân Phong",
+    "full_name_en": "Tan Phong Commune",
+    "type": "xã",
+    "district_code": "959",
+    "codename": "tan_phong"
+  },
+  {
+    "code": "31960",
+    "name": "Phong Thạnh",
+    "name_en": "Phong Thanh",
+    "full_name": "Xã Phong Thạnh",
+    "full_name_en": "Phong Thanh Commune",
+    "type": "xã",
+    "district_code": "959",
+    "codename": "phong_thanh"
+  },
+  {
+    "code": "31963",
+    "name": "Phong Thạnh A",
+    "name_en": "Phong Thanh A",
+    "full_name": "Xã Phong Thạnh A",
+    "full_name_en": "Phong Thanh A Commune",
+    "type": "xã",
+    "district_code": "959",
+    "codename": "phong_thanh_a"
+  },
+  {
+    "code": "31966",
+    "name": "Phong Thạnh Tây",
+    "name_en": "Phong Thanh Tay",
+    "full_name": "Xã Phong Thạnh Tây",
+    "full_name_en": "Phong Thanh Tay Commune",
+    "type": "xã",
+    "district_code": "959",
+    "codename": "phong_thanh_tay"
+  },
+  {
+    "code": "31969",
+    "name": "Tân Thạnh",
+    "name_en": "Tan Thanh",
+    "full_name": "Xã Tân Thạnh",
+    "full_name_en": "Tan Thanh Commune",
+    "type": "xã",
+    "district_code": "959",
+    "codename": "tan_thanh"
+  }
+]

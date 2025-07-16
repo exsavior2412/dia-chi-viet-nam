@@ -1,0 +1,112 @@
+[
+  {
+    "code": "731",
+    "name": "Biên Hòa",
+    "name_en": "Bien Hoa",
+    "full_name": "Thành phố Biên Hòa",
+    "full_name_en": "Bien Hoa City",
+    "type": "thành phố",
+    "province_code": "75",
+    "codename": "bien_hoa"
+  },
+  {
+    "code": "732",
+    "name": "Long Khánh",
+    "name_en": "Long Khanh",
+    "full_name": "Thành phố Long Khánh",
+    "full_name_en": "Long Khanh City",
+    "type": "thành phố",
+    "province_code": "75",
+    "codename": "long_khanh"
+  },
+  {
+    "code": "734",
+    "name": "Tân Phú",
+    "name_en": "Tan Phu",
+    "full_name": "Huyện Tân Phú",
+    "full_name_en": "Tan Phu District",
+    "type": "huyện",
+    "province_code": "75",
+    "codename": "tan_phu"
+  },
+  {
+    "code": "735",
+    "name": "Vĩnh Cửu",
+    "name_en": "Vinh Cuu",
+    "full_name": "Huyện Vĩnh Cửu",
+    "full_name_en": "Vinh Cuu District",
+    "type": "huyện",
+    "province_code": "75",
+    "codename": "vinh_cuu"
+  },
+  {
+    "code": "736",
+    "name": "Định Quán",
+    "name_en": "Dinh Quan",
+    "full_name": "Huyện Định Quán",
+    "full_name_en": "Dinh Quan District",
+    "type": "huyện",
+    "province_code": "75",
+    "codename": "dinh_quan"
+  },
+  {
+    "code": "737",
+    "name": "Trảng Bom",
+    "name_en": "Trang Bom",
+    "full_name": "Huyện Trảng Bom",
+    "full_name_en": "Trang Bom District",
+    "type": "huyện",
+    "province_code": "75",
+    "codename": "trang_bom"
+  },
+  {
+    "code": "738",
+    "name": "Thống Nhất",
+    "name_en": "Thong Nhat",
+    "full_name": "Huyện Thống Nhất",
+    "full_name_en": "Thong Nhat District",
+    "type": "huyện",
+    "province_code": "75",
+    "codename": "thong_nhat"
+  },
+  {
+    "code": "739",
+    "name": "Cẩm Mỹ",
+    "name_en": "Cam My",
+    "full_name": "Huyện Cẩm Mỹ",
+    "full_name_en": "Cam My District",
+    "type": "huyện",
+    "province_code": "75",
+    "codename": "cam_my"
+  },
+  {
+    "code": "740",
+    "name": "Long Thành",
+    "name_en": "Long Thanh",
+    "full_name": "Huyện Long Thành",
+    "full_name_en": "Long Thanh District",
+    "type": "huyện",
+    "province_code": "75",
+    "codename": "long_thanh"
+  },
+  {
+    "code": "741",
+    "name": "Xuân Lộc",
+    "name_en": "Xuan Loc",
+    "full_name": "Huyện Xuân Lộc",
+    "full_name_en": "Xuan Loc District",
+    "type": "huyện",
+    "province_code": "75",
+    "codename": "xuan_loc"
+  },
+  {
+    "code": "742",
+    "name": "Nhơn Trạch",
+    "name_en": "Nhon Trach",
+    "full_name": "Huyện Nhơn Trạch",
+    "full_name_en": "Nhon Trach District",
+    "type": "huyện",
+    "province_code": "75",
+    "codename": "nhon_trach"
+  }
+]

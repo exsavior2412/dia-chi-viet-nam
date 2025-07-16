@@ -1,0 +1,142 @@
+[
+  {
+    "code": "30817",
+    "name": "Hòn Đất",
+    "name_en": "Hon Dat",
+    "full_name": "Thị trấn Hòn Đất",
+    "full_name_en": "Hon Dat Township",
+    "type": "thị trấn",
+    "district_code": "903",
+    "codename": "hon_dat"
+  },
+  {
+    "code": "30820",
+    "name": "Sóc Sơn",
+    "name_en": "Soc Son",
+    "full_name": "Thị trấn Sóc Sơn",
+    "full_name_en": "Soc Son Township",
+    "type": "thị trấn",
+    "district_code": "903",
+    "codename": "soc_son"
+  },
+  {
+    "code": "30823",
+    "name": "Bình Sơn",
+    "name_en": "Binh Son",
+    "full_name": "Xã Bình Sơn",
+    "full_name_en": "Binh Son Commune",
+    "type": "xã",
+    "district_code": "903",
+    "codename": "binh_son"
+  },
+  {
+    "code": "30826",
+    "name": "Bình Giang",
+    "name_en": "Binh Giang",
+    "full_name": "Xã Bình Giang",
+    "full_name_en": "Binh Giang Commune",
+    "type": "xã",
+    "district_code": "903",
+    "codename": "binh_giang"
+  },
+  {
+    "code": "30828",
+    "name": "Mỹ Thái",
+    "name_en": "My Thai",
+    "full_name": "Xã Mỹ Thái",
+    "full_name_en": "My Thai Commune",
+    "type": "xã",
+    "district_code": "903",
+    "codename": "my_thai"
+  },
+  {
+    "code": "30829",
+    "name": "Nam Thái Sơn",
+    "name_en": "Nam Thai Son",
+    "full_name": "Xã Nam Thái Sơn",
+    "full_name_en": "Nam Thai Son Commune",
+    "type": "xã",
+    "district_code": "903",
+    "codename": "nam_thai_son"
+  },
+  {
+    "code": "30832",
+    "name": "Mỹ Hiệp Sơn",
+    "name_en": "My Hiep Son",
+    "full_name": "Xã Mỹ Hiệp Sơn",
+    "full_name_en": "My Hiep Son Commune",
+    "type": "xã",
+    "district_code": "903",
+    "codename": "my_hiep_son"
+  },
+  {
+    "code": "30835",
+    "name": "Sơn Kiên",
+    "name_en": "Son Kien",
+    "full_name": "Xã Sơn Kiên",
+    "full_name_en": "Son Kien Commune",
+    "type": "xã",
+    "district_code": "903",
+    "codename": "son_kien"
+  },
+  {
+    "code": "30836",
+    "name": "Sơn Bình",
+    "name_en": "Son Binh",
+    "full_name": "Xã Sơn Bình",
+    "full_name_en": "Son Binh Commune",
+    "type": "xã",
+    "district_code": "903",
+    "codename": "son_binh"
+  },
+  {
+    "code": "30838",
+    "name": "Mỹ Thuận",
+    "name_en": "My Thuan",
+    "full_name": "Xã Mỹ Thuận",
+    "full_name_en": "My Thuan Commune",
+    "type": "xã",
+    "district_code": "903",
+    "codename": "my_thuan"
+  },
+  {
+    "code": "30840",
+    "name": "Lình Huỳnh",
+    "name_en": "Linh Huynh",
+    "full_name": "Xã Lình Huỳnh",
+    "full_name_en": "Linh Huynh Commune",
+    "type": "xã",
+    "district_code": "903",
+    "codename": "linh_huynh"
+  },
+  {
+    "code": "30841",
+    "name": "Thổ Sơn",
+    "name_en": "Tho Son",
+    "full_name": "Xã Thổ Sơn",
+    "full_name_en": "Tho Son Commune",
+    "type": "xã",
+    "district_code": "903",
+    "codename": "tho_son"
+  },
+  {
+    "code": "30844",
+    "name": "Mỹ Lâm",
+    "name_en": "My Lam",
+    "full_name": "Xã Mỹ Lâm",
+    "full_name_en": "My Lam Commune",
+    "type": "xã",
+    "district_code": "903",
+    "codename": "my_lam"
+  },
+  {
+    "code": "30847",
+    "name": "Mỹ Phước",
+    "name_en": "My Phuoc",
+    "full_name": "Xã Mỹ Phước",
+    "full_name_en": "My Phuoc Commune",
+    "type": "xã",
+    "district_code": "903",
+    "codename": "my_phuoc"
+  }
+]

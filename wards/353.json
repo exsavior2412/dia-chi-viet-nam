@@ -1,0 +1,212 @@
+[
+  {
+    "code": "13567",
+    "name": "Hợp Lý",
+    "name_en": "Hop Ly",
+    "full_name": "Xã Hợp Lý",
+    "full_name_en": "Hop Ly Commune",
+    "type": "xã",
+    "district_code": "353",
+    "codename": "hop_ly"
+  },
+  {
+    "code": "13570",
+    "name": "Nguyên Lý",
+    "name_en": "Nguyen Ly",
+    "full_name": "Xã Nguyên Lý",
+    "full_name_en": "Nguyen Ly Commune",
+    "type": "xã",
+    "district_code": "353",
+    "codename": "nguyen_ly"
+  },
+  {
+    "code": "13573",
+    "name": "Chính Lý",
+    "name_en": "Chinh Ly",
+    "full_name": "Xã Chính Lý",
+    "full_name_en": "Chinh Ly Commune",
+    "type": "xã",
+    "district_code": "353",
+    "codename": "chinh_ly"
+  },
+  {
+    "code": "13576",
+    "name": "Chân Lý",
+    "name_en": "Chan Ly",
+    "full_name": "Xã Chân Lý",
+    "full_name_en": "Chan Ly Commune",
+    "type": "xã",
+    "district_code": "353",
+    "codename": "chan_ly"
+  },
+  {
+    "code": "13579",
+    "name": "Đạo Lý",
+    "name_en": "Dao Ly",
+    "full_name": "Xã Đạo Lý",
+    "full_name_en": "Dao Ly Commune",
+    "type": "xã",
+    "district_code": "353",
+    "codename": "dao_ly"
+  },
+  {
+    "code": "13582",
+    "name": "Công Lý",
+    "name_en": "Cong Ly",
+    "full_name": "Xã Công Lý",
+    "full_name_en": "Cong Ly Commune",
+    "type": "xã",
+    "district_code": "353",
+    "codename": "cong_ly"
+  },
+  {
+    "code": "13585",
+    "name": "Văn Lý",
+    "name_en": "Van Ly",
+    "full_name": "Xã Văn Lý",
+    "full_name_en": "Van Ly Commune",
+    "type": "xã",
+    "district_code": "353",
+    "codename": "van_ly"
+  },
+  {
+    "code": "13588",
+    "name": "Bắc Lý",
+    "name_en": "Bac Ly",
+    "full_name": "Xã Bắc Lý",
+    "full_name_en": "Bac Ly Commune",
+    "type": "xã",
+    "district_code": "353",
+    "codename": "bac_ly"
+  },
+  {
+    "code": "13591",
+    "name": "Đức Lý",
+    "name_en": "Duc Ly",
+    "full_name": "Xã Đức Lý",
+    "full_name_en": "Duc Ly Commune",
+    "type": "xã",
+    "district_code": "353",
+    "codename": "duc_ly"
+  },
+  {
+    "code": "13594",
+    "name": "Trần Hưng Đạo",
+    "name_en": "Tran Hung Dao",
+    "full_name": "Xã Trần Hưng Đạo",
+    "full_name_en": "Tran Hung Dao Commune",
+    "type": "xã",
+    "district_code": "353",
+    "codename": "tran_hung_dao"
+  },
+  {
+    "code": "13597",
+    "name": "Vĩnh Trụ",
+    "name_en": "Vinh Tru",
+    "full_name": "Thị trấn Vĩnh Trụ",
+    "full_name_en": "Vinh Tru Township",
+    "type": "thị trấn",
+    "district_code": "353",
+    "codename": "vinh_tru"
+  },
+  {
+    "code": "13600",
+    "name": "Nhân Thịnh",
+    "name_en": "Nhan Thinh",
+    "full_name": "Xã Nhân Thịnh",
+    "full_name_en": "Nhan Thinh Commune",
+    "type": "xã",
+    "district_code": "353",
+    "codename": "nhan_thinh"
+  },
+  {
+    "code": "13606",
+    "name": "Nhân Khang",
+    "name_en": "Nhan Khang",
+    "full_name": "Xã Nhân Khang",
+    "full_name_en": "Nhan Khang Commune",
+    "type": "xã",
+    "district_code": "353",
+    "codename": "nhan_khang"
+  },
+  {
+    "code": "13609",
+    "name": "Nhân Mỹ",
+    "name_en": "Nhan My",
+    "full_name": "Xã Nhân Mỹ",
+    "full_name_en": "Nhan My Commune",
+    "type": "xã",
+    "district_code": "353",
+    "codename": "nhan_my"
+  },
+  {
+    "code": "13612",
+    "name": "Nhân Nghĩa",
+    "name_en": "Nhan Nghia",
+    "full_name": "Xã Nhân Nghĩa",
+    "full_name_en": "Nhan Nghia Commune",
+    "type": "xã",
+    "district_code": "353",
+    "codename": "nhan_nghia"
+  },
+  {
+    "code": "13615",
+    "name": "Nhân Chính",
+    "name_en": "Nhan Chinh",
+    "full_name": "Xã Nhân Chính",
+    "full_name_en": "Nhan Chinh Commune",
+    "type": "xã",
+    "district_code": "353",
+    "codename": "nhan_chinh"
+  },
+  {
+    "code": "13618",
+    "name": "Nhân Bình",
+    "name_en": "Nhan Binh",
+    "full_name": "Xã Nhân Bình",
+    "full_name_en": "Nhan Binh Commune",
+    "type": "xã",
+    "district_code": "353",
+    "codename": "nhan_binh"
+  },
+  {
+    "code": "13621",
+    "name": "Phú Phúc",
+    "name_en": "Phu Phuc",
+    "full_name": "Xã Phú Phúc",
+    "full_name_en": "Phu Phuc Commune",
+    "type": "xã",
+    "district_code": "353",
+    "codename": "phu_phuc"
+  },
+  {
+    "code": "13624",
+    "name": "Xuân Khê",
+    "name_en": "Xuan Khe",
+    "full_name": "Xã Xuân Khê",
+    "full_name_en": "Xuan Khe Commune",
+    "type": "xã",
+    "district_code": "353",
+    "codename": "xuan_khe"
+  },
+  {
+    "code": "13627",
+    "name": "Tiến Thắng",
+    "name_en": "Tien Thang",
+    "full_name": "Xã Tiến Thắng",
+    "full_name_en": "Tien Thang Commune",
+    "type": "xã",
+    "district_code": "353",
+    "codename": "tien_thang"
+  },
+  {
+    "code": "13630",
+    "name": "Hòa Hậu",
+    "name_en": "Hoa Hau",
+    "full_name": "Xã Hòa Hậu",
+    "full_name_en": "Hoa Hau Commune",
+    "type": "xã",
+    "district_code": "353",
+    "codename": "hoa_hau"
+  }
+]

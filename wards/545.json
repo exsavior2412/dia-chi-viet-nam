@@ -1,0 +1,192 @@
+[
+  {
+    "code": "21730",
+    "name": "Phù Mỹ",
+    "name_en": "Phu My",
+    "full_name": "Thị trấn Phù Mỹ",
+    "full_name_en": "Phu My Township",
+    "type": "thị trấn",
+    "district_code": "545",
+    "codename": "phu_my"
+  },
+  {
+    "code": "21733",
+    "name": "Bình Dương",
+    "name_en": "Binh Duong",
+    "full_name": "Thị trấn Bình Dương",
+    "full_name_en": "Binh Duong Township",
+    "type": "thị trấn",
+    "district_code": "545",
+    "codename": "binh_duong"
+  },
+  {
+    "code": "21736",
+    "name": "Mỹ Đức",
+    "name_en": "My Duc",
+    "full_name": "Xã Mỹ Đức",
+    "full_name_en": "My Duc Commune",
+    "type": "xã",
+    "district_code": "545",
+    "codename": "my_duc"
+  },
+  {
+    "code": "21739",
+    "name": "Mỹ Châu",
+    "name_en": "My Chau",
+    "full_name": "Xã Mỹ Châu",
+    "full_name_en": "My Chau Commune",
+    "type": "xã",
+    "district_code": "545",
+    "codename": "my_chau"
+  },
+  {
+    "code": "21742",
+    "name": "Mỹ Thắng",
+    "name_en": "My Thang",
+    "full_name": "Xã Mỹ Thắng",
+    "full_name_en": "My Thang Commune",
+    "type": "xã",
+    "district_code": "545",
+    "codename": "my_thang"
+  },
+  {
+    "code": "21745",
+    "name": "Mỹ Lộc",
+    "name_en": "My Loc",
+    "full_name": "Xã Mỹ Lộc",
+    "full_name_en": "My Loc Commune",
+    "type": "xã",
+    "district_code": "545",
+    "codename": "my_loc"
+  },
+  {
+    "code": "21748",
+    "name": "Mỹ Lợi",
+    "name_en": "My Loi",
+    "full_name": "Xã Mỹ Lợi",
+    "full_name_en": "My Loi Commune",
+    "type": "xã",
+    "district_code": "545",
+    "codename": "my_loi"
+  },
+  {
+    "code": "21751",
+    "name": "Mỹ An",
+    "name_en": "My An",
+    "full_name": "Xã Mỹ An",
+    "full_name_en": "My An Commune",
+    "type": "xã",
+    "district_code": "545",
+    "codename": "my_an"
+  },
+  {
+    "code": "21754",
+    "name": "Mỹ Phong",
+    "name_en": "My Phong",
+    "full_name": "Xã Mỹ Phong",
+    "full_name_en": "My Phong Commune",
+    "type": "xã",
+    "district_code": "545",
+    "codename": "my_phong"
+  },
+  {
+    "code": "21757",
+    "name": "Mỹ Trinh",
+    "name_en": "My Trinh",
+    "full_name": "Xã Mỹ Trinh",
+    "full_name_en": "My Trinh Commune",
+    "type": "xã",
+    "district_code": "545",
+    "codename": "my_trinh"
+  },
+  {
+    "code": "21760",
+    "name": "Mỹ Thọ",
+    "name_en": "My Tho",
+    "full_name": "Xã Mỹ Thọ",
+    "full_name_en": "My Tho Commune",
+    "type": "xã",
+    "district_code": "545",
+    "codename": "my_tho"
+  },
+  {
+    "code": "21763",
+    "name": "Mỹ Hòa",
+    "name_en": "My Hoa",
+    "full_name": "Xã Mỹ Hòa",
+    "full_name_en": "My Hoa Commune",
+    "type": "xã",
+    "district_code": "545",
+    "codename": "my_hoa"
+  },
+  {
+    "code": "21766",
+    "name": "Mỹ Thành",
+    "name_en": "My Thanh",
+    "full_name": "Xã Mỹ Thành",
+    "full_name_en": "My Thanh Commune",
+    "type": "xã",
+    "district_code": "545",
+    "codename": "my_thanh"
+  },
+  {
+    "code": "21769",
+    "name": "Mỹ Chánh",
+    "name_en": "My Chanh",
+    "full_name": "Xã Mỹ Chánh",
+    "full_name_en": "My Chanh Commune",
+    "type": "xã",
+    "district_code": "545",
+    "codename": "my_chanh"
+  },
+  {
+    "code": "21772",
+    "name": "Mỹ Quang",
+    "name_en": "My Quang",
+    "full_name": "Xã Mỹ Quang",
+    "full_name_en": "My Quang Commune",
+    "type": "xã",
+    "district_code": "545",
+    "codename": "my_quang"
+  },
+  {
+    "code": "21775",
+    "name": "Mỹ Hiệp",
+    "name_en": "My Hiep",
+    "full_name": "Xã Mỹ Hiệp",
+    "full_name_en": "My Hiep Commune",
+    "type": "xã",
+    "district_code": "545",
+    "codename": "my_hiep"
+  },
+  {
+    "code": "21778",
+    "name": "Mỹ Tài",
+    "name_en": "My Tai",
+    "full_name": "Xã Mỹ Tài",
+    "full_name_en": "My Tai Commune",
+    "type": "xã",
+    "district_code": "545",
+    "codename": "my_tai"
+  },
+  {
+    "code": "21781",
+    "name": "Mỹ Cát",
+    "name_en": "My Cat",
+    "full_name": "Xã Mỹ Cát",
+    "full_name_en": "My Cat Commune",
+    "type": "xã",
+    "district_code": "545",
+    "codename": "my_cat"
+  },
+  {
+    "code": "21784",
+    "name": "Mỹ Chánh Tây",
+    "name_en": "My Chanh Tay",
+    "full_name": "Xã Mỹ Chánh Tây",
+    "full_name_en": "My Chanh Tay Commune",
+    "type": "xã",
+    "district_code": "545",
+    "codename": "my_chanh_tay"
+  }
+]

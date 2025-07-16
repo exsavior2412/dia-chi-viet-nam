@@ -1,0 +1,102 @@
+[
+  {
+    "code": "461",
+    "name": "Đông Hà",
+    "name_en": "Dong Ha",
+    "full_name": "Thành phố Đông Hà",
+    "full_name_en": "Dong Ha City",
+    "type": "thành phố",
+    "province_code": "45",
+    "codename": "dong_ha"
+  },
+  {
+    "code": "462",
+    "name": "Quảng Trị",
+    "name_en": "Quang Tri",
+    "full_name": "Thị xã Quảng Trị",
+    "full_name_en": "Quang Tri Town",
+    "type": "thị xã",
+    "province_code": "45",
+    "codename": "quang_tri"
+  },
+  {
+    "code": "464",
+    "name": "Vĩnh Linh",
+    "name_en": "Vinh Linh",
+    "full_name": "Huyện Vĩnh Linh",
+    "full_name_en": "Vinh Linh District",
+    "type": "huyện",
+    "province_code": "45",
+    "codename": "vinh_linh"
+  },
+  {
+    "code": "465",
+    "name": "Hướng Hóa",
+    "name_en": "Huong Hoa",
+    "full_name": "Huyện Hướng Hóa",
+    "full_name_en": "Huong Hoa District",
+    "type": "huyện",
+    "province_code": "45",
+    "codename": "huong_hoa"
+  },
+  {
+    "code": "466",
+    "name": "Gio Linh",
+    "name_en": "Gio Linh",
+    "full_name": "Huyện Gio Linh",
+    "full_name_en": "Gio Linh District",
+    "type": "huyện",
+    "province_code": "45",
+    "codename": "gio_linh"
+  },
+  {
+    "code": "467",
+    "name": "Đa Krông",
+    "name_en": "Da Krong",
+    "full_name": "Huyện Đa Krông",
+    "full_name_en": "Da Krong District",
+    "type": "huyện",
+    "province_code": "45",
+    "codename": "da_krong"
+  },
+  {
+    "code": "468",
+    "name": "Cam Lộ",
+    "name_en": "Cam Lo",
+    "full_name": "Huyện Cam Lộ",
+    "full_name_en": "Cam Lo District",
+    "type": "huyện",
+    "province_code": "45",
+    "codename": "cam_lo"
+  },
+  {
+    "code": "469",
+    "name": "Triệu Phong",
+    "name_en": "Trieu Phong",
+    "full_name": "Huyện Triệu Phong",
+    "full_name_en": "Trieu Phong District",
+    "type": "huyện",
+    "province_code": "45",
+    "codename": "trieu_phong"
+  },
+  {
+    "code": "470",
+    "name": "Hải Lăng",
+    "name_en": "Hai Lang",
+    "full_name": "Huyện Hải Lăng",
+    "full_name_en": "Hai Lang District",
+    "type": "huyện",
+    "province_code": "45",
+    "codename": "hai_lang"
+  },
+  {
+    "code": "471",
+    "name": "Cồn Cỏ",
+    "name_en": "Con Co",
+    "full_name": "Huyện Cồn Cỏ",
+    "full_name_en": "Con Co District",
+    "type": "huyện",
+    "province_code": "45",
+    "codename": "con_co"
+  }
+]

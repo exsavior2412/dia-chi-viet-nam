@@ -1,0 +1,202 @@
+[
+  {
+    "code": "04927",
+    "name": "Yên Trung",
+    "name_en": "Yen Trung",
+    "full_name": "Xã Yên Trung",
+    "full_name_en": "Yen Trung Commune",
+    "type": "xã",
+    "district_code": "276",
+    "codename": "yen_trung"
+  },
+  {
+    "code": "04930",
+    "name": "Yên Bình",
+    "name_en": "Yen Binh",
+    "full_name": "Xã Yên Bình",
+    "full_name_en": "Yen Binh Commune",
+    "type": "xã",
+    "district_code": "276",
+    "codename": "yen_binh"
+  },
+  {
+    "code": "04936",
+    "name": "Tiến Xuân",
+    "name_en": "Tien Xuan",
+    "full_name": "Xã Tiến Xuân",
+    "full_name_en": "Tien Xuan Commune",
+    "type": "xã",
+    "district_code": "276",
+    "codename": "tien_xuan"
+  },
+  {
+    "code": "09955",
+    "name": "Liên Quan",
+    "name_en": "Lien Quan",
+    "full_name": "Thị trấn Liên Quan",
+    "full_name_en": "Lien Quan Township",
+    "type": "thị trấn",
+    "district_code": "276",
+    "codename": "lien_quan"
+  },
+  {
+    "code": "09958",
+    "name": "Đại Đồng",
+    "name_en": "Dai Dong",
+    "full_name": "Xã Đại Đồng",
+    "full_name_en": "Dai Dong Commune",
+    "type": "xã",
+    "district_code": "276",
+    "codename": "dai_dong"
+  },
+  {
+    "code": "09961",
+    "name": "Cẩm Yên",
+    "name_en": "Cam Yen",
+    "full_name": "Xã Cẩm Yên",
+    "full_name_en": "Cam Yen Commune",
+    "type": "xã",
+    "district_code": "276",
+    "codename": "cam_yen"
+  },
+  {
+    "code": "09964",
+    "name": "Lại Thượng",
+    "name_en": "Lai Thuong",
+    "full_name": "Xã Lại Thượng",
+    "full_name_en": "Lai Thuong Commune",
+    "type": "xã",
+    "district_code": "276",
+    "codename": "lai_thuong"
+  },
+  {
+    "code": "09967",
+    "name": "Phú Kim",
+    "name_en": "Phu Kim",
+    "full_name": "Xã Phú Kim",
+    "full_name_en": "Phu Kim Commune",
+    "type": "xã",
+    "district_code": "276",
+    "codename": "phu_kim"
+  },
+  {
+    "code": "09970",
+    "name": "Hương Ngải",
+    "name_en": "Huong Ngai",
+    "full_name": "Xã Hương Ngải",
+    "full_name_en": "Huong Ngai Commune",
+    "type": "xã",
+    "district_code": "276",
+    "codename": "huong_ngai"
+  },
+  {
+    "code": "09973",
+    "name": "Lam Sơn",
+    "name_en": "Lam Son",
+    "full_name": "Xã Lam Sơn",
+    "full_name_en": "Lam Son Commune",
+    "type": "xã",
+    "district_code": "276",
+    "codename": "lam_son"
+  },
+  {
+    "code": "09976",
+    "name": "Kim Quan",
+    "name_en": "Kim Quan",
+    "full_name": "Xã Kim Quan",
+    "full_name_en": "Kim Quan Commune",
+    "type": "xã",
+    "district_code": "276",
+    "codename": "kim_quan"
+  },
+  {
+    "code": "09982",
+    "name": "Bình Yên",
+    "name_en": "Binh Yen",
+    "full_name": "Xã Bình Yên",
+    "full_name_en": "Binh Yen Commune",
+    "type": "xã",
+    "district_code": "276",
+    "codename": "binh_yen"
+  },
+  {
+    "code": "09988",
+    "name": "Thạch Hoà",
+    "name_en": "Thach Hoa",
+    "full_name": "Xã Thạch Hoà",
+    "full_name_en": "Thach Hoa Commune",
+    "type": "xã",
+    "district_code": "276",
+    "codename": "thach_hoa"
+  },
+  {
+    "code": "09991",
+    "name": "Cần Kiệm",
+    "name_en": "Can Kiem",
+    "full_name": "Xã Cần Kiệm",
+    "full_name_en": "Can Kiem Commune",
+    "type": "xã",
+    "district_code": "276",
+    "codename": "can_kiem"
+  },
+  {
+    "code": "09997",
+    "name": "Phùng Xá",
+    "name_en": "Phung Xa",
+    "full_name": "Xã Phùng Xá",
+    "full_name_en": "Phung Xa Commune",
+    "type": "xã",
+    "district_code": "276",
+    "codename": "phung_xa"
+  },
+  {
+    "code": "10000",
+    "name": "Tân Xã",
+    "name_en": "Tan Xa",
+    "full_name": "Xã Tân Xã",
+    "full_name_en": "Tan Xa Commune",
+    "type": "xã",
+    "district_code": "276",
+    "codename": "tan_xa"
+  },
+  {
+    "code": "10003",
+    "name": "Thạch Xá",
+    "name_en": "Thach Xa",
+    "full_name": "Xã Thạch Xá",
+    "full_name_en": "Thach Xa Commune",
+    "type": "xã",
+    "district_code": "276",
+    "codename": "thach_xa"
+  },
+  {
+    "code": "10006",
+    "name": "Quang Trung",
+    "name_en": "Quang Trung",
+    "full_name": "Xã Quang Trung",
+    "full_name_en": "Quang Trung Commune",
+    "type": "xã",
+    "district_code": "276",
+    "codename": "quang_trung"
+  },
+  {
+    "code": "10009",
+    "name": "Hạ Bằng",
+    "name_en": "Ha Bang",
+    "full_name": "Xã Hạ Bằng",
+    "full_name_en": "Ha Bang Commune",
+    "type": "xã",
+    "district_code": "276",
+    "codename": "ha_bang"
+  },
+  {
+    "code": "10012",
+    "name": "Đồng Trúc",
+    "name_en": "Dong Truc",
+    "full_name": "Xã Đồng Trúc",
+    "full_name_en": "Dong Truc Commune",
+    "type": "xã",
+    "district_code": "276",
+    "codename": "dong_truc"
+  }
+]

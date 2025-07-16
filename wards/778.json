@@ -1,0 +1,102 @@
+[
+  {
+    "code": "27466",
+    "name": "Tân Thuận Đông",
+    "name_en": "Tan Thuan Dong",
+    "full_name": "Phường Tân Thuận Đông",
+    "full_name_en": "Tan Thuan Dong Ward",
+    "type": "phường",
+    "district_code": "778",
+    "codename": "tan_thuan_dong"
+  },
+  {
+    "code": "27469",
+    "name": "Tân Thuận Tây",
+    "name_en": "Tan Thuan Tay",
+    "full_name": "Phường Tân Thuận Tây",
+    "full_name_en": "Tan Thuan Tay Ward",
+    "type": "phường",
+    "district_code": "778",
+    "codename": "tan_thuan_tay"
+  },
+  {
+    "code": "27472",
+    "name": "Tân Kiểng",
+    "name_en": "Tan Kieng",
+    "full_name": "Phường Tân Kiểng",
+    "full_name_en": "Tan Kieng Ward",
+    "type": "phường",
+    "district_code": "778",
+    "codename": "tan_kieng"
+  },
+  {
+    "code": "27475",
+    "name": "Tân Hưng",
+    "name_en": "Tan Hung",
+    "full_name": "Phường Tân Hưng",
+    "full_name_en": "Tan Hung Ward",
+    "type": "phường",
+    "district_code": "778",
+    "codename": "tan_hung"
+  },
+  {
+    "code": "27478",
+    "name": "Bình Thuận",
+    "name_en": "Binh Thuan",
+    "full_name": "Phường Bình Thuận",
+    "full_name_en": "Binh Thuan Ward",
+    "type": "phường",
+    "district_code": "778",
+    "codename": "binh_thuan"
+  },
+  {
+    "code": "27481",
+    "name": "Tân Quy",
+    "name_en": "Tan Quy",
+    "full_name": "Phường Tân Quy",
+    "full_name_en": "Tan Quy Ward",
+    "type": "phường",
+    "district_code": "778",
+    "codename": "tan_quy"
+  },
+  {
+    "code": "27484",
+    "name": "Phú Thuận",
+    "name_en": "Phu Thuan",
+    "full_name": "Phường Phú Thuận",
+    "full_name_en": "Phu Thuan Ward",
+    "type": "phường",
+    "district_code": "778",
+    "codename": "phu_thuan"
+  },
+  {
+    "code": "27487",
+    "name": "Tân Phú",
+    "name_en": "Tan Phu",
+    "full_name": "Phường Tân Phú",
+    "full_name_en": "Tan Phu Ward",
+    "type": "phường",
+    "district_code": "778",
+    "codename": "tan_phu"
+  },
+  {
+    "code": "27490",
+    "name": "Tân Phong",
+    "name_en": "Tan Phong",
+    "full_name": "Phường Tân Phong",
+    "full_name_en": "Tan Phong Ward",
+    "type": "phường",
+    "district_code": "778",
+    "codename": "tan_phong"
+  },
+  {
+    "code": "27493",
+    "name": "Phú Mỹ",
+    "name_en": "Phu My",
+    "full_name": "Phường Phú Mỹ",
+    "full_name_en": "Phu My Ward",
+    "type": "phường",
+    "district_code": "778",
+    "codename": "phu_my"
+  }
+]

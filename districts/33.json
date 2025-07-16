@@ -1,0 +1,102 @@
+[
+  {
+    "code": "323",
+    "name": "Hưng Yên",
+    "name_en": "Hung Yen",
+    "full_name": "Thành phố Hưng Yên",
+    "full_name_en": "Hung Yen City",
+    "type": "thành phố",
+    "province_code": "33",
+    "codename": "hung_yen"
+  },
+  {
+    "code": "325",
+    "name": "Văn Lâm",
+    "name_en": "Van Lam",
+    "full_name": "Huyện Văn Lâm",
+    "full_name_en": "Van Lam District",
+    "type": "huyện",
+    "province_code": "33",
+    "codename": "van_lam"
+  },
+  {
+    "code": "326",
+    "name": "Văn Giang",
+    "name_en": "Van Giang",
+    "full_name": "Huyện Văn Giang",
+    "full_name_en": "Van Giang District",
+    "type": "huyện",
+    "province_code": "33",
+    "codename": "van_giang"
+  },
+  {
+    "code": "327",
+    "name": "Yên Mỹ",
+    "name_en": "Yen My",
+    "full_name": "Huyện Yên Mỹ",
+    "full_name_en": "Yen My District",
+    "type": "huyện",
+    "province_code": "33",
+    "codename": "yen_my"
+  },
+  {
+    "code": "328",
+    "name": "Mỹ Hào",
+    "name_en": "My Hao",
+    "full_name": "Thị xã Mỹ Hào",
+    "full_name_en": "My Hao Town",
+    "type": "thị xã",
+    "province_code": "33",
+    "codename": "my_hao"
+  },
+  {
+    "code": "329",
+    "name": "Ân Thi",
+    "name_en": "An Thi",
+    "full_name": "Huyện Ân Thi",
+    "full_name_en": "An Thi District",
+    "type": "huyện",
+    "province_code": "33",
+    "codename": "an_thi"
+  },
+  {
+    "code": "330",
+    "name": "Khoái Châu",
+    "name_en": "Khoai Chau",
+    "full_name": "Huyện Khoái Châu",
+    "full_name_en": "Khoai Chau District",
+    "type": "huyện",
+    "province_code": "33",
+    "codename": "khoai_chau"
+  },
+  {
+    "code": "331",
+    "name": "Kim Động",
+    "name_en": "Kim Dong",
+    "full_name": "Huyện Kim Động",
+    "full_name_en": "Kim Dong District",
+    "type": "huyện",
+    "province_code": "33",
+    "codename": "kim_dong"
+  },
+  {
+    "code": "332",
+    "name": "Tiên Lữ",
+    "name_en": "Tien Lu",
+    "full_name": "Huyện Tiên Lữ",
+    "full_name_en": "Tien Lu District",
+    "type": "huyện",
+    "province_code": "33",
+    "codename": "tien_lu"
+  },
+  {
+    "code": "333",
+    "name": "Phù Cừ",
+    "name_en": "Phu Cu",
+    "full_name": "Huyện Phù Cừ",
+    "full_name_en": "Phu Cu District",
+    "type": "huyện",
+    "province_code": "33",
+    "codename": "phu_cu"
+  }
+]

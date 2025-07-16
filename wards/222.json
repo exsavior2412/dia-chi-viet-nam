@@ -1,0 +1,172 @@
+[
+  {
+    "code": "07759",
+    "name": "Thượng Lan",
+    "name_en": "Thuong Lan",
+    "full_name": "Xã Thượng Lan",
+    "full_name_en": "Thuong Lan Commune",
+    "type": "xã",
+    "district_code": "222",
+    "codename": "thuong_lan"
+  },
+  {
+    "code": "07762",
+    "name": "Việt Tiến",
+    "name_en": "Viet Tien",
+    "full_name": "Xã Việt Tiến",
+    "full_name_en": "Viet Tien Commune",
+    "type": "xã",
+    "district_code": "222",
+    "codename": "viet_tien"
+  },
+  {
+    "code": "07765",
+    "name": "Nghĩa Trung",
+    "name_en": "Nghia Trung",
+    "full_name": "Xã Nghĩa Trung",
+    "full_name_en": "Nghia Trung Commune",
+    "type": "xã",
+    "district_code": "222",
+    "codename": "nghia_trung"
+  },
+  {
+    "code": "07768",
+    "name": "Minh Đức",
+    "name_en": "Minh Duc",
+    "full_name": "Xã Minh Đức",
+    "full_name_en": "Minh Duc Commune",
+    "type": "xã",
+    "district_code": "222",
+    "codename": "minh_duc"
+  },
+  {
+    "code": "07771",
+    "name": "Hương Mai",
+    "name_en": "Huong Mai",
+    "full_name": "Xã Hương Mai",
+    "full_name_en": "Huong Mai Commune",
+    "type": "xã",
+    "district_code": "222",
+    "codename": "huong_mai"
+  },
+  {
+    "code": "07774",
+    "name": "Tự Lạn",
+    "name_en": "Tu Lan",
+    "full_name": "Phường Tự Lạn",
+    "full_name_en": "Tu Lan Ward",
+    "type": "phường",
+    "district_code": "222",
+    "codename": "tu_lan"
+  },
+  {
+    "code": "07777",
+    "name": "Bích Động",
+    "name_en": "Bich Dong",
+    "full_name": "Phường Bích Động",
+    "full_name_en": "Bich Dong Ward",
+    "type": "phường",
+    "district_code": "222",
+    "codename": "bich_dong"
+  },
+  {
+    "code": "07780",
+    "name": "Trung Sơn",
+    "name_en": "Trung Son",
+    "full_name": "Xã Trung Sơn",
+    "full_name_en": "Trung Son Commune",
+    "type": "xã",
+    "district_code": "222",
+    "codename": "trung_son"
+  },
+  {
+    "code": "07783",
+    "name": "Hồng Thái",
+    "name_en": "Hong Thai",
+    "full_name": "Phường Hồng Thái",
+    "full_name_en": "Hong Thai Ward",
+    "type": "phường",
+    "district_code": "222",
+    "codename": "hong_thai"
+  },
+  {
+    "code": "07786",
+    "name": "Tiên Sơn",
+    "name_en": "Tien Son",
+    "full_name": "Xã Tiên Sơn",
+    "full_name_en": "Tien Son Commune",
+    "type": "xã",
+    "district_code": "222",
+    "codename": "tien_son"
+  },
+  {
+    "code": "07789",
+    "name": "Tăng Tiến",
+    "name_en": "Tang Tien",
+    "full_name": "Phường Tăng Tiến",
+    "full_name_en": "Tang Tien Ward",
+    "type": "phường",
+    "district_code": "222",
+    "codename": "tang_tien"
+  },
+  {
+    "code": "07792",
+    "name": "Quảng Minh",
+    "name_en": "Quang Minh",
+    "full_name": "Phường Quảng Minh",
+    "full_name_en": "Quang Minh Ward",
+    "type": "phường",
+    "district_code": "222",
+    "codename": "quang_minh"
+  },
+  {
+    "code": "07795",
+    "name": "Nếnh",
+    "name_en": "Nenh",
+    "full_name": "Phường Nếnh",
+    "full_name_en": "Nenh Ward",
+    "type": "phường",
+    "district_code": "222",
+    "codename": "nenh"
+  },
+  {
+    "code": "07798",
+    "name": "Ninh Sơn",
+    "name_en": "Ninh Son",
+    "full_name": "Phường Ninh Sơn",
+    "full_name_en": "Ninh Son Ward",
+    "type": "phường",
+    "district_code": "222",
+    "codename": "ninh_son"
+  },
+  {
+    "code": "07801",
+    "name": "Vân Trung",
+    "name_en": "Van Trung",
+    "full_name": "Phường Vân Trung",
+    "full_name_en": "Van Trung Ward",
+    "type": "phường",
+    "district_code": "222",
+    "codename": "van_trung"
+  },
+  {
+    "code": "07804",
+    "name": "Vân Hà",
+    "name_en": "Van Ha",
+    "full_name": "Xã Vân Hà",
+    "full_name_en": "Van Ha Commune",
+    "type": "xã",
+    "district_code": "222",
+    "codename": "van_ha"
+  },
+  {
+    "code": "07807",
+    "name": "Quang Châu",
+    "name_en": "Quang Chau",
+    "full_name": "Phường Quang Châu",
+    "full_name_en": "Quang Chau Ward",
+    "type": "phường",
+    "district_code": "222",
+    "codename": "quang_chau"
+  }
+]

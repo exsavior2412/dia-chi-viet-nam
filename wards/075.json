@@ -1,0 +1,282 @@
+[
+  {
+    "code": "02431",
+    "name": "Quí Quân",
+    "name_en": "Qui Quan",
+    "full_name": "Xã Quí Quân",
+    "full_name_en": "Qui Quan Commune",
+    "type": "xã",
+    "district_code": "075",
+    "codename": "qui_quan"
+  },
+  {
+    "code": "02434",
+    "name": "Lực Hành",
+    "name_en": "Luc Hanh",
+    "full_name": "Xã Lực Hành",
+    "full_name_en": "Luc Hanh Commune",
+    "type": "xã",
+    "district_code": "075",
+    "codename": "luc_hanh"
+  },
+  {
+    "code": "02437",
+    "name": "Kiến Thiết",
+    "name_en": "Kien Thiet",
+    "full_name": "Xã Kiến Thiết",
+    "full_name_en": "Kien Thiet Commune",
+    "type": "xã",
+    "district_code": "075",
+    "codename": "kien_thiet"
+  },
+  {
+    "code": "02440",
+    "name": "Trung Minh",
+    "name_en": "Trung Minh",
+    "full_name": "Xã Trung Minh",
+    "full_name_en": "Trung Minh Commune",
+    "type": "xã",
+    "district_code": "075",
+    "codename": "trung_minh"
+  },
+  {
+    "code": "02443",
+    "name": "Chiêu Yên",
+    "name_en": "Chieu Yen",
+    "full_name": "Xã Chiêu Yên",
+    "full_name_en": "Chieu Yen Commune",
+    "type": "xã",
+    "district_code": "075",
+    "codename": "chieu_yen"
+  },
+  {
+    "code": "02446",
+    "name": "Trung Trực",
+    "name_en": "Trung Truc",
+    "full_name": "Xã Trung Trực",
+    "full_name_en": "Trung Truc Commune",
+    "type": "xã",
+    "district_code": "075",
+    "codename": "trung_truc"
+  },
+  {
+    "code": "02449",
+    "name": "Xuân Vân",
+    "name_en": "Xuan Van",
+    "full_name": "Xã Xuân Vân",
+    "full_name_en": "Xuan Van Commune",
+    "type": "xã",
+    "district_code": "075",
+    "codename": "xuan_van"
+  },
+  {
+    "code": "02452",
+    "name": "Phúc Ninh",
+    "name_en": "Phuc Ninh",
+    "full_name": "Xã Phúc Ninh",
+    "full_name_en": "Phuc Ninh Commune",
+    "type": "xã",
+    "district_code": "075",
+    "codename": "phuc_ninh"
+  },
+  {
+    "code": "02455",
+    "name": "Hùng Lợi",
+    "name_en": "Hung Loi",
+    "full_name": "Xã Hùng Lợi",
+    "full_name_en": "Hung Loi Commune",
+    "type": "xã",
+    "district_code": "075",
+    "codename": "hung_loi"
+  },
+  {
+    "code": "02458",
+    "name": "Trung Sơn",
+    "name_en": "Trung Son",
+    "full_name": "Xã Trung Sơn",
+    "full_name_en": "Trung Son Commune",
+    "type": "xã",
+    "district_code": "075",
+    "codename": "trung_son"
+  },
+  {
+    "code": "02461",
+    "name": "Tân Tiến",
+    "name_en": "Tan Tien",
+    "full_name": "Xã Tân Tiến",
+    "full_name_en": "Tan Tien Commune",
+    "type": "xã",
+    "district_code": "075",
+    "codename": "tan_tien"
+  },
+  {
+    "code": "02464",
+    "name": "Tứ Quận",
+    "name_en": "Tu Quan",
+    "full_name": "Xã Tứ Quận",
+    "full_name_en": "Tu Quan Commune",
+    "type": "xã",
+    "district_code": "075",
+    "codename": "tu_quan"
+  },
+  {
+    "code": "02467",
+    "name": "Đạo Viện",
+    "name_en": "Dao Vien",
+    "full_name": "Xã Đạo Viện",
+    "full_name_en": "Dao Vien Commune",
+    "type": "xã",
+    "district_code": "075",
+    "codename": "dao_vien"
+  },
+  {
+    "code": "02470",
+    "name": "Tân Long",
+    "name_en": "Tan Long",
+    "full_name": "Xã Tân Long",
+    "full_name_en": "Tan Long Commune",
+    "type": "xã",
+    "district_code": "075",
+    "codename": "tan_long"
+  },
+  {
+    "code": "02473",
+    "name": "Yên Sơn",
+    "name_en": "Yen Son",
+    "full_name": "Thị trấn Yên Sơn",
+    "full_name_en": "Yen Son Township",
+    "type": "thị trấn",
+    "district_code": "075",
+    "codename": "yen_son"
+  },
+  {
+    "code": "02476",
+    "name": "Kim Quan",
+    "name_en": "Kim Quan",
+    "full_name": "Xã Kim Quan",
+    "full_name_en": "Kim Quan Commune",
+    "type": "xã",
+    "district_code": "075",
+    "codename": "kim_quan"
+  },
+  {
+    "code": "02479",
+    "name": "Lang Quán",
+    "name_en": "Lang Quan",
+    "full_name": "Xã Lang Quán",
+    "full_name_en": "Lang Quan Commune",
+    "type": "xã",
+    "district_code": "075",
+    "codename": "lang_quan"
+  },
+  {
+    "code": "02482",
+    "name": "Phú Thịnh",
+    "name_en": "Phu Thinh",
+    "full_name": "Xã Phú Thịnh",
+    "full_name_en": "Phu Thinh Commune",
+    "type": "xã",
+    "district_code": "075",
+    "codename": "phu_thinh"
+  },
+  {
+    "code": "02485",
+    "name": "Công Đa",
+    "name_en": "Cong Da",
+    "full_name": "Xã Công Đa",
+    "full_name_en": "Cong Da Commune",
+    "type": "xã",
+    "district_code": "075",
+    "codename": "cong_da"
+  },
+  {
+    "code": "02488",
+    "name": "Trung Môn",
+    "name_en": "Trung Mon",
+    "full_name": "Xã Trung Môn",
+    "full_name_en": "Trung Mon Commune",
+    "type": "xã",
+    "district_code": "075",
+    "codename": "trung_mon"
+  },
+  {
+    "code": "02491",
+    "name": "Chân Sơn",
+    "name_en": "Chan Son",
+    "full_name": "Xã Chân Sơn",
+    "full_name_en": "Chan Son Commune",
+    "type": "xã",
+    "district_code": "075",
+    "codename": "chan_son"
+  },
+  {
+    "code": "02494",
+    "name": "Thái Bình",
+    "name_en": "Thai Binh",
+    "full_name": "Xã Thái Bình",
+    "full_name_en": "Thai Binh Commune",
+    "type": "xã",
+    "district_code": "075",
+    "codename": "thai_binh"
+  },
+  {
+    "code": "02500",
+    "name": "Tiến Bộ",
+    "name_en": "Tien Bo",
+    "full_name": "Xã Tiến Bộ",
+    "full_name_en": "Tien Bo Commune",
+    "type": "xã",
+    "district_code": "075",
+    "codename": "tien_bo"
+  },
+  {
+    "code": "02506",
+    "name": "Mỹ Bằng",
+    "name_en": "My Bang",
+    "full_name": "Xã Mỹ Bằng",
+    "full_name_en": "My Bang Commune",
+    "type": "xã",
+    "district_code": "075",
+    "codename": "my_bang"
+  },
+  {
+    "code": "02518",
+    "name": "Hoàng Khai",
+    "name_en": "Hoang Khai",
+    "full_name": "Xã Hoàng Khai",
+    "full_name_en": "Hoang Khai Commune",
+    "type": "xã",
+    "district_code": "075",
+    "codename": "hoang_khai"
+  },
+  {
+    "code": "02527",
+    "name": "Nhữ Hán",
+    "name_en": "Nhu Han",
+    "full_name": "Xã Nhữ Hán",
+    "full_name_en": "Nhu Han Commune",
+    "type": "xã",
+    "district_code": "075",
+    "codename": "nhu_han"
+  },
+  {
+    "code": "02530",
+    "name": "Nhữ Khê",
+    "name_en": "Nhu Khe",
+    "full_name": "Xã Nhữ Khê",
+    "full_name_en": "Nhu Khe Commune",
+    "type": "xã",
+    "district_code": "075",
+    "codename": "nhu_khe"
+  },
+  {
+    "code": "02533",
+    "name": "Đội Bình",
+    "name_en": "Doi Binh",
+    "full_name": "Xã Đội Bình",
+    "full_name_en": "Doi Binh Commune",
+    "type": "xã",
+    "district_code": "075",
+    "codename": "doi_binh"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "code": "03646",
+    "name": "Chiềng Lề",
+    "name_en": "Chieng Le",
+    "full_name": "Phường Chiềng Lề",
+    "full_name_en": "Chieng Le Ward",
+    "type": "phường",
+    "district_code": "116",
+    "codename": "chieng_le"
+  },
+  {
+    "code": "03649",
+    "name": "Tô Hiệu",
+    "name_en": "To Hieu",
+    "full_name": "Phường Tô Hiệu",
+    "full_name_en": "To Hieu Ward",
+    "type": "phường",
+    "district_code": "116",
+    "codename": "to_hieu"
+  },
+  {
+    "code": "03652",
+    "name": "Quyết Thắng",
+    "name_en": "Quyet Thang",
+    "full_name": "Phường Quyết Thắng",
+    "full_name_en": "Quyet Thang Ward",
+    "type": "phường",
+    "district_code": "116",
+    "codename": "quyet_thang"
+  },
+  {
+    "code": "03655",
+    "name": "Quyết Tâm",
+    "name_en": "Quyet Tam",
+    "full_name": "Phường Quyết Tâm",
+    "full_name_en": "Quyet Tam Ward",
+    "type": "phường",
+    "district_code": "116",
+    "codename": "quyet_tam"
+  },
+  {
+    "code": "03658",
+    "name": "Chiềng Cọ",
+    "name_en": "Chieng Co",
+    "full_name": "Xã Chiềng Cọ",
+    "full_name_en": "Chieng Co Commune",
+    "type": "xã",
+    "district_code": "116",
+    "codename": "chieng_co"
+  },
+  {
+    "code": "03661",
+    "name": "Chiềng Đen",
+    "name_en": "Chieng Den",
+    "full_name": "Xã Chiềng Đen",
+    "full_name_en": "Chieng Den Commune",
+    "type": "xã",
+    "district_code": "116",
+    "codename": "chieng_den"
+  },
+  {
+    "code": "03664",
+    "name": "Chiềng Xôm",
+    "name_en": "Chieng Xom",
+    "full_name": "Xã Chiềng Xôm",
+    "full_name_en": "Chieng Xom Commune",
+    "type": "xã",
+    "district_code": "116",
+    "codename": "chieng_xom"
+  },
+  {
+    "code": "03667",
+    "name": "Chiềng An",
+    "name_en": "Chieng An",
+    "full_name": "Phường Chiềng An",
+    "full_name_en": "Chieng An Ward",
+    "type": "phường",
+    "district_code": "116",
+    "codename": "chieng_an"
+  },
+  {
+    "code": "03670",
+    "name": "Chiềng Cơi",
+    "name_en": "Chieng Coi",
+    "full_name": "Phường Chiềng Cơi",
+    "full_name_en": "Chieng Coi Ward",
+    "type": "phường",
+    "district_code": "116",
+    "codename": "chieng_coi"
+  },
+  {
+    "code": "03673",
+    "name": "Chiềng Ngần",
+    "name_en": "Chieng Ngan",
+    "full_name": "Xã Chiềng Ngần",
+    "full_name_en": "Chieng Ngan Commune",
+    "type": "xã",
+    "district_code": "116",
+    "codename": "chieng_ngan"
+  },
+  {
+    "code": "03676",
+    "name": "Hua La",
+    "name_en": "Hua La",
+    "full_name": "Xã Hua La",
+    "full_name_en": "Hua La Commune",
+    "type": "xã",
+    "district_code": "116",
+    "codename": "hua_la"
+  },
+  {
+    "code": "03679",
+    "name": "Chiềng Sinh",
+    "name_en": "Chieng Sinh",
+    "full_name": "Phường Chiềng Sinh",
+    "full_name_en": "Chieng Sinh Ward",
+    "type": "phường",
+    "district_code": "116",
+    "codename": "chieng_sinh"
+  }
+]

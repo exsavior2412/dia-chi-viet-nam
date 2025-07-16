@@ -1,0 +1,212 @@
+[
+  {
+    "code": "14923",
+    "name": "Cành Nàng",
+    "name_en": "Canh Nang",
+    "full_name": "Thị trấn Cành Nàng",
+    "full_name_en": "Canh Nang Township",
+    "type": "thị trấn",
+    "district_code": "386",
+    "codename": "canh_nang"
+  },
+  {
+    "code": "14926",
+    "name": "Điền Thượng",
+    "name_en": "Dien Thuong",
+    "full_name": "Xã Điền Thượng",
+    "full_name_en": "Dien Thuong Commune",
+    "type": "xã",
+    "district_code": "386",
+    "codename": "dien_thuong"
+  },
+  {
+    "code": "14929",
+    "name": "Điền Hạ",
+    "name_en": "Dien Ha",
+    "full_name": "Xã Điền Hạ",
+    "full_name_en": "Dien Ha Commune",
+    "type": "xã",
+    "district_code": "386",
+    "codename": "dien_ha"
+  },
+  {
+    "code": "14932",
+    "name": "Điền Quang",
+    "name_en": "Dien Quang",
+    "full_name": "Xã Điền Quang",
+    "full_name_en": "Dien Quang Commune",
+    "type": "xã",
+    "district_code": "386",
+    "codename": "dien_quang"
+  },
+  {
+    "code": "14935",
+    "name": "Điền Trung",
+    "name_en": "Dien Trung",
+    "full_name": "Xã Điền Trung",
+    "full_name_en": "Dien Trung Commune",
+    "type": "xã",
+    "district_code": "386",
+    "codename": "dien_trung"
+  },
+  {
+    "code": "14938",
+    "name": "Thành Sơn",
+    "name_en": "Thanh Son",
+    "full_name": "Xã Thành Sơn",
+    "full_name_en": "Thanh Son Commune",
+    "type": "xã",
+    "district_code": "386",
+    "codename": "thanh_son"
+  },
+  {
+    "code": "14941",
+    "name": "Lương Ngoại",
+    "name_en": "Luong Ngoai",
+    "full_name": "Xã Lương Ngoại",
+    "full_name_en": "Luong Ngoai Commune",
+    "type": "xã",
+    "district_code": "386",
+    "codename": "luong_ngoai"
+  },
+  {
+    "code": "14944",
+    "name": "Ái Thượng",
+    "name_en": "Ai Thuong",
+    "full_name": "Xã Ái Thượng",
+    "full_name_en": "Ai Thuong Commune",
+    "type": "xã",
+    "district_code": "386",
+    "codename": "ai_thuong"
+  },
+  {
+    "code": "14947",
+    "name": "Lương Nội",
+    "name_en": "Luong Noi",
+    "full_name": "Xã Lương Nội",
+    "full_name_en": "Luong Noi Commune",
+    "type": "xã",
+    "district_code": "386",
+    "codename": "luong_noi"
+  },
+  {
+    "code": "14950",
+    "name": "Điền Lư",
+    "name_en": "Dien Lu",
+    "full_name": "Xã Điền Lư",
+    "full_name_en": "Dien Lu Commune",
+    "type": "xã",
+    "district_code": "386",
+    "codename": "dien_lu"
+  },
+  {
+    "code": "14953",
+    "name": "Lương Trung",
+    "name_en": "Luong Trung",
+    "full_name": "Xã Lương Trung",
+    "full_name_en": "Luong Trung Commune",
+    "type": "xã",
+    "district_code": "386",
+    "codename": "luong_trung"
+  },
+  {
+    "code": "14956",
+    "name": "Lũng Niêm",
+    "name_en": "Lung Niem",
+    "full_name": "Xã Lũng Niêm",
+    "full_name_en": "Lung Niem Commune",
+    "type": "xã",
+    "district_code": "386",
+    "codename": "lung_niem"
+  },
+  {
+    "code": "14959",
+    "name": "Lũng Cao",
+    "name_en": "Lung Cao",
+    "full_name": "Xã Lũng Cao",
+    "full_name_en": "Lung Cao Commune",
+    "type": "xã",
+    "district_code": "386",
+    "codename": "lung_cao"
+  },
+  {
+    "code": "14962",
+    "name": "Hạ Trung",
+    "name_en": "Ha Trung",
+    "full_name": "Xã Hạ Trung",
+    "full_name_en": "Ha Trung Commune",
+    "type": "xã",
+    "district_code": "386",
+    "codename": "ha_trung"
+  },
+  {
+    "code": "14965",
+    "name": "Cổ Lũng",
+    "name_en": "Co Lung",
+    "full_name": "Xã Cổ Lũng",
+    "full_name_en": "Co Lung Commune",
+    "type": "xã",
+    "district_code": "386",
+    "codename": "co_lung"
+  },
+  {
+    "code": "14968",
+    "name": "Thành Lâm",
+    "name_en": "Thanh Lam",
+    "full_name": "Xã Thành Lâm",
+    "full_name_en": "Thanh Lam Commune",
+    "type": "xã",
+    "district_code": "386",
+    "codename": "thanh_lam"
+  },
+  {
+    "code": "14971",
+    "name": "Ban Công",
+    "name_en": "Ban Cong",
+    "full_name": "Xã Ban Công",
+    "full_name_en": "Ban Cong Commune",
+    "type": "xã",
+    "district_code": "386",
+    "codename": "ban_cong"
+  },
+  {
+    "code": "14974",
+    "name": "Kỳ Tân",
+    "name_en": "Ky Tan",
+    "full_name": "Xã Kỳ Tân",
+    "full_name_en": "Ky Tan Commune",
+    "type": "xã",
+    "district_code": "386",
+    "codename": "ky_tan"
+  },
+  {
+    "code": "14977",
+    "name": "Văn Nho",
+    "name_en": "Van Nho",
+    "full_name": "Xã Văn Nho",
+    "full_name_en": "Van Nho Commune",
+    "type": "xã",
+    "district_code": "386",
+    "codename": "van_nho"
+  },
+  {
+    "code": "14980",
+    "name": "Thiết Ống",
+    "name_en": "Thiet Ong",
+    "full_name": "Xã Thiết Ống",
+    "full_name_en": "Thiet Ong Commune",
+    "type": "xã",
+    "district_code": "386",
+    "codename": "thiet_ong"
+  },
+  {
+    "code": "14986",
+    "name": "Thiết Kế",
+    "name_en": "Thiet Ke",
+    "full_name": "Xã Thiết Kế",
+    "full_name_en": "Thiet Ke Commune",
+    "type": "xã",
+    "district_code": "386",
+    "codename": "thiet_ke"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "code": "20335",
+    "name": "Tân Thạnh",
+    "name_en": "Tan Thanh",
+    "full_name": "Phường Tân Thạnh",
+    "full_name_en": "Tan Thanh Ward",
+    "type": "phường",
+    "district_code": "502",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "20341",
+    "name": "An Mỹ",
+    "name_en": "An My",
+    "full_name": "Phường An Mỹ",
+    "full_name_en": "An My Ward",
+    "type": "phường",
+    "district_code": "502",
+    "codename": "an_my"
+  },
+  {
+    "code": "20344",
+    "name": "Hòa Hương",
+    "name_en": "Hoa Huong",
+    "full_name": "Phường Hòa Hương",
+    "full_name_en": "Hoa Huong Ward",
+    "type": "phường",
+    "district_code": "502",
+    "codename": "hoa_huong"
+  },
+  {
+    "code": "20347",
+    "name": "An Xuân",
+    "name_en": "An Xuan",
+    "full_name": "Phường An Xuân",
+    "full_name_en": "An Xuan Ward",
+    "type": "phường",
+    "district_code": "502",
+    "codename": "an_xuan"
+  },
+  {
+    "code": "20350",
+    "name": "An Sơn",
+    "name_en": "An Son",
+    "full_name": "Phường An Sơn",
+    "full_name_en": "An Son Ward",
+    "type": "phường",
+    "district_code": "502",
+    "codename": "an_son"
+  },
+  {
+    "code": "20353",
+    "name": "Trường Xuân",
+    "name_en": "Truong Xuan",
+    "full_name": "Phường Trường Xuân",
+    "full_name_en": "Truong Xuan Ward",
+    "type": "phường",
+    "district_code": "502",
+    "codename": "truong_xuan"
+  },
+  {
+    "code": "20356",
+    "name": "An Phú",
+    "name_en": "An Phu",
+    "full_name": "Phường An Phú",
+    "full_name_en": "An Phu Ward",
+    "type": "phường",
+    "district_code": "502",
+    "codename": "an_phu"
+  },
+  {
+    "code": "20359",
+    "name": "Tam Thanh",
+    "name_en": "Tam Thanh",
+    "full_name": "Xã Tam Thanh",
+    "full_name_en": "Tam Thanh Commune",
+    "type": "xã",
+    "district_code": "502",
+    "codename": "tam_thanh"
+  },
+  {
+    "code": "20362",
+    "name": "Tam Thăng",
+    "name_en": "Tam Thang",
+    "full_name": "Xã Tam Thăng",
+    "full_name_en": "Tam Thang Commune",
+    "type": "xã",
+    "district_code": "502",
+    "codename": "tam_thang"
+  },
+  {
+    "code": "20371",
+    "name": "Tam Phú",
+    "name_en": "Tam Phu",
+    "full_name": "Xã Tam Phú",
+    "full_name_en": "Tam Phu Commune",
+    "type": "xã",
+    "district_code": "502",
+    "codename": "tam_phu"
+  },
+  {
+    "code": "20375",
+    "name": "Hoà Thuận",
+    "name_en": "Hoa Thuan",
+    "full_name": "Phường Hoà Thuận",
+    "full_name_en": "Hoa Thuan Ward",
+    "type": "phường",
+    "district_code": "502",
+    "codename": "hoa_thuan"
+  },
+  {
+    "code": "20389",
+    "name": "Tam Ngọc",
+    "name_en": "Tam Ngoc",
+    "full_name": "Xã Tam Ngọc",
+    "full_name_en": "Tam Ngoc Commune",
+    "type": "xã",
+    "district_code": "502",
+    "codename": "tam_ngoc"
+  }
+]

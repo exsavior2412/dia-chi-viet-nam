@@ -1,0 +1,172 @@
+[
+  {
+    "code": "09163",
+    "name": "Vũ Ninh",
+    "name_en": "Vu Ninh",
+    "full_name": "Phường Vũ Ninh",
+    "full_name_en": "Vu Ninh Ward",
+    "type": "phường",
+    "district_code": "256",
+    "codename": "vu_ninh"
+  },
+  {
+    "code": "09166",
+    "name": "Đáp Cầu",
+    "name_en": "Dap Cau",
+    "full_name": "Phường Đáp Cầu",
+    "full_name_en": "Dap Cau Ward",
+    "type": "phường",
+    "district_code": "256",
+    "codename": "dap_cau"
+  },
+  {
+    "code": "09169",
+    "name": "Thị Cầu",
+    "name_en": "Thi Cau",
+    "full_name": "Phường Thị Cầu",
+    "full_name_en": "Thi Cau Ward",
+    "type": "phường",
+    "district_code": "256",
+    "codename": "thi_cau"
+  },
+  {
+    "code": "09172",
+    "name": "Kinh Bắc",
+    "name_en": "Kinh Bac",
+    "full_name": "Phường Kinh Bắc",
+    "full_name_en": "Kinh Bac Ward",
+    "type": "phường",
+    "district_code": "256",
+    "codename": "kinh_bac"
+  },
+  {
+    "code": "09181",
+    "name": "Đại Phúc",
+    "name_en": "Dai Phuc",
+    "full_name": "Phường Đại Phúc",
+    "full_name_en": "Dai Phuc Ward",
+    "type": "phường",
+    "district_code": "256",
+    "codename": "dai_phuc"
+  },
+  {
+    "code": "09184",
+    "name": "Tiền Ninh Vệ",
+    "name_en": "Tien Ninh Ve",
+    "full_name": "Phường Tiền Ninh Vệ",
+    "full_name_en": "Tien Ninh Ve Ward",
+    "type": "phường",
+    "district_code": "256",
+    "codename": "tien_ninh_ve"
+  },
+  {
+    "code": "09187",
+    "name": "Suối Hoa",
+    "name_en": "Suoi Hoa",
+    "full_name": "Phường Suối Hoa",
+    "full_name_en": "Suoi Hoa Ward",
+    "type": "phường",
+    "district_code": "256",
+    "codename": "suoi_hoa"
+  },
+  {
+    "code": "09190",
+    "name": "Võ Cường",
+    "name_en": "Vo Cuong",
+    "full_name": "Phường Võ Cường",
+    "full_name_en": "Vo Cuong Ward",
+    "type": "phường",
+    "district_code": "256",
+    "codename": "vo_cuong"
+  },
+  {
+    "code": "09214",
+    "name": "Hòa Long",
+    "name_en": "Hoa Long",
+    "full_name": "Phường Hòa Long",
+    "full_name_en": "Hoa Long Ward",
+    "type": "phường",
+    "district_code": "256",
+    "codename": "hoa_long"
+  },
+  {
+    "code": "09226",
+    "name": "Vạn An",
+    "name_en": "Van An",
+    "full_name": "Phường Vạn An",
+    "full_name_en": "Van An Ward",
+    "type": "phường",
+    "district_code": "256",
+    "codename": "van_an"
+  },
+  {
+    "code": "09235",
+    "name": "Khúc Xuyên",
+    "name_en": "Khuc Xuyen",
+    "full_name": "Phường Khúc Xuyên",
+    "full_name_en": "Khuc Xuyen Ward",
+    "type": "phường",
+    "district_code": "256",
+    "codename": "khuc_xuyen"
+  },
+  {
+    "code": "09244",
+    "name": "Phong Khê",
+    "name_en": "Phong Khe",
+    "full_name": "Phường Phong Khê",
+    "full_name_en": "Phong Khe Ward",
+    "type": "phường",
+    "district_code": "256",
+    "codename": "phong_khe"
+  },
+  {
+    "code": "09256",
+    "name": "Kim Chân",
+    "name_en": "Kim Chan",
+    "full_name": "Phường Kim Chân",
+    "full_name_en": "Kim Chan Ward",
+    "type": "phường",
+    "district_code": "256",
+    "codename": "kim_chan"
+  },
+  {
+    "code": "09271",
+    "name": "Vân Dương",
+    "name_en": "Van Duong",
+    "full_name": "Phường Vân Dương",
+    "full_name_en": "Van Duong Ward",
+    "type": "phường",
+    "district_code": "256",
+    "codename": "van_duong"
+  },
+  {
+    "code": "09286",
+    "name": "Nam Sơn",
+    "name_en": "Nam Son",
+    "full_name": "Phường Nam Sơn",
+    "full_name_en": "Nam Son Ward",
+    "type": "phường",
+    "district_code": "256",
+    "codename": "nam_son"
+  },
+  {
+    "code": "09325",
+    "name": "Khắc Niệm",
+    "name_en": "Khac Niem",
+    "full_name": "Phường Khắc Niệm",
+    "full_name_en": "Khac Niem Ward",
+    "type": "phường",
+    "district_code": "256",
+    "codename": "khac_niem"
+  },
+  {
+    "code": "09331",
+    "name": "Hạp Lĩnh",
+    "name_en": "Hap Linh",
+    "full_name": "Phường Hạp Lĩnh",
+    "full_name_en": "Hap Linh Ward",
+    "type": "phường",
+    "district_code": "256",
+    "codename": "hap_linh"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "code": "26425",
+    "name": "Gia Ray",
+    "name_en": "Gia Ray",
+    "full_name": "Thị trấn Gia Ray",
+    "full_name_en": "Gia Ray Township",
+    "type": "thị trấn",
+    "district_code": "741",
+    "codename": "gia_ray"
+  },
+  {
+    "code": "26428",
+    "name": "Xuân Bắc",
+    "name_en": "Xuan Bac",
+    "full_name": "Xã Xuân Bắc",
+    "full_name_en": "Xuan Bac Commune",
+    "type": "xã",
+    "district_code": "741",
+    "codename": "xuan_bac"
+  },
+  {
+    "code": "26431",
+    "name": "Suối Cao",
+    "name_en": "Suoi Cao",
+    "full_name": "Xã Suối Cao",
+    "full_name_en": "Suoi Cao Commune",
+    "type": "xã",
+    "district_code": "741",
+    "codename": "suoi_cao"
+  },
+  {
+    "code": "26434",
+    "name": "Xuân Thành",
+    "name_en": "Xuan Thanh",
+    "full_name": "Xã Xuân Thành",
+    "full_name_en": "Xuan Thanh Commune",
+    "type": "xã",
+    "district_code": "741",
+    "codename": "xuan_thanh"
+  },
+  {
+    "code": "26437",
+    "name": "Xuân Thọ",
+    "name_en": "Xuan Tho",
+    "full_name": "Xã Xuân Thọ",
+    "full_name_en": "Xuan Tho Commune",
+    "type": "xã",
+    "district_code": "741",
+    "codename": "xuan_tho"
+  },
+  {
+    "code": "26440",
+    "name": "Xuân Trường",
+    "name_en": "Xuan Truong",
+    "full_name": "Xã Xuân Trường",
+    "full_name_en": "Xuan Truong Commune",
+    "type": "xã",
+    "district_code": "741",
+    "codename": "xuan_truong"
+  },
+  {
+    "code": "26443",
+    "name": "Xuân Hòa",
+    "name_en": "Xuan Hoa",
+    "full_name": "Xã Xuân Hòa",
+    "full_name_en": "Xuan Hoa Commune",
+    "type": "xã",
+    "district_code": "741",
+    "codename": "xuan_hoa"
+  },
+  {
+    "code": "26446",
+    "name": "Xuân Hưng",
+    "name_en": "Xuan Hung",
+    "full_name": "Xã Xuân Hưng",
+    "full_name_en": "Xuan Hung Commune",
+    "type": "xã",
+    "district_code": "741",
+    "codename": "xuan_hung"
+  },
+  {
+    "code": "26449",
+    "name": "Xuân Tâm",
+    "name_en": "Xuan Tam",
+    "full_name": "Xã Xuân Tâm",
+    "full_name_en": "Xuan Tam Commune",
+    "type": "xã",
+    "district_code": "741",
+    "codename": "xuan_tam"
+  },
+  {
+    "code": "26452",
+    "name": "Suối Cát",
+    "name_en": "Suoi Cat",
+    "full_name": "Xã Suối Cát",
+    "full_name_en": "Suoi Cat Commune",
+    "type": "xã",
+    "district_code": "741",
+    "codename": "suoi_cat"
+  },
+  {
+    "code": "26455",
+    "name": "Xuân Hiệp",
+    "name_en": "Xuan Hiep",
+    "full_name": "Xã Xuân Hiệp",
+    "full_name_en": "Xuan Hiep Commune",
+    "type": "xã",
+    "district_code": "741",
+    "codename": "xuan_hiep"
+  },
+  {
+    "code": "26458",
+    "name": "Xuân Phú",
+    "name_en": "Xuan Phu",
+    "full_name": "Xã Xuân Phú",
+    "full_name_en": "Xuan Phu Commune",
+    "type": "xã",
+    "district_code": "741",
+    "codename": "xuan_phu"
+  },
+  {
+    "code": "26461",
+    "name": "Xuân Định",
+    "name_en": "Xuan Dinh",
+    "full_name": "Xã Xuân Định",
+    "full_name_en": "Xuan Dinh Commune",
+    "type": "xã",
+    "district_code": "741",
+    "codename": "xuan_dinh"
+  },
+  {
+    "code": "26464",
+    "name": "Bảo Hoà",
+    "name_en": "Bao Hoa",
+    "full_name": "Xã Bảo Hoà",
+    "full_name_en": "Bao Hoa Commune",
+    "type": "xã",
+    "district_code": "741",
+    "codename": "bao_hoa"
+  },
+  {
+    "code": "26467",
+    "name": "Lang Minh",
+    "name_en": "Lang Minh",
+    "full_name": "Xã Lang Minh",
+    "full_name_en": "Lang Minh Commune",
+    "type": "xã",
+    "district_code": "741",
+    "codename": "lang_minh"
+  }
+]

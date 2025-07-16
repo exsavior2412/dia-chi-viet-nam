@@ -1,0 +1,112 @@
+[
+  {
+    "code": "24814",
+    "name": "Lộc Phát",
+    "name_en": "Loc Phat",
+    "full_name": "Phường Lộc Phát",
+    "full_name_en": "Loc Phat Ward",
+    "type": "phường",
+    "district_code": "673",
+    "codename": "loc_phat"
+  },
+  {
+    "code": "24817",
+    "name": "Lộc Tiến",
+    "name_en": "Loc Tien",
+    "full_name": "Phường Lộc Tiến",
+    "full_name_en": "Loc Tien Ward",
+    "type": "phường",
+    "district_code": "673",
+    "codename": "loc_tien"
+  },
+  {
+    "code": "24820",
+    "name": "2",
+    "name_en": "2",
+    "full_name": "Phường 2",
+    "full_name_en": "Ward 2",
+    "type": "phường",
+    "district_code": "673",
+    "codename": "2"
+  },
+  {
+    "code": "24823",
+    "name": "1",
+    "name_en": "1",
+    "full_name": "Phường 1",
+    "full_name_en": "Ward 1",
+    "type": "phường",
+    "district_code": "673",
+    "codename": "1"
+  },
+  {
+    "code": "24826",
+    "name": "B'lao",
+    "name_en": "B'lao",
+    "full_name": "Phường B'lao",
+    "full_name_en": "B'lao Ward",
+    "type": "phường",
+    "district_code": "673",
+    "codename": "blao"
+  },
+  {
+    "code": "24829",
+    "name": "Lộc Sơn",
+    "name_en": "Loc Son",
+    "full_name": "Phường Lộc Sơn",
+    "full_name_en": "Loc Son Ward",
+    "type": "phường",
+    "district_code": "673",
+    "codename": "loc_son"
+  },
+  {
+    "code": "24832",
+    "name": "Đạm Bri",
+    "name_en": "Dam Bri",
+    "full_name": "Xã Đạm Bri",
+    "full_name_en": "Dam Bri Commune",
+    "type": "xã",
+    "district_code": "673",
+    "codename": "dam_bri"
+  },
+  {
+    "code": "24835",
+    "name": "Lộc Thanh",
+    "name_en": "Loc Thanh",
+    "full_name": "Xã Lộc Thanh",
+    "full_name_en": "Loc Thanh Commune",
+    "type": "xã",
+    "district_code": "673",
+    "codename": "loc_thanh"
+  },
+  {
+    "code": "24838",
+    "name": "Lộc Nga",
+    "name_en": "Loc Nga",
+    "full_name": "Xã Lộc Nga",
+    "full_name_en": "Loc Nga Commune",
+    "type": "xã",
+    "district_code": "673",
+    "codename": "loc_nga"
+  },
+  {
+    "code": "24841",
+    "name": "Lộc Châu",
+    "name_en": "Loc Chau",
+    "full_name": "Xã Lộc Châu",
+    "full_name_en": "Loc Chau Commune",
+    "type": "xã",
+    "district_code": "673",
+    "codename": "loc_chau"
+  },
+  {
+    "code": "24844",
+    "name": "Đại Lào",
+    "name_en": "Dai Lao",
+    "full_name": "Xã Đại Lào",
+    "full_name_en": "Dai Lao Commune",
+    "type": "xã",
+    "district_code": "673",
+    "codename": "dai_lao"
+  }
+]

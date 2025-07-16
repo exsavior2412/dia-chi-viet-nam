@@ -1,0 +1,172 @@
+[
+  {
+    "code": "13384",
+    "name": "Quế",
+    "name_en": "Que",
+    "full_name": "Phường Quế",
+    "full_name_en": "Que Ward",
+    "type": "phường",
+    "district_code": "350",
+    "codename": "que"
+  },
+  {
+    "code": "13387",
+    "name": "Nguyễn Úy",
+    "name_en": "Nguyen Uy",
+    "full_name": "Xã Nguyễn Úy",
+    "full_name_en": "Nguyen Uy Commune",
+    "type": "xã",
+    "district_code": "350",
+    "codename": "nguyen_uy"
+  },
+  {
+    "code": "13390",
+    "name": "Đại Cương",
+    "name_en": "Dai Cuong",
+    "full_name": "Phường Đại Cương",
+    "full_name_en": "Dai Cuong Ward",
+    "type": "phường",
+    "district_code": "350",
+    "codename": "dai_cuong"
+  },
+  {
+    "code": "13393",
+    "name": "Lê Hồ",
+    "name_en": "Le Ho",
+    "full_name": "Phường Lê Hồ",
+    "full_name_en": "Le Ho Ward",
+    "type": "phường",
+    "district_code": "350",
+    "codename": "le_ho"
+  },
+  {
+    "code": "13396",
+    "name": "Tượng Lĩnh",
+    "name_en": "Tuong Linh",
+    "full_name": "Phường Tượng Lĩnh",
+    "full_name_en": "Tuong Linh Ward",
+    "type": "phường",
+    "district_code": "350",
+    "codename": "tuong_linh"
+  },
+  {
+    "code": "13402",
+    "name": "Tân Tựu",
+    "name_en": "Tan Tuu",
+    "full_name": "Phường Tân Tựu",
+    "full_name_en": "Tan Tuu Ward",
+    "type": "phường",
+    "district_code": "350",
+    "codename": "tan_tuu"
+  },
+  {
+    "code": "13405",
+    "name": "Đồng Hóa",
+    "name_en": "Dong Hoa",
+    "full_name": "Phường Đồng Hóa",
+    "full_name_en": "Dong Hoa Ward",
+    "type": "phường",
+    "district_code": "350",
+    "codename": "dong_hoa"
+  },
+  {
+    "code": "13408",
+    "name": "Hoàng Tây",
+    "name_en": "Hoang Tay",
+    "full_name": "Xã Hoàng Tây",
+    "full_name_en": "Hoang Tay Commune",
+    "type": "xã",
+    "district_code": "350",
+    "codename": "hoang_tay"
+  },
+  {
+    "code": "13411",
+    "name": "Tân Sơn",
+    "name_en": "Tan Son",
+    "full_name": "Phường Tân Sơn",
+    "full_name_en": "Tan Son Ward",
+    "type": "phường",
+    "district_code": "350",
+    "codename": "tan_son"
+  },
+  {
+    "code": "13414",
+    "name": "Thụy Lôi",
+    "name_en": "Thuy Loi",
+    "full_name": "Xã Thụy Lôi",
+    "full_name_en": "Thuy Loi Commune",
+    "type": "xã",
+    "district_code": "350",
+    "codename": "thuy_loi"
+  },
+  {
+    "code": "13417",
+    "name": "Văn Xá",
+    "name_en": "Van Xa",
+    "full_name": "Xã Văn Xá",
+    "full_name_en": "Van Xa Commune",
+    "type": "xã",
+    "district_code": "350",
+    "codename": "van_xa"
+  },
+  {
+    "code": "13420",
+    "name": "Khả Phong",
+    "name_en": "Kha Phong",
+    "full_name": "Xã Khả Phong",
+    "full_name_en": "Kha Phong Commune",
+    "type": "xã",
+    "district_code": "350",
+    "codename": "kha_phong"
+  },
+  {
+    "code": "13423",
+    "name": "Ngọc Sơn",
+    "name_en": "Ngoc Son",
+    "full_name": "Phường Ngọc Sơn",
+    "full_name_en": "Ngoc Son Ward",
+    "type": "phường",
+    "district_code": "350",
+    "codename": "ngoc_son"
+  },
+  {
+    "code": "13429",
+    "name": "Ba Sao",
+    "name_en": "Ba Sao",
+    "full_name": "Phường Ba Sao",
+    "full_name_en": "Ba Sao Ward",
+    "type": "phường",
+    "district_code": "350",
+    "codename": "ba_sao"
+  },
+  {
+    "code": "13432",
+    "name": "Liên Sơn",
+    "name_en": "Lien Son",
+    "full_name": "Xã Liên Sơn",
+    "full_name_en": "Lien Son Commune",
+    "type": "xã",
+    "district_code": "350",
+    "codename": "lien_son"
+  },
+  {
+    "code": "13435",
+    "name": "Thi Sơn",
+    "name_en": "Thi Son",
+    "full_name": "Phường Thi Sơn",
+    "full_name_en": "Thi Son Ward",
+    "type": "phường",
+    "district_code": "350",
+    "codename": "thi_son"
+  },
+  {
+    "code": "13438",
+    "name": "Thanh Sơn",
+    "name_en": "Thanh Son",
+    "full_name": "Xã Thanh Sơn",
+    "full_name_en": "Thanh Son Commune",
+    "type": "xã",
+    "district_code": "350",
+    "codename": "thanh_son"
+  }
+]

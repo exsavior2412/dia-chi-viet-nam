@@ -1,0 +1,102 @@
+[
+  {
+    "code": "31783",
+    "name": "1",
+    "name_en": "1",
+    "full_name": "Phường 1",
+    "full_name_en": "Ward 1",
+    "type": "phường",
+    "district_code": "950",
+    "codename": "1"
+  },
+  {
+    "code": "31786",
+    "name": "Hòa Đông",
+    "name_en": "Hoa Dong",
+    "full_name": "Xã Hòa Đông",
+    "full_name_en": "Hoa Dong Commune",
+    "type": "xã",
+    "district_code": "950",
+    "codename": "hoa_dong"
+  },
+  {
+    "code": "31789",
+    "name": "Khánh Hòa",
+    "name_en": "Khanh Hoa",
+    "full_name": "Phường Khánh Hòa",
+    "full_name_en": "Khanh Hoa Ward",
+    "type": "phường",
+    "district_code": "950",
+    "codename": "khanh_hoa"
+  },
+  {
+    "code": "31792",
+    "name": "Vĩnh Hiệp",
+    "name_en": "Vinh Hiep",
+    "full_name": "Xã Vĩnh Hiệp",
+    "full_name_en": "Vinh Hiep Commune",
+    "type": "xã",
+    "district_code": "950",
+    "codename": "vinh_hiep"
+  },
+  {
+    "code": "31795",
+    "name": "Vĩnh Hải",
+    "name_en": "Vinh Hai",
+    "full_name": "Xã Vĩnh Hải",
+    "full_name_en": "Vinh Hai Commune",
+    "type": "xã",
+    "district_code": "950",
+    "codename": "vinh_hai"
+  },
+  {
+    "code": "31798",
+    "name": "Lạc Hòa",
+    "name_en": "Lac Hoa",
+    "full_name": "Xã Lạc Hòa",
+    "full_name_en": "Lac Hoa Commune",
+    "type": "xã",
+    "district_code": "950",
+    "codename": "lac_hoa"
+  },
+  {
+    "code": "31801",
+    "name": "2",
+    "name_en": "2",
+    "full_name": "Phường 2",
+    "full_name_en": "Ward 2",
+    "type": "phường",
+    "district_code": "950",
+    "codename": "2"
+  },
+  {
+    "code": "31804",
+    "name": "Vĩnh Phước",
+    "name_en": "Vinh Phuoc",
+    "full_name": "Phường Vĩnh Phước",
+    "full_name_en": "Vinh Phuoc Ward",
+    "type": "phường",
+    "district_code": "950",
+    "codename": "vinh_phuoc"
+  },
+  {
+    "code": "31807",
+    "name": "Vĩnh Tân",
+    "name_en": "Vinh Tan",
+    "full_name": "Xã Vĩnh Tân",
+    "full_name_en": "Vinh Tan Commune",
+    "type": "xã",
+    "district_code": "950",
+    "codename": "vinh_tan"
+  },
+  {
+    "code": "31810",
+    "name": "Lai Hòa",
+    "name_en": "Lai Hoa",
+    "full_name": "Xã Lai Hòa",
+    "full_name_en": "Lai Hoa Commune",
+    "type": "xã",
+    "district_code": "950",
+    "codename": "lai_hoa"
+  }
+]

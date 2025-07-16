@@ -1,0 +1,162 @@
+[
+  {
+    "code": "13441",
+    "name": "Kiện Khê",
+    "name_en": "Kien Khe",
+    "full_name": "Thị trấn Kiện Khê",
+    "full_name_en": "Kien Khe Township",
+    "type": "thị trấn",
+    "district_code": "351",
+    "codename": "kien_khe"
+  },
+  {
+    "code": "13450",
+    "name": "Liêm Phong",
+    "name_en": "Liem Phong",
+    "full_name": "Xã Liêm Phong",
+    "full_name_en": "Liem Phong Commune",
+    "type": "xã",
+    "district_code": "351",
+    "codename": "liem_phong"
+  },
+  {
+    "code": "13453",
+    "name": "Thanh Hà",
+    "name_en": "Thanh Ha",
+    "full_name": "Xã Thanh Hà",
+    "full_name_en": "Thanh Ha Commune",
+    "type": "xã",
+    "district_code": "351",
+    "codename": "thanh_ha"
+  },
+  {
+    "code": "13456",
+    "name": "Liêm Cần",
+    "name_en": "Liem Can",
+    "full_name": "Xã Liêm Cần",
+    "full_name_en": "Liem Can Commune",
+    "type": "xã",
+    "district_code": "351",
+    "codename": "liem_can"
+  },
+  {
+    "code": "13465",
+    "name": "Liêm Thuận",
+    "name_en": "Liem Thuan",
+    "full_name": "Xã Liêm Thuận",
+    "full_name_en": "Liem Thuan Commune",
+    "type": "xã",
+    "district_code": "351",
+    "codename": "liem_thuan"
+  },
+  {
+    "code": "13468",
+    "name": "Thanh Thủy",
+    "name_en": "Thanh Thuy",
+    "full_name": "Xã Thanh Thủy",
+    "full_name_en": "Thanh Thuy Commune",
+    "type": "xã",
+    "district_code": "351",
+    "codename": "thanh_thuy"
+  },
+  {
+    "code": "13471",
+    "name": "Thanh Phong",
+    "name_en": "Thanh Phong",
+    "full_name": "Xã Thanh Phong",
+    "full_name_en": "Thanh Phong Commune",
+    "type": "xã",
+    "district_code": "351",
+    "codename": "thanh_phong"
+  },
+  {
+    "code": "13474",
+    "name": "Tân Thanh",
+    "name_en": "Tan Thanh",
+    "full_name": "Thị trấn Tân Thanh",
+    "full_name_en": "Tan Thanh Township",
+    "type": "thị trấn",
+    "district_code": "351",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "13477",
+    "name": "Thanh Tân",
+    "name_en": "Thanh Tan",
+    "full_name": "Xã Thanh Tân",
+    "full_name_en": "Thanh Tan Commune",
+    "type": "xã",
+    "district_code": "351",
+    "codename": "thanh_tan"
+  },
+  {
+    "code": "13480",
+    "name": "Liêm Túc",
+    "name_en": "Liem Tuc",
+    "full_name": "Xã Liêm Túc",
+    "full_name_en": "Liem Tuc Commune",
+    "type": "xã",
+    "district_code": "351",
+    "codename": "liem_tuc"
+  },
+  {
+    "code": "13483",
+    "name": "Liêm Sơn",
+    "name_en": "Liem Son",
+    "full_name": "Xã Liêm Sơn",
+    "full_name_en": "Liem Son Commune",
+    "type": "xã",
+    "district_code": "351",
+    "codename": "liem_son"
+  },
+  {
+    "code": "13486",
+    "name": "Thanh Hương",
+    "name_en": "Thanh Huong",
+    "full_name": "Xã Thanh Hương",
+    "full_name_en": "Thanh Huong Commune",
+    "type": "xã",
+    "district_code": "351",
+    "codename": "thanh_huong"
+  },
+  {
+    "code": "13489",
+    "name": "Thanh Nghị",
+    "name_en": "Thanh Nghi",
+    "full_name": "Xã Thanh Nghị",
+    "full_name_en": "Thanh Nghi Commune",
+    "type": "xã",
+    "district_code": "351",
+    "codename": "thanh_nghi"
+  },
+  {
+    "code": "13492",
+    "name": "Thanh Tâm",
+    "name_en": "Thanh Tam",
+    "full_name": "Xã Thanh Tâm",
+    "full_name_en": "Thanh Tam Commune",
+    "type": "xã",
+    "district_code": "351",
+    "codename": "thanh_tam"
+  },
+  {
+    "code": "13495",
+    "name": "Thanh Nguyên",
+    "name_en": "Thanh Nguyen",
+    "full_name": "Xã Thanh Nguyên",
+    "full_name_en": "Thanh Nguyen Commune",
+    "type": "xã",
+    "district_code": "351",
+    "codename": "thanh_nguyen"
+  },
+  {
+    "code": "13498",
+    "name": "Thanh Hải",
+    "name_en": "Thanh Hai",
+    "full_name": "Xã Thanh Hải",
+    "full_name_en": "Thanh Hai Commune",
+    "type": "xã",
+    "district_code": "351",
+    "codename": "thanh_hai"
+  }
+]

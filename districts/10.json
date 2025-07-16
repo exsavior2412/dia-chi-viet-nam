@@ -1,0 +1,92 @@
+[
+  {
+    "code": "080",
+    "name": "Lào Cai",
+    "name_en": "Lao Cai",
+    "full_name": "Thành phố Lào Cai",
+    "full_name_en": "Lao Cai City",
+    "type": "thành phố",
+    "province_code": "10",
+    "codename": "lao_cai"
+  },
+  {
+    "code": "082",
+    "name": "Bát Xát",
+    "name_en": "Bat Xat",
+    "full_name": "Huyện Bát Xát",
+    "full_name_en": "Bat Xat District",
+    "type": "huyện",
+    "province_code": "10",
+    "codename": "bat_xat"
+  },
+  {
+    "code": "083",
+    "name": "Mường Khương",
+    "name_en": "Muong Khuong",
+    "full_name": "Huyện Mường Khương",
+    "full_name_en": "Muong Khuong District",
+    "type": "huyện",
+    "province_code": "10",
+    "codename": "muong_khuong"
+  },
+  {
+    "code": "084",
+    "name": "Si Ma Cai",
+    "name_en": "Si Ma Cai",
+    "full_name": "Huyện Si Ma Cai",
+    "full_name_en": "Si Ma Cai District",
+    "type": "huyện",
+    "province_code": "10",
+    "codename": "si_ma_cai"
+  },
+  {
+    "code": "085",
+    "name": "Bắc Hà",
+    "name_en": "Bac Ha",
+    "full_name": "Huyện Bắc Hà",
+    "full_name_en": "Bac Ha District",
+    "type": "huyện",
+    "province_code": "10",
+    "codename": "bac_ha"
+  },
+  {
+    "code": "086",
+    "name": "Bảo Thắng",
+    "name_en": "Bao Thang",
+    "full_name": "Huyện Bảo Thắng",
+    "full_name_en": "Bao Thang District",
+    "type": "huyện",
+    "province_code": "10",
+    "codename": "bao_thang"
+  },
+  {
+    "code": "087",
+    "name": "Bảo Yên",
+    "name_en": "Bao Yen",
+    "full_name": "Huyện Bảo Yên",
+    "full_name_en": "Bao Yen District",
+    "type": "huyện",
+    "province_code": "10",
+    "codename": "bao_yen"
+  },
+  {
+    "code": "088",
+    "name": "Sa Pa",
+    "name_en": "Sa Pa",
+    "full_name": "Thị xã Sa Pa",
+    "full_name_en": "Sa Pa Town",
+    "type": "thị xã",
+    "province_code": "10",
+    "codename": "sa_pa"
+  },
+  {
+    "code": "089",
+    "name": "Văn Bàn",
+    "name_en": "Van Ban",
+    "full_name": "Huyện Văn Bàn",
+    "full_name_en": "Van Ban District",
+    "type": "huyện",
+    "province_code": "10",
+    "codename": "van_ban"
+  }
+]

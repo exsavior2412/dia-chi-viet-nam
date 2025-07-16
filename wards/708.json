@@ -1,0 +1,152 @@
+[
+  {
+    "code": "25585",
+    "name": "Châu Thành",
+    "name_en": "Chau Thanh",
+    "full_name": "Thị trấn Châu Thành",
+    "full_name_en": "Chau Thanh Township",
+    "type": "thị trấn",
+    "district_code": "708",
+    "codename": "chau_thanh"
+  },
+  {
+    "code": "25588",
+    "name": "Hảo Đước",
+    "name_en": "Hao Duoc",
+    "full_name": "Xã Hảo Đước",
+    "full_name_en": "Hao Duoc Commune",
+    "type": "xã",
+    "district_code": "708",
+    "codename": "hao_duoc"
+  },
+  {
+    "code": "25591",
+    "name": "Phước Vinh",
+    "name_en": "Phuoc Vinh",
+    "full_name": "Xã Phước Vinh",
+    "full_name_en": "Phuoc Vinh Commune",
+    "type": "xã",
+    "district_code": "708",
+    "codename": "phuoc_vinh"
+  },
+  {
+    "code": "25594",
+    "name": "Đồng Khởi",
+    "name_en": "Dong Khoi",
+    "full_name": "Xã Đồng Khởi",
+    "full_name_en": "Dong Khoi Commune",
+    "type": "xã",
+    "district_code": "708",
+    "codename": "dong_khoi"
+  },
+  {
+    "code": "25597",
+    "name": "Thái Bình",
+    "name_en": "Thai Binh",
+    "full_name": "Xã Thái Bình",
+    "full_name_en": "Thai Binh Commune",
+    "type": "xã",
+    "district_code": "708",
+    "codename": "thai_binh"
+  },
+  {
+    "code": "25600",
+    "name": "An Cơ",
+    "name_en": "An Co",
+    "full_name": "Xã An Cơ",
+    "full_name_en": "An Co Commune",
+    "type": "xã",
+    "district_code": "708",
+    "codename": "an_co"
+  },
+  {
+    "code": "25603",
+    "name": "Biên Giới",
+    "name_en": "Bien Gioi",
+    "full_name": "Xã Biên Giới",
+    "full_name_en": "Bien Gioi Commune",
+    "type": "xã",
+    "district_code": "708",
+    "codename": "bien_gioi"
+  },
+  {
+    "code": "25606",
+    "name": "Hòa Thạnh",
+    "name_en": "Hoa Thanh",
+    "full_name": "Xã Hòa Thạnh",
+    "full_name_en": "Hoa Thanh Commune",
+    "type": "xã",
+    "district_code": "708",
+    "codename": "hoa_thanh"
+  },
+  {
+    "code": "25609",
+    "name": "Trí Bình",
+    "name_en": "Tri Binh",
+    "full_name": "Xã Trí Bình",
+    "full_name_en": "Tri Binh Commune",
+    "type": "xã",
+    "district_code": "708",
+    "codename": "tri_binh"
+  },
+  {
+    "code": "25612",
+    "name": "Hòa Hội",
+    "name_en": "Hoa Hoi",
+    "full_name": "Xã Hòa Hội",
+    "full_name_en": "Hoa Hoi Commune",
+    "type": "xã",
+    "district_code": "708",
+    "codename": "hoa_hoi"
+  },
+  {
+    "code": "25615",
+    "name": "An Bình",
+    "name_en": "An Binh",
+    "full_name": "Xã An Bình",
+    "full_name_en": "An Binh Commune",
+    "type": "xã",
+    "district_code": "708",
+    "codename": "an_binh"
+  },
+  {
+    "code": "25618",
+    "name": "Thanh Điền",
+    "name_en": "Thanh Dien",
+    "full_name": "Xã Thanh Điền",
+    "full_name_en": "Thanh Dien Commune",
+    "type": "xã",
+    "district_code": "708",
+    "codename": "thanh_dien"
+  },
+  {
+    "code": "25621",
+    "name": "Thành Long",
+    "name_en": "Thanh Long",
+    "full_name": "Xã Thành Long",
+    "full_name_en": "Thanh Long Commune",
+    "type": "xã",
+    "district_code": "708",
+    "codename": "thanh_long"
+  },
+  {
+    "code": "25624",
+    "name": "Ninh Điền",
+    "name_en": "Ninh Dien",
+    "full_name": "Xã Ninh Điền",
+    "full_name_en": "Ninh Dien Commune",
+    "type": "xã",
+    "district_code": "708",
+    "codename": "ninh_dien"
+  },
+  {
+    "code": "25627",
+    "name": "Long Vĩnh",
+    "name_en": "Long Vinh",
+    "full_name": "Xã Long Vĩnh",
+    "full_name_en": "Long Vinh Commune",
+    "type": "xã",
+    "district_code": "708",
+    "codename": "long_vinh"
+  }
+]

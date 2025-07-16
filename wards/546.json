@@ -1,0 +1,92 @@
+[
+  {
+    "code": "21786",
+    "name": "Vĩnh Thạnh",
+    "name_en": "Vinh Thanh",
+    "full_name": "Thị trấn Vĩnh Thạnh",
+    "full_name_en": "Vinh Thanh Township",
+    "type": "thị trấn",
+    "district_code": "546",
+    "codename": "vinh_thanh"
+  },
+  {
+    "code": "21787",
+    "name": "Vĩnh Sơn",
+    "name_en": "Vinh Son",
+    "full_name": "Xã Vĩnh Sơn",
+    "full_name_en": "Vinh Son Commune",
+    "type": "xã",
+    "district_code": "546",
+    "codename": "vinh_son"
+  },
+  {
+    "code": "21790",
+    "name": "Vĩnh Kim",
+    "name_en": "Vinh Kim",
+    "full_name": "Xã Vĩnh Kim",
+    "full_name_en": "Vinh Kim Commune",
+    "type": "xã",
+    "district_code": "546",
+    "codename": "vinh_kim"
+  },
+  {
+    "code": "21796",
+    "name": "Vĩnh Hiệp",
+    "name_en": "Vinh Hiep",
+    "full_name": "Xã Vĩnh Hiệp",
+    "full_name_en": "Vinh Hiep Commune",
+    "type": "xã",
+    "district_code": "546",
+    "codename": "vinh_hiep"
+  },
+  {
+    "code": "21799",
+    "name": "Vĩnh Hảo",
+    "name_en": "Vinh Hao",
+    "full_name": "Xã Vĩnh Hảo",
+    "full_name_en": "Vinh Hao Commune",
+    "type": "xã",
+    "district_code": "546",
+    "codename": "vinh_hao"
+  },
+  {
+    "code": "21801",
+    "name": "Vĩnh Hòa",
+    "name_en": "Vinh Hoa",
+    "full_name": "Xã Vĩnh Hòa",
+    "full_name_en": "Vinh Hoa Commune",
+    "type": "xã",
+    "district_code": "546",
+    "codename": "vinh_hoa"
+  },
+  {
+    "code": "21802",
+    "name": "Vĩnh Thịnh",
+    "name_en": "Vinh Thinh",
+    "full_name": "Xã Vĩnh Thịnh",
+    "full_name_en": "Vinh Thinh Commune",
+    "type": "xã",
+    "district_code": "546",
+    "codename": "vinh_thinh"
+  },
+  {
+    "code": "21804",
+    "name": "Vĩnh Thuận",
+    "name_en": "Vinh Thuan",
+    "full_name": "Xã Vĩnh Thuận",
+    "full_name_en": "Vinh Thuan Commune",
+    "type": "xã",
+    "district_code": "546",
+    "codename": "vinh_thuan"
+  },
+  {
+    "code": "21805",
+    "name": "Vĩnh Quang",
+    "name_en": "Vinh Quang",
+    "full_name": "Xã Vĩnh Quang",
+    "full_name_en": "Vinh Quang Commune",
+    "type": "xã",
+    "district_code": "546",
+    "codename": "vinh_quang"
+  }
+]

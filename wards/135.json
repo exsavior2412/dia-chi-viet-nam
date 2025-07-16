@@ -1,0 +1,242 @@
+[
+  {
+    "code": "04303",
+    "name": "Yên Thế",
+    "name_en": "Yen The",
+    "full_name": "Thị trấn Yên Thế",
+    "full_name_en": "Yen The Township",
+    "type": "thị trấn",
+    "district_code": "135",
+    "codename": "yen_the"
+  },
+  {
+    "code": "04306",
+    "name": "Tân Phượng",
+    "name_en": "Tan Phuong",
+    "full_name": "Xã Tân Phượng",
+    "full_name_en": "Tan Phuong Commune",
+    "type": "xã",
+    "district_code": "135",
+    "codename": "tan_phuong"
+  },
+  {
+    "code": "04309",
+    "name": "Lâm Thượng",
+    "name_en": "Lam Thuong",
+    "full_name": "Xã Lâm Thượng",
+    "full_name_en": "Lam Thuong Commune",
+    "type": "xã",
+    "district_code": "135",
+    "codename": "lam_thuong"
+  },
+  {
+    "code": "04312",
+    "name": "Khánh Thiện",
+    "name_en": "Khanh Thien",
+    "full_name": "Xã Khánh Thiện",
+    "full_name_en": "Khanh Thien Commune",
+    "type": "xã",
+    "district_code": "135",
+    "codename": "khanh_thien"
+  },
+  {
+    "code": "04315",
+    "name": "Minh Chuẩn",
+    "name_en": "Minh Chuan",
+    "full_name": "Xã Minh Chuẩn",
+    "full_name_en": "Minh Chuan Commune",
+    "type": "xã",
+    "district_code": "135",
+    "codename": "minh_chuan"
+  },
+  {
+    "code": "04318",
+    "name": "Mai Sơn",
+    "name_en": "Mai Son",
+    "full_name": "Xã Mai Sơn",
+    "full_name_en": "Mai Son Commune",
+    "type": "xã",
+    "district_code": "135",
+    "codename": "mai_son"
+  },
+  {
+    "code": "04321",
+    "name": "Khai Trung",
+    "name_en": "Khai Trung",
+    "full_name": "Xã Khai Trung",
+    "full_name_en": "Khai Trung Commune",
+    "type": "xã",
+    "district_code": "135",
+    "codename": "khai_trung"
+  },
+  {
+    "code": "04324",
+    "name": "Mường Lai",
+    "name_en": "Muong Lai",
+    "full_name": "Xã Mường Lai",
+    "full_name_en": "Muong Lai Commune",
+    "type": "xã",
+    "district_code": "135",
+    "codename": "muong_lai"
+  },
+  {
+    "code": "04327",
+    "name": "An Lạc",
+    "name_en": "An Lac",
+    "full_name": "Xã An Lạc",
+    "full_name_en": "An Lac Commune",
+    "type": "xã",
+    "district_code": "135",
+    "codename": "an_lac"
+  },
+  {
+    "code": "04330",
+    "name": "Minh Xuân",
+    "name_en": "Minh Xuan",
+    "full_name": "Xã Minh Xuân",
+    "full_name_en": "Minh Xuan Commune",
+    "type": "xã",
+    "district_code": "135",
+    "codename": "minh_xuan"
+  },
+  {
+    "code": "04333",
+    "name": "Tô Mậu",
+    "name_en": "To Mau",
+    "full_name": "Xã Tô Mậu",
+    "full_name_en": "To Mau Commune",
+    "type": "xã",
+    "district_code": "135",
+    "codename": "to_mau"
+  },
+  {
+    "code": "04336",
+    "name": "Tân Lĩnh",
+    "name_en": "Tan Linh",
+    "full_name": "Xã Tân Lĩnh",
+    "full_name_en": "Tan Linh Commune",
+    "type": "xã",
+    "district_code": "135",
+    "codename": "tan_linh"
+  },
+  {
+    "code": "04339",
+    "name": "Yên Thắng",
+    "name_en": "Yen Thang",
+    "full_name": "Xã Yên Thắng",
+    "full_name_en": "Yen Thang Commune",
+    "type": "xã",
+    "district_code": "135",
+    "codename": "yen_thang"
+  },
+  {
+    "code": "04342",
+    "name": "Khánh Hoà",
+    "name_en": "Khanh Hoa",
+    "full_name": "Xã Khánh Hoà",
+    "full_name_en": "Khanh Hoa Commune",
+    "type": "xã",
+    "district_code": "135",
+    "codename": "khanh_hoa"
+  },
+  {
+    "code": "04345",
+    "name": "Vĩnh Lạc",
+    "name_en": "Vinh Lac",
+    "full_name": "Xã Vĩnh Lạc",
+    "full_name_en": "Vinh Lac Commune",
+    "type": "xã",
+    "district_code": "135",
+    "codename": "vinh_lac"
+  },
+  {
+    "code": "04348",
+    "name": "Liễu Đô",
+    "name_en": "Lieu Do",
+    "full_name": "Xã Liễu Đô",
+    "full_name_en": "Lieu Do Commune",
+    "type": "xã",
+    "district_code": "135",
+    "codename": "lieu_do"
+  },
+  {
+    "code": "04351",
+    "name": "Động Quan",
+    "name_en": "Dong Quan",
+    "full_name": "Xã Động Quan",
+    "full_name_en": "Dong Quan Commune",
+    "type": "xã",
+    "district_code": "135",
+    "codename": "dong_quan"
+  },
+  {
+    "code": "04354",
+    "name": "Tân Lập",
+    "name_en": "Tan Lap",
+    "full_name": "Xã Tân Lập",
+    "full_name_en": "Tan Lap Commune",
+    "type": "xã",
+    "district_code": "135",
+    "codename": "tan_lap"
+  },
+  {
+    "code": "04357",
+    "name": "Minh Tiến",
+    "name_en": "Minh Tien",
+    "full_name": "Xã Minh Tiến",
+    "full_name_en": "Minh Tien Commune",
+    "type": "xã",
+    "district_code": "135",
+    "codename": "minh_tien"
+  },
+  {
+    "code": "04360",
+    "name": "Trúc Lâu",
+    "name_en": "Truc Lau",
+    "full_name": "Xã Trúc Lâu",
+    "full_name_en": "Truc Lau Commune",
+    "type": "xã",
+    "district_code": "135",
+    "codename": "truc_lau"
+  },
+  {
+    "code": "04363",
+    "name": "Phúc Lợi",
+    "name_en": "Phuc Loi",
+    "full_name": "Xã Phúc Lợi",
+    "full_name_en": "Phuc Loi Commune",
+    "type": "xã",
+    "district_code": "135",
+    "codename": "phuc_loi"
+  },
+  {
+    "code": "04366",
+    "name": "Phan Thanh",
+    "name_en": "Phan Thanh",
+    "full_name": "Xã Phan Thanh",
+    "full_name_en": "Phan Thanh Commune",
+    "type": "xã",
+    "district_code": "135",
+    "codename": "phan_thanh"
+  },
+  {
+    "code": "04369",
+    "name": "An Phú",
+    "name_en": "An Phu",
+    "full_name": "Xã An Phú",
+    "full_name_en": "An Phu Commune",
+    "type": "xã",
+    "district_code": "135",
+    "codename": "an_phu"
+  },
+  {
+    "code": "04372",
+    "name": "Trung Tâm",
+    "name_en": "Trung Tam",
+    "full_name": "Xã Trung Tâm",
+    "full_name_en": "Trung Tam Commune",
+    "type": "xã",
+    "district_code": "135",
+    "codename": "trung_tam"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "code": "03124",
+    "name": "Noong Bua",
+    "name_en": "Noong Bua",
+    "full_name": "Phường Noong Bua",
+    "full_name_en": "Noong Bua Ward",
+    "type": "phường",
+    "district_code": "094",
+    "codename": "noong_bua"
+  },
+  {
+    "code": "03127",
+    "name": "Him Lam",
+    "name_en": "Him Lam",
+    "full_name": "Phường Him Lam",
+    "full_name_en": "Him Lam Ward",
+    "type": "phường",
+    "district_code": "094",
+    "codename": "him_lam"
+  },
+  {
+    "code": "03130",
+    "name": "Thanh Bình",
+    "name_en": "Thanh Binh",
+    "full_name": "Phường Thanh Bình",
+    "full_name_en": "Thanh Binh Ward",
+    "type": "phường",
+    "district_code": "094",
+    "codename": "thanh_binh"
+  },
+  {
+    "code": "03133",
+    "name": "Tân Thanh",
+    "name_en": "Tan Thanh",
+    "full_name": "Phường Tân Thanh",
+    "full_name_en": "Tan Thanh Ward",
+    "type": "phường",
+    "district_code": "094",
+    "codename": "tan_thanh"
+  },
+  {
+    "code": "03136",
+    "name": "Mường Thanh",
+    "name_en": "Muong Thanh",
+    "full_name": "Phường Mường Thanh",
+    "full_name_en": "Muong Thanh Ward",
+    "type": "phường",
+    "district_code": "094",
+    "codename": "muong_thanh"
+  },
+  {
+    "code": "03139",
+    "name": "Nam Thanh",
+    "name_en": "Nam Thanh",
+    "full_name": "Phường Nam Thanh",
+    "full_name_en": "Nam Thanh Ward",
+    "type": "phường",
+    "district_code": "094",
+    "codename": "nam_thanh"
+  },
+  {
+    "code": "03142",
+    "name": "Thanh Trường",
+    "name_en": "Thanh Truong",
+    "full_name": "Phường Thanh Trường",
+    "full_name_en": "Thanh Truong Ward",
+    "type": "phường",
+    "district_code": "094",
+    "codename": "thanh_truong"
+  },
+  {
+    "code": "03145",
+    "name": "Thanh Minh",
+    "name_en": "Thanh Minh",
+    "full_name": "Xã Thanh Minh",
+    "full_name_en": "Thanh Minh Commune",
+    "type": "xã",
+    "district_code": "094",
+    "codename": "thanh_minh"
+  },
+  {
+    "code": "03316",
+    "name": "Nà Tấu",
+    "name_en": "Na Tau",
+    "full_name": "Xã Nà Tấu",
+    "full_name_en": "Na Tau Commune",
+    "type": "xã",
+    "district_code": "094",
+    "codename": "na_tau"
+  },
+  {
+    "code": "03317",
+    "name": "Nà Nhạn",
+    "name_en": "Na Nhan",
+    "full_name": "Xã Nà Nhạn",
+    "full_name_en": "Na Nhan Commune",
+    "type": "xã",
+    "district_code": "094",
+    "codename": "na_nhan"
+  },
+  {
+    "code": "03325",
+    "name": "Mường Phăng",
+    "name_en": "Muong Phang",
+    "full_name": "Xã Mường Phăng",
+    "full_name_en": "Muong Phang Commune",
+    "type": "xã",
+    "district_code": "094",
+    "codename": "muong_phang"
+  },
+  {
+    "code": "03326",
+    "name": "Pá Khoang",
+    "name_en": "Pa Khoang",
+    "full_name": "Xã Pá Khoang",
+    "full_name_en": "Pa Khoang Commune",
+    "type": "xã",
+    "district_code": "094",
+    "codename": "pa_khoang"
+  }
+]

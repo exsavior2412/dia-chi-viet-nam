@@ -1,0 +1,112 @@
+[
+  {
+    "code": "29308",
+    "name": "Cầu Kè",
+    "name_en": "Cau Ke",
+    "full_name": "Thị trấn Cầu Kè",
+    "full_name_en": "Cau Ke Township",
+    "type": "thị trấn",
+    "district_code": "845",
+    "codename": "cau_ke"
+  },
+  {
+    "code": "29311",
+    "name": "Hòa Ân",
+    "name_en": "Hoa An",
+    "full_name": "Xã Hòa Ân",
+    "full_name_en": "Hoa An Commune",
+    "type": "xã",
+    "district_code": "845",
+    "codename": "hoa_an"
+  },
+  {
+    "code": "29314",
+    "name": "Châu Điền",
+    "name_en": "Chau Dien",
+    "full_name": "Xã Châu Điền",
+    "full_name_en": "Chau Dien Commune",
+    "type": "xã",
+    "district_code": "845",
+    "codename": "chau_dien"
+  },
+  {
+    "code": "29317",
+    "name": "An Phú Tân",
+    "name_en": "An Phu Tan",
+    "full_name": "Xã An Phú Tân",
+    "full_name_en": "An Phu Tan Commune",
+    "type": "xã",
+    "district_code": "845",
+    "codename": "an_phu_tan"
+  },
+  {
+    "code": "29320",
+    "name": "Hoà Tân",
+    "name_en": "Hoa Tan",
+    "full_name": "Xã Hoà Tân",
+    "full_name_en": "Hoa Tan Commune",
+    "type": "xã",
+    "district_code": "845",
+    "codename": "hoa_tan"
+  },
+  {
+    "code": "29323",
+    "name": "Ninh Thới",
+    "name_en": "Ninh Thoi",
+    "full_name": "Xã Ninh Thới",
+    "full_name_en": "Ninh Thoi Commune",
+    "type": "xã",
+    "district_code": "845",
+    "codename": "ninh_thoi"
+  },
+  {
+    "code": "29326",
+    "name": "Phong Phú",
+    "name_en": "Phong Phu",
+    "full_name": "Xã Phong Phú",
+    "full_name_en": "Phong Phu Commune",
+    "type": "xã",
+    "district_code": "845",
+    "codename": "phong_phu"
+  },
+  {
+    "code": "29329",
+    "name": "Phong Thạnh",
+    "name_en": "Phong Thanh",
+    "full_name": "Xã Phong Thạnh",
+    "full_name_en": "Phong Thanh Commune",
+    "type": "xã",
+    "district_code": "845",
+    "codename": "phong_thanh"
+  },
+  {
+    "code": "29332",
+    "name": "Tam Ngãi",
+    "name_en": "Tam Ngai",
+    "full_name": "Xã Tam Ngãi",
+    "full_name_en": "Tam Ngai Commune",
+    "type": "xã",
+    "district_code": "845",
+    "codename": "tam_ngai"
+  },
+  {
+    "code": "29335",
+    "name": "Thông Hòa",
+    "name_en": "Thong Hoa",
+    "full_name": "Xã Thông Hòa",
+    "full_name_en": "Thong Hoa Commune",
+    "type": "xã",
+    "district_code": "845",
+    "codename": "thong_hoa"
+  },
+  {
+    "code": "29338",
+    "name": "Thạnh Phú",
+    "name_en": "Thanh Phu",
+    "full_name": "Xã Thạnh Phú",
+    "full_name_en": "Thanh Phu Commune",
+    "type": "xã",
+    "district_code": "845",
+    "codename": "thanh_phu"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "code": "29182",
+    "name": "Thạnh Phú",
+    "name_en": "Thanh Phu",
+    "full_name": "Thị trấn Thạnh Phú",
+    "full_name_en": "Thanh Phu Township",
+    "type": "thị trấn",
+    "district_code": "837",
+    "codename": "thanh_phu"
+  },
+  {
+    "code": "29185",
+    "name": "Phú Khánh",
+    "name_en": "Phu Khanh",
+    "full_name": "Xã Phú Khánh",
+    "full_name_en": "Phu Khanh Commune",
+    "type": "xã",
+    "district_code": "837",
+    "codename": "phu_khanh"
+  },
+  {
+    "code": "29188",
+    "name": "Đại Điền",
+    "name_en": "Dai Dien",
+    "full_name": "Xã Đại Điền",
+    "full_name_en": "Dai Dien Commune",
+    "type": "xã",
+    "district_code": "837",
+    "codename": "dai_dien"
+  },
+  {
+    "code": "29191",
+    "name": "Quới Điền",
+    "name_en": "Quoi Dien",
+    "full_name": "Xã Quới Điền",
+    "full_name_en": "Quoi Dien Commune",
+    "type": "xã",
+    "district_code": "837",
+    "codename": "quoi_dien"
+  },
+  {
+    "code": "29194",
+    "name": "Tân Phong",
+    "name_en": "Tan Phong",
+    "full_name": "Xã Tân Phong",
+    "full_name_en": "Tan Phong Commune",
+    "type": "xã",
+    "district_code": "837",
+    "codename": "tan_phong"
+  },
+  {
+    "code": "29197",
+    "name": "Mỹ Hưng",
+    "name_en": "My Hung",
+    "full_name": "Xã Mỹ Hưng",
+    "full_name_en": "My Hung Commune",
+    "type": "xã",
+    "district_code": "837",
+    "codename": "my_hung"
+  },
+  {
+    "code": "29200",
+    "name": "An Thạnh",
+    "name_en": "An Thanh",
+    "full_name": "Xã An Thạnh",
+    "full_name_en": "An Thanh Commune",
+    "type": "xã",
+    "district_code": "837",
+    "codename": "an_thanh"
+  },
+  {
+    "code": "29203",
+    "name": "Thới Thạnh",
+    "name_en": "Thoi Thanh",
+    "full_name": "Xã Thới Thạnh",
+    "full_name_en": "Thoi Thanh Commune",
+    "type": "xã",
+    "district_code": "837",
+    "codename": "thoi_thanh"
+  },
+  {
+    "code": "29206",
+    "name": "Hòa Lợi",
+    "name_en": "Hoa Loi",
+    "full_name": "Xã Hòa Lợi",
+    "full_name_en": "Hoa Loi Commune",
+    "type": "xã",
+    "district_code": "837",
+    "codename": "hoa_loi"
+  },
+  {
+    "code": "29209",
+    "name": "An Điền",
+    "name_en": "An Dien",
+    "full_name": "Xã An Điền",
+    "full_name_en": "An Dien Commune",
+    "type": "xã",
+    "district_code": "837",
+    "codename": "an_dien"
+  },
+  {
+    "code": "29212",
+    "name": "Bình Thạnh",
+    "name_en": "Binh Thanh",
+    "full_name": "Xã Bình Thạnh",
+    "full_name_en": "Binh Thanh Commune",
+    "type": "xã",
+    "district_code": "837",
+    "codename": "binh_thanh"
+  },
+  {
+    "code": "29215",
+    "name": "An Thuận",
+    "name_en": "An Thuan",
+    "full_name": "Xã An Thuận",
+    "full_name_en": "An Thuan Commune",
+    "type": "xã",
+    "district_code": "837",
+    "codename": "an_thuan"
+  },
+  {
+    "code": "29218",
+    "name": "An Quy",
+    "name_en": "An Quy",
+    "full_name": "Xã An Quy",
+    "full_name_en": "An Quy Commune",
+    "type": "xã",
+    "district_code": "837",
+    "codename": "an_quy"
+  },
+  {
+    "code": "29221",
+    "name": "Thạnh Hải",
+    "name_en": "Thanh Hai",
+    "full_name": "Xã Thạnh Hải",
+    "full_name_en": "Thanh Hai Commune",
+    "type": "xã",
+    "district_code": "837",
+    "codename": "thanh_hai"
+  },
+  {
+    "code": "29224",
+    "name": "An Nhơn",
+    "name_en": "An Nhon",
+    "full_name": "Xã An Nhơn",
+    "full_name_en": "An Nhon Commune",
+    "type": "xã",
+    "district_code": "837",
+    "codename": "an_nhon"
+  },
+  {
+    "code": "29227",
+    "name": "Giao Thạnh",
+    "name_en": "Giao Thanh",
+    "full_name": "Xã Giao Thạnh",
+    "full_name_en": "Giao Thanh Commune",
+    "type": "xã",
+    "district_code": "837",
+    "codename": "giao_thanh"
+  },
+  {
+    "code": "29230",
+    "name": "Thạnh Phong",
+    "name_en": "Thanh Phong",
+    "full_name": "Xã Thạnh Phong",
+    "full_name_en": "Thanh Phong Commune",
+    "type": "xã",
+    "district_code": "837",
+    "codename": "thanh_phong"
+  },
+  {
+    "code": "29233",
+    "name": "Mỹ An",
+    "name_en": "My An",
+    "full_name": "Xã Mỹ An",
+    "full_name_en": "My An Commune",
+    "type": "xã",
+    "district_code": "837",
+    "codename": "my_an"
+  }
+]

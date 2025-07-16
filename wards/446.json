@@ -1,0 +1,212 @@
+[
+  {
+    "code": "18673",
+    "name": "Cẩm Xuyên",
+    "name_en": "Cam Xuyen",
+    "full_name": "Thị trấn Cẩm Xuyên",
+    "full_name_en": "Cam Xuyen Township",
+    "type": "thị trấn",
+    "district_code": "446",
+    "codename": "cam_xuyen"
+  },
+  {
+    "code": "18676",
+    "name": "Thiên Cầm",
+    "name_en": "Thien Cam",
+    "full_name": "Thị trấn Thiên Cầm",
+    "full_name_en": "Thien Cam Township",
+    "type": "thị trấn",
+    "district_code": "446",
+    "codename": "thien_cam"
+  },
+  {
+    "code": "18679",
+    "name": "Yên Hòa",
+    "name_en": "Yen Hoa",
+    "full_name": "Xã Yên Hòa",
+    "full_name_en": "Yen Hoa Commune",
+    "type": "xã",
+    "district_code": "446",
+    "codename": "yen_hoa"
+  },
+  {
+    "code": "18682",
+    "name": "Cẩm Dương",
+    "name_en": "Cam Duong",
+    "full_name": "Xã Cẩm Dương",
+    "full_name_en": "Cam Duong Commune",
+    "type": "xã",
+    "district_code": "446",
+    "codename": "cam_duong"
+  },
+  {
+    "code": "18694",
+    "name": "Cẩm Thành",
+    "name_en": "Cam Thanh",
+    "full_name": "Xã Cẩm Thành",
+    "full_name_en": "Cam Thanh Commune",
+    "type": "xã",
+    "district_code": "446",
+    "codename": "cam_thanh"
+  },
+  {
+    "code": "18697",
+    "name": "Cẩm Quang",
+    "name_en": "Cam Quang",
+    "full_name": "Xã Cẩm Quang",
+    "full_name_en": "Cam Quang Commune",
+    "type": "xã",
+    "district_code": "446",
+    "codename": "cam_quang"
+  },
+  {
+    "code": "18706",
+    "name": "Cẩm Thạch",
+    "name_en": "Cam Thach",
+    "full_name": "Xã Cẩm Thạch",
+    "full_name_en": "Cam Thach Commune",
+    "type": "xã",
+    "district_code": "446",
+    "codename": "cam_thach"
+  },
+  {
+    "code": "18709",
+    "name": "Cẩm Nhượng",
+    "name_en": "Cam Nhuong",
+    "full_name": "Xã Cẩm Nhượng",
+    "full_name_en": "Cam Nhuong Commune",
+    "type": "xã",
+    "district_code": "446",
+    "codename": "cam_nhuong"
+  },
+  {
+    "code": "18712",
+    "name": "Nam Phúc Thăng",
+    "name_en": "Nam Phuc Thang",
+    "full_name": "Xã Nam Phúc Thăng",
+    "full_name_en": "Nam Phuc Thang Commune",
+    "type": "xã",
+    "district_code": "446",
+    "codename": "nam_phuc_thang"
+  },
+  {
+    "code": "18715",
+    "name": "Cẩm Duệ",
+    "name_en": "Cam Due",
+    "full_name": "Xã Cẩm Duệ",
+    "full_name_en": "Cam Due Commune",
+    "type": "xã",
+    "district_code": "446",
+    "codename": "cam_due"
+  },
+  {
+    "code": "18721",
+    "name": "Cẩm Lĩnh",
+    "name_en": "Cam Linh",
+    "full_name": "Xã Cẩm Lĩnh",
+    "full_name_en": "Cam Linh Commune",
+    "type": "xã",
+    "district_code": "446",
+    "codename": "cam_linh"
+  },
+  {
+    "code": "18724",
+    "name": "Cẩm Quan",
+    "name_en": "Cam Quan",
+    "full_name": "Xã Cẩm Quan",
+    "full_name_en": "Cam Quan Commune",
+    "type": "xã",
+    "district_code": "446",
+    "codename": "cam_quan"
+  },
+  {
+    "code": "18727",
+    "name": "Cẩm Hà",
+    "name_en": "Cam Ha",
+    "full_name": "Xã Cẩm Hà",
+    "full_name_en": "Cam Ha Commune",
+    "type": "xã",
+    "district_code": "446",
+    "codename": "cam_ha"
+  },
+  {
+    "code": "18730",
+    "name": "Cẩm Lộc",
+    "name_en": "Cam Loc",
+    "full_name": "Xã Cẩm Lộc",
+    "full_name_en": "Cam Loc Commune",
+    "type": "xã",
+    "district_code": "446",
+    "codename": "cam_loc"
+  },
+  {
+    "code": "18733",
+    "name": "Cẩm Hưng",
+    "name_en": "Cam Hung",
+    "full_name": "Xã Cẩm Hưng",
+    "full_name_en": "Cam Hung Commune",
+    "type": "xã",
+    "district_code": "446",
+    "codename": "cam_hung"
+  },
+  {
+    "code": "18736",
+    "name": "Cẩm Thịnh",
+    "name_en": "Cam Thinh",
+    "full_name": "Xã Cẩm Thịnh",
+    "full_name_en": "Cam Thinh Commune",
+    "type": "xã",
+    "district_code": "446",
+    "codename": "cam_thinh"
+  },
+  {
+    "code": "18739",
+    "name": "Cẩm Mỹ",
+    "name_en": "Cam My",
+    "full_name": "Xã Cẩm Mỹ",
+    "full_name_en": "Cam My Commune",
+    "type": "xã",
+    "district_code": "446",
+    "codename": "cam_my"
+  },
+  {
+    "code": "18742",
+    "name": "Cẩm Trung",
+    "name_en": "Cam Trung",
+    "full_name": "Xã Cẩm Trung",
+    "full_name_en": "Cam Trung Commune",
+    "type": "xã",
+    "district_code": "446",
+    "codename": "cam_trung"
+  },
+  {
+    "code": "18745",
+    "name": "Cẩm Sơn",
+    "name_en": "Cam Son",
+    "full_name": "Xã Cẩm Sơn",
+    "full_name_en": "Cam Son Commune",
+    "type": "xã",
+    "district_code": "446",
+    "codename": "cam_son"
+  },
+  {
+    "code": "18748",
+    "name": "Cẩm Lạc",
+    "name_en": "Cam Lac",
+    "full_name": "Xã Cẩm Lạc",
+    "full_name_en": "Cam Lac Commune",
+    "type": "xã",
+    "district_code": "446",
+    "codename": "cam_lac"
+  },
+  {
+    "code": "18751",
+    "name": "Cẩm Minh",
+    "name_en": "Cam Minh",
+    "full_name": "Xã Cẩm Minh",
+    "full_name_en": "Cam Minh Commune",
+    "type": "xã",
+    "district_code": "446",
+    "codename": "cam_minh"
+  }
+]

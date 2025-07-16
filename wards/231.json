@@ -1,0 +1,202 @@
+[
+  {
+    "code": "08053",
+    "name": "Hạ Hoà",
+    "name_en": "Ha Hoa",
+    "full_name": "Thị trấn Hạ Hoà",
+    "full_name_en": "Ha Hoa Township",
+    "type": "thị trấn",
+    "district_code": "231",
+    "codename": "ha_hoa"
+  },
+  {
+    "code": "08056",
+    "name": "Đại Phạm",
+    "name_en": "Dai Pham",
+    "full_name": "Xã Đại Phạm",
+    "full_name_en": "Dai Pham Commune",
+    "type": "xã",
+    "district_code": "231",
+    "codename": "dai_pham"
+  },
+  {
+    "code": "08062",
+    "name": "Đan Thượng",
+    "name_en": "Dan Thuong",
+    "full_name": "Xã Đan Thượng",
+    "full_name_en": "Dan Thuong Commune",
+    "type": "xã",
+    "district_code": "231",
+    "codename": "dan_thuong"
+  },
+  {
+    "code": "08065",
+    "name": "Hà Lương",
+    "name_en": "Ha Luong",
+    "full_name": "Xã Hà Lương",
+    "full_name_en": "Ha Luong Commune",
+    "type": "xã",
+    "district_code": "231",
+    "codename": "ha_luong"
+  },
+  {
+    "code": "08071",
+    "name": "Tứ Hiệp",
+    "name_en": "Tu Hiep",
+    "full_name": "Xã Tứ Hiệp",
+    "full_name_en": "Tu Hiep Commune",
+    "type": "xã",
+    "district_code": "231",
+    "codename": "tu_hiep"
+  },
+  {
+    "code": "08080",
+    "name": "Hiền Lương",
+    "name_en": "Hien Luong",
+    "full_name": "Xã Hiền Lương",
+    "full_name_en": "Hien Luong Commune",
+    "type": "xã",
+    "district_code": "231",
+    "codename": "hien_luong"
+  },
+  {
+    "code": "08089",
+    "name": "Phương Viên",
+    "name_en": "Phuong Vien",
+    "full_name": "Xã Phương Viên",
+    "full_name_en": "Phuong Vien Commune",
+    "type": "xã",
+    "district_code": "231",
+    "codename": "phuong_vien"
+  },
+  {
+    "code": "08092",
+    "name": "Gia Điền",
+    "name_en": "Gia Dien",
+    "full_name": "Xã Gia Điền",
+    "full_name_en": "Gia Dien Commune",
+    "type": "xã",
+    "district_code": "231",
+    "codename": "gia_dien"
+  },
+  {
+    "code": "08095",
+    "name": "Ấm Hạ",
+    "name_en": "Am Ha",
+    "full_name": "Xã Ấm Hạ",
+    "full_name_en": "Am Ha Commune",
+    "type": "xã",
+    "district_code": "231",
+    "codename": "am_ha"
+  },
+  {
+    "code": "08104",
+    "name": "Hương Xạ",
+    "name_en": "Huong Xa",
+    "full_name": "Xã Hương Xạ",
+    "full_name_en": "Huong Xa Commune",
+    "type": "xã",
+    "district_code": "231",
+    "codename": "huong_xa"
+  },
+  {
+    "code": "08110",
+    "name": "Xuân Áng",
+    "name_en": "Xuan Ang",
+    "full_name": "Xã Xuân Áng",
+    "full_name_en": "Xuan Ang Commune",
+    "type": "xã",
+    "district_code": "231",
+    "codename": "xuan_ang"
+  },
+  {
+    "code": "08113",
+    "name": "Yên Kỳ",
+    "name_en": "Yen Ky",
+    "full_name": "Xã Yên Kỳ",
+    "full_name_en": "Yen Ky Commune",
+    "type": "xã",
+    "district_code": "231",
+    "codename": "yen_ky"
+  },
+  {
+    "code": "08119",
+    "name": "Minh Hạc",
+    "name_en": "Minh Hac",
+    "full_name": "Xã Minh Hạc",
+    "full_name_en": "Minh Hac Commune",
+    "type": "xã",
+    "district_code": "231",
+    "codename": "minh_hac"
+  },
+  {
+    "code": "08122",
+    "name": "Lang Sơn",
+    "name_en": "Lang Son",
+    "full_name": "Xã Lang Sơn",
+    "full_name_en": "Lang Son Commune",
+    "type": "xã",
+    "district_code": "231",
+    "codename": "lang_son"
+  },
+  {
+    "code": "08125",
+    "name": "Bằng Giã",
+    "name_en": "Bang Gia",
+    "full_name": "Xã Bằng Giã",
+    "full_name_en": "Bang Gia Commune",
+    "type": "xã",
+    "district_code": "231",
+    "codename": "bang_gia"
+  },
+  {
+    "code": "08128",
+    "name": "Yên Luật",
+    "name_en": "Yen Luat",
+    "full_name": "Xã Yên Luật",
+    "full_name_en": "Yen Luat Commune",
+    "type": "xã",
+    "district_code": "231",
+    "codename": "yen_luat"
+  },
+  {
+    "code": "08131",
+    "name": "Vô Tranh",
+    "name_en": "Vo Tranh",
+    "full_name": "Xã Vô Tranh",
+    "full_name_en": "Vo Tranh Commune",
+    "type": "xã",
+    "district_code": "231",
+    "codename": "vo_tranh"
+  },
+  {
+    "code": "08134",
+    "name": "Văn Lang",
+    "name_en": "Van Lang",
+    "full_name": "Xã Văn Lang",
+    "full_name_en": "Van Lang Commune",
+    "type": "xã",
+    "district_code": "231",
+    "codename": "van_lang"
+  },
+  {
+    "code": "08140",
+    "name": "Minh Côi",
+    "name_en": "Minh Coi",
+    "full_name": "Xã Minh Côi",
+    "full_name_en": "Minh Coi Commune",
+    "type": "xã",
+    "district_code": "231",
+    "codename": "minh_coi"
+  },
+  {
+    "code": "08143",
+    "name": "Vĩnh Chân",
+    "name_en": "Vinh Chan",
+    "full_name": "Xã Vĩnh Chân",
+    "full_name_en": "Vinh Chan Commune",
+    "type": "xã",
+    "district_code": "231",
+    "codename": "vinh_chan"
+  }
+]

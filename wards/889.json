@@ -1,0 +1,132 @@
+[
+  {
+    "code": "30463",
+    "name": "Cái Dầu",
+    "name_en": "Cai Dau",
+    "full_name": "Thị trấn Cái Dầu",
+    "full_name_en": "Cai Dau Township",
+    "type": "thị trấn",
+    "district_code": "889",
+    "codename": "cai_dau"
+  },
+  {
+    "code": "30466",
+    "name": "Khánh Hòa",
+    "name_en": "Khanh Hoa",
+    "full_name": "Xã Khánh Hòa",
+    "full_name_en": "Khanh Hoa Commune",
+    "type": "xã",
+    "district_code": "889",
+    "codename": "khanh_hoa"
+  },
+  {
+    "code": "30469",
+    "name": "Mỹ Đức",
+    "name_en": "My Duc",
+    "full_name": "Xã Mỹ Đức",
+    "full_name_en": "My Duc Commune",
+    "type": "xã",
+    "district_code": "889",
+    "codename": "my_duc"
+  },
+  {
+    "code": "30472",
+    "name": "Mỹ Phú",
+    "name_en": "My Phu",
+    "full_name": "Xã Mỹ Phú",
+    "full_name_en": "My Phu Commune",
+    "type": "xã",
+    "district_code": "889",
+    "codename": "my_phu"
+  },
+  {
+    "code": "30475",
+    "name": "Ô Long Vỹ",
+    "name_en": "O Long Vy",
+    "full_name": "Xã Ô Long Vỹ",
+    "full_name_en": "O Long Vy Commune",
+    "type": "xã",
+    "district_code": "889",
+    "codename": "o_long_vy"
+  },
+  {
+    "code": "30478",
+    "name": "Vĩnh Thạnh Trung",
+    "name_en": "Vinh Thanh Trung",
+    "full_name": "Thị trấn Vĩnh Thạnh Trung",
+    "full_name_en": "Vinh Thanh Trung Township",
+    "type": "thị trấn",
+    "district_code": "889",
+    "codename": "vinh_thanh_trung"
+  },
+  {
+    "code": "30481",
+    "name": "Thạnh Mỹ Tây",
+    "name_en": "Thanh My Tay",
+    "full_name": "Xã Thạnh Mỹ Tây",
+    "full_name_en": "Thanh My Tay Commune",
+    "type": "xã",
+    "district_code": "889",
+    "codename": "thanh_my_tay"
+  },
+  {
+    "code": "30484",
+    "name": "Bình Long",
+    "name_en": "Binh Long",
+    "full_name": "Xã Bình Long",
+    "full_name_en": "Binh Long Commune",
+    "type": "xã",
+    "district_code": "889",
+    "codename": "binh_long"
+  },
+  {
+    "code": "30487",
+    "name": "Bình Mỹ",
+    "name_en": "Binh My",
+    "full_name": "Xã Bình Mỹ",
+    "full_name_en": "Binh My Commune",
+    "type": "xã",
+    "district_code": "889",
+    "codename": "binh_my"
+  },
+  {
+    "code": "30490",
+    "name": "Bình Thủy",
+    "name_en": "Binh Thuy",
+    "full_name": "Xã Bình Thủy",
+    "full_name_en": "Binh Thuy Commune",
+    "type": "xã",
+    "district_code": "889",
+    "codename": "binh_thuy"
+  },
+  {
+    "code": "30493",
+    "name": "Đào Hữu Cảnh",
+    "name_en": "Dao Huu Canh",
+    "full_name": "Xã Đào Hữu Cảnh",
+    "full_name_en": "Dao Huu Canh Commune",
+    "type": "xã",
+    "district_code": "889",
+    "codename": "dao_huu_canh"
+  },
+  {
+    "code": "30496",
+    "name": "Bình Phú",
+    "name_en": "Binh Phu",
+    "full_name": "Xã Bình Phú",
+    "full_name_en": "Binh Phu Commune",
+    "type": "xã",
+    "district_code": "889",
+    "codename": "binh_phu"
+  },
+  {
+    "code": "30499",
+    "name": "Bình Chánh",
+    "name_en": "Binh Chanh",
+    "full_name": "Xã Bình Chánh",
+    "full_name_en": "Binh Chanh Commune",
+    "type": "xã",
+    "district_code": "889",
+    "codename": "binh_chanh"
+  }
+]

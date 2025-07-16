@@ -1,0 +1,62 @@
+[
+  {
+    "code": "31012",
+    "name": "Thạnh Yên",
+    "name_en": "Thanh Yen",
+    "full_name": "Xã Thạnh Yên",
+    "full_name_en": "Thanh Yen Commune",
+    "type": "xã",
+    "district_code": "913",
+    "codename": "thanh_yen"
+  },
+  {
+    "code": "31015",
+    "name": "Thạnh Yên A",
+    "name_en": "Thanh Yen A",
+    "full_name": "Xã Thạnh Yên A",
+    "full_name_en": "Thanh Yen A Commune",
+    "type": "xã",
+    "district_code": "913",
+    "codename": "thanh_yen_a"
+  },
+  {
+    "code": "31027",
+    "name": "An Minh Bắc",
+    "name_en": "An Minh Bac",
+    "full_name": "Xã An Minh Bắc",
+    "full_name_en": "An Minh Bac Commune",
+    "type": "xã",
+    "district_code": "913",
+    "codename": "an_minh_bac"
+  },
+  {
+    "code": "31054",
+    "name": "Vĩnh Hòa",
+    "name_en": "Vinh Hoa",
+    "full_name": "Xã Vĩnh Hòa",
+    "full_name_en": "Vinh Hoa Commune",
+    "type": "xã",
+    "district_code": "913",
+    "codename": "vinh_hoa"
+  },
+  {
+    "code": "31057",
+    "name": "Hoà Chánh",
+    "name_en": "Hoa Chanh",
+    "full_name": "Xã Hoà Chánh",
+    "full_name_en": "Hoa Chanh Commune",
+    "type": "xã",
+    "district_code": "913",
+    "codename": "hoa_chanh"
+  },
+  {
+    "code": "31066",
+    "name": "Minh Thuận",
+    "name_en": "Minh Thuan",
+    "full_name": "Xã Minh Thuận",
+    "full_name_en": "Minh Thuan Commune",
+    "type": "xã",
+    "district_code": "913",
+    "codename": "minh_thuan"
+  }
+]
