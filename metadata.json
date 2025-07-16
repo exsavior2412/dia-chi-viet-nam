@@ -2,7 +2,7 @@
   "total_provinces": 63,
   "total_districts": 696,
   "total_wards": 10035,
-  "last_updated": "2025-07-16T05:33:36.083Z",
+  "last_updated": "2024-07-16T05:33:13.126Z",
   "version": "2024.1",
   "source": "https://github.com/ThangLeQuoc/vietnamese-provinces-database",
   "format": "cdn_optimized",
@@ -11,6 +11,6 @@
     "districts": "districts/{province_code}.json",
     "wards": "wards/{district_code}.json"
   },
-  "cdn_base_url": "https://cdn.jsdelivr.net/gh/exsavior2412/my-vietnam-admin-cdn@main/",
-  "github_repo": "https://github.com/exsavior2412/my-vietnam-admin-cdn"
+  "cdn_base_url": "https://cdn.jsdelivr.net/gh/exsavior2412/dia-chi-viet-nam@main/",
+  "github_repo": "https://github.com/exsavior2412/dia-chi-viet-nam"
 }
