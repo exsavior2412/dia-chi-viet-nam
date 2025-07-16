@@ -2,6 +2,22 @@
 
 Dữ liệu đơn vị hành chính Việt Nam đầy đủ với **63 tỉnh thành**, **696 quận/huyện**, **10,035 phường/xã** - 100% miễn phí, nhanh chóng và ổn định.
 
+## 🚀 Quick Start
+
+```javascript
+// Lấy tất cả tỉnh thành
+const provinces = await fetch('https://cdn.jsdelivr.net/gh/exsavior2412/dia-chi-viet-nam@main/provinces.json')
+  .then(r => r.json());
+
+// Lấy quận/huyện của Hà Nội (code: 01)
+const districts = await fetch('https://cdn.jsdelivr.net/gh/exsavior2412/dia-chi-viet-nam@main/districts/01.json')
+  .then(r => r.json());
+
+// Lấy phường/xã của quận Ba Đình (code: 001)
+const wards = await fetch('https://cdn.jsdelivr.net/gh/exsavior2412/dia-chi-viet-nam@main/wards/001.json')
+  .then(r => r.json());
+```
+
 ## 📊 Thống kê dữ liệu
 
 - **63** tỉnh thành phố
@@ -10,33 +26,16 @@ Dữ liệu đơn vị hành chính Việt Nam đầy đủ với **63 tỉnh th
 - **Nguồn**: [vietnamese-provinces-database](https://github.com/ThangLeQuoc/vietnamese-provinces-database)
 - **Cập nhật**: Tháng 7/2024
 
-## 🚀 Sử dụng CDN
+## 🌐 CDN Endpoints
 
-### Lấy tất cả tỉnh thành
-```javascript
-const provinces = await fetch('https://cdn.jsdelivr.net/gh/exsavior2412/my-vietnam-admin-cdn@main/provinces.json')
-  .then(r => r.json());
+| Endpoint | Mô tả |
+|----------|-------|
+| `/provinces.json` | Tất cả 63 tỉnh thành |
+| `/districts/{province_code}.json` | Quận/huyện theo tỉnh |
+| `/wards/{district_code}.json` | Phường/xã theo quận/huyện |
+| `/metadata.json` | Thông tin metadata |
 
-console.log(`Có ${provinces.length} tỉnh thành`);
-```
-
-### Lấy quận/huyện theo tỉnh
-```javascript
-// Ví dụ: Lấy quận/huyện của Hà Nội (code: 01)
-const districts = await fetch('https://cdn.jsdelivr.net/gh/exsavior2412/my-vietnam-admin-cdn@main/districts/01.json')
-  .then(r => r.json());
-
-console.log(`Hà Nội có ${districts.length} quận/huyện`);
-```
-
-### Lấy phường/xã theo quận/huyện
-```javascript
-// Ví dụ: Lấy phường/xã của quận Ba Đình (code: 001)
-const wards = await fetch('https://cdn.jsdelivr.net/gh/exsavior2412/my-vietnam-admin-cdn@main/wards/001.json')
-  .then(r => r.json());
-
-console.log(`Ba Đình có ${wards.length} phường`);
-```
+**Base URL**: `https://cdn.jsdelivr.net/gh/exsavior2412/dia-chi-viet-nam@main/`
 
 ## 📋 Cấu trúc dữ liệu
 
@@ -81,16 +80,19 @@ console.log(`Ba Đình có ${wards.length} phường`);
 }
 ```
 
-## 🌐 CDN Endpoints
+## 📖 Hướng dẫn sử dụng
 
-| Endpoint | Mô tả |
-|----------|-------|
-| `/provinces.json` | Tất cả 63 tỉnh thành |
-| `/districts/{province_code}.json` | Quận/huyện theo tỉnh |
-| `/wards/{district_code}.json` | Phường/xã theo quận/huyện |
-| `/metadata.json` | Thông tin metadata |
+**👉 [Xem hướng dẫn chi tiết tại USAGE.md](./USAGE.md)**
 
-**Base URL**: `https://cdn.jsdelivr.net/gh/exsavior2412/my-vietnam-admin-cdn@main/`
+Hướng dẫn bao gồm:
+- ✅ **Vanilla JavaScript** - Cách tích hợp cơ bản
+- ✅ **React/Next.js** - Component address selector
+- ✅ **Vue.js** - Template và methods
+- ✅ **Node.js/Express** - Backend API với cache
+- ✅ **Python/FastAPI** - REST API endpoints
+- ✅ **Performance Tips** - Tối ưu tốc độ load
+- ✅ **Error Handling** - Xử lý lỗi
+- ✅ **Troubleshooting** - Giải quyết vấn đề
 
 ## 💻 Ví dụ hoàn chỉnh
 
@@ -103,7 +105,7 @@ const VietnamAddressSelector = () => {
   const [districts, setDistricts] = useState([]);
   const [wards, setWards] = useState([]);
 
-  const baseUrl = 'https://cdn.jsdelivr.net/gh/exsavior2412/my-vietnam-admin-cdn@main';
+  const baseUrl = 'https://cdn.jsdelivr.net/gh/exsavior2412/dia-chi-viet-nam@main';
 
   useEffect(() => {
     // Load provinces on component mount
@@ -164,71 +166,9 @@ const VietnamAddressSelector = () => {
 export default VietnamAddressSelector;
 ```
 
-### Vanilla JavaScript
-```javascript
-class VietnamAdmin {
-  constructor() {
-    this.baseUrl = 'https://cdn.jsdelivr.net/gh/exsavior2412/my-vietnam-admin-cdn@main';
-    this.cache = new Map();
-  }
-
-  async fetch(path) {
-    if (this.cache.has(path)) {
-      return this.cache.get(path);
-    }
-
-    const response = await fetch(`${this.baseUrl}${path}`);
-    const data = await response.json();
-    this.cache.set(path, data);
-    return data;
-  }
-
-  async getProvinces() {
-    return await this.fetch('/provinces.json');
-  }
-
-  async getDistricts(provinceCode) {
-    return await this.fetch(`/districts/${provinceCode}.json`);
-  }
-
-  async getWards(districtCode) {
-    return await this.fetch(`/wards/${districtCode}.json`);
-  }
-
-  async getFullAddress(provinceCode, districtCode, wardCode) {
-    const [provinces, districts, wards] = await Promise.all([
-      this.getProvinces(),
-      this.getDistricts(provinceCode),
-      this.getWards(districtCode)
-    ]);
-
-    const province = provinces.find(p => p.code === provinceCode);
-    const district = districts.find(d => d.code === districtCode);
-    const ward = wards.find(w => w.code === wardCode);
-
-    return `${ward?.full_name}, ${district?.full_name}, ${province?.full_name}`;
-  }
-}
-
-// Sử dụng
-const vietnamAdmin = new VietnamAdmin();
-
-// Demo
-(async () => {
-  const provinces = await vietnamAdmin.getProvinces();
-  console.log(`Loaded ${provinces.length} provinces`);
-  
-  const hanoiDistricts = await vietnamAdmin.getDistricts('01');
-  console.log(`Hanoi has ${hanoiDistricts.length} districts`);
-  
-  const fullAddress = await vietnamAdmin.getFullAddress('01', '001', '00001');
-  console.log(`Full address: ${fullAddress}`);
-})();
-```
-
 ## 🎯 Demo
 
-Xem demo trực tiếp tại: [GitHub Pages](https://exsavior2412.github.io/my-vietnam-admin-cdn/)
+Xem demo trực tiếp tại: [GitHub Pages](https://exsavior2412.github.io/dia-chi-viet-nam/)
 
 ## 🔥 Ưu điểm
 
@@ -267,12 +207,21 @@ Xem demo trực tiếp tại: [GitHub Pages](https://exsavior2412.github.io/my-v
 
 ## 🤝 Contributing
 
-Báo lỗi hoặc đóng góp tại [Issues](https://github.com/exsavior2412/my-vietnam-admin-cdn/issues)
+Báo lỗi hoặc đóng góp tại [Issues](https://github.com/exsavior2412/dia-chi-viet-nam/issues)
 
 ## 🔄 Updates
 
 Dữ liệu được cập nhật định kỳ từ nguồn chính thức. Phiên bản hiện tại: **2024.1**
 
+## 🔗 Links
+
+- **Demo:** https://exsavior2412.github.io/dia-chi-viet-nam/
+- **Hướng dẫn chi tiết:** [USAGE.md](./USAGE.md)
+- **JavaScript Client:** [vietnam-admin-client.js](./vietnam-admin-client.js)
+- **Demo local:** [DEMO-GUIDE.md](./DEMO-GUIDE.md)
+
 ---
 
 **Made with ❤️ by [exsavior2412](https://github.com/exsavior2412)** 
+
+**For Vietnamese Developer Community** 🇻🇳 
